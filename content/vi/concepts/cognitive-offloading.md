@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-04T17:25:00-05:00"
-updated: "2026-11-08T06:31:23-05:00"
+source_updated: "2026-11-16T09:06:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
@@ -20,8 +20,11 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
-
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
 > **Giảm tải nhận thức**: việc sử dụng các công cụ bên ngoài (bao gồm AI) để giảm nhu cầu nhận thức bên trong, chuyển công việc tinh thần từ người học sang hệ thống. Trong [[ai-education|AI trong giáo dục]], giảm tải nhận thức là cơ chế trung tâm mà qua đó các công cụ AI có thể hỗ trợ hoặc làm xói mòn việc học: việc giảm tải phù hợp giải phóng các nguồn lực nhận thức cho tư duy bậc cao, trong khi việc giảm tải quá mức bỏ qua những xử lý cần thiết cho việc học bền vững. **Phụ thuộc quá mức** là đầu có hại của phổ này: mô thức không năng suất trong đó việc giảm tải vượt từ hỗ trợ có chiến lược sang chỗ thay thế việc học.
@@ -103,11 +106,15 @@ Các bài viết của cơ sở kiến thức ghi nhận việc giảm tải nh�
 
 - **Điều một người được phép bàn giao phụ thuộc vào kinh nghiệm của họ với nhiệm vụ.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] làm cho thứ tự nhiệm vụ trở nên tương đối với từng người: điều là bậc cao với người mới lại là bậc thấp với người đã nắm quy trình, nên việc giảm tải được phép nên lớn dần theo kinh nghiệm và dừng lại ở phần cốt lõi của công việc.
 
+**Phép thử cấu thành có một nền tảng cấu trúc nhiệm vụ.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] định vị ranh giới giữa internet và GenAI trong thang SOLO của Biggs. Internet làm nhẹ các nhiệm vụ đa cấu trúc, nhưng người học vẫn phải tự xây những kết nối đưa bài làm lên mức quan hệ, trong khi GenAI tạo ra cấu trúc đó theo yêu cầu. Một khi sản phẩm không còn làm chứng cho tư duy quan hệ mà nhiệm vụ được thiết kế để khơi ra, đánh giá phải tính trọng số cho quá trình tạo ra nó.
+
 **Vốn nhận thức là kho dự trữ mà việc giảm tải rút cạn.** [[riva-cognitive-capital-generative-ai-review-2026|Riva và cộng sự (2026)]] định khung lại việc giảm tải như một sự thay đổi trong một kho dự trữ thay vì một hành vi. Vốn nhận thức là tri thức, năng lực và thực hành được tích lũy, có thể tái tạo và có thể cạn kiệt, được nắm giữ bởi cá nhân và bởi tổ chức, và được giữ tách khỏi năng lực của hệ thống người-AI để một lợi ích hiệu năng chung có thể hiện ra song song với một tổn thất năng lực con người. Bốn cơ chế của họ - thay thế thực hành, giàn giáo và phản hồi, hiệu chỉnh siêu nhận thức, và tổng hợp ở cấp tổ chức - tạo ra bảy nguyên tắc, trong đó có nguyên tắc rằng hiệu năng được hỗ trợ không phải là năng lực được giữ lại và rằng ủy thác một nhiệm vụ khác với ủy thác thực hành vốn xây dựng kỹ năng. Thống kê thúc đẩy là một đợt triển khai theo bậc cho 5,172 nhân viên hỗ trợ khách hàng, nơi một trợ lý nâng số vấn đề được giải quyết mỗi giờ lên 15%; con số đó mô tả hệ thống chung, và liệu các nhân viên còn có thể làm công việc đó mà không có trợ giúp hay không là một phép đo mà tài liệu được tổng quan không có.
 
 ### Khi việc giảm tải giảm thay vì tăng
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] báo cáo một thử nghiệm đăng ký trước (N = 317) trong đó người lớn học nội dung mới từ các bài tập giấy thông thường hoặc từ một trợ lý đa dụng bị giới hạn trong chính các bài tập đó. Điều kiện AI làm giảm việc giảm tải nhận thức được đo lường thay vì làm tăng nó (trung vị -0.27, khoảng tin cậy 95% -0.58 đến 0.04). Việc xử lý sâu vẫn giảm, nhưng qua một chuỗi trong đó việc giảm tải thấp hơn đi cùng [[critical-thinking|tư duy phản biện]] thấp hơn, đến lượt nó dự báo việc xử lý sâu yếu hơn (0.78). Sự mất tổ chức tăng 0.84 mà không có trung gian nào mang hiệu ứng. Phát hiện này là một lời cảnh báo cho cách lý giải chuẩn: việc giảm tải không phải tuyến duy nhất mà một môi trường [[generative-ai|AI]] làm xói mòn việc xử lý, và một điều kiện có thể để việc giảm tải nguyên vẹn trong khi đè nén chính điều mà việc giảm tải lẽ ra phải bảo vệ.
+
+- **Cách sắp xếp, chứ không phải số lượng, quyết định việc giảm tải có ích hay không.** Sinh viên đại học dùng GenAI bên trong các phiếu học tập thiết kế tư duy vẫn giữ việc định khung vấn đề, so sánh và sửa đổi ở phía người học báo cáo [[self-efficacy|tự hiệu quả]] sáng tạo cao hơn và sản phẩm được đánh giá tốt hơn so với sinh viên dùng cùng mô hình không ràng buộc ([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026]]).
 
 ### Ủy thác sự đồng cảm, không chỉ nhận thức
 
@@ -165,7 +172,6 @@ Cái thang mà trang này theo dõi có ba bậc, và chỉ hai bậc đầu thu
 
 **Quyền tiếp cận [[ai-feedback-quality|phản hồi của AI]] không phải là cùng một cách xử lý với việc tham gia vào nó, và các thước đo tải tách rời nhau.** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger và Liening (2026)]] thực hiện một nghiên cứu thực địa dọc năm tuần trong một trò chơi mô phỏng kinh doanh (**234 sinh viên, 1,147 quan sát hằng tuần**) và tách việc được giao khỏi việc được nhận. Chỉ việc cung cấp quyền tiếp cận phản hồi của AI hội thoại không làm thay đổi tải **ngoại lai** (β = 0.071, p = 0.481) cũng không làm thay đổi tải **có ích** (β = 0.019, p = 0.807). Nhưng những sinh viên **sử dụng nó thường xuyên** báo cáo **tải có ích cao hơn** một cách có ý nghĩa so với những người không dùng trong nhóm thực nghiệm (β = −0.468, p < 0.001) và so với nhóm đối chứng (β = −0.253, p = 0.028), trong khi **tải ngoại lai không bao giờ được giảm** bởi quyền tiếp cận hay bởi việc sử dụng (F(1, 219) = 0.499; theo mức sử dụng F(3, 214) = 0.172). Đó là mô thức thú vị về mặt lý thuyết và là điều ngược lại với tuyên bố thông thường: can thiệp khiến người học làm việc vất vả hơn với tài liệu mà không làm cho môi trường dễ hơn. Tải nội tại điều khiển tải ngoại lai (**β = 0.647, p < 0.001**) và tự điều chỉnh siêu nhận thức điều khiển tải có ích (**β = 0.363, p < 0.001**), với tải ngoại lai có liên hệ âm với tải có ích (β = −0.178, p < 0.001) đúng như CLT quy định. Cả hai loại tải cũng **giảm dần qua năm tuần** (ngoại lai β = −0.388, p < 0.001), một hiệu ứng tính mới hiện ra trên một thước đo nhận thức chứ không phải một thước đo tham gia.
 
-
 Lý thuyết tải nhận thức (Sweller) cung cấp một lăng kính lý thuyết còn gây tranh cãi về [[cognitive-psychology|trí nhớ làm việc]] và giảng dạy: tải nội tại (độ phức tạp của nhiệm vụ), tải ngoại lai (ma sát trong trình bày), và tải có ích (nỗ lực xây dựng lược đồ). AI được thiết kế tốt nên giảm tải ngoại lai trong khi bảo tồn việc xử lý có ích; AI được tích hợp kém làm giảm cả ba, để lại cho sinh viên những nhiệm vụ đã hoàn thành và việc học trống rỗng. Lưu ý rằng các tuyên bố của lý thuyết này còn gây tranh cãi trong văn học rộng hơn, nhưng cách định khung của nó vẫn có ảnh hưởng trong cách các hiệu ứng giảm tải được thảo luận.
 
 **Những hệ trọng ở cấp nghề nghiệp của việc giảm tải.** Khuôn khổ Cognitive Commons ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) mở rộng việc giảm tải từ cấp cá nhân lên cấp tập thể: khi AI cho phép những người lao động mới vào nghề bỏ qua sự vật lộn nhận thức vốn xây dựng chuyên môn sâu, nó có thể làm cạn kiệt kho chuyên môn chung của một nghề theo thời gian; "Dây ràng buộc Kiểm chứng" nghĩa là việc giám sát AI hiệu quả phụ thuộc vào chính sự thành thạo mà việc áp dụng AI có thể làm xói mòn. Điều này định khung lại việc giảm tải và sự phân rã kỹ năng ở cấp cá nhân thành một vấn đề tái sinh ở cấp hệ thống với những hệ quả về [[governance|quản trị]].
@@ -187,6 +193,12 @@ Cùng logic đó biến việc định hình phần thưởng thành một công
 **Sự phụ thuộc quá mức hiện ra như một thách thức được gọi tên xuyên các lĩnh vực, không phải một dị thường của một nghiên cứu.** Trong một tổng quan 66 nghiên cứu về AI sinh tạo trong [[inquiry-based-learning|học tập điều tra]], [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya và cộng sự (2026)]] phát hiện sự phụ thuộc quá mức hoặc giảm tải nhận thức được báo cáo trong 16 nghiên cứu (24.2%), sau sự thiếu chính xác ở 31.8%. Mô thức này được các nghiên cứu sơ cấp báo cáo chứ không được tổng quan đo lường, và các tác giả không đánh giá chất lượng nghiên cứu cũng không đánh giá thiên lệch báo cáo.
 
 **Cấu hình bỏ qua có một cái giá công dân mà các nghiên cứu việc học không tính.** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz và Castro Samayoa (2026)]] lập luận rằng việc cố ý ủy thác điều tra, phân tích, đánh giá và tổng hợp làm teo đi thực hành mà nền công dân dân chủ phụ thuộc vào. Quy tắc trình tự của họ là sự phân biệt bỏ qua/giàn giáo được phát biểu theo hướng phát triển: số học trước máy tính, quy ước trích dẫn trước trình quản lý tài liệu tham khảo, và một chatbot được giới thiệu sau khi kỹ năng đã có thay vì thay chỗ nó. Họ cũng gọi tên cách định khung khiến việc bỏ qua trở nên hấp dẫn, đó là tiền đề hiệu quả cho rằng mục đích của bài tập học đường là hoàn thành nhanh.
+
+Bằng chứng nhân quả mới hơn tách việc hoàn thành nhiệm vụ khỏi việc học nó. Trong một thực nghiệm 2×2 với 24 sinh viên đại học Canada, người mới bắt đầu có ChatGPT vượt 410.7 trên 500 bài kiểm tra được tạo sinh so với 80.7 khi không có, trong khi sinh viên trình độ trung cấp không thu được gì và làm tốt hơn với tài nguyên thông thường ([[chen-genai-programming-understanding-2026|Chen và cộng sự, 2026]]). Một nghiên cứu riêng trên 22 lập trình viên phát hiện GitHub Copilot tạo ra lợi thế hiệu năng 14.09 điểm và khối lượng công việc thấp hơn trong nhiệm vụ, mà không có lợi ích nào ở lần kiểm tra lại không hỗ trợ khoảng một tuần sau đó ([[gardella-copilot-fast-forgettable-2026|Gardella và cộng sự, 2026]]). Việc giảm tải có thể nâng đầu ra trong khi để nguyên năng lực tạo ra nó.
+
+Hai nghiên cứu gần đây cho việc giảm tải một bộ máy đo lường. Thang 35 mục của [[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrah và cộng sự]] biến quá trình thành sáu chiều có thể báo cáo — phụ thuộc quá mức, hiểu hời hợt, giảm kiểm chứng, trí nhớ yếu hơn, nỗ lực giảm và đánh giá phản biện giảm — được kiểm chứng trên 616 học sinh trung học. Khảo sát của [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharma, Manani và Thakwani]] trên sinh viên đại học phát hiện sự phụ thuộc ChatGPT gắn với chức năng điều hành kém hơn chủ yếu qua căng thẳng học tập, với đường trực tiếp giảm còn P = 0.328 khi căng thẳng vào mô hình. Cả hai thuộc về [[executive-function|chức năng điều hành]], thứ nắm giữ năng lực mà việc giảm tải được cho là chiếm chỗ.
+
+[[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri, Chatziioannou và Palaiologos (2026)]] khảo sát sự di cư của cấu trúc khái niệm này vào AI sinh tạo trong một tổng quan tường thuật không gộp gì và không báo cáo dữ liệu mới. Khung của họ chi phối phân tích: giảm tải là việc tái phân bổ nỗ lực, và câu hỏi là liệu nỗ lực được tái phân bổ có quay về thành việc học hay không. Điều thay đổi với AI sinh tạo là đối tượng — lập luận, tổng hợp và đánh giá thay vì tra cứu và số học — nên kết quả cũ rằng giảm tải dự báo khả năng ghi nhớ trì hoãn yếu hơn nay áp dụng cho công việc bậc cao. Tuyên bố thiết kế duy nhất của họ rất cụ thể: các prompt đòi hỏi biện minh hoặc đánh giá làm giảm việc giảm tải và cải thiện chất lượng lập luận, điều khiến thiết kế tương tác, chứ không phải năng lực mô hình, trở thành đòn bẩy.
 
 ## Những hiểu lầm phổ biến
 
@@ -216,16 +228,18 @@ Cùng logic đó biến việc định hình phần thưởng thành một công
 - [[cognitive-surrender]]
 
 - [[reflection]]
+- [[executive-function]]
 
 ## Bài viết liên quan
-- [[ai-proof-learning-cognitive-offloading-2026]] — Hỗ trợ hay thay thế lập luận của sinh viên? Việc giảm tải nhận thức trong học tập chứng minh có AI hỗ trợ (Chen và cộng sự 2026)
 
+- [[chen-genai-programming-understanding-2026]] — Lập trình viên mới bắt đầu và trung cấp: ChatGPT nâng số bài kiểm tra đạt từ 80.7 lên 410.7 trong khi sự hiểu không theo kịp (Chen và cộng sự, 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 người mới: lợi thế 14.09 điểm của Copilot không sống sót qua lần kiểm tra lại không hỗ trợ một tuần sau (Gardella và cộng sự, 2026)
 - [[riva-cognitive-capital-generative-ai-review-2026]] — Vốn nhận thức: việc giảm tải như một khoản rút từ kho dự trữ năng lực có thể tái tạo
 - [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Hiệu chỉnh sai xuyên chiều: sự trôi chảy vận hành bị đọc nhầm thành năng lực đánh giá và năng lực miền (tổng quan khái niệm)
 - [[akcaoglu-offloading-ladder-experience-2026]] — Cái thang Giảm tải: kinh nghiệm thay đổi điều người học và người thực hành nên bàn giao cho AI như thế nào (Akcaoglu 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Hỗ trợ hay thay thế lập luận của sinh viên? Việc giảm tải nhận thức trong học tập chứng minh có AI hỗ trợ (Chen và cộng sự 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Điều mà bài nộp không cho thấy: làm phức tạp hóa việc giảm tải nhận thức trong công việc toán học của sinh viên với LLM (Kontorovich & Wallach 2026)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Một đồng thuận của 30 chuyên gia trên 65 quá trình học tập: việc giảm tải ở cả hai đầu của trình tự học
-
 - [[shastry-gray-empathy-offloading-2026]] — Con người ủy thác sự đồng cảm khi họ nghĩ AI có thể cung cấp nó thay (Shastry & Gray 2026)
 - [[rented-self-decoupling-performance-becoming-2026]] — Cái tôi đi thuê: việc giảm tải làm mất cái tôi miền học thuật của người học, không chỉ mất kỹ năng
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Những nhóm khởi đầu giống nhau đã phân kỳ: 74.1% việc tiếp nhận mô hình ở một hồ sơ so với 80.8% giảm tải và bế tắc ở một hồ sơ khác (Kilinc và cộng sự 2026)
@@ -266,10 +280,13 @@ Cùng logic đó biến việc định hình phần thưởng thành một công
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Sự phụ thuộc GenAI như một điều kiện biên đối với khuynh hướng tư duy phản biện và khả năng được tuyển dụng tự nhận thức (Shojaei và cộng sự 2026)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Trẻ em cho thấy kết nối trán-đỉnh, mạng nổi bật và chú ý lưng yếu hơn người lớn khi nói chuyện với ChatGPT, ở mức điểm sáng tạo tương đương
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI và tư duy sáng tạo của trẻ em: sự phụ thuộc quá mức và sự phụ thuộc vào prompt trong một tổng quan theo phạm vi (Niu và cộng sự 2026)
-
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — Sự ngủ đông nhận thức: một thử nghiệm đăng ký trước trong đó các ái lực của AI làm giảm việc xử lý sâu và tăng sự mất tổ chức mà không tăng việc giảm tải (Braun 2026)
 - [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Sự phụ thuộc quá mức hoặc giảm tải nhận thức được nêu như một thách thức trong 16 của 66 nghiên cứu điều tra
 - [[fan-metacognitive-offloading-sync-model-2026]] — Các góc phần tư SYNC và vòng hiệu chỉnh: ủy thác bộ điều tiết, không chỉ công việc (Fan và cộng sự 2026)
 - [[zhang-usefulness-dependence-genai-2026]] — Từ "tính hữu ích" đến "sự phụ thuộc": cơ chế tiến hóa động của các hành vi sử dụng AI sinh tạo
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Rút bộ điều tiết làm tăng giảm tải và hạ chất lượng đầu ra
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Quy tắc trình tự áp dụng theo hướng phát triển: số học trước máy tính, trích dẫn trước trình quản lý tài liệu tham khảo
+- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Sáu chiều tự báo cáo của khó khăn học tập có AI làm trung gian
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Căng thẳng học tập làm trung gian cho mối liên hệ giữa phụ thuộc ChatGPT và rối loạn chức năng điều hành
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Giảm tải nhận thức trong kỷ nguyên AI sinh tạo: một tổng quan tường thuật nối giảm tải với trí nhớ, việc học và chức năng điều hành
+- [[ho-invariant-core-faculty-development-2027]] — Các mức SOLO giải thích vì sao GenAI có thể cung cấp sản phẩm ở mức quan hệ, nên đánh giá phải tính trọng số cho quá trình (Ho 2026)

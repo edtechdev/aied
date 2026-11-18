@@ -1,7 +1,7 @@
 ---
-title: 教育中的人工智能
+title: AI 教育
 created: "2026-09-22T14:35:06-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,10 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
-
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -57,21 +60,21 @@ ai_assist:
 
 ## 知识库的组织方式：总括页面
 
-本知识库的概念覆盖由若干**总括页面**支撑，它们把相关概念归入可导航的脉络。这些页面是探索这一领域的良好入口：
+本领域的概念覆盖由若干 **总括页面** 锚定，它们把相关概念组织成可导航的脉络。这些是探索该领域的好入口：
 
-- **教育中的人工智能**：即本页，这一领域的概览，也是通向全部内容的图谱。
-- **[[ai-literacy|人工智能素养]]**：理解、使用与批判性评价人工智能的总括页面，涵盖[[prompt-engineering|提示工程]]、[[critical-thinking|批判性思维]]、[[ethics|人工智能伦理]]与[[reducing-ai-misuse|负责任的使用]]。与之并列，[[human-ai-collaboration|人机协作]]与[[agentic-ai|智能体式 AI]]刻画了人与人工智能如何协同工作。
-- **[[pedagogy|教学法与教学策略]]**：关于“教学如何发生”的总括页面，即人工智能在其中运作的教学方法与策略（[[active-learning|主动学习]]、[[collaborative-learning|协作学习]]、[[project-based-learning|项目式学习]]、[[problem-based-learning|问题式学习]]、[[experiential-learning|体验式学习]]、[[game-based-learning|游戏化学习]]、[[socratic-method|苏格拉底式教学法]]、[[scaffolding|脚手架]]等），也包括[[online-teaching-and-learning|在线教学与学习]]这一独特情境。
-- **[[learning-theories|学习理论]]**：关于“学习如何发生”的总括页面，即塑造人工智能设计与评价的理论框架（[[behaviorism|行为主义]]、[[cognitive-psychology|认知主义]]、[[constructivist|建构主义]]、[[sociocultural-learning|社会文化取向]]、认知取向、[[motivation|动机取向]]）。
-- **[[ai-technologies|技术]]**：技术层的总括页面，即驱动 AIED 的人工智能系统（[[llm|大语言模型]]、[[generative-ai|生成式人工智能]]、[[multimodal|多模态]]、[[educational-robotics|机器人]]）与技术手段（[[rag|检索增强生成]]、[[prompt-engineering|提示工程]]、[[reinforcement-learning|强化学习]]、[[llm-training-and-fine-tuning|模型训练]]、[[agentic-ai|智能体式编排]]）。学习者建模这一族，包括[[knowledge-tracing|知识追踪]]、[[cognitive-diagnosis|认知诊断]]、[[simulating-students|模拟学生]]，以及消费这些模型输出的系统（[[intelligent-tutoring|智能导学]]、[[adaptive-learning|自适应学习]]、[[personalized-learning|个性化学习]]），在这一技术脉络中归入[[student-modeling|学习者建模与自适应教学]]这一总括页面。
-- **[[discipline-specific-aied|各学科中的人工智能]]**：关于人工智能如何应用于各个学科领域的总括页面（[[math-education|数学]]、[[physics-education|物理]]、[[language-learning|语言学习]]、[[cs-education|计算机科学]]、[[writing-education|写作]]、[[stem-education|STEM]]、[[engineering-education|工程]]、[[business-education|商科]]、[[teacher-education|教师教育]]、[[medical-education|医疗卫生专业]]等）；在学术科目之外，还包括那条以“展示出的实践”而非“正确性”为评价对象的专业与应用脉络（[[nursing-education|护理]]、[[information-technology|信息技术]]、[[vocational-education|职业教育与培训]]、[[design-education|设计教育]]），以及各教育层次（[[k-12|K-12]]、[[higher-ed|高等教育]]、[[adult-learning|成人学习]]）。
-- **[[assessment|评估]]**（含[[formative-assessment|形成性]]、[[summative-assessment|终结性]]、[[authentic-assessment|真实性]]、[[oral-assessment|口头]]与[[automated-assessment|自动化]]等支脉）：关于人工智能如何既评价学习者，又重塑评估效度与诚信的总括页面。
-- **[[feedback|反馈]]**：关于反馈如何生成、传递与使用的总括页面，包括反馈回路、[[ai-feedback-quality|反馈质量]]、[[feedback-literacy|反馈素养]]，以及它的各种评估情境（[[formative-assessment|形成性]]、[[peer-assessment|同伴]]、[[automated-assessment|自动化]]）。
-- **[[stakeholders|人工智能教育中的相关人群]]**：回答“行动者是谁”的总括页面，包括学习者、[[teacher-role|教师]]、[[learning-design|学习设计师]]、[[administrator|管理者]]与[[educational-policy-ai|政策制定者]]。
-- **[[ai-ed-evaluation|人工智能教育评价]]**与**[[research-methods-aied|研究方法]]**：回答“我们如何知道人工智能是否有效”的总括页面，包括效能研究、[[benchmark|基准测试]]、[[rct|随机对照试验]]、[[meta-analysis-systematic-review|元分析]]，以及作为核心结果指标的[[learning-gains|学习增益]]。读者还应权衡[[limitations-in-aied-research|这类证据普遍存在的局限]]。
-- **[[governance|人工智能治理]]**、**[[educational-policy-ai|教育人工智能政策]]**与**[[equity-in-ai-education|公平]]**：制度、监管与公正层面的总括页面（另见[[regulation|监管]]与[[privacy|隐私]]）。
+- **AI 教育** —— 本领域的总览与全部内容的导图。
+- **[[ai-literacy|AI 素养]]** —— 理解、使用与批判性评估 AI 的总括页面，横跨 [[prompt-engineering|提示工程]]、[[critical-thinking|批判性思维]]、[[ethics|AI 伦理]] 与 [[reducing-ai-misuse|负责任使用]]。与它并列，[[human-ai-collaboration|人—AI 协作]] 与 [[agentic-ai|智能体式 AI]] 框定了人与 AI 如何共同工作。
+- **[[pedagogy|教学法与教学策略]]** —— 教学如何发生的总括页面：AI 所运行于其中的教学方法与策略（[[active-learning|主动]]、[[collaborative-learning|协作]]、[[project-based-learning|项目式]]、[[problem-based-learning|问题式]]、[[experiential-learning|体验式]]、[[game-based-learning|游戏式]]、[[socratic-method|苏格拉底式]]、[[scaffolding|支架]] 等等），并包括 [[online-teaching-and-learning|在线教与学]] 这一独立情境。
+- **[[learning-theories|学习理论]]** —— 学习如何发生的总括页面：塑造 AI 设计与评价的理论框架（[[behaviorism|行为主义]]、[[cognitive-psychology|认知主义]]、[[constructivist|建构主义]]、[[sociocultural-learning|社会文化]]、认知的、[[motivation|动机的]]）。
+- **[[ai-technologies|技术]]** —— 技术层的总括页面：驱动 AIED 的 AI 系统（[[llm|大语言模型]]、[[generative-ai|生成式 AI]]、[[multimodal|多模态]]、[[educational-robotics|机器人]]）与方法（[[rag|RAG]]、[[prompt-engineering|提示工程]]、[[reinforcement-learning|强化学习]]、[[llm-training-and-fine-tuning|模型训练]]、[[agentic-ai|智能体式编排]]）。学习者建模这一族 —— [[knowledge-tracing|知识追踪]]、[[cognitive-diagnosis|认知诊断]]、[[simulating-students|模拟学生]]，以及消费它们的系统（[[intelligent-tutoring|智能导学]]、[[adaptive-learning|自适应学习]]、[[personalized-learning|个性化学习]]）—— 在这一技术脉络内归入 [[student-modeling|学习者建模与自适应教学]] 总括页面。
+- **[[discipline-specific-aied|各学科的 AI]]** —— 关于 AI 如何应用于各学科领域的总括页面，分为四个簇。[[humanities-education|人文与艺术]] 涵盖历史、哲学、文学与语言，[[arts-and-media-education|艺术与媒介]] 与 [[music-education|音乐]] 并列其侧。[[social-sciences-education|社会科学]] 涵盖公民、商业与经济、环境研究。[[stem-education|STEM]] 涵盖数学、物理、化学、生物、计算与工程。[[professions-education|专业领域]] 涵盖那些经认证的项目 —— [[medical-education|医学与健康专业]]、[[nursing-education|护理]]、[[legal-education|法律教育]]、[[teacher-education|教师教育]]、[[design-education|设计教育]] 与 [[libraries|图书馆学]] —— 在这些项目中，考核必须表明被认证的判断出自候选人本人。这些簇同样适用于各个学校教育阶段，而不只是学科。
+- **[[assessment|评估]]**（含 [[formative-assessment|形成性]]、[[summative-assessment|终结性]]、[[authentic-assessment|真实性]]、[[oral-assessment|口头]] 与 [[automated-assessment|自动化]] 诸脉络）—— 关于 AI 如何既评价学习者、又重塑评估效度与诚信的总括页面。
+- **[[feedback|反馈]]** —— 反馈如何产生、递送与使用的总括页面：反馈回路、[[ai-feedback-quality|反馈质量]]、[[feedback-literacy|反馈素养]]，及其评估情境（[[formative-assessment|形成性]]、[[peer-assessment|同伴]]、[[automated-assessment|自动化]]）。
+- **[[stakeholders|AI 教育中的利益相关者]]** —— 行动者是谁的总括页面：学习者、[[teacher-role|教师]]、[[learning-design|学习设计者]]、[[administrator|管理者]] 与 [[educational-policy-ai|政策制定者]]。
+- **[[ai-ed-evaluation|AI 教育评价]]** 与 **[[research-methods-aied|研究方法]]** —— 我们如何知道 AI 是否有效的总括页面：效能研究、[[benchmark|基准]]、[[rct|随机对照试验]]、[[meta-analysis-systematic-review|元分析]]，以及作为核心结果测量的 [[learning-gains|学习增益]]。读者还应权衡 [[limitations-in-aied-research|这一证据的横贯性局限]]。
+- **[[governance|AI 治理]]**、**[[educational-policy-ai|教育 AI 政策]]** 与 **[[equity-in-ai-education|公平]]** —— 机构、监管与公平层的总括页面（另见 [[regulation|监管]] 与 [[privacy|隐私]]）。
 
-这些总括页面在下面的各节中都有链接；下面每一条脉络都会同时指出它的总括页面与构成它的概念。
+这些总括页面在以下各节中被反复链接；下面每一条脉络都同时点出它的总括页面与其构成概念。
 
 ## 教育中的人工智能的两个维度
 
@@ -88,11 +91,11 @@ ai_assist:
 
 ## 学习与教学
 
-人工智能如何支持教与学，是这一领域的核心。关键概念包括：
+AI 如何支持教与学，是这一领域的核心。关键概念包括：
 
-- **核心教学法：**[[pedagogy|教学法与教学策略]]（本知识库教学方法覆盖的总括页面），以及[[active-learning|主动学习]]、[[collaborative-learning|协作学习]]、[[group-work|小组合作]]、[[project-based-learning|项目式学习]]、[[problem-based-learning|问题式学习]]、[[productive-failure|有益失败]]、[[inquiry-based-learning|探究式学习]]、[[experiential-learning|体验式学习]]、[[game-based-learning|游戏化学习]]、[[learning-by-teaching|以教促学]]、[[scaffolding|脚手架]]、[[socratic-method|苏格拉底式教学法]]、[[critical-pedagogy|批判性教学法]]、[[pedagogical-partnerships|教学伙伴关系]]、[[storytelling-in-education|叙事教学]]、[[learning-design|学习设计]]、[[online-teaching-and-learning|在线教学与学习]]与[[video-education|视频在教育中的应用]]，以及[[pedagogical-patterns|教学法模式]]（可复用的教学序列模式）。
-- **学习理论与过程：**[[learning-theories|学习理论]]总括页面（[[behaviorism|行为主义]]、[[cognitive-psychology|认知主义]]、[[constructivist|建构主义]]、[[sociocultural-learning|社会文化取向]]、[[distributed-cognition|分布式认知]]、[[situated-learning|情境学习]]、[[embodied-learning|具身学习]]、[[community-of-inquiry|探究共同体]]）与面向学习者的过程并存，例如[[self-regulated-learning|自我调节学习]]、[[self-determination-theory|自我决定理论]]、[[motivation|动机]]、[[self-efficacy|自我效能]]、[[self-directed-learning|自我导向学习]]、[[metacognition|元认知]]、[[desirable-difficulties|合意困难]]、[[transfer-of-learning|学习迁移]]、[[prior-knowledge|先前知识]]、[[icap-framework|ICAP 认知参与]]、[[reflection|反思]]、[[refutation-text|反驳性文本]]、[[retrieval-spacing-interleaving|提取、间隔与交错练习]]以及[[activity-theory-aied|活动理论]]。
-- **学习者参与和体验：**[[student-engagement|学生参与]]、[[help-seeking|求助行为]]、[[social-emotional-learning|社会情感学习]]、[[well-being|福祉]]、[[creativity|创造力]]、[[problem-solving|问题解决]]、[[mastery-learning|掌握学习]]与[[student-ai-interaction|学生与人工智能的互动]]，以及[[student-support-and-success|学生支持与成功]]（归属感、留存、保留与成功率），共同塑造了学习者实际接触人工智能并受其影响的方式，而[[social-norms-ai-use|围绕人工智能使用逐渐形成的社会规范]]则决定人们能在多大程度上公开讨论这些。
+- **核心教学法：** [[pedagogy|教学法与教学策略]] —— 教学方法的总括页面 —— 以及 [[pedagogical-patterns|教学样式]]（那些方法所收敛成的、经过检验的序列）、[[active-learning|主动学习]]、[[collaborative-learning|协作学习]]、[[group-work|小组作业]]、[[project-based-learning|项目式学习]]、[[problem-based-learning|问题式学习]]、[[productive-failure|生产性失败]]、[[inquiry-based-learning|探究式学习]]、[[experiential-learning|体验式学习]]、[[game-based-learning|游戏式学习]]、[[learning-by-teaching|以教促学]]、[[scaffolding|支架]]、[[socratic-method|苏格拉底法]]、[[critical-pedagogy|批判教育学]]、[[pedagogical-partnerships|教学伙伴关系]]、[[storytelling-in-education|讲故事]]、[[learning-design|学习设计]]、[[online-teaching-and-learning|在线教与学]] 以及 [[video-education|教育中的视频]]。
+- **学习理论与过程：** [[learning-theories|学习理论]] 总括页面（[[behaviorism|行为主义]]、[[cognitive-psychology|认知主义]]、[[constructivist|建构主义]]、[[sociocultural-learning|社会文化]]、[[distributed-cognition|分布式认知]]、[[situated-learning|情境学习]]、[[embodied-learning|具身学习]]、[[community-of-inquiry|探究共同体]]）与面向学习者的过程并列，如 [[self-regulated-learning|自我调节学习]]、[[self-determination-theory|自我决定理论]]、[[motivation|动机]]、[[self-efficacy|自我效能感]]、[[self-directed-learning|自主学习]]、[[metacognition|元认知]]、[[desirable-difficulties|合意困难]]、[[transfer-of-learning|学习迁移]]、[[prior-knowledge|先备知识]]、[[icap-framework|ICAP 认知参与]]、[[reflection|反思]]、[[refutation-text|驳斥式文本]]、[[retrieval-spacing-interleaving|提取、间隔与交错]] 与 [[activity-theory-aied|活动理论]]。发展性框架横贯其中：[[developmental-psychology|发展心理学]] 解释了为何同样的过程在五岁、十五岁与二十五岁看起来不同。
+- **学习者投入与体验：** [[student-engagement|学生投入]]、[[help-seeking|求助]]、[[social-emotional-learning|社会情感学习]]、[[well-being|幸福感]]、[[creativity|创造性]]、[[problem-solving|问题解决]]、[[mastery-learning|掌握学习]] 与 [[student-ai-interaction|学生—AI 互动]] 塑造了学习者实际如何遇见 AI 并受其影响，其中 [[empathy|共情]] 是被频繁主张、却很少被测量的情感结果，而 [[social-norms-ai-use|围绕 AI 使用沉淀下来的社会规范]] 决定了这一切能在多大程度上被公开讨论。在课程之外，[[student-support-and-success|学生支持与成功]] 涵盖机构一侧的工作 —— 学业指导、外展、转介与稀缺支持资源的分配 —— 在这些工作上，AI 可靠地推动任务完成，却不推动坚持或毕业。
 
 ## 技术与方法
 
@@ -105,30 +108,43 @@ ai_assist:
 
 ## 各学科中的人工智能
 
-人工智能被应用于各个学科与教育层次。本知识库的[[discipline-specific-aied|各学科 AIED 概览]]梳理了学科领域的覆盖范围，并与[[learning-sciences|学习科学]]并列，后者不是一门被教授的科目，而是研究学习本身的横贯性研究领域，它把学科内容视为众多变量之一：
+学科领域的覆盖是这个领域最大的一部分。[[discipline-specific-aied|各学科的 AIEd]] 承接这一部分，并与[[learning-sciences|学习科学]]并列 —— 后者不是一门被教授的科目，而是研究学习本身的横贯性研究领域，它把学科内容视为众多变量之一。四个簇组织起各学科页面：
 
-- **学科领域：**[[math-education|数学]]、[[statistics-and-data-science-education|统计与数据科学]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|计算机科学]]、[[engineering-education|工程]]、[[stem-education|STEM]]、[[writing-education|写作]]、[[reading-education|阅读教育]]、[[language-learning|语言学习]]、[[english-education|英语教育（EAP/EFL/ESL）]]、[[libraries|图书馆与信息科学]]、[[science-education|科学教育]]、[[environmental-education|环境教育]]、[[business-education|商科、经济与管理]]、[[humanities-education|人文与社会科学]]、[[civic-and-political-education|公民与政治教育]]、[[arts-and-media-education|艺术、设计与媒体教育]]、[[medical-education|医学与医疗卫生专业]]、[[legal-education|法律教育]]，以及专业与应用脉络，包括[[nursing-education|护理]]、[[information-technology|信息技术]]、[[vocational-education|职业教育与培训]]与[[design-education|设计教育]]。
+- **人文与艺术：** [[humanities-education|人文教育]]、[[arts-and-media-education|艺术与媒介教育]]、[[music-education|音乐教育]]、[[writing-education|写作教育]]、[[reading-education|阅读教育]]、[[language-learning|语言学习]]与[[english-education|英语教育（EAP/EFL/ESL）]]。
+- **社会科学：** [[social-sciences-education|社会科学教育]]、[[civic-and-political-education|公民与政治教育]]、[[business-education|商业、经济与管理]]与[[environmental-education|环境教育]]。
+- **STEM：** [[stem-education|STEM 教育]]、[[science-education|科学教育]]、[[math-education|数学]]、[[statistics-and-data-science-education|统计与数据科学]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|计算机科学]]、[[engineering-education|工程]]与[[information-technology|信息技术]]。
+- **专业领域：** [[professions-education|专业教育]]、[[medical-education|医学与健康专业]]、[[nursing-education|护理]]、[[legal-education|法律教育]]、[[teacher-education|教师教育]]、[[design-education|设计教育]]与[[libraries|图书馆与信息科学]]。
+
+一个学科落入哪个簇，也决定了它的证据由哪个页面承载。[[vocational-education|职业教育与培训]]归入层次而非此处，因为它命名的更多是一条资格路径，而不是一门学科。
 
 ## 层次与情境
 
-同一件人工智能工具面对的是差异极大的情境，因此本知识库把教育层次与教学法分开处理，以免研究结论在两者之间悄然迁移：[[k-12|K-12 学校]]、[[early-childhood-elementary-ai-education|幼儿与小学教育]]、[[higher-ed|高等教育]]、[[adult-learning|成人学习]]、[[vocational-education|职业教育与培训]]、[[special-education|特殊教育]]与[[teacher-education|教师教育]]。跨层次的领域相关概念包括[[universal-design-for-learning|通用学习设计]]、[[neurodiversity|神经多样性]]、[[multilingual-learning|多语言学习]]与[[social-emotional-learning|社会情感学习]]。
+同一件 AI 工具面对的是差异极大的情境，因此本知识库把教育层次与教学法分开处理，以免研究结论在两者之间悄然迁移：[[k-12|K-12 学校]]，如今又分为[[early-childhood-elementary-ai-education|幼儿教育]]、[[primary-education|小学教育]]与[[secondary-education|中学教育]]；[[higher-ed|高等教育]]，分为[[undergraduate-education|本科]]与[[graduate-education|研究生]]学习；以及这些阶梯之外的场景 —— [[adult-learning|成人学习]]、[[vocational-education|职业教育与培训]]、[[special-education|特殊教育]]与[[teacher-education|教师教育]]。[[education-levels|教育层次]]对它们作比较。跨层次的领域相关概念包括[[universal-design-for-learning|通用学习设计]]、[[neurodiversity|神经多样性]]、[[multilingual-learning|多语言学习]]与[[social-emotional-learning|社会情感学习]]。
+
+## 同一件工具，相反的设计选择
+
+层次是最能把一条设计建议整个反转的变量。中学阶段的证据把教师放在学生与工具之间：在 33 项研究中，增益出现在学生比较输出的地方，而在工具直接产出作业的地方消退（[[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca 等人（2026）]]）。
+
+研究生阶段的证据指向另一边，指向与一个可问责的人结成伙伴关系。准备度促进因素经由导师支持抵达研究[[self-efficacy|自我效能感]]（间接 β = 0.201），而不是经由工具使用（[[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo 等人（2026）]]）。一篇博士阶段的综述从伦理出发得到同样的设计结论：正当性取决于任务而非工具，披露与智识上的重要性成比例，治理在里程碑处被检视（[[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja 等人（2026）]]）。
+
+不变的是由人掌握判断。研究生研讨班中的学生只有在一位有知识的把关者核验之后才接受 AI 产出，Chen 把这读作被委派而非被交出的能动性（[[chen-genai-self-directed-learning-graduate-seminar-2026|Chen（2026）]]）。频次是错误的跨层次指标：一旦伦理与自我调节进入模型，它对学生能力的预测降至 β = 0.030（[[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova 等人（2026）]]）。
 
 ## 评估与测量
 
-人工智能既改变了我们评价学习者的方式，也改变了我们评价人工智能系统本身的方式：
+AI 既改变了我们评价学习者的方式，也改变了我们评价 AI 系统本身的方式：
 
-- **评估与反馈：**[[assessment|评估]]、[[formative-assessment|形成性评估]]、[[summative-assessment|终结性评估]]、[[authentic-assessment|真实性评估]]、[[eportfolio|电子档案袋]]、[[feedback|反馈]]与[[feedback-literacy|反馈素养]]、[[ai-feedback-quality|人工智能反馈质量]]、[[peer-assessment|同伴评估]]、[[oral-assessment|口头评估]]、[[automated-assessment|自动化评估]]、[[automated-essay-scoring|自动作文评分]]与[[automated-question-generation|自动题目生成]]。由于模型如今可以按需生成看似成型的成品作业，本知识库特意凸显那项仍属学习者本人的能力：[[evaluative-judgment|评价性判断]]，即依据有理据的标准来评判自己、同伴以及人工智能产出之质量的能力。它正是若干反馈与真实性评估研究共同指向的构念，包括多校实验中混合反馈条件优于直接由人工智能给出的反馈、人工智能形成性反馈在可持续性上的缺口，以及把评价对象从成品转向学生所做决策这一务实做法；它也是人工智能时代教学重新设计从[[ai-detection|检测]]转向“其诚信经得起查验的任务”的一个核心原因。[[group-work|小组合作]]同样要同时评估过程与成果，团队必须就“谁以何种方式参与人工智能才可接受”达成一致。
-- **测量与效度：**[[assessment-validity|评估效度]]、[[psychometrically-aware-ai|具备心理测量意识的人工智能]]、[[educational-measurement|教育测量]]、[[item-response-theory|项目反应理论]]、[[self-report-measures|自陈式测量]]（这一证据中很大一部分所依赖的工具，也是一个反复出现的局限）、[[ai-detection|人工智能检测]]、[[remote-proctoring|远程监考]]与[[academic-integrity|学术诚信]]。
+- **评估与反馈：** [[assessment|评估]]、[[formative-assessment|形成性评估]]、[[summative-assessment|终结性评估]]、[[authentic-assessment|真实性评估]]、[[eportfolio|电子档案袋]]、[[feedback|反馈]] 与 [[feedback-literacy|反馈素养]]、[[ai-feedback-quality|AI 反馈质量]]、[[peer-assessment|同伴评估]]、[[oral-assessment|口头评估]]、[[automated-assessment|自动化评估]]、[[automated-essay-scoring|自动作文评分]] 与 [[automated-question-generation|自动题目生成]]。因为模型如今可以按需产出看似合理的成品，该领域的注意力转向仍属于学习者自身的那项能力：[[evaluative-judgment|评价性判断]]，即依据有理由的判据来评价自己、同伴与 AI 产出之质量的能力。它正是若干反馈与真实性评估研究共同指向的构念：在多点实验中混合反馈条件优于直接的 AI 反馈；AI 形成性反馈中的可持续性缺口；以及把评价对象从制品转向学生所做决策的实践转向。它也是 AI 时代重设计从 [[ai-detection|检测]] 转向其诚信经得起检视的任务的核心原因之一。[[group-work|小组作业]] 同样按过程与产品双重评估，团队必须协商什么样的 AI 参与算作可接受、以及谁的参与算数。
+- **测量与效度：** [[assessment-validity|评估效度]]、[[psychometrically-aware-ai|具备心理测量意识的 AI]]、[[educational-measurement|教育测量]]、[[item-response-theory|项目反应理论]]、[[self-report-measures|自陈测量]]（这一证据中很大一部分背后的工具，也是一个反复出现的局限）、[[ai-detection|AI 检测]]、[[remote-proctoring|远程监考]] 与 [[academic-integrity|学术诚信]]。
 
 ## 研究方法与评价
 
-我们如何知道人工智能是否有效，是自成一体的脉络，本知识库也把它当作一条脉络来对待：
+我们如何知道 AI 是否有效，本身是一条独立脉络，而该领域也如此对待它：
 
-- **研究方法：**以[[research-methods-aied|AIED 研究方法]]为总括页面，包括[[qualitative-research|质性]]、[[quantitative-research|量化]]、[[mixed-methods-research|混合方法]]、[[design-based-research|基于设计的研究]]与[[usability-research|可用性]]取向，以及[[rct|随机对照试验]]、[[meta-analysis-systematic-review|元分析与系统综述]]与[[network-analysis|网络分析]]。
+- **研究方法：** [[research-methods-aied|AIED 中的研究方法]] 作为总括，配以 [[qualitative-research|质性]]、[[quantitative-research|量化]]、[[mixed-methods-research|混合方法]]、[[design-based-research|设计本位]]、[[usability-research|可用性]] 与 [[longitudinal-research|纵向]] 取向，另有 [[rct|随机对照试验]]、[[meta-analysis-systematic-review|元分析与系统综述]] 与 [[network-analysis|网络分析]]。
 
-该领域自身的研究工作如今已成为一个独立主题：[[ai-assisted-educational-research|AI 辅助教育研究]]涵盖把 AI 用作文献检索、筛选、质性编码、分析与写作工具的研究，包括教学与学习学术这类实践者研究。它与用于研究 AI 对学习者产生何种影响的各类设计保持区分。
+该领域自身的研究工作如今本身就是一个主题。[[ai-assisted-educational-research|AI 辅助教育研究]] 涵盖把 AI 用作文献检索、筛选、质性编码、分析与写作的工具，包括教学学术这类实践者研究。它与用来研究 AI 对学习者做了什么的设计保持区分。
 
-- **人工智能系统的评价：**[[ai-ed-evaluation|人工智能教育评价]]与用于判断系统能力的[[benchmark|基准测试]]，以[[learning-gains|学习增益]]为真正重要的结果，同时以[[limitations-in-aied-research|这一证据普遍存在的局限]]和[[interpreting-and-applying-aied-research|如何解读单项研究]]作为审慎的平衡力量。
+- **AI 系统的评价：** [[ai-ed-evaluation|AI 教育评价]] 与用于判断系统能力的 [[benchmark|基准]]，以 [[learning-gains|学习增益]] 为要紧的结果，并以 [[limitations-in-aied-research|这一证据的横贯性局限]] 与 [[interpreting-and-applying-aied-research|如何阅读单项研究]] 作为警示性的对冲。
 
 ## 相关人群
 
@@ -157,9 +173,7 @@ ai_assist:
 若干主题横跨整个领域：
 
 - **信任与批判性使用：**[[trust|信任]]、[[trust-calibration|信任校准]]、[[ai-sycophancy|人工智能谄媚]]、[[critical-thinking|批判性思维]]、[[cognitive-offloading|认知卸载]]、[[critical-pedagogy|批判性教学法]]与[[reducing-ai-misuse|减少人工智能误用]]（另见[[framing-ai-use-for-students|如何向学生界定人工智能的使用]]）。学习者和教师如何决定采纳并依赖人工智能，由[[technology-acceptance-model|技术接受]]研究来建模，而[[global-south|全球南方]]研究则凸显采纳过程中的公平与文化情境。就实证而言，人工智能如何解释自身会塑造这种信任：[[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor 等（2025）]]表明，[[explainable-ai|可解释人工智能]]通过可理解性建立起教师对人工智能建议的信任，其中以学科驱动（课程语言）给出的解释，比数据驱动的特征重要性输出更受信任和接受。
-
 - **AI 如何被想象：** [[metaphors-and-analogies|隐喻与类比]]塑造教育者与学生对 AI 的期待，也可以作为一种[[ai-literacy|AI 素养]]的教学方法，正如 [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe、Perkins 与 Furze（2025）]]所展示的。
-
 - **这一领域的演变：**本知识库追溯了教育中的人工智能从早期[[intelligent-tutoring|智能导学系统]]与[[knowledge-tracing|知识追踪]]，走向大语言模型驱动的[[intelligent-tutoring|导学]]、[[pedagogical-agent|智能体]]与[[agentic-ai|智能体式 AI]]的历程，也就是从以工具为中心的研究快速转向社会技术框架（[[design-thinking|设计思维]]、[[curriculum-design|课程设计]]、[[institutional-change-framework-ai|机构变革]]），并从人工编写系统转向由用户驱动的工作流：学习者或[[teacher-role|非程序员]]用自然语言指定行为（[[vibe-coding|氛围编程]]）。[[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian 与 Doroudi]]用他们的 AI×Ed 框架把这一轨迹形式化，跨四十年会议论文集的论文追溯显示，这一领域从多样混合的格局，包括大量把人工智能当作人类智能与学习之类比的研究，转向几乎只关注应用性、数据驱动、面向研究者的用途；而[[llm|大语言模型]]的兴起如今似乎正在部分逆转这一转向（AIED 2024 上四篇“人工智能作为类比”的论文中，有三篇基于大语言模型）。
 - **情绪、焦虑与职业前景：**人工智能引发并塑造情绪反应，[[anxiety-and-stress|人工智能焦虑与压力]]涵盖监考监控、诚信担忧与职业被取代等，而[[career-development-and-readiness|职业发展与就业准备]]则涉及教育如何让学习者为一劳动力市场被人工智能扰动的未来做好准备（另见[[well-being|福祉]]）。
 
@@ -185,46 +199,53 @@ ai_assist:
 
 ## 关联概念
 
-- [[ai-literacy]]：总括概念，理解、使用与评价人工智能
-- [[automation-bias]]：读者一侧的失效——不加核查地接受自动判断
-- [[human-ai-collaboration]]：总括概念，人与人工智能如何协同工作
-- [[pedagogy]]：总括概念，教学方法与策略
-- [[case-based-learning]]：案例方法、案例讨论与对照案例
-- [[metaphors-and-analogies]]：隐喻如何塑造对 AI 的理解，类比如何支持教学
-- [[learning-theories]]：总括概念，学习如何发生
-- [[ai-technologies]]：总括概念，模型、方法与系统
-- [[discipline-specific-aied]]：总括概念，人工智能在各学科领域与层次中的应用
-- [[assessment]]：总括概念，人工智能如何评价学习者并重塑效度
-- [[feedback]]：总括概念，反馈如何生成、传递与使用
-- [[stakeholders]]：总括概念，行动者是谁
-- [[learners]]：总括概念，学习者一侧的概念（体验、身份、自主性、互动、学习者模型）
-- [[ai-ed-evaluation]]：总括概念，我们如何知道人工智能是否有效
-- [[research-methods-aied]]：总括概念，效能研究的方法
-- [[governance]]：总括概念，制度与监管层
-- [[educational-policy-ai]]：总括概念，政策、指导意见与实施
-- [[equity-in-ai-education]]：总括概念，公正、可及性与包容
-- [[learning-sciences]]：AIED 背后的实证研究领域
-- [[ethics]]：教育中的人工智能的伦理维度
-- [[misconceptions]]：人们带到人工智能面前的心智模型
-- [[interpreting-and-applying-aied-research]]：如何解读一项研究，并把结论带入实践
-- [[limitations-in-aied-research]]：证据基础普遍存在的局限
-- [[meta-analysis-systematic-review]]：综述与元分析确立了哪些结论
-- [[history-of-aied]]：这一领域如何演变
-- [[philosophy-of-ai-in-education]]：哲学基础
-- [[theories-and-frameworks]]：理论与框架节点的图谱
-- [[theory-development-aied]]：构建与修订理论
-- [[sensor-and-gaze-analytics]]：总括概念，通过凝视、EEG 与可穿戴信号感知学习者
-- [[ai-avatars-and-synthetic-instructors]]：总括概念，合成人类的教学、辅导、模拟与评估
-- [[civic-and-political-education]]：学科领域，面向公共生活的素养，证据基础薄
+- [[primary-education]] — 小学教育中的 AI
+- [[secondary-education]] — 中学阶段的 AI
+- [[undergraduate-education]] — 本科学习中的 AI
+- [[graduate-education]] — 硕士与博士学习中的 AI
 - [[pedagogical-patterns]] — 教育学模式：将该领域的教学法具体化的经验证序列
+- [[ai-literacy]] — ：总括概念，理解、使用与评价人工智能
+- [[automation-bias]] — ：读者一侧的失效——不加核查地接受自动判断
+- [[human-ai-collaboration]] — ：总括概念，人与人工智能如何协同工作
+- [[pedagogy]] — ：总括概念，教学方法与策略
+- [[case-based-learning]] — ：案例方法、案例讨论与对照案例
+- [[metaphors-and-analogies]] — ：隐喻如何塑造对 AI 的理解，类比如何支持教学
+- [[learning-theories]] — ：总括概念，学习如何发生
+- [[ai-technologies]] — ：总括概念，模型、方法与系统
+- [[discipline-specific-aied]] — ：总括概念，人工智能在各学科领域与层次中的应用
+- [[assessment]] — ：总括概念，人工智能如何评价学习者并重塑效度
+- [[feedback]] — ：总括概念，反馈如何生成、传递与使用
+- [[stakeholders]] — ：总括概念，行动者是谁
+- [[learners]] — ：总括概念，学习者一侧的概念（体验、身份、自主性、互动、学习者模型）
+- [[ai-ed-evaluation]] — ：总括概念，我们如何知道人工智能是否有效
+- [[research-methods-aied]] — ：总括概念，效能研究的方法
 - [[ai-assisted-educational-research]] — 人工智能辅助教育研究
+- [[governance]] — ：总括概念，制度与监管层
+- [[educational-policy-ai]] — ：总括概念，政策、指导意见与实施
+- [[equity-in-ai-education]] — ：总括概念，公正、可及性与包容
+- [[learning-sciences]] — ：AIED 背后的实证研究领域
+- [[ethics]] — ：教育中的人工智能的伦理维度
+- [[misconceptions]] — ：人们带到人工智能面前的心智模型
+- [[interpreting-and-applying-aied-research]] — ：如何解读一项研究，并把结论带入实践
+- [[limitations-in-aied-research]] — ：证据基础普遍存在的局限
+- [[meta-analysis-systematic-review]] — ：综述与元分析确立了哪些结论
+- [[history-of-aied]] — ：这一领域如何演变
+- [[philosophy-of-ai-in-education]] — ：哲学基础
+- [[theories-and-frameworks]] — ：理论与框架节点的图谱
+- [[theory-development-aied]] — ：构建与修订理论
+- [[sensor-and-gaze-analytics]] — ：总括概念，通过凝视、EEG 与可穿戴信号感知学习者
+- [[ai-avatars-and-synthetic-instructors]] — ：总括概念，合成人类的教学、辅导、模拟与评估
+- [[civic-and-political-education]] — ：学科领域，面向公共生活的素养，证据基础薄
 
 ## 关联文章
-
-关于教育中的人工智能的领域级综述，即那些综述整个领域或整个教育层次、而非单一主题的研究：
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — 四十年来人工智能与教育研究的演变（AIxEd 框架）
 - [[mishra-control-vs-agency-history-2025]] — 控制与能动性：教育中人工智能的一段历史
 - [[genai-higher-education-systematic-review-2026]] — 高等教育中的生成式人工智能：125 项研究的系统综述
 - [[stanford-evidence-base-ai-k12-2026]] — 人工智能在 K-12 中的证据基础：818 篇论文的综述
 - [[genai-educational-outcomes-meta-analysis]] — 生成式人工智能与教育结果：综合元分析
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 项中学研究：增益出现在学生比较输出之处，在工具代做之处消退（Pérez-Montesdeoca 等人，2026）
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 准备度促进因素经由导师支持抵达研究自我效能感（间接 β = 0.201）（Luo 等人，2026）
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 博士督导中的生成式 AI：正当性取决于任务而非工具，治理在里程碑处检视（Guanilo Pareja 等人，2026）
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — 研究生研讨班：学生只在把关者核验后接受 AI 产出，能动性是被委派而非交出（Chen，2026）
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 伦理与自我调节进入模型后，使用频次对研究生能力的预测降至 β = 0.030（Zaripova 等人，2026）

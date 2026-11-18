@@ -9,8 +9,8 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-04T15:40:00-05:00"
-updated: "2026-11-08T06:31:23-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
@@ -18,8 +18,11 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
-
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
 > **Giảm thiểu lạm dụng AI** - các đòn bẩy về thiết kế, [[pedagogy|sư phạm]] và [[educational-policy-ai|chính sách]] nhằm ngăn sinh viên thay thế [[generative-ai|AI sinh tạo]] cho [[cognitive-offloading|công việc nhận thức]] của chính mình và thay vào đó hướng các em tới việc sử dụng [[ethics|có đạo đức]] và hiệu quả. Những cách tiếp cận hiệu quả được sắp xếp theo tác động chứ không theo mức độ phổ biến, và bằng chứng mạnh nhất ủng hộ các **đòn bẩy cấu trúc** - [[guardrails|rào chắn]] của công cụ và thiết kế lại đánh giá - vốn thay đổi môi trường để việc lạm dụng trở nên khó hơn, bất kể động cơ của sinh viên, so với các **đòn bẩy giáo dục** dựa vào việc xây dựng năng lực bền vững và [[framing-ai-use-for-students|sự đồng thuận của sinh viên]].

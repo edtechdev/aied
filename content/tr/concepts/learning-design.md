@@ -1,4 +1,5 @@
 ---
+updated: "2026-11-17T20:00:00-05:00"
 title: Öğrenme Tasarımı
 created: "2026-10-14T21:52:00-04:00"
 type: concept
@@ -11,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-11-05T01:53:02-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -22,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -45,15 +50,13 @@ Bu tasarım işinin pratikte neleri içerdiği de kendisi ampirik bir sorudur. [
 
 [[learning-analytics|Öğrenme analitiği]] ve üretken YZ, tasarımın farklı bölümlerini destekler: bir Avustralya üniversitesindeki 11 odak grubunda analitik söylemi en çok bağlam ve kurs düzeyinde [[problem-solving|problem çözmeyle]] birlikte göründü (0,32), oysa GenAI söylemi [[assessment|değerlendirme tasarımı]] (0,26) ve öğrencinin özbelirlemesi için tasarım (0,15) üzerinde yoğunlaştı ([[claassen-learning-analytics-genai-learning-design-2026|Claassen ve ark. (2026)]]).
 
-### Temel araştırma temaları
+## Temel araştırma temaları
 
 **YZ destekli içerik üretimi**, en doğrudan dönüştürücü uygulamadır. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]**, üretken YZ’yi LaTeX ve Python ile bütünleştirerek [[stem-education|STEM]] materyali üretimini otomatikleştiren altı aşamalı bir mimari sunar; 8 modül ve 28 proje bağlamında doğrulanmış ve öğrenci kalite puanları 8,5-9,9/10 olmuştur. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**, rol temelli aracıların (Öğretim Kadrosu, Öğretim Tasarımcısı, Kurs Koordinatörü) eksiksiz kurs materyalleri üretmek için işbirliği ettiği, ADDIE modeli çevresinde yapılandırılmış çok aracılı bir çerçeve kullanır. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]**, kurs derlemlerine dayalı uyarlanabilir [[pedagogy|pedagojik]] [[video-education|video üretimi]] için yapılandırılmış bir hat sunar ve eğitim içeriği üretiminde yalnızca YZ akıcılığı değil, açık pedagojik yapının gerekli olduğunu gösterir. [[generative-ai|Üretken YZ]] platformları, ürettikleri içerikte öğrenme tasarımı ilkelerini de somutlaştırabilir: [[ai-modeling-problem-generation-platform-2026|matematiksel modelleme problemleri üreten bir YZ destekli platform]], kurulmuş tasarım ilkelerini [[rag|erişimle güçlendirilmiş üretim]] ile birleştirdi; geleneksel içerik üreticilerde bulunmayan, pedagojik temelli görevler ve öneriler üretmek üzere ADDIE yaklaşımıyla geliştirildi. Yine de bu tür YZ destekli içerik ve ders üretiminin getirisi, öğretmenin kendi uzmanlığıyla belirlenir: [[choi-teacher-ai-interaction-lesson-design-2026|Choi ve ark. (2026)]], deneyimli öğretmenlerin YZ üretimli ders fikirlerini öğrencilere ve bağlama göre eleştirel biçimde uyarladığını (yeniden istek metni yazarak ve çıktıyı derinleştirerek), acemilerin ise YZ önerilerini doğrudan kabul etme eğiliminde olduğunu buldu — dolayısıyla YZ içerik araçlarının pedagojik değeri aracın tek başına değil, öğretmenin deneyimi ve YZ yeterliliğine bağlıdır. [[wang-teacher-ai-co-design-review-2026|öğretmen–YZ öğrenme görevi ortak tasarımı]] (Wang, Liu & Islam 2026) üzerine sistematik bir derleme, örüntüyü 28 çalışma boyunca (2015–2025) ölçekli olarak doğrular: GenAI başlıca ders planlama, istek metni üretimi ve yaratıcı fikir üretimi için kullanılır ve baskın işbirliği kipi, daha bütüncül bir ortak tasarımcıdan çok yardımcı/içerik üreticisi olarak YZ’dir — verimlilik, duyarlılık, [[creativity]] ve [[equity-in-ai-education|eşitlik]] yinelenen olanak sağlayıcılar olarak öne çıkar. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]], öğretmen uzmanlığı bulgusunu grup etkinliği tasarımı için keskinleştirir: deneyimli öğretmenler, YZ tanıdıklığı ne olursa olsun, acemilerden YZ tasarımlı işbirlikçi etkinliklerde daha zengin, daha bütünleştirici ve ZPY’ye daha iyi hizalanmış rol mimarileri üretir ve YZ çıktısını etkili [[collaborative-learning|ayrıştırılmış grup öğrenmesine]] dönüştüren kaldıraç olarak “pedagojik istek metni okuryazarlığı”nı çerçeveler.
 
 Aila denemesi bu kalıba bir planlama süresi sayısı koyar. Rastgeleleştirilmiş ilkokullarındaki öğretmenler, araçla ders hazırlamak için haftada 2,51 saat, onsuz 3,32 saat harcamıştır; yine de medyan öğretmen derslerin yalnızca %21 ila %40’ını sıfırdan planlamıştır; bu, sıfırdan çalışan bir aracın ele aldığı durumdur ([[roy-aila-lesson-planning-teacher-choices-2026|Roy ve ark., 2026]]).
 
 Üretilen materyallerin yetersiz kaldığı yer öğretim programına uyumdur: yedi matematik öğretmeni, YZ üretimli [[productive-failure|verimli başarısızlık]] problemlerini genel kalitede insan yapımı olanlara yakın puanladı (25 üzerinden M = 17,19’a karşı 17,43) ancak öğretim programı hizalamasında daha düşük puanladı (M = 2,57’ye karşı 3,29); bu nedenle üretilen problemlerin uzunluk, [[reading-education|okuma düzeyi]] ve görseller için düzenlenmesi gerekti ([[rhaimi-productivemath-2025|Rhaimi ve ark. (2025)]]).
-
-
 
 Düzyazı kalitesi diğer kısa kalan alandır ve okuma düzeyiyle aynı şey değildir. Clark ve ark. (2026), model çıktısının bilinen anlama maliyetleri taşıyan yapıları — düşük sıklıklı n-gramlar, üst üste yığılmış adlar, addan türemiş fiiller, uzun bağımlılıklar, indirgenmiş nesne ilgi tümceleri — anlamı koruyan yeniden ifadelerden ve insan temellerinden daha çok kullandığını gösterir; bu nedenle YZ tarafından yazılmış açıklamalar ve okumalar, sınıf düzeyi formülünün yakalayamayacağı bir düzenleme geçişine ihtiyaç duyar ([[clark-ai-generated-language-readability-2026]]).
 
@@ -69,25 +72,29 @@ Düzyazı kalitesi diğer kısa kalan alandır ve okuma düzeyiyle aynı şey de
 
 **Öğretim tasarımı için YZ aracıları**, alanı [[agentic-ai|etken YZ]]’ye taşır. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]**, LLM temelli öğretim tasarımı aracılarını değerlendirmek için ilk standartlaşmış, kuram temelli kıyaslama ölçütüdür — 25.795 senaryoluk Bağlam Matrisi (ADDIE’den 51 bağlamsal değişken × 33 ISD alt adımı), klasik ISD çerçevelerine (ADDIE, Dick & Carey, Rapid Prototyping ISD) dayanan aracıların kuramdan yoksun aracıları geride bıraktığını göstererek öğretim tasarımının yapılandırılmış bir disiplin olduğunu, jenerik bir istek metni görevi olmadığını ampirik olarak doğrular. Araçlar tasarımların yalnızca *yapıcıları* değil, aynı zamanda *eleştirmenleri*dir: [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]], gerçek öğrenenler katılmadan *önce* bir öğrenme tasarımını değerlendirmek için çok adımlı bir çevrimiçi dersi bir öğrenci gibi dolaşan tek bir özerk web aracısı kullanır — [[student-experience|öğrenci deneyimine]] dair betimlemesi, acemilerin nerede terk edeceğini öngörür ve eyleme dönüştürülebilir tasarım geri bildirimi sunar; genel bir CS1 kursunda her taban çizgisini ve hatta benzetilmiş bir öğrenci kohortunu geride bırakır. Bu durum, lansman öncesi etken değerlendirmeyi insan tasarım yinelemesine düşük maliyetli bir tamamlayıcı olarak çerçeveler. **[[wang-multi-agent-systems-learning-designers-2025]]** ve **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**, öğretim tasarımı modelleri çevresinde rol temelli aracıları orkestre eden çok aracılı çerçeveleri incelerken **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]**, öğretmenlerin ve aracıların teknolojik-pedagojik-içerik bilgisini birlikte nasıl uyguladığını inceler. Bu çalışma, öğretim tasarımını [[benchmark|kıyaslama ölçütü]], [[ai-ed-evaluation]] ve ölçekte [[curriculum-design|öğretim programı]] tasarımına bağlar.
 
-### İlgili kavramlarla bağlantılar
+**Uyarlanmış içerik beceri değil, zaman maliyeti getirir.** Eğitim profesyonelleri farklılaştırılmış materyal üretmenin önündeki engeller olarak zamanı, materyalleri ve rakip görevleri saymış, teknolojiyi büyük bir engel olarak nitelendirenlerin oranı yalnızca %12 olmuştur ([[hilali-adaptive-learning-challenges-2026|Hilali ve Chergui (2026)]]).
+
+## İlgili kavramlarla bağlantılar
 
 Öğrenme tasarımı, [[ai-education|Eğitimde YZ]]’nin köprü disiplinidir — [[curriculum-design]] (ne öğretileceği) ile [[scaffolding]] (öğrenenleri nasıl destekleneceği), [[educational-development]] (eğitimciler nasıl hazırlanacak) ve [[generative-ai]] (araçların kendileri) arasında bağlantı kurar. YZ araçlarının öğrenme tasarımcılarının ve öğretmenlerin ne yaptığını yeniden şekillendirmesi nedeniyle [[teacher-role]] ile sıkı biçimde eşleşiktir ve etkili YZ bütünleşmesinin eğitimcilerin YZ yeteneklerini ve sınırlarını anlamasını gerektirmesi nedeniyle [[ai-literacy]] ile de öyledir. Tasarım işi nihai olarak bir *etkinlik sırası*na çözülür: [[pedagogical-patterns|pedagojik örüntüler]] denenmiş hamle sıralarını derler, böylece bir tasarımcı bir derste YZ’nin nereye ait olduğuna değil, yalnızca nelerin dahil edileceğine karar verebilir. [[learning-sciences|Öğrenme bilimleri]], bu ilkelerin arkasındaki araştırma alanıdır: bu sayfa öğrenme deneyimleri yaratmanın mesleki uygulamasını kapsarken, öğrenme bilimleri o uygulamayı ve tasarımlarını ampirik olarak inceler ve öğrenme tasarımının ardından işlevsel kıldığı bilişsel, [[motivation|motivasyonel]] ve sosyal ilkeleri üretir.
 
-
-
-### Ortak tasarım ve insan olarak kalması gerekenler
+## Ortak tasarım ve insan olarak kalması gerekenler
 
 Ortak tasarım, tasarım pratiğinin ilişkisel işinin en az ikame edilebilir olduğu kısmıdır. [[zeivots-postdigital-co-design-genai-2025|Zeivots ve ark. (2025)]], [[generative-ai|GenAI]]'yi bir taslak aracı olarak değil güvenilmez bir işbirlikçi olarak ele alır ve bu güvenilmezlik etrafında üç aşamalı bir dizi kurar: model kışkırtır, çoğullaştırır ve kolaylaştırır; grup ise onun çerçevelemelerini sorgular, karşı anlatılar üretir ve müzakereyi kendisi yürütür. İnsan olarak kalan şey müzakeredir — hangi seslerin eksik olduğu, grubun hangi çerçevelemeyi benimsediği ve ortak anlayışın ne olacağı. Makale, on dokuz yazarlı bir kolektif forumdur ve deney içermez; dolayısıyla dizi, sınanmış bir yöntem değil pratik üzerine bir öneridir.
 
-### Öğrenme tasarımı öğrenme kazanımlarını nasıl belirler
+Üç kursluk bir MOOC dizisi, tasarımcının kendi iş akışını öğretimin nesnesi haline getirir; araçlara özgü gösterimleri, model sürümlerinden sonra da geçerliliğini koruyan tasarım ilkelerinden ayırır ([[quintana-generative-ai-learning-design-partner-2025|Quintana ve ark. (2025)]]).
+
+## Öğrenme tasarımı öğrenme kazanımlarını nasıl belirler
 
 Öğrenme tasarımı, YZ’nin [[learning-gains|öğrenme kazanımları]] mı yoksa yalnızca YZ ile şişirilmiş bir performans mı ürettiğine karar veren kaldıraçtır. Bilgi tabanının kanıtı bu konuda tutarlıdır: **aynı YZ aracı, öğrenme deneyiminin çevresinde nasıl tasarlandığına bağlı olarak büyük kazanımlar ya da net zarar verir.** [[instructional-guidance-genai-learning|Hou ve ark.]], öğrenme kuramına dayalı beş adımlı bir istek metni çerçevesinin üst düzey bilişsel sonuçları belirgin biçimde iyileştirdiğini, yalnızca YZ erişiminin ise iyileştirmediğini gösterdi; [[genai-mindtool-generative-learning|zihin aracı]] ve [[airis-cognitively-activated-ai-physics-2026|AIRIS]] çerçeveleri, öğrencinin bilişsel çabasını (görev verimliliği yerine) kalıcı kazanımlar sağlayacak biçimde korur. [[learning-gains]]’i koruyan tasarım seçimleri — öğrenci denemesi gerektiren iskeleleme, yardımsız sonuç ölçüleriyle [[formative-assessment]] ve öğrenenin etken olarak kalmasını sağlayan pedagojik yapı — alanın (bkz. [[learning-gains]]) YZ’nin koçluk ettiğinde güçlü bir kazanım, yanıt verdiğinde bir zarar olduğu bulgusunu yansıtır. Tersine, kötü tasarlanmış YZ bütünleşmeli dersler, görünürdeki başarının hiçbir öğrenmeyi maskelemediği [[cognitive-offloading|performans-öğrenme boşluğuna]] düşer.
 
-### Tasarımcılar ve geliştiriciler için pratik yönlendirme
+## Tasarımcılar ve geliştiriciler için pratik yönlendirme
 
 Öğretim tasarımcıları, kurs geliştiricileri ve YZ destekli öğrenme deneyimleri kuran mühendisler için bilgi tabanının bulguları eyleme dönüştürülebilir uygulamaya çevrilir. Uygulamaların kendilerinden önce işaretlenmeye değer bir sınır: bu sayfanın betimlediği öğrenme tasarımı, bilinen bir kohort için bir kursun tasarımıdır; oysa tasarımcının asla tanışmayacağı kişilerce öğretilen, birçok kursun kullanacağı bir ürüne gömülen aynı ilkeler, varsayılanların, yapılandırılabilirliğin ve belgelendirmenin pedagojik ağırlık taşıdığı [[educational-technology-developers]] işidir:
 
 **YZ üretimini yapılandırılmış bir öğretim modeline dayandırın.** YZ içeriği, arkasındaki pedagojik yapı kadar iyidir — kaliteyi belirleyen açık yapıdır, YZ akıcılığı değil. Tanınmış bir model (ADDIE, Dick & Carey, hızlı prototipleme) çevresinde tasarım yapın ve pedagojik kararları modelden çıkarmasını beklemek yerine açıkça kodlayın.([[courseblueprint-adaptive-video-generation]])([[jeon-isd-agent-bench-2026]])([[didactical-teacher-assistant-dimensional-modeling]])
+
+Model aynı zamanda dışarıda bıraktıklarının bir listesidir. Beş ADDIE evresini inceleyen Williams ve Prishtina (2026), her birinin bir kullanım koşulunu dışarıda bıraktığını bulur: analizde araç erişimi, tasarımda eğitimci eğitimi, geliştirmede öğretim programına uyum, uygulamada bağlantı ve yazılım uyumluluğu, değerlendirmede ise yaratıcılık ([[williams-coding-curriculum-critique-2026|Williams ve Prishtina, 2026]]). Rol değişimi bununla birlikte ilerler: [[chng-ai-instructional-design-2023|Ch'ng'nin (2023)]] anlatımında konu uzmanları içerik taslağı hazırlamayı bırakıp modelin ürettiğini doğrulayan erişimciler haline gelir; bu da inceleme kapasitesini darboğaz yapar.
 
 **İlke düzeyinde bir çerçeveyi de benimseyin, yalnızca bir öğretim modeli değil.** Kurs düzeyinde bir model tek bir tasarımı yapılandırır; yayımlanmış bir çerçeve, birçok tasarımın tatmin etmesi gereken ölçütleri belirler. Tümüyle okumaya değer bir örnek, Digital Promise’un *Powerful Learning with Emerging Technology* adlı yayınıdır; bu çalışma yönlendirmesini üç ilke altında düzenler — Kanıta Dayalı, Öğrenen Merkezli, Beceri Geliştirme — her biri uygulamalara ve stratejilere genişletilir ve [[privacy]], [[explainable-ai|açıklanabilirlik]] ile adaleti isteğe bağlı eklerden çok belirli uygulamalara güvenlik yükümlülüğü olarak bağlar.([[powerful-learning-with-emerging-technology-2025]])
 **YZ yapılandırmasını gelişkinliğe değil, göreve eşleyin.** [[pchl-he-framework-genai-content-creation-2026|Nalyvaiko (2026)]], dört katman ayırır — istek metni, bağlam, koşum ve doğrulanmış döngü — ve asgari yeterli katman ilkesini uygular: eklenecek orkestrasyon koordinasyon, doğrulama, gizlilik ve kavrayış maliyetleri getirdiğinden, doğrulanabilir bir sonuç için yeterli en az karmaşık yapılandırmayı kullanın.
@@ -110,8 +117,12 @@ Fowlin ve ark. (2026), YZ’nin nereden gireceğine karar vermek için eyleme d�
 **Sezgileri değil, bir kıyaslama ölçütüne karşı değerlendirin.** Bir öğretim tasarımı aracısı kuruyorsanız, bunu standartlaşmış, kuram temelli bir kıyaslama ölçütüne karşı (örn. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]) değerlendirin, böylece gerçek bir ISD çerçevesine dayanmanın jenerik bir LLM’ye kıyasla çıktıyı gerçekten iyileştirip iyileştirmediğini ölçebilirsiniz.([[jeon-isd-agent-bench-2026]])
 
 - **YZ, öğretim tasarımı uygulamasını yeniden şekillendiriyor.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]], 28 çalışmayı (2020-2025) [[meta-analysis-systematic-review|sistematik olarak]] gözden geçirir ve YZ’nin tasarımcılara içerik üretimi, şablonlar ve kişiselleştirme konusunda yardımcı olduğunu ve yalnızca bir araçtan çok bir iş arkadaşı/ortak çalışan/iş ortağı olarak kavramsallaştırıldığını bulur — ancak pedagojik hizalama ve uygulayıcı hazırlığı sorun olarak kalmaya devam eder.
+
 - **Belgelenen etkinlik, döngünün tek bir evresinde yoğunlaşır.** YZ destekli öğretim tasarımı üzerine 78 çalışmanın derlemesinde, Tasarım evresi etkinliği **78 çalışmanın 74’ünde (%95)**, Geliştirme 44’ünde (%56) görülürken, Analiz yalnızca 11’e (%14), Değerlendirme 10’a (%13) ve Uygulama 7’ye (%9) ulaşır; **hiçbir çalışma YZ desteğini tam ADDIE döngüsü boyunca incelememiştir**. Döngü, kanıt tabanının kapsamadığı bir özlemdir; bu, “YZ destekli kurs geliştirme” uçtan uca bir yetenek olarak satılan herkes için önemlidir ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou ve Kameas, 2026]]).
 - **Hiyerarşik olarak dağıtılmış üç YZ rolü.** *Üretici* kullanım, yani YZ’nin eğitimcinin yönlendirmesiyle tasarım içeriği üretmesi, **çalışmaların %96’sında** baskındır; YZ’nin tasarımcının kendi akıl yürütmesini yapılandırdığı *iskeleleme* kullanımı %35’te, YZ’nin ürün kalitesini değerlendirdiği *değerlendirici* kullanım %21’de görülür. Alan, ezici biçimde YZ’yi bir şeyler yapmak için kullanıyor, kendi tasarım kararlarını sorgulamak için değil; bu, derlemenin eğitim açısından umut verici olarak tecrit ettiği eleştirel dost yapılandırmasının tam tersidir.
+- **Tasarımcılar özerklik değil, yönlendirilebilirlik istiyor.** Bir madde üretme platformunu test eden sekiz öğretim tasarımcısı ([[wei-perspicacious-instructional-design-2026|Wei ve ark., 2026]]) zorluk, biçim ve kaynak izlenebilirliği üzerinde kontrol istedi, platformu SUS'ta 78,8 olarak derecelendirdi ve benimseme koşulu olarak güveni adlandırdı.
+
+Zhang ve arkadaşlarının sentezinde etkileri teknolojiden çok tasarım düzenler: aynı GenAI yeteneği, öğrenen onu yönlendirdiğinde g = 0,92, özerk çalıştığında g = 0,34 üretti. Bu nedenle etkileşim kipi aracın bir özelliği değil, bir tasarım kararıdır ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang ve ark., 2026]]).
 
 ## Yaygın yanlış anlamalar
 
@@ -183,3 +194,7 @@ Fowlin ve ark. (2026), YZ’nin nereden gireceğine karar vermek için eyleme d�
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
 - [[zeivots-postdigital-co-design-genai-2025]] — GenAI as an unreliable collaborator in co-design
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Üç düzeyli meta-analiz: GenAI tek biçimli bir müdahale olarak değil, geri bildirim ve öğrenen yönlendirmeli tasarım üzerinden işler (Zhang ve ark. 2026)
+
+- [[williams-coding-curriculum-critique-2026]] — Müfredatı Kodlamak: "YZ Öğretim Tasarımına İzini Nasıl Bırakır" Üzerine Bir Eleştiri
+- [[chng-ai-instructional-design-2023]] — YZ Öğretim Tasarımına İzini Nasıl Bırakır

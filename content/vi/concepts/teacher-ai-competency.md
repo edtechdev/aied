@@ -12,8 +12,8 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-06T09:20:00-05:00"
-updated: "2026-11-08T06:31:23-05:00"
+source_updated: "2026-11-16T08:24:32-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
@@ -21,8 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
-
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
 > **Năng lực AI của giáo viên** - kiến thức, kỹ năng và khuynh hướng mà giáo viên cần để tích hợp AI vào việc dạy và học một cách hiệu quả, có đạo đức và công bằng. Nó vượt ra ngoài việc sử dụng công cụ kỹ thuật để bao gồm tích hợp [[pedagogy|sư phạm]], [[assessment|năng lực đánh giá]], phán đoán đạo đức, và sự tự tin để [[ai-literacy|sử dụng AI tốt]]. Năng lực AI của giáo viên là đối tác phía giáo viên của [[ai-literacy]], và được phát triển qua [[educational-development|phát triển chuyên môn]]. Nó là trung tâm của cách [[teacher-role|vai trò của giáo viên]] đang biến đổi trong các lớp học được AI tăng cường.
@@ -62,7 +65,6 @@ Nghiên cứu trong cơ sở kiến thức hội tụ về một số chiều k�
 
 - Trong một khảo sát năm quốc gia với 1,405 giáo viên K-12, sự sẵn sàng về AI dự báo niềm tin tích cực về giá trị giảng dạy của GenAI (B = .59, R² = .50) nhưng dự báo mối quan ngại *lớn hơn* về [[creativity|tính sáng tạo]] (B = .18), và chính các yếu tố dự báo đó chỉ giải thích 7% và 6% của mối quan ngại - việc xây dựng sự sẵn sàng một mình để mối quan ngại nguyên vẹn ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu và cộng sự (2026)]]).
 
-
 Sự sẵn sàng nên được sắp thứ tự và đo lường tương ứng: Mô hình Năng lực-Quyết định đặt năng lực AI đã được chứng minh ở thượng nguồn của thái độ và sự tự tin, và đề xuất các chỉ báo hiệu năng thay vì chỉ tự báo cáo - các nhiệm vụ thiết kế bài học, nhiệm vụ đánh giá prompt được gieo lỗi, các phán đoán về tính hợp lệ nội dung và rubric cho sản phẩm lớp học ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 **Sự sẵn sàng cảm xúc và đạo đức là một chiều kích riêng.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] khảo sát đội ngũ học thuật của một [[higher-ed|trường đại học]] Malta (109 người trả lời) và xây dựng một Chỉ số Tội lỗi AI (α = 0.88) từ bốn mục cảm xúc đạo đức, phát hiện rằng tội lỗi *dự báo trước* vượt qua sự hối hận trải nghiệm sau khi sử dụng: mức đồng tình mạnh nhất là lo lắng rằng việc dùng AI làm suy giảm uy tín của mình (34.9% đồng ý), tiếp theo là cảm giác mình đang [[academic-integrity|gian lận]] khi dùng nó (25.7%), trong khi sự hối hận sau khi dùng chỉ chiếm 9.2%. Những phát hiện quan trọng đối với các khuôn khổ năng lực là những người không dùng báo cáo tội lỗi *cao hơn* những người dùng (M = 3.25 so với M = 2.32) và tội lỗi giảm khi sự bảo đảm nghề nghiệp tăng - những người học thuật đầu sự nghiệp báo cáo nhiều nhất (M = 2.71) và những người học thuật cấp cao ít nhất (M = 2.03). Sự sẵn sàng cảm xúc do đó không được nắm bắt bởi các thước đo kỹ năng hay sự tự tin, và bài báo lập luận rằng các khuôn khổ năng lực nên coi tội lỗi và quan ngại về bản sắc như những phản ứng chuyển tiếp bình thường thay vì những lỗi cần sửa.
@@ -70,6 +72,12 @@ Sự sẵn sàng nên được sắp thứ tự và đo lường tương ứng: 
 Một phiên bản mạnh hơn của cách định khung lại đó cho rằng GenAI là một khái niệm ngưỡng chứ không phải một khoảng trống kỹ năng: một ghi chép tự dân tộc chí lập luận rằng [[anxiety-and-stress|lo âu]] và sự kháng cự của giảng viên là thành phần cấu thành của việc vượt ngưỡng, nên đào tạo dựa trên kỹ năng sẽ thất bại và việc không tiếp nhận có nguyên tắc nên được tôn trọng thay vì bị sửa ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]]).
 
 **Năng lực hiện ra như việc sửa chữa, không chỉ như viết prompt.** Với 7 giáo viên toán trung học cơ sở viết lại 143 bài toán, [[walkington-teacher-in-loop-personalized-tasks-2026|Walkington và cộng sự (2026)]] mã hóa 415 prompt tiếp theo: phần lớn sửa tính hiện thực, tính dễ đọc hoặc cấu trúc toán học, và sáu người bắt được đầu ra không phù hợp hoặc thiên lệch - phán đoán của giáo viên vận hành như [[human-in-the-loop-ai|việc giám sát]] nhiệm vụ được tạo ra thay vì như sự trôi chảy trong viết prompt.
+
+**Hai chiều kích là những cam kết, không phải điểm số.** [[feng-ai-literacy-psychological-dimensions-2026|Feng và Carolus (2026)]] tổng hợp 58 nghiên cứu giáo dục phổ thông và đặt *tri thức bối cảnh* và *phát triển nghề nghiệp liên tục* trong sáu chiều kích của năng lực AI của giáo viên, bên cạnh tri thức và kỹ năng dựa trên TPACK, đạo đức, chiều kích tâm lý và một chiều kích đặc thù AI sinh tạo. Mười ba trong số các bài được xem xét xây dựng quan niệm về giáo viên của họ trên [[tpack|TPACK]]. Đọc sự phát triển như một chiều kích thay vì một kết quả làm thay đổi điều một khuôn khổ năng lực phải đo: quỹ đạo của một giáo viên và các ràng buộc của nhà trường trở thành một phần của năng lực, chứ không phải những điều kiện xung quanh nó.
+
+**Việc xây dựng năng lực không trả lời được con đường kiệt sức.** Trong cùng khảo sát 436 giảng viên thiết kế đại học, [[ding-genai-colleague-teacher-depletion-2026|Ding và cộng sự (2026)]] phát hiện việc dùng AI sinh tạo đồng thời nâng [[self-efficacy|tự hiệu quả]] giảng dạy (β = 0.322) và lo âu AI (β = 0.268), và lo âu dự báo ít giảng dạy đổi mới hơn cùng nhiều rút lui khỏi công việc hơn (β = −0.152 và β = 0.264). Một chương trình phát triển chuyên môn chỉ xây kỹ năng sẽ để nguyên con đường thứ hai — các yếu tố điều tiết là hỗ trợ tổ chức và vi phạm hợp đồng tâm lý, không phải năng lực.
+
+Các khuôn khổ quy định điều một giáo viên nên biết và im lặng về những điều kiện mà tri thức đó được thực thi. [[ji-judgement-space-dialogic-inquiry-2027|Ji và Mercer (2026)]] đọc khuôn khổ giáo viên của UNESCO, la bàn giảng dạy của OECD, DigCompEdu và tổng quan BEME như cùng một thể loại danh sách, và lưu ý rằng sự khẳng định của OECD rằng AI không được thay thế phán đoán con người đến mà không kèm một lời giải thích điều gì sẽ làm khẳng định đó đúng. Các mô hình năng lực chỉ thêm một chiều kích nữa do đó bỏ sót khoảng trống mà bài báo gọi tên.
 
 ## Khoảng cách năng lực
 
@@ -81,13 +89,19 @@ Khoảng cách không chỉ nằm giữa kỹ năng được nhận thức và k
 
 Một khảo sát 132 giáo viên ở Indonesia phát hiện sự chấp nhận gần như phổ quát đi kèm hiểu biết cơ chế mỏng: 96.2% tán thành việc giáo viên dùng AI, nhưng chỉ 4.6% kể tên được tokenization hay decoding và 21.5% tin rằng ChatGPT tìm kiếm một cơ sở dữ liệu hoặc internet ([[ai-misconceptions-indonesian-k12-teachers-2026|Aji và cộng sự (2026)]]). Một thái độ thuận lợi không phải là bằng chứng về một mô hình tinh thần dùng được của công cụ.
 
+- **Việc sử dụng và đào tạo GenAI định hình thái độ; sự tự tin chung thì không.** Trong TALIS 2024, giáo viên Scandinavia đã dùng [[generative-ai|GenAI]] đạt điểm cao hơn 0.72 SD về đồng ý với lợi ích và thấp hơn 0.26 SD về bất định xung quanh chúng, phát triển chuyên môn đặc thù GenAI cộng thêm 0.20 SD, và người dùng cũng đồng ý với các quan ngại về xuyên tạc thông tin thường xuyên hơn ([[white-scandinavian-teachers-genai-attitudes-2026|White và cộng sự, 2026]]). Trong 425 chuyên gia K-12, năng lực cảnh giác tri thức dự báo mức sẵn sàng AI được hiệu chỉnh ở β = .675 trong khi động lực tự chủ thì không (β = .076), và chỉ 143 người báo cáo có một chính sách AI thành văn rõ ràng ([[song-calibrated-ai-readiness-k12-2026|Song, 2026]]).
+
 Khoảng cách hiện ra trong sản phẩm cũng như trong tự báo cáo. Một [[ai-integration-instructional-design-collaboratory-2026|phòng cộng tác giảng viên liên thể chế trong đào tạo giáo viên]], nơi các nhà đào tạo giáo viên thiết kế AI vào chính các khóa phương pháp của mình, báo cáo rằng sinh viên sư phạm có thể tạo ra những kế hoạch bài học có AI hỗ trợ trau chuốt trong khi không thể giải thích vì sao kế hoạch đó phù hợp với người học và các chuẩn, bởi vì bản thân kế hoạch không nói gì về lập luận đằng sau nó. Chấm điểm phần biện minh thay vì sản phẩm là một cách phản hồi. [[bondurant-shaughnessy-ai-pedagogies-practice-2026|Khung sư phạm thực hành]] gợi ý một cách khác, coi việc tập dượt như một xấp xỉ của thực hành: việc tập dượt có AI làm trung gian với phản hồi có cấu trúc sau tập dượt đã nâng việc sinh viên sử dụng các câu hỏi dò hỏi và khám phá, tuy vậy phán đoán của chính sinh viên về hiệu năng của họ vẫn khác với điều người quan sát ghi lại.
+
+Một mô hình ở cấp độ giảng viên gợi ý rằng một phần tín hiệu tự báo cáo mang tính thể chế chứ không phải cá nhân. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez và cộng sự (2026)]] dự báo dải năng lực số tự đánh giá của 315 giảng viên đại học và phát hiện đơn vị công tác là yếu tố đóng góp toàn cục lớn nhất, trước tuổi và bằng cấp, với các dải năng lực giảng dạy chia 90.1% so với 42.9% ở mức cao giữa các trường (χ² = 82.710, V = 0.512). Một điểm năng lực đi theo trường đại học nào đang tuyển dụng người trả lời là đang đo bối cảnh nhiều ngang bằng năng lực.
 
 **Việc tự đánh giá giảm sau khi đào tạo có thể là dấu hiệu của việc học chứ không phải mất mát.** Trong một chương trình [[educational-development|phát triển chuyên môn]] [[tpack|Intelligent-TPACK]] sáu tháng với 64 giáo viên đại học Hồng Kông đối chiếu với 61 người đối chứng, năng lực AI tổng thể tăng khoảng nửa độ lệch chuẩn (Cohen's d = -.521), tuy vậy một số giáo viên ở cả hai nhóm đạt điểm thấp hơn ở lần đo sau so với lần đo trước ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Các cuộc phỏng vấn quy những sự giảm đó cho một sự dịch chuyển từ không đủ năng lực vô thức sang không đủ năng lực có ý thức - sự hiệu chỉnh lại mà hiệu ứng Dunning-Kruger dự báo - chứ không phải mất kỹ năng. Các tác giả kết luận rằng tự báo cáo trước và sau đánh giá thấp một can thiệp, bởi vì một phần mức tăng đến dưới dạng một sự điều chỉnh đi xuống ngay trong công cụ đo.
 
 **Khoảng cách có thể đảo chiều dọc theo chuỗi đào tạo.** Trong [[medical-education|giáo dục y khoa]] sau đại học, mười hai bác sĩ lãnh đạo công việc chương trình AI kỳ vọng các bác sĩ nội trú sẽ trở nên trôi chảy với AI hơn nhiều thầy cô của họ, và đề xuất việc cùng học và cùng dạy thay vì một chiều [[lifelong-learning|nâng cao kỹ năng]] cho giảng viên ([[bursic-ai-residency-education-curriculum-2026|Bursic và cộng sự (2026)]]). Cùng các cuộc phỏng vấn đó mô tả các đơn vị tin học chưa đủ trưởng thành để dẫn dắt việc phát triển chương trình, điều định vị ràng buộc ở năng lực thể chế cũng như ở kỹ năng cá nhân.
 
 **Khoảng cách còn hiện ra như sự không tham gia.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] khảo sát 1,057 giảng viên đại học Hoa Kỳ vào cuối năm 2025 và phát hiện 26% hoàn toàn không dùng công cụ [[generative-ai|AI sinh tạo]], với một phần ba chọn không dùng chúng cho việc giảng dạy và sự không dùng tập trung ở các ngành nghệ thuật và [[humanities-education|nhân văn]] (40%). Phía thể chế của khoảng cách lớn hơn phía cá nhân: 68% nói trường của họ chưa chuẩn bị cho giảng viên sử dụng AI sinh tạo trong giảng dạy và cố vấn, và giảng viên nêu sự kháng cự của đồng nghiệp (82%) và sự không quen thuộc (83%) là những trở ngại hàng đầu đối với việc tiếp nhận ở cấp khoa - một bức tranh trong đó việc xây dựng năng lực, chuẩn mực bạn nghề và chính sách đều phải dịch chuyển cùng nhau.
+
+Việc tiếp nhận đi qua phán đoán về ngành học chứ không qua nhiệt tình chung. Trong phỏng vấn 14 giáo viên tại bốn trường đại học Trung Quốc, người tham gia đánh giá AI hữu ích theo các đòi hỏi tri thức của chính lĩnh vực mình, giữ nó ở vai trò phụ trợ, và đặt việc sử dụng có điều kiện vào một mục đích rõ ràng và việc sinh viên phải suy nghĩ trước ([[xiong-teachers-ai-attitudes-chinese-higher-ed-2026|Xiong và cộng sự (2026)]]). Điều họ lo nhất một cách nhất quán không phải kỹ năng của mình mà là việc sinh viên bàn giao quá trình tư duy.
 
 **Đào tạo trước khi vào nghề phần lớn đi vòng qua chiều kích đạo đức của năng lực.** Một [[meta-analysis-systematic-review|tổng quan hệ thống]] về AI trong đào tạo giáo viên ban đầu cho giáo viên tiểu học dự bị dạy toán ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto và cộng sự 2026]], 11 nghiên cứu được chọn từ 341 bản ghi) phát hiện các can thiệp tập trung vào những mức tăng kỹ thuật và sư phạm ngắn hạn, với chín trong mười một can thiệp là những can thiệp ngắn kéo dài từ một đến sáu buổi, và báo cáo rằng đạo đức chỉ được đề cập trong ba trong mười một nghiên cứu. Các khuôn khổ năng lực nêu phán đoán đạo đức như một chiều kích; tài liệu đào tạo trước nghề được cho là xây dựng nó lại hiếm khi dạy hoặc đo nó.
 
@@ -105,7 +119,6 @@ Tài liệu về phát triển chuyên môn trong cơ sở kiến thức xác đ
 - **Sự hỗ trợ phải được phân hóa theo kinh nghiệm và sự thành thạo AI.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi và cộng sự (2026)]] phát hiện cách giáo viên thực sự tương tác với AI trong thiết kế bài học phụ thuộc vào *sự tương tác* giữa kinh nghiệm giảng dạy và sự thành thạo AI, chứ không phải chỉ một yếu tố nào. Giáo viên giàu kinh nghiệm có sự thành thạo AI cao thích ứng đầu ra AI một cách phản biện với bối cảnh (prompt lại, triển khai chi tiết), trong khi những người mới - dù thành thạo kỹ thuật - có xu hướng chấp nhận trực tiếp phản hồi của AI và hiếm khi xét đến sinh viên và bối cảnh. Điều này lập luận cho phát triển chuyên môn dựa trên lập hồ sơ: danh sách kiểm tra đánh giá phản hồi và mẫu prompt cho người mới, và xây dựng kỹ năng thực hành cho giáo viên giàu kinh nghiệm có sự thành thạo AI thấp hơn.
 - **Bản thân lợi ích về thời gian đi theo kinh nghiệm và sự tự tin, không chỉ theo thiết kế hỗ trợ.** Trong thử nghiệm của [[roy-aila-lesson-planning-teacher-choices-2026|Roy và cộng sự (2026)]] về một trợ lý lập kế hoạch bài học AI, mức giảm khối lượng công việc lớn hơn ở những giáo viên có sự tự tin về tri thức chuyên ngành thấp hơn, tri thức sư phạm thấp hơn, ít thời gian trong nghề hơn, hoặc tự tin với công nghệ cao hơn. Sự thành thạo và sự tự tin do đó là một phần của tác động của can thiệp, chứ không chỉ là một phần của việc tiếp nhận nó.
 
-
 Cấu hình niềm tin là trục lập hồ sơ thứ hai: trong 40,680 giáo viên của TALIS 2024, cùng một trạng thái không sử dụng che giấu những trở ngại trái ngược nhau - 83.3% nhóm Thờ ơ nêu những dè dặt sư phạm trong khi 66.2% nhóm Tán thành Có chừng mực nêu thiếu kiến thức và kỹ năng ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]). Việc học nghề nghiệp liên quan AI đi theo tư cách thành viên nhóm một cách nhất quán hơn so với tuổi hay trình độ.
 
 - **Giáo viên không chia sẻ một quan niệm duy nhất về AI.** Một nghiên cứu hiện tượng học trên 16 giáo viên đại học Đan Mạch phát hiện ba quan niệm về dạy với AI và ba quan niệm về học với AI, nên một mô hình workshop duy nhất chỉ chạm tới một phần của bất kỳ nhóm giảng viên nào ([[stenalt-good-education-teacher-ai-conceptions-2026|Stenalt (2026)]]).
@@ -117,7 +130,6 @@ Cấu hình niềm tin là trục lập hồ sơ thứ hai: trong 40,680 giáo v
 - **Hỗ trợ thể chế:** [[educational-development|phát triển chuyên môn]] phải đi kèm hạ tầng thể chế ([[educational-policy-ai|chính sách]], [[institutional-change-framework-ai|thay đổi thể chế]]) để việc tiếp nhận bền vững.
 - **Công cụ soạn thảo không bảo đảm sự trung thành sư phạm.** [[teachers-configure-educational-chatbots-2026|Riahi và cộng sự (2026)]] nghiên cứu 27 giáo viên trung học cơ sở cấu hình [[conversational-ai|chatbot]] giáo dục trong các buổi workshop phát triển chuyên môn, phân tích các nhóm tập trung cùng nhật ký cấu hình và tương tác. Giáo viên coi chatbot như một giàn giáo giảng dạy bị ràng buộc bởi các quy tắc do giáo viên định nghĩa, tuy vậy sự ăn khớp dựa trên nhật ký giữa ý định và hành vi mạnh hơn ở khả năng phản hồi (88.9%) và nhân cách (81.5%) so với các quy tắc (70.4%) và mục đích (59.3%). Các điều khiển có thể cấu hình một mình không mang ý định sư phạm vào hành vi, nên việc diễn đạt, kiểm thử và tinh chỉnh sư phạm của một chatbot tự nó là một năng lực mà công cụ soạn thảo phải hỗ trợ.
 
-
 Một phản ví dụ dựa trên thiết kế coi năng lực là tình huống chứ không phải một nấc thang. [[adaptive-ai-model-teacher-educators-2025|Nghiên cứu dựa trên thiết kế năm 2025 của Eyal với 22 nhà đào tạo giáo viên đại học]] cho người tham gia xem xét năm khuôn khổ đánh giá đã công bố và đồng thiết kế một khuôn khổ thay thế được tổ chức quanh ba trục liên quan với nhau: độ phù hợp bối cảnh (hạ tầng, yếu tố văn hóa-xã hội, nhu cầu địa phương, giai đoạn phát triển), nhu cầu nghề nghiệp (ngành học, sư phạm, lãnh đạo, hỗ trợ), và phát triển năng động. Mô hình bác bỏ các cấp năng lực cố định và cho phép tiến bộ phi tuyến, và nó đi kèm một bảng hỏi tự đánh giá phản tư 20 mục chấm từ 1 đến 5. Việc kiểm chứng của nó chỉ mang tính [[qualitative-research|định tính]], không có kiểm định độ tin cậy [[quantitative-research|định lượng]], nên nó đứng như một đóng góp thiết kế chứ không phải một công cụ đã được kiểm chứng.
 - **Ước lượng phân tích tổng hợp.** [[teacher-ai-literacy-professional-development-meta-2026|Guo và cộng sự (2026)]] gộp 212 kích thước hiệu ứng từ 34 nghiên cứu và ước tính phát triển chuyên môn năng lực AI cho giáo viên ở g = 0.76 (95% CI [0.50, 1.02]), mạnh nhất ở kỹ năng (g = 0.91) và yếu nhất ở thái độ và giá trị (g = 0.61); việc hiệu chỉnh cho sự chọn lọc công bố rõ rệt làm ước lượng giảm xuống khoảng g = 0.49.
 
@@ -125,28 +137,39 @@ Một phản ví dụ dựa trên thiết kế coi năng lực là tình huống
 
 - **Giá trị tụt lại sau kỹ năng ngay cả trong một chương trình đặc thù lĩnh vực.** Trong một chương trình kéo dài một năm ở Hồng Kông với 30 giáo viên tiếng Anh, kiến thức về các chiến lược đánh giá [[multimodal|đa phương thức]] tăng từ 3.13 lên 4.15 trên 5 (partial η² = 0.571) và năng lực hỗ trợ sinh viên tăng từ 3.05 lên 3.98 (0.482), cả hai đều có ý nghĩa, trong khi mọi phân vùng giá trị đều giữ nguyên về mặt thống kê dưới một alpha hiệu chỉnh Bonferroni là .006. Các giáo viên quy những mức tăng đó cho việc đồng lập kế hoạch trong trường và các cuộc họp cụm liên trường chứ không chỉ cho các workshop ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang và cộng sự, 2026]]).
 
+- **Giáo án AI là một đường cơ sở, và sự trung gian mới là năng lực.** Hai mươi sáu giáo viên mới vào nghề sửa lại các giáo án do AI tạo đã viết lại nhiệm vụ, thêm phần làm mẫu và hỗ trợ ngôn ngữ, làm rõ mục tiêu và xây lại trình tự quanh hậu cần lớp học, mô tả vai trò của họ là xem xét và tùy biến chứ không phải chấp nhận đầu ra ([[wilcoxen-steiner-bell-ai-lesson-planning-2026|Wilcoxen và cộng sự, 2026]]).
+
 - **Học tập vi mô có thể phát triển năng lực AI của giáo viên đại học.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] tinh chỉnh hai mô-đun [[vocational-education|giáo dục nghề]] qua hai cuộc thảo luận nhóm trực tuyến thành năm nguyên tắc thiết kế - cấu trúc và định hướng rõ ràng, hướng dẫn và hỗ trợ điều hướng, phân đoạn và mô-đun hóa, trình bày đa phương thức, và kích hoạt người học - và phát hiện việc điều hướng nền tảng và định vị mô-đun là những trở ngại thực tiễn chính.
 
 - **Ý định áp dụng vận hành trên sự thỏa mãn nhu cầu.** Trong một mô hình cấu trúc với 146 giáo viên, sự thỏa mãn nhu cầu năng lực dự báo ý định dùng GenAI qua [[motivation|động lực nội tại]] và sự tham gia vào phát triển chuyên môn (gián tiếp 0.233), trong khi sự thỏa mãn nhu cầu tự chủ và kết nối thì không ([[yuan-teacher-need-satisfaction-genai-2026|Yuan và cộng sự, 2026]]).
+
+Đào tạo không có thời gian trong thời khóa biểu thì không tới được sinh viên. Tổng quan bốn quốc gia năm 2026 của iRAISE đặt vấn đề một cách cấu trúc: chương trình, đào tạo giáo viên và tài liệu chỉ có tác động hạn chế trừ khi nhà trường dành thời gian để dạy năng lực số và năng lực AI, qua các bài học riêng hoặc dự án xuyên môn, điều buộc phải quyết định nội dung hay hoạt động hiện có nào bị giảm hoặc thay thế ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). Tổng quan cũng đặt đào tạo trong thời gian làm việc được trả lương, bắt đầu từ đào tạo giáo viên ban đầu và tiếp tục suốt nghề nghiệp, phân hóa theo môn học và vai trò — những điều kiện coi năng lực là một điều kiện làm việc chứ không phải một thành tựu cá nhân. Trong cả bốn nghiên cứu tình huống của nó, sự tự tin của giáo viên chứ không phải sự sẵn có của công cụ quyết định việc có gì được dùng.
+
+## Đo lường năng lực AI của giáo viên
+
+[[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] kiểm chứng một công cụ chẩn đoán dựa trên TAM với 434 giáo viên đang công tác. Ý định hành vi là yếu tố dự báo chính của năng lực số để dùng GenAI trong lập kế hoạch chương trình, với tự hiệu quả là động lực gốc.
+
+Một nghiên cứu trắc nghiệm tâm lý đã phát triển Thang Năng lực AI của Giáo viên (TAILS) để đo năng lực AI riêng trong [[teacher-education|đào tạo giáo viên ngôn ngữ]], cụ thể hóa sáu chiều kích của khung ED-AI. Công cụ này lấp một khoảng trống trong các đánh giá vốn được viết cho sinh viên hoặc người dùng phổ thông thay vì cho giáo viên.
+
+Bản thân bối cảnh công cụ đo từ đó đã được tổng quan. [[assessing-teachers-ai-literacy-measurement-tools-2026|Tổng quan hệ thống năm 2026 của Zainal, Mohd Matore và Maat về các công cụ đo năng lực AI của giáo viên]] so sánh điều các thang đo hiện có thực sự đo và nơi chúng phân kỳ, đó là thứ đầu tiên cần đọc trước khi áp dụng một thang đo.
+
+Việc đo lường giả định cá nhân là đơn vị đúng, và sự phân bổ vai trò làm yếu giả định đó. [[chen-future-faculty-development-ai-2027|Chen và cộng sự (2026)]] phân bổ năm trong bảy vai trò giáo viên của họ trong một nhóm giảng dạy trong khi giữ năng lực kỹ thuật và đạo đức nền tảng là phổ quát, nên một điểm số cá nhân mô tả phần đóng góp của một người chứ không phải năng lực mà khóa học thực sự vận hành dựa trên. Một chương trình chỉ đo cá nhân sẽ đọc một nhóm được bố trí đầy đủ như một tập hợp những giáo viên khiếm khuyết.
 
 ## Năng lực AI của giáo viên và vai trò giáo viên đang biến đổi
 
 Khi AI đảm nhận các nhiệm vụ giảng dạy và đánh giá thường ngày, đóng góp đặc thù của giáo viên dịch chuyển về phía điều phối, phán đoán và quan hệ: quyết định khi nào và bằng cách nào dùng AI, làm giàn giáo cho [[agency|quyền chủ động của sinh viên]] và việc sử dụng phản biện, bảo đảm công bằng, và cung cấp sự hỗ trợ xã hội và cảm xúc mà AI không thể. Điều này định khung lại năng lực giáo viên quanh sự giám sát [[human-in-the-loop-ai|con người trong vòng lặp]], [[ethics|phán đoán đạo đức]], và [[self-regulated-learning|hỗ trợ việc học tự điều chỉnh]] - kết nối với [[teacher-role]] và [[cognitive-offloading|phòng chống phụ thuộc quá mức]].
 
-## Hàm ý cho AI trong giáo dục
+## Hàm ý cho thực tiễn
 
-- **Đánh giá hiệu năng, không chỉ tự báo cáo:** năng lực giáo viên nên được đánh giá qua việc chứng minh, do khoảng cách tự báo cáo đã được ghi nhận.
-- **Đào tạo toàn bộ năng lực, không chỉ công cụ:** phát triển chuyên môn nên xây dựng các chiều kích kỹ thuật, sư phạm, đánh giá và đạo đức cùng nhau, có nền tảng trong [[learning-theories|lý thuyết học tập]].
-- **Xây dựng sự tự tin song hành với kỹ năng:** thái độ và [[self-efficacy|tự hiệu quả]] định hình việc tiếp nhận, nên phát triển chuyên môn nên giảm lo âu và xây dựng sự tự tin qua thực hành thực chất, có hỗ trợ.
-- **Hỗ trợ tầng thể chế:** năng lực giáo viên bền vững đòi hỏi chính sách, quản trị và năng lực được căn chỉnh, chứ không phải đào tạo tách rời.
+Nhà phát triển đội ngũ giảng viên có thể nhắm phát triển chuyên môn vào tri thức AI sư phạm thay vì sự thành thạo công cụ. Các chương trình xây dựng tri thức nội dung sư phạm báo cáo mức tăng tiền-hậu lớn, điều gợi ý rằng trần còn cao hơn những gì một workshop đơn lẻ ngụ ý, và đào tạo kỹ thuật thuần túy đã không làm dịch chuyển nhận thức của sinh viên trong các nghiên cứu được xem xét.
 
-- **Năng lực số của giáo viên cho [[curriculum-design|thiết kế chương trình]] GenAI.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] kiểm chứng một công cụ chẩn đoán dựa trên TAM với 434 giáo viên đang công tác; ý định hành vi là yếu tố dự báo chính của năng lực số để dùng GenAI trong lập kế hoạch chương trình, với tự hiệu quả là động lực gốc.
+Nhà giáo dục giáo viên có thể tách hai thứ mà đào tạo viết prompt mua được. Thời gian tiết kiệm khi chuẩn bị là một lợi ích và tài liệu tốt hơn là một lợi ích khác, và bằng chứng ủng hộ điều thứ nhất mà không ủng hộ điều thứ hai. Một chương trình hứa cả hai sẽ gây thất vọng về chất lượng.
 
-### Một công cụ trắc nghiệm tâm lý cho năng lực AI của giáo viên
+Giảng viên có thể viết chỉ dẫn cho tác tử thành các bước có thứ tự. Khi giáo viên cấu hình chatbot bằng ngôn ngữ tự nhiên, thất bại chi phối là bỏ sót một bước trong quy trình chứ không phải một sự kiện sai, nên kỹ năng đáng luyện là đặc tả trình tự và điều kiện tiên quyết, không phải thêm chi tiết về nội dung.
 
-- Một nghiên cứu trắc nghiệm tâm lý đã phát triển Thang Năng lực AI của Giáo viên (TAILS) để đo năng lực AI riêng trong [[teacher-education|đào tạo giáo viên ngôn ngữ]], cụ thể hóa sáu chiều kích của khung ED-AI. Việc phát triển công cụ này lấp một khoảng trống trong các đánh giá nhắm tới sinh viên hoặc người dùng phổ thông, hỗ trợ việc đo lường năng lực AI của giáo viên.
+Lãnh đạo nhà trường có thể tài trợ những điều kiện làm cho năng lực trở nên dùng được: thời gian làm việc được trả lương, một chỗ trong thời khóa biểu và hỗ trợ đặc thù môn học. So sánh iRAISE phát hiện sự tự tin của giáo viên quyết định việc công cụ có được dùng hay không, và sự tự tin đi theo thực hành có hỗ trợ chứ không phải đào tạo đơn thuần.
 
-Bản thân bối cảnh công cụ đo từ đó đã được tổng quan. [[assessing-teachers-ai-literacy-measurement-tools-2026|Tổng quan hệ thống năm 2026 của Zainal, Mohd Matore và Maat về các công cụ đo năng lực AI của giáo viên]] thẩm định 33 công cụ xuất bản từ 2019 đến 2025 và phát hiện lĩnh vực này đơn điệu về phương pháp: 31 công cụ (93.9%) là thang tự báo cáo về sự tự tin được nhận thức, chỉ hai công cụ (6.1%) kiểm tra kiến thức một cách khách quan, và không công cụ nào dùng nhiệm vụ dựa trên hiệu năng. Độ nhất quán nội tại là lĩnh vực chất lượng mạnh nhất (28 trong 33 đạt hạng A) và tính công bằng là yếu nhất, với năm công cụ (15.2%) báo cáo bằng chứng về tính bất biến của phép đo hoặc chức năng khác biệt của mục. Nội dung cũng tụt lại sau công nghệ, vì 29 công cụ (87.9%) nhắm tới các khái niệm AI chung và chỉ bốn công cụ (12.1%), tất cả từ năm 2025, đề cập AI sinh tạo.
+Trưởng bộ môn có thể đánh giá năng lực bằng việc chứng minh. Thang tự báo cáo và việc chứng minh phân kỳ, và các công cụ được xem xét ở đây đo những cấu trúc rất khác nhau, nên một bộ hồ sơ bài dạy hoặc bài làm đã chấm của sinh viên nói nhiều hơn một khảo sát mức sẵn sàng.
 
 ## Những hiểu lầm phổ biến
 
@@ -178,16 +201,18 @@ Bản thân bối cảnh công cụ đo từ đó đã được tổng quan. [[a
 
 ## Bài viết liên quan
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Những giáo viên nào được lợi về thời gian lập kế hoạch: tự tin về tri thức chuyên ngành thấp hơn, tri thức sư phạm thấp hơn, mới vào nghề hoặc tự tin với công nghệ cao
-
+- [[feng-ai-literacy-psychological-dimensions-2026]] — Sáu chiều kích năng lực AI của giáo viên, trong đó có tri thức bối cảnh và phát triển nghề nghiệp liên tục (Feng & Carolus, 2026)
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 giảng viên thiết kế: mức tăng năng lực và lo âu AI đi lên cùng nhau, nên sự hỗ trợ chứ không phải đào tạo quyết định kết quả (Ding và cộng sự, 2026)
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — Tổng quan bốn quốc gia của iRAISE: 84 trong 194 quốc gia đưa MIL vượt ra ngoài kỹ năng kỹ thuật vào chương trình, và các yếu tố con người quyết định kết quả ở cả bốn hệ thống (Cerioli, 2026)
+- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 giáo viên mới vào nghề sửa lại giáo án do AI tạo; thích ứng là khoảng trống lớn nhất (Wilcoxen và cộng sự 2026)
 - [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Năng lực nghiên cứu của giáo viên hóa học sau phát triển chuyên môn có hỗ trợ AI: một nghiên cứu hỗn hợp trước-sau
 - [[walkington-teacher-in-loop-personalized-tasks-2026]] — Cá nhân hóa nhiệm vụ toán trung học cơ sở với ChatGPT có giáo viên trong vòng lặp (Walkington và cộng sự 2026)
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Những giáo viên nào được lợi về thời gian lập kế hoạch: tự tin về tri thức chuyên ngành thấp hơn, tri thức sư phạm thấp hơn, mới vào nghề hoặc tự tin với công nghệ cao
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — Giáo viên chấp nhận AI trong khi hiểu sai cách nó hoạt động (Aji và cộng sự 2026)
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Sự sẵn sàng của giáo viên và tích hợp công nghệ-sư phạm là thách thức được báo cáo thường xuyên nhất trên 54 nghiên cứu giáo dục toán học (Manto và cộng sự 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Năng lực đánh giá đa phương thức: một chương trình kéo dài một năm nơi kiến thức và năng lực dịch chuyển còn giá trị thì không
 - [[teacher-ai-literacy-professional-development-meta-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Phát triển chuyên môn Intelligent-TPACK: nửa độ lệch chuẩn mức tăng, và những mức tăng âm được đọc như sự hiệu chỉnh lại - Tác động của các chương trình phát triển chuyên môn đối với năng lực AI của giáo viên K-12: một tổng quan hệ thống và phân tích tổng hợp
-
 - [[ailithub-ai-literacy-case-infrastructure-2026]] — Giáo viên gắn nhãn các trường hợp AI trong lớp học của chính mình và đạt tới các năng lực thực tiễn một cách dễ dàng nhưng hiếm khi chạm tới các năng lực xã hội và đạo đức (Wang và cộng sự 2026)
 - [[typology-generative-ai-tools-education-2026]] — Chọn công cụ như một cách thực hiện quyền chủ động của nhà giáo dục
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Tổng quan hệ thống về AI sinh tạo trong dạy và học K-12 (Marzano 2026)
@@ -235,7 +260,11 @@ Bản thân bối cảnh công cụ đo từ đó đã được tổng quan. [[a
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Bốn hồ sơ niềm tin của giáo viên trong TALIS 2024 nối việc học nghề nghiệp và những trở ngại đặc thù theo hồ sơ đối với việc dùng AI
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Thiết kế các mô-đun học tập vi mô về AI cho giáo viên đại học trong đào tạo giáo viên nghề: một nghiên cứu dựa trên thiết kế
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: các chatbot do giáo viên cấu hình thất bại thế nào trong sử dụng thực tế và cách sửa
-
 - [[chen-ai-visualization-teaching-competency-scale-2026]] — Phát triển và kiểm chứng thang năng lực dạy học trực quan được AI trao quyền
 - [[bursic-ai-residency-education-curriculum-2026]] — Các rào cản tích hợp AI vào chương trình nội trú: phỏng vấn định tính với mười hai bác sĩ lãnh đạo
 - [[yuan-teacher-need-satisfaction-genai-2026]] — Sự thỏa mãn các nhu cầu tâm lý cơ bản của giáo viên và ý định sử dụng AI sinh tạo: vai trò trung gian của sự tham gia vào phát triển chuyên môn
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — Thái độ của giáo viên Scandinavia đối với trí tuệ nhân tạo sinh tạo: khám phá các mối liên hệ
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Dải năng lực tự đánh giá của giảng viên được dự báo phần lớn từ đơn vị công tác chứ không phải các thuộc tính cá nhân
+- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Việc tiếp nhận được phán đoán theo từng ngành học, với lập luận của sinh viên là mối lo chính
+- [[chen-future-faculty-development-ai-2027]] — Năng lực được phân bổ trong một nhóm giảng dạy, với năng lực kỹ thuật và đạo đức nền tảng được giữ phổ quát
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Các khuôn khổ liệt kê năng lực và để những điều kiện của phán đoán không được lý thuyết hóa

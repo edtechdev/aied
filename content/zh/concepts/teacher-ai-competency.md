@@ -1,7 +1,7 @@
 ---
-title: 教师AI素养
+title: 教师 AI 素养
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,13 +13,17 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-16T08:24:32-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -50,12 +54,9 @@ ai_assist:
 - **规定智能体工作流：**当教师用自然语言配置聊天机器人时，主导的失败是意图丢失而非事实错误——机器人在53.8%的终端用户对话中跳过了必需的工作流步骤，并在33.4%的对话中省略了期望设置（[[eduwild-teacher-configured-chatbots-failures-2026|Liu 等（2026）]]），因此把有序、明确的步骤写出来本身就是一项可训练的素养维度。
 - **教学知识是决定性的一层。** 一项针对[[k-12|中学]][[ai-education|AI教育]]的跨层次研究（[[pedagogy-first-technology-second-teacher-knowledge-2026|46名教师，2,832名学生]]）发现，单纯的技术性AI知识并不足够——甚至可能略微削弱学生对"AI向善"的认知——而教学性AI知识则驱动了学生的认知及其学习AI的意愿。因此，素养框架应把教学性AI知识作为枢纽维度来赋权，而不是当作可有可无的软性附加项。
 - **教学整合：** 将AI使用映射到学习目标，设计支持学生[[metacognition|元认知]]与自我[[regulation|调节]]的[[scaffolding]]，并把AI整合进[[learning-design|教学设计]]。[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK研究]]刻画了教师如何通过多[[agentic-ai|智能体]]工作流来组合技术、教学与内容知识，而[[teacher-ai-teaming-five-levels|五级教师—AI协作框架]]（交易型 → 协同型）则捕捉了[[generative-ai|GenAI]]可能替代、补充还是增强教师能力的不同方式。
-
 - **研究素养：** 用 AI 进行课堂数据分析是教师专长中一个可训练的维度；一项为期六周、有 105 名化学教师参与的 AI 支持项目在所有测量维度上都产生了前后测增益（Cohen dz 0.47 到 0.63，p < 0.001）（[[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay 等（2026）]]）。它还把教师对 AI 的感知从检索与写作转向研究规划与基于数据的决策。
-
 - **评估素养：** 评估AI生成的内容与学生的AI产出，并理解当学生使用AI时[[assessment-validity|效度]]如何发生变化。这与[[automated-assessment]]、[[ai-detection]]以及更广义的[[assessment]]再设计议程相连。就推荐系统而言，这还延伸到判断AI的解释是否真正可理解、具有教学意义：[[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor等人（2025）]]发现，当解释以领域（课程）语言表述而非暴露原始模型特征时，教师对AI分组建议的信任度更高——这是一种要求并评判[[explainable-ai|解释质量]]、而非接受不透明产出的技能。
 - **模型选择与提示设计是可展示的技能：** 工具性[[ai-literacy]]包含知道该用哪个模型、如何表述任务。[[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen等人（2026）]]让ChatGPT-4、Claude 3与Gemini Advanced在四组系统性变化的提示下，对153名职前教师的备课目标进行批评（研究1共 N = 240条反馈，研究2为345条），[[feedback]]按九个质量类别评分。仅模型选择就解释了评分质量方差的26.9%（研究2为18.4%），提示设计在此之上又显著增加了15.9%（5.7%）；唯一具有决定性的提示特征是领域专属技术语言，将其移除会显著降低质量（β = −0.412），而在研究1中添加示例、删除思维链指令并无显著差异。他们的解读——学科术语既能解锁训练数据中的相关内容，又像角色提示那样把请求框定为专业请求——再加上"使用当前能力最强的前沿模型"这一经验法则，使模型选择成为一种教学决策而非技术决策。
-
 - **视觉表征本身就是一个可测量的维度。** [[chen-ai-visualization-teaching-competency-scale-2026|Chen 等人（2026）]]在中国西部五个省份的 566 名教师中验证了一份五维度量表，用于生成、判断并据以行动视觉表征，各分量表的 alpha 从 0.911 到 0.934；它测量的是自报能力，没有重测信度，也没有对实践的观察。
 - **合乎伦理与批判性的使用：** 识别AI产出中的[[bias-mitigation|偏见]]，保护学生数据（[[privacy]]），并确保公平的结果（[[equity-in-ai-education]]）。[[llm-cultural-relevance-k12|文化相关的AI使用]]考察教师如何用LLM使材料多样化，而非强化主导规范。
 - **伦理责任是分散的，而非个人的。** 在七个国家案例中，教师被定位为AI使用的道德守门人，却缺乏制度性与认识论支持，因此伦理AI素养必须延伸到批判性与政治能动性，而非止于技术技能（[[raffaghelli-situated-ai-ethics-2026|Raffaghelli等人（2026）]]）。
@@ -71,6 +72,12 @@ ai_assist:
 
 **素养表现为修补，而不只是提示。** [[walkington-teacher-in-loop-personalized-tasks-2026|Walkington 等（2026）]]让 7 名中学数学教师改写 143 道题，并编码了 415 条后续提示：多数是在纠正现实性、可读性或数学结构，另有六人发现了不恰当或有偏见的输出——教师判断作为对生成任务的[[human-in-the-loop-ai|监控]]在运作，而不是作为提示流利度。
 
+**有两个维度是承诺，而不是分数。** [[feng-ai-literacy-psychological-dimensions-2026|Feng 与 Carolus（2026）]] 综合 58 项学校教育研究，把 *情境知识* 与 *持续的专业成长* 列入教师 AI 素养的六个维度，与基于 TPACK 的知识与技能、伦理、心理维度以及一个生成式 AI 专属维度并列。所综述的文献中有 13 篇把其教师概念化建立在 [[tpack|TPACK]] 之上。把成长读作一个维度而非一个结果，改变了能力框架必须测量什么：教师的轨迹与学校约束成为能力的一部分，而不是围绕能力的条件。
+
+**能力建设并不回应耗竭这条路径。** 在对 436 名高校设计教师的同一项调查中，[[ding-genai-colleague-teacher-depletion-2026|Ding 等人（2026）]] 发现生成式 AI 使用同时提高了教学 [[self-efficacy|自我效能感]]（β = 0.322）与 AI 焦虑（β = 0.268），而焦虑预测更少的创新教学与更多的工作退缩（β = −0.152 与 β = 0.264）。只建设技能的专业发展项目，让第二条路径原封不动 —— 其调节变量是组织支持与心理契约违背，而不是能力。
+
+框架规定了教师应当知道什么，却对其运用这些知识的条件保持沉默。[[ji-judgement-space-dialogic-inquiry-2027|Ji 与 Mercer（2026）]] 把 UNESCO 的教师框架、OECD 的教学罗盘、DigCompEdu 与 BEME 综述读作同一类清单，并指出 OECD 关于 AI 不得取代人类判断的坚持，并未附带说明什么能使这一主张成立。因此，再加一个维度的能力模型，恰恰错过了该文所指的缺口。
+
 ## 素养差距
 
 一项关键发现是[[self-report-measures|自评]]素养与表现本位素养之间的**差距**。[[ai-literacy-assessment-misalignment|关于AI素养评估的研究]]记录了教师*认为*自己能做到的事与真正能*展示*的事之间存在巨大差异（最高约40%）——对AI技能有信心的教师往往缺乏基础的提示与评估能力。这推动了对教师素养采取**[[assessment|表现本位评估]]**，而非依赖自评，并与[[self-assessment|校准式自评]]相连。一项覆盖2,586名尼日利亚中学教师的全国调查用两套独立量表测量这两个侧面——AI认知中等（8分制 M = 3.13），AI教学技能较低（5分制 M = 2.47）——且早中期职业教师自评技能高于资深同事（[[nigerian-teachers-ai-awareness-pedagogical-skills-2026|Olurinola等人，2026]]）。
@@ -81,7 +88,11 @@ ai_assist:
 
 一项在印度尼西亚对132名教师的调查发现了近乎普遍的接受与薄弱的机制性理解并存：96.2%认同教师使用AI，但只有4.6%能说出分词（tokenization）或解码，21.5%相信ChatGPT会检索数据库或互联网（[[ai-misconceptions-indonesian-k12-teachers-2026|Aji 等（2026）]]）。正面的态度并不构成对该工具可用心智模型的证据。
 
+- **使用与生成式 AI 培训会沉淀态度；一般信心不会。** 在 TALIS 2024 中，使用过 [[generative-ai|生成式 AI]] 的斯堪的纳维亚教师在收益认同上高出 0.72 个标准差，在对其不确定感上低 0.26 个标准差，生成式 AI 专属的专业发展再增加 0.20 个标准差，而使用者也更常认同被误用的担忧（[[white-scandinavian-teachers-genai-attitudes-2026|White 等人，2026]]）。在 425 名 K-12 专业人员中，认识论警觉能力预测校准过的 AI 准备度（β = .675），而自主动机不能（β = .076），且只有 143 人报告存在明确的书面 AI 政策（[[song-calibrated-ai-readiness-k12-2026|Song，2026]]）。
+
 差距既体现在自评中，也体现在成果本身。一项[[ai-integration-instructional-design-collaboratory-2026|跨校的教师培养协作体]]让教师教育者把AI设计进自己的方法课程，报告称学员能产出光鲜的AI辅助教案，却无法解释一份教案为何适配学习者与标准——因为教案本身不包含其背后的推理。把评分重心放在论证而非成品是一种回应。[[bondurant-shaughnessy-ai-pedagogies-practice-2026|实践教学法框架]]提供了另一种回应，把演练视为实践的近似：AI中介的演练配合结构化的演练后反馈提升了学员使用追问与探究式问题的频率，但学员对自身表现的判断仍与观察者记录的结果相偏离。
+
+一项院系层面的模型表明，自评信号中的一部分是机构性的，而非个体性的。[[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez 等人（2026）]] 预测 315 名大学教师的数字能力自评档位，发现所属机构是最大的全局贡献者，超过年龄与学位，各机构的教学能力高档位分别为 90.1% 与 42.9%（χ² = 82.710，V = 0.512）。一个追踪受访者受雇于哪所大学的能力分数，测量的是情境，而不只是能力。
 
 **训练后自评下降可能意味着学习，而非损失。** 在一项为期六个月的[[tpack|智能TPACK]][[educational-development|专业发展]]项目中，64名香港大学教师与61名对照组相比，总体AI素养上升约半个标准差（Cohen's d = −.521），但两组中都有部分教师在后期测试的得分低于前测（[[intelligent-tpack-pd-intervention-hongkong-2025|Tan、Cheng 与 Ling，2025]]）。访谈将下降归因于从"无意识的不胜任"转向"有意识的不胜任"——即邓宁—克鲁格效应所预测的重新校准——而非技能丧失。作者的结论是：前后测自评低估了干预效果，因为部分增益以量表本身的向下修正形式到来。
 
@@ -90,6 +101,8 @@ ai_assist:
 **差距还表现为不参与。** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson 与 Rainie（2026）]]在2025年末调查了1,057名美国高校教师，发现26%完全不使用[[generative-ai|生成式AI]]工具，三分之一选择不将其用于教学，且不使用集中于艺术与[[humanities-education|人文学科]]（40%）。差距的制度一侧大于个人一侧：68%表示其学校未就使用生成式AI进行教学与指导对教师作准备，教师把同事的抗拒（82%）与不熟悉（83%）列为系级采用的首要障碍——这是一幅能力建设、同伴规范与政策必须同步推进的图景。
 
 **职前训练在很大程度上绕过了这一素养的伦理维度。** 一项关于AI用于小学职前数学教师初始训练的[[meta-analysis-systematic-review|系统综述]]（[[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto等人，2026]]，从341条记录中选出11项研究）发现，干预集中于短期的技术与教学增益，11项中有9项只进行了1至6次课的简短干预，并报告伦理仅在11项中的3项里被处理。素养框架把伦理判断列为一个维度；而本应建构它的职前文献却很少教授或测量它。
+
+采用经由对学科的判断，而不是经由一般的热情。在对四所中国大学 14 位教师的访谈中，参与者以自己领域的知识要求来判断 AI 是否有用，把它保持在辅助角色，并把使用与否取决于明确的目的以及学生先行思考（[[xiong-teachers-ai-attitudes-chinese-higher-ed-2026|Xiong 等人（2026）]]）。他们最一致的担忧不是自己的技能，而是学生把思考过程交了出去。
 
 - **七个能力簇，伦理是最弱的一环。**一项对 78 项研究的主题综合得出以下能力簇：提示工程、对 AI 输出的[[critical-thinking|批判性评价]]、伦理意识与偏见检测、教学内容对齐、概念性的 AI 素养、人的监督与反思。提示工程是被最一致记录的一项，并且表现为一个**发展性光谱**而非单一技能，这使综述者论证它最好被理解为经由一种新媒体进行的教学推理：提示即一项外化的设计决定。伦理意识是职前研究中**被记录得最弱的能力**（[[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou 与 Kameas，2026]]）。
 - **教师高估自己的评价技能。**除了只有 **38.3% 的 AI 生成学习目标在未经修订的情况下满足全部质量标准**这一发现之外，职前教师**系统性地高估自己评价聊天机器人输出的能力**，综述者把这读作一种可能属于感知而非陈述层面的赤字。这正是他们主张能力应通过表现性工件（教案、决策日志、微格教学）而非自评来评估的原因：自评的不可靠性，恰恰在训练本应回应的那部分文献中被演示了出来。
@@ -123,28 +136,38 @@ ai_assist:
 
 - **价值滞后于技能，在领域专属项目中亦然。** 在一项为期一年、覆盖30名英语教师的香港项目中，[[multimodal|多模态]]评估策略知识从3.13升至4.15（满分5分，partial η² = 0.571），支持学生的能力从3.05升至3.98（0.482），两者均显著，而在Bonferroni校正的 α = .006 下，每个价值子域都保持统计上的平稳。教师把增益归因于校内共同备课与跨校集群会议，而非工作坊本身（[[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang等人（2026）]]）。
 
-- **微学习可以发展高校教师的AI胜任力。** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky（2026）]]把两个[[vocational-education|职业教育]]模块经过两轮在线小组讨论精炼为五条设计原则——清晰的结构与定位、指导与导航支持、分割与模块化、多模态呈现以及学习者激活——并发现平台导航与定位模块是主要的实际障碍。
+- **AI 教案只是基线，中介才是能力所在。** 26 位初任教师在修订 AI 生成的教案时改写了任务、补充了示范与语言支持、澄清了目标，并围绕课堂后勤重建了顺序，把自己的角色描述为检视与定制，而非接受产出（[[wilcoxen-steiner-bell-ai-lesson-planning-2026|Wilcoxen 等人，2026]]）。
 
+- **微学习可以发展高校教师的AI胜任力。** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky（2026）]]把两个[[vocational-education|职业教育]]模块经过两轮在线小组讨论精炼为五条设计原则——清晰的结构与定位、指导与导航支持、分割与模块化、多模态呈现以及学习者激活——并发现平台导航与定位模块是主要的实际障碍。
 - **采用意向靠需要满足驱动。** 在一项针对 146 名教师的结构模型中，胜任需要满足经由[[motivation|内在动机]]与专业发展中的投入预测了使用 GenAI 的意向（间接效应 0.233），而自主与关系需要的满足则没有（[[yuan-teacher-need-satisfaction-genai-2026|Yuan 等，2026]]）。
 
-## 教师AI素养与转型中的教师角色
+没有课时安排的培训抵达不了学生。iRAISE 2026 年的四国综述把这一点结构化地摆出：课程、教师培训与材料的影响都有限，除非学校留出时间教授数字与 AI 素养 —— 通过专门课时或跨学科项目 —— 而这迫使学校决定削减或替换哪些既有内容或活动（[[cerioli-human-centered-ai-literacy-schools-2026|Cerioli，2026]]）。该综述还把培训放进带薪工作时间内，从初始教师教育开始并贯穿职业生涯，按学科与角色区分 —— 这些条件把能力当作一种工作条件，而非个人成就。在其全部四个案例研究中，决定是否有任何东西被使用的，是教师信心而不是工具的可得性。
+
+## 测量教师 AI 素养
+
+[[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez（2026）]] 以 434 名在职教师验证了一份基于 TAM 的诊断工具。行为意向是在课程规划中使用生成式 AI 的数字能力的主要预测因子，自我效能感则是根源性驱动因素。
+
+一项心理测量研究开发了教师 AI 素养量表（TAILS），以在 [[teacher-education|语言教师教育]] 中测量 AI 素养，把 ED-AI 框架的六个维度操作化。该工具填补了一个空白：既有评估是为学生或一般使用者写的，而不是为教师。
+
+此后，工具格局本身也已被综述。[[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal、Mohd Matore 与 Maat（2026）关于教师 AI 素养测量工具的系统综述]] 比较了现有量表实际测量什么、在何处分歧，这是采用任何一份量表之前首先要读的东西。
+
+测量假定个体是正确的单位，而角色分工削弱了这一假定。[[chen-future-faculty-development-ai-2027|Chen 等人（2026）]] 把七种教师角色中的五种分布在一个教学团队中，同时让基础的技术与伦理能力保持普遍，于是一个个体分数描述的是某位贡献者的份额，而不是这门课实际赖以运转的能力。只测量个体的项目，会把一个配置良好的团队读成一组残缺的教师。
+
+## 教师 AI 素养与转型中的教师角色
 
 随着AI接管常规的教学与评估任务，教师独特的贡献转向编排、判断与关系：决定何时以及如何使用AI，为[[agency|学生能动性]]与批判性使用提供支架，确保公平，并提供AI无法给予的社会与情感支持。这把教师素养重新框定为围绕[[human-in-the-loop-ai|人在回路]]的监督、[[ethics|伦理判断]]，以及[[self-regulated-learning|支持自我调节学习]]——并与[[teacher-role]]和[[cognitive-offloading|防范过度依赖]]相连。
 
-## 对AI在教育中的启示
+## 实践启示
 
-- **评估表现，而非仅凭自评：** 鉴于已记录的自评差距，教师素养应通过示范来评价。
-- **训练完整素养，而非只训工具：** 专业发展应同时建构技术、教学、评估与伦理维度，并扎根于[[learning-theories|学习理论]]。
-- **与技能同步建立信心：** 态度与[[self-efficacy]]塑造采用，因此专业发展应通过真实、有支持地实践来降低焦虑、建立信心。
-- **支撑制度层面：** 可持续的教师素养需要对齐的政策、治理与能力，而非孤立的培训。
+教师发展者可以把专业发展对准教学性的 AI 知识，而不是工具熟练度。建构了教学内容知识的项目报告了很大的前后测增益，这说明上限比一次工作坊所暗示的更高，而在所综述的研究中，单纯的技术培训并未改变学生的感知。
 
-- **面向GenAI[[curriculum-design|课程设计]]的教师数字素养。** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez（2026）]]以434名在职教师验证了一份基于TAM的诊断工具；行为意向是使用GenAI进行课程规划的数字素养的主要预测变量，自我效能则是根本驱动因素。
+教师教育者可以把提示培训所带来的两样东西分开。节省的备课时间是一项收益，更好的材料是另一项，而证据支持前者、不支持后者。承诺两者的项目会在质量上令人失望。
 
-### 教师AI素养的心理测量工具
+教师可以把智能体指令写成有序步骤。当教师用自然语言配置聊天机器人时，主要失败是跳过了某个工作流步骤，而不是事实错误，因此值得练习的技能是指明顺序与前提条件，而不是补充更多关于内容的细节。
 
-- 一项心理测量研究开发了教师AI素养量表（TAILS），以在[[teacher-education|语言教师教育]]中专门测量AI素养，将ED-AI框架的六个维度操作化。该工具的开发填补了针对学生或一般使用者的评估空白，支持对教师AI素养的测量。
+学校领导者可以为使能力可用而资助条件：带薪工作时间、课表中的位置与学科专属支持。iRAISE 的比较发现，决定工具是否被使用的是教师信心，而信心来自有支持的实践，而非仅靠培训。
 
-此后，工具格局本身也已被综述。[[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal、Mohd Matore 与 Maat（2026）关于教师AI素养测量工具的系统综述]]评估了2019至2025年间发表的33份工具，发现该领域在方法上高度单一：31份（93.9%）是感知信心的自评量表，仅两份（6.1%）客观地测知识，且没有一份使用表现本位任务。内部一致性是最强的质量域（33份中28份为A级），公平性最弱，有五份工具（15.2%）报告了测量不变性或题目功能差异的证据。内容也滞后于技术，因为29份工具（87.9%）针对一般AI概念，只有四份（12.1%，全部出自2025年）涉及生成式AI。
+院系负责人可以以示范来评价能力。自评量表与示范存在分歧，而这里所综述的工具测量的是很不相同的构念，因此一份含授课教案或已批改学生作业的作品集，比一份准备度调查说明了更多。
 
 ## 常见误解
 
@@ -176,16 +199,18 @@ ai_assist:
 
 ## 关联文章
 
+- [[feng-ai-literacy-psychological-dimensions-2026]] — 58 项学校教育研究：教师六个与学生八个 AI 素养维度共享一个心理核心（Feng 与 Carolus，2026）
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 名高校设计教师：生成式 AI 同时提升教学自我效能与 AI 焦虑，后者预测更少创新教学与更多退缩（Ding 等人，2026）
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE 四国综述：194 个国家中 84 个把媒介与信息素养带进技术技能之外的课程（Cerioli，2026）
+- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 位初任教师修订 AI 教案：改写任务、补充支架，而非接受产出（Wilcoxen 等人，2026）
 - [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — AI 支持的专业发展之后化学教师的研究素养：一项混合方法前后测研究
 - [[walkington-teacher-in-loop-personalized-tasks-2026]] — 教师在回路中用 ChatGPT 个性化中学数学任务（Walkington 等 2026）
-
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — 哪些教师获得了备课时间：学科知识信心较低、教学知识较低、从业时间较短或对技术信心较高
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — 教师接受AI，却误解它如何运作（Aji et al. 2026）
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — 54项数学教育研究中最常报告的挑战：教师准备度与技术—教学整合（Manto et al. 2026）
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — 多模态评估素养：一项知识与能力提升、价值却未变的年度项目
-- [[teacher-ai-literacy-professional-development-meta-2026]]
+- [[teacher-ai-literacy-professional-development-meta-2026]] — 教师 AI 素养专业发展的元分析
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — 智能TPACK专业发展：半个标准差的增益，以及可解读为重新校准的负增益 — The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
-
 - [[ailithub-ai-literacy-case-infrastructure-2026]] — 教师为自己的课堂AI案例打标，实践性素养易于触及，社会性与伦理性素养则少见（Wang et al. 2026）
 - [[typology-generative-ai-tools-education-2026]] — 工具选择作为教育者能动性的行使
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — 生成式AI在K-12教与学中的系统综述（Marzano 2026）
@@ -210,13 +235,13 @@ ai_assist:
 - [[institutional-change-framework-ai]] — AI的制度变革框架
 - [[teachingcoach-chatbot-instructor-guidance]] — 用于教师指导的TeachingCoach聊天机器人
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI是身份危机，而非技能缺口
-- [[raffaghelli-situated-ai-ethics-2026]]
+- [[raffaghelli-situated-ai-ethics-2026]] — 情境化的 AI 伦理：教师伦理素养如何落地
 - [[guillen-curriculum-genai-teacher-competence-2026]] — 面向GenAI课程设计的教师数字素养评估（Guillén-Gámez 2026）
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — 高校教师AI理解的现象图式研究
 - [[ukraine-ai-literacy-secondary-framework-2026]] — 乌克兰中学教育者的五级AI素养框架与专业发展（Marienko et al. 2026）
 - [[wang-teacher-ai-co-design-review-2026]] — 教师—AI学习任务共创：趋势与展望（Wang et al. 2026）
 - [[talebzadeh-ai-group-activity-roles-2026]] — AI设计的差异化小组活动中的角色架构（Talebzadeh 2026）
-- [[xai-teachers-trust-edtech-recommendations-2026]]
+- [[xai-teachers-trust-edtech-recommendations-2026]] — 以教师的领域语言解释 AI 分组建议，远比特征重要性更受信任（Feldman-Maggor 等人，2025）
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — 提示工程与模型选择作为AI反馈质量的预测变量（Jacobsen et al. 2026）
 - [[vassallo-ai-guilt-complex-faculty-2026]] — AI内疚情结：教职员中的预期性内疚与四种道德反应画像（Vassallo 2026）
 - [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — 一场三小时教师专业发展课程提升了感知有用性与易用性，但未改变申明的采用意向（Mesenhöller & Böhme 2026）
@@ -233,9 +258,11 @@ ai_assist:
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — 四个TALIS 2024教师信念画像把专业学习与画像特定的AI使用障碍相连
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — 为职业教育教师教育中的高校教师设计AI微学习模块：一项设计本位研究
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild：教师配置的聊天机器人在真实使用中如何失败，以及如何修复
-
 - [[chen-ai-visualization-teaching-competency-scale-2026]] — AI 赋能教师视觉化教学胜任力量表的开发与验证
-
 - [[bursic-ai-residency-education-curriculum-2026]] — 把 AI 整合进住院医师课程的障碍：对十二位医师领导者的质性访谈
 - [[yuan-teacher-need-satisfaction-genai-2026]] — 教师的基本心理需要满足与使用生成式人工智能的意向：专业发展中投入的中介作用
-
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2,159 名斯堪的纳维亚教师：所感知收益提升 0.20 SD（White 等人，2026）
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — 315 名大学教师：所属机构是数字能力自评的最大贡献者（Moreira-Choez 等人，2026）
+- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — 14 位中国高校教师：采用取决于学科的知识要求，而非一般热情（Xiong 等人，2026）
+- [[chen-future-faculty-development-ai-2027]] — 七种教师角色可以分布在一个团队中，前提是人人保留基础能力（Chen 等人，2026）
+- [[ji-judgement-space-dialogic-inquiry-2027]] — 判断空间作为关系性、规范性与条件性的互动；AI 使其成为三方（Ji 与 Mercer，2026）

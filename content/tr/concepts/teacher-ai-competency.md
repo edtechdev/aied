@@ -1,4 +1,5 @@
 ---
+updated: "2026-11-17T20:00:00-05:00"
 title: "Öğretmen YZ Yetkinliği"
 created: "2026-10-14T22:20:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
@@ -12,13 +13,17 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-16T08:24:32-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -61,16 +66,19 @@ Bilgi tabanının araştırması, birbiriyle bağlantılı birkaç boyutta birle
 
 - Beş ülkedeki 1.405 K-12 öğretmeninin anketinde, YZ hazırbulunuşu, üretici YZ'nin öğretimsel değerine ilişkin olumlu inançları öngördü (B = .59, R² = .50) ama *daha fazla* [[creativity]] kaygısını öngördü (B = .18) ve aynı öngörücüler kaygının yalnızca %7'sini ve %6'sını açıkladı — yalnızca hazırbulunuş inşası kaygıyı dokunulmaz bırakır ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu ve ark. (2026)]]).
 
-
 Hazırbulunuş buna göre sıralanmalı ve ölçülmelidir: Yetenek–Karar Modeli, gösterilmiş YZ yeteneğini tutum ve güvenin önünde konumlandırır ve yalnızca öz bildirim yerine performans göstergeleri önerir — ders tasarım görevleri, hata tohumlu istek değerlendirme görevleri, içerik geçerliliği yargıları ve sınıf ürünü derecelendirme ölçekleri ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 **Duygusal ve ahlaki hazırbulunuş ayrı bir boyuttur.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]], bir Malta [[higher-ed|üniversitesinin]] akademik personelini (109 katılımcı) anketledi ve dört ahlaki-duygu maddesinden bir YZ Suçluluk Dizini (α = 0,88) oluşturdu; kullanımdan sonra yaşanan pişmanlığın üzerinde *önceden beklenen* suçluluğun ağır bastığını buldu: en güçlü onay, YZ kullanımının inandırıcılığı baltalayacağı endişesiydi (%34,9 onaylayan), sonra onu kullanırken [[academic-integrity|hile]] yapıyormuş gibi hissetmek (%25,7); kullanım sonrası pişmanlık ise yalnızca %9,2 çekti. Yetkinlik çerçeveleri için önemli olan bulgular şunlardır: kullanmayanlar kullananlardan *daha yüksek* suçluluk bildirdi (M = 3,25'e karşı M = 2,32) ve suçluluk kariyer güvencesi arttıkça düştü — kariyerinin başındaki akademisyenler en yükseğini bildirdi (M = 2,71), kıdemli akademisyenler en düşüğünü (M = 2,03). Duygusal hazırbulunuş bu nedenle beceri veya güven ölçütleriyle yakalanmaz ve makale, yetkinlik çerçevelerinin suçluluğu ve kimlik kaygısını düzeltilmesi gereken kusurlar değil normal geçiş yanıtları olarak ele alması gerektiğini savunur.
 
 Bu çerçevelemenin daha güçlü bir sürümü, üretici YZ'nin bir beceri boşluğundan çok bir eşik kavram olduğunu ileri sürer: otobiyografik bir anlatı, öğretim üyesi [[anxiety-and-stress|kaygısı]] ve direncin eşik geçişinin yapıcı olduğunu savunur; bu nedenle beceri temelli eğitim başarısız olur ve ilkeli benimsememe düzeltilmek yerine saygı görmelidir ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]]).
 
-
-
 **Yetkinlik yalnızca istem yazmak olarak değil onarım olarak görünür.** 7 ortaokul matematik öğretmeninin 143 problemi yeniden yazmasıyla [[walkington-teacher-in-loop-personalized-tasks-2026|Walkington ve ark. (2026)]], 415 takip istemini kodlamıştır: çoğu gerçekçiliği, okunabilirliği veya matematiksel yapıyı düzeltmiş, altısı uygun olmayan ya da önyargılı çıktıyı yakalamıştır — öğretmen yargısı, istem akıcılığı olarak değil üretilen görevin [[human-in-the-loop-ai|izlenmesi]] olarak işlemektedir.
+
+**İki boyut puan değil taahhüttür.** [[feng-ai-literacy-psychological-dimensions-2026|Feng ve Carolus (2026)]], 58 okul eğitimi çalışmasını sentezleyerek *bağlamsal bilgi* ve *sürekli mesleki gelişimi* öğretmen YZ okuryazarlığının altı boyutu arasına yerleştirir: TPACK temelli bilgi ve beceriler, etik, psikolojik boyut ve üretken YZ'ye özgü bir boyutun yanına. İncelenen makalelerin on üçü öğretmen kavramsallaştırmasını [[tpack|TPACK]] üzerine kurar. Gelişimi bir sonuç değil boyut olarak okumak, bir yetkinlik çerçevesinin neyi ölçmesi gerektiğini değiştirir: öğretmenin yörüngesi ve okul kısıtları yetkinliğin parçası olur, çevresindeki koşullar değil.
+
+**Yetkinlik inşası tükenme yolunu yanıtlamaz.** 436 üniversite tasarım öğretmeniyle yapılan aynı ankette [[ding-genai-colleague-teacher-depletion-2026|Ding ve ark. (2026)]], üretken YZ kullanımının hem öğretme [[self-efficacy|öz-yeterliliğini]] (β = 0,322) hem YZ kaygısını (β = 0,268) aynı anda yükselttiğini ve kaygının daha az yenilikçi öğretimi ve daha fazla işten çekilmeyi öngördüğünü (β = −0,152 ve 0,264) bulmuştur. Yalnızca beceri inşa eden bir mesleki gelişim programı ikinci yolu el değmeden bırakır — düzenleyiciler yetkinlik değil örgütsel destek ve psikolojik sözleşme ihlaliydi.
+
+Çerçeveler bir öğretmenin ne bilmesi gerektiğini belirtir ve bu bilginin hangi koşullarda kullanıldığı konusunda sessiz kalır. [[ji-judgement-space-dialogic-inquiry-2027|Ji ve Mercer (2026)]], UNESCO'nun öğretmen çerçevesini, OECD öğretim pusulasını, DigCompEdu'yu ve BEME derlemesini tek bir liste türü olarak okur ve OECD'nin YZ'nin insan yargısının yerini almaması gerektiği ısrarının, bu iddiayı neyin doğru kılacağına dair bir açıklama olmadan geldiğini not eder. Bu nedenle bir boyut daha ekleyen yetkinlik modelleri, makalenin adlandırdığı boşluğu ıskalar.
 
 ## Yetkinlik boşluğu
 
@@ -86,16 +94,20 @@ Boşluk öz bildirimde olduğu kadar üründe de görülür. [[ai-integration-in
 
 **Eğitimden sonra düşen öz değerlendirme, kayıp değil öğrenme işareti olabilir.** 64 Hong Kong üniversitesi öğretmeniyle altı aylık bir [[tpack|Akıllı-TPACK]] [[educational-development|mesleki gelişim]] programında, 61 kontrole karşı, genel YZ yetkinliği yaklaşık yarım standart sapma arttı (Cohen's d = −.521), ancak her iki gruptaki bazı öğretmenler son testte ön testten daha düşük puan aldı ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Görüşmeler, düşüşleri bilinçsizden bilinçli yetersizliğe geçişe — Dunning–Kruger etkisinin öngördüğü yeniden kalibrasyona — kaynak gösterdi, kaybedilen beceriye değil. Yazarlar, ön-son öz bildiriminin bir müdahaleyi eksik göstermesi sonucuna varır; çünkü kazanımın bir kısmı, aletin kendisinde aşağı yönlü bir düzeltme olarak gelir.
 
-
-
 **Boşluk, hattın ilerleyen aşamalarında tersine dönebilir.** Lisansüstü [[medical-education|tıp eğitiminde]], YZ müfredat çalışmalarına önderlik eden on iki hekim, asistanların YZ konusunda birçok öğretmenlerinden daha akıcı hale gelmesini beklemiş ve öğretim üyelerinin tek yönlü [[lifelong-learning|beceri yükseltmesi]] yerine birlikte öğrenme ve birlikte öğretmeyi önermiştir ([[bursic-ai-residency-education-curriculum-2026|Bursic ve ark. (2026)]]). Aynı görüşmeler, müfredat geliştirmeye önderlik edecek olgunluğa henüz ulaşmamış bilişim birimlerini betimlemiş; bu da kısıtı bireysel beceri kadar kurumsal kapasiteye de yerleştirmiştir.
 
 **Boşluk katılmama olarak da görülür.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]], 2025 sonunda 1.057 ABD üniversite öğretim üyesini anketledi ve %26'sının [[generative-ai|üretici YZ]] araçlarını hiç kullanmadığını buldu; üçte biri onları öğretim için kullanmamayı seçti ve kullanmama, sanatlarda ve [[humanities-education|beşeri bilimlerde]] yoğunlaştı (%40). Boşluğun kurumsal yanı bireysel olandan büyüktü: %68'i okullarının öğretim üyelerini üretici YZ'yi öğretim ve mentorluk için kullanmaya hazırlamadığını söyledi ve öğretim üyeleri, bölüm benimsemesinin önündeki en önemli engeller olarak meslektaşlarının direncini (%82) ve aşinalıksızlığını (%83) adlandırdı — yetenek inşası, akran normları ve politikanın birlikte hareket etmesi gerektiği bir tablo.
 
 **Ön hizmet eğitimi, yetkinliğin etik boyutunu büyük ölçüde atlar.** Öğretmen adayları ilkokul matematik öğretmenleri için başlangıç öğretmen eğitiminde YZ'nin [[meta-analysis-systematic-review|sistematik bir incelemesi]] ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto ve ark. 2026]], 341 kayıttan seçilen 11 çalışma), müdahalelerin kısa vadeli teknik ve pedagojik kazanımlar üzerinde yoğunlaştığını buldu; on birinin dokuzu bir ila altı oturumu kapsayan kısa müdahalerdi ve etiğin yalnızca on bir çalışmanın üçünde ele alındığını bildirdi. Yetkinlik çerçeveleri etik yargıyı bir boyut olarak adlandırır; onu inşa etmek için tasarlanan ön hizmet literatürü nadiren onu öğretir veya ölçer.
 
+- **Kullanım ve GenAI eğitimi tutumları yerleştirir; genel güven yerleştirmez.** TALIS 2024'te [[generative-ai|GenAI]] kullanmış İskandinav öğretmenler yarar konusunda 0,72 SD daha yüksek ve belirsizlik konusunda 0,26 SD daha düşük puan almış, GenAI'ye özgü mesleki gelişim 0,20 SD eklemiş ve kullanıcılar yanlış temsil kaygılarına da daha sık katılmıştır ([[white-scandinavian-teachers-genai-attitudes-2026|White ve ark., 2026]]). 425 K-12 profesyoneli arasında epistemik tetikte olma kapasitesi kalibre edilmiş YZ hazırbulunuşunu β = .675 ile öngörürken özerk motivasyon öngörmemiştir (β = .076) ve yalnızca 143'ü açık yazılı bir YZ politikası bildirmiştir ([[song-calibrated-ai-readiness-k12-2026|Song, 2026]]).
+
 - **Yedi yetkinlik kümesi, en zayıf halka etik.** 78 çalışmanın tematik sentezi istek metni mühendisliği, YZ çıktılarının [[critical-thinking|eleştirel değerlendirilmesi]], etik farkındalık ve önyargı tespiti, pedagojik-içerik hizalaması, kavramsal YZ okuryazarlığı, insan gözetimi ve yansıtma kümelerini üretir. İstek metni mühendisliği en tutarlı biçimde belgelenen kümeydi ve tek bir beceri olarak değil **gelişimsel bir yelpaze** olarak davranıyordu; bu da gözden geçirenleri, onun yeni bir ortam üzerinden yürütülen pedagojik akıl yürütme - dışsallaştırılmış bir tasarım kararı olarak istek metni - olarak anlaşılması gerektiğini savunmaya yöneltmiştir. Etik farkındalık, ön hizmet çalışmalarında **en zayıf belgelenen yetkinlikti** ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou ve Kameas, 2026]]).
 - **Öğretmenler kendi değerlendirme becerilerini fazla tahmin eder.** YZ ile üretilen öğrenme hedeflerinin yalnızca **%38,3’ünün** revizyon olmadan tüm kalite ölçütlerini karşıladığı bulgusunun ötesinde, öğretmen adayları **sohbet robotu çıktısını değerlendirme yeteneklerini sistematik olarak fazla tahmin eder**; gözden geçirenler bunu bildirimsel değil algısal bir eksiklik olarak okur. Bu yüzden yetkinliğin öz bildirim yerine performans ürünleri (ders planları, karar günlükleri, mikro öğretim) üzerinden değerlendirilmesi gerektiğini savunurlar: öz değerlendirmenin güvenilmezliği, eğitimin ele almayı amaçladığı literatürün tam içinde gösterilmiştir.
+
+Fakülte düzeyinde bir model, öz bildirim sinyalinin bir kısmının bireysel değil kurumsal olduğunu ima eder. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez ve ark. (2026)]], 315 üniversite akademik personelinin öz değerlendirdiği dijital yetkinlik bandını öngörmüş ve en büyük küresel katkıyı yaş ve derecenin önünde kurum bağlantısı bulmuştur; öğretme yetkinliği bantları kurumlar arasında %90,1'e karşı %42,9 yüksek olarak ayrılmıştır (χ² = 82,710, V = 0,512). Katılımcının hangi üniversitede çalıştığını izleyen bir yetkinlik puanı, yetenek kadar bağlamı da ölçüyordur.
+
+Benimseme, genel coşkudan çok disipline ilişkin yargıdan geçer. Dört Çin üniversitesinde 14 öğretmenle yapılan görüşmelerde katılımcılar YZ'yi kendi alanlarının bilgi taleplerine göre yararlı bulmuş, onu yardımcı bir rolde tutmuş ve kullanımı açık bir amaca ve öğrencilerin önce düşünmesine bağlı kılmıştır ([[xiong-teachers-ai-attitudes-chinese-higher-ed-2026|Xiong ve ark. (2026)]]). En tutarlı kaygıları kendi becerileri değil, öğrencilerin düşünme sürecini devretmesi olmuştur.
 
 ## İşe yarayan mesleki gelişim
 
@@ -108,7 +120,6 @@ Bilgi tabanının mesleki gelişim literatürü etkin yaklaşımları belirler:
 - **Destek deneyim ve YZ yeterliliğine göre farklılaştırılmalıdır.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi ve ark. (2026)]], öğretmenlerin ders tasarımında YZ ile gerçekte nasıl etkileşime girdiğinin, biri değil öğretim deneyimi ile YZ yeterliliğinin *etkileşimine* bağlı olduğunu buldu. Yüksek YZ yeterliliğine sahip deneyimli öğretmenler, YZ çıktısını bağlama göre eleştirel biçimde uyarlar (yeniden istek, açımlama), buna karşılık acemiler — teknik olarak akıcı olanlar bile — YZ yanıtlarını doğrudan kabul etme ve öğrencileri ile bağlamı nadiren düşünme eğilimindedir. Bu, profile dayalı mesleki gelişim gerektirir: acemiler için yanıt değerlendirme listeleri ve istek şablonları, daha düşük YZ yeterliliğine sahip deneyimli öğretmenler için uygulamalı beceri inşası.
 - **Zaman yararı da yalnızca destek tasarımını değil deneyim ve güveni izler.** [[roy-aila-lesson-planning-teacher-choices-2026|Roy ve ark.’nın (2026)]] bir YZ ders asistanı denemesinde, iş yükü azalması konu bilgisi güveni düşük, pedagojik bilgisi düşük, meslekte daha az süre geçirmiş veya teknolojiye güveni yüksek öğretmenler için daha büyüktü. Dolayısıyla yeterlilik ve güven, müdahalenin etkisinin de parçasıdır, yalnızca benimsenmesinin değil.
 
-
 İnanç yapılanması ikinci bir profil eksenidir: TALIS 2024'teki 40.680 öğretmen arasında, aynı kullanmama durumu karşıt engelleri maskelemekteydi — Kayıtsız profilinin %83,3'i pedagojik çekinceleri belirtirken, Ölçülü Onay profilinin %66,2'si yetersiz bilgi ve beceriyi belirtti ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]). YZ ile ilişkili mesleki öğrenme, üyelik profilini yaştan veya eğitim düzeyinden daha tutarlı biçimde izledi.
 
 - **Öğretmenler YZ'ye dair tek bir kavramsallaşmayı paylaşmaz.** 16 Danimarka yükseköğretim öğretmeninin fenomenografik bir çalışması, YZ ile öğretme ve YZ ile öğrenme kavramsallaşmalarından üçer tane buldu; böylece tek bir atölye modeli herhangi bir öğretim üyesi grubunun yalnızca bir kısmına ulaşır ([[stenalt-good-education-teacher-ai-conceptions-2026|Stenalt (2026)]]).
@@ -120,9 +131,10 @@ Bilgi tabanının mesleki gelişim literatürü etkin yaklaşımları belirler:
 - **Kurumsal destek:** [[educational-development|mesleki gelişim]], sürdürülebilir benimseme için kurumsal altyapı ([[educational-policy-ai|politika]], [[institutional-change-framework-ai|kurumsal değişim]]) ile eşleştirilmelidir.
 - **Yazım araçları pedagojik bağlılığı garanti etmez.** [[teachers-configure-educational-chatbots-2026|Riahi ve ark. (2026)]], mesleki gelişim atölyelerinde eğitim [[conversational-ai|sohbet robotları]] yapılandıran 27 ortaokul öğretmenini çalıştı, odak gruplarını yapılandırma ve etkileşim günlükleriyle birlikte analiz etti. Öğretmenler sohbet robotunu, öğretmen tanımlı kurallarla sınırlanmış bir öğretim iskelesi olarak ele aldı; ancak günlük temelli niyet-davranış hizalanması, duyarlılık için (%88,9) ve persona için (%81,5) kurallara (%70,4) ve amaca (%59,3) göre daha güçlüydü. Yapılandırılabilir denetimler tek başına pedagojik niyeti davranışa taşımaz; bu nedenle bir sohbet robotunun pedagojisini ifade etmek, test etmek ve rafin etmek, yazım araçlarının desteklemesi gereken başlı başına bir yetkinliktir.
 
-
 Tasarım temelli bir karşı örnek, yetkinliği bir merdivenin basamağı değil durumsal olarak ele alır. [[adaptive-ai-model-teacher-educators-2025|Eyal'ın 22 yükseköğretim öğretim eğitimcisiyle yürüttüğü 2025 tasarım temelli çalışmasında]], katılımcılar beş yayınlanmış değerlendirme çerçevesini inceleyip üç birbiriyle ilişkili eksen etrafında düzenlenmiş bir alternatifi ortak tasarladı: bağlam uyumu (altyapı, sosyo-kültürel etkenler, yerel ihtiyaçlar, gelişimsel aşama), mesleki ihtiyaçlar (disiplin, pedagoji, liderlik, destek) ve dinamik gelişim. Model sabit yetkinlik düzeylerini reddeder ve doğrusal olmayan ilerlemeye izin verir; 1'den 5'e derecelendirilen 20 maddelik yansıtıcı bir öz değerlendirme anketiyle birlikte gelir. Doğrulaması yalnızca [[qualitative-research|niteldir]], [[quantitative-research|nicel]] güvenilirlik testi yoktur; bu nedenle doğrulanmış bir araç yerine bir tasarım katkısı olarak durur.
 - **Meta-analitik tahmin.** [[teacher-ai-literacy-professional-development-meta-2026|Guo ve ark. (2026)]], 34 çalışmadan 212 etki büyüklüğünü havuzladı ve öğretmen YZ okuryazarlığı mesleki gelişimini g = 0,76 olarak tahmin etti (%95 GA [0.50, 1.02]), beceriler için en güçlü (g = 0,91) ve tutumlar ile değerler için en zayıf (g = 0,61); görünür yayın seçkisi için düzeltme tahmini yaklaşık g = 0,49'a düşürür.
+
+- **YZ planları bir tabandır ve yetkinlik aracılıktır.** YZ üretimi ders planlarını revize eden 26 yeni öğretmen görevleri yeniden yazmış, modelleme ve dil desteği eklemiş, hedefleri netleştirmiş ve dizilişi sınıf lojistiği çevresinde yeniden kurmuş; rollerini çıktıyı kabul etmek değil gözden geçirmek ve uyarlamak olarak tanımlamıştır ([[wilcoxen-steiner-bell-ai-lesson-planning-2026|Wilcoxen ve ark., 2026]]).
 
 - **Kazanımları, katılıyor olma duygusu değil devam öngörür.** Aynı altı aylık programda, devam oranı yetkinlik kazanımını öngördü (β = .407, p = .001) ama öz algılı katılım öngörmedi (β = .049, p = .692); disiplin, öğretim deneyimi ve mesleki unvan az açıkladı; yazarlar devamı davranışsal yatırım, algılanan katılımı yüzeysel düzeyde bağlılık olarak okur ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]).
 
@@ -132,24 +144,33 @@ Tasarım temelli bir karşı örnek, yetkinliği bir merdivenin basamağı deği
 
 - **Benimseme niyeti ihtiyaç doyumundan beslenir.** 146 öğretmenle kurulan bir yapısal modelde, yetkinlik ihtiyacı doyumu, üretken YZ kullanma niyetini [[motivation|içsel motivasyon]] ve mesleki gelişime katılım üzerinden öngörmüştür (dolaylı 0,233); özerklik ve ilişkisellik doyumu ise öngörmemiştir ([[yuan-teacher-need-satisfaction-genai-2026|Yuan ve ark., 2026]]).
 
+Ders programında zaman olmadan eğitim öğrencilere ulaşmaz. iRAISE'in 2026 dört ülke derlemesi bunu yapısal olarak ortaya koyar: müfredat, öğretmen eğitimi ve materyaller, okullar dijital ve YZ okuryazarlığını öğretmek için zaman ayırmadıkça — ayrı derslerle ya da dersler arası projelerle — yalnızca sınırlı etki yapar; bu da hangi mevcut içeriğin veya etkinliğin azaltılacağı ya da değiştirileceğine dair bir kararı zorunlu kılar ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). Derleme ayrıca eğitimi ücretli çalışma zamanının içine, ilk öğretmen eğitiminden başlayıp kariyer boyunca sürecek ve derse ve role göre farklılaşacak biçimde yerleştirir — yetkinliği kişisel bir başarı değil çalışma koşulu olarak ele alan koşullar. Dört vaka çalışmasının hepsinde herhangi bir şeyin kullanılıp kullanılmayacağına araç bulunabilirliği değil öğretmen güveni karar vermiştir.
+
+## Öğretmen YZ yetkinliğinin ölçülmesi
+
+[[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]], 434 çalışan öğretmenle TAM temelli bir tanı aracını doğrulamıştır. Davranışsal niyet, üretici YZ'yi müfredat planlamada kullanma dijital yetkinliğinin ana öngörücüsü, öz yeterlilik ise kök itici güç olmuştur.
+
+Bir psikometrik çalışma, YZ okuryazarlığını [[teacher-education|dil öğretmeni eğitimi]] kapsamında ölçmek için Öğretmenlerin YZ Okuryazarlığı Ölçeğini (TAILS) geliştirmiş ve ED-AI çerçevesinin altı boyutunu işlevselleştirmiştir. Araç, öğrenciler veya genel kullanıcılar için yazılmış değerlendirmelerdeki bir boşluğu ele alır.
+
+Araç manzarasının kendisi bu arada incelendi. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore ve Maat'ın 2026 öğretmen YZ okuryazarlığı ölçüm araçları sistematik incelemesi]], 2019 ve 2025 arasında yayınlanan 33 aracı değerlendirdi ve alanın yöntemsel olarak tek düze olduğunu buldu: 31'i (%93,9) algılanan güvenin öz bildirim ölçekleriydi, yalnızca ikisi (%6,1) bilgiyi nesnel olarak test etti ve hiçbiri performans temelli görevler kullanmadı. İç tutarlılık en güçlü kalite alanıydı (33'ünün 28'i A düzeyinde) ve adillik en zayıf olanı, beş aracın (%15,2) ölçüm değişmezliği veya farklı madde işlevi kanıtı bildirdi. İçerik de teknolojinin gerisinde kaldı; çünkü 29 araç (%87,9) genel YZ kavramlarını hedeflerken yalnızca dördü (%12,1), hepsi 2025'ten, üretici YZ'yi ele aldı.
+
+Ölçüm, bireyin doğru birim olduğunu varsayar ve rol dağıtımı bu varsayımı zayıflatır. [[chen-future-faculty-development-ai-2027|Chen ve ark. (2026)]], yedi öğretmen rolünün beşini bir öğretim ekibine dağıtırken temel teknik ve etik yetkinliği evrensel tutar; dolayısıyla bireysel bir puan, kursun gerçekte dayandığı kapasiteyi değil bir katılımcının payını betimler. Yalnızca bireyleri ölçen bir program, iyi kadrolanmış bir ekibi kısmi öğretmenler kümesi olarak okur.
+
 ## Öğretmen YZ yetkinliği ve dönüşen öğretmen rolü
 
 YZ rutin öğretim ve değerlendirme görevlerini devraldıkça, öğretmenin ayırt edici katkısı orkestrasyon, yargı ve ilişkiye doğru kayar: YZ'nin ne zaman ve nasıl kullanılacağına karar vermek, [[agency|öğrenci failliğini]] ve eleştirel kullanımı iskeleye bağlamak, eşitliği güvence altına almak ve YZ'nin sağlayamadığı sosyal ve duygusal desteği vermek. Bu, öğretmen yetkinliğini [[human-in-the-loop-ai|insan döngüsü]] gözetimi, [[ethics|etik yargı]] ve [[self-regulated-learning|öz düzenlemeli öğrenmeyi destekleme]] çevresinde yeniden çerçeveler — [[teacher-role]] ve [[cognitive-offloading|aşırı bağımlılığa karşı korumayla]] bağlantılı olarak.
 
-## Eğitimde YZ için çıkarımlar
+## Uygulama için çıkarımlar
 
-- **Yalnızca öz bildirimi değil performansı değerlendirin:** belgelenmiş öz bildirim boşluğu göz önüne alındığında, öğretmen yetkinliği gösterim yoluyla değerlendirilmelidir.
-- **Araçları değil bütün yetkinliği eğitin:** mesleki gelişim, [[learning-theories|öğrenme kuramına]] dayalı teknik, pedagojik, değerlendirme ve etik boyutları birlikte inşa etmelidir.
-- **Becerinin yanına güven inşa edin:** tutumlar ve [[self-efficacy]] benimsemeyi şekillendirir; bu nedenle mesleki gelişim, kaygıyı azaltmalı ve özgün, desteklenmiş uygulama yoluyla güven inşa etmelidir.
-- **Kurumsal katmanı destekleyin:** sürdürülebilir öğretmen yetkinliği, yalıtılmış eğitim değil hizalanmış politika, yönetişim ve kapasite gerektirir.
+Akademik personel geliştiricileri mesleki gelişimi araç akıcılığı yerine pedagojik YZ bilgisine yöneltebilir. Pedagojik içerik bilgisi kuran programlar büyük ön-son kazanımlar bildirmiştir; bu, tavanın tek bir atölyenin ima ettiğinden yüksek olduğunu gösterir ve incelenen çalışmalarda tek başına teknik eğitim öğrencilerin algılarını hareket ettirmemiştir.
 
-- **Üretici YZ [[curriculum-design|müfredat tasarımı]] için öğretmen dijital yetkinliği.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]], 434 çalışan öğretmeyle TAM temelli bir tanı aracını doğrular; davranışsal niyet, üretici YZ'yi müfredat planlamada kullanma dijital yetkinliğinin ana öngörücüsüydü, öz yeterlilik kök güç olarak.
+Öğretmen eğitimcileri istek metni eğitiminin satın aldığı iki şeyi ayırabilir. Hazırlıkta kazanılan zaman bir yarardır, daha iyi materyaller bir başkasıdır; kanıt ilkini destekler, ikincisini desteklemez. İkisini de vaat eden bir program kalitede hayal kırıklığı yaratır.
 
-### Öğretmen YZ Yetkinliği için bir Psikometrik Araç
+Eğitmenler aracı talimatlarını sıralı adımlar olarak yazabilir. Öğretmenler sohbet robotlarını doğal dille yapılandırdığında baskın arıza, yanlış bir olgu değil atlanan bir iş akışı adımıydı; bu nedenle pratik edilmeye değer beceri sıra ve ön koşulları belirtmektir, içerik hakkında daha fazla ayrıntı eklemek değil.
 
-- Bir psikometrik çalışma, YZ okuryazarlığını özellikle [[teacher-education|dil öğretmeni eğitimi]] kapsamında ölçmek için Öğretmenlerin YZ Okuryazarlığı Ölçeği'ni (TAILS) geliştirdi; ED-AI çerçevesinin altı boyutunu işlevselleştirdi. Aracın geliştirilmesi, öğrencileri veya genel kullanıcıları hedefleyen değerlendirmelerdeki bir boşluğu doldurur ve öğretmen YZ yetkinliğinin ölçümünü destekler.
+Okul liderleri yetkinliği kullanılabilir kılan koşulları finanse edebilir: ücretli çalışma zamanı, ders programında bir yer ve derse özgü destek. iRAISE karşılaştırması, araçların hiç kullanılıp kullanılmayacağına öğretmen güveninin karar verdiğini bulmuştur; güven ise tek başına eğitimi değil destekli pratiği izler.
 
-Araç manzarasının kendisi bu arada incelendi. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore ve Maat'ın 2026 öğretmen YZ okuryazarlığı ölçüm araçları sistematik incelemesi]], 2019 ve 2025 arasında yayınlanan 33 aracı değerlendirdi ve alanın yöntemsel olarak tek düze olduğunu buldu: 31'i (%93,9) algılanan güvenin öz bildirim ölçekleriydi, yalnızca ikisi (%6,1) bilgiyi nesnel olarak test etti ve hiçbiri performans temelli görevler kullanmadı. İç tutarlılık en güçlü kalite alanıydı (33'ünün 28'i A düzeyinde) ve adillik en zayıf olanı, beş aracın (%15,2) ölçüm değişmezliği veya farklı madde işlevi kanıtı bildirdi. İçerik de teknolojinin gerisinde kaldı; çünkü 29 araç (%87,9) genel YZ kavramlarını hedeflerken, yalnızca dördü (%12,1), hepsi 2025'ten, üretici YZ'yi ele aldı.
+Bölüm başkanları yetkinliği gösterimle değerlendirebilir. Öz bildirim ölçekleri ile gösterim ayrışır ve burada incelenen araçlar çok farklı yapıları ölçer; bu nedenle işlenmiş derslerden ya da notlandırılmış öğrenci işlerinden oluşan bir portfolyo, bir hazırbulunuş anketinden daha fazlasını söyler.
 
 ## Yaygın yanlış anlamalar
 
@@ -241,3 +262,12 @@ Araç manzarasının kendisi bu arada incelendi. [[assessing-teachers-ai-literac
 - [[walkington-teacher-in-loop-personalized-tasks-2026]] — Teacher in the loop: 415 follow-up prompts rewriting 143 mathematics problems (Walkington et al. 2026)
 - [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: interviews with twelve physician leaders
 - [[yuan-teacher-need-satisfaction-genai-2026]] — Competence need satisfaction, intrinsic motivation and intention to use GenAI among teachers (Yuan et al. 2026)
+- [[feng-ai-literacy-psychological-dimensions-2026]] — Altı öğretmen YZ okuryazarlığı boyutu; aralarında bağlamsal bilgi ve sürekli mesleki gelişim de var (Feng ve Carolus, 2026)
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 tasarım öğretmeni: yetkinlik kazanımları ve YZ kaygısı birlikte yükseliyor; sonucu eğitim değil destek belirliyor (Ding ve ark., 2026)
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE'in dört ülke derlemesi: 194 devletin 84'ü medya ve bilgi okuryazarlığını teknik becerilerin ötesine, müfredata taşıyor ve dört sistemin hepsinde sonucu insan etkenleri belirliyor (Cerioli, 2026)
+- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 yeni öğretmen YZ ders planlarını revize etti; en büyük boşluk uyarlamaydı (Wilcoxen ve ark. 2026)
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — İskandinav öğretmenlerin üretken yapay zekaya ilişkin tutumları: ilişkilerin incelenmesi
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Akademik personelin öz değerlendirdiği yetkinlik bandı bireysel niteliklerden çok kurum bağlantısıyla öngörülüyor
+- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Benimseme disiplin disiplin yargılanıyor; asıl kaygı öğrencilerin akıl yürütmesi
+- [[chen-future-faculty-development-ai-2027]] — Yetkinlik bir öğretim ekibine dağıtılmış, temel teknik ve etik kapasite ise herkes için ortak
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Çerçeveler yetkinlikleri listeliyor ve yargının koşullarını kuramsız bırakıyor

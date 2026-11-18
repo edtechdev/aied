@@ -1,5 +1,6 @@
 ---
-connected_resources: [deeptutor, learnharness, primer]
+updated: "2026-11-17T20:00:00-05:00"
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: Etkenik YZ
 created: "2026-10-14T21:45:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
@@ -12,13 +13,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -69,6 +74,10 @@ Bilgi tabanındaki [[research-methods-aied|araştırma]] tasarım ve değerlendi
 - **Alan uygulamaları:** etkenik sistemler alanlar boyunca görünür; bunlar arasında [[learnmate2-llm-adaptive-learning|uyarlanabilir öğrenme aracıları]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagojik YZ aracıları]], [[guided-llm-scaffolding-independent-learning|yönlendirmeli YZ iskelelemesi]], [[cyberagents-gamified-cybersecurity-learning-2026|oyunlaştırılmış siber güvenlik öğrenme aracıları]] ve [[hdr-brachytherapy-agentic-ai-simulation-2026|klinik simülasyon aracıları]] vardır.
 - **Öğrenme deneyimi değerlendiricileri olarak web aracıları:** bir çevrimiçi [[learning-design|ders]] boyunca bir öğrenci gibi gezinen tek özerk bir "tarif eden" web aracısı — [[ai-web-agents-lesson-design-2025|Wang, Mitchell ve Piech (2025)]] — öğrenci bırakışını öngörmeye ve tasarımcıya gerçek öğrenenler katılmadan önce eyleme dönüştürülebilir geri bildirim sağlamaya yetecek kadar zengin bir tarif üretir; genel bir CS1 kursunda tam bir simüle kohortu ve her temel referanstan üstün performans gösterir. Bu, etkenik değerlendirmeyi (bir öğrenme deneyiminin vekil eleştirmeni olarak bir aracı) öğreten veya tasarlayan aracıların yanında etkenik YZ'nin ayrı, düşük maliyetli bir kullanımı olarak konumlandırır.
 
+- **Etkenik notlandırma, iş yükü değil güvenilirlik sorunudur.** Etkenik bir Claude Code kurulumuna üç rubrik dosyası ve bir bilgisayar grafiği dersinden 60 taranmış el yazısı ara sınav kâğıdı verilmiştir. Notları eğitmenle r = 0,97 düzeyinde uyuşmuş; 20 puanlık bir kâğıtta ortalama mutlak hata 0,85 puan, ortalama YZ lehine yanlılık 0,68 ve bir hafta arayla iki oturumda test-tekrar test ICC = 0,96 olmuştur. Toplam, nerede başarısız olduğunu gizler: ağırlıklı kappa çoktan seçmelide 0,98'den değerlendirici maddelerde 0,65'e inmiş, en zayıf durum elle çizilmiş şemalar olmuştur ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Tek bir ders, tek bir eğitmen ve tek bir rubrik kümesi varyansın yerini gösterir; etkenik notlandırmanın genellenebilir olduğunu kanıtlamaz.
+
+Etkenik mimariler, kesinlikte ölçülebilir bir bedel karşılığında kapsam satın alır. [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah ve ark.'nın (2026)]] 926 iş ilanı örneği ve 1.696 altın standart beceri içeren kıyaslamasında, ESCO arama aracı kullanan bir ReAct aracısı %89,7 ile en yüksek geri çağırmayı elde etmiş; en iyi üretken yapılandırma %83,7'de, en iyi gömme modeli %49,1'de kalmıştır. Kesinliği %22,7 olmuş ve F1 %36,3'te kalarak araç temelli Gemini 2.5 Flash'ın %51,6'sının altında kalmış; örnek başına yaklaşık 16 saniye çalışmıştır. Bir insan danışman listeyi budayacaksa geri çağırma doğru ölçüttür; aracısız çıktı ise araç temelli alternatifi gerektirir.
+
 ### Çok aracılı sistemler
 
 Etkenik YZ'nin büyüyen ve ayrı bir kolunu, farklı rollere sahip birden fazla uzmanlaşmış aracıyı orkestre eden **çok aracılı sistemler** oluşturur. Bilgi tabanı birkaç mimariyi belgeler: [[code-gen]], insanın döngüde olduğu [[automated-question-generation|soru üretimi]] için bir üretici aracıyı bir doğrulayıcı aracıyla eşler; [[adversarial-stress-testing-role-playing-agents|saldırgan test]] Sorgulayıcı/Hedef/Yargıç aracılarını koordine eder; çok aracılı sınıflar (örn. öğretmen, asistan ve sınıf arkadaşı arketipleriyle [[human-in-the-loop-ai|MAIC]]) çeşitli akran öğrenme dinamikleri yaratır; ve [[multi-agent-llm-social-learning|çok aracılı sosyal öğrenme]] etkileşen aracıların öğrenmeyi nasıl şekillendirdiğini keşfeder. Çok aracılı tasarım, [[human-in-the-loop-ai|insan gözetimi]] (hangi aracı hesap verir ve bir insan nerede müdahale eder?), koordinasyon maliyetleri ve rol farklılaşmasının [[scaffolding]]'i nasıl desteklediği veya karmaşıklaştırdığına ilişkin ayırt edici soruları gündeme getirir.
@@ -79,7 +88,6 @@ Birkaç uzmanlaşmış aracıyı orkestre etmenin ötesinde bir adım, [[sudarsh
 
 - **İşbirlikçi problem çözme için katılımcıya özgü YZ aracılar.** Fang (2026), işbirlikçi problem çözme simülasyonlarında her katılımcıyı temsil etmek için bireysel YZ aracılarını gerçek katılımcıların diyalog verileri üzerinde ince ayar yapar; olasılıksal konuşmacı ve tematik kod seçimi ile kayan pencere ve özetlenmiş hafızayla. [[network-analysis|Epistemik Ağ Analizi]] ile doğrulanan simülasyon diyaloglar, gerçek olanlardan istatistiksel olarak ayırt edilemezdir (ENA mesafesi 0,17, permütasyon p = 0,65) — etkenik YZ'nin özgün işbirlikçi söylemi çoğaltmasının bir gösterimi.
 - **Sosyal olarak zeki çok aracılı öğretmenlik.** ASTRA gibi sosyal olarak zeki çok aracılı öğretmenlik prototipleri, öğrenenlerin YZ ile ikili gruplarda nasıl koordine olduğunu, farklılaştırılmış Öğretmen ve Kolaylaştırıcı aracıları kullanarak koordinasyonu ve dengeli katılımı istemeyi inceler. Çerçevenin iz temelli değerlendirmesi, [[cs-education|tanıtım programlamasında]] etkileşimin, katılım dengesinin ve doğrulamanın yeniden üretilebilir analizini mümkün kılar.
-
 
 **Kurumsal bir yanıt: alıcı değil, katılımcı üye olarak öğrenen.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan ve ark. (2026)]], uzmanlaşmış ajanların kişisel hedefleri, [[multimodal|çok kipli]] etkinlikleri ve katmanlı değerlendirmeyi birbirine bağlayan revize edilebilir bir Yetenek Programı sürdürdüğü, öğrenenin kendi kanıtını ve itirazlarını sonraki revizyonlara taşıyan düzeltilebilir bir “İnsan Düğümü”nün bulunduğu insan katılımlı çok ajanlı bir örgütlenme örneği kurar. 96 simüle öğrenen vakası boyunca en yakın çok ajanlı tabana karşı avantaj [[assessment|değerlendirme tasarımında]] yoğunlaşmıştır: [[assessment-validity|Değerlendirme Geçerliliğinde]] 19,32 puan daha yüksek (%95 GA [17,55, 21,04]) ve yetenek kapsamında 5,89 puan daha yüksek, kişiselleştirme ise ayrışmamıştır (1,35 puan, aralık sıfırı kesmektedir). 32 öğrenenli rastgele bir çalışmada nesnel 50 puanlık bir testteki bilgi kazancı 12,19’a karşı 5,61 puan olmuştur.
 
@@ -135,7 +143,6 @@ Bu, etkenik YZ tartışmasını bilgi tabanının [[academic-integrity]] kapsam�
 ## Verimli sürtünme ve sosyal etkileşim
 
 Tüm etkenik davranışın pürüzsüz yardım olması gerekmez. [[ai-agents-constructive-conflict-design-education-2026|Saldırgan tasarım aracıları üzerine araştırma]], **yapıcı çatışma** gerçekleştiren aracıların acemi etkileşim tasarımcıları arasında anlamlı biçimde daha fazla tasarım yinelemesi, daha geniş alternatif keşfi ve daha yüksek puanlı nihai tasarımlar istediğini gösterir (N=48) — çatışma aracısının sinir bozucu ama nihayetinde yararlı olduğu bir *verimli sürtünme* dinamik. Bu, [[socratic-method|Sokratik sorgulamaya]] ve [[design-thinking]]'e bağlanır ve etkenik YZ'nin pasif kabul yerine derin yeniden değerlendirmeyi nasıl destekleyebileceğini gösterir.
-
 
 Etkenik YZ'nin öğrenme çıktılarına *psikolojik* yerine teknolojik yollarla nasıl ulaştığına ilişkin bir çalışma, eksik ölçüm açısını sağlar. [[pramod-agentic-ai-motivational-pathways-2026|Pramod ve Patil (2026)]], Hindistan'daki 398 işletme öğrencisine anket uyguladı ve özerkliği, yetkinliği ve ilişkililiği etkileşimlilik, bilgi paylaşımı ve algılanan [[community-of-inquiry|sosyal varlık]] ile birlikte modellemişlerdir; özerklik en güçlü [[motivation|motivasyonel]] itici (β = 0,504), etkileşimlilik en güçlü sosyal itici (0,468) idi; motivasyon ve sosyal varlık, [[student-engagement|katılıma]] neredeyse aynı güçle besleniyordu (0,533 ve 0,493), ardından katılım algılanan öğrenme performansını öngördü (0,671). Tasarım dersi şudur: sosyal yol otomatik değildir — işbirlikçi ortam yapısı, düz duyarlılık ve bilgi paylaşımının yaptığından daha az algılanan sosyal varlık hareket ettirdi, bu nedenle bir aracıyı bir sohbet arayüzü yerine bir katılımcı olarak ele almak, bu yolun çoğunu kullanılmadan bırakır.
 
@@ -235,3 +242,5 @@ Etkenik YZ ne bir her şeye çare ne de kaçınılmaz bir zarardır: değeri tas
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
 
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — Ajanlar revize edilebilir bir yetenek programı çevresinde örgütlenir; öğrenen bir üye olarak
+- [[alghamdi-claude-code-agentic-grading-2026]] — 60 el yazısı sınavın etkenik notlandırılması: genelde r = .97, değerlendirici maddelerde kappa .65'e düşüyor
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Otomatik Beceri Çıkarımı için YZ Yaklaşımlarının Karşılaştırılması: Mühendislik Eğitimi için Gömmelerden Etkenik Sistemlere

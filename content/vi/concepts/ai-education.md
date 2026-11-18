@@ -1,7 +1,7 @@
 ---
 title: "AI trong Giáo dục"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-08T06:31:23-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,8 +13,8 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 
 confidence: high
 institutions: [educational-policy-ai]
-translation_of: "concepts/ai-education"
-source_updated: "2026-11-07T13:20:00-05:00"
+translation_of: concepts/ai-education
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,10 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
-
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
@@ -56,7 +59,7 @@ Phạm vi khái niệm của cơ sở kiến thức được neo bởi một s�
 - **[[pedagogy|Phương pháp sư phạm và chiến lược giảng dạy]]** — trang ôm trùm cho việc dạy diễn ra như thế nào: các phương pháp và chiến lược giảng dạy mà AI vận hành bên trong ([[active-learning|học tập chủ động]], [[collaborative-learning|cộng tác]], [[project-based-learning|theo dự án]], [[problem-based-learning|theo vấn đề]], [[experiential-learning|theo trải nghiệm]], [[game-based-learning|theo trò chơi]], [[socratic-method|phương pháp Socrates]], [[scaffolding]], và nhiều hơn nữa), bao gồm cả bối cảnh riêng biệt của [[online-teaching-and-learning|dạy và học trực tuyến]].
 - **[[learning-theories|Lý thuyết học tập]]** — trang ôm trùm cho việc học diễn ra như thế nào: các khuôn khổ lý thuyết ([[behaviorism]], [[cognitive-psychology|chủ nghĩa nhận thức]], [[constructivist|chủ nghĩa xây dựng]], [[sociocultural-learning|xã hội-văn hóa]], nhận thức, [[motivation|động lực]]) định hình thiết kế và đánh giá AI.
 - **[[ai-technologies|Công nghệ]]** — trang ôm trùm cho lớp kỹ thuật: các hệ thống AI ([[llm|LLM]], [[generative-ai|AI sinh tạo]], [[multimodal|đa phương thức]], [[educational-robotics|robot]]) và các kỹ thuật ([[rag]], [[prompt-engineering|prompt engineering]], [[reinforcement-learning|học tăng cường]], [[llm-training-and-fine-tuning|huấn luyện mô hình]], [[agentic-ai|điều phối tác tử]]) cung cấp năng lượng cho AIED. Nhóm mô hình hóa người học — [[knowledge-tracing|truy vết tri thức]], [[cognitive-diagnosis|chẩn đoán nhận thức]], [[simulating-students|mô phỏng học sinh]], và các hệ thống tiêu thụ chúng ([[intelligent-tutoring|gia sư thông minh]], [[adaptive-learning|học tập thích ứng]], [[personalized-learning|cá nhân hóa]]) — được nhóm dưới trang ôm trùm [[student-modeling|Mô hình hóa Người học và Giảng dạy Thích ứng]] trong nhánh kỹ thuật này.
-- **[[discipline-specific-aied|AI trong các ngành học]]** — trang ôm trùm cho cách AI được áp dụng xuyên suốt các lĩnh vực môn học ([[math-education|toán]], [[physics-education|vật lý]], [[language-learning|học ngôn ngữ]], [[cs-education|khoa học máy tính]], [[writing-education|viết]], [[stem-education|STEM]], [[engineering-education|kỹ thuật]], [[business-education|kinh doanh]], [[teacher-education|đào tạo giáo viên]], [[medical-education|các ngành sức khỏe]], và nhiều hơn nữa) — và, vượt ra ngoài các môn học thuần túy, nhánh nghề nghiệp và ứng dụng đánh giá thực hành đã được chứng minh thay vì tính đúng đắn ([[nursing-education|điều dưỡng]], [[information-technology|công nghệ thông tin]], [[vocational-education|giáo dục nghề và đào tạo]], [[design-education|giáo dục thiết kế]]) — và các cấp độ giáo dục ([[k-12]], [[higher-ed|giáo dục đại học]], [[adult-learning|học tập suốt đời cho người lớn]]).
+- **[[discipline-specific-aied|AI trong các ngành học]]** — trang ôm trùm cho cách AI được áp dụng xuyên suốt các lĩnh vực môn học, được nhóm thành bốn cụm. [[humanities-education|Nhân văn và nghệ thuật]] bao gồm lịch sử, triết học, văn học và ngôn ngữ, với [[arts-and-media-education|nghệ thuật và truyền thông]] và [[music-education|âm nhạc]] bên cạnh. [[social-sciences-education|Khoa học xã hội]] bao gồm giáo dục công dân, kinh doanh và kinh tế, và nghiên cứu môi trường. [[stem-education|STEM]] bao gồm toán, vật lý, hóa học, sinh học, khoa học máy tính và kỹ thuật. [[professions-education|Các ngành nghề]] bao gồm những chương trình được công nhận cấp phép — [[medical-education|y khoa và các ngành sức khỏe]], [[nursing-education|điều dưỡng]], [[legal-education|giáo dục pháp lý]], [[teacher-education|đào tạo giáo viên]], [[design-education|giáo dục thiết kế]] và [[libraries|thư viện học]] — nơi đánh giá phải chứng minh rằng phán đoán được chứng nhận là của chính ứng viên. Các cụm này áp dụng xuyên các cấp học cũng như xuyên các môn học.
 - **[[assessment]]** (với các nhánh [[formative-assessment|định hình]], [[summative-assessment|tổng kết]], [[authentic-assessment|thực chất]], [[oral-assessment|vấn đáp]], và [[automated-assessment|tự động]]) — trang ôm trùm cho việc AI vừa đánh giá người học vừa định hình lại tính hợp lệ và liêm chính của đánh giá.
 - **[[feedback]]** — trang ôm trùm cho việc phản hồi được tạo ra, chuyển giao và sử dụng như thế nào: vòng phản hồi, [[ai-feedback-quality|chất lượng phản hồi]], [[feedback-literacy|năng lực phản hồi]], và các bối cảnh đánh giá của nó ([[formative-assessment|định hình]], [[peer-assessment|đồng đẳng]], [[automated-assessment|tự động]]).
 - **[[stakeholders|Các bên liên quan trong giáo dục AI]]** — trang ôm trùm cho việc những tác nhân là ai: người học, [[teacher-role|giáo viên]], [[learning-design|nhà thiết kế học tập]], [[administrator|nhà quản lý]], và [[educational-policy-ai|nhà hoạch định chính sách]].
@@ -83,8 +86,8 @@ Các khái niệm nền tảng và xuyên suốt của lĩnh vực neo cụm n�
 Cách AI hỗ trợ việc dạy và học là trái tim của lĩnh vực. Các khái niệm then chốt bao gồm:
 
 - **Các phương pháp sư phạm cốt lõi:** [[pedagogy|phương pháp sư phạm và chiến lược giảng dạy]] — trang ôm trùm cho cụm phương pháp giảng dạy của cơ sở kiến thức — cùng với [[pedagogical-patterns|các mô hình sư phạm]] (những chuỗi đã được thử nghiệm mà các phương pháp đó quy về), [[active-learning|học tập chủ động]], [[collaborative-learning|học tập cộng tác]], [[group-work| làm việc nhóm]], [[project-based-learning|theo dự án]], [[problem-based-learning|theo vấn đề]], [[productive-failure|thất bại sinh lợi]], [[inquiry-based-learning|theo điều tra]], [[experiential-learning|theo trải nghiệm]], [[game-based-learning|theo trò chơi]], [[learning-by-teaching|học qua dạy]], [[scaffolding]], [[socratic-method|phương pháp Socrates]], [[critical-pedagogy|sư phạm phản biện]], [[pedagogical-partnerships|đối tác sư phạm]], [[storytelling-in-education|kể chuyện]], [[learning-design|thiết kế học tập]], [[online-teaching-and-learning|dạy và học trực tuyến]], và [[video-education|video trong giáo dục]].
-- **Lý thuyết và quá trình học tập:** trang ôm trùm [[learning-theories|các lý thuyết học tập]] ([[behaviorism]], [[cognitive-psychology|chủ nghĩa nhận thức]], [[constructivist|chủ nghĩa xây dựng]], [[sociocultural-learning|xã hội-văn hóa]], [[distributed-cognition|nhận thức phân tán]], [[situated-learning|học tập định cảnh]], [[embodied-learning|học tập thể hiện]], [[community-of-inquiry|cộng đồng điều tra]]) đứng cạnh các quá trình hướng đến người học như [[self-regulated-learning|học tập tự điều chỉnh]], [[self-determination-theory|lý thuyết tự quyết]], [[motivation]], [[self-efficacy|tự hiệu quả]], [[self-directed-learning|học tập tự định hướng]], [[metacognition|siêu nhận thức]], [[reflection|phản tư]], [[desirable-difficulties|khó khăn mong muốn]], [[transfer-of-learning|chuyển giao học tập]], [[prior-knowledge|tri thức tiền đề]], [[icap-framework|sự tham gia nhận thức ICAP]], [[refutation-text|văn bản phản bác]], [[retrieval-spacing-interleaving|hồi tưởng, giãn cách và xen kẽ]], và [[activity-theory-aied|lý thuyết hoạt động]].
-- **Sự tham gia và trải nghiệm của người học:** [[student-engagement|sự tham gia của học sinh]], [[help-seeking|tìm kiếm sự giúp đỡ]], [[social-emotional-learning|học tập xã hội-cảm xúc]], [[well-being|hạnh phúc]], [[creativity|sáng tạo]], [[problem-solving|giải quyết vấn đề]], [[mastery-learning|học tập thành thạo]], và [[student-ai-interaction|tương tác học sinh–AI]] định hình cách người học thực sự gặp gỡ và chịu tác động của AI, trong khi [[social-norms-ai-use|các chuẩn mực xã hội hình thành xung quanh việc sử dụng AI]] quyết định mức độ cởi mở mà mọi điều trên có thể được thảo luận. Vượt ra ngoài khóa học, [[student-support-and-success|hỗ trợ và thành công của học sinh]] bao quát công việc phía thể chế — tư vấn, tiếp cận, giới thiệu chuyển tuyến, và phân bổ nguồn hỗ trợ khan hiếm — nơi AI một cách đáng tin cậy làm tăng khả năng hoàn thành nhiệm vụ nhưng không làm tăng sự bền bỉ hay tỷ lệ tốt nghiệp.
+- **Lý thuyết và quá trình học tập:** trang ôm trùm [[learning-theories|các lý thuyết học tập]] ([[behaviorism]], [[cognitive-psychology|chủ nghĩa nhận thức]], [[constructivist|chủ nghĩa xây dựng]], [[sociocultural-learning|xã hội-văn hóa]], [[distributed-cognition|nhận thức phân tán]], [[situated-learning|học tập định cảnh]], [[embodied-learning|học tập thể hiện]], [[community-of-inquiry|cộng đồng điều tra]]) đứng cạnh các quá trình hướng đến người học như [[self-regulated-learning|học tập tự điều chỉnh]], [[self-determination-theory|lý thuyết tự quyết]], [[motivation]], [[self-efficacy|tự hiệu quả]], [[self-directed-learning|học tập tự định hướng]], [[metacognition|siêu nhận thức]], [[reflection|phản tư]], [[desirable-difficulties|khó khăn mong muốn]], [[transfer-of-learning|chuyển giao học tập]], [[prior-knowledge|tri thức tiền đề]], [[icap-framework|sự tham gia nhận thức ICAP]], [[refutation-text|văn bản phản bác]], [[retrieval-spacing-interleaving|hồi tưởng, giãn cách và xen kẽ]], và [[activity-theory-aied|lý thuyết hoạt động]]. Khung phát triển cắt ngang những điều này: [[developmental-psychology|tâm lý học phát triển]] giải thích vì sao cùng một quá trình lại trông khác nhau ở tuổi năm, mười lăm và hai mươi lăm.
+- **Sự tham gia và trải nghiệm của người học:** [[student-engagement|sự tham gia của học sinh]], [[help-seeking|tìm kiếm sự giúp đỡ]], [[social-emotional-learning|học tập xã hội-cảm xúc]], [[well-being|hạnh phúc]], [[creativity|sáng tạo]], [[problem-solving|giải quyết vấn đề]], [[mastery-learning|học tập thành thạo]], và [[student-ai-interaction|tương tác học sinh–AI]] định hình cách người học thực sự gặp gỡ và chịu tác động của AI, với [[empathy|sự đồng cảm]] là kết quả cảm xúc thường được tuyên bố, hiếm khi được đo, trong khi [[social-norms-ai-use|các chuẩn mực xã hội hình thành xung quanh việc sử dụng AI]] quyết định mức độ cởi mở mà mọi điều trên có thể được thảo luận. Vượt ra ngoài khóa học, [[student-support-and-success|hỗ trợ và thành công của học sinh]] bao quát công việc phía thể chế — tư vấn, tiếp cận, giới thiệu chuyển tuyến, và phân bổ nguồn hỗ trợ khan hiếm — nơi AI một cách đáng tin cậy làm tăng khả năng hoàn thành nhiệm vụ nhưng không làm tăng sự bền bỉ hay tỷ lệ tốt nghiệp.
 
 ## Công nghệ và kỹ thuật
 
@@ -97,13 +100,26 @@ Trang [[ai-technologies|Công nghệ]] là trang ôm trùm cho lớp kỹ thuậ
 
 ## AI trong các ngành học
 
-AI được áp dụng xuyên suốt các ngành học và cấp độ giáo dục. [[discipline-specific-aied|Tổng quan về AIED trong các ngành học]] của cơ sở kiến thức ánh xạ cụm nội dung theo lĩnh vực môn học — cùng với [[learning-sciences|các ngành khoa học về học tập]], vốn không phải một môn học được dạy mà là lĩnh vực nghiên cứu xuyên suốt nghiên cứu bản thân việc học và lấy nội dung môn học như một biến số trong số các biến số khác:
+Độ phủ theo lĩnh vực môn học là phần lớn nhất của lĩnh vực. [[discipline-specific-aied|AIED trong các ngành học]] giữ phần này, bên cạnh [[learning-sciences|khoa học về học tập]], vốn không phải một môn học được dạy mà là lĩnh vực nghiên cứu xuyên suốt nghiên cứu bản thân việc học và lấy nội dung môn học như một biến số trong số các biến số khác. Bốn cụm tổ chức các trang môn học:
 
-- **Các lĩnh vực môn học:** [[math-education|toán]], [[statistics-and-data-science-education|thống kê và khoa học dữ liệu]], [[physics-education|vật lý]], [[chemistry-education|hóa học]], [[biology-education|sinh học]], [[cs-education|khoa học máy tính]], [[engineering-education|kỹ thuật]], [[stem-education|STEM]], [[writing-education|viết]], [[reading-education|giáo dục đọc]], [[language-learning|học ngôn ngữ]], [[english-education|giáo dục tiếng Anh (EAP/EFL/ESL)]], [[libraries|thư viện và khoa học thông tin]], [[science-education|giáo dục khoa học]], [[environmental-education|giáo dục môi trường]], [[business-education|kinh doanh, kinh tế và quản lý]], [[humanities-education|nhân văn và khoa học xã hội]], [[civic-and-political-education|giáo dục công dân và chính trị]], [[arts-and-media-education|nghệ thuật, thiết kế và giáo dục truyền thông]], [[medical-education|các ngành y và sức khỏe]], [[legal-education|giáo dục pháp lý]], và các nhánh nghề nghiệp, ứng dụng — [[nursing-education|điều dưỡng]], [[information-technology|công nghệ thông tin]], [[vocational-education|giáo dục nghề và đào tạo]], và [[design-education|giáo dục thiết kế]].
+- **Nhân văn và nghệ thuật:** [[humanities-education|giáo dục nhân văn]], [[arts-and-media-education|giáo dục nghệ thuật và truyền thông]], [[music-education|giáo dục âm nhạc]], [[writing-education|giáo dục viết]], [[reading-education|giáo dục đọc]], [[language-learning|học ngôn ngữ]] và [[english-education|giáo dục tiếng Anh (EAP/EFL/ESL)]].
+- **Khoa học xã hội:** [[social-sciences-education|giáo dục khoa học xã hội]], [[civic-and-political-education|giáo dục công dân và chính trị]], [[business-education|kinh doanh, kinh tế và quản lý]] và [[environmental-education|giáo dục môi trường]].
+- **STEM:** [[stem-education|giáo dục STEM]], [[science-education|giáo dục khoa học]], [[math-education|toán]], [[statistics-and-data-science-education|thống kê và khoa học dữ liệu]], [[physics-education|vật lý]], [[chemistry-education|hóa học]], [[biology-education|sinh học]], [[cs-education|khoa học máy tính]], [[engineering-education|kỹ thuật]] và [[information-technology|công nghệ thông tin]].
+- **Các ngành nghề:** [[professions-education|giáo dục các ngành nghề]], [[medical-education|y khoa và các ngành sức khỏe]], [[nursing-education|điều dưỡng]], [[legal-education|giáo dục pháp lý]], [[teacher-education|đào tạo giáo viên]], [[design-education|giáo dục thiết kế]] và [[libraries|thư viện và khoa học thông tin]].
+
+Cụm mà một môn học thuộc về cũng quyết định trang nào sở hữu bằng chứng của nó. [[vocational-education|Giáo dục nghề và đào tạo]] được xếp dưới cấp độ chứ không ở đây, vì nó gọi tên một con đường bằng cấp nhiều hơn một ngành học.
 
 ## Các cấp độ và bối cảnh
 
-Cùng một công cụ AI lại gặp phải các bối cảnh rất khác nhau, và cơ sở kiến thức phân tách cấp độ giáo dục khỏi phương pháp sư phạm để các phát hiện không âm thầm chuyển giao qua lại giữa chúng: [[k-12|các trường K-12]], [[early-childhood-elementary-ai-education|giáo dục mầm non và tiểu học]], [[higher-ed|giáo dục đại học]], [[adult-learning|học tập cho người lớn]], [[vocational-education|giáo dục nghề và đào tạo]], [[special-education|giáo dục hòa nhập]], và [[teacher-education|đào tạo giáo viên]]. Các khái niệm liền kề lĩnh vực cắt ngang các cấp độ bao gồm [[universal-design-for-learning|thiết kế phổ quát cho học tập]], [[neurodiversity|đa dạng thần kinh]], [[multilingual-learning|học tập đa ngôn ngữ]], và [[social-emotional-learning|học tập xã hội-cảm xúc]].
+Cùng một công cụ AI gặp những bối cảnh rất khác nhau, và cấp độ giáo dục được giữ tách khỏi phương pháp sư phạm để các phát hiện không âm thầm chuyển giao qua lại giữa chúng: [[k-12|trường K-12]], nay chia thành [[early-childhood-elementary-ai-education|giáo dục mầm non]], [[primary-education|giáo dục tiểu học]] và [[secondary-education|giáo dục trung học]]; [[higher-ed|giáo dục đại học]], chia thành bậc [[undergraduate-education|đại học]] và [[graduate-education|sau đại học]]; và những bối cảnh nằm ngoài các nấc thang đó, [[adult-learning|học tập cho người lớn]], [[vocational-education|giáo dục nghề và đào tạo]], [[special-education|giáo dục đặc biệt]], và [[teacher-education|đào tạo giáo viên]]. [[education-levels|Các cấp độ giáo dục]] so sánh chúng. Những khái niệm liền kề lĩnh vực cắt ngang các cấp độ bao gồm [[universal-design-for-learning|thiết kế phổ quát cho học tập]], [[neurodiversity|đa dạng thần kinh]], [[multilingual-learning|học tập đa ngôn ngữ]], và [[social-emotional-learning|học tập xã hội-cảm xúc]].
+
+## Cùng một công cụ, những lựa chọn thiết kế trái ngược
+
+Cấp độ là biến số đảo ngược một khuyến nghị thiết kế một cách rõ ràng nhất. Bằng chứng bậc trung học đặt giáo viên vào giữa sinh viên và công cụ: qua 33 nghiên cứu, mức tăng đến ở nơi sinh viên so sánh đầu ra, và phai đi ở nơi công cụ tạo ra bài làm ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca và cộng sự (2026)]]).
+
+Bằng chứng bậc sau đại học chỉ về hướng khác, hướng tới quan hệ đối tác với một con người có trách nhiệm giải trình. Các yếu tố tạo điều kiện cho sự sẵn sàng đạt tới [[self-efficacy|tự hiệu quả]] nghiên cứu qua hỗ trợ của người hướng dẫn (β = 0.201 gián tiếp), chứ không qua việc dùng công cụ ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo và cộng sự (2026)]]). Một tổng quan luận án đạt cùng kết luận thiết kế từ góc độ đạo đức: tính chính danh phụ thuộc vào nhiệm vụ chứ không vào công cụ, việc khai báo tỷ lệ với ý nghĩa trí tuệ, và quản trị được xem xét ở các mốc ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja và cộng sự (2026)]]).
+
+Điều không thay đổi là con người giữ phán đoán. Sinh viên trong một seminar sau đại học chỉ chấp nhận đầu ra của AI sau khi một người gác cổng có hiểu biết kiểm tra nó, điều Chen đọc là quyền chủ động được ủy thác chứ không bị nhường ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). Tần suất là thước đo xuyên cấp độ sai: nó dự báo năng lực sau đại học ở β = 0.030 một khi đạo đức và tự điều chỉnh vào mô hình ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova và cộng sự (2026)]]).
 
 ## Đánh giá và đo lường
 
@@ -116,7 +132,7 @@ AI biến đổi cả cách chúng ta đánh giá người học lẫn cách ch�
 
 Cách chúng ta biết AI có hiệu quả hay không là một nhánh riêng, và cơ sở kiến thức coi nó như một nhánh:
 
-- **Phương pháp nghiên cứu:** [[research-methods-aied|các phương pháp nghiên cứu trong AIED]] như trang ôm trùm, với các hướng [[qualitative-research|định tính]], [[quantitative-research|định lượng]], [[mixed-methods-research|phương pháp hỗn hợp]], [[design-based-research|nghiên cứu dựa trên thiết kế]], và [[usability-research|khả năng sử dụng]], cùng với [[rct|các thử nghiệm đối chứng ngẫu nhiên]], [[meta-analysis-systematic-review|phân tích tổng hợp và tổng quan hệ thống]], và [[network-analysis|phân tích mạng]].
+- **Phương pháp nghiên cứu:** [[research-methods-aied|các phương pháp nghiên cứu trong AIED]] như trang ôm trùm, với các hướng [[qualitative-research|định tính]], [[quantitative-research|định lượng]], [[mixed-methods-research|phương pháp hỗn hợp]], [[design-based-research|nghiên cứu dựa trên thiết kế]], và [[usability-research|khả năng sử dụng]] cùng [[longitudinal-research|nghiên cứu dọc]], cùng với [[rct|các thử nghiệm đối chứng ngẫu nhiên]], [[meta-analysis-systematic-review|phân tích tổng hợp và tổng quan hệ thống]], và [[network-analysis|phân tích mạng]].
 
 Công trình nghiên cứu của chính lĩnh vực giờ đây đã trở thành một đối tượng nghiên cứu tự thân. [[ai-assisted-educational-research|Nghiên cứu Giáo dục có Hỗ trợ AI]] bao quát việc sử dụng AI như một công cụ cho tìm kiếm tài liệu, sàng lọc, mã hóa định tính, phân tích và viết, bao gồm cả nghiên cứu của người thực hành như học bổng về dạy và học. Nó giữ ranh giới với các thiết kế được dùng để nghiên cứu điều AI gây ra cho người học.
 
@@ -175,6 +191,10 @@ AI trong giáo dục kết nối với mọi khái niệm trong cơ sở kiến 
 **"Độ chín của lĩnh vực có thể đọc được từ khối lượng xuất bản."** Khối lượng và độ chín tách rời nhau; nhánh phương pháp nghiên cứu ghi nhận những điểm yếu thiết kế lặp lại mà khối lượng không khắc phục được, và các khung lý thuyết sinh sôi nhanh hơn tốc độ chúng được kiểm chứng.
 
 ## Khái niệm liên quan
+- [[primary-education]] — AI trong giáo dục tiểu học
+- [[secondary-education]] — AI trong trung học cơ sở và trung học phổ thông
+- [[undergraduate-education]] — AI trong bậc đại học
+- [[graduate-education]] — AI trong bậc thạc sĩ và tiến sĩ
 - [[pedagogical-patterns]] — Những chuỗi đã được thử nghiệm vận hành hóa các phương pháp sư phạm của lĩnh vực
 - [[ai-literacy]] — ôm trùm: hiểu, sử dụng và đánh giá AI
 
@@ -219,5 +239,10 @@ Các tổng quan toàn lĩnh vực về AI trong giáo dục — những nghiên
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — Sự tiến hóa của nghiên cứu AI-và-giáo dục qua bốn thập kỷ (khuôn khổ AIxEd)
 - [[mishra-control-vs-agency-history-2025]] — Kiểm soát đối đầu quyền chủ động: một lịch sử của AI trong giáo dục
 - [[genai-higher-education-systematic-review-2026]] — AI sinh tạo trong giáo dục đại học: tổng quan hệ thống 125 nghiên cứu
-- [[stanford-evidence-base-ai-k12-2026]] — Nền tảng bằng chứng về AI ở K-12: một tổng quan 818 bài báo
+- [[stanford-evidence-base-ai-k12-2026]] — Nền tảng bằng chứng về AI ở K-12: 52 nghiên cứu nhân quả mạnh được rút ra từ 1,686 bài trong kho (cập nhật tháng 11 năm 2026)
 - [[genai-educational-outcomes-meta-analysis]] — AI sinh tạo và kết quả giáo dục: phân tích tổng hợp toàn diện
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 nghiên cứu trung học; mức tăng đến ở nơi sinh viên phán đoán đầu ra, không phải nơi công cụ tạo ra bài làm
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 học viên thạc sĩ; sự sẵn sàng đạt tới tự hiệu quả qua hỗ trợ của người hướng dẫn
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Tổng quan 61 nguồn về đạo đức, phản hồi và quản trị trong hướng dẫn luận án tiến sĩ
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Seminar sau đại học một nhóm; mức tăng học tập tự điều hướng mà không có bài kiểm tra không hỗ trợ
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 sinh viên; khoảng cách đại học–sau đại học về đạo đức và tự điều chỉnh

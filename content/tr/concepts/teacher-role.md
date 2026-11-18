@@ -1,4 +1,5 @@
 ---
+updated: "2026-11-17T20:00:00-05:00"
 title: Öğretmenlik
 created: "2026-10-14T21:30:00-04:00"
 type: concept
@@ -11,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -19,13 +20,15 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
 > **Öğretmenlik** — YZ’nin eğitimcilerin işini, kimliğini ve ajansını nasıl yeniden şekillendirdiği. Bu boyutu inceleyen 50’den fazla makaleyle bilgi tabanı temel bir dönüşümü belgeler: tek bilgi otoritesinden insan–YZ öğrenme ortamlarının orkestratörüne geçiş. Bu sayfa yalnızca bu değişimi tanımlamayı aşar — öğretmenlerin fiilen ne yaptığını, uygulamalarını nasıl uyarlayabileceklerini ve [[learning-design]], [[ai-literacy]] ile [[academic-integrity]] ile nasıl bağlantı kurduklarını ayrıntılandırır.
-
-> [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith ve ark. (2026)]] buna daha-insani paradoks diyor: 13 ülkeden 20 araştırmacının birlikte oluşturduğu altı 2030 senaryosunda, YZ doyumu insanın pedagojik çalışmasını ortadan kaldırmak yerine onu yoğunlaştırır. Senaryolar YZ’yi "öğrenme ekosisteminin hava taşıma sistemi" olarak tanımlar — yalnızca arızalandığında farkına varırsınız.
 
 ## Düşünülmesi Gereken Sorular
 
@@ -50,6 +53,11 @@ ai_assist:
 - **[[teacher-education|Hizmet öncesi]] hazırlık:** [[ai-tpack-preservice-math-teachers|TPACK temelli eğitim]] ve [[educational-development]] programları gelecekteki öğretmenleri sınıfa girmeden önce YZ destekli sınıflara hazırlar. [[zhuang-zhang-chatgpt-math-teacher-education-2026|Simüle öğrenci rol oynama]] bunu uygulamalı pratiğe taşır: matematiksel olarak [[misconceptions|yanlış kanı]] yüklü bir ortaokul öğrencisini canlandıran özel bir ChatGPT botu (Student GPT), hizmet öncesi öğretmenlere öğrenci muhakemesini teşhis etmeyi ve yönlendirmeyi düşük riskli bir ortamda prova etme olanağı verir ve onları merkezî bir öğretmen görevi olan öğrenci düşüncesini okuma ve düzeltmeye hazırlar.
 - **Kanıt tabanının neredeyse hiç girmemiş olduğu bir öğretmen yönelimli sınır:** [[edustories-classroom-case-studies-2026|Štefánik ve ark. (2026)]], gerçek ilkokul ve lise sınıflarına ilişkin 1.492 öğretmen yazımı vaka çalışmasından oluşan **Edustories**’yi — zorlayıcı öğrenci davranışı, öğretmenin denediği müdahale ve ardından gelenler — büyük ölçüde YZ’nin bireyselleştirilmiş öğrenci desteğini hedeflemiş olmasına karşın öğretmenliğin çoğunlukla kolektif sınıflarda gerçekleşmesi nedeniyle bir araya getirir. [[benchmark|Dört dil modeli ailesini]], bir müdahalenin başarılı olup olmadığını tahmin etmede kıyaslarken en güçlü modeller insan uzmanların %64’üne karşı %58 doğruluk seviyesine ulaşmıştır; yazarlar boşluğu iki yönde de okur: hem mevcut [[teacher-ai-competency|öğretmen yönelimli]] desteğe bir sınır hem de ortaya çıkan potansiyelin kanıtı olarak. Sayfanın buradan kazandığı şey, bir yetenek iddiası değil, ölçülmüş bir tavan: öğretmenlere verilen öğütlerin güvenilir olabilmesi için uzman yargısından daha iyi olması gerekir ve bugün sıralama ters taraftadır. [[yalcin-genai-programming-education-systematic-review-2026|Yalçın ve ark.’nın (2026)]] yükseköğretim programlamada GenAI’ye ilişkin 46 ampirik çalışmayı inceleyen PRISMA derlemesinde paralel bir boşluk görülür: öğretmen rolleri ve kurumsal uygulamalar alanın en az incelenen konuları arasındadır ve 46 çalışmanın 26’sı öğretim yaklaşımlarına ilişkin kodlanabilir bir tanım sunmamıştır; bu nedenle bildirilen sonuçları üreten tasarım kararları çoğu zaman başka öğretmenlere bile görünmez kalır.
 - **YZ’nin işe asıl nerede girdiği, göreve göre:** [[where-ai-enters-teacher-work-2026|Holster (2026)]], 46 eğitim sisteminden 56.669 öğretmene ait TALIS 2024 verilerini (YZ kullananlardan oluşan 24.058 kişilik bir dağılım örneklemi) kullanarak benimsemeyi kaynak tahsisinden ayırır. Bir öğretmenin kendi ortalama talebinin bir puan üzerinde derecelendirilen bir görev YZ yardımı alma olasılığı daha yüksektir (OR = 1,163), ancak yön göreve göre değişir: planlama taleple birlikte artar (OR = 1,084), değerlendirme ve not verme düşer (OR = 0,921), [[special-education|özel eğitim]] desteği ve uyarlama ise dik biçimde artar (OR = 1,442, talep aralığı boyunca %34,0’tan %50,3’a uzanan öngörülen bir yayılım). [[teacher-ai-competency|Yetkinlik]] ve politika okuması şudur: öğretmenler yüksek riskli not vermeyi zaten insan elinde tutarken bireyselleştirilmiş uyarlama işlerinde YZ’ye yönelir; bu nedenle öğretmen YZ kullanımını tek bir davranış biçimi olarak ele alan rehberlik, desteğin gerçekten gerekli olduğu yeri ıskalar.
+- **Yazarlık, eğitimci rolünün ITS literatürünün çoğunlukla esirgediği parçasıdır.** 21 sınıf çalışması genelinde yalnızca 2'si eğitimcilerin içeriği kendi yazmasını gerektiren alan-bağımsız sistemler betimlemiştir; 160 eğitimci-merceği ifadesinin 66'sı öğrenen analitiği ve izlemeyle ilgilidir ([[gnadlinger-educator-perspectives-its-design-2026|Gnadlinger ve Kriglstein, 2026]]). Materyaller ve değerlendirme hazır geldiğinde, ortak tasarımcı duruşuna satıcı zaten karar vermiştir.
+- Lan ve Chen (2026), öğretmen yazarlığını köken üzerinden yargılamayı önerir: bir aracı, ancak yetkisi sorumluluğu elinde tutan adı belirli tek bir öğretmene kadar izlenebiliyorsa öğretmenin ikizi sayılır; bu öğretmen yargısını denetlenebilir bir şartnameye çevirmiş ve yazarlığı yerinden etmeden kapasiteyi genişletmiştir. Platform varsayılanları ise ikiz değil bir vekil üretir ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan ve Chen, 2026]]).
+- **Kimlik onarımı ilişkisel işten geçer — maliyeti ise kurumlara düşer.** Cheeseman, Ndorley ve Cai, YZ baskısı altındaki eğitimcilerin insanlıklarını mentorluğu ve entelektüel mücadelenin modellenmesini yoğunlaştırarak yeniden müzakere ettiğini ve bunun ancak kadro, iş yükü ve yükseltme ölçütleri ilişkisel işi tanırsa sürdürülebilir olduğunu öne sürer ([[cheeseman-human-in-the-loop-humanness-higher-ed-2026|Cheeseman ve ark. (2026)]]).
+- **Öğretmenlerin öğrenenleri tanıdığı yer olarak notlandırma.** [[wu-lam-genai-writing-assessment-professors-2026|Wu ve Lam (2026)]], 24 profesörün 5'inin notlandırmayı öğrenenlerini anlama biçimi olarak gördüğünü bildirir; dolayısıyla onu YZ'ye devretmek yalnızca saatleri değil, bir pedagojik bilgi kaynağını da ortadan kaldırır.
+- **Yönetişimin sınıf koşullarına çevirmeni.** [[socorro-philosophical-leadership-ai-2026|Socorro Márquez, Reyes Ortiz ve Torrez Meruvia (2026)]], 137 kaynağı üç evreli bir *felsefi liderlik* rolünde sentezler: kullanımdan önce etik yargı, kullanım sırasında pedagojik yönlendirme ve politika çevirisi. Burada öğretmen uluslarüstü yönlendirmeyi — gizlilik, şeffaflık, hesap verebilirlik — istek metni koşullarına, değerlendirme koşullarına ve öğrencilerin uygulanışını izleyebildiği retlere dönüştürür. Derlemenin işlenmiş örneği kişisel olarak tanımlanabilir bilgiyi istek metinlerinin dışında tutar ve modellemeyi duyurmak yerine açıkça gösterir. Rol ölçülmekten çok savunulmuştur: derleme felsefi liderliğin uygulamayı değiştirip değiştirmediğine dair hiçbir test bildirmez.
 
 ### Değişen rol fiilen nasıl görünüyor: somut örnekler
 
@@ -63,6 +71,8 @@ Dolayısıyla teşvik, en çok rapor kullanımının hâlâ büyüyebileceği ye
 ### Orkestrasyon metaforu
 
 Bilgi tabanındaki baskın metafor *orkestrasyondur*: öğretmenler insan öğrenenleri, [[intelligent-tutoring|YZ öğreticilerini]] ve müfredat kaynaklarını koordine eder. Bu, yerine koyma anlatılarıyla tezat oluşturur — YZ insan öğretiminin yerine geçmek yerine onu genişletir. Ampirik kanıt bu duruşu destekler: 42 çalışmayı (2023–2025) inceleyen PRISMA yönergeli bir [[meta-analysis-systematic-review|sistematik derleme]], LLM’lerin kısa ve iyi yapılandırılmış görevlerde insan derecelendiricileriyle eşitlendiğini, ancak uzun, çok dilli ve nüanslı işlerde performansın düştüğünü bulmuş — LLM’lerin öğretmenleri tam olarak yerine koyamayacağı ve hibrit, insan-devresinde (human-in-the-loop) değerlendirme sistemlerinin en yüksek not verme etkililiğine ulaştığı sonucuna varmıştır ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). Orkestrasyon merceği, öğretmenin temel becerisini *yargı* olarak yeniden çerçeveler: belirli bir öğrenen ve an için bir insanın, bir YZ’nin veya tasarlanmış bir öğrenme etkinliğinin doğru araç olup olmadığına karar vermek. [[teacher-intervention-k12-ai-based-instruction-2026]] üzerine yapılan 29 çalışmalık bir 2026 PRISMA derlemesi metaforu dört aşamalı bir döngüye keskinleştirir — izleme, yargı, müdahale, orkestrasyon — ve hiçbir aşamanın varsayılamayacağını gösterir. Öğretmenler paylaşımlalı denetimi tercih etmiş; YZ önerilerini kabul etmiş, değiştirmiş, reddetmiş veya geçersiz kılmış; bazıları müdahaleyi öğrenciler verimli biçimde zorlanarak çalışabilsin diye kasten ertelemiş; farkındalığı genişleten panolar dikkati aşırı yükleyebilir veya tek bir öğretmenin fiilen gerçekleştirebileceğinin ötesine geçebilmiştir. Bu panoların üç stratejisi — YZ çıktısının pedagojik çevirisi, öğrenme desteğinin tasarımı ve etkileşim yapılarının yeniden inşası — işi onaylamadan ziyade bağlama yeniden yerleştirme olarak tanımlar; bu da öğretmeni insan-devresinde (human-in-the-loop) gözden geçiren rolünden ziyade arabulucuya daha yakın konumlandırır. Sınıf gözlemi aynı davranışları türler olarak adlandırır. Deneyimli bir öğretmenin izlendiği altı ders, Drijvers’ın dört türüne üç orkestrasyon türü eklemiştir — pano-izleme, YZ-düzeltme ve YZ-aracılık — öğretmenin içerik ve etik rolleri en çok, YZ tarafından üretilen geri bildirimi düzelttiğinde görünür olmuştur ([[teachers-instrumental-orchestration-ai-math-2026|Noh ve Kim, 2026]]).
+
+Solistten çok orkestra şefi daha doğru bir figürdür. [[chen-future-faculty-development-ai-2027|Chen ve ark. (2026)]], tüm uzmanlığı kendisi sağlamak yerine uzmanlığı koordine eden bir öğretmen betimler; çok şubeli büyük bir kursta bir iki meslektaş görevleri ve rubrikleri yeniden tasarlarken diğerleri öğrenme mimarisini, araç değerlendirmesini veya kanıt toplamayı üstlenebilir. Bu dağıtımın bir tabanı vardır: ekibin her üyesi temel teknik ve etik yetkinliği korur; böylece rol dışarıya devredilmez, yönetilir.
 
 ### Evrilen ve eleştirel öğretmen rolleri
 
@@ -103,6 +113,8 @@ Bilgi tabanının kanıtı somut bir uyarlama kümesinde birleşir:
 **Kalıcı öğrenme koşullarını koruyun.** YZ cevapları öğrenmeyi kolay gösterdiği için öğretmenler [[cognitive-offloading|performans–öğrenme boşluğunu]] dengeleyecek biçimde tasarım yapmak zorundadır. [[lodge-loble-cognitive-offloading-2026|Lodge ve Loble]], YZ ile zahmetsiz başarı, öğrenmenin yokluğunu maskeleyebileceğini uyarır; öğretmenler [[productive-failure|verimli zorlanmayı]] içerilere yerleştirmeli, ustalığın yardımsız gösterilmesini istemeli ve YZ destekli cevapları bitmiş sonuç değil, bir başlangıç noktası olarak ele almalıdır.
 
 **Sunum ortamını planlayın.** Uyarlama ortamdan bağımsız değildir: YZ ile birlikte [[online-teaching-and-learning|çevrim içi öğretim]] hem fırsatları (ölçeklenebilir [[personalized-learning|kişiselleştirme]], her zaman açık destek) hem de riskleri (dürüstlük, dış kaynaklığa yüklenme) çoğaltır. YZ sarmalayıcısını çevrim içi ortamda yüz yüze bağlamda olduğu kadar bilinçli tasarlayın.([[lopez-pernas-llm-appropriate-student-support-2026]])
+
+**Her gönderiye değil, başlığa yanıt verin.** Görünür varlık, 26 STEM lisans öğrencisiyle dört odak grubunda öğrencilerin en çok atfettiği dış etken olmuştur; betimledikleri kalıp, tartışmayı yürüten, öğrencilerden birbirine yanıt vermesini isteyen ve hafta içinde daha sonra yanıt veren bir eğitmendir ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner ve Nugent, 2026]]). Başlık düzeyinde sınırlı varlık yeterli olmuştur; krediyi kazandıran şey her gönderiye yanıt vermek değildir.
 
 ## YZ okuryazarlığını öğretime yansıtmak
 
@@ -152,6 +164,22 @@ YZ ile akademik dürüstlük, bir denetleme problemi değil, bir *tasarım* prob
 - **Öğretmen yönelimli YZ yansıtma analitiği, uzmanlığa uyarlanmalıdır, tek beden herkese uymamalıdır.** 100 ABD’li K–12 öğretmenine (dokuz yılda medyan ayrım; binom testleri; %83 güçte tespit edilebilir %15 tercih farkı) yapılan bir ankette sistematik tercih ayrımları görülmüştür. Daha az deneyimli öğretmenler, yansıtma zamanının olmamasını deneyimli oranın 3 katı olarak baş engel olarak gösterir (%37’ye karşı %12, p < ,001) ve öğrenci ilgisizliği (%48’e karşı %33, p = ,028) ve duygular (%31’e karşı %18, p = ,036) üzerine analitik ister.
 - **Ayrımdan çıkarılan tasarım kuralı, deneyime uyarlanmış öneri kipleridir.** Deneyimli öğretmenler, bir öğrenciye yardım ettikten sonraki gelişmiş öğrenme (%40’a karşı %26, p = ,019) ve öğretim yöntemleri üzerine analitik ister (%42’ye karşı %26, p = ,012); baş engelleri performansı izlemedir (%28’e karşı %15, p = ,009). Tasarım kuralı: acemi kipi = yapılandırılmış istemler ve katılım analitiği; uzman kipi = esnek boylamsal analiz — tek tip panolara karşı doğrudan bir argüman. ([[falhs-teacher-expertise-reflection-2025]])
 
+- **Eğitmenlerin kendi kurduğu YZ, merkezî olarak tasarlanmış araçları geçti.** 19 üniversitede 55 kursta 7.200 öğrenciyle yapılan ön kayıtlı bir [[rct|RCT]], YZ desteğini ön saftaki eğitmenler kendisi tasarladığında gözetimli, YZ'siz sınavlarda 0,32 SD daha yüksek puan bulmuştur ([[li-instructor-designed-ai-rct-2026|Li ve ark. (2026)]]); bu, tasarım yetkisinin öğretmende olması gerektiğine dair bugüne kadarki en güçlü kanıttır.
+
+Son dönemdeki iki deneme, iş yükü gerekçesine ve sınırlarına sayı koyar. 68 İngiliz ortaokulunda yürütülen küme randomize bir deneme, ders hazırlama süresini haftada 81,5 dakikadan 56,2 dakikaya, yani 25,3 dakikalık bir tasarrufa indirmiş ve ders kalitesinde tespit edilebilir bir kayıp bulmamıştır ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy ve ark., 2024]]). ASSISTments'ta LLM ödev özetleri verilen öğretmenlerin öğrencileri ödevlere daha çok başlamış ve bitirmiş, sınıf düzeyinde puanlar ise iyileşmemiştir ([[lim-llm-summaries-teachers-rct-2026|Lim ve ark., 2026]]). Zaman tasarrufu ve davranış değişti; ölçülen öğrenme değişmedi.
+
+## Uygulama için çıkarımlar
+
+Kanıt, YZ’yi benimseyen bir eğitmen için öğrenilecek özellikler listesi yerine belirli bir işlem sırasını destekler.
+
+1. **Aracı seçmeden önce etkinliği yazın.** Amacı, önce gelen öğrenci denemesini ve neyin anlayış kanıtı sayılacağını belirtin. Önce seçilen araçlar etkinliği kendi etraflarında yeniden yazma eğilimindedir.
+2. **Devir kalıbına açıkça karar verin.** Dersi kendiniz ana hatlarıyla çizin ve YZ’nin içerik boşluklarını doldurmasına izin verin; üretilmiş bir taslağı kabul etmek yerine yukarıda ölçülen kalite farkına sahip kalıbı kullanın.
+3. **İnsan denetim noktasını sahipliğin bulunduğu yere yerleştirin.** Öğrenen YZ destekli işi değerlendirecek, düzeltecek ve sahiplenecek biçimde tasarlayın ve YZ geri bildirimi öğretmenin aktardığı bir yorum olarak değil, öğretmenin düzenlediği bir taslak olarak gelsin.
+4. **Kaymanın yarattığı yorumlama zamanını koruyun.** Dikkat materyal üretiminden öğrenenleri okumaya kayıyorsa, yeniden tahsis edilen bu zamanın takvimle temasında ayakta kalması gerekir; yeni idari işlerce emilirse vaat edilen rol değişimi gerçekleşmez.
+5. **Araçlar üzerine mi yoksa pedagoji üzerine mi eğitildiğinizi denetleyin.** SEM sonucu göz önüne alındığında, özellik turları yerine disipliner görevler ve kimlik üzerine çalışan mesleki gelişimi tercih edin.
+
+YZ destekli planlamada epistemik otorite, politikayla sabitlenmek yerine olay olay müzakere edilir. Beş öğretmen adayı matematik öğretmeninden 34 planlama olayında otorite 16'sında korunmuş, 12'sinde paylaşılmış ve 6'sında devredilmiştir; eksiksiz bir YZ ders planını yapıştıran öğretmen inşadan yetkilendirmeye geçmiş, bir başkası ise kendi çerçevesini koruyup modelin çıktısını ona göre ayarlamıştır ([[pang-epistemic-authority-ai-lesson-planning-2026|Pang ve ark. (2026)]]).
+
 ## Yaygın yanlış anlamalar
 
 **“YZ, öğretmenliğin pedagojik işini azaltacak veya onun yerini alacaktır.”** Uzman senaryo kanıtı bunun tersini işaret eder. [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith ve ark. (2026)]] buna *daha-insan paradoksu* der: 13 ülkeden 20 araştırmacının birlikte oluşturduğu altı 2030 senaryosu boyunca YZ doygunluğu insan pedagojik işini **yerinden etmek yerine yoğunlaştırır**. Senaryolar YZ’yi “öğrenme ekosisteminin hava işleme sistemi” olarak betimler; yalnızca arızalandığında fark ettiğiniz bir altyapı. Değişen şey, gereken insan yargısının miktarı değil nesnesidir: dikkat, materyal üretmekten öğrenenleri yorumlamaya kayar.
@@ -161,16 +189,6 @@ YZ ile akademik dürüstlük, bir denetleme problemi değil, bir *tasarım* prob
 **“Öğretmenler hâlihazırda YZ’nin ortak tasarımcısıdır, dolayısıyla geçiş sürmektedir.”** Özlem gerçektir; betimleme henüz değil. [[wang-teacher-ai-co-design-review-2026|Wang, Liu ve Islam’ın (2026)]] öğrenme görevlerinin öğretmen-YZ ortak tasarımı üzerine sistematik derlemesi, ortak tasarımcı duruşunun **dengesiz kaldığını** ve baskın kipin hâlâ YZ’nin asistan ya da içerik üreticisi olarak kullanılması olduğunu bulur. Bu derlemeyi tamamlanmış bir kaymanın kanıtı olarak okumak, bu sayfanın önerdiği öğretmenler ile çoğu kurumun fiilen sahip olduğu öğretmenler arasındaki boşluğu gizler.
 
 **“Bir öğretmenin sohbet robotuna nasıl devrettiği pek önemli değildir, çünkü işi model yapar.”** Devir kalıbı müdahalenin kendisidir. Çocukların STEAM sanat dersi planlamasında, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo ve Tahir (2025)]] deneysel olarak, *kendi taslağını çizdiği* bir dersteki içerik boşluklarını doldurmanın öğretmenin tasarım özerkliğini korurken uzman puanlı plan kalitesini de yükselttiğini bulmuştur (medyan 20,5’e karşı 17,6, p = .002, büyük etki) ve taslağı modelin sağlamasına izin verme alternatifinden daha iyi performans göstermiştir. Aynı model, aynı görev, farklı iş bölümü, maddi olarak farklı sonuç.
-
-## Pratik bir başlangıç sırası
-
-Kanıt, YZ’yi benimseyen bir eğitmen için öğrenilecek özellikler listesi yerine belirli bir işlem sırasını destekler.
-
-1. **Aracı seçmeden önce etkinliği yazın.** Amacı, önce gelen öğrenci denemesini ve neyin anlayış kanıtı sayılacağını belirtin. Önce seçilen araçlar etkinliği kendi etraflarında yeniden yazma eğilimindedir.
-2. **Devir kalıbına açıkça karar verin.** Dersi kendiniz ana hatlarıyla çizin ve YZ’nin içerik boşluklarını doldurmasına izin verin; üretilmiş bir taslağı kabul etmek yerine yukarıda ölçülen kalite farkına sahip kalıbı kullanın.
-3. **İnsan denetim noktasını sahipliğin bulunduğu yere yerleştirin.** Öğrenen YZ destekli işi değerlendirecek, düzeltecek ve sahiplenecek biçimde tasarlayın ve YZ geri bildirimi öğretmenin aktardığı bir yorum olarak değil, öğretmenin düzenlediği bir taslak olarak gelsin.
-4. **Kaymanın yarattığı yorumlama zamanını koruyun.** Dikkat materyal üretiminden öğrenenleri okumaya kayıyorsa, yeniden tahsis edilen bu zamanın takvimle temasında ayakta kalması gerekir; yeni idari işlerce emilirse vaat edilen rol değişimi gerçekleşmez.
-5. **Araçlar üzerine mi yoksa pedagoji üzerine mi eğitildiğinizi denetleyin.** SEM sonucu göz önüne alındığında, özellik turları yerine disipliner görevler ve kimlik üzerine çalışan mesleki gelişimi tercih edin.
 
 ## Bağlı kavramlar
 - [[pedagogical-partnerships]] — Pedagojik Ortaklıklar
@@ -246,3 +264,12 @@ Kanıt, YZ’yi benimseyen bir eğitmen için öğrenilecek özellikler listesi 
 - [[falhs-teacher-expertise-reflection-2025]] — Uzmanlık Düzeyleri Tercihleri ve Yansıtma İhtiyaçlarını Nasıl Şekillendirir: Öğretmen Güçlendirmesi İçin YZ Yansıtma Sistemlerine Doğru (Falhs ve ark. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Kanıta dayalı diyalogla öğretim yanlış kanıları için konuşma YZ tanısı (Miranda ve Calvani 2026)
 - [[ai-use-teacher-performance-north-sumatra-2026]] — YZ kullanımının öğretmen performansına doğrudan etkisi yoktu; vatandaşlık davranışı aracılık etti (Sherly ve ark. 2027)
+- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — Dört kimlik dinamiği, üretken ikirciklik ve ilişkisel işin kurumsal maliyeti
+- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 İngiliz ortaokulu: ders hazırlığı haftada 25,3 dakika düştü, tespit edilebilir bir kalite kaybı olmadan (Roy ve ark., 2024)
+- [[lim-llm-summaries-teachers-rct-2026]] — ASSISTments RCT: YZ özetleri ödev tamamlamayı artırdı, sınıf düzeyinde puanları artırmadı (Lim ve ark., 2026)
+- [[socorro-philosophical-leadership-ai-2026]] — Üç evreli bir öğretmenlik rolü olarak felsefi liderlik: etik yargı, pedagojik yönlendirme, politika çevirisi (Socorro Márquez ve ark., 2026)
+- [[pang-epistemic-authority-ai-lesson-planning-2026]] — YZ destekli ders planlamasında otoritenin korunduğu, paylaşıldığı veya devredildiği 34 olay
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — Tartışma Panolarına İlişkin Öğrenci Algıları: YZ destekli öğrenme analitiği tasarımına yön veren bir Teknoloji Kabul Modeli çalışması
+- [[gnadlinger-educator-perspectives-its-design-2026]] — Eğitimci perspektiflerinin akıllı öğretim sistemlerinin meta-sistem tasarımına katılmasına doğru
+- [[chen-future-faculty-development-ai-2027]] — Başkalarının uzmanlığının orkestra şefi olarak öğretmen; roller bir öğretim ekibine dağıtılır
+- [[li-instructor-designed-ai-rct-2026]] — Eğitmen tasarımlı YZ, 19 üniversiteyi kapsayan randomize bir denemede öğrenmeyi iyileştirdi (Li ve ark., 2026)

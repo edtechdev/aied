@@ -11,8 +11,8 @@ level: [higher ed]
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-11-05T01:53:02-05:00"
-updated: "2026-11-08T06:31:23-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
@@ -20,8 +20,11 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
-
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
 > **Thiết kế học tập** (còn được gọi là *thiết kế giảng dạy*): quá trình có hệ thống nhằm tạo ra những trải nghiệm học tập hiệu quả thông qua việc phân tích nhu cầu học tập và việc thiết kế, phát triển, triển khai và đánh giá tài liệu cùng các hoạt động giảng dạy. AI đang biến đổi thiết kế học tập bằng cách tự động hóa việc tạo nội dung, cho phép các lộ trình [[adaptive-learning|học tập thích ứng]], hỗ trợ việc lặp lại dựa trên dữ liệu, và tăng cường chứ không thay thế vai trò của nhà thiết kế giảng dạy.
@@ -64,6 +67,8 @@ Chất lượng văn xuôi là thiếu hụt còn lại, và nó không đồng 
 
 **Các tác tử AI cho thiết kế giảng dạy** mở rộng lĩnh vực sang [[agentic-ai|AI tác tử]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** là chuẩn đánh giá được chuẩn hóa đầu tiên, có nền tảng lý thuyết, để đánh giá các tác tử thiết kế giảng dạy dựa trên LLM; Ma trận bối cảnh gồm 25,795 kịch bản của nó (51 biến bối cảnh × 33 bước con của ISD từ ADDIE) cho thấy các tác tử dựa trên những khuôn khổ ISD cổ điển (ADDIE, Dick & Carey, ISD mẫu nhanh) vượt trội hơn các tác tử không có lý thuyết, qua đó xác nhận bằng thực nghiệm rằng thiết kế giảng dạy là một ngành có cấu trúc chứ không phải một nhiệm vụ nhắc chung chung. Các tác tử không chỉ là những *người xây dựng* thiết kế mà còn là những *nhà phê bình* thiết kế: [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] dùng một tác tử web tự trị duy nhất điều hướng một bài học trực tuyến nhiều bước như một học sinh để đánh giá một thiết kế học tập *trước khi* người học thật tham gia; phần mô tả của nó về [[student-experience|trải nghiệm của sinh viên]] dự báo được nơi người mới sẽ bỏ học và đưa ra phản hồi thiết kế có thể hành động, vượt trội hơn mọi đường cơ sở và thậm chí vượt trội hơn một nhóm sinh viên được mô phỏng trên một khóa CS1 toàn cầu. Điều này định vị việc đánh giá bằng tác tử trước khi triển khai như một bổ sung chi phí thấp cho việc lặp thiết kế của con người. **[[wang-multi-agent-systems-learning-designers-2025]]** và **[[instructional-agents-multi-agent-course-gen|Các tác tử giảng dạy]]** khám phá các khuôn khổ đa tác tử điều phối các tác tử theo vai trò quanh các mô hình thiết kế giảng dạy, trong khi **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** xem xét cách giáo viên và các tác tử cùng áp dụng tri thức công nghệ-sư phạm-nội dung. Công trình này kết nối thiết kế giảng dạy với [[benchmark|việc đối chuẩn]], [[ai-ed-evaluation|đánh giá giáo dục AI]], và việc thiết kế [[curriculum-design|chương trình]] ở quy mô lớn.
 
+**Nội dung được điều chỉnh tốn thời gian, chứ không phải kỹ năng công cụ.** Các chuyên gia giáo dục nêu thời gian, tài liệu và những nhiệm vụ cạnh tranh là trở ngại để tạo ra tài liệu phân hóa, và chỉ 12% gọi công nghệ là rào cản lớn ([[hilali-adaptive-learning-challenges-2026|Hilali và Chergui (2026)]]).
+
 ## Kết nối với các khái niệm liên quan
 
 Thiết kế học tập là ngành bắc cầu của [[ai-education|AI trong giáo dục]]: nó kết nối [[curriculum-design|thiết kế chương trình]] (dạy cái gì) với [[scaffolding|giàn giáo]] (hỗ trợ người học như thế nào), [[educational-development|phát triển giáo dục]] (chuẩn bị cho nhà giáo dục như thế nào), và [[generative-ai|AI sinh tạo]] (chính các công cụ). Nó gắn chặt với [[teacher-role|vai trò giáo viên]] bởi vì các công cụ AI định hình lại việc mà nhà thiết kế học tập và giáo viên làm, và với [[ai-literacy|năng lực AI]] bởi vì việc tích hợp AI hiệu quả đòi hỏi nhà giáo dục hiểu các năng lực và giới hạn của AI. Công việc thiết kế cuối cùng quy về một *thứ tự hoạt động*: [[pedagogical-patterns|các mô hình sư phạm]] lập danh mục những thứ tự động tác đã được kiểm nghiệm, để nhà thiết kế có thể quyết định AI thuộc về chỗ nào trong một bài học thay vì chỉ quyết định đưa gì vào. [[learning-sciences|Các ngành khoa học về học tập]] là lĩnh vực nghiên cứu đứng sau những nguyên tắc này: ở nơi trang này bao quát thực tiễn nghề nghiệp của việc tạo ra các trải nghiệm học tập, các ngành khoa học về học tập nghiên cứu thực tiễn đó và những thiết kế của nó bằng thực nghiệm, rồi tạo ra các nguyên tắc nhận thức, [[motivation|động lực]] và xã hội mà thiết kế học tập sau đó hiện thực hóa.
@@ -71,6 +76,8 @@ Thiết kế học tập là ngành bắc cầu của [[ai-education|AI trong gi
 ## Đồng thiết kế và điều gì phải do con người đảm nhận
 
 Đồng thiết kế là phần của thực hành thiết kế nơi công việc quan hệ là khó thay thế nhất. [[zeivots-postdigital-co-design-genai-2025|Zeivots và cộng sự (2025)]] coi [[generative-ai|GenAI]] như một người cộng tác không đáng tin cậy thay vì một công cụ soạn thảo, và xây một trình tự ba giai đoạn quanh chính sự không đáng tin đó: mô hình khơi gợi, đa dạng hóa và điều phối, trong khi nhóm chất vấn các cách định khung của nó, tạo ra những phản tự sự và tự nắm giữ việc cân nhắc. Điều còn lại thuộc về con người là việc thương lượng - những tiếng nói nào đang vắng mặt, cách định khung nào cả nhóm chọn, và sự hiểu biết chung sẽ là gì. Bài báo là một diễn đàn tập thể của mười chín tác giả không có thực nghiệm, nên trình tự đó là một đề xuất về thực hành chứ không phải một phương pháp đã được kiểm chứng.
+
+Một chuỗi MOOC ba khóa đặt chính quy trình làm việc của nhà thiết kế làm đối tượng giảng dạy, tách các minh họa đặc thù theo công cụ khỏi những nguyên tắc thiết kế trường tồn để tài liệu vẫn sống qua các lần phát hành mô hình ([[quintana-generative-ai-learning-design-partner-2025|Quintana và cộng sự (2025)]]).
 
 ## Thiết kế học tập quyết định kết quả học tập như thế nào
 
@@ -81,6 +88,8 @@ Thiết kế học tập là đòn bẩy quyết định liệu AI có tạo ra 
 Đối với nhà thiết kế giảng dạy, nhà phát triển khóa học và kỹ sư xây dựng các trải nghiệm học tập có hỗ trợ AI, các phát hiện của cơ sở kiến thức chuyển thành thực tiễn có thể hành động. Có một ranh giới đáng được nêu trước chính các thực hành: thiết kế học tập như trang này mô tả là việc thiết kế một khóa học cho một nhóm người học đã biết, trong khi những nguyên tắc tương tự được nướng vào một sản phẩm mà nhiều khóa học, do những người mà nhà thiết kế sẽ không bao giờ gặp giảng dạy, sẽ dùng lại là công việc của [[educational-technology-developers|nhà phát triển công nghệ giáo dục]], nơi các thiết lập mặc định, khả năng cấu hình và tài liệu mang trọng lượng sư phạm:
 
 **Đặt việc tạo sinh của AI trên một mô hình giảng dạy có cấu trúc.** Nội dung AI chỉ tốt bằng cấu trúc sư phạm đứng sau nó: cấu trúc tường minh, chứ không phải sự thành thạo AI, quyết định chất lượng. Hãy thiết kế quanh một mô hình được công nhận (ADDIE, Dick & Carey, mẫu nhanh) và mã hóa các quyết định sư phạm một cách tường minh thay vì trông chờ mô hình suy ra chúng.([[courseblueprint-adaptive-video-generation]])([[jeon-isd-agent-bench-2026]])([[didactical-teacher-assistant-dimensional-modeling]])
+
+Mô hình cũng là một danh sách những gì nó bỏ sót. Khi xem xét năm giai đoạn của ADDIE, Williams và Prishtina (2026) thấy mỗi giai đoạn bỏ sót một điều kiện sử dụng: quyền tiếp cận công cụ ở giai đoạn phân tích, đào tạo giáo viên ở giai đoạn thiết kế, sự phù hợp chương trình ở giai đoạn phát triển, kết nối và tương thích phần mềm ở giai đoạn triển khai, và sáng tạo ở giai đoạn đánh giá ([[williams-coding-curriculum-critique-2026|Williams và Prishtina, 2026]]). Sự thay đổi vai trò đi kèm theo đó: trong tường thuật của [[chng-ai-instructional-design-2023|Ch'ng (2023)]], chuyên gia môn học ngừng soạn nội dung và trở thành người thẩm định điều mô hình đã tạo ra, khiến năng lực xem xét trở thành nút thắt.
 
 **Áp dụng một khuôn khổ cấp nguyên tắc bên cạnh một mô hình giảng dạy.** Một mô hình cấp khóa học cấu trúc một thiết kế; một khuôn khổ được công bố đặt ra các tiêu chí mà nhiều thiết kế phải thỏa mãn. Một ví dụ đáng đọc trọn vẹn là *Powerful Learning with Emerging Technology* của Digital Promise, tổ chức hướng dẫn của nó dưới ba nguyên tắc (Dựa trên bằng chứng, Lấy người học làm trung tâm, Xây dựng kỹ năng), mỗi nguyên tắc được triển khai thành các thực hành và chiến lược, và gắn [[privacy|quyền riêng tư]], [[explainable-ai|khả năng giải thích]] và tính công bằng vào những thực hành cụ thể như những nghĩa vụ an toàn chứ không phải những thứ thêm vào tùy chọn.([[powerful-learning-with-emerging-technology-2025]])
 **Khớp cấu hình AI với nhiệm vụ, không khớp với độ tinh vi.** [[pchl-he-framework-genai-content-creation-2026|Nalyvaiko (2026)]] phân biệt bốn lớp (prompt, bối cảnh, khung vận hành, vòng lặp được kiểm chứng) và áp dụng nguyên tắc lớp tối thiểu đủ: dùng cấu hình ít phức tạp nhất có khả năng tạo ra một kết quả kiểm chứng được, vì việc điều phối thêm mang theo chi phí về phối hợp, kiểm chứng, quyền riêng tư và sự hiểu.
@@ -106,6 +115,9 @@ Fowlin và cộng sự (2026) bổ sung một động thái vận hành để qu
 
 - **Hoạt động được ghi nhận tập trung vào một giai đoạn của chu trình.** Trong một tổng quan 78 nghiên cứu về thiết kế giảng dạy có hỗ trợ AI, hoạt động ở giai đoạn Thiết kế xuất hiện trong **74 trên 78 nghiên cứu (95%)** và Phát triển trong 44 (56%), trong khi Phân tích chỉ đạt 11 (14%), Đánh giá 10 (13%) và Triển khai 7 (9%), và **không nghiên cứu nào xem xét sự hỗ trợ của AI trên toàn bộ chu trình ADDIE**. Chu trình là một khát vọng mà nền tảng bằng chứng chưa bao phủ, điều quan trọng với bất cứ ai đang được chào bán "phát triển khóa học bằng AI" như một năng lực từ đầu đến cuối ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **Ba vai trò của AI, phân bố theo thứ bậc.** Việc sử dụng *sinh tạo*, tức AI tạo nội dung thiết kế theo chỉ đạo của nhà giáo dục, chiếm ưu thế ở **96% số nghiên cứu**; việc sử dụng *giàn giáo*, nơi AI cấu trúc lập luận của chính nhà thiết kế, xuất hiện trong 35%; việc sử dụng *đánh giá*, nơi AI đánh giá chất lượng sản phẩm, trong 21%. Lĩnh vực đang dùng AI áp đảo để làm ra đồ vật thay vì để chất vấn các quyết định thiết kế của chính mình, đúng là điều ngược lại với cấu hình người bạn phản biện mà bản tổng quan này chỉ ra là có triển vọng về mặt giáo dục.
+- **Nhà thiết kế yêu cầu khả năng điều khiển, không phải tự chủ.** Tám nhà thiết kế giảng dạy thử nghiệm một nền tảng tạo mục hỏi ([[wei-perspicacious-instructional-design-2026|Wei và cộng sự, 2026]]) muốn kiểm soát độ khó, định dạng và nguồn gốc, cho nền tảng 78.8 điểm trên thang SUS, và gọi sự tin cậy là điều kiện để áp dụng.
+
+Việc thiết kế điều tiết hiệu ứng mạnh hơn công nghệ trong tổng hợp của Zhang và cộng sự: cùng một năng lực GenAI tạo ra g = 0.92 khi người học dẫn dắt nó và g = 0.34 khi nó tự vận hành. Do đó chế độ tương tác là một quyết định thiết kế chứ không phải một thuộc tính của công cụ ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang và cộng sự, 2026]]).
 
 ## Những hiểu lầm phổ biến
 
@@ -177,5 +189,7 @@ Fowlin và cộng sự (2026) bổ sung một động thái vận hành để qu
 - [[wang-teacher-ai-co-design-review-2026]] — Giáo viên và AI cùng thiết kế các nhiệm vụ học tập: xu hướng và góc nhìn (Wang và cộng sự 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Kiến trúc các vai trò trong các hoạt động nhóm phân hóa do AI thiết kế (Talebzadeh 2026)
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLM như những tác tử của thiết kế sư phạm lặp lại
-
 - [[zeivots-postdigital-co-design-genai-2025]] — GenAI như một người cộng tác không đáng tin cậy trong đồng thiết kế
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Phân tích tổng hợp ba cấp: GenAI vận hành qua phản hồi và thiết kế do người học dẫn dắt, chứ không phải một can thiệp đồng nhất (Zhang và cộng sự 2026)
+- [[williams-coding-curriculum-critique-2026]] — Lập trình chương trình: phê bình "Cách AI để lại dấu ấn trên thiết kế giảng dạy"
+- [[chng-ai-instructional-design-2023]] — Cách AI để lại dấu ấn trên thiết kế giảng dạy

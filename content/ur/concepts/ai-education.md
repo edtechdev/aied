@@ -1,7 +1,7 @@
 ---
 title: "تعلیم میں مصنوعی ذہانت"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-08T06:13:34-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "*انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*"
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,10 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
-
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -65,7 +68,7 @@ ai_assist:
 - **[[pedagogy|پيدگوجیز اور تدریسی حکمت عملیاں]]** — تدریس کے لیے چھتری: وہ تدریسی طریقے اور حکمت عملیاں جن میں AI کام کرتا ہے ([[active-learning|فعال]]، [[collaborative-learning|تعاون سے]]، [[project-based-learning|منصوبے پر مبنی]]، [[problem-based-learning|مسئلہ پر مبنی]]، [[experiential-learning|تجربتی]]، [[game-based-learning|گیم پر مبنی]]، [[socratic-method|سوکریٹک]]، [[scaffolding|سکافولڈنگ]]، اور مزید)، جن میں [[online-teaching-and-learning|آن لائن تدریس اور سیکھنا]] کا ممتاز سیاق بھی شامل ہے۔
 - **[[learning-theories|سیکھنے کے نظریات]]** — سیکھنے کے لیے چھتری: وہ نظریاتی فریم ورک ([[behaviorism]]، [[cognitive-psychology|ادراکیت]]، [[constructivist|تصوریت]]، [[sociocultural-learning|سماجی ثقافتی]]، علمی، [[motivation|حوصلہ افزائی]] والے) جو AI کے ڈیزائن اور جائزے کو شکل دیتے ہیں۔
 - **[[ai-technologies|ٹیکنالوجیز]]** — تکنیکی پرت کے لیے چھتری: AI نظام ([[llm|LLMs]]، [[generative-ai|جنریٹو AI]]، [[multimodal|ملٹی موڈل]]، [[educational-robotics|روبوٹکس]]) اور تکنیکیں ([[rag|RAG]]، [[prompt-engineering|پرامپٹ انجینئرنگ]]، [[reinforcement-learning|ریئنفورسمنٹ لرننگ]]، [[llm-training-and-fine-tuning|ماڈل ٹریننگ]]، [[agentic-ai|ایجنٹک آرکیسٹریشن]]) جو AIED کو طاقت دیتی ہیں۔ سیکھنے والے کی نمائندگی کا خاندان — [[knowledge-tracing|نالج ٹریسنگ]]، [[cognitive-diagnosis|علمی تشخیص]]، [[simulating-students|طلبہ کی نقالی]]، اور انہیں استعمال کرنے والے نظام ([[intelligent-tutoring|انٹیلی جینٹ ٹیوٹرنگ]]، [[adaptive-learning|اڈاپٹیو لرننگ]]، [[personalized-learning|ذاتی نوعیت کا سیکھنا]]) — اسی تکنیکی سلسلے کے اندر [[student-modeling|سیکھنے والے کی نمائندگی اور موافق تدریس]] چھتری کے تحت گروپ ہیں۔
-- **[[discipline-specific-aied|مضامین میں AI]]** — یہ چھتری کہ AI مضامین میں کیسے لاگو ہوتا ہے ([[math-education|ریاضی]]، [[physics-education|فزکس]]، [[language-learning|زبان سیکھنا]]، [[cs-education|کمپیوٹر سائنس]]، [[writing-education|لکھنے کی تعلیم]]، [[stem-education|STEM]]، [[engineering-education|انجینئرنگ]]، [[business-education|بزنس]]، [[teacher-education|استاد کی تعلیم]]، [[medical-education|صحت کی پیشہ ورانہ تعلیم]]، اور مزید) — اور تعلیمی مضامین سے آگے، وہ پیشہ ورانہ اور عملی سلسلہ جو ظاہر کردہ مشق کا جائزہ لیتا ہے ([[nursing-education|نرسنگ]]، [[information-technology|انفارمیشن ٹکنالوجی]]، [[vocational-education|ووکیشنل تعلیم اور تربیت]]، [[design-education|ڈیزائن تعلیم]]) — اور تعلیمی درجات ([[k-12]]، [[higher-ed|اعلیٰ تعلیم]]، [[adult-learning|بالغوں کی تعلیم]])۔
+- **[[discipline-specific-aied|مضامین میں AI]]** — یہ چھتری کہ AI مضامین میں کیسے لاگو ہوتا ہے، چار جھرمٹوں میں منظم۔ [[humanities-education|Humanities اور فنون]] تاریخ، فلسفہ، ادب اور زبانیں ڈھکتے ہیں، اُن کے ساتھ [[arts-and-media-education|فنون اور میڈیا]] اور [[music-education|موسیقی]]۔ [[social-sciences-education|سماجی علوم]] شہریات، کاروبار اور معاشیات، اور ماحولیاتی مطالعات ڈھکتے ہیں۔ [[stem-education|STEM]] ریاضی، طبیعیات، کیمیا، حیاتیات، کمپیوٹنگ اور انجینئرنگ ڈھکتا ہے۔ [[professions-education|پیشے]] تسلیم شدہ پروگرام ڈھکتے ہیں — [[medical-education|طب اور صحت کے پیشے]]، [[nursing-education|نرسنگ]]، [[legal-education|قانونی تعلیم]]، [[teacher-education|استاد کی تعلیم]]، [[design-education|ڈیزائن تعلیم]] اور [[libraries|لائبریرین شپ]] — جہاں جائزے کو یہ ثابت کرنا ہوتا ہے کہ تصدیق شدہ فیصلہ امیدوار کا اپنا تھا۔ یہ جھرمٹ مضامین کے ساتھ ساتھ اسکولی درجات پر بھی لاگو ہوتے ہیں۔
 - **[[assessment]]** ([[formative-assessment|فارمیٹو]]، [[summative-assessment|سمیٹو]]، [[authentic-assessment|مستند]]، [[oral-assessment|زبانی]]، اور [[automated-assessment|خودکار]] سلسلوں کے ساتھ) — یہ چھتری کہ AI سیکھنے والوں کا جائزہ کیسے لیتا ہے اور جائزے کی صداقت اور سالمیت کو کیسے دوبارہ شکل دیتا ہے۔
 - **[[feedback]]** — یہ چھتری کہ فیڈ بیک کیسے پیدا، پہنچایا اور استعمال ہوتا ہے: فیڈ بیک لوپ، [[ai-feedback-quality|فیڈ بیک کا معیار]]، [[feedback-literacy|فیڈ بیک لیٹریسی]]، اور اس کے جائزے کے سیاق ([[formative-assessment|فارمیٹو]]، [[peer-assessment|ہم مرتبہ]]، [[automated-assessment|خودکار]])۔
 - **[[stakeholders|تعلیم میں اسٹیک ہولڈرز]]** — یہ چھتری کہ اداکار کون ہیں: سیکھنے والے، [[teacher-role|اساتذہ]]، [[learning-design|سیکھنے کے ڈیزائنرز]]، [[administrator|منتظمین]]، اور [[educational-policy-ai|پالیسی سازان]]۔
@@ -92,8 +95,8 @@ ai_assist:
 AI تدریس اور سیکھنے کی حمایت کیسے کرتا ہے، یہ میدان کا دل ہے۔ کلیدی تصورات میں شامل ہیں:
 
 - **بنیادی پيدگوجیز:** [[pedagogy|پيدگوجیز اور تدریسی حکمت عملیاں]] — علم بنیاد کے تدریسی طریقوں کے احاطے کے لیے چھتری — کے ساتھ [[pedagogical-patterns|پيدگوجیکل پیٹرنز]] (وہ آزمودہ تسلسل جن میں یہ طریقے حل ہوتے ہیں)، [[active-learning|فعال سیکھنا]]، [[collaborative-learning|تعاون سے سیکھنا]]، [[group-work|گروپ ورک]]، [[project-based-learning|منصوبے پر مبنی سیکھنا]]، [[problem-based-learning|مسئلہ پر مبنی سیکھنا]]، [[productive-failure|پیداواری ناکامی]]، [[inquiry-based-learning|استفسار پر مبنی سیکھنا]]، [[experiential-learning|تجربتی سیکھنا]]، [[game-based-learning|گیم پر مبنی سیکھنا]]، [[learning-by-teaching|سکھا کر سیکھنا]]، [[scaffolding|سکافولڈنگ]]، [[socratic-method|سوکریٹک طریقہ]]، [[critical-pedagogy|تنقیدی پيدگوجی]]، [[pedagogical-partnerships|پيدگوجیکل شراکت داری]]، [[storytelling-in-education|کہانی سازی]]، [[learning-design|سیکھنے کا ڈیزائن]]، [[online-teaching-and-learning|آن لائن تدریس اور سیکھنا]]، اور [[video-education|تعلیم میں ویڈیو]]۔
-- **سیکھنے کے نظریات اور عمل:** [[learning-theories|سیکھنے کے نظریات]] کی چھتری ([[behaviorism]]، [[cognitive-psychology|ادراکیت]]، [[constructivist|تصوریت]]، [[sociocultural-learning|سماجی ثقافتی]]، [[distributed-cognition|تقسیم شدہ ادراک]]، [[situated-learning|سیاقی سیکھنا]]، [[embodied-learning|مجسم سیکھنا]]، [[community-of-inquiry|استفسار کی برادری]]) کے ساتھ سیکھنے والے کے سامنے والے عمل جیسے [[self-regulated-learning|خود ریگولیٹڈ سیکھنا]]، [[self-determination-theory|خود ارادیت کا نظریہ]]، [[motivation|حوصلہ]]، [[self-efficacy|خود اثر آفرمی]]، [[self-directed-learning|خود ہدایت شدہ سیکھنا]]، [[metacognition|میٹا کوگنیشن]]، [[desirable-difficulties|مطلوبہ مشکلات]]، [[transfer-of-learning|سیکھنے کا انتقال]]، [[prior-knowledge|پیشگی علم]]، [[icap-framework|ICAP علمی مشغولیت]]، [[reflection|عکاسی]]، [[refutation-text|ردِ متن]]، [[retrieval-spacing-interleaving|بازیابی، وقفہ، اور انٹر لیونگ]]، اور [[activity-theory-aied|سرگرمی کا نظریہ]]۔
-- **سیکھنے والے کی مشغولیت اور تجربہ:** [[student-engagement|طلبہ کی مشغولیت]]، [[help-seeking|مدد طلبی]]، [[social-emotional-learning|سماجی جذباتی سیکھنا]]، [[well-being|بہبود]]، [[creativity|تخلیقی صلاحیت]]، [[problem-solving|مسئلہ حل کرنا]]، [[mastery-learning|مہارت کا سیکھنا]]، اور [[student-ai-interaction|طلبہ–AI تعامل]] یہ شکل دیتے ہیں کہ سیکھنے والے AI سے واقعی کس طرح ملتے اور متاثر ہوتے ہیں، جب کہ AI کے استعمال کے گرد [[social-norms-ai-use|وہ سماجی اصول جو قائم ہوتے ہیں]] فیصلہ کرتے ہیں کہ اس میں سے کچھ بھی کتنی کھلم کھلا بحث کی جا سکتی ہے۔ کورس سے آگے، [[student-support-and-success|طلبہ کی معاونت اور کامیابی]] اداراتی طرف کا کام احاطہ کرتی ہے — مشاورت، رسائی، حوالہ، اور محدود معاونت کی تقسیم — جہاں AI قابل اعتماد طریقے سے کام کی تکمیل کو بڑھاتا ہے مگر استقامت یا گریجوئیشن کو نہیں۔
+- **سیکھنے کے نظریات اور عمل:** [[learning-theories|سیکھنے کے نظریات]] کی چھتری ([[behaviorism]]، [[cognitive-psychology|ادراکیت]]، [[constructivist|تصوریت]]، [[sociocultural-learning|سماجی ثقافتی]]، [[distributed-cognition|تقسیم شدہ ادراک]]، [[situated-learning|سیاقی سیکھنا]]، [[embodied-learning|مجسم سیکھنا]]، [[community-of-inquiry|استفسار کی برادری]]) کے ساتھ سیکھنے والے کے سامنے والے عمل جیسے [[self-regulated-learning|خود ریگولیٹڈ سیکھنا]]، [[self-determination-theory|خود ارادیت کا نظریہ]]، [[motivation|حوصلہ]]، [[self-efficacy|خود اثر آفرمی]]، [[self-directed-learning|خود ہدایت شدہ سیکھنا]]، [[metacognition|میٹا کوگنیشن]]، [[desirable-difficulties|مطلوبہ مشکلات]]، [[transfer-of-learning|سیکھنے کا انتقال]]، [[prior-knowledge|پیشگی علم]]، [[icap-framework|ICAP علمی مشغولیت]]، [[reflection|عکاسی]]، [[refutation-text|ردِ متن]]، [[retrieval-spacing-interleaving|بازیابی، وقفہ، اور انٹر لیونگ]]، اور [[activity-theory-aied|سرگرمی کا نظریہ]]۔ ترقیاتی فریم اِن سب میں کاٹتا ہے: [[developmental-psychology|ترقیاتی نفسیات]] بتاتی ہے کہ ایک ہی عمل پانچ، پندرہ اور پچیس سال کی عمر میں مختلف کیوں لگتا ہے۔
+- **سیکھنے والے کی مشغولیت اور تجربہ:** [[student-engagement|طلبہ کی مشغولیت]]، [[help-seeking|مدد طلبی]]، [[social-emotional-learning|سماجی جذباتی سیکھنا]]، [[well-being|بہبود]]، [[creativity|تخلیقی صلاحیت]]، [[problem-solving|مسئلہ حل کرنا]]، [[mastery-learning|مہارت کا سیکھنا]]، اور [[student-ai-interaction|طلبہ–AI تعامل]] یہ شکل دیتے ہیں کہ سیکھنے والے AI سے واقعی کس طرح ملتے اور متاثر ہوتے ہیں، جہاں [[empathy|ہمدردی]] وہ جذباتی نتیجہ ہے جس کا اکثر دعویٰ ہوتا ہے اور شاذ و نادر پیمائش، جب کہ AI کے استعمال کے گرد [[social-norms-ai-use|وہ سماجی اصول جو قائم ہوتے ہیں]] فیصلہ کرتے ہیں کہ اس میں سے کچھ بھی کتنی کھلم کھلا بحث کی جا سکتی ہے۔ کورس سے آگے، [[student-support-and-success|طلبہ کی معاونت اور کامیابی]] اداراتی طرف کا کام احاطہ کرتی ہے — مشاورت، رسائی، حوالہ، اور محدود معاونت کی تقسیم — جہاں AI قابل اعتماد طریقے سے کام کی تکمیل کو بڑھاتا ہے مگر استقامت یا گریجوئیشن کو نہیں۔
 
 ## ٹیکنالوجیز اور تکنیکیں
 
@@ -106,13 +109,29 @@ AI تدریس اور سیکھنے کی حمایت کیسے کرتا ہے، یہ 
 
 ## مضامین میں AI
 
-AI مختلف مضامین اور تعلیمی درجات میں لاگو ہوتا ہے۔ علم بنیاد کا [[discipline-specific-aied|مضامین میں AIEd کا جائزہ]] موضوعی احاطے کا نقشہ بناتا ہے — اس کے ساتھ [[learning-sciences|سیکھنے کی سائنسز]]، جو سکھایا جانے والا مضامین نہیں بلکہ وہ سراسری تحقیقی میدان ہے جو خود سیکھنے کا مطالعہ کرتا ہے اور مضامین کو دوسرے متغیرات میں سے ایک کے طور پر لیتا ہے:
+مضمون کے حساب سے کوریج میدان کا سب سے بڑا حصہ ہے۔ [[discipline-specific-aied|مضامین میں AIEd]] اُسے رکھتا ہے، [[learning-sciences|learning sciences]] کے ساتھ، جو پڑھایا جانے والا مضمون نہیں بلکہ وہ سراسری تحقیقی میدان ہے جو خود سیکھائی کا مطالعہ کرتا ہے اور مضمون کو دیگر متغیرات میں سے ایک سمجھتا ہے۔ چار جھرمٹ مضامین کے صفحات کو منظم کرتے ہیں:
 
-- **مضامین:** [[math-education|ریاضی]]، [[statistics-and-data-science-education|شماریات اور ڈیٹا سائنس]]، [[physics-education|فزکس]]، [[chemistry-education|کیمیا]]، [[biology-education|حیاتیات]]، [[cs-education|کمپیوٹر سائنس]]، [[engineering-education|انجینئرنگ]]، [[stem-education|STEM]]، [[writing-education|لکھنے کی تعلیم]]، [[reading-education|پڑھنے کی تعلیم]]، [[language-learning|زبان سیکھنا]]، [[english-education|انگریزی تعلیم (EAP/EFL/ESL)]]، [[libraries|کتب خانہ اور معلوماتی سائنس]]، [[science-education|سائنس تعلیم]]، [[environmental-education|ماحولیاتی تعلیم]]، [[business-education|بزنس، معاشیات، اور انتظام]]، [[humanities-education|انسانیات اور سماجی سائنسز]]، [[civic-and-political-education|شہری اور سیاسی تعلیم]]، [[arts-and-media-education|فنون، ڈیزائن اور میڈیا تعلیم]]، [[medical-education|طبی اور صحت کی پیشہ ورانہ تعلیم]]، [[legal-education|قانونی تعلیم]]، اور پیشہ ورانہ اور عملی سلسلے — [[nursing-education|نرسنگ]]، [[information-technology|انفارمیشن ٹکنالوجی]]، [[vocational-education|ووکیشنل تعلیم اور تربیت]]، اور [[design-education|ڈیزائن تعلیم]]۔
+- **Humanities اور فنون:** [[humanities-education|humanities education]]، [[arts-and-media-education|فنون اور میڈیا تعلیم]]، [[music-education|موسیقی تعلیم]]، [[writing-education|تحریری تعلیم]]، [[reading-education|پڑھائی کی تعلیم]]، [[language-learning|زبان کی سیکھائی]] اور [[english-education|انگریزی تعلیم (EAP/EFL/ESL)]]۔
+
+- **سماجی علوم:** [[social-sciences-education|سماجی علوم کی تعلیم]]، [[civic-and-political-education|شہری و سیاسی تعلیم]]، [[business-education|کاروبار، معاشیات اور انتظام]] اور [[environmental-education|ماحولیاتی تعلیم]]۔
+
+- **STEM:** [[stem-education|STEM تعلیم]]، [[science-education|سائنس تعلیم]]، [[math-education|ریاضی]]، [[statistics-and-data-science-education|اعداد و شمار اور ڈیٹا سائنس]]، [[physics-education|طبیعیات]]، [[chemistry-education|کیمیا]]، [[biology-education|حیاتیات]]، [[cs-education|کمپیوٹر سائنس]]، [[engineering-education|انجینئرنگ]] اور [[information-technology|معلوماتی ٹیکنالوجی]]۔
+
+- **پیشے:** [[professions-education|پیشہ ورانہ تعلیم]]، [[medical-education|طب اور صحت کے پیشے]]، [[nursing-education|نرسنگ]]، [[legal-education|قانونی تعلیم]]، [[teacher-education|استاد کی تعلیم]]، [[design-education|ڈیزائن تعلیم]] اور [[libraries|لائبریری اور معلوماتی سائنس]]۔
+
+مضمون جس جھرمٹ میں آتا ہے وہی طے کرتا ہے کہ اُس کا ثبوت کون سا صفحہ رکھتا ہے۔ [[vocational-education|پیشہ ورانہ تعلیم اور تربیت]] یہاں کے بجائے درجات کے تحت درج ہے، کیونکہ یہ مضمون سے زیادہ قابلیت کے راستے کا نام ہے۔
 
 ## درجات اور سیاق
 
-ایک ہی AI ٹول بالکل مختلف ماحول سے ملتا ہے، اور علم بنیاد تعلیمی درجے کو پيدگوجی سے الگ کرتا ہے تاکہ نتائج خاموشی سے ان پر منتقل نہ ہوں: [[k-12|K-12 اسکول]]، [[early-childhood-elementary-ai-education|ابتدائی بچپن اور الیمنٹری تعلیم]]، [[higher-ed|اعلیٰ تعلیم]]، [[adult-learning|بالغوں کی تعلیم]]، [[vocational-education|ووکیشنل تعلیم اور تربیت]]، [[special-education|خصوصی تعلیم]]، اور [[teacher-education|استاد کی تعلیم]]۔ درجوں میں کاٹنے والے ڈومین سے جڑے تصورات میں [[universal-design-for-learning|یونیورسل ڈیزائن فار لرننگ]]، [[neurodiversity|نیورو ڈائیورسٹی]]، [[multilingual-learning|کثیر اللسانی سیکھنا]]، اور [[social-emotional-learning|سماجی جذباتی سیکھنا]] شامل ہیں۔
+ایک ہی AI ٹول بالکل مختلف ماحول سے ملتا ہے، اور تعلیمی درجے کو پيدگوجی سے الگ رکھا جاتا ہے تاکہ نتائج خاموشی سے ایک سے دوسرے پر منتقل نہ ہوں: [[k-12|K-12 اسکول]]، جو اب [[early-childhood-elementary-ai-education|ابتدائی بچپن]]، [[primary-education|ابتدائی تعلیم]] اور [[secondary-education|ثانوی تعلیم]] میں بٹتے ہیں؛ [[higher-ed|اعلیٰ تعلیم]]، جو [[undergraduate-education|انڈرگریجویٹ]] اور [[graduate-education|گریجویٹ]] مطالعے میں بٹتی ہے؛ اور اِن سیڑھیوں سے باہر کے ماحول، [[adult-learning|بالغ سیکھائی]]، [[vocational-education|پیشہ ورانہ تعلیم اور تربیت]]، [[special-education|خصوصی تعلیم]]، اور [[teacher-education|استاد کی تعلیم]]۔ [[education-levels|تعلیم کے درجات]] اُن کا موازنہ کرتا ہے۔ درجات میں کاٹنے والے ڈومین سے قریبی تصورات میں [[universal-design-for-learning|سیکھائی کے لیے عالمگیر ڈیزائن]]، [[neurodiversity|نیورو ڈائیورسٹی]]، [[multilingual-learning|کثیر لسانی سیکھائی]]، اور [[social-emotional-learning|سماجی-جذباتی سیکھائی]] شامل ہیں۔
+
+## ایک ہی ٹول، الٹ ڈیزائن فیصلے
+
+درجہ وہ متغیر ہے جو ڈیزائن کی سفارش کو سب سے صاف طور پر اُلٹ دیتا ہے۔ ثانوی ثبوت استاد کو طالب علم اور ٹول کے درمیان رکھتا ہے: 33 مطالعات میں، فائدے وہاں آئے جہاں طلبہ نے آؤٹ پٹ کا موازنہ کیا، اور وہاں ماند پڑے جہاں ٹول نے کام پیدا کیا ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]])۔
+
+گریجویٹ ثبوت اُلٹ سمت اشارہ کرتا ہے، ایک جوابدہ انسان کے ساتھ شراکت کی طرف۔ تیاری کی سہولت کاروں نے تحقیقی [[self-efficacy|خود اثر آفرینی]] تک نگران کی حمایت سے رسائی حاصل کی (β = 0.201 بالواسطہ)، ٹول کے استعمال سے نہیں ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo et al. (2026)]])۔ ایک ڈاکٹریٹ جائزہ اخلاقیات سے وہی ڈیزائن نتیجہ اخذ کرتا ہے: قانونی حیثیت کام پر منحصر ہے، ٹول پر نہیں، انکشاف فکری اہمیت کے تناسب سے ہے، اور گورننس سنگِ میل پر جائزہ لی جاتی ہے ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja et al. (2026)]])۔
+
+جو نہیں بدلتا وہ یہ ہے کہ فیصلہ انسان کے پاس رہتا ہے۔ گریجویٹ سیمینار کے طلبہ نے AI آؤٹ پٹ اُس وقت قبول کیا جب کسی جاننے والے دربان نے اُسے جانچا، جسے Chen ہاتھ سے گئی ہوئی ایجنسی کے بجائے تفویض شدہ ایجنسی پڑھتے ہیں ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]])۔ تعدد درجات کے پار غلط میٹرک ہے: اخلاقیات اور خود ضبط ماڈل میں آنے پر اُس نے گریجویٹ قابلیت کی پیش گوئی β = 0.030 پر کی ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]])۔
 
 ## جائزہ اور پیمائش
 
@@ -125,7 +144,7 @@ AI دونوں چیزوں کو بدلتی ہے: ہم سیکھنے والوں کا
 
 ہم کیسے جانتے ہیں کہ AI کام کرتا ہے، یہ اپنا الگ سلسلہ ہے، اور علم بنیاد اسے ایسا ہی سمجھتا ہے:
 
-- **تحقیقی طریقے:** امبریلا کے طور پر [[research-methods-aied|AIED میں تحقیقی طریقے]]، [[qualitative-research|کیفیاتی]]، [[quantitative-research|کمیاتی]]، [[mixed-methods-research|ملے جلے طریقے]]، [[design-based-research|ڈیزائن پر مبنی]]، اور [[usability-research|استعمال کی سہولت]] کے نقطہ نظر، نیز [[rct|رینڈمائزڈ کنٹرولڈ ٹرائلز]]، [[meta-analysis-systematic-review|میٹا تجزیہ اور منظم جائزہ]]، اور [[network-analysis|نیٹ ورک تجزیہ]]۔
+- **تحقیقی طریقے:** امبریلا کے طور پر [[research-methods-aied|AIED میں تحقیقی طریقے]]، [[qualitative-research|کیفیاتی]]، [[quantitative-research|کمیاتی]]، [[mixed-methods-research|ملے جلے طریقے]]، [[design-based-research|ڈیزائن پر مبنی]]، [[usability-research|استعمال کی سہولت]] اور [[longitudinal-research|طولانی]] نقطہ نظر، نیز [[rct|رینڈمائزڈ کنٹرولڈ ٹرائلز]]، [[meta-analysis-systematic-review|میٹا تجزیہ اور منظم جائزہ]]، اور [[network-analysis|نیٹ ورک تجزیہ]]۔
 
 میدان کا اپنا تحقیقی کام اب خود ایک موضوع ہے۔ [[ai-assisted-educational-research|AI معاون تعلیمی تحقیق]] AI کو ادبی جستجو، اسکریننگ، کیفیاتی کوڈنگ، تجزیہ، اور تحریر کے آلے کے طور پر احاطہ کرتا ہے، جس میں تدریس کے علم جیسی عملی تحقیق بھی شامل ہے۔ یہ ان ڈیزائنز سے الگ رہتا ہے جو AI کا سیکھنے والوں پر اثر مطالعہ کرنے کے لیے استعمال ہوتے ہیں۔
 
@@ -184,6 +203,7 @@ AI دونوں چیزوں کو بدلتی ہے: ہم سیکھنے والوں کا
 **"میدان کی پختگی اس کی اشاعت کے حجم سے پڑھی جا سکتی ہے۔"** حجم اور پختگی الگ الگ چلتے ہیں؛ تحقیقی طریقوں کا رخ بار بار آنے والی ڈیزائن کمزوریوں کو دستاویز کرتا ہے جنہیں حجم ٹھیک نہیں کرتا، اور فریم ورک ان کی جانچ سے زیادہ تیزی سے بڑھتے ہیں۔
 
 ## منسلک تصورات
+
 - [[pedagogical-patterns]] — وہ آزمودہ تسلسل جو میدان کی پيدگوجیز کو عملی شکل دیتے ہیں
 - [[ai-literacy]] — چھتری: AI کو سمجھنا، استعمال کرنا، اور جانچنا
 - [[automation-bias]] — قاری کی طرف کی ناکامی: خودکار فیصلے کو بغیر جانچے قبول کر لینا
@@ -218,6 +238,11 @@ AI دونوں چیزوں کو بدلتی ہے: ہم سیکھنے والوں کا
 - [[ai-avatars-and-synthetic-instructors]] — چھتری: مصنوعی انسان جو پڑھاتے، ٹیوٹرنگ کرتے، نقالی کرتے اور جانچتے ہیں
 - [[civic-and-political-education]] — موضوعی شعبہ: عوامی زندگی کی خواندگی، جس کی ثبوت کی بنیاد پتلی ہے
 
+- [[primary-education]] — ابتدائی تعلیم میں AI
+- [[secondary-education]] — مڈل اور ہائی اسکول میں AI
+- [[undergraduate-education]] — بیچلر کی سطح کے مطالعے میں AI
+- [[graduate-education]] — ماسٹرز اور ڈاکٹریٹ مطالعے میں AI
+
 ## منسلک مضامین
 
 تعلیم میں مصنوعی ذہانت کے میدان گیر جائزے — وہ مطالعات جو پورے میدان یا پورے تعلیمی درجے کا سروے کرتے ہیں، ایک موضوع کا نہیں:
@@ -227,3 +252,8 @@ AI دونوں چیزوں کو بدلتی ہے: ہم سیکھنے والوں کا
 - [[genai-higher-education-systematic-review-2026]] — اعلیٰ تعلیم میں جنریٹو AI: 125 مطالعات کا منظم جائزہ
 - [[stanford-evidence-base-ai-k12-2026]] — K-12 میں AI پر ثبوت کی بنیاد: 818 مقالوں کا جائزہ
 - [[genai-educational-outcomes-meta-analysis]] — جنریٹو AI اور تعلیمی نتائج: جامع میٹا تجزیہ
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 ثانوی مطالعات؛ فائدے وہاں جہاں طلبہ آؤٹ پٹ کا فیصلہ کرتے ہیں، نہ کہ جہاں ٹول کام پیدا کرتا ہے
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 ماسٹرز طلبہ؛ تیاری نے نگران کی حمایت سے خود اثر آفرینی حاصل کی
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — ڈاکٹریٹ نگرانی کی اخلاقیات، فیڈبیک اور گورننس کا 61 ذرائع کا جائزہ
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — یک گروہ گریجویٹ سیمینار؛ خود ہدایت سیکھائی میں اضافہ بغیر کسی غیر معاون امتحان کے
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 طلبہ؛ اخلاقیات اور خود ضبط میں انڈرگریجویٹ–گریجویٹ خلا

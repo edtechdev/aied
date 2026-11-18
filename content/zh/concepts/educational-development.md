@@ -1,7 +1,7 @@
 ---
 title: 教育发展
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,13 +11,17 @@ confidence: high
 institutions: [educational-policy-ai]
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: concepts/educational-development
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -45,10 +49,15 @@ ai_assist:
 - **采用与信心：**[[teacher-ai-adoption-confidence|教师人工智能采用研究]]把关切、支持、信心与态度识别为关键预测因子。教师发展项目必须同时应对这四项。
 - **课程整合：**[[institutional-change-framework-ai|机构变革框架]]与[[ai-assessment-scale-reform|评估改革]]要求教师重构课程，而不只是添加人工智能工具。
 - **培训项目：**[[crewscaler-ai-upskilling-framework|人工智能技能提升框架]]与[[ai-tpack-preservice-math-teachers|基于 TPACK 的职前培训]]为结构化的教师[[ai-education|人工智能教育]]提供了模型。
+- **需求不等于需求评估。** 345 名魁北克 CEGEP 教师的技术理解得分最低（5 分制的 2.706），却要求学科专属的实际应用，称此前的培训过于笼统（[[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini 等人（2026）]]）。
 
 - **人工智能中介的专业反思。**反思三角模型把人工智能定位为贯穿[[reflection|自我反思]]、协作反思与专业学习社区中共同体反思的认知中介，并在一项有六位教师的四周可行性案例中做了检验；它所划出的边界是：个人的洞见不会自动变成共享的专业知识（[[reflective-triangle-model-teacher-ai-2026|Nguyen（2026）]]）。
 - **[[governance|治理]]与政策：**[[genai-policies-higher-ed-computing|机构人工智能政策分析]]记录了机构抱负与教师支持能力之间的差距。
 - **人工智能素养在机构层面是隐形的。**一项对 32 项语言教师人工智能素养研究的[[meta-analysis-systematic-review|系统综述]]发现，它在工作量模型、晋升政策与资源分配中都缺席，发展碎片化、责任被分散到各机构与部门之间——于是素养发展默认落到个人努力，而非结构性支持（[[governing-unseen-ai-literacy-language-teachers-2026|Deng、Çelik 与 Duran（2026）]]）。
+
+- **建构主义工作坊需要一张地图。** 三次 50 分钟的课程把 20 至 25 位教师从游戏式提示推进到可复用的教学材料，但对 AI 陌生的参与者要求在进入沙盒之前先有一场概念简报（[[fischer-learning-by-making-faculty-development-2026|Fischer（2026）]]）。
+
+跨境发展的分析单位在研讨会之外。[[tian-transnational-faculty-development-governance-2027|Tian、Sun 与 Wang（2026）]] 论证，连通性默认是偶发的，因为网络研讨会只做分发而不设定议程，平台只做承载而不产生关于使用方式的共识。把事件转化为累积性基础设施的东西并不光鲜：一个维持节奏的秘书处、一份带日期的议程与案例档案，以及把共享治理当作一个行进方向、而不是一个网络可以宣称的地位。
 
 ### 教育发展中的隐喻与共同语言
 
@@ -89,15 +98,21 @@ ai_assist:
 **不要把基础设施投入等同于变革。**在 125 项研究中，机构在生成式人工智能基础设施与教育发展上的投入，与实际的教学变革只有微弱相关（r = 0.12），而 60–70% 的教师感到自己尚未准备好整合生成式人工智能——这使得发展、而非采购，成为约束性的瓶颈。（[[genai-higher-education-systematic-review-2026|Rathnayake（2026）]]）
 **命名失败模式，而不只是效应量。**[[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos、Chiappe 与 Martínez-Pérez（2026）]]称之为模拟式创新：工具的出现昭示着进步，教学与评估形式却原封不动，采用率与[[visualization|仪表盘]]代替了学习，技术发布周期则设定方向。他们的诊断要求发展项目在采用每一项工具之前，先以一个具名的学习问题为之辩护。
 
+把判断当作一种条件来治理，比当作一项能力条目更好。[[ji-judgement-space-dialogic-inquiry-2027|Ji 与 Mercer（2026）]] 把判断空间描述为一种关系性、规范性与条件性的互动，专业判断正是在其中被表述与检视；而在 AI 支持的情境中，这个空间变成三方，因为生成的评价进入了其中。他们的三栏审查问的是教师做了什么、学生做了什么、AI 被摆在什么位置 —— 一件同侪工具，用来定位判断已经悄悄移交给工具的所在。
+
 **朝向课程重构，而非工具采用。**目标是教师重构课程与评估，而不只是添加人工智能工具。把专业发展扎根于课程层面的重构工作与评估改革，并为教师提供这样做的结构化框架（如[[ai-assessment-scale-reform|评估量表]]、[[institutional-change-framework-ai|机构变革框架]]）。（[[institutional-change-framework-ai]]）（[[ai-assessment-scale-reform]]）
 
 **召集整个村庄，而不是个人。**在受访的 12 位学者与 17 位学生中，生成式人工智能时代的评估重构超出了任何单个学者的能力——僵化的流程、漫长的前置期与工作量负担都被点名——因此作者提议一个跨项目的团队，结合评估设计、生成式人工智能、学科内容、项目与行业专长（[[nicola-richmond-programwide-assessment-genai-2025|Nicola-Richmond 等，2025]]）。
+
+发展的单位可以小于一个院系，而大于一个人。[[chen-future-faculty-development-ai-2027|Chen 等人（2026）]] 列出七种教师角色，但坚持它们不必集中在一位学者身上：以人为中心的教育者与学科专家是普遍的基础，而学习架构、评估重设计、技术能力、伦理守护与有纪律的实验可以分布在一个教学团队之中。他们的条件是人人都保留基础的技术与伦理能力，这样共享专长才不会变成共享无知。
 
 **用房间自身的数据来开这个系列，而不是引入的最佳实践。**[[physics-faculty-learning-community-ai-2026|Perl-Nussbaum 与 Finkelstein（2026）]]记录了一个来自大型公立 R1 物理系的可行模型：六次双周会话，每次 60 到 75 分钟，整个系列有十九位教师参与，每次会议约十人到场；每次会话都以本地数据或院系来源的材料开场，转入小组针对真实的匿名化学生作业测试人工智能，再以集体讨论收尾。教师通过测试所发现的东西，比主持人能引入的任何材料包都更有用——人工智能解决了他们尝试的每一个问题，但除非给出明确的目标与量表，它对真实学生作业的反馈是不均衡的、依赖提示且停留在表面的；学生的提示也很浅薄，除非生产性使用被示范，否则他们对输出的修改只是表面化的。第一个具体产出是一个包含五条条目的活的知识库——教学大纲政策声明、课堂讨论材料、学生调查、融入人工智能的作业任务与评估结构——这就是为什么作者把会话结构本身视为论点，而非它所交付的任何内容。
 
 **锚定于一个能力框架。**发展还应当培养**教学性的[[prompt-engineering|提示素养]]**——把教学意图编码进提示的能力——因为[[talebzadeh-ai-group-activity-roles-2026|Talebzadeh（2026）]]发现，决定教师人工智能辅助设计工作质量的是教学专长，而非人工智能流利度。（[[crewscaler-ai-upskilling-framework]]）（[[ai-tpack-preservice-math-teachers]]）（[[talebzadeh-ai-group-activity-roles-2026]]）
 
 **把理解排在自动化之前。**一项对 2022 年 11 月至 2025 年 4 月间发表的 14 篇面向实践者的灰色文献的[[qualitative-research|批判话语分析]]（主题是面向建构性对齐的生成式人工智能）发现，能力必须先于工具接入：在[[constructivist|建构主义]]框架中，参与的质量先于理解的质量，风险与熟悉程度成反比，新手最容易被那些看似合理但教学上单薄的输出“以貌取信”。[[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes 等（2026）]]进一步主张，发展单位应当抵制技术主义式的任务书——帮助教师在对[[learning-design|课程设计]]“干重活”的工具上“获得流利度”——因为那种框定把开发者排除在一个封闭的教育者—生成式人工智能回路之外，并把以价值为导向、关系性的发展重新塑造为软件采用的中介机制。可辩护的替代方案是，让教育发展者继续充当任何机构范围内有界的[[rag|检索增强]]对齐助手的策展者与规则制定者，这个助手提出探究性问题、标出评估不足与过度之处、生成备选方案，却从不产出成品，而把在认证与跨项目事务上向[[human-in-the-loop-ai|人类判断]]升级视为一个特性，而非例外。
+
+发展也可以围绕一个不变的核心与一条移动的边缘来组织。[[ho-invariant-core-faculty-development-2027|Ho（2026）]] 把学习的神经心理机制置于任何技术之前，论证生成式 AI 压缩了制品与思考之间的距离，并由此推出一条学术性教学的路径：教师在自己的教学上、在证据、反思与同侪评审之下开展探究。他的优先次序随之而来：先深化学习如何发生，再让教师编写小工具，并把技术边缘当作预期会移动的那一部分。
 
 **摆出并处理恐惧与心理模型。**在重构教学之前，用隐喻分析工作坊（[[fear-awe-genai-metaphor-workshops-2025|Vallis、Wilson 与 Casey，2025]]）摆出一个团队关于生成式人工智能的假设与焦虑——包括它将取代教学岗位的恐惧——并构建对此做出回应、而非无视的发展工作。（[[fear-awe-genai-metaphor-workshops-2025]]）
 
@@ -109,11 +124,24 @@ ai_assist:
 
 **测量出勤，而不是参与的感觉。**在一个为 64 位大学教师开设的为期六个月的 Intelligent-TPACK 项目中，出勤率预测了人工智能能力的增益（β = .407，p = .001），而自我感知的参与则没有（β = .049，p = .692），作者把这读作具体的行为投入对抗表面层的参与（[[intelligent-tpack-pd-intervention-hongkong-2025|Tan、Cheng 与 Ling（2025）]]）。该项目把在线讲座与三次面对面工作坊配对，随后要求教师在下一学期修订并实施他们的教学设计，作者建议把出勤纳入考核，并配合有意义的激励。
 
+参与度与实质可以朝相反方向移动，而原因是结构性的，不是动机性的。[[jiang-faculty-development-japan-2027|Jiang、Wang 与 Taguchi（2026）]] 追踪到日本高校的参与率在 2023 年升至 32.7%，而主动学习工作坊、同侪观课与同侪评审却持平或下降，并把这一限制定位在学术发展中缺乏任何持续性的专业角色。轮岗、兼任职务与定期合同打断了同侪形式所依赖的连续性，因此应当报告的指标是形式组合，而不只是人数。
+
 **以教师自己报告的情况为基准。**[[watson-rainie-ai-challenge-faculty-survey-2026|Watson 与 Rainie（2026）]]对 1,057 位美国教师的调查发现，机构层面之薄，其方式项目设计者可以直接测量：59% 认为自己的学校尚未准备好有效地把生成式人工智能用于为学生未来做准备，68% 认为学校未让教师准备好用它来教学与指导，而结构性的应对停留在 55% 的机构成立了一个工作组，却只有 13% 把人工智能素养设为通识教育成果。教师并未等待政策——87% 自己写了作业层面的规则，而只有 48% 能指出一条机构层面的规则；他们把同僚的抗拒（82%）与不熟悉（83%）而非命令，指认为院系采用的障碍。对发展项目而言，这主张把同侪规范、共享的作业层面政策语言，以及对机构准备度的显式测量当作干预的一部分，而不是留给政策文件。
 
 **教师的回应反映权力中心，而非态度。**在一项对 33 位写作教师的工具性案例研究中，四个多中心的权力中心——全球生成式人工智能趋势、大学／院系、同僚与学生——塑造了实践，而言语权力有限的兼职教师，从检测转向教授可接受的使用（[[zuo-instructor-power-genai-writing-2026|Zuo 等（2026）]]）。
+
 - **六类专业发展家族，三类证据充分，且有一个明确的赢家。**一项对 78 项人工智能支持的教学设计研究的综述，把有记录的专业发展分为：紧凑的嵌入式模块（2 至 4 周）、学期制的微学习、任务本位的设计循环、协作式对话提问链、批判性共同发现，以及[[self-directed-learning|自我导向的实践者学习]]。结果证据在**紧凑的嵌入式模块**上最强：一个三周模块在全部六个 Intelligent-TPACK 域上产生了统计显著的增益，效应量为中到大；而一个有 **436 名职前教师与一个控制条件**的四周项目，是语料中最强的受控评价（[[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou 与 Kameas，2026]]）。
 - **三项设计特征把证据最强的干预区分开来。**伦理被嵌入为**在每个任务上设检查点的[[retrieval-spacing-interleaving|分布式实践]]**，而非一场独立讲座；**表现本位的能力评估**使用教案、决策日志与微格教学，其动因直接来自自评的不可靠；提示工程则作为反思性的、有教学根基的实践来发展。采纳与绩效不是同一个杠杆：在北苏门答腊的 200 名教师中，AI 使用对教师绩效没有直接效应（β = 0.112，p = .087），而组织公民行为间接承载了它，因此以协作性、额外角色使用为目标的教师发展工作，才是证据支持的版本（[[ai-use-teacher-performance-north-sumatra-2026|Sherly 等（2027）]]）。一项配套的两周研究发现知识与信心有快速增益，同时把偏见检测识别为最弱的新兴能力，这一缺口在更长的模块中依然存在，与伦理感知能力发展慢于技术熟悉度的判断一致。
+
+规模有记录，课堂里的变化没有。[[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay 及其同事]] 追踪 105 名化学教师经历一个六周项目，[[ma-ai-corpus-language-teaching-coi-2026|Ma 及其同事]] 为来自 28 个国家的 150 多名语言教师开设了一个为期 20 周的在线项目。[[white-scandinavian-teachers-genai-attitudes-2026|White 及其同事]] 测量到 2,159 名接受生成式 AI 专业发展的斯堪的纳维亚教师在所感知收益上有 0.20 个标准差的增益。每项研究都表明发展改变了教育者所报告的东西；没有一项跟随他们进入课堂，测量学生有什么不同。
+
+教育者所要求的东西更像学徒制，而不像培训。在那项学区研究中，22 位教师要求由理解课堂限制的前教师来交付发展、一份说明工具何时有用的一页指南，以及使用二者的规划时间（[[dangol-relief-or-displacement-teachers-generative-ai-2026|Dangol 等人]]）。与此同时，机构选择自建能力而不是购买能力：在战略包含劳动力技能的那些机构中，69% 正在提升现有员工与教师的能力（[[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE，2026]]）。
+
+缺乏发展是一项有可见结果的政策选择。[[rameskumar-shadow-ai-legitimized-higher-education-2027|Rameskumar 及其同事]] 访谈了 20 位因为没有指引到来而自建规则的教育者，[[bodek-prompted-to-explore-microlearning-2026|Bodek]] 描述了一个为契合教师实际拥有的时间而搭建的微学习模型。把发展当作机构支持的反复一层、而非一次性活动的项目，报告出了差异（[[aalhe-capacity-disposition-genai-assessment-2026|AALHE]]）。
+
+情境改变的是发展的形态，而不是对发展的需要。在医学教育中，一个 AI 住院医师项目把教师发展与共同学习当作机制，而非附加项（[[bursic-ai-residency-education-curriculum-2026|Bursic 等人]]）。一项对 86 项幼儿教育资源的综述把教育者发展列为其四个主题之一（[[early-childhood-ai-holistic-competencies-review-2026|该综述]]）。CTE 更新在课程变革暴露出能力缺口时才求诸教师发展（[[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]）。而在 146 名教师中，专业发展的参与中介了动机与预期生成式 AI 使用之间的联结（[[yuan-teacher-need-satisfaction-genai-2026|Yuan 等人]]）。
+
+队列模型的一个实例来自一所大学图书馆。[[jordan-faculty-ai-oer-creation-2025|Jordan 等人（2025）]] 为七位教师支付津贴，开展一个八周项目，把四周教学、独立项目开发与同侪反馈结合起来，扎根于 Knowles 的成人学习原则与 CLEAR 提示框架。AI 熟悉度上的增益有限，OER 熟悉度上的增益更大，作者把津贴以及允许兼职教师获得报酬的工会协议视为干预的一部分，而非行政事务。
 
 ## 常见误解
 
@@ -130,9 +158,7 @@ ai_assist:
 - [[teacher-ai-competency|教师人工智能能力]]
 - [[teacher-role|教师角色]]
 - [[ai-literacy|人工智能素养]]
-
 - [[metaphors-and-analogies]] — 教师发展中的隐喻引出与类比设计
-
 - [[educational-policy-ai|教育人工智能政策]]
 - [[higher-ed|高等教育]]
 - [[k-12]]
@@ -146,26 +172,24 @@ ai_assist:
 
 ## 关联文章
 
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 对生成式人工智能对齐建议的批判话语分析：开发者被重新塑造为技术培训者
+- [[jordan-faculty-ai-oer-creation-2025]] — 七位教师的八周 OER 共创项目：津贴与工会协议是干预的一部分（Jordan 等人，2025）；另见 [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 对生成式人工智能对齐建议的批判话语分析：开发者被重新塑造为技术培训者
 - [[crompton-faculty-technology-integration-standards-2026]] — 技术整合的教师标准（DBR）
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — 人工智能的伦理维度：教师与学生的看法
-- [[nicola-richmond-programwide-assessment-genai-2025]]
+- [[nicola-richmond-programwide-assessment-genai-2025]] — 贯穿全项目的评估改革与生成式 AI（Nicola 与 Richmond，2025）
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — 工程教师的隐喻如何建构（并约束）对人工智能的理解
 - [[fear-awe-genai-metaphor-workshops-2025]] — 恐惧与敬畏：通过隐喻理解生成式人工智能（教师／职员／学生隐喻工作坊）
-
 - [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — 教授批判性 AI 素养的四项标准与四种隐喻
-
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — 治理不可见者：语言教师中的人工智能素养
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI：认知、教学、制度与质量合规四个准备度领域
+- [[teacher-ai-adoption-confidence]] — 教师 AI 采用研究：关切、支持、信心与态度是关键预测因子
+- [[institutional-change-framework-ai]] — 机构变革框架
+- [[genai-policies-higher-ed-computing]] — 高等教育计算领域的机构 AI 政策分析
+- [[ai-tpack-preservice-math-teachers]] — 基于 TPACK 的职前数学教师培训
+- [[crewscaler-ai-upskilling-framework]] — AI 技能提升框架
+- [[ai-assessment-scale-reform]] — 评估改革
+- [[pchl-he-framework-genai-content-creation-2026]] — PCHL 高等教育框架：生成式 AI 内容创作
+- [[genai-pd-ai-pck-learning-gain-2026]] — 生成式 AI 专业发展与 AI-PCK 学习增益
+- [[genai-higher-education-systematic-review-2026]] — 高等教育中生成式 AI 的系统综述
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — 生成式人工智能作为身份危机，而非技能差距
 - [[zuo-instructor-power-genai-writing-2026]] — 应对写作中生成式人工智能的大学教师所感知的权力关系（Zuo、Xu 与 Dunning，2026）
 - [[reflective-triangle-model-teacher-ai-2026]] — 反思三角模型：人工智能作为认知中介
@@ -179,8 +203,23 @@ ai_assist:
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon 对 1,057 位美国教师的调查：机构准备不足、治理薄弱与 87%/48% 的政策差距（Watson 与 Rainie，2026）
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 全球南方高等教育中的学术发展者作为数字中介：发展作为社会技术实践
 - [[physics-faculty-learning-community-ai-2026]] — 在不确定时代有效使用人工智能的系列工作坊：建设一个物理教师学习社区
-
 - [[faculty-ai-well-being-social-supports-2026]] — 教师的人工智能幸福感追随人工智能素养，而非技术自我效能
 - [[ai-competence-framework-landscape-2026]] — Check what a framework's levels describe before adopting it：采用一个框架之前，先核对它的层级描述的是什么
-
 - [[fajardo-ramos-teacher-education-ai-agenda-2026]] — 教育能否为 AI 设定议程？教师教育中的模拟式创新与教学方向设定
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 名化学教师、六周项目的追踪：规模有记录，课堂变化没有（Ussenbay 等人，2026）
+- [[ma-ai-corpus-language-teaching-coi-2026]] — 28 个国家 150 多名语言教师的 20 周在线项目
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2,159 名斯堪的纳维亚教师：所感知收益提升 0.20 SD
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 名教师：专业发展参与中介了动机与预期生成式 AI 使用（Yuan 等人）
+- [[bodek-prompted-to-explore-microlearning-2026]] — 契合教师实际时间的微学习模型（Bodek，2026）
+- [[bursic-ai-residency-education-curriculum-2026]] — AI 住院医师项目把教师发展与共同学习当作机制，而非附加项（Bursic 等人）
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 项幼儿教育资源的综述把教育者发展列为四个主题之一
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 位教师要求的是学徒制式的支持：懂课堂限制的前教师、一页指南与规划时间（Dangol 等人）
+- [[robert-educause-impact-ai-work-higher-education-2026]] — EDUCAUSE（2026）：在战略包含劳动力技能的机构中，69% 正在提升现有员工的能力
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 位在指引缺席下自建规则的教育者：缺乏发展是一项政策选择
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — CTE 更新在课程变革暴露能力缺口时才求诸教师发展（Wang）
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — 把发展当作机构支持的反复一层，而非一次性活动（AALHE，2026）
+- [[chen-future-faculty-development-ai-2027]] — 七种教师角色可以分布在一个团队中，前提是人人保留基础技术与伦理能力（Chen 等人，2026）
+- [[ji-judgement-space-dialogic-inquiry-2027]] — 判断空间作为关系性、规范性与条件性的互动；AI 使其成为三方（Ji 与 Mercer，2026）
+- [[jiang-faculty-development-japan-2027]] — 日本高校参与率升至 32.7%，而主动学习工作坊与同侪评审持平或下降（Jiang 等人，2026）
+- [[tian-transnational-faculty-development-governance-2027]] — 跨境教师发展的分析单位在研讨会之外：秘书处、带日期的档案与共享治理（Tian 等人，2026）
+- [[ho-invariant-core-faculty-development-2027]] — 不变的核心与移动的边缘：先深化学习如何发生，再让教师编写小工具（Ho，2026）

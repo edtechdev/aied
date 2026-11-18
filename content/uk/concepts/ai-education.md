@@ -1,7 +1,7 @@
 ---
 title: "ШІ в освіті"
 created: "2026-10-13T21:40:00-04:00"
-updated: "2026-11-08T06:34:27-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,10 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
-
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -61,7 +64,7 @@ ai_assist:
 - **[[pedagogy|Pedagogies and teaching strategies]]** — зонтик для того, як відбувається викладання: методи та стратегії викладання, у межах яких працює ШІ ([[active-learning|active]], [[collaborative-learning|collaborative]], [[project-based-learning|project-based]], [[problem-based-learning|problem-based]], [[experiential-learning|experiential]], [[game-based-learning|game-based]], [[socratic-method|Socratic]], [[scaffolding]] та інші), включно з окремим контекстом [[online-teaching-and-learning|online teaching and learning]].
 - **[[learning-theories|Learning theories]]** — зонтик для того, як відбувається навчання: теоретичні рамки ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], когнітивний, [[motivation|motivational]]), що формують дизайн і оцінювання ШІ.
 - **[[ai-technologies|Technologies]]** — зонтик для технічного шару: системи ШІ ([[llm|LLMs]], [[generative-ai|generative AI]], [[multimodal]], [[educational-robotics|robotics]]) та методи ([[rag]], [[prompt-engineering|prompt engineering]], [[reinforcement-learning|reinforcement learning]], [[llm-training-and-fine-tuning|model training]], [[agentic-ai|agentic orchestration]]), що живлять AIED. Родина моделювання здобувача — [[knowledge-tracing|knowledge tracing]], [[cognitive-diagnosis|cognitive diagnosis]], [[simulating-students|simulating students]] і системи, що їх споживають ([[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], [[personalized-learning|personalized learning]]) — згрупована під зонтиком [[student-modeling|Learner Modeling and Adaptive Instruction]] в межах цієї технічної жилки.
-- **[[discipline-specific-aied|AI in the disciplines]]** — зонтик для того, як ШІ застосовується в предметних областях ([[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[engineering-education|engineering]], [[business-education|business]], [[teacher-education|teacher education]], [[medical-education|health professions]] та інші) — і, далі за академічними предметами, професійно-прикладна жилка, яка оцінює продемонстровану практику, а не правильність ([[nursing-education|nursing]], [[information-technology|information technology]], [[vocational-education|vocational education and training]], [[design-education|design education]]) — і освітні рівні ([[k-12]], [[higher-ed|higher education]], [[adult-learning|adult learning]]).
+- **[[discipline-specific-aied|ШІ в дисциплінах]]** — зонтик для того, як ШІ застосовується в предметних областях, згрупованих у чотири кластери. [[humanities-education|Гуманітарні науки та мистецтво]] охоплюють історію, філософію, літературу й мови, поряд із ними — [[arts-and-media-education|мистецтво й медіа]] та [[music-education|музика]]. [[social-sciences-education|Соціальні науки]] охоплюють громадянознавство, бізнес і економіку та екологічні студії. [[stem-education|STEM]] охоплює математику, фізику, хімію, біологію, обчислювальні науки та інженерію. [[professions-education|Професії]] охоплюють акредитовані програми — [[medical-education|медичні та медико-профілактичні професії]], [[nursing-education|медсестринство]], [[legal-education|юридичну освіту]], [[teacher-education|педагогічну освіту]], [[design-education|дизайн-освіту]] та [[libraries|бібліотекознавство]] — де оцінювання має показати, що засвідчене судження належало кандидатові. Кластери застосовуються як до предметів, так і до шкільних рівнів.
 - **[[assessment]]** (з жилками [[formative-assessment|formative]], [[summative-assessment|summative]], [[authentic-assessment|authentic]], [[oral-assessment|oral]] та [[automated-assessment|automated]] оцінювання) — зонтик для того, як ШІ одночасно оцінює здобувачів і переформовує валідність і цілісність оцінювання.
 - **[[feedback]]** — зонтик для того, як зворотний зв’язок генерується, доставляється та використовується: цикл зворотного зв’язку, [[ai-feedback-quality|feedback quality]], [[feedback-literacy|feedback literacy]] та його контексти оцінювання ([[formative-assessment|formative]], [[peer-assessment|peer]], [[automated-assessment|automated]]).
 - **[[stakeholders|Stakeholders in AI education]]** — зонтик для того, хто є акторами: здобувачі, [[teacher-role|teachers]], [[learning-design|learning designers]], [[administrator|administrators]] та [[educational-policy-ai|policymakers]].
@@ -88,8 +91,8 @@ ai_assist:
 Те, як ШІ підтримує викладання і навчання, є серцем галузі. Ключові поняття:
 
 - **Основні педагогіки:** [[pedagogy|pedagogies and teaching strategies]] — зонтик для покриття методів викладання бази знань — поряд із [[pedagogical-patterns|pedagogical patterns]] (перевіреними послідовностями, у які ці методи розгортаються), [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[group-work|group work]], [[project-based-learning|project-based learning]], [[problem-based-learning|problem-based learning]], [[productive-failure|productive failure]], [[inquiry-based-learning|inquiry-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[learning-by-teaching|learning by teaching]], [[scaffolding]], [[socratic-method|the Socratic method]], [[critical-pedagogy|critical pedagogy]], [[pedagogical-partnerships|pedagogical partnerships]], [[storytelling-in-education|storytelling]], [[learning-design|learning design]], [[online-teaching-and-learning|online teaching and learning]] і [[video-education|video in education]].
-- **Теорії та процеси навчання:** зонтик [[learning-theories|learning theories]] ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], [[embodied-learning|embodied learning]], [[community-of-inquiry|community of inquiry]]) стоїть поряд із зверненими до здобувача процесами, такими як [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[motivation]], [[self-efficacy]], [[self-directed-learning|self-directed learning]], [[metacognition]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[prior-knowledge|prior knowledge]], [[icap-framework|ICAP cognitive engagement]], [[reflection]], [[refutation-text|refutation text]], [[retrieval-spacing-interleaving|retrieval, spacing and interleaving]] та [[activity-theory-aied|activity theory]].
-- **Залученість і досвід здобувача:** [[student-engagement|student engagement]], [[help-seeking]], [[social-emotional-learning|social-emotional learning]], [[well-being]], [[creativity]], [[problem-solving|problem solving]], [[mastery-learning|mastery learning]] та [[student-ai-interaction|student–AI interaction]] формують, як здобувачі справді зустрічають ШІ і як він на них впливає, тоді як [[social-norms-ai-use|social norms that settle around AI use]], вирішують, наскільки відкрито про будь-що з цього можна говорити. Далі за межами курсу [[student-support-and-success|student support and success]] охоплює інституційну роботу — консультування, охоплення, направлення та розподіл обмеженої підтримки — де ШІ надійно рухає виконання завдань, але не наполегливість чи закінчення навчання.
+- **Теорії та процеси навчання:** зонтик [[learning-theories|learning theories]] ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], [[embodied-learning|embodied learning]], [[community-of-inquiry|community of inquiry]]) стоїть поряд із зверненими до здобувача процесами, такими як [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[motivation]], [[self-efficacy]], [[self-directed-learning|self-directed learning]], [[metacognition]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[prior-knowledge|prior knowledge]], [[icap-framework|ICAP cognitive engagement]], [[reflection]], [[refutation-text|refutation text]], [[retrieval-spacing-interleaving|retrieval, spacing and interleaving]] та [[activity-theory-aied|activity theory]]. Розвивальна рамка перетинає їх: [[developmental-psychology|психологія розвитку]] пояснює, чому той самий процес виглядає інакше в п’ять, п’ятнадцять і двадцять п’ять років.
+- **Залученість і досвід здобувача:** [[student-engagement|student engagement]], [[help-seeking]], [[social-emotional-learning|social-emotional learning]], [[well-being]], [[creativity]], [[problem-solving|problem solving]], [[mastery-learning|mastery learning]] та [[student-ai-interaction|student–AI interaction]] формують, як здобувачі справді зустрічають ШІ і як він на них впливає, причому [[empathy|емпатія]] — афективний результат, який часто заявляють і рідко вимірюють, тоді як [[social-norms-ai-use|social norms that settle around AI use]], вирішують, наскільки відкрито про будь-що з цього можна говорити. Далі за межами курсу [[student-support-and-success|student support and success]] охоплює інституційну роботу — консультування, охоплення, направлення та розподіл обмеженої підтримки — де ШІ надійно рухає виконання завдань, але не наполегливість чи закінчення навчання.
 
 ## Технології та методи
 
@@ -102,26 +105,39 @@ ai_assist:
 
 ## ШІ в дисциплінах
 
-ШІ застосовується в дисциплінах і на освітніх рівнях. [[discipline-specific-aied|overview of AIEd in the disciplines]] бази знань картографує предметне покриття — поряд із [[learning-sciences|learning sciences]], які є не викладаним предметом, а наскрізною галуззю дослідження, що вивчає саме навчання і розглядає предметну область як одну змінну серед інших:
+Покриття предметних областей — найбільша частина галузі. [[discipline-specific-aied|AIEd у дисциплінах]] тримає його, поряд із [[learning-sciences|науками про навчання]], які є не викладаним предметом, а наскрізною дослідницькою галуззю, що вивчає саме навчання і розглядає предметну область як одну змінну серед інших. Чотири кластери організовують предметні сторінки:
 
-- **Предметні області:** [[math-education|mathematics]], [[statistics-and-data-science-education|statistics and data science]], [[physics-education|physics]], [[chemistry-education|chemistry]], [[biology-education|biology]], [[cs-education|computer science]], [[engineering-education|engineering]], [[stem-education|STEM]], [[writing-education|writing]], [[reading-education|reading education]], [[language-learning|language learning]], [[english-education|English education (EAP/EFL/ESL)]], [[libraries|library and information science]], [[science-education|science education]], [[environmental-education|environmental education]], [[business-education|business, economics, and management]], [[humanities-education|humanities and social sciences]], [[civic-and-political-education|civic and political education]], [[arts-and-media-education|arts, design and media education]], [[medical-education|medical and health professions]], [[legal-education|legal education]] та професійно-прикладні жилки — [[nursing-education|nursing]], [[information-technology|information technology]], [[vocational-education|vocational education and training]] та [[design-education|design education]].
+- **Гуманітарні науки та мистецтво:** [[humanities-education|гуманітарна освіта]], [[arts-and-media-education|освіта в галузі мистецтва й медіа]], [[music-education|музична освіта]], [[writing-education|навчання письма]], [[reading-education|навчання читання]], [[language-learning|вивчення мов]] та [[english-education|англійська освіта (EAP/EFL/ESL)]].
+- **Соціальні науки:** [[social-sciences-education|освіта в соціальних науках]], [[civic-and-political-education|громадянська та політична освіта]], [[business-education|бізнес, економіка й менеджмент]] та [[environmental-education|екологічна освіта]].
+- **STEM:** [[stem-education|освіта STEM]], [[science-education|природнича освіта]], [[math-education|математика]], [[statistics-and-data-science-education|статистика й наука про дані]], [[physics-education|фізика]], [[chemistry-education|хімія]], [[biology-education|біологія]], [[cs-education|інформатика]], [[engineering-education|інженерія]] та [[information-technology|інформаційні технології]].
+- **Професії:** [[professions-education|освіта для професій]], [[medical-education|медичні та медико-профілактичні професії]], [[nursing-education|медсестринство]], [[legal-education|юридична освіта]], [[teacher-education|педагогічна освіта]], [[design-education|дизайн-освіта]] та [[libraries|бібліотечна й інформаційна наука]].
+
+Кластер, до якого належить предмет, також визначає, яка сторінка володіє його доказами. [[vocational-education|Професійна освіта й підготовка]] віднесена до рівнів, а не сюди, бо вона радше називає кваліфікаційний шлях, ніж дисципліну.
 
 ## Рівні та контексти
 
-Один і той самий інструмент ШІ зустрічає дуже різні умови, і база знань відокремлює освітній рівень від педагогіки, щоб висновки не переносилися мовчки між ними: [[k-12|K-12 schools]], [[early-childhood-elementary-ai-education|early childhood and elementary education]], [[higher-ed|higher education]], [[adult-learning|adult learning]], [[vocational-education|vocational education and training]], [[special-education|special education]] та [[teacher-education|teacher education]]. Пов’язані з доменом поняття, що перетинають рівні, включають [[universal-design-for-learning|universal design for learning]], [[neurodiversity]], [[multilingual-learning|multilingual learning]] та [[social-emotional-learning|social-emotional learning]].
+Той самий інструмент ШІ зустрічає дуже різні умови, і освітній рівень тримають окремо від педагогіки, щоб висновки не переносилися між ними мовчки: [[k-12|школи K-12]], які тепер поділяються на [[early-childhood-elementary-ai-education|раннє дитинство]], [[primary-education|початкову освіту]] та [[secondary-education|середню освіту]]; [[higher-ed|вища освіта]], яка поділяється на [[undergraduate-education|бакалаврат]] і [[graduate-education|аспірантуру]]; та умови поза цими східцями — [[adult-learning|навчання дорослих]], [[vocational-education|професійна освіта й підготовка]], [[special-education|спеціальна освіта]] та [[teacher-education|педагогічна освіта]]. [[education-levels|Рівні освіти]] порівнюють їх. Поняття, дотичні до домену, що перетинають рівні, включають [[universal-design-for-learning|універсальний дизайн для навчання]], [[neurodiversity|нейрорізноманіття]], [[multilingual-learning|багатомовне навчання]] та [[social-emotional-learning|соціально-емоційне навчання]].
+
+## Той самий інструмент, протилежні проєктувальні рішення
+
+Рівень — це змінна, яка найчистіше перевертає проєктувальну рекомендацію. Свідчення середньої школи ставлять викладача між студентом та інструментом: у 33 дослідженнях здобутки з’являлися там, де студенти порівнювали результат, і згасали там, де роботу продукував інструмент ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]]).
+
+Свідчення аспірантури вказують в інший бік — до партнерства з підзвітною людиною. Чинники готовності досягали дослідницької [[self-efficacy|самоефективності]] через підтримку наукового керівника (β = 0.201 непрямий), а не через використання інструментів ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo et al. (2026)]]). Огляд докторської підготовки доходить того самого проєктувального висновку з етики: легітимність залежить від завдання, а не від інструменту, розкриття пропорційне інтелектуальній значущості, а врядування переглядають на контрольних точках ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja et al. (2026)]]).
+
+Незмінним лишається те, що судження тримає людина. Студенти аспірантського семінару приймали результат ШІ лише після того, як його перевірив обізнаний посередник, що Chen читає як делеговану, а не віддану агентність ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). Частота — неправильна міжрівнева метрика: вона передбачала аспірантську компетентність при β = 0.030, щойно етика й саморегуляція входили в модель ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]).
 
 ## Оцінювання та вимірювання
 
-ШІ перетворює і те, як ми оцінюємо здобувачів, і те, як ми оцінюємо самі системи ШІ:
+ШІ трансформує і те, як ми оцінюємо здобувачів, і те, як ми оцінюємо самі системи ШІ:
 
-- **Оцінювання та зворотний зв’язок:** [[assessment]], [[formative-assessment|formative assessment]], [[summative-assessment|summative assessment]], [[authentic-assessment|authentic assessment]], [[eportfolio|e-portfolio]], [[feedback]] і [[feedback-literacy|feedback literacy]], [[ai-feedback-quality|AI feedback quality]], [[peer-assessment|peer assessment]], [[oral-assessment|oral assessment]], [[automated-assessment|automated assessment]], [[automated-essay-scoring|automated essay scoring]] та [[automated-question-generation|automated question generation]]. Оскільки модель тепер може на вимогу створювати правдоподібну завершену роботу, база знань виносить на передній план здібність, яка залишається власністю здобувача: [[evaluative-judgment|evaluative judgment]] — здатність оцінювати якість власної роботи, роботи однокурсників і результату ШІ проти обґрунтованих критеріїв. Це конструкт, на якому сходяться кілька досліджень зворотного зв’язку та автентичного оцінювання — умова гібридного зворотного зв’язку, що перевершує прямий зворотний зв’язок ШІ в багатосайтовому експерименті, розрив сталості в формативному зворотному зв’язку ШІ та практичний кід переходити до оцінювання рішень, які приймають студенти, а не лише артефакту — і це основна причина, з якої перепроєктування в еру ШІ зміщується від [[ai-detection|detection]] до завдань, чия цілісність виживає огляд. [[group-work|Group work]] також оцінюється й за процесом, і за продуктом, де команди мають узгоджувати, чия і якого роду залученість ШІ вважається прийнятною.
-- **Вимірювання та валідність:** [[assessment-validity|assessment validity]], [[psychometrically-aware-ai|psychometrically aware AI]], [[educational-measurement|educational measurement]], [[item-response-theory|item response theory]], [[self-report-measures|self-report measures]] (інструмент, що стоїть за значною часткою цих доказів, і повторюване обмеження), [[ai-detection|AI detection]], [[remote-proctoring|remote proctoring]] та [[academic-integrity|academic integrity]].
+- **Оцінювання та зворотний зв’язок:** [[assessment|оцінювання]], [[formative-assessment|формувальне оцінювання]], [[summative-assessment|підсумкове оцінювання]], [[authentic-assessment|автентичне оцінювання]], [[eportfolio|е-портфоліо]], [[feedback|зворотний зв’язок]] і [[feedback-literacy|грамотність щодо зворотного зв’язку]], [[ai-feedback-quality|якість зворотного зв’язку від ШІ]], [[peer-assessment|взаємне оцінювання]], [[oral-assessment|усне оцінювання]], [[automated-assessment|автоматизоване оцінювання]], [[automated-essay-scoring|автоматизоване оцінювання есе]] та [[automated-question-generation|автоматизована генерація запитань]]. Оскільки модель тепер може на замовлення продукувати правдоподібну завершену роботу, увага галузі звертається до здатності, яка залишається власною для здобувача: [[evaluative-judgment|оцінювального судження]] — спроможності оцінювати якість власної роботи, робіт ровесників і результату ШІ за обґрунтованими критеріями. Це конструкт, до якого сходяться кілька досліджень зворотного зв’язку й автентичного оцінювання: гібридна умова зворотного зв’язку перевершує прямий зворотний зв’язок від ШІ в багатосайтовому експерименті, розрив сталості у формувальному зворотному зв’язку від ШІ та практичний крок оцінювати рішення студентів, а не лише артефакт. Це також основна причина, чому перепроєктування в епоху ШІ зсувається від [[ai-detection|виявлення]] до завдань, чия доброчесність витримує інспекцію. [[group-work|Групова робота]] так само оцінюється і за процесом, і за продуктом, де команди мають узгодити, чия участь ШІ і якого роду вважається прийнятною.
+- **Вимірювання та валідність:** [[assessment-validity|валідність оцінювання]], [[psychometrically-aware-ai|психометрично обізнаний ШІ]], [[educational-measurement|освітнє вимірювання]], [[item-response-theory|теорія відповіді на пункт]], [[self-report-measures|засоби самооголошення]] (інструмент, що стоїть за значною часткою цих доказів, і повторюване обмеження), [[ai-detection|виявлення ШІ]], [[remote-proctoring|дистанційний прокторинг]] та [[academic-integrity|академічна доброчесність]].
 
 ## Методи дослідження та оцінювання
 
 Те, як ми знаємо, чи працює ШІ, є власною жилкою, і база знань розглядає її як таку:
 
-- **Методи дослідження:** [[research-methods-aied|research methods in AIED]] як зонтик, з [[qualitative-research|qualitative]], [[quantitative-research|quantitative]], [[mixed-methods-research|mixed-methods]], [[design-based-research|design-based]] та [[usability-research|usability]] підходами, плюс [[rct|randomized controlled trials]], [[meta-analysis-systematic-review|meta-analysis and systematic review]] та [[network-analysis|network analysis]].
+- **Методи дослідження:** [[research-methods-aied|research methods in AIED]] як зонтик, з [[qualitative-research|qualitative]], [[quantitative-research|quantitative]], [[mixed-methods-research|mixed-methods]], [[design-based-research|design-based]] [[usability-research|usability]] та [[longitudinal-research|лонгітюдними]] підходами, плюс [[rct|randomized controlled trials]], [[meta-analysis-systematic-review|meta-analysis and systematic review]] та [[network-analysis|network analysis]].
 
 Власна дослідницька робота галузі тепер є предметом сама в собі. [[ai-assisted-educational-research|Дослідження в освіті за підтримки ШІ]] охоплює ШІ, використаний як інструмент для пошуку літератури, скринінгу, якісного кодування, аналізу та письма, включно з дослідженнями практиків, такими як scholarship of teaching and learning. Вона залишається відмінною від дизайнів, що використовуються для вивчення того, що ШІ робить зі здобувачами.
 
@@ -180,48 +196,52 @@ ai_assist:
 **«Зрілість галузі можна прочитати з обсягу публікацій».** Обсяг і зрілість розходяться; напрям методів дослідження документує повторювані вади дизайну, яких обсяг не виправляє, а рамки розмножуються швидше, ніж їх перевіряють.
 
 ## Пов’язані поняття
-
-- [[pedagogical-patterns]] — The tested sequences that operationalize the field's pedagogies
-- [[ai-literacy]] — umbrella: understanding, using, and evaluating AI
-- [[automation-bias]] — the reader-side failure: accepting an automated judgment without checking it
-- [[human-ai-collaboration]] — umbrella: how people and AI work together
-- [[pedagogy]] — umbrella: teaching methods and strategies
-
-- [[case-based-learning]] — Case method, case discussion, and contrasting cases
-- [[metaphors-and-analogies]] — How metaphor shapes AI understanding and how analogy supports instruction
-- [[learning-theories]] — umbrella: how learning happens
-- [[ai-technologies]] — umbrella: models, techniques, and systems
-- [[discipline-specific-aied]] — umbrella: AI across subject areas and levels
-- [[assessment]] — umbrella: how AI assesses learners and reshapes validity
-- [[feedback]] — umbrella: how feedback is generated, delivered, and used
-- [[stakeholders]] — umbrella: who the actors are
-- [[learners]] — umbrella: the learner-side concepts (experience, identity, agency, interaction, learner models)
-- [[ai-ed-evaluation]] — umbrella: how we know whether AI works
-- [[research-methods-aied]] — umbrella: efficacy research methods
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[governance]] — umbrella: the institutional and regulatory layer
-- [[educational-policy-ai]] — umbrella: policy, guidance, and implementation
-- [[equity-in-ai-education]] — umbrella: fairness, access, and inclusion
-- [[learning-sciences]] — the empirical field behind AIED
-- [[ethics]] — the ethical dimensions of AI in education
-- [[misconceptions]] — the mental models people bring to AI
-- [[interpreting-and-applying-aied-research]] — reading a study, and carrying a finding into practice
-- [[limitations-in-aied-research]] — cross-cutting limits of the evidence base
-- [[meta-analysis-systematic-review]] — what the reviews and meta-analyses establish
-- [[history-of-aied]] — how the field evolved
-- [[philosophy-of-ai-in-education]] — the philosophical foundations
-- [[theories-and-frameworks]] — the map of theory and framework nodes
-- [[theory-development-aied]] — building and revising theory
-- [[sensor-and-gaze-analytics]] — umbrella: sensing learners through gaze, EEG and wearable signals
-- [[ai-avatars-and-synthetic-instructors]] — umbrella: synthetic humans teaching, tutoring, simulating and assessing
-- [[civic-and-political-education]] — subject area: literacy for public life, with a thin evidence base
+- [[primary-education]] — ШІ в початковій освіті
+- [[secondary-education]] — ШІ в середній і старшій школі
+- [[undergraduate-education]] — ШІ в навчанні на бакалавраті
+- [[graduate-education]] — ШІ в магістерському й докторському навчанні
+- [[pedagogical-patterns]] — Перевірені послідовності, що операціоналізують педагогіки галузі
+- [[ai-literacy]] — зонтик: розуміння, використання й оцінювання ШІ
+- [[automation-bias]] — збій на боці читача: прийняття автоматизованого судження без перевірки
+- [[human-ai-collaboration]] — зонтик: як люди і ШІ працюють разом
+- [[pedagogy]] — зонтик: методи й стратегії викладання
+- [[case-based-learning]] — Метод кейсів, обговорення кейсів і контрастні кейси
+- [[metaphors-and-analogies]] — Як метафора формує розуміння ШІ, а аналогія підтримує навчання
+- [[learning-theories]] — зонтик: як відбувається навчання
+- [[ai-technologies]] — зонтик: моделі, методи й системи
+- [[discipline-specific-aied]] — зонтик: ШІ в предметних областях і на рівнях
+- [[assessment]] — зонтик: як ШІ оцінює здобувачів і перекроює валідність
+- [[feedback]] — зонтик: як генерують, доставляють і використовують зворотний зв’язок
+- [[stakeholders]] — зонтик: хто є акторами
+- [[learners]] — зонтик: поняття на боці здобувачів (досвід, ідентичність, агентність, взаємодія, моделі здобувача)
+- [[ai-ed-evaluation]] — зонтик: як ми знаємо, чи працює ШІ
+- [[research-methods-aied]] — зонтик: методи дослідження ефективності
+- [[ai-assisted-educational-research]] — Дослідження освіти за підтримки ШІ
+- [[governance]] — зонтик: інституційний і регуляторний шар
+- [[educational-policy-ai]] — зонтик: політика, настанови й упровадження
+- [[equity-in-ai-education]] — зонтик: справедливість, доступ і інклюзія
+- [[learning-sciences]] — емпірична галузь за AIED
+- [[ethics]] — етичні виміри ШІ в освіті
+- [[misconceptions]] — ментальні моделі, з якими люди приходять до ШІ
+- [[interpreting-and-applying-aied-research]] — читання дослідження й перенесення знахідки в практику
+- [[limitations-in-aied-research]] — наскрізні межі бази доказів
+- [[meta-analysis-systematic-review]] — що встановлюють огляди й метааналізи
+- [[history-of-aied]] — як еволюціонувала галузь
+- [[philosophy-of-ai-in-education]] — філософські основи
+- [[theories-and-frameworks]] — карта вузлів теорії та фреймворків
+- [[theory-development-aied]] — побудова й перегляд теорії
+- [[sensor-and-gaze-analytics]] — зонтик: сенсорне сприйняття здобувачів через погляд, ЕЕГ і носимі сигнали
+- [[ai-avatars-and-synthetic-instructors]] — зонтик: синтетичні люди, що навчають, тьюторять, симулюють і оцінюють
+- [[civic-and-political-education]] — предметна область: грамотність для публічного життя з тонкою базою доказів
 
 ## Пов’язані статті
-
-Загальнопольові огляди ШІ в освіті — дослідження, які оглядають усю галузь або цілий освітній рівень, а не одну тему:
-
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
 - [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
 - [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — Систематичний огляд GenAI в середній освіті: 33 дослідження, де здобутки залежали від порівняння результату, а не від його отримання
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — Чинники готовності аспірантів до досліджень досягають самоефективності через підтримку керівника, а не через використання інструментів
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — GenAI в докторському керівництві: легітимність залежить від завдання, розкриття пропорційне значущості, врядування на контрольних точках
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Аспірантський семінар: делегована, а не віддана агентність, коли результат ШІ перевіряє обізнаний посередник
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Частота використання — неправильна метрика: етика й саморегуляція забирають її прогностичну силу (Zaripova et al., 2026)

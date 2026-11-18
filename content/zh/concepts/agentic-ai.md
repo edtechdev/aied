@@ -1,8 +1,8 @@
 ---
-connected_resources: [deeptutor, learnharness, primer]
-title: 智能体式人工智能
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
+title: 智能体式 AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-11-13T18:20:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,13 +13,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,10 @@ ai_assist:
 - **一个报告与治理的定标器：自主性—监督—证据（AOE）框架。** [[beyond-agent-label-agentic-ai-governance-2026|Dey（2026）]]论证，*智能体式 AI*这一术语被应用得如此不一致，以至于证据与监督无法跨研究比较——那些会规划、记忆、使用工具或协调多个智能体的系统，与静态的 GenAI 界面和传统的[[pedagogical-agent|教学法智能体]]被归为一类。他对十五篇同行评审综述的批判性整合综述发现，证据在工件层级的产出（反馈准确率、[[hallucination-risk|幻觉]]减少）上最强，在持久学习、公平、工作量或机构产出上最弱，而真实的部署通常短、单一站点，且与监督关联薄弱。补救办法是一个具体的报告三元组——**自主性层级 A0–A4**（反应式生成 → 有界编排 → 被委派的任务自主性 → 工作流自主性 → 对评分/招生/进展的*后果性自主性*）、**监督层级 O0–O4**（未指明 → 回溯性审计 → 使用前批准 → 检查点式控制 → *持续的、有界监督*）与**证据成熟度阶段 M0–M5**（概念 → 原型/基准 → 参与者评价 → 真实部署 → 扩展/多站点 → *被复现的/机构规模*）——加上一条**比例规则**：可容许的自主性不应跑在证据成熟度或监督强度之前（例如，一个 A4 后果性系统要求 M4–M5 的证据、法律验证，以及 O4 加人的最终权威）。报告 *A2–O3–M3* 把含糊的"智能体式部署"主张变成可比较、可检验的规格，并给机构一套分阶段采纳、日志与回滚的语法——它是上文[[baradziej-agentic-ai-higher-education-2026|Copilot 到 Autopilot]]光谱在证据上的补充。
 - **对抗性稳健性测试：** [[adversarial-stress-testing-role-playing-agents|多智能体压力测试]]协调 Interrogator、Target 与 Judge 智能体以揭示单一策略测试所不可见的失效模式，把稳健性分数降低 0.17–0.20 分——这对人格一致性与面向学习者的[[pedagogical-safety|安全部署]]是关键的。
 - **领域应用：** 智能体式系统出现在各个领域，包括[[learnmate2-llm-adaptive-learning|自适应学习智能体]]、[[educlaw-bench-pedagogical-llm-agents-2026|教学法 LLM 智能体]]、[[guided-llm-scaffolding-independent-learning|引导式 LLM 脚手架]]、[[cyberagents-gamified-cybersecurity-learning-2026|游戏化网络安全学习智能体]]与[[hdr-brachytherapy-agentic-ai-simulation-2026|临床模拟智能体]]。
+- **智能体评分首先是可靠性问题，其次才是工作量问题。** 一次 Claude Code 部署被给予三份量规文件与一门计算机图形课程的 60 份扫描手写期中试卷。它给出的分数与教师一致（r = 0.97），在一份 20 分试卷上的平均绝对误差为 0.85 分，AI 正向偏差均值为 0.68，相隔一周的两次会话的重测 ICC = 0.96。总体数字掩盖了它在何处失效：加权 kappa 从多项选择题的 0.98 降到评价性题目的 0.65，手绘图是最弱的情况（[[alghamdi-claude-code-agentic-grading-2026|AlGhamdi，2026]]）。一门课程、一位教师、一套量规界定了方差所在；它们并不证明智能体评分可以推广。
+
+智能体式架构以可测量的精确度代价换取覆盖面。在 [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah 等人（2026）]] 对 926 份招聘样本与 1,696 项黄金标准技能的基准测试中，一个配有 ESCO 查询工具的 ReAct 智能体在增强召回上领先，达 89.7%，最好的生成式配置为 83.7%，最好的嵌入模型为 49.1%。其精确度为 22.7%，F1 因此只有 36.3%，低于同样接入工具的 Gemini 2.5 Flash 的 51.6%，且它每个样本约需 16 秒。当由人类顾问来删减清单时，召回是正确的度量；未经中介的输出则需要那个有工具支撑的替代方案。
+
 - **作为学习体验评价者的 Web 智能体：** 一个像学生一样浏览在线[[learning-design|课程]]的单一自主"描述型" Web 智能体——[[ai-web-agents-lesson-design-2025|Wang、Mitchell 与 Piech（2025）]]——产出一份足够丰富的描述，既能预测学生流失，又能在真实学习者投入之前给设计者可据以行动的反馈，在一个全局 CS1 课程上胜过一整个模拟学生队列与所有基线。这把智能体式评价（一个作为学习体验替身批评者的智能体）定位为智能体式 AI 的一种独特的、低成本的用途，与那些教书或设计的智能体并列。
 
 ### 多智能体系统
@@ -206,8 +214,8 @@ ai_assist:
 
 ## 关联文章
 
+- [[alghamdi-claude-code-agentic-grading-2026]] — 一次 Claude Code 部署：与教师评分 r = 0.97，而加权 kappa 从选择题 0.98 降到评价题 0.65（AlGhamdi，2026）
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — 围绕可修订能力项目组织的智能体，学习者作为其中一员
-
 - [[pramod-agentic-ai-motivational-pathways-2026]] — 自主性、胜任性、关系性与社会临场作为从智能体式 AI 到投入的通路（Pramod 与 Patil 2026）
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI 智能体、愉悦性评估与第三空间
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE 框架：高等教育中有界、人类监督的生成式 AI（Ilieva 等人 2026）
@@ -234,3 +242,4 @@ ai_assist:
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — 软件 PBL 中带 AI 智能体的 SDD；自动化 vs. 理解
 - [[ai-standardized-patient-scaffolding-medical-2026]] — 评估面向支架的多智能体大语言模型系统在临床问诊训练中的表现
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents：以角色扮演与讨论促进小组伦理教育，用于伦理反思与探索
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — 926 份招聘样本：ReAct 智能体召回 89.7%，而精确度仅 22.7%，F1 为 36.3%（Nkrumah 等人，2026）

@@ -1,7 +1,7 @@
 ---
 title: "Những quan niệm sai lầm về AI"
 created: "2026-11-12T04:00:00-05:00"
-updated: "2026-11-12T04:00:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,11 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
-
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
 > **Những quan niệm sai lầm về AI** — những niềm tin sai về hệ thống AI và ý nghĩa của việc dùng chúng với học tập, công việc. Không phải một điều sai duy nhất mà là một họ lỗi hiệu chỉnh quanh hai sai lầm cốt lõi: đánh giá sai bản chất mô hình (uy tín so với công cụ, trung lập so với thiên lệch, hiểu so với tạo sinh) và đánh giá sai yêu cầu của việc học (đầu ra so với quá trình). Chúng có ở cả sinh viên, giáo viên, nhà quản lý, nhà hoạch định chính sách và công chúng; sửa chúng là mục tiêu của giáo dục [[ai-literacy|năng lực AI]] và [[trust-calibration|hiệu chỉnh niềm tin]].

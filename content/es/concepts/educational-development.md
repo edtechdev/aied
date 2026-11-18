@@ -152,6 +152,8 @@ La participación y la sustancia pueden moverse en direcciones opuestas, y la ra
 
 **El contexto cambia la forma del desarrollo, no la necesidad de él.** En educación médica, una residencia en IA trata el desarrollo del profesorado y el aprendizaje conjunto como el mecanismo y no como un añadido ([[bursic-ai-residency-education-curriculum-2026|Bursic et al.]]). Una revisión de 86 recursos de primera infancia identifica el desarrollo de educadores como uno de sus cuatro temas ([[early-childhood-ai-holistic-competencies-review-2026|la revisión]]). La renovación de la CTE recurre al desarrollo del profesorado cuando el cambio curricular deja al descubierto una brecha de capacidades ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). Y entre 146 docentes, la participación en el desarrollo profesional medió en el vínculo entre la motivación y la intención de usar IA generativa ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al.]]).
 
+Un ejemplo práctico del modelo de cohorte viene de una biblioteca universitaria. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] pagaron estipendios a siete docentes por un programa de ocho semanas que combinaba cuatro semanas de instrucción, desarrollo independiente de proyectos y retroalimentación entre pares, basado en los principios de aprendizaje de adultos de Knowles y en el marco de prompts CLEAR. Las ganancias fueron modestas en familiaridad con la IA y mayores en familiaridad con los REA, y los autores consideran el estipendio y el convenio sindical que permitió pagar a los profesores adjuntos parte de la intervención, no de la administración.
+
 ## Concepciones erróneas comunes
 
 **«Un taller de capacidades es la intervención que necesita el desarrollo educativo.»** La preparación es un problema de alineación sociotécnica, no un déficit individual, y por eso un «taller de IA» aislado se queda corto respecto a la necesidad que aborda. Un programa que trabajó la pregunta de forma directa fue un **instituto de verano de seis semanas** que llevó a diez miembros del profesorado de Educación, Ciencias de la Salud, Empresa y otros programas por un trabajo de nivel identitario. La duración y la cohorte no son incidentales en ese diseño; son lo que lo distingue de un recorrido por funcionalidades.
@@ -180,7 +182,7 @@ La participación y la sustancia pueden moverse en direcciones opuestas, y la ra
 - [[stakeholders]] — paraguas: las personas y los públicos de la educación con IA (quienes aprenden, el profesorado, quienes diseñan, la administración y quienes elaboran políticas)
 
 ## Artículos conectados
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Análisis crítico del discurso de las orientaciones sobre alineación con IA generativa: quienes desarrollan, reconfigurados como formadores en tecnología
+- [[jordan-faculty-ai-oer-creation-2025]] — Del prompt a la práctica: una iniciativa centrada en el profesorado para crear REA con IA (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Análisis crítico del discurso de las orientaciones sobre alineación con IA generativa: quienes desarrollan, reconfigurados como formadores en tecnología
 - [[crompton-faculty-technology-integration-standards-2026]] — Estándares del profesorado para la integración tecnológica (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Dimensiones éticas de la IA: visiones del profesorado y del estudiantado
 - [[nicola-richmond-programwide-assessment-genai-2025]]

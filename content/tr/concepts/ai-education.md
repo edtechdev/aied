@@ -1,7 +1,7 @@
 ---
 title: "Eğitimde Yapay Zeka"
 created: "2026-10-14T21:45:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,10 @@ ai_assist:
     date: "2026-10-27"
     agent: hermes-agent
 
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -57,7 +61,7 @@ Bilgi tabanının kavram kapsamı, ilgili kavramları gezilebilir dallara grupla
 - **[[pedagogy|Pedagogies and teaching strategies]]** — öğretmenliğin nasıl gerçekleştiğine ilişkin şemsiye: YZ’nin içinde işlediği öğretim yöntemleri ve stratejileri ([[active-learning|active]], [[collaborative-learning|collaborative]], [[project-based-learning|project-based]], [[problem-based-learning|problem-based]], [[experiential-learning|experiential]], [[game-based-learning|game-based]], [[socratic-method|Socratic]], [[scaffolding]] ve daha fazlası), [[online-teaching-and-learning|online teaching and learning]] ayrı bağlamı dahil.
 - **[[learning-theories|Learning theories]]** — öğrenmenin nasıl gerçekleştiğine ilişkin şemsiye: YZ tasarımını ve değerlendirmesini şekillendiren teorik çerçeveler ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], bilişsel, [[motivation|motivational]]).
 - **[[ai-technologies|Technologies]]** — teknik katman için şemsiye: AIED’i güçlendiren YZ sistemleri ([[llm|LLMs]], [[generative-ai|generative AI]], [[multimodal]], [[educational-robotics|robotics]]) ve teknikler ([[rag]], [[prompt-engineering|prompt engineering]], [[reinforcement-learning|reinforcement learning]], [[llm-training-and-fine-tuning|model training]], [[agentic-ai|agentic orchestration]]). Öğrenen modelleme ailesi — [[knowledge-tracing|knowledge tracing]], [[cognitive-diagnosis|cognitive diagnosis]], [[simulating-students|simulating students]] ve bunları tüketen sistemler ([[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], [[personalized-learning|personalized learning]]) — bu teknik dal içindeki [[student-modeling|Learner Modeling and Adaptive Instruction]] şemsiyesi altında gruplanır.
-- **[[discipline-specific-aied|AI in the disciplines]]** — YZ’nin ders alanları boyunca nasıl uygulandığına ilişkin şemsiye ([[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[engineering-education|engineering]], [[business-education|business]], [[teacher-education|teacher education]], [[medical-education|health professions]] ve daha fazlası) — ve akademik derslerin ötesinde, gösterilmiş uygulamayı doğruluğa tercih eden değerlendiren profesyonel ve uygulamalı dal ([[nursing-education|nursing]], [[information-technology|information technology]], [[vocational-education|vocational education and training]], [[design-education|design education]]) — ve eğitim düzeyleri ([[k-12]], [[higher-ed|higher education]], [[adult-learning|adult learning]]).
+- **[[discipline-specific-aied|Disiplinlerde YZ]]** — YZ’nin konu alanları boyunca nasıl uygulandığına ilişkin şemsiye; dört küme hâlinde gruplanır. [[humanities-education|Beşeri bilimler ve sanatlar]] tarih, felsefe, edebiyat ve dilleri kapsar; yanlarında [[arts-and-media-education|sanat ve medya]] ile [[music-education|müzik]] yer alır. [[social-sciences-education|Sosyal bilimler]] yurttaşlık, işletme ve ekonomiyi, çevre çalışmalarını kapsar. [[stem-education|STEM]] matematik, fizik, kimya, biyoloji, bilişim ve mühendisliği kapsar. [[professions-education|Meslekler]] akredite programları kapsar — [[medical-education|tıp ve sağlık meslekleri]], [[nursing-education|hemşirelik]], [[legal-education|hukuk eğitimi]], [[teacher-education|öğretmen eğitimi]], [[design-education|tasarım eğitimi]] ve [[libraries|kütüphanecilik]] — burada değerlendirme, belgelendirilen yargının adayın kendisine ait olduğunu göstermek zorundadır. Kümeler disiplinler kadar eğitim düzeyleri boyunca da geçerlidir.
 - **[[assessment]]** ([[formative-assessment|formative]], [[summative-assessment|summative]], [[authentic-assessment|authentic]], [[oral-assessment|oral]] ve [[automated-assessment|automated]] dallar ile) — YZ’nin hem öğrenenleri nasıl değerlendirdiğine hem de değerlendirme geçerliliğini ve bütünlüğünü nasıl yeniden şekillendirdiğine ilişkin şemsiye.
 - **[[feedback]]** — geri bildirimin nasıl üretildiğine, sunulduğuna ve kullanıldığına ilişkin şemsiye: geri bildirim döngüsü, [[ai-feedback-quality|feedback quality]], [[feedback-literacy|feedback literacy]] ve değerlendirme bağlamları ([[formative-assessment|formative]], [[peer-assessment|peer]], [[automated-assessment|automated]]).
 - **[[stakeholders|Stakeholders in AI education]]** — aktörlerin kim olduğuna ilişkin şemsiye: öğrenenler, [[teacher-role|teachers]], [[learning-design|learning designers]], [[administrator|administrators]] ve [[educational-policy-ai|policymakers]].
@@ -84,8 +88,8 @@ Alanın kesişen ve temel kavramları, bilgi tabanının kapsamını çapalar ve
 YZ’nin öğretimi ve öğrenmeyi nasıl desteklediği alanın kalbidir. Temel kavramlar şunlardır:
 
 - **Çekirdek pedagojiler:** [[pedagogy|pedagogies and teaching strategies]] — bilgi tabanının öğretim yöntemi kapsamının şemsiyesi — [[pedagogical-patterns|pedagogical patterns]] (bu yöntemlerin çözüldüğü sınanmış diziler), [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[group-work|group work]], [[project-based-learning|project-based learning]], [[problem-based-learning|problem-based learning]], [[productive-failure|productive failure]], [[inquiry-based-learning|inquiry-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[learning-by-teaching|learning by teaching]], [[scaffolding]], [[socratic-method|the Socratic method]], [[critical-pedagogy|critical pedagogy]], [[pedagogical-partnerships|pedagogical partnerships]], [[storytelling-in-education|storytelling]], [[learning-design|learning design]], [[online-teaching-and-learning|online teaching and learning]] ve [[video-education|video in education]] ile birlikte.
-- **Öğrenme kuramları ve süreçleri:** [[learning-theories|learning theories]] şemsiyesi ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], [[embodied-learning|embodied learning]], [[community-of-inquiry|community of inquiry]]) öğrenen yönelimli süreçlerin yanında yer alır: [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[motivation]], [[self-efficacy]], [[self-directed-learning|self-directed learning]], [[metacognition]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[prior-knowledge|prior knowledge]], [[icap-framework|ICAP cognitive engagement]], [[reflection]], [[refutation-text|refutation text]], [[retrieval-spacing-interleaving|retrieval, spacing and interleaving]] ve [[activity-theory-aied|activity theory]].
-- **Öğrenen etkileşimi ve deneyimi:** [[student-engagement|student engagement]], [[help-seeking]], [[social-emotional-learning|social-emotional learning]], [[well-being]], [[creativity]], [[problem-solving|problem solving]], [[mastery-learning|mastery learning]] ve [[student-ai-interaction|student–AI interaction]], öğrenenlerin YZ’yle gerçekte nasıl karşılaşıp etkilendiğini şekillendirir; oysa YZ kullanımı etrafında yerleşen [[social-norms-ai-use|social norms that settle around AI use]], bunların herhangi birinin ne kadar açıkça tartışılabileceğine karar verir. Dersin ötesinde, [[student-support-and-success|student support and success]] — danışmanlık, erişim çalışması, yönlendirme ve kıt desteğin tahsisi olan kurumsal taraf işini kapsar; burada YZ güvenilir biçimde görev tamamlamayı ilerletir, ancak ısrarı veya mezuniyeti değil.
+- **Öğrenme kuramları ve süreçleri:** [[learning-theories|learning theories]] şemsiyesi ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], [[embodied-learning|embodied learning]], [[community-of-inquiry|community of inquiry]]) öğrenen yönelimli süreçlerin yanında yer alır: [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[motivation]], [[self-efficacy]], [[self-directed-learning|self-directed learning]], [[metacognition]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[prior-knowledge|prior knowledge]], [[icap-framework|ICAP cognitive engagement]], [[reflection]], [[refutation-text|refutation text]], [[retrieval-spacing-interleaving|retrieval, spacing and interleaving]] ve [[activity-theory-aied|activity theory]]. Gelişimsel çerçeve bunları keser: [[developmental-psychology|gelişim psikolojisi]], aynı sürecin neden beş, on beş ve yirmi beş yaşta farklı göründüğünü açıklar.
+- **Öğrenen etkileşimi ve deneyimi:** [[student-engagement|student engagement]], [[help-seeking]], [[social-emotional-learning|social-emotional learning]], [[well-being]], [[creativity]], [[problem-solving|problem solving]], [[mastery-learning|mastery learning]] ve [[student-ai-interaction|student–AI interaction]], öğrenenlerin YZ’yle gerçekte nasıl karşılaşıp etkilendiğini şekillendirir; sıkça iddia edilen ama nadiren ölçülen duygusal sonuç [[empathy|empati]]dir, oysa YZ kullanımı etrafında yerleşen [[social-norms-ai-use|social norms that settle around AI use]], bunların herhangi birinin ne kadar açıkça tartışılabileceğine karar verir. Dersin ötesinde, [[student-support-and-success|student support and success]] — danışmanlık, erişim çalışması, yönlendirme ve kıt desteğin tahsisi olan kurumsal taraf işini kapsar; burada YZ güvenilir biçimde görev tamamlamayı ilerletir, ancak ısrarı veya mezuniyeti değil.
 
 ## Teknolojiler ve teknikler
 
@@ -98,13 +102,25 @@ YZ’nin öğretimi ve öğrenmeyi nasıl desteklediği alanın kalbidir. Temel 
 
 ## Disiplinlerde YZ
 
-YZ disiplinler ve eğitim düzeyleri boyunca uygulanır. Bilgi tabanının [[discipline-specific-aied|overview of AIEd in the disciplines]], ders alanı kapsamını haritalar — [[learning-sciences|learning sciences]] ile birlikte; bu, öğretilen bir ders değil, öğrenmenin kendisini inceleyen ve ders materyalini diğerleri arasında bir değişken olarak alan kesişen araştırma alanıdır:
+Konu alanı kapsamı, alanın en büyük parçasıdır. [[discipline-specific-aied|Disiplinlerde AIEd]] bunu tutar; yanında, öğretilen bir ders olmayan, öğrenmenin kendisini inceleyen ve konu içeriğini diğer değişkenlerden biri olarak ele alan kesişen araştırma alanı [[learning-sciences|öğrenme bilimleri]] yer alır. Konu sayfalarını dört küme düzenler:
 
-- **Ders alanları:** [[math-education|mathematics]], [[statistics-and-data-science-education|statistics and data science]], [[physics-education|physics]], [[chemistry-education|chemistry]], [[biology-education|biology]], [[cs-education|computer science]], [[engineering-education|engineering]], [[stem-education|STEM]], [[writing-education|writing]], [[reading-education|reading education]], [[language-learning|language learning]], [[english-education|English education (EAP/EFL/ESL)]], [[libraries|library and information science]], [[science-education|science education]], [[environmental-education|environmental education]], [[business-education|business, economics, and management]], [[humanities-education|humanities and social sciences]], [[civic-and-political-education|civic and political education]], [[arts-and-media-education|arts, design and media education]], [[medical-education|medical and health professions]], [[legal-education|legal education]] ve profesyonel ile uygulamalı dallar — [[nursing-education|nursing]], [[information-technology|information technology]], [[vocational-education|vocational education and training]] ve [[design-education|design education]].
+- **Beşeri bilimler ve sanatlar:** [[humanities-education|beşeri bilimler eğitimi]], [[arts-and-media-education|sanat ve medya eğitimi]], [[music-education|müzik eğitimi]], [[writing-education|yazma eğitimi]], [[reading-education|okuma eğitimi]], [[language-learning|dil öğrenimi]] ve [[english-education|İngilizce eğitimi (EAP/EFL/ESL)]].
+- **Sosyal bilimler:** [[social-sciences-education|sosyal bilimler eğitimi]], [[civic-and-political-education|yurttaşlık ve siyaset eğitimi]], [[business-education|işletme, ekonomi ve yönetim]] ve [[environmental-education|çevre eğitimi]].
+- **STEM:** [[stem-education|STEM eğitimi]], [[science-education|fen eğitimi]], [[math-education|matematik]], [[statistics-and-data-science-education|istatistik ve veri bilimi]], [[physics-education|fizik]], [[chemistry-education|kimya]], [[biology-education|biyoloji]], [[cs-education|bilgisayar bilimi]], [[engineering-education|mühendislik]] ve [[information-technology|bilgi teknolojileri]].
+- **Meslekler:** [[professions-education|meslek eğitimi]], [[medical-education|tıp ve sağlık meslekleri]], [[nursing-education|hemşirelik]], [[legal-education|hukuk eğitimi]], [[teacher-education|öğretmen eğitimi]], [[design-education|tasarım eğitimi]] ve [[libraries|kütüphane ve bilgi bilimi]].
+
+Bir konunun hangi kümeye düştüğü, kanıtına hangi sayfanın sahip olacağını da belirler. [[vocational-education|Mesleki eğitim ve öğretim]] burada değil düzeyler altında sınıflandırılır, çünkü bir disiplinden çok bir yeterlilik rotasını adlandırır.
 
 ## Düzeyler ve bağlamlar
 
-Aynı YZ aracı çok farklı ortamlarla karşılaşır ve bilgi tabanı, bulguların sessizce aktarılmasını önlemek için eğitim düzeyini pedagojiden ayırır: [[k-12|K-12 schools]], [[early-childhood-elementary-ai-education|early childhood and elementary education]], [[higher-ed|higher education]], [[adult-learning|adult learning]], [[vocational-education|vocational education and training]], [[special-education|special education]] ve [[teacher-education|teacher education]]. Düzeyleri kesen alan komşuluğu olan kavramlar: [[universal-design-for-learning|universal design for learning]], [[neurodiversity]], [[multilingual-learning|multilingual learning]] ve [[social-emotional-learning|social-emotional learning]].
+Aynı YZ aracı çok farklı ortamlarla karşılaşır ve eğitim düzeyi pedagojiden ayrı tutulur, böylece bulgular aralarında sessizce aktarılmaz: artık [[early-childhood-elementary-ai-education|erken çocukluk]], [[primary-education|ilköğretim]] ve [[secondary-education|ortaöğretim]] olarak ayrılan [[k-12|K-12 okulları]]; [[undergraduate-education|lisans]] ve [[graduate-education|lisansüstü]] öğrenime ayrılan [[higher-ed|yükseköğretim]]; ve bu basamakların dışındaki ortamlar: [[adult-learning|yetişkin öğrenimi]], [[vocational-education|mesleki eğitim ve öğretim]], [[special-education|özel eğitim]] ve [[teacher-education|öğretmen eğitimi]]. [[education-levels|Eğitim düzeyleri]] bunları karşılaştırır. Düzeyleri kesen alan komşuluğu kavramlar arasında [[universal-design-for-learning|evrensel öğrenme tasarımı]], [[neurodiversity|nöroçeşitlilik]], [[multilingual-learning|çok dilli öğrenme]] ve [[social-emotional-learning|sosyal-duygusal öğrenme]] yer alır.
+## Aynı araç, zıt tasarım kararları
+
+Düzey, bir tasarım önerisini en temiz biçimde tersine çeviren değişkendir. Ortaöğretim kanıtı öğretmeni öğrenci ile araç arasına koyar: 33 çalışma genelinde kazanımlar öğrencilerin çıktıyı karşılaştırdığı yerde ortaya çıkmış, aracın işi ürettiği yerde sönmüştür ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca ve ark. (2026)]]).
+
+Lisansüstü kanıtı ters yönü, hesap verebilir bir insanla ortaklığı işaret eder. Hazırlık kolaylaştırıcıları araştırma [[self-efficacy|öz-yeterliliğine]] araç kullanımı yoluyla değil, danışman desteği yoluyla ulaşmıştır (dolaylı β = 0,201) ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo ve ark. (2026)]]). Doktora düzeyinde bir derleme aynı tasarım sonucuna etikten varır: meşruiyet araçtan çok göreve bağlıdır, açıklama entelektüel önemle orantılıdır ve yönetişim kilometre taşlarında gözden geçirilir ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja ve ark. (2026)]]).
+
+Değişmeyen şey, yargıyı bir insanın tutmasıdır. Bir lisansüstü seminerindeki öğrenciler YZ çıktısını ancak bilgili bir denetleyici kontrol ettikten sonra kabul etmiştir; Chen bunu teslim edilmiş değil devredilmiş özerklik olarak okur ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). Sıklık, katmanlar arası yanlış ölçüttür: etik ve öz düzenleme modele girdiğinde lisansüstü yetkinliği yalnızca β = 0,030 düzeyinde öngörmüştür ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova ve ark. (2026)]]).
 
 ## Değerlendirme ve ölçme
 
@@ -117,7 +133,7 @@ YZ hem öğrenenleri nasıl değerlendirdiğimizi hem de YZ sistemlerinin kendis
 
 YZ’nin işe yarıp yaramadığını nasıl bildiğimiz kendi başına bir daldır ve bilgi tabanı onu böyle ele alır:
 
-- **Araştırma yöntemleri:** şemsiye olarak [[research-methods-aied|research methods in AIED]]; [[qualitative-research|qualitative]], [[quantitative-research|quantitative]], [[mixed-methods-research|mixed-methods]], [[design-based-research|design-based]] ve [[usability-research|usability]] yaklaşımlarına ek olarak [[rct|randomized controlled trials]], [[meta-analysis-systematic-review|meta-analysis and systematic review]] ve [[network-analysis|network analysis]].
+- **Araştırma yöntemleri:** şemsiye olarak [[research-methods-aied|research methods in AIED]]; [[qualitative-research|qualitative]], [[quantitative-research|quantitative]], [[mixed-methods-research|mixed-methods]], [[design-based-research|design-based]], [[usability-research|usability]] ve [[longitudinal-research|boylamsal]] yaklaşımlara ek olarak [[rct|randomized controlled trials]], [[meta-analysis-systematic-review|meta-analysis and systematic review]] ve [[network-analysis|network analysis]].
 
 Alanın kendi araştırma çalışması artık kendi başına bir konudur. [[ai-assisted-educational-research|YZ Destekli Eğitim Araştırması]], YZ’nin literatür arama, tarama, nitel kodlama, analiz ve yazma için bir araç olarak kullanımını kapsar; öğretme ve öğrenme alanındaki bilgi üretimi gibi uygulayıcı araştırmaları dahil. YZ’nin öğrenenlere ne yaptığını incelemek için kullanılan tasarımlardan farklı kalır.
 
@@ -176,6 +192,10 @@ Eğitimde YZ, bilgi tabanındaki her kavrama bağlanır — bu, diğer tüm kavr
 **“Alanın olgunluğu yayın hacminden okunabilir.”** Hacim ile olgunluk ayrışır; araştırma yöntemleri dalı, hacmin gidermediği yinelenen tasarım zayıflıklarını belgeler ve çerçeveler test edildiklerinden daha hızlı çoğalır.
 
 ## Bağlı kavramlar
+- [[primary-education]] — İlköğretimde YZ
+- [[secondary-education]] — Ortaokul ve lisede YZ
+- [[undergraduate-education]] — Lisans düzeyinde YZ
+- [[graduate-education]] — Yüksek lisans ve doktora düzeyinde YZ
 - [[pedagogical-patterns]] — The tested sequences that operationalize the field's pedagogies
 - [[ai-literacy]] — umbrella: understanding, using, and evaluating AI
 
@@ -220,5 +240,10 @@ Eğitimde yapay zekâ üzerine alan çapında derlemeler — tek bir konu yerine
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
+- [[stanford-evidence-base-ai-k12-2026]] — K-12'de YZ üzerine kanıt tabanı: 1.686 havuz makalesinden çıkarılan 52 güçlü nedensel çalışma (Kasım 2026 güncellemesi)
 - [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 ortaöğretim çalışması; kazanımlar öğrencilerin çıktıyı yargıladığı yerde, aracın işi ürettiği yerde değil
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 yüksek lisans öğrencisi; hazırlık, öz-yeterliliğe danışman desteği yoluyla ulaştı
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Doktora danışmanlığında etik, geri bildirim ve yönetişim üzerine 61 kaynaklık derleme
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Tek gruplu lisansüstü semineri; yardımsız test olmadan öz yönelimli öğrenme kazanımları
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 öğrenci; etik ve öz düzenlemede lisans–lisansüstü arası açık

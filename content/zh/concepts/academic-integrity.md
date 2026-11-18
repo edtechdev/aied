@@ -1,7 +1,7 @@
 ---
 title: 学术诚信
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -42,7 +46,7 @@ ai_assist:
 
 生成式 AI 的到来并没有创造对学术诚信的需求——它只是让既有方法的弱点更难以忽视。一份打磨过、看起来可信的产品现在几秒钟就能生成，因此**产品外观是越来越不可靠的能力信号**。这把诚信问题从*"我们能抓住 AI 使用吗？"*转向*"我们的 [[assessment|考核]]还能否支撑我们对学生学习的推断？"*
 
-### 从检测到重新设计的演进
+## 从检测到重新设计的演进
 
 - **对检测的怀疑：** [[ai-detection]] 研究与 [[governance|机构]]层面的分析越来越多地发现，AI 检测工具不可靠且程序上不公平。[[detecting-llm-generated-text-latent-prompt|LLM 文本检测]]面临根本性局限。完全由 AI 生成的提交物可以在考试监控系统中基本不被察觉地通过，而有经验的阅卷人也无法可靠地识别出 GenAI 撰写的作品。检测至多是一种有限的、情境性的工具——不是首选策略。然而它被要求处理的体量远非边缘：对一门大规模注册的 CS2 课程长达六年的分析发现，45.7% 的 2026 年春季学生因与 LLM 辅助编程一致的模式而被标记（[[argus-academic-integrity-genai-2026|Racovan et al.（2026）]]）。
 - **检测的狭窄余量，以及作为计划行为的作弊：** [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray、Edsall 与 Parapadakis（2025）]]汇集证据指出，AI 放大了这个行业本就存在的脆弱性。AI 生成文本在高达 80% 的案例中被当作人写作的文本通过，而他们引用的证据显示机器检测率约为 80%，人工审阅为 78.4%，余量过于狭窄，不足以支撑一项不当行为的认定。他们更具独特性的贡献是动机分析：以 Ajzen 的[[technology-acceptance-model|计划行为理论]]和 Bandura 的自我效能理论为出发点，他们报告 Krou 等（2021）的元分析发现，[[self-efficacy]] 与作弊负相关，而实际能力与之完全不相关。因此一个有能力、有信心的学生，如果认为某项考核不公平，就可能通过作弊来夺回控制权。结论遵循了本页在别处记录的同一个反转——一份模型能有说服力回答的考核，是一份智力上毫无分量的考核，失败属于考核，而不属于学生。
@@ -56,12 +60,11 @@ ai_assist:
 - **诚信是一个治理问题，而非检测问题。** [[coates-governing-academic-integrity-indicators-2025|Coates、Croucher 与 Calderon（2025）]]把约束条件从学生行为转移到学术 [[governance]]，他们称后者有韧性，但"并未处于良好位置或准备就绪"以应对 GenAI 对学生考核认证的威胁。他们的答案是一个覆盖八个维度、共 130 项的诚信指标框架，从 Designing（设计，19 项）到 Improving（改进，6 项），由治理问题而非心理计量量表构成——机构的最高董事会是否收到考核质量更新，考核中有多少比例贴近相关且有意义的问题，有多少比例的学生被评估他们的教师个人认识。该框架通过多年的研究综述、五个澳大利亚大学案例、原型设计、来自六大世界区域的 60 位受邀专家确认以及 [[quantitative-research|定量]]试点开发而成，并与治理架构、人员、技术与资源方面的改革配套；作者预期这些改革只有在 [[regulation]]、基准比较与跨机构竞争的外部压力下才会兑现；他们将框架定位为形成性的，并呼吁在用于比较或 [[educational-measurement|测量]]之前先做心理计量验证。
 - **文件实际上说了什么：诚信主导机构 AI 政策。** [[institutional-ai-policy-health-informatics-2026|Eldredge et al.（2026）]]分析了美国全部 48 个 CAHIIM 认证的健康信息学与健康信息管理硕士项目的 AI 政策与指导文件：其中 40 个（83%）至少有一份合格文件，这些文件压倒性地把 AI 框定为防止课程中学生滥用的问题，以学术诚信与可接受使用为中心。学术诚信是出现频率最高的关键词（n = 139，高于引用 59、考核 50、抄袭 38），而隐私、知识产权与监管主题虽存在但较少见（HIPAA n = 5，FERPA n = 11，IRB 指导 n = 8）。对同一语料的主题建模返回四个主题，第一个即学术诚信与恰当 AI 使用，其余为教学中的生成式 AI、研究中的 AI 与数据工具使用，以及学生与对话式 AI 系统的互动。本页的证据价值在于量化：以诚信为中心的框定不只是机构 AI 政策的口头默认，它在经验上是其主导内容。作者最尖锐的观察在于这种注意力止步何处：相对较少的指导覆盖了应用学习、研究与模拟环境中的 AI 使用，而这些正是课程与数据治理关切的交汇处，于是文件治理着课程作业，而学位正在为学生准备的场景却基本未被触及。
 - **诚信框定正在让位于基于任务的规制：** [[chirikov-regulate-ai-syllabi-2026|Chirikov（2026）]]对 31,000+ 份课程大纲的纵向研究显示，教师的 AI 政策正在脱离纯粹的诚信框架：教学大纲中提及学术诚信的比例从 63%（2023 春）降至 49%（2025 秋），而提及 AI 对学习影响的比例从 1% 升至 29%。教师越来越多地**按任务类型**规制 AI——在起草/推理（AI 会取代学习之处）限制它，在编辑/校对与学习支持上允许它——而非施加一揽子的诚信禁令。这把诚信政策重新框定为一项任务层面的设计决策，而非一条二元规则。
-
 - **把抗机器性作为预防而非检测。** 扰动文档本身——字符、词与行的间距、透明度抖动、条纹叠加与图像噪声，加上基于决策的对抗攻击——从源头上提高了低努力 LLM 滥用所需的成本，同时测量的是同样的知识（[[airri-machine-resistant-reading-interface-2026|Salaun 等（2026）]]）。人工转录仍然可行，而对抗攻击只保护选定的行，使整篇文档的字符错误率保持在 8.44% 以下。
 
 - **以逐成员核验的小组作业取代检测。** [[issa-teamwork-framework-academic-integrity-2024|Issa 与 Hall（2024）]]连续五个学期运行一个研究生商务项目管理单元，其前提是教师可以从过程而非制品确立作者身份。为期 12 周的小组计划占该单元的 40%，每个小组与讲师会面 30 分钟，审议其工作与组织分解结构，并逐一询问每位成员其贡献是否为原创。每名学生还为每位队友填写一份同伴反思表，并填写一份自我反思表。单元评价项得分在 89% 到 100% 之间，而大学平均为 80% 到 86%，项目计划的平均分从 27/40 升至 31/40。其"不当行为与延期申请大幅下降"的说法没有给出计数，且一位新讲师恰在重新设计的同一学期到任，因此应把这读作一个可行的设计，而不是 AI 使用下降的实测证据。
 
-### 不当行为程序及其证据基础的崩塌
+## 不当行为程序及其证据基础的崩塌
 
 建立在诚信政策之上的执行机器本身就是一个设计决策，而生成式 AI 已经拆掉了它的证据地基。[[teichmann-detecting-undetectable-misconduct-2026|Teichmann（2026）]]论证，大学从抄袭处理中继承的不当行为程序假定被禁止的使用可以被检测和证明——而技术消解了这一前提。与文本匹配软件不同，后者可以指出一份被抄袭的来源，AI 文本分类器识别不出来源（来源并不存在）；它输出的是关于风格的或然性判断，在改写下退化，系统性地误标非英语母语写作，且无法被解释或交叉质证，而熟练或轻度编辑过的使用则完全不留痕迹。仍然坚持这一程序，等于颠倒了举证责任（学生被要求证明否定），拉紧了程序正义的每一个要素，并把错误指控的伤害最重地压在已经处于劣势的人身上。提出的补救是双重的：确立一条证据标准，即检测器分数 alone 永远不构成认定依据，并配以渐进式的、教育优先的回应；以及把机构精力转向以效度为中心和 [[authentic-assessment|真实性考核]]的设计——应对不可检测的 AI 的答案是更好的考核，而非更好的监控。极限情形则完全没有机器：[[ai-written-admissions-essays-penalized-2026|Isley、Gaebler 与 Goel（2026）]]记录了一个美国公共政策硕士项目，它在签署声明中禁止生成式 AI 辅助，却不筛选任何提交物，其中 56.1% 的 2025 年申请人至少提交了一篇被商业检测器归类为主要由 AI 撰写的文书，且每篇被标记的文书与 1.5 个百分点的更低录取概率相关（p < .01），在控制文书质量后升至 2.6 个百分点（p < .001）。在规则与结果之间没有检测、裁定或执行环节，处罚完全通过录取审阅人的不成文判断交付——禁令加上无辅助的审阅人判断，复制了公平程序本应防止的那种自由裁量、不作解释的处罚。
 
@@ -73,15 +76,21 @@ ai_assist:
 
 **诚信规则被套用在一个它们并未建模的现象上。** [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong 等人（2026）]]把问题定位在可回答性，而不是机器写了多少文本：当一项命名超出了个人能为其贡献给出的依据时，就出现了作者身份正当化赤字。因此，一条测量生成文本比例的规则看不见它本想捕捉的那种错配；而一句"使用了 AI"的披露，对于人贡献了什么，什么也没说。
 
-### 合理化问题
+Benau（2026）从相反的方向抵达同一边界。关于 AI 在学术工作中引发的不安，很大一部分是关于努力的道德判断，承自一种把辛苦工作本身视为德性的工作伦理；而可辩护的检验标准不是工具节省了多少小时，而是个人能否正当地主张这一产出（[[benau-effort-legitimate-academic-work-genai-2026|Benau（2026）]]）。
+
+## 合理化问题
 
 学生一般并非出于恶意而 [[ai-misuse-learning-harm|滥用]] AI；他们对其做合理化。[[student-rationalization-ai-writing|访谈研究]]识别出至少**五处脱节点**，学生在那里对 AI 政策的解读偏离教师意图，以及一套**20+ 种互不相同的合理化**——从"复制 AI 文本没有受害者"到"反映我信念的文本就是我自己的写作"。这些合理化是临时的、事后的、内部不一致的，它们描述了一条"陡峭的伦理滑坡"，学生沿着它滑到 [[pedagogy|教学]]目标之外很远的地方。这就是为何 [[misconceptions|学生对 AI 的误解]]是诚信违规的上游原因，也是为何诚信教育必须处理 [[ethics|伦理推理]]，而非仅仅技术技能。
 
 [[ji-student-voices-academic-integrity-scoping-2026|Ji（2026）]]对 38 项学生声音实证研究的范围综述，提供了本节所依赖的综合。其四个主题为：模糊性（生成整个任务被视为作弊，语法检查与头脑风暴大体可接受，而改写、列提纲与翻译处于灰色地带）、伦理 [[agency]]（学生在被解读为对其行为的默许的指导真空中建立个人规则）、伦理意识与实践之间的落差，以及按性别、层级、学科与文化的差异。意识与实践的落差就是合理化问题在规模上的度量：Huang et al. 的伦理失调指数（Ethical Dissonance Index）把 522 名中国学生分为四个簇，其中一个簇频繁做着他们认为不正当的事；而 Ofem et al. 对 4,679 名尼日利亚学生的结构方程建模发现，对 ChatGPT 的积极感知预测不诚实使用，而积极的诚信态度则是一个显著的负向中介。Ji 把学生解读为既非 GenAI 的被动接受者，也非无道德约束的违规者，而是在伦理灰色地带中航行的能动者，这也解释了为何所评研究一致收敛于共同创建、具教育性且情境敏感的回应，而非惩罚性回应。
 
-### 为何政策单独失效：协调问题
+学生自己的边界已经移动，而这一移动是可测量的。在相隔两年调查的同一批五所大学中，把 AI 使用称为作弊的比例从 56% 降至 42%，而在那些仍称之为作弊的人中，30.2% 报告仍然使用了它（[[burke-ai-proliferation-college-students-replication-2026|Burke 等人，2026]]）。该研究中作弊与非作弊的两套解释网络都带有一个条件性节点 —— 取决于你怎么用 —— 这正是合理化解释出现在学生自己的话里，而不是一套外加给他们的分类法。
+
+## 为何单靠政策失效：协调问题
 
 [[ethical-ai-higher-ed-game-theory|一个协调博弈框架]]提供了机制层面的解释，说明政策宣示为何很少改变行为：学生的 AI 使用是一个**协调问题**，个人选择取决于同伴预期与考核设计。该模型的关键发现是**非线性阈值动态**——对反思性考核激励做出小而校准良好的改变，可以触发整个群体迅速转向负责任使用，而薄弱或错位的激励则让机会主义实践延续。就实践而言，温和的重新设计（例如要求学生反思其 AI 互动）在抽象规则毫无作用之处可能产生不成比例的效果。
+
+知道规则与遵守规则是两个不同的结果。在 [[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski、Barry 与 Dosse（2026）]] 的 215 人静力学课程中，完成伦理模块的学生以 100% 正确率通过了知识检查，然而卡方检验发现，该班与另设有效使用讲座的班级、以及无干预对照组之间，在求助型求解行为上没有显著差异。5,000 多条记录的提示中，明确属于求助型求解的不到 1.5%，因此这一零结果既描述了一个低基率，也描述了未发生变化。
 
 同伴问责并不总是指向诚信，正如 [[chen-zou-genai-group-assessment-agency-2026|Chen 与 Zou（2026）]]在计分的 [[group-work|小组考核]]中发现的：15 个学生小组中有 7 个故意减少其 GenAI 使用，部分是为避免搭组员的便车，因为小组后果是共享而非自我封闭的；然而在 5 个小组中，一种宽松的集体氛围——"我组里每个人都在用 GenAI"——降低了被感知的 [[ai-misuse-learning-harm|滥用风险]]，并把小组作业本应创造的问责机制反转过来。同一研究还发现学生把原创性重新框定为忠于同学们共同建立的理解，其实际建议也直接由此得出：把"何为可接受的 AI 使用"的协商做成一项明确的、有记录的、可考核的成果，而不是让规范从同伴压力或被感知的风险中自行浮现。
 
@@ -95,13 +104,13 @@ ai_assist:
 
 - **诚信政策的规范性程度，并不能揭示考核暴露的程度。** 在审计 15,587 条单元记录后，[[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva（2026）]]发现，持有全机构改革授权的高校与采用宽泛框架的高校，落在同一区间的考核暴露上——这是协调博弈关于"宣示为何很少改变行为"之解释的经验对应物。
 
-### 社会情感维度
+## 社会情感维度
 
 诚信执行有一项被忽视的情感代价。[[shame-guilt-ai-regulation-computing-education|羞耻与内疚研究]]与学生一起显示，这些情绪调节着 AI 使用何时以及如何变得可见，产出**隐藏行为与选择性披露**——并且它们与持续使用共存，形成能动性降低与道德紧张加剧的循环，而非行为改变。这就是为何 [[social-norms-ai-use|围绕 AI 使用的规范]]调节可见性的效果好过调节使用。学生甚至用成瘾的语言描述自己的 AI 使用。其含义是：以检测为重、以监控为导向的政策，有把 [[ai-misuse-learning-harm|滥用]]推向地下的风险，而非解决它，从而破坏生产性使用所必需的坦诚协商。
 
 隐藏的反面是拒绝，而拒绝自带情感代价。在 [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al.（2026）]]调查的 85 名师范生中——他们面对的考核政策明确允许生成式 AI——62.4%（53 人）选择完全不用，而使用者的使用是浅层且纠正性的：校对（43.8%）与清晰度检查（34.4%）远多于文本生成（18.8%）与头脑风暴（12.5%）。对 [[legal-issues-and-risks|错误指控]]的恐惧，而非技术困难，做了大量工作：41.5% 的非使用者点名它，而 13.2% 提到知识或技能缺失，同时 77.4% 把不使用简单框定为偏好独自工作。当一份宽松政策被读作陷阱时，安全的回应是拒绝这份邀请——而这让机构付出它本想邀请的那种 AI 整合工作。
 
-### AI 使用披露声明
+## AI 使用披露声明
 
 [[ai-use-disclosure|AI 使用与披露声明]]是把诚信预期落到操作层面的具体机制——而研究显示，当它被当作中立的合规表格对待时，它经常失效。[[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves（2025）]]发现 74% 的学生在强制性的课程作业封面页上未声明 AI 使用，驱动力是对处罚的恐惧、指南的模糊、执法的不一致以及同伴规范。[[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al.（2026）]]与 [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al.（2026）]]确认，对报复的恐惧与政策不清冷却了披露——而坦诚的学生甚至可能引来怀疑。[[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al.（2026）]]把披露重新框定为一种 [[help-seeking]]/[[self-regulated-learning|自我调节]]行为，[[anxiety-and-stress|焦虑]]把它重定向到同伴身上。集体教训是：披露政策必须处理 [[affective-computing|情感]]与社会障碍，必须清晰且一致，并把披露当作 [[formative-assessment|形成性]]教学而非监控。**[[luo-dawson-value-judgments-grading-2026|Luo & Dawson（2026）]]**补上了教师这一侧：教师对 GenAI 辅助作业的评分，由关于学生诚实、勤勉与信任的价值判断驱动，许多教师惩罚（或想惩罚）披露了 GenAI 使用的学生——即使作业质量很高。这就是"双向 [[explainable-ai|透明度]]"问题：学生被期望声明使用，但教师很少澄清该声明将如何影响成绩，于是诚实的披露可能带来一项未言明的评分惩罚。该研究把披露问题锚定在教师评分充满价值判断的现实之中，并论证透明度必须双向运行。
 
@@ -109,13 +118,13 @@ ai_assist:
 
 课程层面的许可同样不解决披露困境。在 [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al.（2026）]]对 85 名师范生的研究中——他们的考核明确允许生成式 AI——自我声明总计 28 位使用者，匿名调查中为 32 位，且两个来源按课程朝相反方向分歧：课程 A 记录了 14 位调查使用者但仅 8 项声明，而课程 C 反转了这一模式（调查 8，声明 12）。作者把这种分歧读作计分后果塑造了学生愿意让什么可见，为"声明系统测量披露行为，其程度不亚于测量使用"增添了师范生证据。
 
-### 文化与情境变异
+## 文化与情境变异
 
 政策文本不等于政策感知。[[cross-cultural-student-perceptions-genai-computing|跨国研究]]发现，尽管机构政策在功能上相同，不同大学的学生对同一批 AI 辅助实践给出不同评价——**决定被感知的"错"的是文化，而非政策措辞**。政策协调并不产生感知协调，于是文化多元的群体对同一规则做不同解读，这是执法与评分中的一项公平关切，主张以情境化说明取代抽象规则陈述。
 
 语言背景而非文化是第二个变异轴。[[li-genai-assessment-language-equity-2026|Li（2026）]]论证，由于同一界面既执行被允许的语言编辑，又执行被禁止的实质性起草，把 GenAI 当作一类未授权协助的诚信规则，会把语言劣势转化为诚信风险：彻底禁止会移除一种可规模化的语言支持，"允许但须披露"的体制则把合规工作量压给使用更频繁、更迭代的 EAL 学生，而对超出小改动的编辑的禁令，则把怀疑集中到流畅度变化最大的写作者身上。Li 提出的界线是基于目的的而非基于工具的——被允许的支持不添加新想法、新来源，也不对分析做实质重排，而替代则创造或实质重塑被评估的智力工作——且它锚定在考核构念上，因为对流畅与地道表达加分的评分量表，会为 EAL 写作者引入与构念无关的方差（[[assessment-validity]]）。该框架把 [[ai-detection|检测器]]产出降格为一种很少构成证明的分诊信号，更偏好通过分阶段提交、草稿历史、可验证的来源链和一场简短的、与构念一致的对话来做三角验证；它并校准 [[ai-use-disclosure|披露]]，使常规支持不带来超过单语同伴所承担成本的合规成本。
 
-### 从 policing 到教学
+## 从管治到教学
 
 知识库记录了一次范式转变：从把 AI 当作要被 policed 的诚信威胁，转向把 AI 当作一种工具，其恰当使用必须被教授。这是 [[ai-literacy]] 的伦理维度，并在实践设计中 [[embodied-learning|具身]]：
 
@@ -126,6 +135,9 @@ ai_assist:
 
 - **是设计，而非检测：Bochum 案例。** 波鸿鲁尔大学对核物理与粒子 [[physics-education|物理]]导论课程的重新设计（[[ai-particle-physics-education-redesign-2026|Mikhasenko et al.，2026]]），把其 AI 政策连接到一项实际的诚信失败，而非连接到检测：因为习题提前公开，一些学生准备了 AI 生成的解答并抄写到黑板上，而未参与本应进行的推理。作者把这当作设计问题处理——把习题移到准备好的课堂讨论中，并让笔试成为成绩决定因素——而非 policing 问题，同时明确允许 AI 用于学习，解释为何验证是学生的责任，并注意到开放的、允许 AI 的家庭作业也带来了依赖加剧、对付费模型的不均等获取，以及助教工作量问题。
 
+- **独立核验，以及它所针对的依赖。** Ragab（2026）提出一个五层模型 —— 带人工审查的负责任 [[educational-policy-ai|政策]]、[[authentic-assessment|真实性考核]]、独立的能力核验，以及有监督的年度与结业评估 —— 理由是检测承担不了这一负担（[[ragab-ai-integrity-verification-model-2026|Ragab，2026]]）。这类设计所针对的杠杆是经验性的：在 1,045 名中国本科生中，对 [[generative-ai|生成式 AI]] 的依赖 —— 而非机会或低能力 —— 承载了与不诚信的关联，β = 0.63，而所感到的 [[agency|能动性]] 与它正向同向，因为这种掌控感为其本想约束的委托发放了许可（[[dai-genai-academic-dishonesty-2026|Dai 等人，2026]]）。
+- **教师自身的福祉也是这幅图景的一部分。** 从 r/Professors 的 2,000 条帖子样本中，[[mohammadi-instructors-cheating-forum-2026|Mohammadi 等人（2026）]] 归纳出三种动机 —— 保护学习、保护自己、维护诚信与公平 —— 以及从考核重设计到监控的策略族。
+
 对教学倒置最清晰的表述来自 [[ai-agents-joyful-assessment-third-space-2026|El Khoury 与 Ma（2026）]]，他们论证，从怀疑出发的改革会把教育想象收窄到控制、合规与监控之上，而诚信应当是"为参与而设计的考核"的**后果**，而非其起点。他们支撑性的观察是一个在本知识库别处已可见的机制：不投入是使不诚实更可能出现的条件之一，于是那些压力测试考核、或在不处理参与的情况下约束 AI 使用的议程，会把问题的一部分 untouched。
 
 英语世界以外高等教育中的学生，用自己的话描述同样的张力。[[mulisa-students-genai-integrity-perspectives-2026|Mulisa 与 Mezgebu（2026）]]访谈了一所埃塞俄比亚大学的 27 名本科生，发现学生群体自我分裂：几乎所有人都用过 GenAI 或看到同伴用过，多数人认为它提升了学业成就，少数人径直称这种使用是不当行为，而几乎所有人都描述了一个不平坦的赛场，其中 AI 辅助的作业比诚实努力拿到更好的成绩，独立工作者则失去了勤勉感。这一记述最尖锐之处是学生对抄袭的定义，它在技术上站得住却不完整——如果抄袭意味着复现他人的文字，那么一篇未复制任何东西的机器写成文本就不是抄袭——这也是为何作者论证该定义必须扩展到复制粘贴之外，遵循 Ka 与 Chan（2025）的"AI 抄袭（AI-plagiarism）"，以及为何他们把学生自身的信念，而非仅机构规则，置于伦理使用的中心。
@@ -134,7 +146,9 @@ ai_assist:
 
 第三条路线介于检测与重新设计之间。[[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar（2026）]]用学期初的 [[learning-analytics|LMS 痕迹]]预测 AI 辅助作弊风险，AUC 为 0.763，并把输出框定为低利害的学业指导——提醒、作业跟进、简短 check-in——而非不当行为的证据，坚持该分数与评分及纪律记录分开。
 
-### 关联
+把笔交给学生，所产生的边界比强加一条边界更严格。[[rodak-hire-ai-future-focused-literacy-2026|Rodak（2026）]] 让一门必修本科商务写作课程三个班的 72 名学生共同撰写课程 AI 政策，然后为一位具名助手写一份工作范围说明。每一份清单都排除了未披露的复制粘贴、让助手完成作业、以及 AI 编造的来源，而 81% 的人聘请该助手做练习题与校对。这些界线读起来是关于作者身份的，而不是关于合规的，它们把“我可以用 AI 吗”变成“这件事在不在工作范围之内”。
+
+## 概念之间的联系
 
 学术诚信与 [[assessment-validity]]、[[ai-literacy]]、[[ai-detection]]、[[authentic-assessment]]、[[assessment]]、[[educational-policy-ai]]、[[regulation]]、[[ethics]] 和 [[equity-in-ai-education]] 相连。它是 [[ai-education|教育中的 AI]] 的伦理维度，与 [[cognitive-offloading|过度依赖]]不可分离，也与 [[generative-ai]] 如何重塑 [[higher-ed]] 与 [[k-12]] 学习这一更大问题不可分离。
 
@@ -146,14 +160,12 @@ ai_assist:
 - **GenAI 击败了自动评分作业（2026）：** ChatGPT 在刻意加固、可自动评分的 Qiskit（量子计算）作业设计的全部 150 次测试会话中通过——[[personalized-learning|个性化]]、隐藏参考文献、反思、[[simulation|模拟器]]执行——显示基于量表的评分者无法可靠区分 AI 完成与学生完成的工作，并主张直接评估理解（[[chatgpt-qiskit-homework-autogradable-2026]]）。
 - **AI 时代的评估——产出作为证据（2026）：** 一项大学层面的分析论证，AI 考核危机是考核设计与 [[learning-gains|学习成果]]之间的错位，而非仅仅是不诚实；它记录了监控的危害（锁定浏览器、眼动追踪）、一个"披露陷阱"（学生害怕声明 AI 使用会降低分数）、一种给社会经济地位打分的成绩差距（付费与免费 [[llm]] 层级），以及教师在 policing AI 中的"教学倦怠"——主张以过程为基础的评估取代检测（[[evaluation-age-ai-output-evidence-2026]]）。
 
-### 更新的证据：伦理推理、检测极限、AI 营销与幽灵学生
+## 更新的证据：伦理推理、检测极限、AI 营销与幽灵学生
 
 一波近期研究锐化了生成式 AI 时代学术诚信的图景：
 
 - **中学生对 AI 抄袭的推理是情境性的，而非固定规则。** [[chan-rethinking-aigiarism-secondary-integrity-2026|Chan（2026）]]显示，中学生对"AI 抄袭"的伦理推理是细致且依赖情境的——许多人认为 AI 辅助的工作在支持理解时可接受，在替代自己的努力时有问题——挑战了"学生只是缺乏诚信"或"单一政策能覆盖其伦理"的假设。
-
 - **学生自己关心的是学习损失，而这是不当行为框架所遗漏的。** [[ting-ai-learning-ownership-purpose-2026|Ting 等人（2026）]]访谈了 14 名本科生，发现他们划的界线不在于使用 AI，而在于 AI 产出了他们并未做过的工作；他们会追问工具在哪里提供了帮助，又在哪里替他们做了本需自己学会去做的事。作者论证，师生对话被过于狭窄地框定在 不当行为周围，因为在他们记述中，学生担心的是丧失 [[transfer-of-learning|技能]]，以及作品是否仍属于自己——这些关切与他们的教师相近。他们守住这条界线的理由也各不相同（技能丧失、所有权与自豪感、道德上的反对），而在个别情形中，截止日期、工作量与成绩的压力压过了这些理由。
-
 - **仅靠真实性考核无法保障诚信。** [[kofinas-generative-ai-authentic-assessment-integrity-2025|Kofinas et al.（2025）]]发现，阅卷人通常**无法区分**有 GenAI 输入与无 GenAI 输入的考核，且考核真实性水平**没有影响**防范或检测 GenAI 使用的能力。高等教育界"不能仅靠真实性考核来控制 GenAI 的影响"——这是对 [[authentic-assessment|考核重新设计]]策略的直接挑战，后者必须与其他措施配对。
 - **诚信指导必须延伸进研究过程，而不仅是 [[teacher-role|教学]]。** [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai & Chan（2026）]]发现，研究生在研究任务中 enact [[ai-literacy]]，并论证目前聚焦教学与考核的负责任使用政策，必须 [[scaffolding|为 GenAI 在研究中的伦理维度提供脚手架]]——那里的关切集中在原创性、作者身份、[[privacy|数据隐私]]与技能退化，而非仅是抄袭。
 - **目的必须先于政策。** [[taylor-lacroix-purpose-before-policy-academic-integrity-2026|Taylor & LaCroix（2026）]]论证，GenAI 使用是否构成不当行为，取决于大学的*目的*。违规案件上升反映了新自由主义大学中的结构性不连贯，技术热情、企业影响与政策执行相互冲突——把学生留作对其行为负责的一方，而这些行为是被机构隐性地塑造的。大学若在明示使命、教学与技术实践之间缺乏一致性，就无法可信地执行诚信。
@@ -166,7 +178,6 @@ ai_assist:
 
 对"重新设计优于检测"最清晰的学科案例来自计算教育。对计算与 [[cs-education|编程教育]]中生成式 AI 的 72 项研究的 [[meta-analysis-systematic-review|系统性综述]]（[[kumar-genai-computing-education-systematic-review-2026|Kumar、Wongsirichot 与 Nanthaamornphong 2026]]）发现，只有**三项**研究考察 AI 检测机制——这是它整合的 14 个主题中最薄的证据基础——而课程与考核重新设计则由 25 项研究支撑。该综述把这种不平衡当作诊断而非偶然：机构基本更新了政策文件，却没有重新设计考核，多数教师处于*容忍*而非*转变*的整合层级，某一国别教师样本中有 70% 明确要求就"抗 AI 考核设计"接受培训。其建议的回应很具体：在每门课程至少一项高利害考核中加入口头成分或其他使过程可见的要素，并把与 AI 产出的批判性互动（阅读、测试、修改、解释、批评）做成学生工作中被计分、可观察的成分，而非留给学生自行裁量的愿景（[[assessment-validity]]）。
 一项对 72 项高等教育评估研究的 PRISMA 综述发现，三种设计回应因 GenAI 反复出现：过程导向、真实性与口头及对话式路径；它们被框定为叠加在既有的效度、真实性与对齐原则之上，而非取代这些原则（[[higher-ed-assessments-genai-systematic-review|Crompton 与 Burke（2026）]]）。
-
 - **编造参考文献已进入已发表的计算教育记录。** [[citation-errors-hallucinations-computing-education-2026|Denny et al.（2026）]]把 ACM 数字图书馆 5,225 篇计算教育论文的 113,588 条参考文献与全部 723,930 篇出版物、15,872,533 条参考文献的语料做了比对，人工核实了 828 条可疑记录，确认 14 篇论文中有 30 条参考文献包含可证实的编造书目信息，全部发表于 2025 或 2026 年。在 SIGCSE Technical Symposium 上，核实数从 2025 年的 3 条升至 2026 年的 17 条，落在 2026 年会议论文的 2.3% 中，而幻觉参考文献在 2025 年出现在五个 SIGCSE 主办或协作的会议上。这个数字只有配上它的配重才完整：被标记的多数参考文献是良性的——229 条是 ACM 元数据不匹配而 PDF 正确，188 条是有效的书目变体——所以会议数字是一个刻意给出的下界。它落在作者身上，而不仅在 [[peer-assessment]] 身上，因为核对参考文献列表的审稿人无法核实每一条，而 [[llm]] 辅助的起草使编造一条看似可信的引用变得廉价。
 
 - **清晰而不重新设计，会把滥用推向侧面而非移除。** [[petricini-zipf-ai-use-ethics-matrix-2026|Petricini & Zipf（2026）]]把 AI 使用画在两条轴上——学生的意图与努力对环境所提供的清晰与支持——并报告其访谈数据中最稠密的象限是*焦虑式合规*，学生在那里隐藏正当帮助（语法支持、概念解释、组织自己的想法）以避免 [[legal-issues-and-risks|错误指控]]。他们的警告是有方向的：在规则变清晰但 [[assessment]] 仍奖励速度与产品之处，意识到政策的学生会转入*高效规避*，而非转入*良性的工具使用*。[[austin-ai-agents-assignment-redesign-2026|Austin（2026）]]从作业一侧到达同一结论——当智能体在无可视推理的情况下满足每一项量表标准时，对决策轨迹（信心校准、被否决的 AI 建议、课程特定约束）评分取代了检测，她指出后者双向失准。
@@ -178,7 +189,6 @@ ai_assist:
 **诚信政策正从"谁写了这些文字"转向"谁有了这些想法"，而检测器正被重建以匹配。** IdeaLens 从大纲而非行文预测想法的来源：在 50 个按 AI 生成的方案从零写就的故事上，它把 68% 标为 AI，而 Pangram 4 为 8%、其行文训练的对照为 0%；它把 94.7% 经 AI 润色的人写文本标为人类（[[idealens-detecting-ai-ideas-2026|Rajendhran et al.（2026）]]）。其自身的伦理声明称，该输出是一个统计估计，不得单独用作 AI 使用的确证证据。
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 等（2026）]]从一个学院内部记录了这套体制：改换了考核形式的教师说"几乎无法判断一名学生在作业写作中是否使用了 AI"，而愤怒的学生则要求诉诸良知与"羞耻感"，而不是检测。
-
 - **更好的感知并不改变考核所能认证的东西。** 一个报告 99.56% 分类准确率的 YOLOv11 姿态估计监考系统，例示了检测路线的极限：它把姿态对照一个行为标签来测量，不报告关于不当行为的任何地面真值，也不提供分群分析（[[arif-automated-online-proctoring-yolov11-2026|Arif 等，2026]]）。Villanueva 所主张的补救，是在关键阶段取得关于学习的充分证据，而不是对每一份提交物施加最大限度的监控。
 
 **国际政策中的诚信语言并未固定出一个可操作的含义，而这就是发现，而不是缺口。** [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem（2026）]]通过批判性话语分析分析了 2023 至 2026 年间的四份 UNESCO 与 OECD 出版物，发现八个反复出现的词——责任、透明、信任、人的能动性、原创性、真实性、负责任使用与增强——承载着规范性重量，却在文件之间不断更换所指。UNESCO 让提供者对核心价值负责、让教育者对教学上恰当的互动负责；OECD 则把同一个词挪进教师的专业判断。
@@ -186,6 +196,14 @@ ai_assist:
 OECD（2023）记录，截至 2024 年初，受调查的 18 个国家中没有一个制定了针对教育的生成式 AI 专门监管，其中九个把治理下放到学校层面。以 Ahmed 的"非述行性"来读，这套词汇表达了伦理上的回应性，却没有任何落实机制，于是责任被每一个行动者同时援引，却不在任何一处落地。Hashem 把结果命名为一种变化中的**作弊习性**：在长期不确定性下重新校准的、朝向正当参与的倾向，并因学生带来的学术资本而分层，作弊与"被作弊"被当作并发状况而非备选。这一切都是从政策文本中提出的，而非在学生身上观察到的。
 
 在 546 名本科生中，诚信在五个感知维度中排名第一（5 分制的 3.79 分），且不因学位项目而异；这说明学科间的差异在于 AI 使用与技能需求，而不在于诚信有多重要（[[crisol-moya-integrity-assessment-2026|Crisol Moya 等，2026]]）。
+
+- **以问责、而非作者身份，作为诚信标准。** [[bayraktar-beyond-ai-proofing-assessment-validity-2026|Bayraktar（2026）]] 把诚信政策的治理功能与考核的教学功能分开：政策界定允许的协助，而考核仍须确立学生能否演示出预期的学习，她把这重新框定为对作品中各项决策的智识问责。
+
+两篇新论文把诚信问题从管治移向设计。一项对大学政策的犯罪学混合方法分析把 AI 能力与机构规则之间的落差读作文化滞后，规则写在其所治理的实践之后（[[mcclanahan-ai-cheating-policies-cultural-lag-2026|McClanahan 与 Dickinson，2026]]）。一篇立场论文论证，在生成解与学生解已无法区分之后，代码制品不再能证明作者身份，并提出改为评估一个解的设计与解释（[[oyelere-code-programming-assessment-genai-2026|Oyelere 与 Kadams，2026]]）。
+
+Winstone、Gravett 与 Elkington 反转了通常的逻辑：诚信是通过让过程可见而产生的，而不是通过管治产品。他们的 Black Box Assessment 要求看到工作如何展开的窗口，把错误与修订当作可计分的证据，并接受该设计无法让考核 AI 免疫 —— 只能让真正的投入成为最省力、最有回报的路径（[[black-box-assessment-winstone-2026|Winstone 等人，2026]]）。
+
+能力强的模型所抵抗的东西，比“AI 免疫”文献所暗示的更窄。在 61 道经过教师加固的题目上做基准测试，[[mingole-ai-proofing-higher-education-assessments-2026|Mingole 等人（2026）]] 发现只有增加策略复杂性才能稳定降低得分，而要求特定的输出格式反而把得分抬到未加固对照之上。
 
 ## 常见误解
 
@@ -216,11 +234,14 @@ OECD（2023）记录，截至 2024 年初，受调查的 18 个国家中没有�
 - [[ai-education]]
 - [[legal-issues-and-risks]]
 - [[social-norms-ai-use]] — 正式政策之下不成文的规则
-
 - [[reflection]]
 
 ## 关联文章
 
+- [[benau-effort-legitimate-academic-work-genai-2026]] — 努力作为正当学术工作的基础：对 AI 的伦理不安需要一条能力标准，而不是工时的标准（Benau，2026）
+- [[mcclanahan-ai-cheating-policies-cultural-lag-2026]] — AI 能力与院校规则之间的文化滞后：规则写在其所治理的实践之后（McClanahan 与 Dickinson，2026）
+- [[oyelere-code-programming-assessment-genai-2026]] — 生成解已无法与学生解区分之后，改为评估解的设计与解释（Oyelere 与 Kadams，2026）
+- [[bayraktar-beyond-ai-proofing-assessment-validity-2026]] — 以智识问责、而非作者身份，作为诚信标准（Bayraktar，2026）
 - [[hashem-cheating-habitus-ai-governance-discourse-2026]] — 四份 UNESCO 与 OECD 文件作为话语来读：漂浮的能指、非述行性与变化中的作弊习性
 - [[ivory-psychology-assessment-integrity-2026]] — 一整个只需最小努力就能通过的心理学项目，以及放它过关的评分标准（Ivory et al. 2026）
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — 师范生在宽松政策下拒绝 GenAI；"陷阱"框架与调查–声明落差
@@ -254,7 +275,6 @@ OECD（2023）记录，截至 2024 年初，受调查的 18 个国家中没有�
 - [[austin-ai-agents-assignment-redesign-2026]] — 当 AI 智能体能完成作业时，对推理轨迹评分（Austin 2026）
 - [[ai-written-admissions-essays-penalized-2026]] — AI 写成的申请文书普遍存在却受到处罚
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — 谁行动、谁知道、谁回答？生成式 AI 高等教育研究中能动性、认识责任与问责的语料辅助话语分析
-
 - [[genai-governance-australian-higher-ed-2026]] — 划定授权边界：澳大利亚高等教育中生成式 AI 治理的比较式政策情境研究
 - [[argus-academic-integrity-genai-2026]] — Argus：生成式 AI 时代的学术诚信
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — 行业审计发现：持授权者与持框架者的大学在考核暴露上无差异，即协调问题的经验对应物
@@ -262,8 +282,12 @@ OECD（2023）记录，截至 2024 年初，受调查的 18 个国家中没有�
 - [[reddit-genai-education-discourse-analysis-2026]] — 三年半的教育 Reddit：执法主导，诚信争议是师生互动的主要场所（Yüce et al. 2026）
 - [[boyd-swan-employer-responses-genai-2026]] — 调查实验：学生 AI 使用的替代框架惩罚了高 GPA 申请人的录用与薪资；现场测试是两组唯一共同选择的补救办法
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI：面向人类可读、抗机器的阅读界面
-
 - [[issa-teamwork-framework-academic-integrity-2024]] — 以逐成员核验的小组作业评估作为一种认证设计（Issa 与 Hall 2024）
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — 可回答性而非文本比例才是诚信问题
 - [[crisol-moya-integrity-assessment-2026]] — 546 名学生：诚信排名第一，且在各学位项目间持平（Crisol Moya 等 2026）
-
+- [[ragab-ai-integrity-verification-model-2026]] — 以独立能力核验取代检测的五层诚信模型（Ragab，2026）
+- [[black-box-assessment-winstone-2026]] — Black Box Assessment：让过程可见，把错误与修订当作可计分证据，而非追求 AI 免疫（Winstone 等人，2026）
+- [[rodak-hire-ai-future-focused-literacy-2026]] — 72 名学生共同撰写课程 AI 政策并为具名助手写工作范围：81% 把它聘为练习与校对的帮手（Rodak，2026）
+- [[wyszynski-genai-user-input-engineering-statics-2026]] — 215 人静力学课程：伦理模块使知识检查 100% 正确，求助型求解却无变化（Wyszynski 等，2026）
+- [[burke-ai-proliferation-college-students-replication-2026]] — 同一批五所大学相隔两年：称 AI 使用为作弊者从 56% 降至 42%，而 30.2% 仍在使用（Burke 等人，2026）
+- [[mingole-ai-proofing-higher-education-assessments-2026]] — 61 道教师加固题目：只有增加策略复杂性才能稳定降低模型得分（Mingole 等人，2026）
