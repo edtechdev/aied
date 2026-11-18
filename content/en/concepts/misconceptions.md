@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-18T16:55:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -10,6 +10,7 @@ ethics: [trust-calibration]
 audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
+connected_podcasts: [confident-and-wrong-misconceptions]
 reviewed_by: [editor]
 ---
 
