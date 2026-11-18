@@ -12,10 +12,6 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
-    role: translation
-    date: "2026-11-01"
-    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: revision
     date: "2026-09-22"
@@ -24,14 +20,14 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
 translation_of: concepts/learning-design
 source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
-  - model: deepseek/deepseek-v4.1-flash-1017
-    role: translation
-    date: "2026-11-17"
-    agent: hermes-agent
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*

@@ -16,7 +16,7 @@ source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash
+  - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
     agent: hermes-agent

@@ -5,7 +5,6 @@ type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
 page_kind: [evaluation]
-- evaluation
 confidence: high
 methods: [usability-research]
 source_updated: "2026-11-04T12:05:00-05:00"

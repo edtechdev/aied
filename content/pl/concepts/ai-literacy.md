@@ -22,7 +22,6 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
-    agent: hermes-agent
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*

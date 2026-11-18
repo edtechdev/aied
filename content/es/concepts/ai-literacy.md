@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en IA
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-17T22:30:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-11-17T07:20:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -218,6 +218,8 @@ Los marcos y los estudios empíricos convergen en un conjunto de directrices pr�
 
 La oferta es escasa incluso donde ya existe un currículo profesional. Entre 417 estudiantes de grado de profesiones de la salud en una universidad pública de Ghana, el 76,3% (n = 318) declaró no haber recibido formación previa en uso responsable de la IA, y el 40,8% calificó de inadecuada la orientación del personal académico frente al 28,1% que la consideró apropiada ([[ago-prompt-literacy-allied-health-2026|Ago et al. (2026)]]). El diseño de intervenciones en las profesiones de la salud parte, por tanto, de personas novatas a las que nunca se les enseñó el material, y no de quienes amplían un currículo existente.
 
+La secuenciación aparece como la decisión de diseño que más importa en dos de los trabajos recientes del campo. [[powell-chatbot-enhanced-oer-composition-2026|Powell et al. (2026)]] colocaron vídeos breves de alfabetización en IA en las semanas 1 a 4 de un curso asincrónico de composición, antes de las tareas en las que el estudiantado necesitaría el asistente, y tanto estudiantes como docentes señalaron esos vídeos como el elemento que hizo legible el uso aceptable. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] aplicaron la misma lógica con el profesorado: ocho semanas, tiempo remunerado, una cohorte y un marco compartido para criticar los resultados, que movió la familiaridad autoinformada de forma modesta (de 3.2 a 3.5 en una escala de cinco puntos) mientras la comodidad subió a cuatro o cinco en todos los participantes.
+
 ## Medir la alfabetización en IA
 
 Una línea de investigación distinta trata la alfabetización en IA no solo como un objetivo de la instrucción, sino como un constructo que debe medirse. La línea de evaluación de esta literatura distingue la alfabetización **autoinformada** de la **basada en el desempeño**: los autoinformes divergen marcadamente de la competencia demostrada (el profesorado la sobreestima en torno a un 40%), y las medidas basadas en el desempeño predicen la integración de la IA en el aula mucho mejor que las encuestas de confianza (r≈0,72 frente a 0,31). El trabajo de intervención reproduce esa divergencia al nivel del comportamiento: en [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], ni las actitudes hacia la IA generativa ni una escala general de conciencia metacognitiva predijeron la regulación de la interacción con los LLM por parte del estudiantado ni sus puntuaciones finales en la tarea (r = 0,01 y r = 0,04, ambas no significativas), mientras que las conductas que el taller sí cambió (rechazar prompts poco especificados, juzgar la corrección de la respuesta y formular una pregunta de seguimiento) sí rastrearon la calidad de la respuesta. Están surgiendo instrumentos validados para cerrar esta brecha: el [[jin-glat-genai-literacy-assessment|GLAT]] ofrece una evaluación de la alfabetización en IA generativa validada psicométricamente, y los perfiles diagnósticos (quienes sobreestiman frente a quienes son novatos reales) permiten a quienes diseñan dirigir el apoyo allí donde se necesita. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]] cartografían directamente ese panorama de instrumentos: revisan 80 marcos validados —69 de alfabetización digital y 11 de alfabetización en IA— publicados entre enero de 2014 y febrero de 2025. La IA ha atraído la alfabetización digital hacia la ética y ha reformulado la comunicación para incluir la [[student-ai-interaction|interacción entre personas y la IA]], mientras que la regulación metacognitiva y la colaboración entre el profesorado y la IA siguen siendo los aspectos menos especificados. Para el diseño y la investigación, esto vincula la alfabetización en IA con la [[educational-measurement|medición educativa]] y con la [[assessment|evaluación]] en general: un marco de alfabetización es tan útil como los instrumentos con los que se rastrea el crecimiento, y los continuos por etapas requieren una medición fiable para situar en ellos a quien aprende. La auditoría de K–12 detrás de una de esas progresiones es más contundente: nueve instrumentos validados, solo uno para primera infancia, y ninguno que capture el proceso de usar, interrogar o revisar con IA ([[guo-ai-literacy-developmental-paces-2026|Guo et al., 2026]]).
@@ -330,7 +332,8 @@ Quienes dirigen disciplinas pueden mantener visible la vertiente crítica. Una a
 - [[civic-and-political-education]]
 
 ## Artículos conectados
-- [[feng-ai-literacy-psychological-dimensions-2026]] — 58 estudios de educación escolar: seis dimensiones docentes y ocho estudiantiles comparten un núcleo psicológico (Feng y Carolus, 2026)
+- [[jordan-faculty-ai-oer-creation-2025]] — Del prompt a la práctica: una iniciativa centrada en el profesorado para crear REA con IA (Jordan et al., 2025)
+- [[powell-chatbot-enhanced-oer-composition-2026]] — El texto responde: OER con chatbot en Composition II asíncrona (Powell et al., 2026)[[feng-ai-literacy-psychological-dimensions-2026]] — 58 estudios de educación escolar: seis dimensiones docentes y ocho estudiantiles comparten un núcleo psicológico (Feng y Carolus, 2026)
 - [[guo-ai-literacy-developmental-paces-2026]] — 118 registros de K–12 en nueve categorías: una progresión de diez consideraciones desde el juego sensorial hasta los proyectos en equipo, y nueve instrumentos validados, ninguno de los cuales captura el proceso (Guo, Ali y Wong, 2026)
 - [[cerioli-human-centered-ai-literacy-schools-2026]] — La revisión de iRAISE en cuatro países: 84 de 194 Estados llevan la alfabetización mediática e informacional más allá de las habilidades técnicas en los currículos, y los factores humanos decidieron los resultados en los cuatro sistemas (Cerioli, 2026)
 - [[islam-credibility-weaker-llms-2026]] — 42 estudiantes de grado: responder primero bajó la credibilidad de la IA a 5,65 frente a 6,60 con acceso sin restricciones, con la verificación en 6,22 (Islam et al., 2026)
