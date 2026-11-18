@@ -114,8 +114,6 @@ Cakupan bidang subjek adalah bagian terbesar dari bidang ini. [[discipline-speci
 
 Klaster tempat sebuah subjek jatuh juga menentukan halaman mana yang memiliki buktinya. [[vocational-education|Pendidikan dan pelatihan vokasional]] diarsipkan di bawah tingkat alih-alih di sini, karena ia lebih menamai jalur kualifikasi daripada sebuah disiplin.
 
-.
-
 ## Tingkat dan konteks
 
 Alat AI yang sama bertemu dengan pengaturan yang sangat berbeda, dan tingkat pendidikan dijaga terpisah dari pedagogi agar temuan tidak diam-diam berpindah di antaranya: [[k-12|sekolah K-12]], yang kini terbagi menjadi [[early-childhood-elementary-ai-education|pendidikan anak usia dini]], [[primary-education|pendidikan dasar]] dan [[secondary-education|pendidikan menengah]]; [[higher-ed|pendidikan tinggi]], yang terbagi menjadi studi [[undergraduate-education|sarjana]] dan [[graduate-education|pascasarjana]]; serta pengaturan di luar tangga itu, [[adult-learning|pembelajaran dewasa]], [[vocational-education|pendidikan dan pelatihan vokasional]], [[special-education|pendidikan khusus]], dan [[teacher-education|pendidikan guru]]. [[education-levels|Jenjang pendidikan]] membandingkannya. Konsep yang berdekatan dengan domain dan melintasi tingkat meliputi [[universal-design-for-learning|desain universal untuk pembelajaran]], [[neurodiversity|keberagaman neurologis]], [[multilingual-learning|pembelajaran multibahasa]], dan [[social-emotional-learning|pembelajaran sosial-emosional]].
@@ -127,8 +125,6 @@ Tingkat adalah variabel yang paling bersih membalik sebuah rekomendasi desain. B
 Bukti pascasarjana menunjuk arah sebaliknya, menuju kemitraan dengan manusia yang akuntabel. Fasilitator kesiapan mencapai [[self-efficacy|efikasi diri]] penelitian melalui dukungan pembimbing (β = 0.201 tidak langsung), bukan melalui penggunaan alat ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo et al. (2026)]]). Sebuah tinjauan doktoral mencapai kesimpulan desain yang sama dari etika: legitimasi bergantung pada tugas alih-alih alat, pengungkapan proporsional dengan signifikansi intelektual, dan tata kelola ditinjau pada tonggak-tonggak ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja et al. (2026)]]).
 
 Yang tidak berubah adalah bahwa manusia memegang pertimbangannya. Mahasiswa dalam seminar pascasarjana hanya menerima keluaran AI setelah penjaga gerbang yang berpengetahuan memeriksanya, yang dibaca Chen sebagai agensi yang didelegasikan alih-alih diserahkan ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). Frekuensi adalah metrik lintas-tingkat yang salah: ia memprediksi kompetensi pascasarjana pada β = 0.030 begitu etika dan regulasi diri masuk ke model ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]).
-
-.
 
 ## Penilaian dan pengukuran
 

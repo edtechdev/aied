@@ -1,7 +1,7 @@
 ---
 title: "Mylné predstavy o AI"
 created: "2026-11-12T04:04:17-05:00"
-updated: "2026-11-12T04:04:17-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,13 +11,17 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -38,11 +42,11 @@ ai_assist:
 
 Mylné predstavy o AI majú význam, pretože sú kognitívnym predstupňom škodlivého správania, ktoré znalostná báza dokumentuje pod [[cognitive-offloading|Nadmerným spoliehaním]] a obavami o [[academic-integrity]]. Ľudia sa málokedy vydajú [[ai-misuse-learning-harm|zneužívať]] AI úmyselne; robia to preto, že nepresné mentálne modely ich vedú k chybnému umiestneniu dôvery, vynechaniu overovania a zámene výstupu za porozumenie. Vo vzdelávaní tieto chyby formujú všetko od toho, ako sa študenti učia, po to, ako učitelia a inštitúcie navrhujú kurikulá, [[assessment]] a politiku.
 
-### Čo sú mylné predstavy o AI
+## Čo sú mylné predstavy o AI
 
 Mylná predstava tu nie je iba neznalosť toho, ako model funguje — je to aktívne zastávané, často sebautvrdzujúce presvedčenie, ktoré vytvára systematické chyby v tom, ako študenti s AI pracujú. Sú priamo analogické odborovým mylným predstavám študovaným v [[learning-sciences|vede o učení]]: stabilné, plausibilné a odolné voči korekcii, kým im človek nečelí priamo. Ich náprava je jedným z hlavných cieľov vzdelávania v oblasti [[ai-literacy]] a [[trust-calibration]].
 
-### Bežné mylné predstavy v akademickom kontexte
+## Bežné mylné predstavy v akademickom kontexte
 
 - **Blud autority** — považovať výstup [[llm]] za overený fakt namiesto pravdepodobnostného dokončenia. Vedie k nekritickému prijímaniu a k vzorcu hľadania odpovede namiesto porozumenia, ktorý dokumentuje výskum [[intelligent-tutoring|AI doučovania]], kde študenti prijímajú odpoveď modelu bez toho, aby ju overili voči [[hallucination-risk]].
 - **Ilúzia nezávislej kontroly** — považovať [[ai-feedback-quality|spätnú väzbu AI]] za vonkajšiu korekciu, keď model zrkadlí vaše vlastné uvažovanie. Východisková presnosť používateľov bola dominantným prediktorom konečného výkonu a promptovanie špecifické pre [[ai-sycophancy|sykofantiu]] znížilo pozičné napodobňovanie (OR = 0,26), ale šírenie chýb nechalo nedotknuté, takže školenie študentov nie je zárukou ([[contextual-sycophancy-ai-literacy|Koyuturk et al. (2026)]]).
@@ -57,17 +61,17 @@ Mylná predstava tu nie je iba neznalosť toho, ako model funguje — je to akt�
 
 Šedá zóna integrity má štruktúru, nie len dva extrémy. Rozhovory s 20 študentmi spolu s ich chatovými záznamami a dokumentmi kurzu našli päť samostatných miest, kde žije politika AI, od zámeru fakulty cez formálnu politiku a vlastnú politiku študenta až po skutočnú prax, plus 23 odlišných racionalizácií v šiestich triedach ([[student-rationalization-ai-writing|Kim et al., 2026]]). Racionalizácie boli ad hoc a post hoc, zostavené tak, aby vysvetlili použitie, ktoré už prebehlo, skôr než aby ho viedli. Striktný zákaz používania skôr nezabránil použitiu, než zosilnil morálny konflikt u študentov, ktorí chceli vyhovieť, čo stavia cieľ korekcie do miesta politiky, nie do formulácie pravidla.
 
-### Inštitucionálne a verejné mýty o AI
+## Inštitucionálne a verejné mýty o AI
 
 Mylné predstavy nie sú obmedzené na študentov — prestupujú inštitucionálnym a verejným diskurzom o AI, ktorý študenti dedia. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] demontujú osem zakorenených „mýtov", ktoré formujú politiku a výučbu vysokých škôl: že AI je skutočne „umelá" (skôr než postavená na vykorisťovanej ľudskej práci), že je skutočne „inteligentná" a [[agentic-ai|agentná]], že bez problémov „urobí svet lepším miestom", že je „objektívna a nezaujatá", že Spojené štáty majú monopol jedinej superveľmoci, že nenaruší trh práce, že „revolucionizuje [[higher-ed|vyššie vzdelávanie]]" a že učitelia dokážu spoľahlivo rozpoznať prácu vytvorenú AI. Tieto inštitucionálne mýty sú východiskovým zdrojom mnohých študentských mylných predstáv opísaných vyššie — najpriamejšie [[trust|ilúzie neutrality]] („AI je objektívna") a [[trust-calibration|bludu autority]] („AI je inteligentná") a chybnej kalibrácie detekcie, ktorá vedie študentov k predpokladu, že neodhaliteľné, neoveriteľné použitie je bezpečné. Tam, kde študenti prijímajú a konajú podľa inštitucionálne opakovaných mýtov, vyžaduje ich náprava čeliť nielen presvedčeniu študenta, ale aj diskurzu, ktorý ho živí.
 
-### Prečo sú mylné predstavy dôležité pre učenie
+## Prečo sú mylné predstavy dôležité pre učenie
 
 Mylné predstavy sa priamo prekladajú do správania, ktoré spôsobuje ujmu v učení. Presvedčenie, že „AI má vždy pravdu", potláča overovanie; presvedčenie, že „používať AI je učenie", potláča namáhavé spracovanie; presvedčenie, že „to nie je podvod", obchádza metakognitívnu revíziu, ktorá upevňuje porozumenie. V tomto zmysle sú mylné predstavy vyššie než [[ai-misuse-learning-harm]] dokumentované naprieč dôkazovou základňou znalostnej bázy.
 
 Presvedčenie, že používať AI je učenie, nie je len zastávané pred použitím; nástroj ho môže vyrábať. [[llm-fallacy-misattribution|Kim et al.]] opisujú omyl LLM, pri ktorom je nepriehľadný, plynulý a okamžitý výstup chybne čítaný ako dôkaz vlastnej kompetencie používateľa, takže vnímaná a skutočná schopnosť sa rozchádzajú o rozdiel, ktorý nazývajú ΔC. Pretože mechanizmom je plynulosť a nejednoznačnosť atribúcie, nie chyba, omyl pretrváva, či je model presný alebo halucinuje, čo znamená, že správna odpoveď s podporou AI nie je dôkazom, že presvedčenie bolo opravené.
 
-### Mylné predstavy mimo študentov: učitelia, inštitúcie a verejnosť
+## Mylné predstavy mimo študentov: učitelia, inštitúcie a verejnosť
 
 Mylné predstavy o AI nie sú obmedzené na študujúcich — sú všadeprítomné medzi dospelými, ktorí formujú vzdelávanie:
 
@@ -79,7 +83,7 @@ Táto šírka je dôvodom, prečo znalostná báza považuje mylné predstavy za
 
 Pedagogické mylné predstavy učiteľov sú zrkadlovým obrazom tohto: nejde o neporozumenie AI, ale o dôkazne nepodložené presvedčenia o výučbe, ktoré pretrvávajú bez ohľadu na AI. [[etq-ai-conversational-teacher-training-2026|Miranda a Calvani (2026)]] to instrumentujú dotazníkom Effective Teaching Questionnaire, kde 50 binárnych položiek mapuje na [[meta-analysis-systematic-review|meta-analytické]] veľkosti účinku (d ≥ 0,40), takže odpoveď učiteľa možno porovnať s dôkazne ukotveným benchmarkom — a ich zistením je, že mylné predstavy sú hlboké a špecifické. Pilotná štúdia so 123 vzdelávateľmi v Taliansku našla najostrejší nesúhlas pri tvrdení o štýloch učenia (78 % učiteľov hájilo párovanie vizuálne/sluchové), potom pri inklúzii a [[group-work|skupinovej práci]] (68 %) a preťažení EdTech (54 %); priemerné zladenie sa pohybovalo okolo 50 % naprieč dimenziami plánovania, kognitívnej, evaluatívnej a manažérskej. Pre dizajn korekcie sú dôležité dva detaily. Po prvé, mylné predstavy prežívajú univerzitné vzdelávanie aj učiteľskú prax — autori opisujú „internalizovaný zdravý rozum", ktorý „predchádza vstupu do školy" a pretrváva — takže to nie sú vedomostné medzery, ktoré prednáška uzavrie. Po druhé, keď konverzačná AI znovu zaviedla tie isté položky až po validácii učiteľovho vlastného kontextu, 41 % námietok citovalo skutočné kontextové obmedzenia — veľkosti tried, študentov so [[special-education|špeciálnymi vzdelávacími potrebami]], pokrytie [[curriculum-design|kurikula]] — skôr než samotné dôkazy. Ďalších 5,9 % označilo systém za „algoritmický dogma-stroj": hraničnú podmienku, keď normatívne rámovanie plodí obrannosť namiesto reflexie. Pre rozvoj [[teacher-ai-competency]] to znamená, že diagnostika plus dialóg môže odhaliť, ktoré presvedčenia sú dôkazne podložený nesúhlas a ktoré mylná predstava, čo je rozdiel, ktorý samotné skóre urobiť nedokáže.
 
-### Náprava mylných predstáv
+## Náprava mylných predstáv
 
 Náprava nie je jednorazové oznámenie, ale priebežný proces [[ai-literacy]], ktorý rozvíja [[metacognition]] a [[self-regulated-learning]]: pomáha študentom (a dospelým okolo nich) sledovať svoje spoliehanie, kalibrovať, kedy modelu veriť a kedy ho spochybniť, a vidieť cenu obchádzania vlastnej [[cognitive-offloading|kognitívnej práce]]. Pretože sú mylné predstavy odolné, najlepšie sa riešia priamym konfrontovaním s dôkazmi — vrátane zistenia, že študenti často *nevnímajú* ujmu na učení spôsobenú zneužitím AI.
 
@@ -95,7 +99,7 @@ Bernstein a Sibia (2026) ukazujú, že analógie generované [[generative-ai|Gen
 
 **Mylné predstavy generované modelom sú merateľná schopnosť, nie náhoda.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] postavili SocraticTrap-CS, ktorý promptoval sedem modelov s otvorenými váhami, aby napísali „[[socratic-method|sokratovskú]] pascu" pre 35 základných konceptov informatiky — vysvetlenie, ktoré je plynulé a autoritatívne, ale spočíva na jemnej, odborovo špecifickej chybe. Z 241 promptovaných segmentov bolo 221 (91,7 %) potvrdených ako strategické mylné predstavy väčšinovým hlasom expertov (Fleissov κ = 0,9487), bez významných rozdielov medzi oblasťami informatiky; 66,5 % potvrdených chýb bolo koncepčných, nie faktických, a žiadna nebola čisto logická. Plynulosť je mechanizmus, nie obrana: presvedčivosť dosahovala v priemere 3,71 na päťbodovej škále a bola silne závislá od modelu, a frekvencia a závažnosť sa oddelili, pričom dva modely, ktoré produkovali pasce najčastejšie, boli tiež hodnotené ako najpresvedčivejšie. Pretože zle formulovaná otázka študenta môže sama pôsobiť ako adversariálny prompt, autori považujú mieru za schopnosť pri adversariálnom promptovaní, nie za základnú mieru pre bežné študijné sedenia — a tvrdia, že úloha [[ai-literacy]] sa posúva od faktickej kontroly jednotlivých tvrdení ku koncepčnému overovaniu a validácii mentálnych modelov. To je temnejšia tvár generatívneho využitia vyššie: tá istá schopnosť, ktorá môže zasiať produktívnu diskusiu medzi rovesníkmi, môže tiež upevniť chybu, ktorú si študent už vytváral.
 
-### Refutačné korekcie bežných mylných predstáv o AI
+## Refutačné korekcie bežných mylných predstáv o AI
 
 Pretože mylné predstavy sú aktívne zastávané a odolné, najpriamejší spôsob, ako ich riešiť — aj na tejto stránke — je štruktúra [[refutation-text]]: **pomenujte mylnú predstavu, výslovne ju vyvráťte a uveďte správne poňatie.** Nasledujúce položky aplikujú túto štruktúru na najzávažnejšie mylné predstavy o AI a o učení, výučbe a vzdelávaní:
 

@@ -1,5 +1,5 @@
 ---
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: IA agêntica
 created: "2026-08-01T04:07:54-04:00"
 updated: "2026-11-13T18:20:00-05:00"
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -73,6 +77,10 @@ A [[research-methods-aied|pesquisa]] da base de conhecimento abrange desenho e a
 - **Teste de robustez adversarial:** o [[adversarial-stress-testing-role-playing-agents|teste de estresse multiagente]] coordena agentes Interrogador, Alvo e Juiz para revelar modos de falha invisíveis a testes de estratégia única, reduzindo as pontuações de robustez em 0,17–0,20 pontos — crítico para a consistência de persona e a [[pedagogical-safety|implantação segura]] com estudantes.
 - **Aplicações por domínio:** sistemas agênticos aparecem em vários domínios, incluindo [[learnmate2-llm-adaptive-learning|agentes de aprendizagem adaptativa]], [[educlaw-bench-pedagogical-llm-agents-2026|agentes pedagógicos de LLM]], [[guided-llm-scaffolding-independent-learning|andaimento por LLM guiado]], [[cyberagents-gamified-cybersecurity-learning-2026|agentes gamificados de aprendizagem em segurança cibernética]], e [[hdr-brachytherapy-agentic-ai-simulation-2026|agentes de simulação clínica]].
 - **Agentes web como avaliadores da experiência de aprendizagem:** um agente web autônomo "descritivo" que navega por uma [[learning-design|lição]] on-line como um estudante — [[ai-web-agents-lesson-design-2025|Wang, Mitchell e Piech (2025)]] — produz uma descrição rica o bastante para prever a evasão de estudantes e dar ao desenhista um feedback acionável antes que estudantes reais se engajem, superando uma coorte simulada completa e todas as linhas de base em um curso global de CS1. Isso posiciona a avaliação agêntica (um agente como crítico substituto de uma experiência de aprendizagem) como um uso distinto e de baixo custo da IA agêntica, ao lado dos agentes que ensinam ou desenham.
+
+- **A marcação agêntica é uma questão de confiabilidade antes de ser uma questão de carga de trabalho.** Uma implantação agêntica do Claude Code recebeu três arquivos de rubrica e 60 provas manuscritas digitalizadas de meio de semestre de um curso de computação gráfica. Suas notas concordaram com o instrutor em r = 0.97, com erro absoluto médio de 0.85 em uma prova de 20 pontos, viés médio positivo de 0.68 em favor da IA e ICC de teste-reteste = 0.96 em duas sessões com uma semana de intervalo. O agregado esconde onde ela falha: o kappa ponderado variou de 0.98 em múltipla escolha a 0.65 em itens avaliativos, com diagramas desenhados à mão como o pior caso ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Um curso, um instrutor e um conjunto de rubricas localizam a variância; eles não estabelecem que a marcação agêntica generaliza.
+
+As arquiteturas agênticas compram cobertura a um custo mensurável em precisão. No parâmetro de referência de [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et al. (2026)]] com 926 amostras de anúncios de emprego e 1,696 habilidades de referência, um agente ReAct com uma ferramenta de consulta ao ESCO liderou a revocação ampliada com 89.7%, contra 83.7% da melhor configuração generativa e 49.1% do melhor modelo de embeddings. Sua precisão foi de 22.7%, deixando o F1 em 36.3%, abaixo de um Gemini 2.5 Flash ancorado em ferramentas, com 51.6%, e rodou em cerca de 16 segundos por amostra. A revocação é a métrica certa quando um consultor humano poda a lista; o produto não mediado precisa da alternativa ancorada.
 
 ### Sistemas multiagente
 
@@ -142,12 +150,12 @@ Nem todo comportamento agêntico precisa ser assistência suave. A [[ai-agents-c
 
 Um estudo de como a IA agêntica alcança resultados de aprendizagem por vias *psicológicas*, e não tecnológicas, fornece o ângulo de mensuração que faltava. [[pramod-agentic-ai-motivational-pathways-2026|Pramod e Patil (2026)]] pesquisaram 398 estudantes de administração na Índia e modelaram autonomia, competência e relacionamento ao lado de interatividade, compartilhamento de informação e [[community-of-inquiry|presença social]] percebida; a autonomia foi o mais forte impulsionador [[motivation|motivacional]] (β = 0,504) e a interatividade o mais forte impulsionador social (0,468), com a motivação e a presença social alimentando o [[student-engagement|engajamento]] com força quase igual (0,533 e 0,493) antes de o engajamento prever o desempenho de aprendizagem percebido (0,671). A lição de desenho é que a rota social não é automática: um construto de ambiente colaborativo moveu a presença social percebida menos do que a simples responsividade e o compartilhamento de informação, de modo que tratar um agente como uma interface de chat em vez de como um participante deixa a maior parte dessa via sem uso.
 
-## Implicações para professores e desenhistas instrucionais
+## Implicações para professores e designers instrucionais
 
-Para professores, corpo docente e [[learning-design|desenhistas instrucionais]], a IA agêntica muda tanto o que é possível quanto o que precisa ser resguardado:
+Para professores, corpo docente e [[learning-design|designers instrucionais]], a IA agêntica muda tanto o que é possível quanto o que precisa ser resguardado:
 
 - **Realocar o esforço para o trabalho de maior valor.** Agentes podem assumir o planejamento de lições, a geração e validação de questões, a triagem de feedback e a recuperação de recursos. Os professores deveriam tratar isso como andaimento automatizável que libera tempo para o que os agentes não conseguem fazer: ensino relacional, julgamento contextual e o desenho de experiências de aprendizagem. Os [[ai-tpack-teacher-multi-agent-workflow|fluxos de trabalho multiagente voltados ao professor]] são um modelo promissor.
-- **Manter o trabalho cognitivo de quem aprende em primeiro plano.** A questão central de desenho não é "o que o agente pode fazer?", mas "o que *quem aprende* precisa fazer?". Os desenhistas instrucionais deveriam configurar os sistemas agênticos para que andaimentem, e não substituam, o planejamento, o monitoramento e o esforço de quem aprende — usando [[scaffolding|andaimento]] dinâmico e [[desirable-difficulties|atrito intencional]] para proteger a [[agency|autonomia]] e evitar a [[cognitive-offloading|dependência excessiva]].
+- **Manter o trabalho cognitivo de quem aprende em primeiro plano.** A questão central de desenho não é "o que o agente pode fazer?", mas "o que *quem aprende* precisa fazer?". Os designers instrucionais deveriam configurar os sistemas agênticos para que andaimentem, e não substituam, o planejamento, o monitoramento e o esforço de quem aprende — usando [[scaffolding|andaimento]] dinâmico e [[desirable-difficulties|atrito intencional]] para proteger a [[agency|autonomia]] e evitar a [[cognitive-offloading|dependência excessiva]].
 - **Desenhar para verificação e processo, e não apenas para resultado.** Quando os agentes podem gerar trabalho sob demanda, o artefato deixa de certificar a aprendizagem. Os professores deveriam parear as ferramentas agênticas com [[process-oriented-assessment|avaliação baseada em processo]] (defesa oral, tarefas [[tool-invariant-framework-agentic-ai|invariantes a ferramentas]], verificações) para que a compreensão — e não apenas a produção — seja medida.
 - **Curar e fundamentar os agentes na pedagogia.** A evidência de benchmarks mostra que agentes fundamentados em teoria superam o prompting bruto. Os desenhistas deveriam fundamentar o comportamento dos agentes em frameworks instrucionais estabelecidos (por exemplo, liberação gradual, questionamento socrático, [[learning-theories|teoria da aprendizagem]]) em vez de recorrer ao encadeamento genérico de ferramentas.
 - **Reter a supervisão e o julgamento humanos.** Sistemas multiagente e autônomos tornam essencial o desenho [[human-in-the-loop-ai|com humano no circuito]]: decida onde uma pessoa intervém, quem responde e como as falhas são capturadas. O teste adversarial ajuda a trazer à tona modos de falha antes da implantação.
@@ -210,6 +218,7 @@ A IA agêntica não é nem uma panaceia nem um dano inevitável: seu valor depen
 
 ## Artigos conectados
 
+- [[alghamdi-claude-code-agentic-grading-2026]] — marcação agêntica de 60 provas manuscritas: r = .97 no geral, com kappa caindo a .65 em itens avaliativos
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agentes organizados em torno de um programa de capacidades revisável, com o estudante como membro
 
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomia, competência, relacionamento e presença social como as vias da IA agêntica para o engajamento (Pramod & Patil 2026)
@@ -238,3 +247,5 @@ A IA agêntica não é nem uma panaceia nem um dano inevitável: seu valor depen
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — DCE com agentes de IA em PBL de software; automação versus compreensão
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Avaliação de um Sistema Multiagente de LLM Orientado ao Andaimento para Treinamento em Entrevista Clínica
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agentes de Treinamento em Ética: Facilitando a Educação em Ética Baseada em Grupos com Dramatização de Papéis e Discussão para a Reflexão e Exploração Éticas
+
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Comparando abordagens de IA para extração automatizada de habilidades: de embeddings a sistemas agênticos para a educação em engenharia

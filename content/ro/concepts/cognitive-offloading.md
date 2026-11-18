@@ -11,14 +11,18 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-04T17:25:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-16T09:06:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -104,18 +108,21 @@ Articolele din baza de cunoștințe documentează descărcarea cognitivă de-a l
 
 - **Ce poate preda o persoană depinde de experiența ei cu sarcina.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] face ordinea sarcinilor relativă la persoană: ce este de ordin superior pentru un novice este de ordin inferior pentru cineva care stăpânește deja procedura, așa că descărcarea permisă ar trebui să crească cu experiența și să se oprească la nucleul muncii.
 
+**Testul constitutiv are o bază în structura sarcinii.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] plasează linia dintre internet și GenAI în taxonomia SOLO a lui Biggs. Internetul ușura sarcinile multistructurale, dar învățăcelul trebuia totuși să construiască legăturile care ridică munca la nivel relațional, în timp ce GenAI produce acea structură la cerere. Odată ce artefactul nu mai evidențiază gândirea relațională pe care sarcina era proiectată să o provoace, evaluarea trebuie să pondereze procesul de producere a lui.
+
 **Capitalul cognitiv este stocul din care descărcarea trage.** [[riva-cognitive-capital-generative-ai-review-2026|Riva et al. (2026)]] reîncadrează descărcarea ca schimbare a unui stoc, nu ca act. Capitalul cognitiv este cunoaștere, capacitate și practică acumulate, regenerabile și epuizabile, deținute de indivizi și de organizații, ținute separat de capacitatea sistemului om-IA, astfel încât un câștig de performanță comună poate fi văzut alături de o pierdere de capacitate umană. Cele patru mecanisme ale lor - substituirea practicii, schelarea și feedbackul, calibrarea metacognitivă și agregarea organizațională - produc șapte principii, între care că performanța asistată nu este competență reținută și că descărcarea unei sarcini diferă de descărcarea practicii care construiește competența. Statistica motivantă este o implementare etapizată la 5.172 de agenți de suport clienți, unde un asistent a ridicat problemele rezolvate pe oră cu 15%; cifra descrie sistemul comun, iar dacă agenții mai puteau face munca fără ajutor este o măsurătoare pe care literatura recenzată nu o conține.
 
 ### Când descărcarea scade, în loc să crească
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] raportează un experiment preregistrat (N = 317) în care adulții au învățat conținut nou din fișe convenționale sau de la un asistent general care era restricționat la aceleași fișe. Condiția IA a scăzut descărcarea cognitivă măsurată, în loc să o ridice (mediană −0,27, interval credibil 95% −0,58 până la 0,04). Procesarea profundă a scăzut totuși, dar printr-un lanț în care descărcarea mai mică a urmărit [[critical-thinking|gândirea critică]] mai slabă, care la rândul ei a prezis procesare profundă mai slabă (0,78). Dezorganizarea a crescut cu 0,84, fără niciun mediator care să poarte efectul. Constatarea este un avertisment pentru relatarea standard: descărcarea nu este singura rută prin care un mediu [[generative-ai|IA]] erodează procesarea, iar o condiție poate lăsa descărcarea neatinsă în timp ce suprimă ceea ce descărcarea trebuia să protejeze.
 
+- **Aranjamentul, nu cantitatea, decide dacă descărcarea ajută.** Studenții de licență care au folosit GenAI în fișe de design thinking care păstrau la învățăcel încadrarea problemei, compararea și revizuirea au raportat o [[self-efficacy|autoeficacitate]] creativă mai ridicată și produse mai bine evaluate decât studenții care au folosit același model fără restricții ([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026]]).
+
 ### Descărcarea empatiei, nu doar a cogniției
 
 Aceeași înțelegere se aplică muncii emoționale, iar acolo dovezile sunt mai noi. [[shastry-gray-empathy-offloading-2026|Shastry și Gray (2026)]] numesc descărcarea empatiei: când un sistem poate oferi sprijin emoțional, oamenii oferă mai puțin ei înșiși (N = 2.223 în patru studii). Disponibilitatea de a preda empatia unui model a urmărit credința în capacitatea modelului de a o avea (b = 0,44), iar un experiment care a ridicat acea credință prin acoperire obișnuită de presă a mișcat descărcarea prin ea (indirect 0,73, direct necredibil). Partea instructivă este unde se despart autoevaluarea și comportamentul: când li s-a spus că un student a primit sprijin de la un chatbot, participanții și-au evaluat propria descărcare mai jos decât pentru un prieten sau un terapeut, apoi au ales mai puține cuvinte de empatie și mai multe cuvinte de indiferență despre acel student.
 
 - **Descărcarea se desparte într-un câștig vizibil și o pierdere invizibilă.** [[pradubwate-illusion-ai-competence-miscalibration-2026|Pradubwate (2026)]] susține că eșecul de calibrare documentat pe această pagină este o inferență *transdimensională*, nu o supraîncredere generală. Competența operațională (promptare, iterare, integrare) returnează feedback imediat și neambiguu, în timp ce competența evaluativă (judecarea acurateței unui rezultat) returnează feedback întârziat, rar sau absent. Descărcarea ridică înțelegerea percepută și scade procesarea profundă simultan, iar doar prima este trăită. De aceea avertismentele despre limitările IA sunt intervenții slabe: ele adresează convingeri despre sistem, în timp ce iluzia este generată de o absență în experiența proprie a utilizatorului. Recenzia este conceptuală, fără date proprii.
-
 
 ## Supra-dependența: când descărcarea devine dăunătoare
 
@@ -167,7 +174,6 @@ Scara pe care o urmărește această pagină are trei trepte, iar doar primele d
 
 **Accesul la [[ai-feedback-quality|feedbackul IA]] nu este același tratament ca angajarea cu el, iar măsurile încărcării le separă.** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger și Liening (2026)]] au realizat un studiu longitudinal de teren de cinci săptămâni într-un joc de simulare de afaceri (**234 de studenți, 1.147 de observații săptămânale**) și au separat atribuirea de primire. Simpla oferire de acces la feedbackul IA conversațional nu a mișcat nici încărcarea **extraneous** (β = 0,071, p = 0,481), nici pe cea **germane** (β = 0,019, p = 0,807). Însă studenții care l-au folosit **regulat** au raportat o încărcare **germane semnificativ mai mare** decât neutilizatorii experimentali (β = -0,468, p < 0,001) și decât grupul de control (β = -0,253, p = 0,028), în timp ce **încărcarea extraneous nu a fost redusă niciodată** de acces sau de angajare (F(1, 219) = 0,499; pe bază de folosire F(3, 214) = 0,172). Acesta este tiparul teoretic interesant și opusul afirmației obișnuite: intervenția i-a făcut pe învățăcei să muncească mai intens la material, fără a face mediul mai ușor. Încărcarea intrinsecă a condus încărcarea extraneous (**β = 0,647, p < 0,001**), iar autoreglarea metacognitivă a condus încărcarea germane (**β = 0,363, p < 0,001**), cu încărcarea extraneous asociată negativ cu cea germane (β = -0,178, p < 0,001), exact cum specifică CLT. Ambele încărcări au **scăzut de asemenea pe parcursul celor cinci săptămâni** (extraneous β = -0,388, p < 0,001), un efect de noutate vizibil pe o măsură cognitivă, iar nu pe una de angajament.
 
-
 Teoria încărcării cognitive (Sweller) oferă o lentilă teoretică contestată asupra [[cognitive-psychology|memoriei de lucru]] și a instruirii: încărcarea intrinsecă (complexitatea sarcinii), încărcarea extraneous (frecțiunea prezentării) și încărcarea germane (efortul de construire a schemelor). O IA bine proiectată ar trebui să reducă încărcarea extraneous păstrând procesarea germane; o IA prost integrată le reduce pe toate trei, lăsând studenții cu sarcini finalizate și învățare goală. Merită notat că afirmațiile teoriei sunt contestate în literatura mai largă, dar încadrarea ei rămâne influentă în modul în care sunt discutate efectele descărcării.
 
 **Miza descărcării la nivel de profesie.** Cadrul bunurilor cognitive comune ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) extinde descărcarea de la nivel individual la cel colectiv: când IA le permite tinerilor profesioniști să sară peste efortul cognitiv care construiește expertiza profundă, ea poate epuiza în timp fondul de expertiză partajată al unei profesii; "frânghia de validare" înseamnă că supravegherea eficace a IA depinde de însăși măiestria pe care adopția IA poate submina. Aceasta reîncadrează descărcarea individuală și decăderea deprinderilor ca o problemă de regenerare la nivel de sistem, cu implicații de [[governance|guvernanță]].
@@ -190,7 +196,11 @@ Aceeași logică transformă modelarea recompensei într-un instrument de design
 
 **Configurația de ocolire are un preț civic pe care studiile de învățare nu îl facturează.** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz și Castro Samayoa (2026)]] susțin că descărcarea voită a investigației, analizei, evaluării și sintezei atrofiază practica de care depinde cetățenia democratică. Regula lor de secvențiere este distincția ocolire/schelă enunțată developmental: aritmetica înainte de calculatoare, convențiile de citare înainte de managerii de referințe și un chatbot introdus după competență, nu în locul ei. Ei numesc și cadrul care face ocolirea atractivă: premisa eficienței, potrivit căreia scopul temelor școlare este să le termini repede.
 
+Dovezile cauzale mai noi separă finalizarea sarcinii de învățarea ei. Într-un experiment 2×2 cu 24 de studenți canadieni, începătorii cu ChatGPT au trecut 410.7 din 500 de teste generate, față de 80.7 fără el, în timp ce studenții intermediari nu au câștigat nimic și au performat mai bine cu resurse convenționale ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). Un studiu separat pe 22 de programatori a constatat că GitHub Copilot a produs un avantaj de performanță de 14.09 puncte și o încărcare mai mică în timpul sarcinii, fără niciun beneficiu la un retest neasistat aproximativ o săptămână mai târziu ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). Descărcarea poate ridica rezultatul lăsând neatinsă capacitatea de a-l produce.
 
+Două studii recente dau descărcării un aparat de măsurare. Scala cu 35 de itemi a [[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrah și colegii]] transformă procesul în șase dimensiuni raportabile — supra-dependență, înțelegere superficială, verificare redusă, memorie mai slabă, efort diminuat și evaluare critică redusă — validată pe 616 elevi de secundar. Sondajul [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharma, Manani și Thakwani]] asupra studenților universitari a constatat că dependența de ChatGPT a fost asociată cu o funcționare executivă mai slabă în principal prin stresul academic, calea directă căzând la P = 0.328 odată ce stresul a intrat în model. Ambele aparțin de [[executive-function|funcția executivă]], care deține capacitatea pe care descărcarea este considerată a o deplasa.
+
+[[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri, Chatziioannou și Palaiologos (2026)]] cercetează migrarea constructului în IA generativă într-o recenzie narativă care nu agregă nimic și nu raportează date noi. Cadrul lor guvernează analiza: descărcarea este o realocare a efortului, iar întrebarea este dacă efortul realocat se întoarce ca învățare. Ceea ce se schimbă odată cu IA generativă este obiectul — raționament, sinteză și evaluare, nu regăsire și aritmetică — astfel încât rezultatul mai vechi că descărcarea prezice o reținere întârziată mai slabă se aplică acum muncii de ordin superior. Singura lor afirmație de design este concretă: prompturile care cer justificare sau evaluare au redus descărcarea și au îmbunătățit calitatea argumentării, ceea ce face din designul interacțiunii, nu din capacitatea modelului, pârghia.
 
 ## Idei greșite frecvente
 
@@ -219,9 +229,12 @@ Aceeași logică transformă modelarea recompensei într-un instrument de design
 - [[retrieval-spacing-interleaving]] - contra-practica la a lăsa un model să regăsească în locul învățăcelului
 - [[cognitive-surrender]]
 - [[reflection]]
+- [[executive-function]]
 
 ## Articole conexe
 
+- [[chen-genai-programming-understanding-2026]] — programatori începători și intermediari: ChatGPT a ridicat trecerile testelor la 410.7 față de 80.7, în timp ce înțelegerea nu a urmat (Chen et al., 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 de novici: avantajul de 14.09 puncte al Copilot nu a supraviețuit unui retest neasistat o săptămână mai târziu (Gardella et al., 2026)
 - [[riva-cognitive-capital-generative-ai-review-2026]] — Capitalul cognitiv: descărcarea ca retragere dintr-un stoc regenerabil de capacitate
 - [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Calibrare transdimensională: fluența operațională citită greșit ca competență evaluativă și de domeniu (recenzie conceptuală)
 - [[akcaoglu-offloading-ladder-experience-2026]] — Scara descărcării: cum experiența schimbă ce ar trebui să predea învățăceii și practicienii IA (Akcaoglu 2026)
@@ -275,3 +288,7 @@ Aceeași logică transformă modelarea recompensei într-un instrument de design
 - [[zhang-usefulness-dependence-genai-2026]] — De la „utilitate” la „dependență”: mecanismul evolutiv dinamic al comportamentelor de folosire a IA generative
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Retragerea reglatorului ridică descărcarea și scade calitatea rezultatului
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Regula de secvențiere aplicată developmental: aritmetica înainte de calculatoare, citările înainte de managerii de referințe
+- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Șase dimensiuni autodeclarate ale dificultății de învățare mediate de IA
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Stresul academic mediază relația dintre dependența de ChatGPT și disfuncția executivă
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Descărcarea cognitivă în era IA generative: o recenzie narativă care leagă descărcarea de memorie, învățare și funcția executivă
+- [[ho-invariant-core-faculty-development-2027]] — Nivelurile SOLO explică de ce GenAI poate furniza artefactul relațional, astfel încât evaluarea trebuie să pondereze procesul (Ho 2026)

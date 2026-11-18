@@ -11,14 +11,18 @@ level: [higher ed]
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-11-05T01:53:02-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -42,7 +46,7 @@ Návrh učenia prepája schopnosti AI a efektívnu pedagogiku. Kým [[curriculum
 
 [[learning-analytics|Analytika učenia]] a generatívna AI podporujú odlišné časti návrhu: naprieč 11 ohniskovými skupinami na jednej austrálskej univerzite sa diskurz o analytike najčastejšie spájal s kontextom a [[problem-solving|riešením problémov]] na úrovni kurzu (0,32), zatiaľ čo diskurz o GenAI sa sústreďoval na [[assessment|návrh hodnotenia]] (0,26) a na návrh pre sebaurčenie študenta (0,15) ([[claassen-learning-analytics-genai-learning-design-2026|Claassen a spol. (2026)]]).
 
-### Kľúčové výskumné témy
+## Kľúčové výskumné témy
 
 **Tvorba obsahu s podporou AI** je najpriamejšie transformujúca aplikácia. **[[curriculum-as-code-instructional-design-2026|Kurikulum ako kód]]** predstavuje šesťfázovú architektúru, ktorá prepája generatívnu AI s LaTeXom a Pythonom s cieľom automatizovať tvorbu materiálov pre [[stem-education|STEM]], overenú na 8 moduloch a 28 projektových kontextoch s hodnotením kvality študentmi 8,5 - 9,9/10. **[[instructional-agents-multi-agent-course-gen|Inštrukční agenti]]** používajú multiagentový rámec postavený okolo modelu ADDIE, v ktorom roloví agenti (vyučujúci, návrhár výučby, koordinátor kurzu) spolupracujú na tvorbe kompletných kurzových materiálov. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** poskytuje štruktúrovaný postup na adaptívnu [[pedagogy|pedagogickú]] [[video-education|tvorbu videa]] ukotvenú v kurzových korpusoch a ukazuje, že pre tvorbu vzdelávacieho obsahu je nevyhnutná explicitná pedagogická štruktúra, a nie iba znalosť AI. Platformy [[generative-ai|generatívnej AI]] dokážu princípy návrhu učenia stelesniť aj v obsahu, ktorý vytvárajú: [[ai-modeling-problem-generation-platform-2026|platforma na generovanie úloh matematického modelovania s podporou AI]] spojila osvedčené princípy návrhu s [[rag|generovaním rozšíreným o vyhľadávanie]] a bola vyvinutá postupom ADDIE, aby vytvárala pedagogicky ukotvené úlohy a odporúčania, ktoré bežným generátorom obsahu chýbajú. Výnos takejto tvorby obsahu a hodín s podporou AI však sprostredkúva odbornosť samotného učiteľa: [[choi-teacher-ai-interaction-lesson-design-2026|Choi a spol. (2026)]] zistili, že skúsení učitelia kriticky prispôsobujú návrhy hodín vytvorené AI študentom a kontextu (opakovaným promptovaním a rozvíjaním výstupu), kým začiatočníci majú tendenciu prijímať návrhy AI priamo, takže pedagogická hodnota nástrojov na tvorbu obsahu s AI závisí od skúsenosti učiteľa a jeho znalosti AI, nie od samotného nástroja. Systematický prehľad [[wang-teacher-ai-co-design-review-2026|spolunávrhu učebných úloh učiteľom a AI]] (Wang, Liu a Islam 2026) potvrdzuje tento vzorec vo veľkom rozsahu naprieč 28 štúdiami (2015 - 2025): GenAI sa používa najmä na plánovanie hodín, generovanie promptov a tvorivé napady a dominantným režimom spolupráce je AI ako asistent a generátor obsahu, a nie plnohodnotný spolunávrhár, pričom ako prínosy sa opakovane objavujú efektívnosť, responzívnosť, [[creativity|kreativita]] a [[equity-in-ai-education|rovnosť]]. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] zostruje zistenie o odbornosti učiteľa pre návrh skupinových aktivít: skúsení učitelia vytvárajú bohatšie, synergickejšie a lepšie na ZPD zladené rolové architektúry v kooperatívnych aktivitách navrhnutých AI než začiatočníci, bez ohľadu na oboznámenosť s AI, a "pedagogickú promptovú gramotnosť" označuje za páku, ktorá premieňa výstup AI na efektívne [[collaborative-learning|diferencované skupinové učenie]].
 
@@ -51,7 +55,6 @@ Návrh učenia prepája schopnosti AI a efektívnu pedagogiku. Kým [[curriculum
 Kde generované materiály zaostávajú, je zladenie s kurikulom: sedem učiteľov matematiky hodnotilo [[productive-failure|úlohy produktívneho zlyhania]] vytvorené AI v celkovej kvalite blízko ľudským (M = 17,19 oproti 17,43 z 25), ale nižšie v zladení s kurikulom (M = 2,57 oproti 3,29), takže generované úlohy stále potrebovali úpravy dĺžky, [[reading-education|čitateľskej úrovne]] a vizuálov ([[rhaimi-productivemath-2025|Rhaimi a spol. (2025)]]).
 
 Kvalita prózy je druhá medzera a nie je to to isté ako čitateľská úroveň. Clark a spol. (2026) ukazujú, že výstup modelu nadmerne používa konštrukcie so známymi nákladmi na porozumenie - n-gramy s nízkou frekvenciou, nahromadené podstatné mená, denominálne slovesá, dlhé závislosti, redukované objektové relatívy - v porovnaní s parafrázami zachovávajúcimi význam a ľudskými základmi, takže vysvetlenia a čítania napísané AI potrebujú editorský prechod, ktorý formula čitateľskej úrovne nezachytí ([[clark-ai-generated-language-readability-2026]]).
-
 
 **Pedagogicky ukotvené AI tutorstvo** uplatňuje princípy inštrukčného dizajnu na návrh systémov AI. **[[didactical-teacher-assistant-dimensional-modeling|Brisson a spol.]]** vytvorili didakticky riadeného učiteľského asistenta na báze [[llm]], v ktorom je stratégia tutorstva zakódovaná v explicitnej externej vrstve, čo robí výber obsahu a didaktické štruktúrovanie sledovateľným a reprodukovateľným a priamo rieši obavy z nepriehľadnosti v [[rethinking-scaffolding-llm-tutors]]. **[[instructional-guidance-genai-learning|Hou a spol.]]** ukázali, že päťkrokový rámec [[prompt-engineering|promptovania]] ukotvený v generatívnej [[learning-theories|teórii učenia]] výrazne zlepšil kognitívne výsledky vyššieho rádu, čo dokazuje, že efektívnosť učenia určuje inštrukčné vedenie, a nie iba prístup k AI. Obe práce sa spájajú s [[scaffolding]] a [[intelligent-tutoring]].
 
@@ -65,25 +68,29 @@ Kvalita prózy je druhá medzera a nie je to to isté ako čitateľská úroveň
 
 **Agenti AI pre inštrukčný dizajn** rozširujú odbor do [[agentic-ai|agentickej AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** je prvý štandardizovaný, teóriou ukotvený benchmark na hodnotenie agentov inštrukčného dizajnu založených na LLM; jeho kontextová matica s 25 795 scenármi (51 kontextových premenných × 33 podkrokov ISD z ADDIE) ukazuje, že agenti ukotvení v klasických rámcoch ISD (ADDIE, Dick a Carey, Rapid Prototyping ISD) prekonávajú agentov bez teórie, čím empiricky potvrdzuje, že inštrukčný dizajn je štruktúrovaná disciplína, a nie generická úloha promptovania. Agenti nie sú len *tvorcami* návrhov, ale aj ich *kritikmi*: [[ai-web-agents-lesson-design-2025|Wang, Mitchell a Piech (2025)]] používajú jedného autonómneho webového agenta, ktorý prechádza viackrokovú online hodinu ako študent, aby vyhodnotil návrh učenia *predtým*, než sa do neho zapoja skutoční študenti; jeho opis [[student-experience|študentskej skúsenosti]] predpovedá, kde začiatočníci vypadnú, a prináša použiteľnú spätnú väzbu k návrhu, pričom prekonáva všetky východiská a dokonca aj simulovanú kohortu študentov v globálnom kurze CS1. To rámuje predspustené agentické hodnotenie ako nízkonákladový doplnok ľudskej iterácie návrhu. **[[wang-multi-agent-systems-learning-designers-2025]]** a **[[instructional-agents-multi-agent-course-gen|Inštrukční agenti]]** skúmajú multiagentové rámce, ktoré orchestrujú rolových agentov okolo modelov inštrukčného dizajnu, zatiaľ čo **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** skúma, ako učitelia a agenti spoločne uplatňujú technologicko-pedagogicko-obsahové vedomosti. Táto práca prepája inštrukčný dizajn s [[benchmark|benchmarkovaním]], [[ai-ed-evaluation|hodnotením AI vo vzdelávaní]] a návrhom [[curriculum-design|kurikula]] vo veľkom rozsahu.
 
-### Prepojenia na súvisiace koncepty
+**Prispôsobený obsah stojí čas, nie zručnosť s nástrojom.** Vzdelávací profesionáli uviedli čas, materiály a konkurenčné povinnosti ako prekážky pri tvorbe diferencovaných materiálov a len 12 % označilo technológiu za významnú bariéru ([[hilali-adaptive-learning-challenges-2026|Hilali a Chergui (2026)]]).
+
+## Prepojenia na súvisiace koncepty
 
 Návrh učenia je mostová disciplína [[ai-education|AI vo vzdelávaní]]: prepája [[curriculum-design]] (čo učiť) s [[scaffolding]] (ako podporovať študentov), [[educational-development]] (ako pripraviť pedagógov) a [[generative-ai]] (samotné nástroje). Je tesne spojený s [[teacher-role]], pretože nástroje AI pretvárajú to, čo návrhári učenia a učitelia robia, a s [[ai-literacy]], pretože efektívna integrácia AI vyžaduje, aby pedagógovia rozumeli schopnostiam a obmedzeniam AI. Návrhová práca sa napokon rozkladá na *poradie činností*: [[pedagogical-patterns|pedagogické vzory]] katalogizujú overené poradia krokov, takže návrhár môže rozhodnúť, kde v hodine AI patrí, a nie iba čo do nej zaradiť. [[learning-sciences|Vedy o učení]] sú výskumným odborom za týmito princípmi: kým táto stránka pokrýva profesijnú prax vytvárania vzdelávacích skúseností, vedy o učení skúmajú túto prax a jej návrhy empiricky a vytvárajú kognitívne, [[motivation|motivačné]] a sociálne princípy, ktoré návrh učenia následne operacionalizuje.
 
-
-### Spolunávrh a čo musí zostať ľudské
+## Spolunávrh a čo musí zostať ľudské
 
 Spolunávrh je časť návrhovej praxe, kde je relačná práca najmenej nahraditeľná. [[zeivots-postdigital-co-design-genai-2025|Zeivots a spol. (2025)]] pokladajú [[generative-ai|GenAI]] za nespoľahlivého spolupracovníka, a nie za nástroj na koncepty, a stavajú okolo tej nespoľahlivosti trojfázovú sekvenciu: model provokuje, pluralizuje a facilituje, kým skupina interroguje jeho rámcovania, generuje protinarácie a drží samotnú deliberáciu. Ľudské zostáva vyjednávanie - ktoré hlasy chýbajú, ktoré rámcovanie skupina prijme a aké bude zdieľané porozumenie. Článok je kolektívne fórum devätnástich autorov bez experimentu, takže sekvencia je návrh praxe, nie testovaná metóda.
 
+Trojkurzová séria MOOC robí z vlastného pracovného postupu dizajnéra predmet výučby a oddeľuje ukážky špecifické pre nástroj od nadčasových dizajnových princípov, aby materiál prežil vydania modelov ([[quintana-generative-ai-learning-design-partner-2025|Quintana a spol. (2025)]]).
 
-### Ako návrh učenia určuje prírastky v učení
+## Ako návrh učenia určuje prírastky v učení
 
 Návrh učenia je páka, ktorá rozhoduje, či AI prinesie [[learning-gains|prírastky v učení]], alebo iba výkon nafúknutý AI. Dôkazy vedomostnej bázy sú v tomto bode konzistentné: **ten istý nástroj AI prináša veľké prírastky alebo čistú škodu podľa toho, ako je okolo neho navrhnutá učebná skúsenosť.** [[instructional-guidance-genai-learning|Hou a spol.]] ukázali, že päťkrokový rámec promptovania ukotvený v teórii učenia výrazne zlepšil kognitívne výsledky vyššieho rádu, kým samotný prístup k AI nie; rámce [[genai-mindtool-generative-learning|myšlienkového nástroja]] a [[airis-cognitively-activated-ai-physics-2026|AIRIS]] zachovávajú kognitívnu prácu študenta, takže výsledkom sú trvácne prírastky a nie iba efektívnosť úlohy. Návrhové voľby, ktoré chránia [[learning-gains]], teda podporné lešenie vyžadujúce študentov pokus, [[formative-assessment|formatívne hodnotenie]] s mierami výsledkov bez pomoci a pedagogickú štruktúru, ktorá ponecháva študentovi rolu aktéra, zrkadlia zistenie odboru (pozri [[learning-gains]]), že AI je silným prínosom, keď koučuje, a škodou, keď odpovedá. Naopak, slabo navrhnuté hodiny s integrovanou AI podliehajú [[cognitive-offloading|medzere medzi výkonom a učením]], kde zjavný úspech zakrýva absenciu učenia.
 
-### Praktické usmernenie pre návrhárov a vývojárov
+## Praktické usmernenie pre návrhárov a vývojárov
 
 Pre návrhárov výučby, tvorcov kurzov a inžinierov budujúcich učebné skúsenosti s podporou AI sa zistenia vedomostnej bázy prekladajú do použiteľnej praxe. Jednu hranicu treba vyznačiť ešte pred samotnými postupmi: návrh učenia, ako ho táto stránka opisuje, je návrh kurzu pre známu kohortu, kým tie isté princípy zapečené do produktu, ktorý bude používať mnoho kurzov, ktoré učia ľudia, s ktorými sa návrhár nikdy nestretne, sú prácou [[educational-technology-developers|vývojárov vzdelávacích technológií]], kde pedagogickú váhu nesú predvolené nastavenia, konfigurovateľnosť a dokumentácia:
 
 **Ukotvite generovanie AI v štruktúrovanom inštrukčnom modeli.** Obsah AI je len taký dobrý, ako je pedagogická štruktúra za ním; kvalitu určuje explicitná štruktúra, a nie znalosť AI. Navrhujte okolo uznávaného modelu (ADDIE, Dick a Carey, rapid prototyping) a pedagogické rozhodnutia zakódujte explicitne, namiesto toho, aby ste očakávali, že ich model odvodí.([[courseblueprint-adaptive-video-generation]])([[jeon-isd-agent-bench-2026]])([[didactical-teacher-assistant-dimensional-modeling]])
+
+Model je zároveň zoznamom toho, čo vynecháva. Pri prehľade piatich fáz ADDIE Williams a Prishtina (2026) zisťujú, že každá vynecháva jednu podmienku použitia: prístup k nástrojom v analýze, vzdelávanie pedagógov v dizajne, zladenie s kurikulom vo vývoji, konektivitu a kompatibilitu softvéru v implementácii a tvorivosť v hodnotení ([[williams-coding-curriculum-critique-2026|Williams a Prishtina, 2026]]). Zmena roly ide popri tom: v podaní [[chng-ai-instructional-design-2023|Ch'nga (2023)]] prestávajú odborníci na obsah písať obsah a stávajú sa overovateľmi, ktorí validujú to, čo model vyprodukoval, čím sa kapacita kontroly stáva úzkym hrdlom.
 
 **Prijmite aj rámec na úrovni princípov, nielen inštrukčný model.** Model na úrovni kurzu štruktúruje jeden návrh; publikovaný rámec nastavuje kritériá, ktoré by malo spĺňať mnoho návrhov. Príkladom hodným prečítania v celku je *Powerful Learning with Emerging Technology* od Digital Promise, ktorý svoje usmernenie organizuje pod tri princípy (na dôkazoch založené, na študentovi centrické, budovanie zručností), každý rozvedený do postupov a stratégií, a k jednotlivým postupom pripája [[privacy|súkromie]], [[explainable-ai|vysvetliteľnosť]] a spravodlivosť ako bezpečnostné povinnosti, a nie ako voliteľné doplnky.([[powerful-learning-with-emerging-technology-2025]])
 **Prispôsobte konfiguráciu AI úlohe, nie sofistikovanosti.** [[pchl-he-framework-genai-content-creation-2026|Nalyvaiko (2026)]] rozlišuje štyri vrstvy (prompt, kontext, postroj a overená slučka) a uplatňuje princíp minimálne dostatočnej vrstvy: použite najmenej zložitú konfiguráciu schopnú overiteľného výsledku, keďže pridaná orchestrácia prináša náklady na koordináciu, overovanie, súkromie a porozumenie.
@@ -109,6 +116,10 @@ Fowlin a spol. (2026) pridávajú operatívny krok na rozhodnutie, kde AI vstúp
 
 - **Zachytená činnosť sa sústreďuje v jednej fáze cyklu.** V prehľade 78 štúdií o inštrukčnom dizajne podporovanom AI sa činnosť vo fáze návrhu objavuje v **74 zo 78 štúdií (95 %)** a vo fáze vývoja v 44 (56 %), kým analýza dosahuje len 11 (14 %), hodnotenie 10 (13 %) a implementácia 7 (9 %), a **žiadna štúdia neskúmala podporu AI v celom cykle ADDIE**. Cyklus je túžba, ktorú dôkazová základňa nepokrýva, čo je dôležité pre každého, komu sa "tvorba kurzov poháňaná AI" predáva ako komplexná schopnosť ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou a Kameas, 2026]]).
 - **Tri roly AI, hierarchicky rozdelené.** *Generatívne* použitie, keď AI vytvára návrhový obsah podľa pokynov pedagóga, dominuje v **96 % štúdií**; *lešenárske* použitie, keď AI štruktúruje vlastné uvažovanie návrhára, sa objavuje v 35 %; *evaluačné* použitie, keď AI posudzuje kvalitu artefaktu, v 21 %. Odbor prevažne používa AI na vytváranie vecí, a nie na spochybňovanie vlastných návrhových rozhodnutí, čo je opak konfigurácie kritického priateľa, ktorú prehľad označuje za pedagogicky nádejnú.
+
+- **Dizajnéri žiadajú ovládateľnosť, nie autonómiu.** Osem návrhárov výučby testujúcich platformu na generovanie položiek ([[wei-perspicacious-instructional-design-2026|Wei a spol., 2026]]) chcelo kontrolu nad obtiažnosťou, formátom a pôvodom, hodnotilo ju 78,8 na škále SUS a dôveru označilo za podmienku prijatia.
+
+Dizajn moderuje efekty viac než technológia v syntéze Zhanga a kolegov: tá istá schopnosť GenAI priniesla g = 0,92, keď ju viedol študent, a g = 0,34, keď bežala autonómne. Spôsob interakcie je preto dizajnovým rozhodnutím, a nie vlastnosťou nástroja ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang a spol., 2026]]).
 
 ## Časté mylné predstavy
 
@@ -153,7 +164,7 @@ Fowlin a spol. (2026) pridávajú operatívny krok na rozhodnutie, kde AI vstúp
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — Vzorce interakcie učiteľa s AI pri návrhu hodín naprieč skúsenosťou a znalosťou AI (Choi a spol. 2026)
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI vo vysokom školstve: angažovanosť a sprostredkujúca úloha vyučovacích metód
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonómia (hraničný objekt) na klasifikáciu učebných aktivít s GenAI
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonómia (hraničný objekt) na klasifikáciu učebných činností s GenAI
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -170,7 +181,7 @@ Fowlin a spol. (2026) pridávajú operatívny krok na rozhodnutie, kde AI vstúp
 - [[ai-tpack-teacher-multi-agent-workflow]]
 - [[halani-designing-for-reach-2026]] — Designing for Reach: sedem pák a študent sám s AI
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — Keď "nie" robí videá lepšími: dvojité hradlovanie pre pedagogicky ukotvenú tvorbu obsahu s AI
+- [[ai-video-dual-gatekeeping-2026]] — Keď „nie" vytvára lepšie videá: dvojité stráženie pedagogicky ukotvenej tvorby obsahu s AI
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI na podporu návrhu úloh produktívneho zlyhania
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI a prax inštrukčného dizajnu: systematický prehľad (Kibar a Ilgaz 2026)
 - [[graph-its-adaptive-algorithms-2026]] — Grafové inteligentné tutorstvo pre dynamické domény (2026)
@@ -180,5 +191,7 @@ Fowlin a spol. (2026) pridávajú operatívny krok na rozhodnutie, kde AI vstúp
 - [[wang-teacher-ai-co-design-review-2026]] — Spolunávrh učebných úloh učiteľom a AI: trendy a perspektívy (Wang a spol. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architektúra rolí v diferencovaných skupinových aktivitách navrhnutých AI (Talebzadeh 2026)
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLM ako agenti iteratívneho pedagogického návrhu
-
 - [[zeivots-postdigital-co-design-genai-2025]] — GenAI ako nespoľahlivý spolupracovník v spolunávrhu
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Trojúrovňová metaanalýza: GenAI funguje cez spätnú väzbu a dizajn vedený študentom, nie ako jednotná intervencia (Zhang a spol. 2026)
+- [[williams-coding-curriculum-critique-2026]] — Kódovanie kurikula: kritika textu „Ako AI zanecháva stopu v inštrukčnom dizajne"
+- [[chng-ai-instructional-design-2023]] — Ako AI zanecháva stopu v inštrukčnom dizajne

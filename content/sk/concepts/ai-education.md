@@ -1,7 +1,7 @@
 ---
 title: "AI vo vzdelávaní"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-08T06:13:34-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -56,7 +60,7 @@ Pokrytie konceptov vedomostnej bázy ukotvujú niekoľko **zastrešujúcich str�
 - **[[pedagogy|Pedagogiky a stratégie výučby]]** — zastrešujúci rámec pre to, ako sa vyučuje: metódy a stratégie výučby, v ktorých AI pôsobí ([[active-learning|aktívne]], [[collaborative-learning|spoluprácujúce]], [[project-based-learning|na projektoch založené]], [[problem-based-learning|na problémoch založené]], [[experiential-learning|skúsenostné]], [[game-based-learning|na hrách založené]], [[socratic-method|sokratovské]], [[scaffolding|podporné lešenie]] a ďalšie), vrátane osobitného kontextu [[online-teaching-and-learning|online výučby a učenia]].
 - **[[learning-theories|Teórie učenia]]** — zastrešujúci rámec pre to, ako sa učíme: teoretické rámce ([[behaviorism|behaviorizmus]], [[cognitive-psychology|kognitivizmus]], [[constructivist|konštruktivizmus]], [[sociocultural-learning|sociokultúrny]], kognitívny, [[motivation|motivačný]]), ktoré formujú návrh a hodnotenie AI.
 - **[[ai-technologies|Technológie]]** — zastrešujúci rámec pre technickú vrstvu: systémy AI ([[llm|LLM]], [[generative-ai|generatívna AI]], [[multimodal|multimodálne]], [[educational-robotics|robotika]]) a techniky ([[rag|RAG]], [[prompt-engineering|práca s promptmi]], [[reinforcement-learning|posilňované učenie]], [[llm-training-and-fine-tuning|trénovanie modelov]], [[agentic-ai|agentická orchestrácia]]), ktoré poháňajú AIED. Rodina modelovania študenta — [[knowledge-tracing|trasovanie znalostí]], [[cognitive-diagnosis|kognitívna diagnóza]], [[simulating-students|simulovanie študentov]] a systémy, ktoré ich konzumujú ([[intelligent-tutoring|inteligentné tutorstvo]], [[adaptive-learning|adaptívne učenie]], [[personalized-learning|personalizované učenie]]) — je zoskupená pod zastrešujúcim rámcom [[student-modeling|Modelovanie študenta a adaptívna výučba]] v rámci tejto technickej vetvy.
-- **[[discipline-specific-aied|AI v disciplínach]]** — zastrešujúci rámec pre to, ako sa AI uplatňuje v rámci predmetových oblastí ([[math-education|matematika]], [[physics-education|fyzika]], [[language-learning|učenie sa jazykom]], [[cs-education|informatika]], [[writing-education|písanie]], [[stem-education|STEM]], [[engineering-education|inžinierstvo]], [[business-education|podnikanie]], [[teacher-education|vzdelávanie učiteľov]], [[medical-education|zdravotnícke povolania]] a ďalšie) — a za akademickými predmetmi profesijné a aplikované odvetvie, ktoré hodnotí preukázanú prax, a nie správnosť ([[nursing-education|ošetrovateľstvo]], [[information-technology|informačné technológie]], [[vocational-education|odborné vzdelávanie a príprava]], [[design-education|dizajnové vzdelávanie]]) — a vzdelávacie úrovne ([[k-12|K-12]], [[higher-ed|vysoké školstvo]], [[adult-learning|učenie dospelých]]).
+- **[[discipline-specific-aied|AI v disciplínach]]** — zastrešujúci rámec pre to, ako sa AI uplatňuje naprieč predmetovými oblasťami, zoskupený do štyroch zhlukov. [[humanities-education|Humanitné vedy a umenie]] pokrývajú históriu, filozofiu, literatúru a jazyky, popri nich stoja [[arts-and-media-education|umenie a médiá]] a [[music-education|hudba]]. [[social-sciences-education|Spoločenské vedy]] pokrývajú občiansku výchovu, obchod a ekonómiu a environmentálne štúdiá. [[stem-education|STEM]] pokrýva matematiku, fyziku, chémiu, biológiu, informatiku a inžinierstvo. [[professions-education|Profesie]] pokrývajú akreditované programy — [[medical-education|medicínske a zdravotnícke profesie]], [[nursing-education|ošetrovateľstvo]], [[legal-education|právnické vzdelávanie]], [[teacher-education|vzdelávanie učiteľov]], [[design-education|dizajnové vzdelávanie]] a [[libraries|knihovníctvo]] — kde hodnotenie musí preukázať, že certifikovaný úsudok bol úsudkom kandidáta. Zhluky sa uplatňujú naprieč školskými úrovňami aj predmetmi.
 - **[[assessment]]** (so [[formative-assessment|formatívnymi]], [[summative-assessment|sumárnymi]], [[authentic-assessment|autentickými]], [[oral-assessment|ústnymi]] a [[automated-assessment|automatizovanými]] vetvami) — zastrešujúci rámec pre to, ako AI študentov hodnotí a ako pretvára platnosť a integitu hodnotenia.
 - **[[feedback]]** — zastrešujúci rámec pre to, ako sa spätná väzba generuje, dodáva a používa: spätnoväzbová slučka, [[ai-feedback-quality|kvalita spätnej väzby]], [[feedback-literacy|gramotnosť v spätnej väzbe]] a jej hodnotiace kontexty ([[formative-assessment|formatívny]], [[peer-assessment|medzi študentmi]], [[automated-assessment|automatizovaný]]).
 - **[[stakeholders|Zainteresované strany v AI vzdelávaní]]** — zastrešujúci rámec pre to, kto sú aktéri: študenti, [[teacher-role|učitelia]], [[learning-design|návrhári učenia]], [[administrator|administrátori]] a [[educational-policy-ai|tvárcovia politiky]].
@@ -83,8 +87,8 @@ Priečizové a základné koncepty odboru ukotvujú pokrytie vedomostnej bázy a
 To, ako AI podporuje výučbu a učenie, je jadrom odboru. Kľúčové koncepty zahŕňajú:
 
 - **Základné pedagogiky:** [[pedagogy|pedagogiky a stratégie výučby]] — zastrešujúci rámec pre pokrytie výučebných metód vedomostnej bázy — spolu s [[pedagogical-patterns|pedagogickými vzormi]] (testované sekvencie, do ktorých sa tie metódy riešia), [[active-learning|aktívne učenie]], [[collaborative-learning|spoluprácujúce učenie]], [[group-work|skupinová práca]], [[project-based-learning|na projektoch založené učenie]], [[problem-based-learning|na problémoch založené učenie]], [[productive-failure|produktívne zlyhanie]], [[inquiry-based-learning|na prieskume založené učenie]], [[experiential-learning|skúsenostné učenie]], [[game-based-learning|na hrách založené učenie]], [[learning-by-teaching|učenie sa vyučovaním]], [[scaffolding|podporné lešenie]], [[socratic-method|sokratovská metóda]], [[critical-pedagogy|kritická pedagogika]], [[pedagogical-partnerships|pedagogické partnerstvá]], [[storytelling-in-education|rozprávanie príbehov]], [[learning-design|návrh učenia]], [[online-teaching-and-learning|online výučba a učenie]] a [[video-education|video vo vzdelávaní]].
-- **Teórie a procesy učenia:** zastrešujúci rámec [[learning-theories|teórií učenia]] ([[behaviorism|behaviorizmus]], [[cognitive-psychology|kognitivizmus]], [[constructivist|konštruktivizmus]], [[sociocultural-learning|sociokultúrny]], [[distributed-cognition|distribuovaná kognícia]], [[situated-learning|situované učenie]], [[embodied-learning|vtelené učenie]], [[community-of-inquiry|spoločenstvo prieskumu]]) sedí vedla procesov zameraných na študenta, ako [[self-regulated-learning|samoregulované učenie]], [[self-determination-theory|teória sebaurčenia]], [[motivation|motivácia]], [[self-efficacy|sebaúčinnosť]], [[self-directed-learning|samonasmerované učenie]], [[metacognition|metakognícia]], [[desirable-difficulties|žiaduce ťažkosti]], [[transfer-of-learning|transfer učenia]], [[prior-knowledge|predchádzajúce vedomosti]], [[icap-framework|ICAP kognitívna angažovanosť]], [[reflection|reflexia]], [[refutation-text|refutačný text]], [[retrieval-spacing-interleaving|vybavovanie, rozostup a prekladanie]] a [[activity-theory-aied|teória aktivity]].
-- **Angažovanosť a skúsenosť študenta:** [[student-engagement|angažovanosť študentov]], [[help-seeking|hľadanie pomoci]], [[social-emotional-learning|sociálno-emocionálne učenie]], [[well-being|pohoda]], [[creativity|kreativita]], [[problem-solving|riešenie problémov]], [[mastery-learning|ovládanie učenia]] a [[student-ai-interaction|interakcia študent–AI]] formujú, ako študenti AI skutočne stretávajú a ako sú ovplyvňovaní, zatiaľ čo [[social-norms-ai-use|sociálne normy, ktoré sa okolo používania AI usadzujú]], rozhodujú o tom, ako otvorene sa o tom dá hovoriť. Za rámec kurzu [[student-support-and-success|podpora a úspech študentov]] pokrýva inštitucionálnu stránku práce — poradenstvo, oslovovanie, odporúčania a alokáciu vzácnej podpory — kde AI spoľahlivo posúva dokončovanie úloh, ale nie vytrvalosť alebo absolvovanie.
+- **Teórie a procesy učenia:** zastrešujúci rámec [[learning-theories|teórií učenia]] ([[behaviorism|behaviorizmus]], [[cognitive-psychology|kognitivizmus]], [[constructivist|konštruktivizmus]], [[sociocultural-learning|sociokultúrny]], [[distributed-cognition|distribuovaná kognícia]], [[situated-learning|situované učenie]], [[embodied-learning|vtelené učenie]], [[community-of-inquiry|spoločenstvo prieskumu]]) sedí vedla procesov zameraných na študenta, ako [[self-regulated-learning|samoregulované učenie]], [[self-determination-theory|teória sebaurčenia]], [[motivation|motivácia]], [[self-efficacy|sebaúčinnosť]], [[self-directed-learning|samonasmerované učenie]], [[metacognition|metakognícia]], [[desirable-difficulties|žiaduce ťažkosti]], [[transfer-of-learning|transfer učenia]], [[prior-knowledge|predchádzajúce vedomosti]], [[icap-framework|ICAP kognitívna angažovanosť]], [[reflection|reflexia]], [[refutation-text|refutačný text]], [[retrieval-spacing-interleaving|vybavovanie, rozostup a prekladanie]] a [[developmental-psychology|vývinová psychológia]] vysvetľuje, prečo ten istý proces vyzerá inak v rôznom veku; [[activity-theory-aied|teória aktivity]].
+- **Angažovanosť a skúsenosť študenta:** [[student-engagement|angažovanosť študentov]], [[help-seeking|hľadanie pomoci]], [[social-emotional-learning|sociálno-emocionálne učenie]], [[well-being|pohoda]], [[creativity|kreativita]], [[problem-solving|riešenie problémov]], [[mastery-learning|ovládanie učenia]] a [[student-ai-interaction|interakcia študent–AI]] s [[empathy|empatiou]] ako afektívnym výsledkom, ktorý sa často uvádza, formujú, ako študenti AI skutočne stretávajú a ako sú ovplyvňovaní, zatiaľ čo [[social-norms-ai-use|sociálne normy, ktoré sa okolo používania AI usadzujú]], rozhodujú o tom, ako otvorene sa o tom dá hovoriť. Za rámec kurzu [[student-support-and-success|podpora a úspech študentov]] pokrýva inštitucionálnu stránku práce — poradenstvo, oslovovanie, odporúčania a alokáciu vzácnej podpory — kde AI spoľahlivo posúva dokončovanie úloh, ale nie vytrvalosť alebo absolvovanie.
 
 ## Technológie a techniky
 
@@ -95,16 +99,28 @@ Stránka [[ai-technologies|Technológie]] je zastrešujúcim rámcom pre technic
 
 - **Platformy, otvorenosť a prijímanie:** vrstva okolo modelu, kde sa výučbový zdroj licencuje, hostuje a platí, namiesto toho aby sa budoval. [[open-education|Otvorené vzdelávanie]] pokrýva výučbu s otvorene licencovaným obsahom a pedagogiku, ktorá študentov berie ako jeho tvorcov, čo je miesto, kde sa diskutujú otázky licencie a adaptácie, ktoré generovaný materiál teraz nastoľuje. Sedí vedľa otvorenosti v softvérovom zmysle, analýzy na úrovni platformy v [[edtech-platform|edtech platformách]] a výskumu prijímania, ktorý nesie [[technology-acceptance-model|TAM]].
 
-
 ## AI v disciplínach
 
-AI sa uplatňuje naprieč disciplínami a vzdelávacími úrovňami. [[discipline-specific-aied|Prehľad AIEd v disciplínach]] vedomostnej bázy mapuje pokrytie predmetových oblastí — popri [[learning-sciences|vied o učení]], ktoré nie sú vyučovaným predmetom, ale priečizovým výskumným odborom, ktorý skúma samotné učenie a pokladá predmetovú látku za jednu premennú medzi ostatnými:
+Pokrytie predmetových oblastí je najväčšou časťou odboru. Drží ho [[discipline-specific-aied|AIEd v disciplínach]], popri [[learning-sciences|vedách o učení]], ktoré nie sú vyučovaným predmetom, ale prierezovým výskumným poľom, ktoré skúma učenie samotné a predmet berie ako jednu premennú medzi inými. Predmetové stránky organizujú štyri zhluky:
 
-- **Predmetové oblasti:** [[math-education|matematika]], [[statistics-and-data-science-education|štatistika a dátová veda]], [[physics-education|fyzika]], [[chemistry-education|chémia]], [[biology-education|biológia]], [[cs-education|informatika]], [[engineering-education|inžinierstvo]], [[stem-education|STEM]], [[writing-education|písanie]], [[reading-education|výučba čítania]], [[language-learning|učenie sa jazykom]], [[english-education|výučba angličtiny (EAP/EFL/ESL)]], [[libraries|knižničné a informačné vedy]], [[science-education|vedecké vzdelávanie]], [[environmental-education|environmentálne vzdelávanie]], [[business-education|podnikanie, ekonómia a manažment]], [[humanities-education|humanitné a spoločenské vedy]], [[civic-and-political-education|občianske a politické vzdelávanie]], [[arts-and-media-education|umenie, dizajn a mediálne vzdelávanie]], [[medical-education|lekárske a zdravotnícke povolania]], [[legal-education|právnické vzdelávanie]] a profesijné a aplikované odvetvia — [[nursing-education|ošetrovateľstvo]], [[information-technology|informačné technológie]], [[vocational-education|odborné vzdelávanie a príprava]] a [[design-education|dizajnové vzdelávanie]].
+- **Humanitné vedy a umenie:** [[humanities-education|humanitné vzdelávanie]], [[arts-and-media-education|umelecké a mediálne vzdelávanie]], [[music-education|hudobné vzdelávanie]], [[writing-education|písanie]], [[reading-education|čítanie]], [[language-learning|učenie jazykov]] a [[english-education|anglické vzdelávanie (EAP/EFL/ESL)]].
+- **Spoločenské vedy:** [[social-sciences-education|spoločenskovedné vzdelávanie]], [[civic-and-political-education|občianske a politické vzdelávanie]], [[business-education|obchod, ekonómia a manažment]] a [[environmental-education|environmentálne vzdelávanie]].
+- **STEM:** [[stem-education|STEM vzdelávanie]], [[science-education|prírodovedné vzdelávanie]], [[math-education|matematika]], [[statistics-and-data-science-education|štatistika a dátová veda]], [[physics-education|fyzika]], [[chemistry-education|chémia]], [[biology-education|biológia]], [[cs-education|informatika]], [[engineering-education|inžinierstvo]] a [[information-technology|informačné technológie]].
+- **Profesie:** [[professions-education|vzdelávanie v profesiách]], [[medical-education|medicínske a zdravotnícke profesie]], [[nursing-education|ošetrovateľstvo]], [[legal-education|právnické vzdelávanie]], [[teacher-education|vzdelávanie učiteľov]], [[design-education|dizajnové vzdelávanie]] a [[libraries|knižničná a informačná veda]].
+
+Zhluk, do ktorého predmet patrí, zároveň určuje, ktorá stránka vlastní jeho dôkazy. [[vocational-education|Odborné vzdelávanie a príprava]] je zaradené pod úrovne a nie sem, pretože pomenúva skôr cestu ku kvalifikácii než disciplínu.
 
 ## Úrovne a kontexty
 
-Rovnaký nástroj AI stretáva veľmi odlišné prostredia a vedomostná báza oddeľuje vzdelávaciu úroveň od pedagogiky, aby sa zistenia nenáhlivo neprenášali medzi nimi: [[k-12|školy K-12]], [[early-childhood-elementary-ai-education|predprimárne a primárne vzdelávanie]], [[higher-ed|vysoké školstvo]], [[adult-learning|učenie dospelých]], [[vocational-education|odborné vzdelávanie a príprava]], [[special-education|špeciálne vzdelávanie]] a [[teacher-education|vzdelávanie učiteľov]]. Koncepty susediace s doménou, ktoré prechádzajú cez úrovne, zahŕňajú [[universal-design-for-learning|univerzálny návrh učenia]], [[neurodiversity|neurodiverzitu]], [[multilingual-learning|viacjazyčné učenie]] a [[social-emotional-learning|sociálno-emocionálne učenie]].
+Rovnaký nástroj AI stretáva veľmi odlišné prostredia a vedomostná báza oddeľuje vzdelávaciu úroveň od pedagogiky, aby sa zistenia nenáhlivo neprenášali medzi nimi: [[k-12|školy K-12]], ktoré sa teraz delia na [[early-childhood-elementary-ai-education|rané detstvo]], [[primary-education|primárne vzdelávanie]] a [[secondary-education|stredné vzdelávanie]]; [[higher-ed|vysoké školstvo]], ktoré sa delí na [[undergraduate-education|bakalárske]] a [[graduate-education|magisterské a doktorandské]] štúdium; a prostredia mimo týchto rebríkov, [[adult-learning|učenie dospelých]], [[vocational-education|odborné vzdelávanie a príprava]], [[special-education|špeciálne vzdelávanie]] a [[teacher-education|vzdelávanie učiteľov]]. [[education-levels|Úrovne vzdelávania]] ich porovnávajú. Koncepty susediace s doménou, ktoré prechádzajú cez úrovne, zahŕňajú [[universal-design-for-learning|univerzálny návrh učenia]], [[neurodiversity|neurodiverzitu]], [[multilingual-learning|viacjazyčné učenie]] a [[social-emotional-learning|sociálno-emocionálne učenie]].
+
+## Ten istý nástroj, opačné dizajnové voľby
+
+Úroveň je premenná, ktorá najčistejšie obracia dizajnové odporúčanie. Stredoškolské dôkazy stavajú učiteľa medzi študenta a nástroj: naprieč 33 štúdiami prichádzali prínosy tam, kde študenti výstup porovnávali, a vytrácali sa tam, kde prácu produkoval nástroj ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca a spol. (2026)]]).
+
+Dôkazy z doktorandského štúdia ukazujú opačným smerom, k partnerstvu so zodpovedným človekom. Facilitátory pripravenosti dosahovali výskumnú [[self-efficacy|sebaúčinnosť]] cez podporu školiteľa (β = 0.201 nepriamo), a nie cez používanie nástroja ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo a spol. (2026)]]). Prehľad o doktorandskom vedení dospieva k rovnakému dizajnovému záveru z etiky: legitímnosť závisí od úlohy, a nie od nástroja, zverejnenie je úmerné intelektuálnemu významu a riadenie sa preskúmava v míľnikoch ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja a spol. (2026)]]).
+
+Nemeni sa to, že úsudok drží človek. Študenti v doktorandskom seminári prijali výstup AI až po tom, čo ho skontroloval znalý strážca, čo Chen číta ako delegovanú, a nie odovzdanú agentúru ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). Frekvencia je nesprávna metrika naprieč úrovňami: kompetenciu doktorandov predikovala pri β = 0.030, keď do modelu vstúpili etika a samoregulácia ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova a spol. (2026)]]).
 
 ## Hodnotenie a meranie
 
@@ -117,7 +133,7 @@ AI pretvára jednak to, ako hodnotíme študentov, ako aj to, ako hodnotíme sam
 
 To, ako vieme, či AI funguje, je vlastná vetva a vedomostná báza to tak aj pokladá:
 
-- **Výskumné metódy:** [[research-methods-aied|výskumné metódy v AIED]] ako zastrešujúci rámec, s [[qualitative-research|kvalitatívnymi]], [[quantitative-research|kvantitatívnymi]], [[mixed-methods-research|mixed-metódovými]], [[design-based-research|na dizajne založenými]] a [[usability-research|použiteľnosť]] prístupmi, plus [[rct|randomizované kontrolované štúdie]], [[meta-analysis-systematic-review|metaanalýza a systematický prehľad]] a [[network-analysis|sieťová analýza]].
+- **Výskumné metódy:** [[research-methods-aied|výskumné metódy v AIED]] ako zastrešujúci rámec, s [[qualitative-research|kvalitatívnymi]], [[quantitative-research|kvantitatívnymi]], [[mixed-methods-research|mixed-metódovými]], [[design-based-research|na dizajne založenými]] a [[usability-research|použiteľnosť]] a [[longitudinal-research|longitudinálnymi]] prístupmi, plus [[rct|randomizované kontrolované štúdie]], [[meta-analysis-systematic-review|metaanalýza a systematický prehľad]] a [[network-analysis|sieťová analýza]].
 
 Vlastná výskumná práca odboru je teraz samostatným predmetom. [[ai-assisted-educational-research|AI asistovaný vzdelávací výskum]] pokrýva AI používanú ako inštrument pre literárne vyhľadávanie, screening, kvalitatívne kódovanie, analýzu a písanie, vrátane praktikového výskumu, ako je scholarship of teaching and learning. Zostáva odlišný od dizajnov použitých na štúdium toho, čo AI robí so študentmi.
 
@@ -177,6 +193,10 @@ AI vo vzdelávaní sa spája s každým konceptom vedomostnej bázy — je to od
 **„Zrelosť odboru sa dá odčítať z objemu publikácií."** Objem a zrelosť sa rozchádzajú; vetva výskumných metód dokumentuje opakujúce sa slabiny dizajnu, ktoré objem nenapraví, a rámce sa množia rýchlejšie, než sa testujú.
 
 ## Prepojené koncepty
+- [[primary-education]] — AI v primárnom vzdelávaní
+- [[secondary-education]] — AI na strednej škole
+- [[undergraduate-education]] — AI v bakalárskom štúdiu
+- [[graduate-education]] — AI v magisterskom a doktorandskom štúdiu
 - [[pedagogical-patterns]] — Testované sekvencie, ktoré operacionalizujú pedagogiky odboru
 - [[ai-literacy]] — zastrešujúci rámec: porozumenie, používanie a hodnotenie AI
 - [[automation-bias]] — zlyhanie na strane čitateľa: prijatie automatizovaného úsudku bez jeho overenia
@@ -218,5 +238,10 @@ Prehľady celého odboru AI vo vzdelávaní — štúdie, ktoré mapujú celý o
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — Evolúcia výskumu AI a vzdelávania naprieč štyrmi desaťročiami (rámec AIxEd)
 - [[mishra-control-vs-agency-history-2025]] — Kontrola vs. agentúra: história AI vo vzdelávaní
 - [[genai-higher-education-systematic-review-2026]] — Generatívna AI vo vysokom školstve: systematický prehľad 125 štúdií
-- [[stanford-evidence-base-ai-k12-2026]] — Dôkazová základňa o AI v K-12: prehľad 818 článkov
+- [[stanford-evidence-base-ai-k12-2026]] — Dôkazová základňa o AI v K-12: 52 silných kauzálnych štúdií vybraných z 1 686 článkov repozitára (aktualizácia z novembra 2026)
 - [[genai-educational-outcomes-meta-analysis]] — Generatívna AI a vzdelávacie výsledky: komplexná metaanalýza
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 stredoškolských štúdií; prínosy tam, kde študenti posudzujú výstup, nie kde prácu produkuje nástroj
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 magisterských študentov; pripravenosť dosiahla sebaúčinnosť cez podporu školiteľa
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Prehľad 61 zdrojov o etike, spätnej väzbe a riadení doktorandského vedenia
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Jednoskupinový doktorandský seminár; prínosy samoregulovaného učenia bez testu bez pomoci
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 študentov; medzera medzi bakalármi a doktorandmi v etike a samoregulácii

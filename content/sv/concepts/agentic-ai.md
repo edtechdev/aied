@@ -10,16 +10,20 @@ audience: [learners]
 level: [higher ed, k 12]
 discipline: [stem education]
 confidence: high
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: "concepts/agentic-ai"
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-13T18:20:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,10 @@ Där [[agentic-ai-education-scoping-review|scopingöversikten med 474 studier]] 
 - **En skalningsmodell för rapportering och styrning: ramverket Autonomi-Tillsyn-Evidens (AOE).** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]] hävdar att termen *agentisk AI* används så inkonsekvent att evidens och tillsyn inte kan jämföras mellan studier - system som planerar, minns, använder verktyg eller koordinerar flera agenter klumpas ihop med statiska GenAI-gränssnitt och konventionella [[pedagogical-agent|pedagogiska agenter]]. Hans kritiska integrativa genomgång av femton peer-reviewade översikter finner att evidensen är starkast för utfall på artefaktnivå (återkopplingens riktighet, [[hallucination-risk|minskade hallucinationer]]) och svagast för varaktigt lärande, rättvisa, arbetsbelastning eller institutionella utfall, med autentiska införanden som typiskt är korta, enplatsiga och svagt kopplade till tillsyn. Botemedlet är en konkret rapporteringstriplett - **autonominivå A0-A4** (reaktiv generering → avgränsad orkestrering → delegerad uppgiftsautonomi → arbetsflödesautonomi → *konsekvensbärande autonomi* över betygsättning/antagning/uppflyttning), **tillsynsnivå O0-O4** (ospecificerad → retrospektiv revision → godkännande före användning → kontrollpunktsstyrd kontroll → *kontinuerlig avgränsad övervakning*) och **evidensmognadsstadium M0-M5** (koncept → prototyp/benchmarktest → deltagarutvärdering → autentiskt införande → utsträckt/flerplatsigt → *replikerat/institutionsskala*) - plus en **proportionalitetsregel**: tillåten autonomi bör inte springa ifrån vare sig evidensmognaden eller tillsynsstyrkan (ett A4-system med konsekvenser kräver till exempel M4-M5-evidens, juridisk validering och O4 med mänsklig slutlig auktoritet). Att rapportera *A2-O3-M3* förvandlar vaga påståenden om "agentiskt införande" till jämförbara, testbara specifikationer och ger institutioner en grammatik för stegvis införande, loggning och återställning - det evidensmässiga komplementet till [[baradziej-agentic-ai-higher-education-2026|copilot-till-autopilot]]-spektrumet ovan.
 - **Adversariell robusthetstestning:** [[adversarial-stress-testing-role-playing-agents|Multiagentisk stresstestning]] koordinerar förhörs-, mål- och domar-agenter för att avslöja fellägen som är osynliga för testning med en enda strategi, och sänker robusthetspoängen med 0,17-0,20 poäng - avgörande för personakonsistens och [[pedagogical-safety|säker användning]] med elever.
 - **Tillämpningar inom domäner:** agentiska system förekommer inom många områden, bland annat [[learnmate2-llm-adaptive-learning|adaptiva lärandeagenter]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogiska LLM-agenter]], [[guided-llm-scaffolding-independent-learning|guidad LLM-strukturering]], [[cyberagents-gamified-cybersecurity-learning-2026|spelifierade cybersäkerhetsagenter för lärande]] och [[hdr-brachytherapy-agentic-ai-simulation-2026|agenter för klinisk simulering]].
+- **Agentisk betygsättning är en tillförlitlighetsfråga innan den är en arbetsbelastningsfråga.** En agentisk Claude Code-driftsättning fick tre bedömningsmatrisfiler och 60 skannade handskrivna deltentor från en datorgrafikkurs. Dess betyg stämde med lärarens vid r = 0,97, med ett medelabsolut fel på 0,85 betyg på en tenta med 20 betyg, en genomsnittlig AI-positiv bias på 0,68 och test-retest-ICC = 0,96 över två sessioner med en veckas mellanrum. Aggregatet döljer var den misslyckas: viktat kappa gick från 0,98 på flervalsfrågor till 0,65 på utvärderande poster, med handritade diagram som det svagaste fallet ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). En kurs, en lärare och en uppsättning bedömningsmatriser lokaliserar variansen; de fastställer inte att agentisk betygsättning generaliserar.
+
+Agentiska arkitekturer köper täckning till ett mätbart pris i precision. I [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah m.fl:s (2026)]] benchmark med 926 jobbannonsprover och 1 696 guldstandardfärdigheter ledde en ReAct-agent med ett ESCO-uppslagsverktyg förbättrad återkallelse på 89,7 %, mot 83,7 % för den bästa generativa konfigurationen och 49,1 % för den bästa inbäddningsmodellen. Dess precision var 22,7 %, vilket lämnade F1 på 36,3 %, under en verktygsförankrad Gemini 2.5 Flash på 51,6 %, och den körde på cirka 16 sekunder per prov. Återkallelse är rätt mått när en mänsklig rådgivare rensar listan; omedierad output behöver det förankrade alternativet.
+
 - **Webbagenter som utvärderare av lärarupplevelsen:** en enda autonom "beskrivande" webbagent som navigerar en online-[[learning-design|lektion]] som en elev - [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] - producerar en beskrivning rik nog att förutsäga elevavhopp och ge designern handlingsbara synpunkter innan riktiga elever möter lektionen, och överträffar en hel simulerad kohort och varje baslinje i en global CS1-kurs. Detta positionerar agentisk utvärdering (en agent som ställföreträdande kritiker av en lärarupplevelse) som en distinkt, billig användning av agentisk AI vid sidan av agenter som undervisar eller designar.
 
 ### Multiagentsystem
@@ -234,3 +242,5 @@ Agentisk AI är varken ett universalmedel eller en oundviklig skada: dess värde
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — Specifikationsdriven utveckling med AI-agenter i projektbaserat mjukvarulärande; automatisering kontra förståelse
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Utvärdering av ett struktureringsorienterat multiagentiskt stort språkmodellssystem för träning i klinisk intervju
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: att underlätta gruppbaserad etikutbildning med rollspel och diskussion för etisk reflektion och utforskning
+- [[alghamdi-claude-code-agentic-grading-2026]] — Agentisk betygsättning av 60 skannade tentor: hög överensstämmelse i aggregatet, svagast på utvärderande poster och handritade diagram (AlGhamdi 2026)
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — ReAct-agentens återkallelse på 89,7 % mot en precision på 22,7 %: täckning till ett pris i precision (Nkrumah m.fl. 2026)

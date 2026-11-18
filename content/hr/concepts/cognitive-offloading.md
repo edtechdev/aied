@@ -227,8 +227,8 @@ Dvije nedavne studije daju rasterećenju mjerni aparat. Ljestvica od 35 čestica
 - [[trust-calibration]] - Znanje kada vjerovati, a kada preispitati umjetnu inteligenciju
 - [[retrieval-spacing-interleaving]] - Protupraksa puštanju modela da dosjeća umjesto učenika
 - [[cognitive-surrender]]
-
 - [[reflection]]
+- [[executive-function]]
 
 ## Povezani članci
 

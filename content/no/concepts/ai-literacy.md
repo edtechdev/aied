@@ -1,7 +1,7 @@
 ---
 title: AI-kompetanse
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-08T06:31:30-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "*Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -205,7 +209,7 @@ Sekvensering fremstår som den designbeslutningen som betyr mest i to av feltets
 
 ## Å måle AI-kompetanse
 
-En egen forskningsretning behandler AI-kompetanse ikke bare som et mål for undervisning, men som et konstrukt å måle. Kunnskapsbasens vurderingstråd skiller **selvrapportert** fra **ytelsesbasert** kompetanse: selvrapporteringer avviker kraftig fra demonstrert kompetanse (lærere overslår med ~40 %), og ytelsesbaserte mål predikerer AI-integrering i klasserommet langt bedre enn selvtillitsundersøkelser (r≈0.72 vs. 0.31). Intervensjonsarbeid gjenskaper dette avviket på atferdsnivået: i [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]] predikerte verken GenAI-holdninger eller en generell skala for metakognitiv bevissthet elevenes regulering av LLM-interaksjon eller deres endelige oppgaveskår (r = .01 og r = .04, begge ikke-signifikante), mens de atferdene workshopen endret — å avvise underspesifiserte prompter, bedømme svarets korrekthet, stille et oppfølgingsspørsmål — sporet svarets kvalitet. Validerte instrumenter er på vei for å lukke dette gapet — [[jin-glat-genai-literacy-assessment|GLAT]] gir en psykometrisk validert vurdering av generativ AI-kompetanse, og diagnostiske profiler (overslåere vs. sanne nybegynnere) lar designere rette inn støtten der den trengs. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]] kartlegger dette instrumentlandskapet direkte, og gjennomgår 80 validerte rammeverk — 69 digitale kompetanse og 11 AI-kompetanse — publisert mellom januar 2014 og februar 2025. AI har trukket digital kompetanse mot etikk og omformet kommunikasjon til å omfatte menneske–[[student-ai-interaction|AI-interaksjon]], mens metakognitiv regulering og pedagogspesifikt menneske–AI-samarbeid forblir de minst spesifiserte. For design og forskning knytter dette AI-kompetanse til [[educational-measurement]] og til [[assessment]] bredt: et kompetanserammeverk er bare så nyttig som instrumentene som brukes til å spore vekst, og stadiebaserte kontinua krever pålitelig måling for å plassere elever langs dem.
+En egen forskningsretning behandler AI-kompetanse ikke bare som et mål for undervisning, men som et konstrukt å måle. Kunnskapsbasens vurderingstråd skiller **selvrapportert** fra **ytelsesbasert** kompetanse: selvrapporteringer avviker kraftig fra demonstrert kompetanse (lærere overslår med ~40 %), og ytelsesbaserte mål predikerer AI-integrering i klasserommet langt bedre enn selvtillitsundersøkelser (r≈0.72 vs. 0.31). Intervensjonsarbeid gjenskaper dette avviket på atferdsnivået: i [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]] predikerte verken GenAI-holdninger eller en generell skala for metakognitiv bevissthet elevenes regulering av LLM-interaksjon eller deres endelige oppgaveskår (r = .01 og r = .04, begge ikke-signifikante), mens de atferdene workshopen endret — å avvise underspesifiserte prompter, bedømme svarets korrekthet, stille et oppfølgingsspørsmål — sporet svarets kvalitet. Validerte instrumenter er på vei for å lukke dette gapet — [[jin-glat-genai-literacy-assessment|GLAT]] gir en psykometrisk validert vurdering av generativ AI-kompetanse, og diagnostiske profiler (overslåere vs. sanne nybegynnere) lar designere rette inn støtten der den trengs. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]] kartlegger dette instrumentlandskapet direkte, og gjennomgår 80 validerte rammeverk — 69 digitale kompetanse og 11 AI-kompetanse — publisert mellom januar 2014 og februar 2025. AI har trukket digital kompetanse mot etikk og omformet kommunikasjon til å omfatte menneske–[[student-ai-interaction|AI-interaksjon]], mens metakognitiv regulering og pedagogspesifikt menneske–AI-samarbeid forblir de minst spesifiserte. For design og forskning knytter dette AI-kompetanse til [[educational-measurement]] og til [[assessment]] bredt: et kompetanserammeverk er bare så nyttig som instrumentene som brukes til å spore vekst, og stadiebaserte kontinua krever pålitelig måling for å plassere elever langs dem. K–12-revisjonen bak en slik progresjon er mer direkte: ni validerte instrumenter, bare ett for tidlig barndom, og ingen som fanger prosessen med å bruke, avhøre eller revidere med AI ([[guo-ai-literacy-developmental-paces-2026|Guo et al., 2026]]).
 
 En systematisk gjennomgang av 17 AI-kompetansemål fant at samarbeid sjelden vurderes som et konstrukt: 3 studier operasjonaliserte [[human-ai-collaboration|menneske-AI-samarbeid]] eksplisitt, 3 bygde det inn i leddformuleringen, og 11 viste ingen representasjon; bare ett instrument målte AI-kompetanse og samarbeid sammen. De foreslåtte subfaktorene koordinering, kommunikasjon og [[metacognition]] forblir uvaliderte ([[yang-collaborative-ai-literacy-measures-review-2026|Yang et al., 2026]]).
 
@@ -263,6 +267,8 @@ For kritisk AI-kompetanse spesielt viser [[solyst-youth-systematic-evaluation-ge
 
 Verifisering er den lærbare motvekten, og [[automation-bias]] navngir det den underviser mot. Etterredigering, omberegning og kildekontroller er vurderte ferdigheter nettopp fordi flytende resultat inviterer til aksept fremfor inspeksjon.
 
+Troverdighetsvurderinger reagerer på arbeidsflyt, ikke bare på undervisning. Blant 42 bachelorstudenter vurderte studenter som måtte svare før de konsulterte AI, den som mindre troverdig (5.65) enn de med ubegrenset tilgang (6.60), mens en betingelse med påkrevd verifisering lå mellom dem på 6.22 og holdt tilliten uten å blåse den opp ([[islam-credibility-weaker-llms-2026|Islam et al., 2026]]). Å vurdere en modells troverdighet er delvis en designbeslutning om når studenten møter den.
+
 ## Implikasjoner for praksis
 
 Lærere kan undervise i AI-kompetanse gjennom oppgaver som krever skjønn, snarere enn gjennom forklaring. Å designe prompter, sammenligne resultater, argumentere for en etisk ladet sak og revidere et svakt svar setter alle elevene i de konstruktive og interaktive modusene som ICAP-forskningen forbinder med varig læring. En forelesning om hvordan språkmodeller fungerer, er den passive modusen, og det er den elevene allerede får fra verktøyet selv.
@@ -276,8 +282,6 @@ Fakultetsutviklere kan bruke diagnostiske profiler i stedet for én workshop. Å
 Programledere kan behandle timeplanen som den bindende begrensningen. De fleste land nevner medie- og informasjonskompetanse i nasjonale rammeverk, og langt færre fører den inn i læreplaner ut over tekniske ferdigheter, som er gapet mellom et dokument og et emne. Et rammeverk som vedtas uten avsatt tid og uten en beslutning om hva det erstatter, når ikke fram til et klasserom.
 
 Fagledere kan holde den kritiske tråden synlig. Kompetanse som bare dekker verktøymekanikk, etterlater elevene ute av stand til å vurdere arbeidsforhold, miljøkostnader, skjevheter eller de kommersielle interessene bak et produkt, og det er disse vurderingene den kritiske litteraturen behandler som den delen arbeidsgivere og borgere faktisk trenger.
-
-Troverdighetsvurderinger reagerer på arbeidsflyt, ikke bare på undervisning. Blant 42 bachelorstudenter vurderte studenter som måtte svare før de konsulterte AI, den som mindre troverdig (5.65) enn de med ubegrenset tilgang (6.60), mens en betingelse med påkrevd verifisering lå mellom dem på 6.22 og holdt tilliten uten å blåse den opp ([[islam-credibility-weaker-llms-2026|Islam et al., 2026]]). Å vurdere en modells troverdighet er delvis en designbeslutning om når studenten møter den.
 
 ## Vanlige misoppfatninger
 
@@ -317,7 +321,7 @@ Troverdighetsvurderinger reagerer på arbeidsflyt, ikke bare på undervisning. B
 ## Tilknyttede artikler
 
 - [[jordan-faculty-ai-oer-creation-2025]] — Fra prompt til praksis: et fakultetssentrert initiativ for å utforske AI-støttet OER-skaping (Jordan et al., 2025)
-- [[powell-chatbot-enhanced-oer-composition-2026]] — Teksten svarer tilbake: chatbotforsterket OER i asynkron Composition II (Powell et al., 2026)- [[feng-ai-literacy-psychological-dimensions-2026]] — 58 skolestudier: seks lærerdimensjoner og åtte elevdimensjoner for AI-kompetanse med en felles psykologisk kjerne (Feng og Carolus, 2026)
+- [[powell-chatbot-enhanced-oer-composition-2026]] — Teksten svarer tilbake: chatbotforsterket OER i asynkron Composition II (Powell et al., 2026). [[feng-ai-literacy-psychological-dimensions-2026]] — 58 skolestudier: seks lærerdimensjoner og åtte elevdimensjoner for AI-kompetanse med en felles psykologisk kjerne (Feng og Carolus, 2026)
 - [[guo-ai-literacy-developmental-paces-2026]] — 118 K–12-oppføringer i ni kategorier: en progresjon med ti hensyn fra sansing og lek til teamprosjekter, og ni validerte instrumenter, ingen av dem fanger prosessen (Guo, Ali og Wong, 2026)
 - [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISEs gjennomgang i fire land: 84 av 194 stater fører MIL ut over tekniske ferdigheter inn i læreplaner, og menneskelige faktorer avgjorde utfallene i alle fire systemene (Cerioli, 2026)
 - [[islam-credibility-weaker-llms-2026]] — 42 bachelorstudenter: svar-først senket AI-troverdigheten til 5.65 mot 6.60 ved ubegrenset tilgang, med verifisering på 6.22 (Islam et al., 2026)

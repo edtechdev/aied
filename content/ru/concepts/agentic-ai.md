@@ -1,7 +1,8 @@
 ---
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: Агентный ИИ
 created: "2026-10-13T20:15:00-04:00"
+updated: "2026-11-17T20:00:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -12,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -23,9 +24,11 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
-
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
 > **Агентный [[ai-education]]** — системы ИИ, которые самостоятельно планируют, выполняют и адаптируют многошаговые рабочие процессы для достижения учебных целей, выходя за рамки одношагового диалога «вопрос—ответ» и выступая в роли устойчивых, ориентированных на цель партнёров: [[intelligent-tutoring|AI tutors]], которые выстраивают опору в ходе длительного взаимодействия, мультиагентные системы, оркеструющие учебные проекты, и агенты, совместно регулирующие обучение. Этот сдвиг парадигмы от инструмента, отвечающего на промпты, к активному соучастнику несёт с собой как возможности, так и риски: агентный ИИ способен персонализировать и углубить обучение, но он же ставит под угрозу [[agency]], [[cognitive-offloading|cognitive effort]] и контроль. Исследования базы знаний — [[agentic-ai-education-scoping-review|scoping review]], [[tool-invariant-framework-agentic-ai|tool-invariant framework]] и статья о [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] — рассматривают это противоречие.
@@ -72,6 +75,9 @@ ai_assist:
 - **Тестирование устойчивости к состязательным атакам:** [[adversarial-stress-testing-role-playing-agents|Multi-agent stress testing]] координирует агентов Дознавателя, Цели и Судью для выявления режимов отказа, невидимых при тестировании одной стратегией, снижая показатели устойчивости на 0,17–0,20 баллов — критично для согласованности персоны и [[pedagogical-safety|safe deployment]] с обучающимися.
 - **Предметные применения:** агентные системы появляются в различных областях, включая [[learnmate2-llm-adaptive-learning|adaptive learning agents]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogical LLM agents]], [[guided-llm-scaffolding-independent-learning|guided LLM scaffolding]], [[cyberagents-gamified-cybersecurity-learning-2026|gamified cybersecurity learning agents]] и [[hdr-brachytherapy-agentic-ai-simulation-2026|clinical simulation agents]].
 - **Веб-агенты как оценщики учебного опыта:** единый автономный «описывающий» веб-агент, который навигирует онлайн-[[learning-design|lesson]] как студент — [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] — производит описание, достаточно богатое для предсказания отсева студентов и предоставления проектировщику действенной обратной связи до того, как в него включатся реальные обучающиеся, превосходя полную симулированную группу и каждый базовый уровень на глобальном курсе CS1. Это позиционирует агентное оценивание (агент как заместитель-критик учебного опыта) как отдельное, недорогое применение агентного ИИ наряду с агентами, которые обучают или проектируют.
+- **Агентная проверка работ — сначала вопрос надёжности, а потом нагрузки.** Агентному развёртыванию Claude Code дали три файла рубрик и 60 отсканированных рукописных работ промежуточного экзамена из курса компьютерной графики. Его оценки согласовывались с преподавателем при r = 0,97, со средней абсолютной ошибкой 0,85 балла на 20-балльной работе, средним положительным смещением ИИ 0,68 и ICC тест-ретест = 0,96 между двумя сессиями с интервалом в неделю. Агрегат скрывает, где он терпит неудачу: взвешенная каппа шла от 0,98 на вопросах с выбором ответа до 0,65 на оценочных пунктах, а самыми слабыми были рисунки от руки ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Один курс, один преподаватель и один набор рубрик локализуют дисперсию; они не устанавливают, что агентная проверка обобщается.
+
+Агентные архитектуры покупают охват по измеримой цене в точности. На бенчмарке [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et al. (2026)]] из 926 образцов вакансий и 1 696 эталонных навыков ReAct-агент с инструментом поиска по ESCO лидировал по расширенной полноте с 89,7% против 83,7% у лучшей генеративной конфигурации и 49,1% у лучшей embedding-модели. Его точность составила 22,7%, оставив F1 на 36,3% — ниже, чем у заземлённого инструментами Gemini 2.5 Flash с 51,6%, — и он работал около 16 секунд на образец. Полнота — правильная метрика, когда человек-консультант отсеивает список; неопосредованный вывод требует заземлённой альтернативы.
 
 ### Мультиагентные системы
 
@@ -237,3 +243,6 @@ ai_assist:
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD с агентами ИИ в программном PBL; автоматизация против понимания
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+
+- [[alghamdi-claude-code-agentic-grading-2026]] — агентная проверка 60 рукописных экзаменов: r = .97 в целом, каппа падает до .65 на оценочных пунктах
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — полнота 89,7% против 83,7% у лучшей генеративной конфигурации, но точность 22,7% и F1 36,3%: охват агента оплачен точностью (Nkrumah et al., 2026)

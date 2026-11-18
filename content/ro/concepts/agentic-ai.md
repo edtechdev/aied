@@ -10,16 +10,20 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-13T18:20:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -68,7 +72,12 @@ Acolo unde [[agentic-ai-education-scoping-review|revizuirea de amploare a 474 de
 - **Un scalar de raportare și guvernanță: cadrul Autonomie-Supraveghere-Dovezi (AOE).** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]] susține că termenul *IA agentică* este aplicat atât de inconsecvent încât dovezile și supravegherea nu pot fi comparate între studii - sistemele care planifică, își amintesc, folosesc instrumente sau coordonează mai mulți agenți sunt puse la un loc cu interfețe statice de IA generativă și cu [[pedagogical-agent|agenți pedagogici]] convenționali. Revizuirea sa critică integrativă a cincisprezece revizuiri evaluate de colegi constată că dovezile sunt cele mai puternice pentru rezultate la nivel de artefact (acuratețea feedbackului, reducerea [[hallucination-risk|halucinațiilor]]) și cele mai slabe pentru învățarea durabilă, echitate, volum de muncă sau rezultate instituționale, cu desfășurări autentice de obicei scurte, pe un singur sit și slab legate de supraveghere. Remediul este un triplet concret de raportare - **nivel de autonomie A0-A4** (generare reactivă → orchestrare limitată → autonomie delegată pe sarcină → autonomie de flux de lucru → *autonomie cu consecințe* asupra notării/admiterii/promovării), **nivel de supraveghere O0-O4** (nespecificat → audit retrospectiv → aprobare înainte de utilizare → control cu puncte de verificare → *supraveghere continuă limitată*) și **stadiul de maturitate a dovezilor M0-M5** (concept → prototip/standard de referință → evaluare cu participanți → desfășurare autentică → extins/multi-sit → *replicat/scară instituțională*) - plus o **regulă de proporționalitate**: autonomia permisă nu ar trebui să depășească nici maturitatea dovezilor, nici puterea supravegherii (de exemplu, un sistem A4 cu consecințe cere dovezi M4-M5, validare juridică și O4 cu autoritate finală umană). Raportarea *A2-O3-M3* transformă afirmațiile vagi de „desfășurare agentică” în specificații comparabile și testabile și le dă instituțiilor o gramatică etapizată de adoptare, jurnalizare și revenire - complementul probatoriu al spectrului [[baradziej-agentic-ai-higher-education-2026|de la Copilot la Autopilot]] de mai sus.
 - **Testarea robusteții adversariale:** [[adversarial-stress-testing-role-playing-agents|testarea de stres multi-agent]] coordonează agenți Interogator, Țintă și Judecător pentru a revela moduri de eșec invizibile testării cu o singură strategie, reducând scorurile de robustețe cu 0,17-0,20 puncte - esențială pentru consecvența personajului și [[pedagogical-safety|desfășurarea sigură]] cu învățăcei.
 - **Aplicații de domeniu:** sistemele agentice apar în diverse domenii, inclusiv [[learnmate2-llm-adaptive-learning|agenți de învățare adaptivă]], [[educlaw-bench-pedagogical-llm-agents-2026|agenți LLM pedagogici]], [[guided-llm-scaffolding-independent-learning|sprijin LLM ghidat de tip schelă]], [[cyberagents-gamified-cybersecurity-learning-2026|agenți de învățare gamificată a securității cibernetice]] și [[hdr-brachytherapy-agentic-ai-simulation-2026|agenți de simulare clinică]].
-- **Agenții web ca evaluatori ai experienței de învățare:** un singur agent web autonom „descriitor” care navighează o [[learning-design|lecție]] online ca un student - [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] - produce o descriere destul de bogată pentru a prezice abandonul studenților și pentru a-i da designerului feedback acționabil înainte ca învățăceii reali să se angajeze, depășind o cohortă simulată completă și fiecare valoare de referință într-un curs global CS1. Aceasta poziționează evaluarea agentică (un agent ca critic substitut al unei experiențe de învățare) ca o utilizare distinctă și ieftină a IA agentice, alături de agenții care predau sau proiectează.
+
+- **Notarea agentică este o întrebare de fiabilitate înainte de a fi una de volum de muncă.** Un deployment agentic Claude Code a primit trei fișiere de rubrică și 60 de lucrări scanate scrise de mână la un examen parțial la un curs de grafică pe calculator. Notele sale au fost în acord cu instructorul la r = 0.97, cu o eroare absolută medie de 0.85 puncte pe o lucrare de 20 de puncte, o părtinire medie pozitivă a IA de 0.68 și un ICC test-retest de 0.96 între două sesiuni la o săptămână distanță. Media ascunde unde eșuează: kappa ponderat a variat de la 0.98 la itemii cu alegere multiplă la 0.65 la itemii evaluativi, cu diagramele desenate de mână cazul cel mai slab ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Un curs, un instructor și un set de rubrici localizează varianța; ele nu stabilesc că notarea agentică se generalizează.
+
+Arhitecturile agentice cumpără acoperire la un cost măsurabil în precizie. Pe [[nkrumah-ai-skill-extraction-engineering-2026|benchmarkul lui Nkrumah et al. (2026)]] cu 926 de eșantioane de anunțuri de angajare și 1,696 competențe de referință, un agent ReAct cu un instrument de căutare ESCO a condus la recall îmbunătățit de 89,7%, față de 83,7% pentru cea mai bună configurație generativă și 49,1% pentru cel mai bun model de embedding. Precizia sa a fost 22,7%, lăsând F1 la 36,3%, sub un Gemini 2.5 Flash fundamentat pe instrumente, la 51,6%, și a rulat în aproximativ 16 secunde pe eșantion. Recall este metrica potrivită când un consilier uman filtrează lista; rezultatul fără mediere are nevoie de alternativa fundamentată.
+
+- **Agenții web ca evaluatori ai experienței de învățare:** un singur agent web autonom de „descriere” care navighează o [[learning-design|lecție]] online ca un student — [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] — produce o descriere suficient de bogată pentru a prezice abandonul studenților și pentru a da designerului feedback acționabil înainte ca studenții reali să se angajeze, depășind o cohortă simulată completă și fiecare bază de comparație pe un curs global CS1. Aceasta poziționează evaluarea agentică (un agent ca critic substitut al unei experiențe de învățare) ca o utilizare distinctă și ieftină a IA agentice, alături de agenții care predau sau proiectează.
 
 ### Sisteme multi-agent
 
@@ -82,8 +91,6 @@ Un pas dincolo de orchestrarea câtorva agenți specializați este **ecosistemul
 - **Tutoriat multi-agent social inteligent.** Prototipurile de tutoriat multi-agent social inteligent precum ASTRA studiază cum se coordonează învățăceii cu IA în diade, folosind agenți diferențiați de Tutor și Facilitator pentru a stimula coordonarea și participarea echilibrată. Evaluarea bazată pe urme a cadrului permite o analiză reproductibilă a interacțiunii, a echilibrului participării și a verificării în [[cs-education|programarea introductivă]].
 
 **Un răspuns organizațional: învățăcelul ca membru participant, nu ca beneficiar.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] instanțiază o organizație multi-agent cu participare umană în care agenți specializați mențin un Program de capabilități revizuibil, care leagă obiective personale, activități [[multimodal|multimodale]] și evaluare stratificată, cu un „Nod uman” corectabil care duce probele și provocările învățăcelului în revizuirile ulterioare. Față de cea mai apropiată bază de referință multi-agent, pe 96 de cazuri simulate de învățăcei, avantajul s-a concentrat în [[assessment|proiectarea evaluării]]: cu 19,32 puncte mai mare la [[assessment-validity|validitatea evaluării]] (IC 95% [17,55, 21,04]) și cu 5,89 la acoperirea capabilităților, în timp ce personalizarea nu s-a diferențiat (1,35 puncte, interval care traversează zero). Într-un studiu randomizat cu 32 de învățăcei, câștigul de cunoștințe la un test obiectiv de 50 de puncte a fost de 12,19 față de 5,61 puncte.
-
-
 
 ## Tensiunea centrală: automatizare versus învățare
 
@@ -137,7 +144,6 @@ Aceasta leagă discuția despre IA agentică de acoperirea [[academic-integrity|
 ## Fricțiune productivă și interacțiune socială
 
 Nu tot comportamentul agentic trebuie să fie asistență lină. [[ai-agents-constructive-conflict-design-education-2026|Cercetarea despre agenții de design adversariali]] arată că agenții care pun în act **conflictul constructiv** au stimulat semnificativ mai multe iterații de design, o explorare mai largă a alternativelor și designuri finale evaluate mai bine în rândul designerilor de interacțiune novici (N=48) - o dinamică de *fricțiune productivă*, în care agentul de conflict era frustrant, dar în final util. Aceasta se leagă de [[socratic-method|interogarea socratică]] și de [[design-thinking|gândirea de design]] și ilustrează cum IA agentică poate sprijini reconsiderarea profundă, nu acceptarea pasivă.
-
 
 Un studiu despre felul în care IA agentică ajunge la rezultate de învățare prin căi *psihologice* și nu tehnologice furnizează unghiul de măsurare care lipsea. [[pramod-agentic-ai-motivational-pathways-2026|Pramod și Patil (2026)]] au chestionat 398 de studenți la afaceri din India și au modelat autonomia, competența și relaționarea alături de interactivitate, schimbul de informații și [[community-of-inquiry|prezența socială]] percepută; autonomia a fost cel mai puternic motor [[motivation|motivațional]] (β = 0,504), iar interactivitatea cel mai puternic factor social (0,468), cu motivația și prezența socială alimentând [[student-engagement|implicarea]] la o forță aproape egală (0,533 și 0,493) înainte ca implicarea să prezică performanța de învățare percepută (0,671). Lecția de design este că ruta socială nu este automată: un construct de mediu colaborativ a mișcat prezența socială percepută mai puțin decât au făcut-o simpla receptivitate și schimbul de informații, deci tratarea unui agent ca interfață de chat, nu ca participant, lasă nefolosită cea mai mare parte a acelei căi.
 
@@ -211,7 +217,6 @@ IA agentică nu este nici panaceu, nici prejudiciu inevitabil: valoarea ei depin
 
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agenți organizați în jurul unui program de capabilități revizuibil, cu învățăcelul ca membru
 
-
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomie, competență, relaționare și prezență socială ca trasee de la IA agentică la implicare (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agenții de IA, evaluarea plină de bucurie și al treilea spațiu
 - [[ilieva-agentic-genai-higher-education-2026]] — Cadrul AGAI-HE: IA generativă agentică limitată și supravegheată uman în învățământul superior (Ilieva et al. 2026)
@@ -234,7 +239,9 @@ IA agentică nu este nici panaceu, nici prejudiciu inevitabil: valoarea ei depin
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — IA agentică în simularea clinică
 - [[bozkurt-ghost-students-agentic-ai-2026]] — Studenții fantomă și lacuna de verificare a IA agentice (Bozkurt et al. 2026)
 - [[ai-agents-complete-lms-assessment-validity-2026]] — Agenți de IA care finalizează sarcini în LMS; eșec de validitate prin presupunerea producției umane (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — Agenți web de IA: un agent descriitor ca evaluator al experienței de învățare (prezice abandonul, dă feedback de design înainte ca studenții să se angajeze)
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD cu agenți de IA în PBL software; automatizare versus comprehensiune
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluarea unui sistem multi-agent cu modele mari de limbaj orientat spre sprijin de tip schelă pentru instruirea în interviul clinic
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agenți de formare etică: facilitarea educației etice de grup prin joc de rol și discuție pentru reflecție și explorare etică
+- [[alghamdi-claude-code-agentic-grading-2026]] — notarea agentică a 60 de examene scrise de mână: r = .97 în ansamblu, cu kappa coborând la .65 la itemii evaluativi
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Compararea abordărilor IA pentru extragerea automată a competențelor
+- [[ai-web-agents-lesson-design-2025]] — Un agent web autonom care trăiește o lecție ca un student prezice abandonul și dă feedback de design înainte de studenții reali

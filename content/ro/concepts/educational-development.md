@@ -10,14 +10,18 @@ confidence: high
 institutions: [educational-policy-ai]
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: concepts/educational-development
-source_updated: "2026-11-07T12:15:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -58,7 +62,6 @@ O metodă practică de a scoate la suprafață aceste modele mentale este **atel
 
 Întrebarea de design mai largă este cum să alegi o metaforă în primul rând. [[metaphors-and-analogies]] adună dovezile transversale, iar [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins și Furze (2025)]] oferă patru criterii: accesibilitate, putere explicativă, potențial de alfabetizare critică în IA și utilitate pedagogică.
 
-
 ### GenAI ca muncă asupra identității, nu doar perfecționare
 
 O perspectivă informată de teoria conceptelor-prag reformulează integrarea GenAI ca o **transformare ontologică** pentru corpul didactic, nu ca un decalaj de competențe. Aplicând teoria conceptelor-prag (Meyer & Land), Laidlaw susține că GenAI prezintă toate cele cinci caracteristici de prag: *transformatoare* (reconstruiește presupunerile despre evaluare, pedagogie și rolul profesional), *problematică* (încalcă convingerile despre originalitate, agentivitate umană și relația efort-reușită), *ireversibilă*, *integrativă* (conectează tehnologia, pedagogia, epistemologia și identitatea) și *delimitată* (fluența în GenAI devine un nou marker al valorii profesionale).([[laidlaw-genai-identity-crisis-faculty-2026]])
@@ -81,9 +84,7 @@ Pentru dezvoltatorii corpului didactic, liderii academici și [[stakeholders|des
 
 **Adresați cele patru motoare ale adoptării, nu doar cunoașterea.** Încrederea, atitudinile, sprijinul și îngrijorările prezic dacă profesorii adoptă efectiv IA; un atelier doar despre cunoștințe care le ignoră este puțin probabil să schimbe practica. Proiectați dezvoltarea astfel încât să construiască încredere prin folosire practică, să ofere sprijin continuu (nu formare de o singură dată) și să scoată activ la suprafață și să răspundă îngrijorărilor profesorilor.([[teacher-ai-adoption-confidence]])
 
-
 Încrederea și alfabetizarea nu sunt ținte interschimbabile: într-un model SEM pe 502 respondenți din corpul didactic universitar, alfabetizarea în IA a fost predictorul dominant al [[well-being|stării de bine]] legate de IA (β = 0,713), în timp ce [[self-efficacy|autoeficacitatea tehnologică]] a contribuit puțin (β = 0,082), iar sprijinul a ajuns la starea de bine doar indirect ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
-
 
 **Tratați cererea de îndrumări și caracterul adecvat al îndrumărilor ca probleme separate.** Corpul didactic dintr-o universitate a susținut puternic măsurile instituționale împotriva folosirii neetice a IA (M = 4,59), în timp ce a evaluat îndrumările existente cu cele mai mici scoruri (M = 2,99) și a indicat [[privacy|confidențialitatea datelor]] și incluziunea culturală ca punctele lor cele mai slabe de cunoaștere, o țintă concretă pentru dezvoltarea profesională ([[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic & Sever, 2026]]).
 
@@ -117,7 +118,32 @@ Pentru dezvoltatorii corpului didactic, liderii academici și [[stakeholders|des
 **Răspunsul instructorilor reflectă centrele de putere, nu atitudinea.** Într-un studiu de caz instrumental cu 33 de instructori de scriere, patru centre policentrice de putere (tendința globală GenAI, universitatea/departamentul, colegii și studenții) au modelat practica, iar cadrele didactice asociate, constrânse de o putere discursivă limitată, au trecut de la detectare la predarea folosirii acceptabile ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
 
 - **Șase familii de dezvoltare profesională, trei bine documentate și un câștigător clar.** O revizuire a 78 de studii despre designul instrucțional sprijinit de IA sortează dezvoltarea profesională documentată în module compacte integrate (2-4 săptămâni), microînvățare pe un semestru, cicluri de design bazate pe sarcini, lanțuri de întrebări bazate pe dialog colaborativ, co-descoperire critică și [[self-directed-learning|învățare autonomă]] a practicianului. Dovezile privind rezultatele sunt cele mai puternice pentru **modulele compacte integrate**: un modul de trei săptămâni a produs câștiguri semnificative statistic în toate cele șase domenii Intelligent-TPACK, cu mărimi ale efectului de la medii la mari, iar un program de patru săptămâni cu **436 de profesori în formare inițială și o condiție de control** este cea mai puternică evaluare controlată din corpus ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
-- **Trei caracteristici de design separă intervențiile cele mai bine documentate.** Etica integrată ca **[[retrieval-spacing-interleaving|practică distribuită]], cu puncte de verificare la fiecare sarcină**, iar nu ca sesiune de sine stătătoare; **evaluarea competenței pe bază de performanță**, folosind planuri de lecție, jurnale de decizii și micro-predare, motivată direct de nesiguranța autoevaluării; și ingineria prompturilor dezvoltată ca practică reflexivă, fundamentată pedagogic. Adoptarea nu este aceeași pârghie ca performanța: în rândul a 200 de profesori din Sumatra de Nord, folosirea IA nu a avut efect direct asupra performanței profesorilor (β = 0,112, p = 0,087), în timp ce comportamentul de cetățenie organizațională l-a purtat indirect, astfel încât munca de dezvoltare a corpului didactic orientată spre folosirea colaborativă, în afara rolului, este versiunea pe care o susțin dovezile ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]). Un studiu însoțitor de două săptămâni a găsit câștiguri rapide în cunoaștere și încredere, identificând totodată detectarea părtinirii ca cea mai slabă competență emergentă, un decalaj care a persistat și în modulul mai lung, în acord cu dezvoltarea mai lentă a capacității perceptive etice față de familiaritatea tehnologică.
+
+Dezvoltarea transfrontalieră are o unitate de analiză dincolo de atelier. [[tian-transnational-faculty-development-governance-2027|Tian, Sun și Wang (2026)]] susțin că conectivitatea este episodică prin implicit, întrucât un webinar distribuie fără a stabili o agendă, iar o platformă găzduiește fără a produce acord asupra folosirii. Ceea ce transformă evenimentele în infrastructură acumulată este lipsit de fast: un secretariat care ține ritmul, o arhivă datată de agende și exemple de caz și o guvernanță partajată tratată ca direcție de mers, nu ca statut pe care o rețea îl poate revendica.
+
+Participarea și substanța pot merge în direcții opuse, iar motivul este structural, nu motivațional. [[jiang-faculty-development-japan-2027|Jiang, Wang și Taguchi (2026)]] urmăresc participarea japoneză ridicându-se la 32,7% dintre universități în 2023, în timp ce atelierele de învățare activă, observarea între colegi și recenzia între colegi au stagnat sau au scăzut, și localizează constrângerea în absența unui rol profesional continuu în dezvoltarea academică. Rotația, sarcinile concurente și contractele pe durată determinată rup continuitatea de care depind formatele colegiale, astfel încât indicatorul de raportat este mixul de formate, alături de numărul de participanți.
+
+**Scara este documentată; schimbarea în clasă nu.** [[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay și colegii]] au urmărit 105 profesori de chimie printr-un program de șase săptămâni, iar [[ma-ai-corpus-language-teaching-coi-2026|Ma și colegii]] au desfășurat un program online de 20 de săptămâni cu peste 150 de profesori de limbi din 28 de țări. [[white-scandinavian-teachers-genai-attitudes-2026|White și colegii]] au măsurat un câștig de 0,20 SD în beneficiile percepute la 2.159 profesori scandinavi care au primit dezvoltare profesională în GenAI. Fiecare studiu arată că dezvoltarea mișcă ceea ce raportează educatorii; niciunul nu îi urmează în clasă pentru a măsura ce au făcut studenții diferit.
+
+**Ce cer educatorii seamănă mai mult cu ucenicia decât cu formarea.** În studiul de district, 22 de profesori au cerut dezvoltare livrată de foști profesori care înțeleg constrângerile clasei, un ghid de o pagină despre când ajută instrumentele și timpul de planificare pentru a folosi oricare dintre ele ([[dangol-relief-or-displacement-teachers-generative-ai-2026|Dangol et al.]]). Instituțiile, între timp, aleg să construiască capacitate în loc să o cumpere: dintre cele a căror strategie include competențe pentru forța de muncă, 69% își califică personalul și cadrele didactice existente ([[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE, 2026]]).
+
+**Absența dezvoltării este o alegere de politică cu un rezultat vizibil.** [[rameskumar-shadow-ai-legitimized-higher-education-2027|Rameskumar și colegii]] au intervievat 20 de educatori care și-au construit propriile reguli pentru că nu a sosit nicio îndrumare, iar [[bodek-prompted-to-explore-microlearning-2026|Bodek]] descrie un model de microînvățare construit pentru timpul pe care cadrele didactice îl au efectiv. Programele care tratează dezvoltarea ca un strat repetat de sprijin instituțional, nu ca un eveniment unic, raportează diferența ([[aalhe-capacity-disposition-genai-assessment-2026|AALHE]]).
+
+**Contextul schimbă forma dezvoltării, nu nevoia de ea.** În educația medicală, o rezidență în IA tratează dezvoltarea cadrelor didactice și învățarea împreună ca mecanism, nu ca adaos ([[bursic-ai-residency-education-curriculum-2026|Bursic et al.]]). O recenzie a 86 de resurse pentru copilăria timpurie identifică dezvoltarea educatorilor drept una dintre cele patru teme ([[early-childhood-ai-holistic-competencies-review-2026|recenzia]]). Renewalul CTE ajunge la dezvoltarea cadrelor didactice odată ce schimbarea curriculară expune o lacună de capacitate ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). Iar între 146 de profesori, implicarea în dezvoltarea profesională a mediat legătura dintre motivație și intenția de a folosi GenAI ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al.]]).
+
+Un exemplu lucrat al modelului pe cohortă vine dintr-o bibliotecă universitară. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] au plătit șapte stipendii pentru un program de opt săptămâni care combina patru săptămâni de instruire, dezvoltare independentă de proiect și feedback de la colegi, fundamentat în principiile de învățare a adulților ale lui Knowles și în cadrul de prompturi CLEAR. Câștigurile au fost modeste în familiaritatea cu IA și mai mari în familiaritatea cu OER, iar autorii tratează stipendiul și acordul sindical care le-au permis adjuncților să fie plătiți ca parte a intervenției, nu ca administrație.
+
+Unitatea de dezvoltare poate fi mai mică decât departamentul și mai mare decât persoana. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] expun șapte roluri didactice, dar insistă că nu trebuie să stea într-un singur academic: educatorul centrat pe om și expertul disciplinar sunt fundamente universale, în timp ce arhitectura învățării, reproiectarea evaluării, competența tehnică, stewardshipul etic și experimentarea disciplinată pot fi distribuite pe o echipă didactică. Condiția lor este ca fiecare să păstreze competența tehnică și etică de bază, astfel încât expertiza partajată să nu devină ignoranță partajată.
+
+Judecata este mai bine tratată ca o condiție decât ca un item de competență. [[ji-judgement-space-dialogic-inquiry-2027|Ji și Mercer (2026)]] descriu spațiul judecății ca interacțiunea relațională, normativă și condiționată prin care judecata profesională este articulată și examinată, iar în contextele sprijinite de IA acel spațiu devine tripartit, pentru că evaluările generate intră în el. Auditul lor în trei coloane întreabă ce face profesorul, ce fac studenții și cum este poziționată IA, un instrument colegial pentru a localiza unde s-a mutat discret judecata într-un instrument.
+
+Dezvoltarea poate fi organizată și în jurul unui nucleu invariant și al unei margini mișcătoare. [[ho-invariant-core-faculty-development-2027|Ho (2026)]] așază mecanismul neuropsihologic al învățării înaintea oricărei tehnologii, susține că GenAI colapsează distanța dintre artefact și gândire și derivă o rută de predare academică în care cadrele didactice anchetează propria predare sub dovezi, reflecție și recenzie între colegi. Prioritatea lui decurge: aprofundați cum funcționează învățarea, apoi lăsați profesorii să autorizeze instrumente mici, și tratați marginea tehnologică drept partea despre care se așteaptă să se miște.
+
+- **Trei caracteristici de design separă intervențiile cel mai bine evidențiate.** Etica încorporată ca [[retrieval-spacing-interleaving|practică distribuită]] cu puncte de control la fiecare sarcină, nu ca sesiune de sine stătătoare; **evaluarea competenței pe baza performanței** folosind planuri de lecție, jurnale decizionale și micro-predare, motivată direct de nesiguranța auto-raportării; și ingineria prompturilor dezvoltată ca practică reflexivă, fundamentată pedagogic. Adoptarea nu este aceeași pârghie ca performanța: la 200 de profesori din Sumatra de Nord, folosirea IA nu a avut efect direct asupra performanței didactice (β = 0.112, p = .087), în timp ce comportamentul de cetățenie organizațională a purtat-o indirect, deci munca de dezvoltare orientată spre folosirea colaborativă, extra-rol, este versiunea pe care dovezile o susțin ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]).
+
+- **Cererea nu este o evaluare a nevoilor.** 345 de profesori din CEGEP-uri din Quebec au obținut cele mai slabe scoruri la înțelegerea tehnică (2.706 din 5), dar au cerut aplicații practice specifice disciplinei, numind sesiunile anterioare prea generale ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]]).
+
+- **Atelierele construcționiste au nevoie de o hartă.** Trei sesiuni de 50 de minute au mișcat 20 până la 25 de cadre didactice de la promptarea ludică la materiale didactice reutilizabile, dar participanții noi la IA au cerut un briefing conceptual înainte de sandbox ([[fischer-learning-by-making-faculty-development-2026|Fischer (2026)]]).
 
 ## Idei greșite frecvente
 
@@ -147,7 +173,7 @@ Pentru dezvoltatorii corpului didactic, liderii academici și [[stakeholders|des
 - [[stakeholders]] - Umbrelă: oameni și publicuri în educația cu IA (învățăcei, profesori, designeri, administratori, factori de decizie)
 
 ## Articole conexe
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analiză critică a discursului asupra sfaturilor de aliniere cu GenAI: dezvoltatorii reîncadrați ca formatori de tehnologie
+- [[jordan-faculty-ai-oer-creation-2025]] — De la prompt la practică: o inițiativă centrată pe cadre didactice pentru explorarea creării de OER sprijinite de IA (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analiză critică a discursului asupra sfaturilor de aliniere cu GenAI: dezvoltatorii reîncadrați ca formatori de tehnologie
 - [[crompton-faculty-technology-integration-standards-2026]] — Standarde pentru corpul didactic privind integrarea tehnologiei (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Dimensiuni etice ale IA: viziunile corpului didactic și ale studenților
 - [[nicola-richmond-programwide-assessment-genai-2025]]
@@ -182,3 +208,21 @@ Pentru dezvoltatorii corpului didactic, liderii academici și [[stakeholders|des
 - [[ai-competence-framework-landscape-2026]] — Verificați ce descriu nivelurile unui cadru înainte de a-l adopta
 
 - [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Poate educația să stabilească agenda pentru IA? Inovație simulată și direcții pedagogice în formarea profesorilor
+
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 profesori de chimie într-un program de șase săptămâni
+- [[ma-ai-corpus-language-teaching-coi-2026]] — Peste 150 de profesori de limbi din 28 de țări, pe 20 de săptămâni
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2.159 profesori scandinavi; câștig de 0,20 SD în beneficiile percepute
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 de profesori după un program de învățare GenAI, cu nevoile medind implicarea
+- [[bodek-prompted-to-explore-microlearning-2026]] — un model de microînvățare pentru dezvoltarea cadrelor didactice în IA generativă
+- [[bursic-ai-residency-education-curriculum-2026]] — o rezidență în IA în educația medicală
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 de resurse; dezvoltarea educatorilor ca una dintre cele patru teme
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 de profesori care cer dezvoltare condusă de foști profesori
+- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% își califică personalul și cadrele didactice existente
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 de educatori care legitimează IA din umbră unde îndrumarea a lipsit
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — lacune de capacitate care declanșează dezvoltarea cadrelor didactice și decizii de angajare
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — dezvoltare repetată ca unul dintre cele cinci straturi de sprijin
+- [[chen-future-faculty-development-ai-2027]] — Șapte roluri didactice, două fundamente universale și echipa didactică drept unitate de dezvoltare
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Spațiul judecății, ancheta dialogică și un audit în trei coloane asupra locului unde judecata s-a mutat într-un instrument
+- [[jiang-faculty-development-japan-2027]] — Dubla pistă a dezvoltării profesionale în Japonia: participarea a crescut, formatele colegiale nu
+- [[tian-transnational-faculty-development-governance-2027]] — Dezvoltarea transnațională a cadrelor didactice: conectivitatea este episodică, coordonarea este munca
+- [[ho-invariant-core-faculty-development-2027]] — Nucleu invariant, margine schimbătoare: mecanismul învățării înaintea tehnologiei

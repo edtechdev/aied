@@ -176,8 +176,7 @@ Razrađeni primjer modela kohorte dolazi iz sveučilišne knjižnice. [[jordan-f
 ## Povezani članci
 
 
-- [[jordan-faculty-ai-oer-creation-2025]] — Od upita do prakse: inicijativa usmjerena na nastavnike za istraživanje izrade OER-a potpomognute umjetnom inteligencijom (Jordan i sur. 2025)
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritička analiza diskursa savjeta o usklađivanju s generativnom umjetnom inteligencijom: razvijatelji preokvireni u trenere tehnologije
+- [[jordan-faculty-ai-oer-creation-2025]] — Od upita do prakse: inicijativa usmjerena na nastavnike za istraživanje izrade OER-a potpomognute umjetnom inteligencijom (Jordan i sur. 2025) - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritička analiza diskursa savjeta o usklađivanju s generativnom umjetnom inteligencijom: razvijatelji preokvireni u trenere tehnologije
 - [[crompton-faculty-technology-integration-standards-2026]] — Standardi za nastavnike o integraciji tehnologije (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Etičke dimenzije umjetne inteligencije: pogledi nastavnika i studenata
 - [[nicola-richmond-programwide-assessment-genai-2025]]

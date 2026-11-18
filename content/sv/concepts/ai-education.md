@@ -1,7 +1,7 @@
 ---
 title: "AI i utbildningen"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-08T06:31:23-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 
 ---
@@ -56,7 +60,7 @@ Kunskapsbasens begreppstäckning förankras av flera **paraplysidor** som gruppe
 - **[[pedagogy|Pedagogiker och undervisningsstrategier]]** — paraplyt för hur undervisning sker: de undervisningsmetoder och strategier som AI verkar inom ([[active-learning|aktivt]], [[collaborative-learning|samarbetsinriktat]], [[project-based-learning|projektbaserat]], [[problem-based-learning|problembaserat]], [[experiential-learning|erfarandebaserat]], [[game-based-learning|spelbaserat]], [[socratic-method|sokratiskt]], [[scaffolding|strukturering]] med mera), inklusive det särskilda sammanhanget [[online-teaching-and-learning|distansundervisning och -lärande]].
 - **[[learning-theories|Lärandeteorier]]** — paraplyt för hur lärande sker: de teoretiska ramverken ([[behaviorism|behaviorism]], [[cognitive-psychology|kognitivism]], [[constructivist|konstruktivism]], [[sociocultural-learning|sociokulturellt]], kognitivt, [[motivation|motivationellt]]) som formar AI:s design och utvärdering.
 - **[[ai-technologies|Tekniker]]** — paraplyt för det tekniska lagret: AI-systemen ([[llm|LLM:er]], [[generative-ai|generativ AI]], [[multimodal|multimodala]], [[educational-robotics|robotik]]) och metoderna ([[rag|RAG]], [[prompt-engineering|promptkonstruktion]], [[reinforcement-learning|förstärkande inlärning]], [[llm-training-and-fine-tuning|modellträning]], [[agentic-ai|agentisk orkestrering]]) som driver AIED. Elevmodelleringsfamiljen — [[knowledge-tracing|kunskapsspårning]], [[cognitive-diagnosis|kognitiv diagnostik]], [[simulating-students|elever i simulering]] och de system som förbrukar dem ([[intelligent-tutoring|intelligent handledning]], [[adaptive-learning|adaptivt lärande]], [[personalized-learning|individualiserat lärande]]) — grupperas under paraplyt [[student-modeling|Elevmodellering och adaptiv undervisning]] inom denna tekniska sträng.
-- **[[discipline-specific-aied|AI inom disciplinerna]]** — paraplyt för hur AI tillämpas inom olika ämnesområden ([[math-education|matematik]], [[physics-education|fysik]], [[language-learning|språkinlärning]], [[cs-education|datavetenskap]], [[writing-education|skrivande]], [[stem-education|STEM]], [[engineering-education|ingenjörsutbildning]], [[business-education|ekonomi och management]], [[teacher-education|lärarutbildning]], [[medical-education|vårdutbildningar]] med flera) — och, bortom de akademiska ämnena, den professionella och tillämpade strängen som bedömer visad praktik snarare än korrekthet ([[nursing-education|sjuksköterskeutbildning]], [[information-technology|informationsteknik]], [[vocational-education|yrkesutbildning]], [[design-education|designutbildning]]) — samt utbildningsnivåerna ([[k-12]], [[higher-ed|högskola]], [[adult-learning|vuxenlärande]]).
+- **[[discipline-specific-aied|AI inom disciplinerna]]** — paraplyt för hur AI tillämpas över ämnesområden, grupperat i fyra kluster. [[humanities-education|Humaniora och konst]] omfattar historia, filosofi, litteratur och språk, med [[arts-and-media-education|konst och medier]] och [[music-education|musik]] vid sidan. [[social-sciences-education|Samhällsvetenskap]] omfattar samhällskunskap, företagande och ekonomi samt miljöstudier. [[stem-education|STEM]] omfattar matematik, fysik, kemi, biologi, databehandling och ingenjörsvetenskap. [[professions-education|Professioner]] omfattar de ackrediterade programmen — [[medical-education|medicinska och hälsofackliga utbildningar]], [[nursing-education|sjuksköterskeutbildning]], [[legal-education|juridisk utbildning]], [[teacher-education|lärarutbildning]], [[design-education|designutbildning]] och [[libraries|bibliotekarieutbildning]] — där bedömningen måste visa att det certifierade omdömet var kandidatens eget. Klustren gäller över skolnivåer likaväl som över ämnen.
 - **[[assessment|Bedömning]]** (med [[formative-assessment|formativ]], [[summative-assessment|summativ]], [[authentic-assessment|autentisk]], [[oral-assessment|muntlig]] och [[automated-assessment|automatiserad]] strömning) — paraplyt för hur AI både bedömer elever och omformar bedömningars validitet och integritet.
 - **[[feedback|Feedback]]** — paraplyt för hur feedback genereras, levereras och används: feedbackloopen, [[ai-feedback-quality|feedbackkvalitet]], [[feedback-literacy|feedbackkompetens]] och dess bedömningssammanhang ([[formative-assessment|formativ]], [[peer-assessment|kamratbedömning]], [[automated-assessment|automatiserad]]).
 - **[[stakeholders|Intressenter inom AI i utbildningen]]** — paraplyt för vilka aktörerna är: elever, [[teacher-role|lärare]], [[learning-design|lärandedesigners]], [[administrator|administratörer]] och [[educational-policy-ai|politiska beslutsfattare]].
@@ -83,8 +87,8 @@ Fältets övergripande och grundläggande begrepp förankrar kunskapsbasens inne
 Hur AI stöder undervisning och lärande är fältets hjärta. Nyckelbegreppen omfattar:
 
 - **Centrala pedagogiker:** [[pedagogy|pedagogiker och undervisningsstrategier]] — paraplyt för kunskapsbasens undervisningsmetoder — tillsammans med [[pedagogical-patterns|pedagogiska mönster]] (de beprövade sekvenser som dessa metoder löser upp sig i), [[active-learning|aktivt lärande]], [[collaborative-learning|samarbetsinriktat lärande]], [[group-work|grupparbete]], [[project-based-learning|projektbaserat lärande]], [[problem-based-learning|problembaserat lärande]], [[productive-failure|produktivt misslyckande]], [[inquiry-based-learning|undersökande lärande]], [[experiential-learning|erfarandebaserat lärande]], [[game-based-learning|spelbaserat lärande]], [[learning-by-teaching|lärande genom undervisning]], [[scaffolding|strukturering]], [[socratic-method|den sokratiska metoden]], [[critical-pedagogy|kritisk pedagogik]], [[pedagogical-partnerships|pedagogiska partnerskap]], [[storytelling-in-education|berättande]], [[learning-design|lärandedesign]], [[online-teaching-and-learning|distansundervisning och -lärande]] och [[video-education|video i utbildningen]].
-- **Lärandeteorier och -processer:** paraplyt [[learning-theories|lärandeteorier]] ([[behaviorism|behaviorism]], [[cognitive-psychology|kognitivism]], [[constructivist|konstruktivism]], [[sociocultural-learning|sociokulturellt]], [[distributed-cognition|distribuerad kognition]], [[situated-learning|situerat lärande]], [[embodied-learning|kroppsligt förankrat lärande]], [[community-of-inquiry|undersökningsgemenskap]]) står sida vid sida med elevinriktade processer som [[self-regulated-learning|självreglerat lärande]], [[self-determination-theory|teorin om självbestämmande]], [[motivation|motivation]], [[self-efficacy|självtillit]], [[self-directed-learning|självstyrt lärande]], [[metacognition|metakognition]], [[desirable-difficulties|önskvärda svårigheter]], [[transfer-of-learning|överföring av lärande]], [[prior-knowledge|tidigare kunskaper]], [[icap-framework|ICAP kognitivt engagemang]], [[reflection|reflektion]], [[refutation-text|motargumentstext]], [[retrieval-spacing-interleaving|hämtning, fördelning och intervling]] och [[activity-theory-aied|aktivitetsteori]].
-- **Elevengagemang och erfarenhet:** [[student-engagement|elevengagemang]], [[help-seeking|hjälpsökande]], [[social-emotional-learning|social-emotionellt lärande]], [[well-being|välbefinnande]], [[creativity|kreativitet]], [[problem-solving|problemlösning]], [[mastery-learning|mästarlärande]] och [[student-ai-interaction|elev–AI-interaktion]] formar hur elever faktiskt möter och påverkas av AI, medan de [[social-norms-ai-use|sociala normer som etableras kring AI-användning]] avgör hur öppet något av detta kan diskuteras. Bortom kursen täcker [[student-support-and-success|elevstöd och elevframgång]] det institutionssida av arbetet — studievägledning, uppsökande verksamhet, hänvisning och fördelning av knappa stödresurser — där AI pålitligt förbättrar slutförandet av uppgifter men inte studiefortsättning eller examen.
+- **Lärandeteorier och -processer:** paraplyt [[learning-theories|lärandeteorier]] ([[behaviorism|behaviorism]], [[cognitive-psychology|kognitivism]], [[constructivist|konstruktivism]], [[sociocultural-learning|sociokulturellt]], [[distributed-cognition|distribuerad kognition]], [[situated-learning|situerat lärande]], [[embodied-learning|kroppsligt förankrat lärande]], [[community-of-inquiry|undersökningsgemenskap]]) står sida vid sida med elevinriktade processer som [[self-regulated-learning|självreglerat lärande]], [[self-determination-theory|teorin om självbestämmande]], [[motivation|motivation]], [[self-efficacy|självtillit]], [[self-directed-learning|självstyrt lärande]], [[metacognition|metakognition]], [[desirable-difficulties|önskvärda svårigheter]], [[transfer-of-learning|överföring av lärande]], [[prior-knowledge|tidigare kunskaper]], [[icap-framework|ICAP kognitivt engagemang]], [[reflection|reflektion]], [[refutation-text|motargumentstext]], [[retrieval-spacing-interleaving|hämtning, fördelning och intervling]] och [[activity-theory-aied|aktivitetsteori]]. Den utvecklingsmässiga ramen skär tvärs genom dessa: [[developmental-psychology|utvecklingspsykologi]] förklarar varför samma process ser annorlunda ut vid fem, femton och tjugofem år.
+- **Elevengagemang och erfarenhet:** [[student-engagement|elevengagemang]], [[help-seeking|hjälpsökande]], [[social-emotional-learning|social-emotionellt lärande]], [[well-being|välbefinnande]], [[creativity|kreativitet]], [[problem-solving|problemlösning]], [[mastery-learning|mästarlärande]] och [[student-ai-interaction|elev–AI-interaktion]] formar hur elever faktiskt möter och påverkas av AI, med [[empathy|empati]] som det affektiva utfall som ofta hävdas men sällan mäts, medan de [[social-norms-ai-use|sociala normer som etableras kring AI-användning]] avgör hur öppet något av detta kan diskuteras. Bortom kursen täcker [[student-support-and-success|elevstöd och elevframgång]] det institutionssida av arbetet — studievägledning, uppsökande verksamhet, hänvisning och fördelning av knappa stödresurser — där AI pålitligt förbättrar slutförandet av uppgifter men inte studiefortsättning eller examen.
 
 ## Tekniker och metoder
 
@@ -97,13 +101,26 @@ Sidan [[ai-technologies|Tekniker]] är paraplyt för det tekniska lagret:
 
 ## AI inom disciplinerna
 
-AI tillämpas inom discipliner och utbildningsnivåer. Kunskapsbasens [[discipline-specific-aied|översikt över AIEd inom disciplinerna]] kartlägger ämnesområdestäckningen — vid sidan av [[learning-sciences|lärandets vetenskaper]], som inte är ett undervisningsämne utan det övergripande forskningsfältet som studerar lärande i sig och betraktar ämnesinnehållet som en variabel bland andra:
+Ämnestäckningen är den största delen av fältet. [[discipline-specific-aied|AIEd inom disciplinerna]] rymmer den, vid sidan av [[learning-sciences|lärandets vetenskaper]], som inte är ett undervisningsämne utan det övergripande forskningsfältet som studerar lärande i sig och behandlar ämnesinnehållet som en variabel bland andra. Fyra kluster organiserar ämnessidorna:
 
-- **Ämnesområden:** [[math-education|matematik]], [[statistics-and-data-science-education|statistik och datavetenskap]], [[physics-education|fysik]], [[chemistry-education|kemi]], [[biology-education|biologi]], [[cs-education|datavetenskap]], [[engineering-education|ingenjörsutbildning]], [[stem-education|STEM]], [[writing-education|skrivande]], [[reading-education|läsinlärning]], [[language-learning|språkinlärning]], [[english-education|engelskkunskap (EAP/EFL/ESL)]], [[libraries|biblioteks- och informationsvetenskap]], [[science-education|naturvetenskaplig utbildning]], [[environmental-education|miljöutbildning]], [[business-education|ekonomi och management]], [[humanities-education|humaniora och samhällsvetenskap]], [[civic-and-political-education|medborgerlig och politisk utbildning]], [[arts-and-media-education|konst-, design- och medieutbildning]], [[medical-education|vård- och hälsoutbildningar]], [[legal-education|juridikutbildning]] och de professionella och tillämpade strängarna — [[nursing-education|sjuksköterskeutbildning]], [[information-technology|informationsteknik]], [[vocational-education|yrkesutbildning]] och [[design-education|designutbildning]].
+- **Humaniora och konst:** [[humanities-education|humaniora]], [[arts-and-media-education|konst- och medieutbildning]], [[music-education|musikutbildning]], [[writing-education|skrivande]], [[reading-education|läsinlärning]], [[language-learning|språkinlärning]] och [[english-education|engelska (EAP/EFL/ESL)]].
+- **Samhällsvetenskap:** [[social-sciences-education|samhällsvetenskaplig utbildning]], [[civic-and-political-education|medborgerlig och politisk utbildning]], [[business-education|ekonomi, management och företagande]] och [[environmental-education|miljöutbildning]].
+- **STEM:** [[stem-education|STEM-utbildning]], [[science-education|naturvetenskaplig utbildning]], [[math-education|matematik]], [[statistics-and-data-science-education|statistik och datavetenskap]], [[physics-education|fysik]], [[chemistry-education|kemi]], [[biology-education|biologi]], [[cs-education|datavetenskap]], [[engineering-education|ingenjörsutbildning]] och [[information-technology|informationsteknik]].
+- **Professioner:** [[professions-education|professionsutbildningar]], [[medical-education|medicinsk och hälsofacklig utbildning]], [[nursing-education|sjuksköterskeutbildning]], [[legal-education|juridisk utbildning]], [[teacher-education|lärarutbildning]], [[design-education|designutbildning]] och [[libraries|biblioteks- och informationsvetenskap]].
+
+Vilket kluster ett ämne hamnar i avgör också vilken sida som äger dess evidens. [[vocational-education|Yrkesutbildning]] ligger under nivåer i stället för här, eftersom den namnger en kvalificeringsväg mer än en disciplin.
 
 ## Nivåer och sammanhang
 
-Samma AI-verktyg möter mycket olika miljöer, och kunskapsbasen håller isär utbildningsnivån från pedagogiken så att fynd inte i tysthet överförs mellan dem: [[k-12|K-12-skolor]], [[early-childhood-elementary-ai-education|förskoleklass och grundskola]], [[higher-ed|högskola]], [[adult-learning|vuxenlärande]], [[vocational-education|yrkesutbildning]], [[special-education|specialpedagogik]] och [[teacher-education|lärarutbildning]]. Ämnesnärliggande begrepp som skär över nivåer omfattar [[universal-design-for-learning|universal design for learning]], [[neurodiversity|neurodiversitet]], [[multilingual-learning|flerspråkigt lärande]] och [[social-emotional-learning|social-emotionellt lärande]].
+Samma AI-verktyg möter mycket olika miljöer, och utbildningsnivån hålls åtskild från pedagogiken så att fynd inte i tysthet förs över mellan dem: [[k-12|K-12-skolor]], som nu delas i [[early-childhood-elementary-ai-education|tidig barndom]], [[primary-education|grundskolans tidigare år]] och [[secondary-education|gymnasieskolan]]; [[higher-ed|högre utbildning]], som delas i [[undergraduate-education|grundnivå]] och [[graduate-education|avancerad nivå]]; samt miljöerna utanför dessa stegar, [[adult-learning|vuxenlärande]], [[vocational-education|yrkesutbildning]], [[special-education|specialpedagogik]] och [[teacher-education|lärarutbildning]]. [[education-levels|Utbildningsnivåer]] jämför dem. Domännära begrepp som skär över nivåer omfattar [[universal-design-for-learning|universell design för lärande]], [[neurodiversity|neurodiversitet]], [[multilingual-learning|flerspråkigt lärande]] och [[social-emotional-learning|social-emotionellt lärande]].
+
+## Samma verktyg, motsatta designval
+
+Nivån är den variabel som tydligast vänder på en designrekommendation. Gymnasieevidens sätter läraren mellan eleven och verktyget: över 33 studier kom vinsterna där eleverna jämförde utdata, och de avtog där verktyget producerade arbetet ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca m.fl. (2026)]]).
+
+Evidens från avancerad nivå pekar åt andra hållet, mot partnerskap med en ansvarsskyldig människa. Beredskapsfaktorer nådde forsknings[[self-efficacy|självtillit]] genom handledarens stöd (β = 0.201 indirekt), inte genom verktygsanvändning ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo m.fl. (2026)]]). En genomgång av doktorandhandledning når samma design slutsats från etiken: legitimitet hänger på uppgiften snarare än verktyget, deklaration står i proportion till intellektuell betydelse, och styrningen granskas vid milstolpar ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja m.fl. (2026)]]).
+
+Det som inte förändras är att en människa håller omdömet. Studenter i ett forskarseminarium accepterade AI-utdata först efter att en kunnig grindvakt kontrollerat dem, vilket Chen läser som delegerat snarare än överlämnat handlingsutrymme ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). Frekvens är fel mått mellan nivåerna: den förutsade kompetens på avancerad nivå med β = 0.030 när etik och självreglering förts in i modellen ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova m.fl. (2026)]]).
 
 ## Bedömning och mätning
 
@@ -116,7 +133,7 @@ AI förvandlar både hur vi bedömer elever och hur vi utvärderar AI-systemen s
 
 Hur vi vet om AI fungerar är en egen sträng, och kunskapsbasen behandlar den som en:
 
-- **Forskningsmetoder:** [[research-methods-aied|forskningsmetoder inom AIED]] som paraply, med [[qualitative-research|kvalitativa]], [[quantitative-research|kvantitativa]], [[mixed-methods-research|blandade metoder]], [[design-based-research|designbaserade]] och [[usability-research|användbarhetsinriktade]] tillvägagångssätt, plus [[rct|randomiserade kontrollerade försök]], [[meta-analysis-systematic-review|metaanalys och systematisk genomgång]] och [[network-analysis|nätverksanalys]].
+- **Forskningsmetoder:** [[research-methods-aied|forskningsmetoder inom AIED]] som paraply, med [[qualitative-research|kvalitativa]], [[quantitative-research|kvantitativa]], [[mixed-methods-research|blandade metoder]], [[design-based-research|designbaserade]] och [[usability-research|användbarhetsinriktade]] och [[longitudinal-research|longitudinella]] tillvägagångssätt, plus [[rct|randomiserade kontrollerade försök]], [[meta-analysis-systematic-review|metaanalys och systematisk genomgång]] och [[network-analysis|nätverksanalys]].
 
 Fältets eget forskningsarbete är nu ett ämne i sig. [[ai-assisted-educational-research|AI-assisterad utbildningsforskning]] täcker AI som instrument för litteratursökning, screening, kvalitativ kodning, analys och skrivande, inklusive praktikernära forskning som scholarship of teaching and learning. Det förblir åtskilt från de designer som används för att studera vad AI gör med elever.
 
@@ -175,6 +192,10 @@ AI i utbildningen kopplar till varje begrepp i kunskapsbasen — det är fältet
 **"Fältets mognad kan avläsas ur dess publikationsvolym."** Volym och mognad divergerar; forskningsmetodsträngen dokumenterar återkommande designbrister som volymen inte åtgärdar, och ramverk förökar sig snabbare än de prövas.
 
 ## Anslutna begrepp
+- [[primary-education]] — AI i grundskolans tidigare år
+- [[secondary-education]] — AI i högstadiet och gymnasiet
+- [[undergraduate-education]] — AI på grundnivå
+- [[graduate-education]] — AI på avancerad nivå och i forskarutbildning
 - [[pedagogical-patterns]] — De beprövade sekvenser som operationaliserar fältets pedagogiker
 - [[ai-literacy]] — paraply: att förstå, använda och utvärdera AI
 
@@ -221,3 +242,8 @@ Fältomfattande genomgångar av AI i utbildningen — de studier som beskriver h
 - [[genai-higher-education-systematic-review-2026]] — Generativ AI i högre utbildning: systematisk genomgång av 125 studier
 - [[stanford-evidence-base-ai-k12-2026]] — Evidensbasen om AI i K-12: en genomgång av 818 artiklar
 - [[genai-educational-outcomes-meta-analysis]] — Generativ AI och utbildningsutfall: omfattande metaanalys
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 gymnasiala studier; vinster där eleverna bedömer utdata, inte där verktyget producerar arbetet
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 masterstudenter; beredskap nådde självtillit genom handledarstöd
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Genomgång av 61 källor om etik, återkoppling och styrning i doktorandhandledning
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Ett forskarseminarium i en grupp; vinster i självstyrt lärande utan ett oassisterat prov
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 studenter; gap mellan grund- och avancerad nivå i etik och självreglering

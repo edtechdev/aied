@@ -11,14 +11,18 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-04T17:25:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-16T09:06:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -100,8 +104,9 @@ Kognitívne odľahčenie nie je samo o sebe škodlivé: ľudia vždy používali
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette a spol. (2026)]] zaznamenávajú odľahčenie ako vlastnú skúsenosť účastníkov, a nie ako teoretické riziko: jeden uviedol, že mu genAI "znemožnila skutočne čítať a sám zistiť, čo je v texte dôležité, a rozvíjať čitateľské zručnosti", a ďalší sa obával "dlhodobého vývoja, keď sa stanem horším v určitých zručnostiach, v ktorých som teraz veľmi silný".
 - **Účinok spočíva v deľbe práce, nie v nástroji.** Nakamura (2026) argumentuje, že heterogenita účinkov GenAI na učenie sa rozplynie, keď sa jednotkou analýzy stane rozdelenie kognitívnej práce medzi študenta a stroj. Odľahčenie učenie posilňuje, keď vykonáva operácie periférne voči aktuálnemu cieľu, a riskuje eróziu, keď obchádza spracovanie, ktoré je pre ten cieľ konštitutívne ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Podstatné spracovanie výstupu alebo jeho neskoršia rekonštrukcia je to, čo zachráni inak konštitutívne odľahčenie.
-
 - **Čo človek smie odovzdať, závisí od jeho skúsenosti s úlohou.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] robí poradie úloh personálne relatívne: čo je pre nováčika vyššieho rádu, je pre niekoho, kto už procedúru ovláda, nižšieho rádu, takže povolené odľahčenie by malo rásť so skúsenosťou a zastaviť sa na jadre práce.
+
+**Konštitutívny test má základ v štruktúre úlohy.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] lokalizuje hranicu medzi internetom a GenAI v Biggsovej taxonómii SOLO. Internet uľahčoval multistrukturálne úlohy, ale študent musel stále budovať spojenia, ktoré posúvajú prácu na relačnú úroveň, zatiaľ čo GenAI túto štruktúru vyprodukuje na požiadanie. Keď artefakt prestane preukazovať relačné myslenie, ktoré mala úloha vyvolať, hodnotenie musí vážiť proces jeho vytvárania.
 
 **Kognitívny kapitál je zásoba, z ktorej odľahčenie čerpá.** [[riva-cognitive-capital-generative-ai-review-2026|Riva a spol. (2026)]] preformulovávajú odľahčenie ako zmenu zásoby, nie ako akt. Kognitívny kapitál je nahromadené, obnoviteľné a spotrebovateľné poznanie, schopnosť a prax, držané jednotlivcami aj organizáciami a oddelené od schopnosti systému človek-AI, aby bolo možné vidieť spoločný výkonnostný zisk popri strate ľudskej schopnosti. Ich štyri mechanizmy - substitúcia praxe, lešenie a spätná väzba, metakognitívna kalibrácia a organizačné agregovanie - dávajú sedem princípov, vrátane toho, že asistovaný výkon nie je zachovaná kompetencia a že odľahčenie úlohy sa líši od odľahčenia praxe, ktorá zručnosť buduje. Motivujúcou štatistikou je postupné zavádzanie u 5 172 agentov zákazníckej podpory, kde asistent zvýšil počet vyriešených problémov za hodinu o 15 %; to číslo opisuje spoločný systém a či agenti dokázali prácu aj bez pomoci, je meranie, ktoré recenzovaná literatúra neobsahuje.
 
@@ -109,12 +114,13 @@ Kognitívne odľahčenie nie je samo o sebe škodlivé: ľudia vždy používali
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] referuje predregistrovaný experiment (N = 317), v ktorom sa dospelí učili nový obsah z konvenčných pracovných listov alebo od univerzálneho asistenta obmedzeného na tie isté pracovné listy. Podmienka AI znížila merané kognitívne odľahčenie, namiesto toho aby ho zvýšila (medián −0,27, 95 % kredibilný interval −0,58 až 0,04). Hlboké spracovanie napriek tomu kleslo, ale cez reťaz, v ktorom nižšie odľahčenie sledovalo nižšie [[critical-thinking|kritické myslenie]], ktoré následne predikovalo slabšie hlboké spracovanie (0,78). Dezorganizácia vzrástla o 0,84 bez toho, aby efekt niesol nejaký mediátor. Zistenie je varovaním pre štandardný opis: odľahčenie nie je jedinou cestou, ktorou prostredie [[generative-ai|AI]] eroduje spracovanie, a podmienka môže nechať odľahčenie nedotknuté, zatiaľ čo potláča to, čo malo odľahčenie chrániť.
 
+- **O usporiadaní, a nie o množstve, rozhoduje, či odľahčenie pomáha.** Bakalári používajúci GenAI v pracovných listoch dizajnového myslenia, ktoré nechávali rámcovanie problému, porovnávanie a revíziu na študentovi, hlásili vyššiu tvorivú [[self-efficacy|sebaúčinnosť]] a lepšie hodnotené produkty než študenti používajúci ten istý model bez obmedzení ([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026]]).
+
 ### Odľahčenie empatie, nielen kognície
 
 Tá istá výmena sa týka emočnej práce a tam sú dôkazy novšie. [[shastry-gray-empathy-offloading-2026|Shastry a Gray (2026)]] nazývajú odľahčenie empatie: keď systém dokáže poskytnúť emocionálnu podporu, ľudia jej sami poskytujú menej (N = 2 223 v štyroch štúdiách). Ochota odovzdať empatiu modelu sledovala presvedčenie o jeho schopnosti mať ju (b = 0,44) a experiment, ktorý to presvedčenie zvýšil bežným spravodajstvom, cez neho pohol odľahčením (nepriamy 0,73, priamy nie je kredibilný). Poučná časť je tam, kde sa sebahodnotenie a správanie rozchádzajú: keď účastníkom povedali, že študent dostal podporu od chatbota, hodnotili svoje vlastné odľahčenie nižšie než pri priateľovi alebo terapeutovi a potom zvolili menej slov empatie a viac slov ľahostajnosti o tom študentovi.
 
 - **Odľahčenie sa delí na viditeľný zisk a neviditeľnú stratu.** [[pradubwate-illusion-ai-competence-miscalibration-2026|Pradubwate (2026)]] tvrdí, že kalibračné zlyhanie dokumentované na tejto stránke je *transdimenzionálna* inferencia, nie všeobecné preceňovanie. Operačná kompetencia (promptovanie, iterovanie, integrovanie) vracia okamžitú a jednoznačnú spätnú väzbu, zatiaľ čo hodnotiaca kompetencia (posúdenie, či je výstup presný) vracia spätnú väzbu oneskorenú, riedku alebo žiadnu. Odľahčenie súčasne zvyšuje vnímané porozumenie a znižuje hlboké spracovanie a zažíva sa len prvé z nich. Preto sú varovania o obmedzeniach AI slabými intervenciami: adresujú presvedčenia o systéme, kým ilúziu generuje absencia vo vlastnej skúsenosti používateľa. Prehľad je konceptuálny, bez vlastných dát.
-
 
 ## Nadmerná závislosť: keď sa odľahčenie stáva škodlivým
 
@@ -166,7 +172,6 @@ Rebrík, ktorý táto stránka sleduje, má tri priečky a sem patria len prvé 
 
 **Prístup k [[ai-feedback-quality|spätnej väzbe AI]] nie je tou istou intervenciou ako jej spracovanie, a miery záťaže to oddeľujú.** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger a Liening (2026)]] uskutočnili päťtýždňovú longitudinálnu terénnu štúdiu v hre s obchodnou simuláciou (**234 študentov, 1 147 týždenných pozorovaní**) a oddelili pridelenie od prijatia. Samotné poskytnutie prístupu ku konverzačnej spätnej väzbe AI neposunulo ani **vonkajšiu** (β = 0,071, p = 0,481), ani **relevantnú** záťaž (β = 0,019, p = 0,807). Študenti, ktorí ju však používali **pravidelne**, hlásili významne **vyššiu relevantnú záťaž** než experimentálni nepoužívatelia (β = -0,468, p < 0,001) a než kontrolná skupina (β = -0,253, p = 0,028), kým **vonkajšia záťaž nebola nikdy znížená** prístupom ani angažovaním (F(1, 219) = 0,499; podľa používania F(3, 214) = 0,172). To je teoreticky zaujímavý vzorec a opak obvyklého tvrdenia: intervencia prinútila študentov pracovať na materiáli viac, bez toho, aby urobila prostredie ľahším. Vnútorná záťaž poháňala vonkajšiu záťaž (**β = 0,647, p < 0,001**) a metakognitívna samoregulácia poháňala relevantnú záťaž (**β = 0,363, p < 0,001**), pričom vonkajšia záťaž bola negatívne asociovaná s relevantnou (β = -0,178, p < 0,001) presne tak, ako CLT špecifikuje. Obe záťaže tiež **klesali naprieč piatimi týždňami** (vonkajšia β = -0,388, p < 0,001), čo je efekt novosti viditeľný na kognitívnej miere a nie na miere angažovanosti.
 
-
 Teória kognitívnej záťaže (Sweller) poskytuje spornú teoretickú optiku na [[cognitive-psychology|pracovnú pamäť]] a výučbu: vnútorná záťaž (zložitosť úlohy), vonkajšia záťaž (trenie v prezentácii) a relevantná záťaž (úsilie o budovanie schém). Dobre navrhnutá AI by mala znižovať vonkajšiu záťaž a zachovávať relevantné spracovanie; slabo integrovaná AI znižuje všetky tri a necháva študentov s dokončenými úlohami a prázdnym učením. Upozorňujeme, že tvrdenia tejto teórie sú v širšej literatúre sporné, ale jej rámcovanie zostáva vplyvné v tom, ako sa o účinkoch odľahčenia diskutuje.
 
 **Stávky odľahčenia na úrovni profesie.** Rámec kognitívneho spoločenstva ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) rozširuje odľahčenie z individuálnej na kolektívnu úroveň: keď AI umožní mladším pracovníkom vynechať kognitívny zápas, ktorý buduje hlbokú expertízu, môže to časom vyčerpať zdieľaný fond expertízy profesie; "validačné lano" znamená, že účinný dohľad nad AI závisí práve od majstrovstva, ktoré prijatie AI môže podkopať. To prerámováva individuálne odľahčenie a úbytok zručností ako problém regenerácie na úrovni systému s dôsledkami pre [[governance|riadenie]].
@@ -187,9 +192,13 @@ Tá istá logika premieňa formovanie odmien na návrhový nástroj: [[assistanc
 
 **Nadmerná závislosť sa objavuje ako pomenovaná výzva naprieč disciplínami, nie ako anomália jednej štúdie.** V prehľade 66 štúdií o generatívnej AI v [[inquiry-based-learning|učení založenom na prieskume]] [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya a spol. (2026)]] zistili nadmernú závislosť alebo kognitívne odľahčenie v 16 štúdiách (24,2 %), za nepresnosťou na 31,8 %. Vzorec hlásia primárne štúdie, nie ho nemeria prehľad, ktorého autori nehodnotili ani kvalitu štúdií, ani publikačnú zaujatosť.
 
+Novšie kauzálne dôkazy oddeľujú dokončenie úlohy od jej naučenia sa. V experimente 2×2 s 24 kanadskými bakalármi začiatočníci s ChatGPT prešli 410,7 z 500 generovaných testov oproti 80,7 bez neho, zatiaľ čo stredne pokročilí študenti nezískali nič a viedli si lepšie s konvenčnými zdrojmi ([[chen-genai-programming-understanding-2026|Chen a spol., 2026]]). Samostatná štúdia s 22 programátormi zistila, že GitHub Copilot priniesol 14,09-bodovú výhodu vo výkone a nižšiu pracovnú záťaž počas úlohy, bez prínosu pri reteste bez pomoci asi o týždeň neskôr ([[gardella-copilot-fast-forgettable-2026|Gardella a spol., 2026]]). Odľahčenie môže zvýšiť výstup a zároveň nechať schopnosť ho vytvoriť nedotknutú.
+
+Dve nedávne štúdie dávajú odľahčeniu merací aparát. 35-položková škála [[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasraha a kolegov]] premieňa proces na šesť reportovateľných dimenzií — nadmerná závislosť, povrchné porozumenie, znížené overovanie, slabšia pamäť, zmenšené úsilie a znížené kritické hodnotenie — validovaných na 616 stredoškolákoch. Prieskum [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharmu, Mananiho a Thakwaniho]] medzi univerzitnými študentmi zistil, že závislosť na ChatGPT bola spojená so slabším výkonným fungovaním hlavne cez akademický stres, pričom priama cesta klesla na P = 0.328, keď do modelu vstúpil stres. Obe patria k [[executive-function|výkonným funkciám]], ktoré držia kapacitu, ktorú má odľahčenie podľa predpokladu vytláčať.
+
+[[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri, Chatziioannou a Palaiologos (2026)]] skúmajú migráciu tohto konštruktu do generatívnej AI v naratívnom prehľade, ktorý nič nezlúči a neuvádza žiadne nové dáta. Ich rámec riadi analýzu: odľahčenie je realokácia úsilia a otázkou je, či sa realokované úsilie vráti ako učenie. S generatívnou AI sa mení objekt — uvažovanie, syntéza a hodnotenie namiesto vyhľadávania a aritmetiky — takže starší výsledok, že odľahčenie predpovedá slabšiu odloženú retenciu, teraz platí pre prácu vyššieho rádu. Ich jediné dizajnové tvrdenie je konkrétne: prompty, ktoré vyžadujú odôvodnenie alebo hodnotenie, znižovali odľahčenie a zlepšovali kvalitu argumentácie, čo robí z dizajnu interakcie, a nie zo schopnosti modelu, tú pravú páku.
+
 **Konfigurácia obídenia má občiansku cenu, ktorú štúdie učenia nefakturujú.** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz a Castro Samayoa (2026)]] tvrdia, že vôľové odľahčenie skúmania, analýzy, hodnotenia a syntézy atrofuje prax, na ktorej závisí demokratické občianstvo. Ich pravidlo sekvenovania je rozlíšenie obídenie/lešenie vyjadrené vývojovo: aritmetika pred kalkulačkami, citačné konvencie pred manažérmi referencií a chatbot zavedený po zručnosti, nie namiesto nej. Pomenúvajú aj rámec, ktorý robí obídenie príťažlivým: premisu efektívnosti, podľa ktorej zmyslom školskej práce je skončiť rýchlo.
-
-
 
 ## Časté mylné predstavy
 
@@ -218,13 +227,15 @@ Tá istá logika premieňa formovanie odmien na návrhový nástroj: [[assistanc
 - [[retrieval-spacing-interleaving]] - Protipraxa voči tomu, aby model vybavoval v mene študenta
 - [[cognitive-surrender]]
 - [[reflection]]
+- [[executive-function]]
 
 ## Prepojené články
 
+- [[chen-genai-programming-understanding-2026]] — začiatočníci a stredne pokročilí programátori: ChatGPT zvýšil počet prejdených testov na 410,7 oproti 80,7, zatiaľ čo porozumenie nie (Chen a spol. 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 nováčikov: 14,09-bodová výhoda Copilota neprežila retest bez pomoci o týždeň neskôr (Gardella a spol. 2026)
 - [[riva-cognitive-capital-generative-ai-review-2026]] — Kognitívny kapitál: odľahčenie ako čerpanie z obnoviteľnej zásoby schopností
 - [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Transdimenzionálna miscalibrácia: operačná plynulosť nesprávne čítaná ako hodnotiaca a doménová kompetencia (konceptuálny prehľad)
 - [[akcaoglu-offloading-ladder-experience-2026]] — Rebrík odľahčenia: ako skúsenosť mení, čo majú študenti a praktici odovzdať AI (Akcaoglu 2026)
-
 - [[ai-proof-learning-cognitive-offloading-2026]] — Podpora alebo nahradenie uvažovania študentov? Kognitívne odľahčenie v učení sa dôkazom s podporou AI (Chen a spol. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Čo odovzdanie neukazuje: komplexifikácia kognitívneho odľahčenia v matematickej práci študentov s LLM (Kontorovich a Wallach 2026)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsenzus 30 expertov nad 65 procesmi učenia: odľahčenie na oboch koncoch učebnej sekvencie
@@ -267,10 +278,14 @@ Tá istá logika premieňa formovanie odmien na návrhový nástroj: [[assistanc
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — Reflexný podnet znižuje prijímanie nesprávnej rady AI a zlepšuje kalibráciu povedomia (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Závislosť od GenAI ako hraničná podmienka dispozície ku kritickému mysleniu a sebavnímanej zamestnateľnosti (Shojaei a spol. 2026)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Deti mali slabšie prepojenie predo-frontálnej, významovej a dorzálnej pozornostnej siete než dospelí pri rozhovore s ChatGPT, a to pri rovnakom skóre kreativity
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI a tvorivé myslenie detí: nadmerná závislosť a závislosť od promptov v prehľade rozsahu (Niu a spol. 2026)
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — Kognitívna dormancia: predregistrovaný experiment, v ktorom affordancie AI znížili hlboké spracovanie a zvýšili dezorganizáciu bez zvýšenia odľahčenia (Braun 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - nadmerná závislosť alebo kognitívne odľahčenie pomenované ako výzva v 16 zo 66 štúdií prieskumu
-- [[fan-metacognitive-offloading-sync-model-2026]] - Kvadranty SYNC a rekalibračná slučka: delegovanie regulátora, nie len práce (Fan a spol. 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — nadmerná závislosť alebo kognitívne odľahčenie pomenované ako výzva v 16 zo 66 štúdií prieskumu
+- [[fan-metacognitive-offloading-sync-model-2026]] — Kvadranty SYNC a rekalibračná slučka: delegovanie regulátora, nie len práce (Fan a spol. 2026)
 - [[zhang-usefulness-dependence-genai-2026]] — Od „užitočnosti” k „závislosti”: dynamický evolučný mechanizmus správaní pri používaní generatívnej AI
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Odňatie regulátora zvyšuje odľahčenie a znižuje kvalitu výstupu
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Pravidlo sekvenovania aplikované vývojovo: aritmetika pred kalkulačkami, citácie pred manažérmi referencií
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI a tvorivé myslenie detí: nadmerná závislosť a závislosť od promptov v prehľade rozsahu (Niu a spol. 2026)
+- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Šesť samovyhlásených dimenzií ťažkostí učenia sprostredkovaného AI
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Akademický stres sprostredkúva vzťah medzi závislosťou na ChatGPT a dysfunkciou výkonných funkcií
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Kognitívne odľahčenie v ére generatívnej AI: naratívny prehľad spájajúci odľahčenie s pamäťou, učením a dizajnom interakcie
+- [[ho-invariant-core-faculty-development-2027]] — Úrovne SOLO vysvetľujú, prečo GenAI dokáže dodať relačný artefakt, takže hodnotenie musí vážiť proces (Ho 2026)

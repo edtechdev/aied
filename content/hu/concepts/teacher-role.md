@@ -59,12 +59,8 @@ A tanítás itt azt a szakmai szerepet nevezi meg, ahogyan az MI átformálja: k
 Az „összehangoló” absztrakciót könnyebb megérteni az oktatói munka konkrét, mindennapi eltolódásain keresztül:
 
 - **Attól, hogy irányítópultokat olvas, addig, hogy tudja, mit mozgatnak - és kikért.** [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan és Sales (2025)]] kauzális kimeneti bizonyítékot adnak ugyanahhoz az irányítópult-olvasási munkához egy ASSISTments-en végzett randomizált ösztönzési elrendezésben.
-
 Azok a tanárok, akiket arra ösztönöztek, hogy nézzék meg a feladatjelentést, növelték a következő feladat befejezését (Anderson-Rubin F = 4,092, p = 0,044; összességében legalább 2 százalékpont).
-
 A 44 fő alatti osztályokban a nyereség legalább 24,5 százalékpont volt (F = 7,475, p = 0,007); a 43-nál több tanulót tanító tanárok már eleve magas arányban nézték meg a jelentéseket, akár bátorították őket, akár nem (77% a 75%-kal szemben) — valószínűleg olyan mindig résztvevők, akiket nem lehetett tovább mozdítani.
-
-A 44 fő alatti osztályokban a nyereség legalább 24,5 százalékpont volt (F = 7,475, p = 0,007); a 43 főnél több tanulóval dolgozó tanárok már ösztönzéssel vagy anélkül is magas arányban nézték meg a jelentéseket (77% szemben 75%-kal): valószínűleg mindig-résztvevők, akiket nem lehetett tovább mozdítani.
 
 - Lan és Chen (2026) a tanári szerzőséget származás szerint javasolják megítélni: egy ügynök csak akkor számít egy tanár ikertestvérének, ha a tekintélye egy megnevezett tanárhoz vezethető vissza, aki megtartja a felelősséget, az ítélőképességét vizsgálható specifikációvá fordította, és úgy bővíti a kapacitást, hogy nem helyezi át a szerzőséget, míg a platform alapértelmezései megbízottat adnak, nem ikertestvért ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan és Chen, 2026]]).
 
@@ -175,13 +171,9 @@ Két friss kísérlet számokat ad a munkaterhelés-érvre és annak korlátaira
 A bizonyítékok az MI-t bevezető oktató számára a műveletek meghatározott sorrendjét támogatják, nem a megtanulandó funkciók listáját.
 
 1. **Írjuk meg a tevékenységet, mielőtt eszközt választunk.** Határozzuk meg a célt, az elsőként következő diákpróbálkozást és azt, mi számít a megértés bizonyítékának. Az elsőként választott eszközök hajlamosak maguk köré átírni a tevékenységet.
-
 2. **Döntsük el kifejezetten a delegálási mintát.** Vázoljuk fel magunk az órát, és hagyjuk, hogy az MI töltse ki a tartalmi hézagokat, ahelyett hogy elfogadnánk egy generált vázlatot: ez a fenti minta a mért minőségkülönbséggel.
-
 3. **Helyezzük az emberi ellenőrzési pontot oda, ahol a szerzőség van.** Tervezzük úgy, hogy a tanuló értékelje, javítsa és sajátjaként vállalja az MI-támogatott munkát, és hogy az MI-visszajelzés piszkozatként érkezzen, amelyet a tanár válogat, ne megjegyzésként, amelyet továbbít.
-
 4. **Védjük meg az értelmezési időt, amelyet a váltás teremt.** Ha a figyelem az anyagelőállításról a tanulók olvasása felé mozdul, az újraosztott időnek túl kell élnie a naptárral való találkozást; ha új adminisztratív munka nyeli el, az ígért szerepváltás nem történik meg.
-
 5. **Ellenőrizzük, hogy eszközökre vagy pedagógiára képeznek-e minket.** A SEM-eredmény fényében részesítsük előnyben azt a szakmai fejlesztést, amely tudományági feladatokon és identitáson dolgozik, a funkcióbemutatók helyett.
 
 Az episztemikai tekintély az MI-támogatott tervezésben epizódról epizódra tárgyalódik, nem szabályzat dönti el. Öt tanárképzéses matematikatanár 34 tervezési epizódjában a tekintély 16-ban megmaradt, 12-ben megoszlott, 6-ban átadódott; az a tanár, aki egy teljes MI-óratervet másolt be, az alkotástól a jóváhagyásig lépett, míg egy másik megtartotta saját keretrendszerét, és ahhoz igazította a modell kimenetét ([[pang-epistemic-authority-ai-lesson-planning-2026|Pang és mtsai. (2026)]]).

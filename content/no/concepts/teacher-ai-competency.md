@@ -12,8 +12,8 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-06T09:20:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-16T08:24:32-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -21,8 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
-
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
 
 > **Læreres AI-kompetanse**: den kunnskapen, de ferdighetene og de holdningene lærere trenger for å integrere AI i undervisning og læring på en effektiv, etisk og likestilt måte. Den rekker utover teknisk verktøybruk og omfatter [[pedagogy|pedagogisk]] integrasjon, [[assessment|vurderingskompetanse]], etisk dømmekraft og tryggheten til å [[ai-literacy|bruke AI godt]]. Læreres AI-kompetanse er lærersidens motstykke til [[ai-literacy]], og utvikles gjennom [[educational-development|profesjonell utvikling]]. Den er sentral for hvordan [[teacher-role|lærerrollen]] endres i AI-augmenterte klasserom.
@@ -68,6 +71,12 @@ En sterkere versjon av denne omrammingen hevder at GenAI er et terskelbegrep sna
 
 **Kompetanse viser seg som reparasjon, ikke bare som prompting.** Med 7 matematikklærere i ungdomsskolen som skrev om 143 oppgaver, kodet [[walkington-teacher-in-loop-personalized-tasks-2026|Walkington et al. (2026)]] 415 oppfølgingsprompter: de fleste korrigerte realisme, lesbarhet eller matematisk struktur, og seks fanget opp upassende eller skjev output - lærerdømmekraft som virker som [[human-in-the-loop-ai|overvåking]] av den genererte oppgaven snarere enn som promptflyt.
 
+**To dimensjoner er forpliktelser, ikke skårer.** [[feng-ai-literacy-psychological-dimensions-2026|Feng og Carolus (2026)]] syntetiserer 58 skolestudier og plasserer *kontekstuell kunnskap* og *kontinuerlig profesjonell vekst* blant de seks dimensjonene i læreres AI-kompetanse, ved siden av TPACK-basert kunnskap og ferdigheter, etikk, den psykologiske dimensjonen og en generativ-AI-spesifikk. Tretten av artiklene bygger lærerkonseptualiseringen sin på [[tpack|TPACK]]. Å lese vekst som en dimensjon snarere enn et utfall endrer hva et kompetanserammeverk må måle: lærerens bane og skolens begrensninger blir en del av kompetansen, ikke vilkår rundt den.
+
+**Kompetansebygging svarer ikke på tappebanene.** I den samme undersøkelsen av 436 designlærere ved universiteter fant [[ding-genai-colleague-teacher-depletion-2026|Ding et al. (2026)]] at bruk av generativ AI hevet både undervisningsrelatert [[self-efficacy|mestringstro]] (β = 0.322) og AI-engstelse (β = 0.268) samtidig, og engstelsen forutsa mindre innovativ undervisning og mer tilbaketrekking fra arbeid (β = −0.152 og β = 0.264). Et profesjonelt utviklingsprogram som bare bygger ferdighet, lar den andre banen være urørt — moderatorene var organisatorisk støtte og psykologisk kontraktsbrudd, ikke kompetanse.
+
+Rammeverk spesifiserer hva en lærer skal kunne og tier om betingelsene kunnskapen utøves under. [[ji-judgement-space-dialogic-inquiry-2027|Ji og Mercer (2026)]] leser UNESCOs lærerrammeverk, OECDs undervisningskompass, DigCompEdu og BEME-gjennomgangen som én sjanger av lister, og bemerker at OECDs krav om at AI ikke må erstatte menneskelig skjønn, kommer uten en redegjørelse for hva som ville gjøre påstanden sann. Kompetansemodeller som legger til nok en dimensjon, bommer derfor på gapet artikkelen navngir.
+
 ## Kompetansegapet
 
 Et sentralt funn er **gapet mellom [[self-report-measures|selvrapportert]] og prestasjonsbasert kompetanse**. [[ai-literacy-assessment-misalignment|Forskning på vurdering av AI-kompetanse]] dokumenterer et betydelig avvik (opptil rundt 40%) mellom hva lærere *tror* de kan og hva de faktisk kan *demonstrere*: lærere som er trygge på AI-ferdighetene sine, mangler ofte grunnleggende prompt- og vurderingsevner. Dette motiverer **[[assessment|prestasjonsbasert vurdering]]** av lærerkompetanse snarere enn å stole på selvrapportering, og henger sammen med [[self-assessment|kalibrert selvvurdering]]. En nasjonal undersøkelse blant 2 586 nigerianske lærere i videregående skole målte de to sidene med separate instrumenter: moderat AI-bevissthet (M = 3,13 av 8) mot lavere AI-pedagogisk ferdighet (M = 2,47 av 5), med høyere rapportert ferdighet blant lærere tidlig og midt i karrieren enn blant erfarne kolleger ([[nigerian-teachers-ai-awareness-pedagogical-skills-2026|Olurinola et al., 2026]]).
@@ -78,13 +87,19 @@ Gapet gjelder ikke bare forskjellen mellom opplevd og faktisk ferdighet, men ogs
 
 En undersøkelse blant 132 lærere i Indonesia fant nesten universell aksept sammen med tynn mekanistisk forståelse: 96,2% støttet læreres AI-bruk, men bare 4,6% nevnte tokenisering eller dekoding, og 21,5% trodde ChatGPT søkte i en database eller på internett ([[ai-misconceptions-indonesian-k12-teachers-2026|Aji et al. (2026)]]). En positiv holdning er ikke bevis på en brukbar mental modell av verktøyet.
 
+- **Bruk og GenAI-opplæring avgjør holdninger; generell selvtillit gjør det ikke.** I TALIS 2024 skåret skandinaviske lærere som hadde brukt [[generative-ai|GenAI]], 0.72 SD høyere på enighet om nytte og 0.26 SD lavere på usikkerhet om den, GenAI-spesifikk profesjonell utvikling la til 0.20 SD, og brukerne var også oftere enige i bekymringer om feilframstilling ([[white-scandinavian-teachers-genai-attitudes-2026|White et al., 2026]]). Blant 425 K-12-profesjonelle forutsa epistemisk årvåkenhet kalibrert AI-beredskap med β = .675, mens autonom motivasjon ikke gjorde det (β = .076), og bare 143 rapporterte en klar skriftlig AI-policy ([[song-calibrated-ai-readiness-k12-2026|Song, 2026]]).
+
 Gapet er synlig i artefakten så vel som i selvrapporteringen. Et [[ai-integration-instructional-design-collaboratory-2026|tverrinstitusjonelt faglærerkollektiv i lærerutdanningen]], der lærerutdannere designet AI inn i sine egne metodeemner, rapporterte at kandidatene kunne produsere polerte AI-assisterte undervisningsopplegg uten å kunne forklare hvorfor et opplegg passet for elevene og læreplanen, siden selve opplegget ikke sier noe om resonneringen bak. Å sensurere begrunnelsen snarere enn produktet er én respons. [[bondurant-shaughnessy-ai-pedagogies-practice-2026|Rammeverket pedagogies of practice]] antyder en annen, ved å behandle prøving som en tilnærming til praksis: AI-formidlet prøving med strukturert tilbakemelding etter prøvingen økte kandidatenes bruk av undersøkende og utforskende spørsmål, men kandidatenes egne vurderinger av prestasjonen avvek fortsatt fra det observatørene registrerte.
+
+En modell på fakultetsnivå tyder på at en del av selvrapporteringssignalet er institusjonelt snarere enn individuelt. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] forutsa det selvvurderte kompetansebandet til 315 fakultetsmedlemmer og fant at tilhørighet var den største globale bidragsyteren, foran alder og grad, med undervisningskompetanseband fordelt 90.1 % mot 42.9 % høyt på tvers av institusjoner (χ² = 82.710, V = 0.512). En kompetanseskår som følger hvilket universitet respondenten er ansatt ved, måler kontekst like mye som kapabilitet.
 
 **En fallende selvvurdering etter opplæring kan signalisere læring snarere enn tap.** I et seks måneders [[tpack|Intelligent-TPACK]]-program for [[educational-development|profesjonell utvikling]] med 64 universitetslærere i Hongkong mot 61 i kontrollgruppe steg den samlede AI-kompetansen med rundt en halv standardavvik (Cohens d = -,521), men noen lærere i begge gruppene skåret lavere ved ettertest enn ved førtest ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Intervjuer tilskrev nedgangen et skifte fra ubevisst til bevisst inkompetanse, den rekalibreringen Dunning-Kruger-effekten forutsier, snarere enn tapt ferdighet. Forfatterne konkluderer med at selvrapportering før og etter undervurderer en intervensjon, fordi en del av gevinsten kommer som en nedadgående korreksjon i instrumentet selv.
 
 **Gapet kan invertere gjennom utdanningsløpet.** I videreutdanning i [[medical-education|medisinsk utdanning]] forventet tolv leger som leder AI-læreplanarbeid, at residenser skulle bli mer flytende i AI enn mange av lærerne deres, og foreslo samlæring og samundervisning snarere enn en enveis [[lifelong-learning|kompetanseheving]] av faglærere ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). De samme intervjuene beskrev informatikkenheter som ennå ikke modne nok til å lede læreplanutvikling, noe som plasserer begrensningen i institusjonell kapasitet like mye som i individuell ferdighet.
 
 **Gapet viser seg også som ikke-deltakelse.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] undersøkte 1 057 amerikanske universitetslærere sent i 2025 og fant at 26% ikke bruker [[generative-ai|generativ AI]]-verktøy i det hele tatt, at en tredjedel velger å ikke bruke dem til undervisning, og at ikke-bruken konsentreres i kunst- og [[humanities-education|humaniorafag]] (40%). Den institusjonelle siden av gapet var større enn den individuelle: 68% sa at deres institusjon ikke hadde forberedt faglærerne på å bruke generativ AI til undervisning og veiledning, og faglærerne oppga kollegers motstand (82%) og ukjenthet (83%) som de ledende hindringene for adopsjon ved instituttet, et bilde der kapasitetsbygging, kollegiale normer og policy alle må bevege seg sammen.
+
+Adopsjon går gjennom vurdering av faget snarere enn gjennom generell entusiasme. I intervjuer med 14 lærere ved fire kinesiske universiteter vurderte deltakerne AI som nyttig ut fra kunnskapskravene i eget felt, holdt det i en hjelperolle og gjorde bruken betinget av et klart formål og av at elevene tenker først ([[xiong-teachers-ai-attitudes-chinese-higher-ed-2026|Xiong et al. (2026)]]). Deres mest gjennomgående bekymring var ikke egen ferdighet, men at elevene overlot tenkeprosessen.
 
 **Lærerutdanningen går i stor grad utenom den etiske dimensjonen av kompetansen.** En [[meta-analysis-systematic-review|systematisk oversikt]] over AI i grunnutdanningen for lærerstudenter i matematikk for barnetrinnet ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto et al. 2026]], 11 studier valgt ut av 341 poster) fant at intervensjonene konsentrerte seg om kortsiktige tekniske og pedagogiske gevinster, med ni av de elleve som korte intervensjoner på én til seks økter, og rapporterte at etikk ble behandlet i bare tre av de elleve studiene. Kompetanserammeverkene nevner etisk dømmekraft som en dimensjon; litteraturen om lærerutdanning som skal bygge den, underviser sjelden i eller måler den.
 
@@ -120,27 +135,38 @@ Et designbasert moteksempel behandler kompetanse som situasjonell snarere enn et
 
 - **Verdier henger etter ferdigheter også i et domenespesifikt program.** I et ettårig program i Hongkong med 30 engelsklærere steg kunnskapen om [[multimodal]]-vurderingsstrategier fra 3,13 til 4,15 av 5 (partiell η² = 0,571) og kompetansen i å støtte elever fra 3,05 til 3,98 (0,482), begge signifikante, mens hvert verdidomene forble statistisk flatt under en Bonferroni-korrigert alfa på ,006. Lærerne tilskrev gevinstene felles planlegging i skolen og tverrskoliske klyngemøter snarere enn workshopene alene ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
 
+- **AI-planer er et utgangspunkt, og meglingen er kompetansen.** Tjueseks nyutdannede lærere som reviderte AI-genererte lekseplaner, skrev om oppgaver, la til modellering og språkstøtte, tydeliggjorde mål og bygde sekvenseringen på nytt rundt klasseromslogistikk, og beskrev rollen sin som å gjennomgå og tilpasse snarere enn å akseptere resultatet ([[wilcoxen-steiner-bell-ai-lesson-planning-2026|Wilcoxen et al., 2026]]).
+
 - **Mikrolæring kan utvikle universitetslæreres AI-kompetanse.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] forfinet to [[vocational-education|yrkesfaglige]] moduler gjennom to nettbaserte gruppediskusjoner til fem designprinsipper: klar struktur og orientering, veiledning og navigasjonsstøtte, segmentering og modularisering, multimodal presentasjon og aktivering av den lærende, og fant at plattformnavigasjon og å finne modulene var de viktigste praktiske barrierene.
 - **Intensjon om å ta i bruk hviler på behovstilfredsstillelse.** I en strukturell modell av 146 lærere forutsa tilfredsstillelse av kompetansebehov intensjonen om å bruke GenAI gjennom [[motivation|indre motivasjon]] og engasjement i profesjonell utvikling (indirekte 0,233), mens tilfredsstillelse av autonomi og tilhørighet ikke gjorde det ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al., 2026]]).
+
+Opplæring uten tid i timeplanen når ikke elevene. iRAISEs gjennomgang fra 2026 i fire land setter poenget strukturelt: læreplaner, lærerutdanning og materiell har bare begrenset effekt med mindre skolene setter av tid til å undervise i digital og AI-kompetanse, gjennom egne timer eller tverrfaglige prosjekter, noe som tvinger fram en beslutning om hvilket eksisterende innhold eller hvilke aktiviteter som reduseres eller erstattes ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). Gjennomgangen plasserer også opplæringen innenfor betalt arbeidstid, med start i lærerutdanningen og videre gjennom karrieren, differensiert etter fag og rolle — betingelser som behandler kompetanse som en arbeidsbetingelse snarere enn en personlig bragd. I alle fire casestudiene avgjorde lærernes selvtillit, ikke tilgangen på verktøy, om noe ble brukt.
+
+## Å måle læreres AI-kompetanse
+
+**Læreres digitale kompetanse for GenAI i læreplansdesign.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validerer et TAM-basert diagnostisk instrument med 434 yrkesaktive lærere; atferdsintensjon var den viktigste prediktoren for digital kompetanse i å bruke GenAI i læreplansplanlegging, med self-efficacy som rotårsak.
+
+En psykometrisk studie utviklet Teachers' AI Literacy Scale (TAILS) for å måle AI-kompetanse spesifikt innen [[teacher-education|språklærerutdanning]], ved å operasjonalisere ED-AI-rammeverkets seks dimensjoner. Instrumentets utvikling fyller et gap i vurderinger som retter seg mot studenter eller generelle brukere, og støtter måling av læreres AI-kompetanse.
+
+Instrumentlandskapet er siden blitt gjennomgått. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore og Maats systematiske oversikt fra 2026 over måleinstrumenter for læreres AI-kompetanse]] vurderte 33 instrumenter publisert mellom 2019 og 2025 og fant feltet metodologisk ensformig: 31 (93,9%) er selvrapporteringsskalaer for opplevd trygghet, bare to (6,1%) tester kunnskap objektivt, og ingen bruker prestasjonsbaserte oppgaver. Intern konsistens var det sterkeste kvalitetsdomenet (28 av 33 på karakter A) og rettferdighet det svakeste, med fem instrumenter (15,2%) som rapporterte måleinvarianse eller differensiell oppgavefunksjon. Innholdet henger også etter teknologien, siden 29 instrumenter (87,9%) retter seg mot generelle AI-begreper og bare fire (12,1%), alle fra 2025, mot generativ AI.
+
+Måling forutsetter at individet er riktig enhet, og rolledeling svekker den forutsetningen. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] fordeler fem av sine sju lærerroller over et undervisningsteam mens de holder grunnleggende teknisk og etisk kompetanse universell, så en individuell skår beskriver én bidragsyteres andel snarere enn den kapasiteten emnet faktisk drives av. Et program som bare måler individer, vil lese et velfungerende team som en samling halve lærere.
 
 ## Læreres AI-kompetanse og den endrede lærerrollen
 
 Etter hvert som AI overtar rutinemessige undervisnings- og vurderingsoppgaver, flytter lærerens særegne bidrag seg mot orkestrering, dømmekraft og relasjon: å avgjøre når og hvordan AI brukes, støtte [[agency|elevagens]] og kritisk bruk, sikre likestilling, og gi den sosiale og emosjonelle støtten AI ikke kan. Dette omformulerer lærerkompetanse rundt [[human-in-the-loop-ai|menneskelig tilsyn i sløyfen]], [[ethics|etisk dømmekraft]] og [[self-regulated-learning|støtte til selvregulert læring]], og knytter an til [[teacher-role]] og [[cognitive-offloading|vern mot overavhengighet]].
 
-## Implikasjoner for AI i utdanning
+## Implikasjoner for praksis
 
-- **Vurder prestasjon, ikke bare selvrapportering:** lærerkompetanse bør evalueres gjennom demonstrasjon, gitt det dokumenterte selvrapporteringsgapet.
-- **Tren hele kompetansen, ikke bare verktøy:** PD bør bygge tekniske, pedagogiske, vurderingsmessige og etiske dimensjoner sammen, forankret i [[learning-theories|læringsteori]].
-- **Bygg trygghet sammen med ferdighet:** holdninger og [[self-efficacy]] former adopsjon, så PD bør redusere angst og bygge trygghet gjennom autentisk, støttet praksis.
-- **Støtt det institusjonelle laget:** bærekraftig lærerkompetanse krever samordnet policy, styring og kapasitet, ikke isolert opplæring.
+Fakultetsutviklere kan rette profesjonell utvikling mot pedagogisk AI-kunnskap snarere enn verktøyflyt. Programmer som bygde pedagogisk innholdskunnskap, rapporterte store pre-post-gevinster, noe som tyder på at taket er høyere enn en enkelt workshop antyder, og teknisk opplæring alene har ikke flyttet elevenes oppfatninger i studiene som gjennomgås.
 
-- **Læreres digitale kompetanse for GenAI i [[curriculum-design|læreplansdesign]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validerer et TAM-basert diagnostisk instrument med 434 yrkesaktive lærere; atferdsintensjon var den viktigste prediktoren for digital kompetanse i å bruke GenAI i læreplansplanlegging, med self-efficacy som rotårsak.
+Lærerutdannere kan skille de to tingene opplæring i prompting kjøper. Sparing av tid til forberedelse er én fordel og bedre materiell en annen, og evidensen støtter den første uten å støtte den andre. Et program som lover begge, vil skuffe på kvalitet.
 
-### Et psykometrisk instrument for læreres AI-kompetanse
+Undervisere kan skrive agentinstruksjoner som ordnede trinn. Da lærere konfigurerte chatboter i naturlig språk, var den dominerende feilen et hoppet over arbeidsflyttrinn snarere enn et galt faktum, så ferdigheten det er verdt å øve på, er å spesifisere rekkefølge og forutsetninger, ikke å legge til mer detalj om innhold.
 
-- En psykometrisk studie utviklet Teachers' AI Literacy Scale (TAILS) for å måle AI-kompetanse spesifikt innen [[teacher-education|språklærerutdanning]], ved å operasjonalisere ED-AI-rammeverkets seks dimensjoner. Instrumentets utvikling fyller et gap i vurderinger som retter seg mot studenter eller generelle brukere, og støtter måling av læreres AI-kompetanse.
+Skoleledere kan finansiere betingelsene som gjør kompetansen brukbar: betalt arbeidstid, en plass i timeplanen og fagspesifikk støtte. iRAISE-sammenligningen fant at lærernes selvtillit avgjorde om verktøyene ble brukt i det hele tatt, og selvtillit følger praksis med støtte snarere enn opplæring alene.
 
-Instrumentlandskapet er siden blitt gjennomgått. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore og Maats systematiske oversikt fra 2026 over måleinstrumenter for læreres AI-kompetanse]] vurderte 33 instrumenter publisert mellom 2019 og 2025 og fant feltet metodologisk ensformig: 31 (93,9%) er selvrapporteringsskalaer for opplevd trygghet, bare to (6,1%) tester kunnskap objektivt, og ingen bruker prestasjonsbaserte oppgaver. Intern konsistens var det sterkeste kvalitetsdomenet (28 av 33 på karakter A) og rettferdighet det svakeste, med fem instrumenter (15,2%) som rapporterte måleinvarianse eller differensiell oppgavefunksjon. Innholdet henger også etter teknologien, siden 29 instrumenter (87,9%) retter seg mot generelle AI-begreper og bare fire (12,1%), alle fra 2025, mot generativ AI.
+Avdelingsledere kan vurdere kompetanse gjennom demonstrasjon. Selvrapporteringsskalaer og demonstrasjon spriker, og instrumentene som gjennomgås her, måler svært ulike konstrukter, så en portefølje av gjennomførte timer eller vurderte elevarbeider sier mer enn en beredskapsundersøkelse.
 
 ## Vanlige misoppfatninger
 
@@ -172,6 +198,10 @@ Instrumentlandskapet er siden blitt gjennomgått. [[assessing-teachers-ai-litera
 
 ## Beslektede artikler
 
+- [[feng-ai-literacy-psychological-dimensions-2026]] — Seks dimensjoner av læreres AI-kompetanse, med kontekstuell kunnskap og kontinuerlig profesjonell vekst blant dem (Feng og Carolus, 2026)
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 designlærere: kompetansegevinst og AI-engstelse stiger sammen, så støtte snarere enn opplæring avgjør utfallet (Ding et al., 2026)
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISEs gjennomgang i fire land: 84 av 194 stater fører MIL ut over tekniske ferdigheter inn i læreplaner, og menneskelige faktorer avgjorde utfallene i alle fire systemene (Cerioli, 2026)
+- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 nyutdannede lærere reviderte AI-lekseplaner; tilpasning var det største gapet (Wilcoxen et al. 2026)
 - [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Kjemilæreres forskningskompetanse etter AI-støttet profesjonell utvikling: en mixed-methods før-og-etter-studie
 - [[walkington-teacher-in-loop-personalized-tasks-2026]] — Læreren i sløyfen: personalisering av matematikkoppgaver i ungdomsskolen med ChatGPT (Walkington et al. 2026)
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Hvilke lærere fikk mer planleggingstid: lavere trygghet på fagkunnskap, lavere pedagogisk kunnskap, nyere i yrket eller høy trygghet på teknologi
@@ -180,7 +210,6 @@ Instrumentlandskapet er siden blitt gjennomgått. [[assessing-teachers-ai-litera
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodal vurderingskompetanse: et ettårig program der kunnskap og kompetanse beveget seg og verdiene ikke
 - [[teacher-ai-literacy-professional-development-meta-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-PD: en halv standardavvik i gevinst, og negative gevinster som leses som rekalibrering. Påvirkningen av programmer for profesjonell utvikling på K-12-læreres AI-kompetanse: en systematisk oversikt og metaanalyse
-
 - [[ailithub-ai-literacy-case-infrastructure-2026]] — Lærere merket egne AI-caser fra klasserommet og nådde praktiske kompetanser lett, men samfunnsmessige og etiske sjelden (Wang et al. 2026)
 - [[typology-generative-ai-tools-education-2026]] — Verktøyvalg som utøvelse av utdannerens agens
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematisk oversikt over generativ AI i K-12-undervisning og -læring (Marzano 2026)
@@ -231,3 +260,8 @@ Instrumentlandskapet er siden blitt gjennomgått. [[assessing-teachers-ai-litera
 - [[chen-ai-visualization-teaching-competency-scale-2026]] — Utvikling og validering av skalaen for AI-støttet visuell undervisningskompetanse
 - [[bursic-ai-residency-education-curriculum-2026]] — Hindringer for å integrere AI i residenslæreplaner: kvalitative intervjuer med tolv legeledere
 - [[yuan-teacher-need-satisfaction-genai-2026]] — Læreres grunnleggende psykologiske behovstilfredsstillelse og intensjoner om å bruke generativ AI: engasjement i profesjonell utvikling som formidler
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — Skandinaviske læreres holdninger til generativ kunstig intelligens: en utforskning av sammenhenger
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Fakultetets selvvurderte kompetanseband forutsies i stor grad av institusjonstilhørighet snarere enn individuelle kjennetegn
+- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Adopsjon vurdert fag for fag, med elevenes resonnering som hovedbekymring
+- [[chen-future-faculty-development-ai-2027]] — Kompetanse fordelt over et undervisningsteam, med grunnleggende teknisk og etisk kapabilitet holdt universell
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Rammeverk lister opp kompetanser og lar betingelsene for skjønn stå uteoriserte

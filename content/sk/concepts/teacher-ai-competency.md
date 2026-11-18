@@ -12,14 +12,18 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: "concepts/teacher-ai-competency"
-source_updated: "2026-11-06T09:20:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-16T08:24:32-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -64,7 +68,6 @@ Výskum vo vedomostnej báze sa zhoduje na niekoľkých prepojených dimenziách
 
 - V päťkrajinovom prieskume 1 405 učiteľov K-12 pripravenosť v oblasti AI predpovedala pozitívne presvedčenia o inštrukčnej hodnote GenAI (B = 0,59, R² = 0,50), ale predpovedala *väčšiu* obavu o [[creativity|kreativitu]] (B = 0,18), a tie isté prediktory vysvetlili len 7 % a 6 % obavy - samotné budovanie pripravenosti necháva obavu nedotknutú ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu a spol. (2026)]]).
 
-
 Pripravenosť by sa mala usporadúvať a merať podľa toho: Model schopnosť-rozhodnutie stavia preukázanú schopnosť v oblasti AI pred postoj a istotu a navrhuje ukazovatele výkonu namiesto samotného sebahodnotenia - úlohy navrhovania hodín, úlohy hodnotenia promptov so zaseknutými chybami, úsudky o obsahovej platnosti a rubriky triednych artefaktov ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 **Emocionálna a morálna pripravenosť je samostatná dimenzia.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] skúmal akademických pracovníkov maltskej [[higher-ed|univerzity]] (109 respondentov) a zostavil Index viny z AI (α = 0,88) zo štyroch položiek morálnych emócií, pričom zistil, že *anticipačná* vina prevyšovala výčitky zažité po použití: najsilnejším súhlasom bola obava, že používanie AI podkopáva vlastnú kredibilitu (34,9 % súhlasilo), potom pocit, že človek pri používaní [[academic-integrity|podvádza]] (25,7 %), zatiaľ čo výčitky po použití dosiahli len 9,2 %. Pre rámce kompetencií sú dôležité zistenia, že nepoužívatelia hlásili *vyššiu* vinu než používatelia (M = 3,25 oproti M = 2,32) a že vina klesala s rastúcou kariérnou istotou - akademici na začiatku kariéry hlásili najviac (M = 2,71) a seniorní akademici najmenej (M = 2,03). Emocionálna pripravenosť sa preto nezachytáva meraniami zručností ani istoty a práca argumentuje, že rámce kompetencií by mali považovať vinu a obavu o identitu za normálne prechodové reakcie, a nie za chyby na opravu.
@@ -73,6 +76,11 @@ Silnejšia verzia tohto prerámovania tvrdí, že GenAI je prahový koncept, a n
 
 **Kompetencia sa ukazuje ako oprava, nielen ako promptovanie.** So 7 učiteľmi matematiky druhého stupňa ZŠ, ktorí prepísali 143 úloh, [[walkington-teacher-in-loop-personalized-tasks-2026|Walkington a spol. (2026)]] kódovali 415 nadväzných promptov: väčšina opravovala realizmus, čitateľnosť alebo matematickú štruktúru a šesť zachytilo nevhodný alebo predpojatý výstup - úsudok učiteľa pôsobil ako [[human-in-the-loop-ai|monitorovanie]] generovanej úlohy, nie ako plynulosť v promptovaní.
 
+**Dve dimenzie sú záväzky, nie skóre.** [[feng-ai-literacy-psychological-dimensions-2026|Feng a Carolus (2026)]] syntetizujú 58 štúdií o školskom vzdelávaní a medzi šesť dimenzií AI gramotnosti učiteľa zaraďujú *kontextové vedomosti* a *kontinuálny profesijný rast* popri vedomostiach a zručnostiach založených na TPACK, etike, psychologickej dimenzii a dimenzii špecifickej pre generatívnu AI. Trinásť z prehľadaných článkov stavia svoju konceptualizáciu učiteľa na [[tpack|TPACK]]. Chápať rast ako dimenziu a nie ako výsledok mení to, čo musí kompetenčný rámec merať: trajektória učiteľa a obmedzenia školy sa stávajú súčasťou kompetencie, a nie podmienkami okolo nej.
+
+**Budovanie kompetencie nerieši cestu vyčerpania.** V tom istom prieskume 436 univerzitných učiteľov dizajnu [[ding-genai-colleague-teacher-depletion-2026|Ding a spol. (2026)]] zistili, že používanie generatívnej AI zvýšilo súčasne učnícku [[self-efficacy|sebaúčinnosť]] (β = 0.322) aj AI úzkosť (β = 0.268) a úzkosť predikovala menej inovatívnej výučby a väčšie stiahnutie sa z práce (β = −0.152 a β = 0.264). Program profesijného rozvoja, ktorý buduje len zručnosť, necháva druhú cestu nedotknutú — moderátormi boli organizačná podpora a porušenie psychologickej zmluvy, nie kompetencia.
+
+Rámce špecifikujú, čo má učiteľ vedieť, a mlčia o podmienkach, za ktorých sa tieto vedomosti uplatňujú. [[ji-judgement-space-dialogic-inquiry-2027|Ji a Mercer (2026)]] čítajú rámec učiteľov UNESCO, vzdelávací kompas OECD, DigCompEdu a prehľad BEME ako jeden žáner zoznamu a poznamenávajú, že požiadavka OECD, aby AI nenahrádzala ľudský úsudok, prichádza bez vysvetlenia, čo by toto tvrdenie urobilo pravdivým. Kompetenčné modely, ktoré pridajú ďalšiu dimenziu, preto míňajú medzeru, ktorú práca pomenúva.
 
 ## Medzera v kompetencii
 
@@ -90,13 +98,18 @@ Medzera je viditeľná v artefakte aj v sebahodnotení. [[ai-integration-instruc
 
 **Medzera sa môže v potrubí obrátiť.** V postgraduálnom [[medical-education|lekárskom vzdelávaní]] dvanásť lekárov, ktorí vedú prácu na kurikule AI, očakávalo, že rezidenti budú v AI plynulejší než mnohí ich učitelia, a navrhli spoločné učenie a spoločné vyučovanie namiesto jednosmerného [[lifelong-learning|zvyšovania kvalifikácie]] pedagógov ([[bursic-ai-residency-education-curriculum-2026|Bursic a spol. (2026)]]). Tie isté rozhovory opísali informatické jednotky ešte nedostatočne zrelé na vedenie tvorby kurikula, čo lokalizuje obmedzenie v inštitucionálnej kapacite aj v individuálnej zručnosti.
 
-
 **Medzera sa prejavuje aj ako neúčasť.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] uskutočnili prieskum medzi 1 057 americkými univerzitnými akademickými pracovníkmi na konci roku 2025 a zistili, že 26 % nástroje [[generative-ai|generatívnej AI]] vôbec nepoužíva, pričom tretina sa ich rozhodla nepoužívať na výučbu a nepoužívanie sa koncentruje v umení a [[humanities-education|humanitných vedách]] (40 %). Inštitucionálna strana medzery bola väčšia než individuálna: 68 % uviedlo, že ich školy nepripravili akademických pracovníkov na používanie generatívnej AI vo výučbe a mentorovaní, a akademickí pracovníci menovali odpor kolegov (82 %) a neznalosť (83 %) ako hlavné prekážky prijatia na katedre - obraz, v ktorom sa budovanie kapacity, rovesnícke normy a politika musia hýbať spolu.
 
 **Pregraduálna príprava z veľkej časti obchádza etickú dimenziu kompetencie.** [[meta-analysis-systematic-review|Systematický prehľad]] AI v počiatočnom vzdelávaní učiteľov pre budúcich učiteľov matematiky na primárnom stupni ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto a spol. 2026]], 11 štúdií vybraných z 341 záznamov) zistil, že intervencie sa sústredili na krátkodobé technické a pedagogické prínosy, pričom deväť z jedenástich boli krátke intervencie trvajúce jedno až šesť sedení, a uviedol, že etika bola adresovaná len v troch z jedenástich štúdií. Rámce kompetencií menujú etický úsudok ako dimenziu; pregraduálna literatúra, ktorá ho má budovať, ho zriedka vyučuje alebo meria.
 
 - **Sedem zhlukov kompetencií, s etikou ako najslabším článkom.** Tematická syntéza 78 štúdií prináša zhluky pre prompt engineering, [[critical-thinking|kritické hodnotenie]] výstupov AI, etické povedomie a detekciu predsudkov, zladenie pedagogického obsahu, konceptuálnu AI gramotnosť, ľudský dohľad a reflexiu. Prompt engineering bol najdôslednejšie dokumentovaný a správa sa ako **vývojové spektrum**, a nie jedna zručnosť, čo recenzentov viedlo k argumentu, že ho najlepšie chápať ako pedagogické uvažovanie uskutočňované cez nové médium - prompt ako externalizované dizajnové rozhodnutie. Etické povedomie bolo **najslabšie dokumentovanou kompetenciou** v pregraduálnych štúdiách ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **Učitelia preceňujú svoju zručnosť hodnotenia.** Popri zistení, že len **38,3 % cieľov učenia generovaných AI splnilo všetky kritériá kvality bez revízie**, budúci učitelia **systematicky preceňujú svoju schopnosť hodnotiť výstup chatbota** - čo recenzenti čítajú ako možný percepčný, a nie deklaratívny deficit. Preto argumentujú, že kompetencia by sa mala hodnotiť cez výkonové artefakty (plány hodín, záznamy rozhodnutí, mikrovýučba), a nie cez sebahodnotenie: nespoľahlivosť sebahodnotenia je demonštrovaná práve v tej literatúre, ktorú má tréning adresovať.
+
+Model na úrovni fakulty naznačuje, že časť signálu zo samohodnotenia je inštitucionálna, nie individuálna. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez a spol. (2026)]] predikovali pásmo samohodnotenej digitálnej kompetencie 315 univerzitných pedagógov a zistili, že najväčším globálnym prispievateľom bola príslušnosť k inštitúcii, pred vekom a titulom, pričom pásma pedagogickej kompetencie sa rozdelili na 90,1 % oproti 42,9 % vysokých naprieč inštitúciami (χ² = 82.710, V = 0.512). Kompetenčné skóre, ktoré sleduje, ktorá univerzita respondenta zamestnáva, meria kontext rovnako ako schopnosť.
+
+Prijatie ide cez úsudok o disciplíne, a nie cez všeobecné nadšenie. V rozhovoroch so 14 učiteľmi zo štyroch čínskych univerzít účastníci posudzovali užitočnosť AI podľa vedomostných nárokov vlastného odboru, držali ju v pomocnej role a používanie podmieňovali jasným účelom a tým, že študenti myslia najprv ([[xiong-teachers-ai-attitudes-chinese-higher-ed-2026|Xiong a spol. (2026)]]). ich najkonzistentnejšou obavou nebola vlastná zručnosť, ale to, že študenti odovzdávajú myslený proces.
+
+- **Používanie a tréning v GenAI usadzujú postoje; všeobecná dôvera nie.** V TALIS 2024 skandinávski učitelia, ktorí používali [[generative-ai|GenAI]], skórovali o 0,72 SD vyššie v súhlase s prínosmi a o 0,26 SD nižšie v neistote o nich, profesijný rozvoj špecifický pre GenAI pridal 0,20 SD a používatelia tiež častejšie súhlasili s obavami o skreslenie ([[white-scandinavian-teachers-genai-attitudes-2026|White a spol., 2026]]). Medzi 425 odborníkmi K-12 predikovala kapacita epistemickej ostražitosti kalibrovanú pripravenosť na AI pri β = .675, zatiaľ čo autonómna motivácia nie (β = .076), a len 143 uviedlo jasnú písanú politiku AI ([[song-calibrated-ai-readiness-k12-2026|Song, 2026]]).
 
 ## Profesijný rozvoj, ktorý funguje
 
@@ -109,7 +122,6 @@ Literatúra o profesijnom rozvoji vo vedomostnej báze identifikuje účinné pr
 - **Podpora musí byť diferencovaná podľa skúsenosti a zdatnosti v AI.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi a spol. (2026)]] zistili, že to, ako učitelia skutočne interagujú s AI pri navrhovaní hodín, závisí od *súhry* vyučovacej skúsenosti a zdatnosti v AI, a nie od jednej z nich samotnej. Skúsení učitelia s vysokou zdatnosťou v AI kriticky prispôsobujú výstup AI kontextu (opakované promptovanie, rozvíjanie), zatiaľ čo nováčikovia - aj technicky zdatní - majú tendenciu prijímať odpovede AI priamo a zriedka zvažujú študentov a kontext. To argumentuje za profesijný rozvoj založený na profilovaní: kontrolné zoznamy hodnotenia odpovedí a šablóny promptov pre nováčikov a praktické budovanie zručností pre skúsených učiteľov s nižšou zdatnosťou v AI.
 - **Samotný časový prínos nasleduje skúsenosť a istotu, a nie len dizajn podpory.** V pokuse [[roy-aila-lesson-planning-teacher-choices-2026|Roya a spol. (2026)]] s asistentom na plánovanie hodín bol pokles pracovného zaťaženia väčší u učiteľov s nižšou istotou v odborných vedomostiach, nižšími pedagogickými vedomosťami, kratšou dobou v profesii alebo vyššou istotou v technológiách. Zdatnosť a istota sú preto súčasťou účinku intervencie, a nielen jej prijatia.
 
-
 Konfigurácia presvedčení je druhou osou profilovania: medzi 40 680 učiteľmi v TALIS 2024 ten istý status nepoužívania zakrýval opačné bariéry - 83,3 % profilu ľahostajných uvádzalo pedagogické výhrady, zatiaľ čo 66,2 % profilu odmeraného schvaľovania uvádzalo nedostatočné vedomosti a zručnosti ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]). Profesijné učenie súvisiace s AI sledovalo členstvo v profile dôslednejšie než vek alebo dosiahnuté vzdelanie.
 
 - **Učitelia nezdieľajú jednu koncepciu AI.** Fenomenografická štúdia 16 dánskych učiteľov vysokých škôl našla tri koncepcie výučby s AI a tri koncepcie učenia sa s AI, takže jediný model workshopu zasiahne len časť akejkoľvek skupiny akademických pracovníkov ([[stenalt-good-education-teacher-ai-conceptions-2026|Stenalt (2026)]]).
@@ -120,7 +132,6 @@ Konfigurácia presvedčení je druhou osou profilovania: medzi 40 680 učiteľmi
 - **Vyučujúci uprednostňujú plynulosť, ale učenie pripisujú podpornému lešeniu.** Naprieč 41 vyučujúcimi bol základný model GPT-4o celkovo uprednostnený (21 proti 13), avšak doladenému trojkrokovému modelu (identifikovať, preskúmať, rozvinúť) bolo častejšie pripísané učenie (18 proti 13) a oba úsudky sa zhodovali len v 39 % prípadov ([[teachingcoach-chatbot-instructor-guidance|Molnar a spol. (2026)]]).
 - **Inštitucionálna podpora:** [[educational-development|profesijný rozvoj]] musí byť spojený s inštitucionálnou infraštruktúrou ([[educational-policy-ai|politika]], [[institutional-change-framework-ai|inštitucionálna zmena]]) pre udržateľné osvojenie.
 - **Autorské nástroje nezaručujú pedagogickú vernosť.** [[teachers-configure-educational-chatbots-2026|Riahi a spol. (2026)]] skúmali 27 učiteľov druhého stupňa, ktorí konfigurovali vzdelávacích [[conversational-ai|chatbotov]] na workshopoch profesijného rozvoja, a analyzovali fokusové skupiny popri záznamoch konfigurácie a interakcií. Učitelia považovali chatbota za inštrukčné lešenie ohraničené učiteľom definovanými pravidlami, avšak zladenie medzi zámerom a správaním založené na záznamoch bolo silnejšie pri responzívnosti (88,9 %) a personi (81,5 %) než pri pravidlách (70,4 %) a účele (59,3 %). Samotné konfigurovateľné ovládacie prvky neprenášajú pedagogický zámer do správania, takže vyjadrenie, testovanie a zjemňovanie pedagogiky chatbota je samo o sebe kompetenciou, ktorú musí autorský nástroj podporovať.
-
 
 Protipríklad založený na dizajne považuje kompetenciu za situačnú, a nie za priečku na rebríku. [[adaptive-ai-model-teacher-educators-2025|Eyalova dizajnová štúdia z roku 2025 s 22 vzdelávateľmi učiteľov z vysokých škôl]] nechala účastníkov preskúmať päť publikovaných rámcov hodnotenia a spolunavrhnúť alternatívu organizovanú okolo troch vzájomne prepojených osí: vhodnosť kontextu (infraštruktúra, sociokultúrne faktory, lokálne potreby, vývojová fáza), profesijné potreby (disciplína, pedagogika, vedenie, podpora) a dynamický vývoj. Model odmieta pevné úrovne kompetencie a umožňuje nelineárny postup a dodáva sa s 20-položkovým reflektívnym sebahodnotiacim dotazníkom hodnoteným 1 až 5. Jeho validácia je len [[qualitative-research|kvalitatívna]], bez [[quantitative-research|kvantitatívneho]] testovania spoľahlivosti, takže stojí ako dizajnový prínos, a nie ako validovaný nástroj.
 - **Metaanalytický odhad.** [[teacher-ai-literacy-professional-development-meta-2026|Guo a spol. (2026)]] spojili 212 veľkostí efektu z 34 štúdií a odhadujú profesijný rozvoj AI gramotnosti učiteľov na g = 0,76 (95 % CI [0,50, 1,02]), najsilnejší pre zručnosti (g = 0,91) a najslabší pre postoje a hodnoty (g = 0,61); korekcia na zjavný publikačný výber znižuje odhad na približne g = 0,49.
@@ -133,25 +144,35 @@ Protipríklad založený na dizajne považuje kompetenciu za situačnú, a nie z
 
 - **Zámer prijať ide cez uspokojenie potrieb.** V štrukturálnom modeli so 146 učiteľmi uspokojenie potreby kompetencie predikovalo zámer používať GenAI cez [[motivation|vnútornú motiváciu]] a angažovanosť v profesijnom rozvoji (nepriamy 0,233), kým uspokojenie autonómie a spolupatričnosti nie ([[yuan-teacher-need-satisfaction-genai-2026|Yuan a spol., 2026]]).
 
+- **Plány od AI sú základ a kompetenciou je mediácia.** Dvadsaťšesť začínajúcich učiteľov, ktorí revidovali plány lekcií generované AI, prepísalo úlohy, pridalo modelovanie a jazykovú podporu, vyjasnilo ciele a prestavalo sekvenovanie okolo triednej logistiky, pričom svoju rolu opisovali ako revíziu a prispôsobenie, a nie prijatie výstupu ([[wilcoxen-steiner-bell-ai-lesson-planning-2026|Wilcoxen a spol., 2026]]).
+
+Tréning bez času v rozvrhu sa k študentom nedostane. Štvorštátny prehľad iRAISE z roku 2026 stavia pointu štrukturálne: kurikulá, príprava učiteľov a materiály majú len obmedzený vplyv, pokiaľ školy nevyčlenia čas na výučbu digitálnej a AI gramotnosti, cez vyhradené hodiny alebo projekty naprieč predmetmi, čo si vynucuje rozhodnutie o tom, ktorý existujúci obsah alebo aktivity sa zredukujú alebo nahradia ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). Prehľad tiež umiestňuje tréning do plateného pracovného času, od počiatočného vzdelávania učiteľov a po celú kariéru, diferencovane podľa predmetu a roly — teda podmienky, ktoré berú kompetenciu ako pracovnú podmienku, a nie osobný úspech. Vo všetkých štyroch prípadových štúdiách rozhodla o tom, či sa niečo použije, dôvera učiteľov, a nie dostupnosť nástrojov.
+
+## Meranie AI kompetencie učiteľa
+
+[[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validoval diagnostický nástroj založený na TAM so 434 učiteľmi v praxi. Behaviorálny zámer bol hlavným prediktorom digitálnej kompetencie pre používanie GenAI pri plánovaní kurikula, pričom sebaúčinnosť bola koreňovým hnacím faktorom.
+
+Psychometrická štúdia vyvinula Škálu AI gramotnosti učiteľov (TAILS) na meranie AI gramotnosti v rámci [[teacher-education|vzdelávania učiteľov jazykov]], pričom operacionalizovala šesť dimenzií rámca ED-AI. Nástroj rieši medzeru v hodnoteniach písaných pre študentov alebo všeobecných používateľov, a nie pre učiteľov.
+
+Krajina nástrojov bola odvtedy preskúmaná. [[assessing-teachers-ai-literacy-measurement-tools-2026|Systematický prehľad nástrojov na meranie AI gramotnosti učiteľov Zainala, Mohd Matore a Maata z roku 2026]] porovnáva, čo dostupné škály skutočne merajú a kde sa rozchádzajú, čo je prvá vec na prečítanie pred prijatím niektorej z nich.
+
+Meranie predpokladá, že správnou jednotkou je jednotlivec, a rozdelenie rolí tento predpoklad oslabuje. [[chen-future-faculty-development-ai-2027|Chen a spol. (2026)]] rozdeľujú päť zo svojich siedmich rolí učiteľa v rámci vyučujúceho tímu, pričom základnú technickú a etickú kompetenciu držia univerzálnu, takže individuálne skóre opisuje podiel jedného prispievateľa, a nie schopnosť, na ktorej kurz skutočne beží. Program, ktorý meria len jednotlivcov, bude čítať dobre personálne obsadený tím ako súbor čiastočných učiteľov.
 
 ## AI kompetencia učiteľa a transformujúca sa rola učiteľa
 
 Ako AI preberá rutinné inštrukčné a hodnotiace úlohy, osobitný prínos učiteľa sa posúva k orchestrácii, úsudku a vzťahu: rozhodovanie, kedy a ako sa AI používa, podopieranie [[agency|agentúry študenta]] a kritického používania, zabezpečovanie rovnosti a poskytovanie sociálnej a emocionálnej podpory, ktorú AI nedokáže. To prerámuje kompetenciu učiteľa okolo dohľadu [[human-in-the-loop-ai|s človekom v slučke]], [[ethics|etického úsudku]] a [[self-regulated-learning|podpory samoregulovaného učenia]] - čo sa spája s [[teacher-role|rolou učiteľa]] a [[cognitive-offloading|ochranou pred nadmernou závislosťou]].
 
-## Dôsledky pre AI vo vzdelávaní
+## Dôsledky pre prax
 
-- **Hodnotte výkon, nielen sebahodnotenie:** kompetencia učiteľa by sa mala hodnotiť cez preukázanie, vzhľadom na dokumentovanú medzeru v sebahodnotení.
-- **Trénujte celú kompetenciu, nielen nástroje:** profesijný rozvoj by mal budovať technickú, pedagogickú, hodnotiacu a etickú dimenziu spolu, ukotvené v [[learning-theories|teórii učenia]].
-- **Budujte istotu popri zručnosti:** postoje a [[self-efficacy|sebaúčinnosť]] formujú prijatie, takže profesijný rozvoj by mal znižovať úzkosť a budovať istotu cez autentickú, podporovanú prax.
-- **Podporte inštitucionálnu vrstvu:** udržateľná kompetencia učiteľa vyžaduje zladenú politiku, riadenie a kapacitu, a nie izolovaný tréning.
+Rozvojoví pracovníci pre fakulty môžu mieriť profesijný rozvoj na pedagogické vedomosti o AI namiesto plynulosti v nástrojoch. Programy, ktoré budovali pedagogicko-obsahové vedomosti, hlásili veľké prínosy pred-po, čo naznačuje, že strop je vyšší, než naznačuje jeden workshop, a samotný technický tréning v prehľadávaných štúdiách nepohol vnímaním študentov.
 
-- **Digitálna kompetencia učiteľa pre [[curriculum-design|návrh kurikula]] s GenAI.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validujú diagnostický nástroj založený na TAM so 434 učiteľmi v praxi; behaviorálny zámer bol hlavným prediktorom digitálnej kompetencie pre používanie GenAI v plánovaní kurikula, so sebaúčinnosťou ako koreňovým hýbateľom.
+Vzdelávatelia učiteľov môžu oddeliť dve veci, ktoré tréning v promptovaní kupuje. Ušetrený čas na prípravu je jeden prínos a lepšie materiály druhý, a dôkazy podporujú prvý bez podpory druhého. Program, ktorý sľubuje oboje, sklame v kvalite.
 
-### Psychometrický nástroj pre AI kompetenciu učiteľa
+Inštruktori môžu písať inštrukcie agentom ako usporiadané kroky. Keď učitelia konfigurovali chatbotov prirodzeným jazykom, dominantným zlyhaním bol vynechaný krok pracovného postupu, a nie nesprávny fakt, takže zručnosť, ktorú sa oplatí nacvičovať, je špecifikovanie poradia a predpokladov, nie pridávanie ďalších podrobností o obsahu.
 
-- Psychometrická štúdia vyvinula Škálu AI gramotnosti učiteľov (TAILS) na meranie AI gramotnosti špecificky v [[teacher-education|vzdelávaní učiteľov jazykov]], operacionalizujúc šesť dimenzií rámca ED-AI. Vývoj nástroja vypĺňa medzeru v hodnoteniach, ktoré cielia na študentov alebo bežných používateľov, a podporuje meranie AI kompetencie učiteľa.
+Vedúci škôl môžu financovať podmienky, ktoré robia kompetenciu použiteľnou: platený pracovný čas, miesto v rozvrhu a podporu špecifickú pre predmet. Porovnanie iRAISE zistilo, že o tom, či sa nástroje vôbec používajú, rozhodovala dôvera učiteľov, a dôvera nasleduje prax s podporou, a nie tréning samotný.
 
-Oblasť nástrojov bola odvtedy preskúmaná. [[assessing-teachers-ai-literacy-measurement-tools-2026|Systematický prehľad nástrojov na meranie AI gramotnosti učiteľov Zainala, Mohd Matore a Maata z roku 2026]] posúdil 33 nástrojov publikovaných medzi rokmi 2019 a 2025 a zistil, že oblasť je metodologicky monotónna: 31 (93,9 %) sú sebahodnotiace škály vnímanej istoty, len dva (6,1 %) testujú vedomosti objektívne a žiadny nepoužíva úlohy založené na výkone. Vnútorná konzistencia bola najsilnejšou doménou kvality (28 z 33 na stupni A) a spravodlivosť najslabšou, pričom päť nástrojov (15,2 %) uvádza dôkazy o mernej invariantnosti alebo rozdielnom fungovaní položiek. Obsah tiež zaostáva za technológiou, keďže 29 nástrojov (87,9 %) cieli na všeobecné koncepty AI a len štyri (12,1 %), všetky z roku 2025, adresujú generatívnu AI.
+Vedúci katedier môžu kompetenciu hodnotiť preukázaním. Samovyhlásené škály a preukázanie sa rozchádzajú a tu prehľadávané nástroje merajú veľmi odlišné konštrukty, takže portfólio odučených hodín alebo oznámkovaných študentských prác povie viac než prieskum pripravenosti.
 
 ## Časté mylné predstavy
 
@@ -183,17 +204,18 @@ Oblasť nástrojov bola odvtedy preskúmaná. [[assessing-teachers-ai-literacy-m
 
 ## Prepojené články
 
+- [[feng-ai-literacy-psychological-dimensions-2026]] — Šesť dimenzií AI gramotnosti učiteľa, medzi nimi kontextové vedomosti a kontinuálny profesijný rast
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 učiteľov dizajnu: prírastky kompetencie a AI úzkosť rastú spolu, takže o výsledku rozhoduje podpora, nie tréning
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — Prehľad iRAISE zo štyroch krajín: 84 z 194 štátov prenáša mediálnu a informačnú gramotnosť nad rámec technických zručností do kurikúl a ľudské faktory rozhodli vo všetkých štyroch systémoch
+- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 začínajúcich učiteľov revidovalo plány lekcií od AI; najväčšou medzerou bolo prispôsobenie (Wilcoxen a spol. 2026)
 - [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Výskumná kompetencia učiteľov chémie po profesijnom rozvoji podporovanom AI: zmiešaná pre-post štúdia
 - [[walkington-teacher-in-loop-personalized-tasks-2026]] — Personalizácia matematických úloh druhého stupňa ZŠ s učiteľom v slučke a ChatGPT (Walkington a spol. 2026)
-
-
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Ktorí učitelia získali čas na plánovanie: nižšia istota v odborných vedomostiach, nižšie pedagogické vedomosti, kratšia doba v profesii alebo vysoká istota v technológiách
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — Učitelia prijímajú AI, pričom nechápu, ako funguje (Aji a spol. 2026)
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Pripravenosť učiteľov a technologicko-pedagogická integrácia ako najčastejšie uvádzaná výzva naprieč 54 štúdiami o matematickom vzdelávaní (Manto a spol. 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodálna gramotnosť v hodnotení: ročný program, kde sa vedomosti a kompetencia pohli a hodnoty nie
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Profesijný rozvoj Intelligent-TPACK: polovica štandardnej odchýlky prírastku a negatívne prírastky, ktoré sa čítajú ako rekalibrácia - Vplyv programov profesijného rozvoja na AI gramotnosť učiteľov K-12: systematický prehľad a metaanalýza
-
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Inteligentný TPACK profesijný rozvoj: polovica smerodajnej odchýlky zisku a negatívne zisky, ktoré sa čítajú ako prekalibrovanie
 - [[ailithub-ai-literacy-case-infrastructure-2026]] — Učitelia označili svoje vlastné triedne prípady s AI a ľahko dosiahli praktické kompetencie, ale spoločenské a etické len zriedka (Wang a spol. 2026)
 - [[typology-generative-ai-tools-education-2026]] — Výber nástroja ako prejav agentúry vzdelávateľa
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematický prehľad generatívnej AI vo výučbe a učení v K-12 (Marzano 2026)
@@ -225,7 +247,7 @@ Oblasť nástrojov bola odvtedy preskúmaná. [[assessing-teachers-ai-literacy-m
 - [[wang-teacher-ai-co-design-review-2026]] — Spoludizajn učebných úloh učiteľom a AI: trendy a perspektívy (Wang a spol. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architektúra rolí v diferencovaných skupinových aktivitách navrhnutých AI (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering a výber modelu ako prediktory kvality spätnej väzby AI (Jacobsen a spol. 2026)
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Inžinierstvo promptov a výber modelu ako prediktory kvality spätnej väzby od AI (Jacobsen a spol. 2026)
 - [[vassallo-ai-guilt-complex-faculty-2026]] — Komplex viny z AI: anticipačná vina a štyri profily morálnej odpovede medzi akademickými pracovníkmi (Vassallo 2026)
 - [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Trojhodinové sedenie profesijného rozvoja učiteľov zvýšilo vnímanú užitočnosť a ľahkosť používania, ale nie uvedený zámer osvojiť si nástroj (Mesenhöller & Böhme 2026)
 - [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Systematický prehľad AI v pregraduálnej príprave učiteľov matematiky na primárnom stupni: etika adresovaná len v troch z jedenástich štúdií (Pinto a spol. 2026)
@@ -244,3 +266,8 @@ Oblasť nástrojov bola odvtedy preskúmaná. [[assessing-teachers-ai-literacy-m
 - [[chen-ai-visualization-teaching-competency-scale-2026]] — Vývoj a validácia škály vizualizačnej vyučovacej kompetencie učiteľov podporovanej AI
 - [[bursic-ai-residency-education-curriculum-2026]] — Bariéry integrácie AI do kurikula rezidenčného vzdelávania: kvalitatívne rozhovory s dvanástimi lekárskymi lídrami
 - [[yuan-teacher-need-satisfaction-genai-2026]] — Uspokojenie základných psychologických potrieb učiteľov a ich zámery používať generatívnu AI: sprostredkujúca úloha angažovanosti v profesijnom rozvoji
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — Postoje skandinávskych učiteľov ku generatívnej umelej inteligencii: skúmanie asociácií
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Pásmo samohodnotenej kompetencie pedagógov predpovedané najmä inštitucionálnou príslušnosťou, a nie individuálnymi charakteristikami
+- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Prijatie posudzované disciplínu po disciplíne, s uvažovaním študentov ako hlavnou obavou
+- [[chen-future-faculty-development-ai-2027]] — Kompetencia rozdelená v rámci vyučujúceho tímu so základnou technickou a etickou schopnosťou držanou univerzálne
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Rámce uvádzajú kompetencie a nechávajú podmienky úsudku bez teórie

@@ -11,8 +11,8 @@ level: [higher ed]
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-11-05T01:53:02-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -20,8 +20,11 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
-
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
 
 > **Læringsdesign** (også kalt *instruksjonsdesign*) - den systematiske prosessen med å skape effektive læringserfaringer gjennom analyse av læringsbehov og design, utvikling, gjennomføring og evaluering av undervisningsmaterialer og -aktiviteter. AI forandrer læringsdesign ved å automatisere innholdsproduksjon, muliggjøre [[adaptive-learning|adaptive læringsløp]], støtte datadrevet iterasjon og forsterke - snarere enn å erstatte - instruksjonsdesignerens rolle.
@@ -42,7 +45,7 @@ Hva dette designarbeidet innebærer i praksis, er i seg selv et empirisk spørsm
 
 [[learning-analytics|Læringsanalyse]] og generativ AI støtter ulike deler av designet: på tvers av 11 fokusgrupper ved ett australsk universitet forekom analysediskursen oftest sammen med kontekst og [[problem-solving|problemløsning]] på kursnivå (0,32), mens GenAI-diskursen dreide seg om [[assessment|vurderingsdesign]] (0,26) og om å designe for elevenes selvbestemmelse (0,15) ([[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]]).
 
-### Sentrale forskningstemaer
+## Sentrale forskningstemaer
 
 **AI-assistert innholdsproduksjon** er den mest direkte transformerende anvendelsen. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]** presenterer en arkitektur i seks faser som integrerer generativ AI med LaTeX og Python for å automatisere produksjon av [[stem-education|STEM]]-materialer, validert på tvers av 8 moduler og 28 prosjektkontekster med elevenes kvalitetsvurderinger på 8,5-9,9/10. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** bruker et multiagentrammeverk strukturert rundt ADDIE-modellen, der rollebaserte agenter (undervisningsfakultet, instruksjonsdesigner, kurskoordinator) samarbeider om å generere komplette kursmaterialer. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** tilbyr en strukturert pipeline for adaptiv [[pedagogy|pedagogisk]] [[video-education|videogenerering]] forankret i kurskorpus, og demonstrerer at eksplisitt pedagogisk struktur - ikke bare AI-flyt - er avgjørende for generering av pedagogisk innhold. [[generative-ai|Generativ AI]]-plattformer kan også legemliggjøre læringsdesignprinsipper i innholdet de produserer: [[ai-modeling-problem-generation-platform-2026|en AI-drevet plattform for å generere matematiske modelleringsproblemer]] kombinerte etablerte designprinsipper med [[rag|hentingsforsterket generering]], utviklet gjennom ADDIE-tilnærmingen for å produsere pedagogisk forankrede oppgaver og anbefalinger som konvensjonelle innholdsgeneratorer mangler. Likevel er avkastningen av slik AI-assistert innholds- og leksjonsgenerering betinget av lærerens egen ekspertise: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] fant at erfarne lærere kritisk tilpasser AI-genererte leksjonsideer til elever og kontekst (de prompter på nytt og utdyper output), mens nybegynnere har en tendens til å godta AI-forslag direkte - så den pedagogiske verdien av AI-innholdsverktøy avhenger av lærerens erfaring og AI-kompetanse, ikke av verktøyet alene. En systematisk oversikt over [[wang-teacher-ai-co-design-review-2026|lærer-AI-samdesign av læringsoppgaver]] (Wang, Liu & Islam 2026) bekrefter mønsteret i stor skala på tvers av 28 studier (2015-2025): GenAI brukes hovedsakelig til leksjonsplanlegging, promptgenerering og kreativ idégenerering, og den dominerende samarbeidsformen er AI som assistent og innholdsgenerator snarere enn en fullere meddesigner - med effektivitet, responsivitet, [[creativity|kreativitet]] og [[equity-in-ai-education|likestilling]] som tilbakevendende affordanser. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] skjerper funnet om lærerekspertise for design av gruppeaktiviteter: erfarne lærere produserer rikere, mer synergistiske og bedre ZPD-tilpassede rollearkitekturer i AI-designde samarbeidsaktiviteter enn nybegynnere, uavhengig av AI-kjennskap, og rammer inn «pedagogisk promptkompetanse» som spaken som gjør AI-output om til effektiv [[collaborative-learning|differensiert gruppelæring]].
 
@@ -64,23 +67,29 @@ Prosakvalitet er den andre mangelen, og den er ikke det samme som lesenivå. Cla
 
 **AI-agenter for instruksjonsdesign** utvider feltet inn i [[agentic-ai|agentisk AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** er den første standardiserte, teoriforankrede benchmarken for å evaluere LLM-baserte instruksjonsdesignagenter - dens kontekstmatrise med 25 795 scenarier (51 kontekstvariabler × 33 ISD-deltrinn fra ADDIE) viser at agenter forankret i klassiske ISD-rammeverk (ADDIE, Dick & Carey, Rapid Prototyping ISD) presterer bedre enn teorifrie agenter, og validerer empirisk at instruksjonsdesign er en strukturert disiplin snarere enn en generisk promptoppgave. Agenter er ikke bare *byggerne* av design, men også *kritikerne* av dem: [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] bruker en enkelt autonom webagent som navigerer en flertrinns nettleksjon som en elev for å evaluere et læringsdesign *før* ekte elever møter det - beskrivelsen av [[student-experience|elevopplevelsen]] forutsier hvor nybegynnere faller fra og avdekker handlingsrettet designfeedback, og presterer bedre enn hver baseline og til og med en simulert elevkohort i et globalt CS1-kurs. Dette rammer inn evaluering før lansering, utført av agenter, som et rimelig supplement til menneskelig designiterasjon. **[[wang-multi-agent-systems-learning-designers-2025]]** og **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** utforsker multiagentrammeverk som orkestrerer rollebaserte agenter rundt instruksjonsdesignmodeller, mens **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** undersøker hvordan lærere og agenter sammen anvender teknologisk-pedagogisk-faglig kunnskap. Dette arbeidet knytter instruksjonsdesign til [[benchmark|benchmarking]], [[ai-ed-evaluation]] og design av [[curriculum-design|læreplaner]] i stor skala.
 
-### Forbindelser til beslektede begreper
+**Tilpasset innhold koster tid, ikke verktøyferdighet.** Pedagoger pekte på tid, materiell og konkurrerende plikter som hindringene for å produsere differensiert materiell, og bare 12 % kalte teknologi en stor barriere ([[hilali-adaptive-learning-challenges-2026|Hilali og Chergui (2026)]]).
+
+## Forbindelser til beslektede begreper
 
 Læringsdesign er brodisiplinen i [[ai-education|AI i undervisning]] - den knytter [[curriculum-design]] (hva som skal læres bort) sammen med [[scaffolding]] (hvordan elever støttes), [[educational-development]] (hvordan pedagoger forberedes) og [[generative-ai]] (verktøyene selv). Den er tett koplet til [[teacher-role]] fordi AI-verktøy forandrer hva læringsdesignere og lærere gjør, og til [[ai-literacy]] fordi effektiv AI-integrasjon krever at pedagoger forstår AI-ens muligheter og begrensninger. Designarbeid løser seg til slutt ut i en *rekkefølge av aktiviteter*: [[pedagogical-patterns|pedagogiske mønstre]] katalogiserer de testede rekkefølgene av grep, slik at en designer kan avgjøre hvor i en leksjon AI hører hjemme, snarere enn bare hva som skal være med. [[learning-sciences|læringsvitenskapene]] er forskningsfeltet bak disse prinsippene: der denne siden dekker den profesjonelle praksisen med å skape læringserfaringer, studerer læringsvitenskapene denne praksisen og dens design empirisk og genererer de kognitive, [[motivation|motivasjonelle]] og sosiale prinsippene som læringsdesign deretter operationaliserer.
 
-### Samdesign og det som må forbli menneskelig
+## Samdesign og det som må forbli menneskelig
 
 Samdesign er den delen av designpraksisen der det relasjonelle arbeidet er minst erstattbart. [[zeivots-postdigital-co-design-genai-2025|Zeivots et al. (2025)]] behandler [[generative-ai|GenAI]] som en upålitelig samarbeidspartner snarere enn et utkastverktøy, og bygger en tresekvens rundt denne upåliteligheten: modellen provoserer, pluraliserer og fasiliterer, mens gruppen forhører seg om dens innramminger, genererer motfortellinger og holder selve overlegget. Det som forblir menneskelig, er forhandlingen - hvilke stemmer som mangler, hvilken innramming gruppen velger, og hva den felles forståelsen skal være. Artikkelen er et kollektivt forum med nitten forfattere uten eksperiment, så sekvensen er et forslag om praksis snarere enn en testet metode.
 
-### Hvordan læringsdesign avgjør læringsutbytte
+En MOOC-serie på tre kurs gjør designerens egen arbeidsflyt til undervisningsobjektet, og skiller verktøyspesifikke demonstrasjoner fra tidløse designprinsipper slik at materialet overlever modellutgivelser ([[quintana-generative-ai-learning-design-partner-2025|Quintana et al. (2025)]]).
+
+## Hvordan læringsdesign avgjør læringsutbytte
 
 Læringsdesign er spaken som avgjør om AI gir [[learning-gains|læringsutbytte]] eller bare AI-oppblåst prestasjon. Belegget i kunnskapsbasen er entydig på dette: **det samme AI-verktøyet gir store gevinster eller netto skade, avhengig av hvordan læringserfaringen er designet rundt det.** [[instructional-guidance-genai-learning|Hou et al.]] viste at et femtrinns promptrammeverk forankret i læringsteori forbedret høyereordens kognitive utfall betydelig, mens tilgang til AI alene ikke gjorde det; [[genai-mindtool-generative-learning|tankeverktøy]]- og [[airis-cognitively-activated-ai-physics-2026|AIRIS]]-rammeverkene bevarer elevens kognitive arbeid slik at varige gevinster (snarere enn oppgaveeffektivitet) blir resultatet. Designvalg som beskytter [[learning-gains]] - scaffolding som krever et elevforsøk, [[formative-assessment]] med uassisterte utfallsmål og pedagogisk struktur som holder eleven som aktør - speiler feltets funn (se [[learning-gains]]) om at AI er en sterk gevinst når den veileder og en skade når den svarer. Omvendt faller dårlig designede AI-integrerte leksjoner offer for [[cognitive-offloading|gapet mellom prestasjon og læring]], der tilsynelatende suksess skjuler at ingen læring har funnet sted.
 
-### Praktisk veiledning for designere og utviklere
+## Praktisk veiledning for designere og utviklere
 
 For instruksjonsdesignere, kursutviklere og ingeniører som bygger AI-assisterte læringserfaringer, oversettes funnene i kunnskapsbasen til handlingsrettet praksis. Én grense er verdt å markere før praksisene selv: læringsdesign slik denne siden beskriver det, er designet av et kurs for en kjent kohort, mens de samme prinsippene bakt inn i et produkt som mange kurs - undervist av mennesker designeren aldri vil møte - skal bruke, er arbeidet til [[educational-technology-developers]], der standardvalg, konfigurerbarhet og dokumentasjon bærer pedagogisk vekt:
 
 **Forankre AI-generering i en strukturert instruksjonsmodell.** AI-innhold er bare så godt som den pedagogiske strukturen bak det - eksplisitt struktur, ikke AI-flyt, avgjør kvaliteten. Design rundt en anerkjent modell (ADDIE, Dick & Carey, rapid prototyping) og kod pedagogiske beslutninger eksplisitt i stedet for å overlate til modellen å utlede dem.([[courseblueprint-adaptive-video-generation]])([[jeon-isd-agent-bench-2026]])([[didactical-teacher-assistant-dimensional-modeling]])
+
+Modellen er også en liste over det den utelater. Ved å gjennomgå de fem ADDIE-fasene finner Williams og Prishtina (2026) at hver av dem utelater en bruksbetingelse: verktøytilgang i analyse, opplæring av pedagogen i design, læreplantilpasning i utvikling, tilkobling og programvarekompatibilitet i implementering, og kreativitet i evaluering ([[williams-coding-curriculum-critique-2026|Williams og Prishtina, 2026]]). Rolleendringen går parallelt: i [[chng-ai-instructional-design-2023|Ch'ngs (2023)]] redegjørelse slutter fageksperter å utarbeide innhold og blir godkjennere som validerer det en modell har produsert, noe som gjør gjennomgangskapasiteten til flaskehalsen.
 
 **Ta i bruk et prinsippnivårammeverk i tillegg til en instruksjonsmodell.** En kursnivåmodell strukturerer ett design; et publisert rammeverk setter kriteriene som mange design bør oppfylle. Et eksempel verdt å lese i sin helhet er Digital Promise sitt *Powerful Learning with Emerging Technology*, som organiserer veiledningen sin under tre prinsipper - evidensbasert, elevsentrert og ferdighetsbyggende - hvert utvidet til praksiser og strategier, og knytter [[privacy]], [[explainable-ai|forklarbarhet]] og rettferdighet til bestemte praksiser som sikkerhetsforpliktelser snarere enn valgfritt tilbehør.([[powerful-learning-with-emerging-technology-2025]]) **Tilpass AI-konfigurasjonen til oppgaven, ikke til sofistikerthet.** [[pchl-he-framework-genai-content-creation-2026|Nalyvaiko (2026)]] skiller fire lag - prompt, kontekst, rammeverk og verifisert sløyfe - og anvender et prinsipp om minst mulig tilstrekkelig lag: bruk den minst komplekse konfigurasjonen som kan gi et verifiserbart resultat, siden tilført orkestrering medfører koordinerings-, verifiserings-, personvern- og forståelseskostnader.
 
@@ -103,8 +112,12 @@ Fowlin et al. (2026) tilfører et operativt grep for å avgjøre hvor AI skal in
 
 - **AI er i ferd med å forme instruksjonsdesignpraksisen på nytt.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]] [[meta-analysis-systematic-review|gjennomgår systematisk]] 28 studier (2020-2025) og finner at AI hjelper designere med innholdsgenerering, maler og tilpasning, og konseptualiseres som en medarbeider, samarbeidspartner eller partner snarere enn bare et verktøy - selv om pedagogisk tilpasning og utøvernes beredskap fortsatt er utfordringer.
 
+- **Designere ber om styrbarhet, ikke autonomi.** Åtte instruksjonsdesignere som testet en plattform for oppgavegenerering ([[wei-perspicacious-instructional-design-2026|Wei et al., 2026]]), ønsket kontroll over vanskegrad, format og opprinnelse, vurderte den til 78.8 på SUS og nevnte tillit som betingelsen for adopsjon.
+
 - **Den dokumenterte aktiviteten er konsentrert i én fase av syklusen.** I en gjennomgang av 78 studier av AI-støttet instruksjonsdesign forekommer aktivitet i designfasen i **74 av 78 studier (95 %)** og i utviklingsfasen i 44 (56 %), mens analyse bare når 11 (14 %), evaluering 10 (13 %) og implementering 7 (9 %) - og **ingen studie undersøkte AI-støtte på tvers av hele ADDIE-syklusen**. Syklusen er en ambisjon som bevisgrunnlaget ikke dekker, noe som betyr noe for alle som blir solgt «AI-drevet kursutvikling» som en ende-til-ende-egenskap ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **Tre AI-roller, hierarkisk fordelt.** *Generativ* bruk - AI som produserer designinnhold etter pedagogens anvisning - dominerer med **96 % av studiene**; *scaffolding*-bruk, der AI strukturerer designerens egen tenkning, forekommer i 35 %; *evaluerende* bruk, der AI vurderer artefaktkvalitet, i 21 %. Feltet bruker overveldende AI til å lage ting snarere enn til å avhøre sine egne designbeslutninger, som er det motsatte av den kritiske venn-konfigurasjonen gjennomgangen peker ut som pedagogisk lovende.
+
+Design modererer effekter mer enn teknologi gjør i Zhang og kollegers syntese: den samme GenAI-kapasiteten ga g = 0.92 når eleven styrte den og g = 0.34 når den gikk autonomt. Samhandlingsmodus er derfor en designbeslutning snarere enn en egenskap ved verktøyet ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
 
 ## Vanlige misoppfatninger
 
@@ -177,3 +190,6 @@ Fowlin et al. (2026) tilfører et operativt grep for å avgjøre hvor AI skal in
 - [[talebzadeh-ai-group-activity-roles-2026]] — Arkitektur av roller i AI-designde differensierte gruppeaktiviteter (Talebzadeh 2026)
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLM-er som agenter for iterativt pedagogisk design
 - [[zeivots-postdigital-co-design-genai-2025]] — GenAI som en upålitelig samarbeidspartner i samdesign
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Trenivå-metaanalyse: GenAI virker gjennom tilbakemelding og elevstyrt design, ikke som en ensartet intervensjon (Zhang et al. 2026)
+- [[williams-coding-curriculum-critique-2026]] — Koding av læreplanen: en kritikk av «How AI Makes Its Mark on Instructional Design»
+- [[chng-ai-instructional-design-2023]] — How AI Makes its Mark on Instructional Design

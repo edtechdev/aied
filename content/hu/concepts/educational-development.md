@@ -94,7 +94,6 @@ Az önbizalom és az írástudatosság nem felcserélhető célok: egy 502 vála
 **Kezelje a készenlétet szociotechnikai összehangolási problémaként.** Az [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI keretrendszer]] megmutatja, hogy az oktatói készenlét episztemikus, pedagógiai, intézményi, valamint minőségügyi és megfelelési területekre terjed ki. Azok a programok, amelyek csak az egyént képzik, kihagyják azokat az intézményi eszközöket (politika, munkaterhelés, ösztönzők, minőségi standardok), amelyek lehetővé teszik vagy blokkolják a változást - ezeket a képzéssel párhuzamosan kell összehangolni.([[sangwa-epiq-ai-faculty-readiness-2026]])
 
 **Ne azonosítsa az infrastruktúra-befektetést az átalakulással.** 125 tanulmány alapján az intézményi befektetés a generatív MI infrastruktúrájába és az oktatásfejlesztésbe csak gyengén korrelált a tényleges pedagógiai változással (r = 0,12), miközben az oktatók 60-70%-a felkészületlennek érezte magát a generatív MI integrálására -, ez a fejlesztést, nem a beszerzést teszi a szűk keresztmetszetté.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
-
 **Nevezze meg a kudarcmódot, ne csak a hatásméretet.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe és Martínez-Pérez (2026)]] szimulált innovációnak nevezi: az eszköz jelenléte előrelépést jelez, a tanítási és értékelési formák érintetlenek maradnak, az átvételi arányok és a [[visualization|műszerfalak]] helyettesítik a tanulást, és a technológia kiadási ciklusa szabja meg az irányt. Diagnosztikájuk arra kéri a fejlesztési programot, hogy minden eszközt egy megnevezett tanulási probléma alapján igazoljon az átvétel előtt.
 
 Az ítélőképességet jobb feltételként, mint kompetenciaelemként kezelni. [[ji-judgement-space-dialogic-inquiry-2027|Ji és Mercer (2026)]] az ítélőképesség terét mint azt a kapcsolati, normatív és feltételes interakciót írják le, amelyen keresztül a szakmai ítélőképesség megfogalmazódik és vizsgálat alá kerül, és MI-támogatott környezetben ez a tér háromoldalúvá válik, mert generált értékelések lépnek bele. Háromoszlopos auditjuk azt kérdezi, mit tesz a tanár, mit tesznek a diákok, és hogyan pozicionálódik az MI — kollégiális műszer annak megállapítására, hol csúszott át észrevétlenül az ítélőképesség egy eszközbe.
@@ -171,8 +170,7 @@ A kohorszmodell kidolgozott példája egy egyetemi könyvtárból érkezik. [[jo
 
 ## Kapcsolódó cikkek
 
-- [[jordan-faculty-ai-oer-creation-2025]] — Hét oktató nyolchetes ösztöndíjas programja: szerény MI-ismerősség, nagyobb OER-ismerősség (Jordan és mtsai., 2025)
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — A generatív MI összehangolási tanácsainak kritikai diskurzuselemzése: a fejlesztők technológiaképzőkként újraértelmezve
+- [[jordan-faculty-ai-oer-creation-2025]] — Hét oktató nyolchetes ösztöndíjas programja: szerény MI-ismerősség, nagyobb OER-ismerősség (Jordan és mtsai., 2025) - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — A generatív MI összehangolási tanácsainak kritikai diskurzuselemzése: a fejlesztők technológiaképzőkként újraértelmezve
 - [[crompton-faculty-technology-integration-standards-2026]] — Oktatói standardok a technológiaintegrációhoz (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — A MI etikai dimenziói: oktatói és diáknézetek
 - [[nicola-richmond-programwide-assessment-genai-2025]]

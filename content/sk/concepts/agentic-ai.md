@@ -10,16 +10,20 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-13T18:20:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -68,7 +72,11 @@ Kým [[agentic-ai-education-scoping-review|scoping review so 474 štúdiami]] a 
 - **Škála reportovania a riadenia: rámec autonómia - dohľad - dôkazy (AOE).** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]] argumentuje, že termín *agentická AI* sa používa tak nekonzistentne, že dôkazy a dohľad nemožno medzi štúdiami porovnávať: systémy, ktoré plánujú, pamätajú si, používajú nástroje alebo koordinujú viac agentov, sa hádžu do jedného vreca so statickými rozhraniami generatívnej AI a konvenčnými [[pedagogical-agent|pedagogickými agentmi]]. Jeho kritický integratívny prehľad pätnástich recenzovaných prehľadov zisťuje, že dôkazy sú najsilnejšie pre výsledky na úrovni artefaktov (presnosť spätnej väzby, zníženie [[hallucination-risk|halucinácií]]) a najslabšie pre trvalé učenie, rovnosť, pracovnú záťaž alebo inštitucionálne výsledky, pričom autentické nasadenia sú zvyčajne krátke, z jedného pracoviska a slabo previazané s dohľadom. Riešením je konkrétny triplet reportovania: **úroveň autonómie A0 - A4** (reaktívne generovanie → ohraničená orchestrácia → delegovaná autonómia úlohy → autonómia pracovného postupu → *následková autonómia* nad známkovaním, prijímaním a postupom), **úroveň dohľadu O0 - O4** (nešpecifikovaný → retrospektívny audit → schválenie pred použitím → kontrola v kontrolných bodoch → *nepretržitý ohraničený dozor*) a **štádium dôkaznej zrelosti M0 - M5** (koncept → prototyp a benchmark → hodnotenie s účastníkmi → autentické nasadenie → rozšírené a viacpracoviskové → *replikované a inštitucionálne v mierke*), plus **pravidlo proporcionality**: prípustná autonómia by nemala predbehnúť ani dôkaznú zrelosť, ani silu dohľadu (napríklad následkový systém A4 si vyžaduje dôkazy M4 - M5, právne overenie a O4 s konečnou ľudskou autoritou). Reportovanie *A2 - O3 - M3* mení vágne tvrdenia o „agentickom nasadení" na porovnateľné a testovateľné špecifikácie a dáva inštitúciám gramatiku postupného zavádzania, logovania a návratu, čo je dôkazný doplnok spektra od kopilota po autopilota [[baradziej-agentic-ai-higher-education-2026|uvedeného vyššie]].
 - **Testovanie odolnosti proti útokom:** [[adversarial-stress-testing-role-playing-agents|Multiagentové záťažové testovanie]] koordinuje agentov vyšetrovateľa, cieľa a sudcu, aby odhalilo režimy zlyhania neviditeľné pri testovaní jedinou stratégiou, a znižuje skóre odolnosti o 0,17 až 0,20 bodu, čo je kritické pre konzistenciu persony a [[pedagogical-safety|bezpečné nasadenie]] so študentmi.
 - **Doménové aplikácie:** agentické systémy sa objavujú naprieč doménami, vrátane [[learnmate2-llm-adaptive-learning|agentov adaptívneho učenia]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogických agentov LLM]], [[guided-llm-scaffolding-independent-learning|riadeného lešenia s LLM]], [[cyberagents-gamified-cybersecurity-learning-2026|agentov gamifikovaného učenia kyberbezpečnosti]] a [[hdr-brachytherapy-agentic-ai-simulation-2026|agentov klinickej simulácie]].
-- **Weboví agenti ako hodnotitelia učebnej skúsenosti:** jediný autonómny „opisujúci" webový agent, ktorý prechádza online [[learning-design|lekciou]] ako študent, [[ai-web-agents-lesson-design-2025|Wang, Mitchell a Piech (2025)]], vytvára opis taký bohatý, že predpovedá predčasné ukončenie štúdia a dáva dizajnérovi použiteľnú spätnú väzbu ešte predtým, než sa do kurzu zapoja skutoční študenti, čím prekonáva celú simulovanú kohortu aj každé východisko v globálnom kurze CS1. To stavia agentické hodnotenie (agent ako zástupný kritik učebnej skúsenosti) ako samostatné, nízkonákladové použitie agentickej AI popri agentoch, ktorí vyučujú alebo navrhujú.
+
+Agentické architektúry kupujú pokrytie za merateľnú cenu v presnosti. Na benchmarku [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumaha a spol. (2026)]] s 926 vzorkami pracovných inzerátov a 1 696 zlatými štandardmi zručností viedol ReAct agent s nástrojom na vyhľadávanie v ESCO v rozšírenom recalli na 89,7 % oproti 83,7 % najlepšej generatívnej konfigurácie a 49,1 % najlepšieho embeddingového modelu. Jeho presnosť bola 22,7 %, čo nechalo F1 na 36,3 %, pod hodnotou nástrojovo ukotveného Gemini 2.5 Flash s 51,6 %, a bežal približne 16 sekúnd na vzorku. Recall je správnou metrikou vtedy, keď zoznam preosieva ľudský poradca; nesprostredkovaný výstup potrebuje ukotvenú alternatívu.
+
+- **Agentické známkovanie je otázkou spoľahlivosti skôr než pracovnej záťaže.** Nasadenie agentického Claude Code dostalo tri súbory rubrík a 60 naskenovaných ručne písaných písomiek zo stredného termínu z kurzu počítačovej grafiky. Jeho známky sa zhodovali s inštruktorom pri r = 0,97, s priemernou absolútnou chybou 0,85 známky z 20-bodovej písomky, priemerným pozitívnym skreslením AI 0,68 a test-retest ICC = 0,96 naprieč dvoma sedeniami s odstupom týždňa. Agregát skrýva, kde zlyháva: vážená kappa išla od 0,98 pri multiple choice po 0,65 pri hodnotiacich položkách, pričom ručne kreslené diagramy boli najslabším prípadom ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Jeden kurz, jeden inštruktor a jedna sada rubrík lokalizujú varianciu; nedokazujú, že agentické známkovanie zovšeobecňuje.
+- **Weboví agenti ako hodnotitelia učebnej skúsenosti:** jediný autonómny „opisujúci" webový agent, ktorý prechádza online [[learning-design|lekciu]] ako študent — [[ai-web-agents-lesson-design-2025|Wang, Mitchell a Piech (2025)]] — vytvára opis natolik bohatý, že predpovedá odpadnutie študentov a dáva dizajnérovi použiteľnú spätnú väzbu ešte predtým, než sa zapoja skutoční študenti, pričom prekonáva plnú simulovanú kohortu aj všetky základy v globálnom kurze CS1. To stavia agentické hodnotenie (agent ako zástupný kritik učebnej skúsenosti) ako samostatné, lacné použitie agentickej AI popri agentoch, ktorí učia alebo navrhujú.
 
 ### Multiagentové systémy
 
@@ -82,8 +90,6 @@ Krok za orchestrujúcimi niekoľkými špecializovanými agentmi je **plný agen
 - **Sociálne inteligentné multiagentové tutorstvo.** Prototypy sociálne inteligentného multiagentového tutorstva, ako ASTRA, skúmajú, ako študenti koordinujú s AI v dvojiciach, pričom používajú diferencovaných agentov tutora a facilitátora na podnecovanie koordinácie a vyváženej participácie. Hodnotenie rámca založené na stopách umožňuje reprodukovateľnú analýzu interakcie, rovnováhy participácie a overovania v [[cs-education|úvodnom programovaní]].
 
 **Organizačná odpoveď: študent ako participujúci člen, nie ako príjemca.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan a spol. (2026)]] vytvárajú multiagentovú organizáciu s ľudskou participáciou, v ktorej špecializovaní agenti udržiavajú revidovateľný Program schopností prepájajúci osobné ciele, [[multimodal|multimodálne]] aktivity a vrstvené hodnotenie, s opraviteľným „ľudským uzlom”, ktorý prenáša vlastné dôkazy a výzvy študenta do ďalších revízií. Oproti najbližšiemu multiagentovému baseline sa naprieč 96 simulovanými prípadmi študentov výhoda sústredila v [[assessment|dizajne hodnotenia]]: o 19,32 bodu vyššie v [[assessment-validity|platnosti hodnotenia]] (95 % CI [17,55, 21,04]) a o 5,89 v pokrytí schopností, zatiaľ čo personalizácia sa neodlíšila (1,35 bodu, interval prechádzajúci nulou). V randomizovanej štúdii s 32 študentmi bol prírastok vedomostí v objektívnom 50-bodovom teste 12,19 oproti 5,61 bodu.
-
-
 
 ## Ústredný rozpor: automatizácia oproti učeniu
 
@@ -137,7 +143,6 @@ To spája diskusiu o agentickej AI s pokrytím [[academic-integrity|akademickej 
 ## Produktívne trenie a sociálna interakcia
 
 Nie každé agentické správanie musí byť hladkou pomocou. [[ai-agents-constructive-conflict-design-education-2026|Výskum agentov adversariálneho dizajnu]] ukazuje, že agenti stelesňujúci **konštruktívny konflikt** podnietili významne viac iterácií dizajnu, širšie skúmanie alternatív a vyššie hodnotené konečné dizajny u začínajúcich dizajnérov interakcií (N = 48), čo je dynamika *produktívneho trenia*, v ktorej bol agent konfliktu frustrujúci, ale napokon nápomocný. To sa spája so [[socratic-method|sokratovským kladením otázok]] a s [[design-thinking|dizajnovým myslením]] a ukazuje, ako agentická AI môže podporiť hlboké prehodnotenie a nie pasívne prijatie.
-
 
 Štúdia o tom, ako agentická AI dosahuje výsledky učenia cez *psychologické* a nie technologické cesty, dodáva chýbajúci uhol merania. [[pramod-agentic-ai-motivational-pathways-2026|Pramod a Patil (2026)]] skúmali 398 študentov podnikania v Indii a modelovali autonómiu, kompetenciu a spolupatričnosť spolu s interaktivitou, zdieľaním informácií a vnímanou [[community-of-inquiry|sociálnou prítomnosťou]]; autonómia bola najsilnejším [[motivation|motivačným]] hnacím motorom (β = 0,504) a interaktivita najsilnejším sociálnym (0,468), pričom motivácia a sociálna prítomnosť napájali [[student-engagement|zapojenie]] takmer rovnako silno (0,533 a 0,493), kým zapojenie predpovedalo vnímaný učebný výkon (0,671). Poučenie pre dizajn je, že sociálna cesta nie je automatická: konštrukt kolaboratívneho prostredia posunul vnímanú sociálnu prítomnosť menej než obyčajná vnímavosť a zdieľanie informácií, takže ak sa s agentom zaobchádza ako s chatovým rozhraním a nie ako s účastníkom, väčšina tejto cesty zostáva nevyužitá.
 
@@ -209,9 +214,8 @@ Agentická AI nie je ani všeliek, ani nevyhnutná škoda: jej hodnota závisí 
 
 ## Prepojené články
 
+- [[alghamdi-claude-code-agentic-grading-2026]] — agentické známkovanie 60 ručne písaných písomiek: r = 0,97 celkovo, kappa klesá na 0,65 pri hodnotiacich položkách
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agenti organizovaní okolo revidovateľného programu schopností so študentom ako členom
-
-
 - [[pramod-agentic-ai-motivational-pathways-2026]] — autonómia, kompetencia, spolupatričnosť a sociálna prítomnosť ako cesty od agentickej AI k zapojeniu (Pramod a Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — agenti AI, radostné hodnotenie a tretí priestor
 - [[ilieva-agentic-genai-higher-education-2026]] — rámec AGAI-HE: ohraničená, ľuďmi dohliadaná agentická generatívna AI vo vysokom školstve (Ilieva a spol. 2026)
@@ -238,3 +242,4 @@ Agentická AI nie je ani všeliek, ani nevyhnutná škoda: jej hodnota závisí 
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD s agentmi AI v softvérovom PBL; automatizácia oproti porozumeniu
 - [[ai-standardized-patient-scaffolding-medical-2026]] — hodnotenie multiagentového systému veľkých jazykových modelov orientovaného na lešenie pri výučbe klinického rozhovoru
 - [[ethics-training-agents-group-ethics-discussion-2026]] — agenti etického vzdelávania: facilitácia skupinového etického vzdelávania s hraním rolí a diskusiou pre etickú reflexiu a skúmanie
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Porovnanie prístupov AI k automatickej extrakcii zručností: od embeddingov k agentickým systémom pre inžinierske vzdelávanie

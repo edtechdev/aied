@@ -10,16 +10,20 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-13T18:20:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
     agent: hermes-agent
 ---
 
@@ -69,6 +73,7 @@ Tam, gdzie [[agentic-ai-education-scoping-review|przegląd zakresowy 474 badań]
 - **Testowanie odporności adwersaryjnej:** [[adversarial-stress-testing-role-playing-agents|Testowanie obciążeniowe wieloagentowe]] koordynuje agentów Przesłuchującego, Celu i Sędziego, aby ujawnić tryby awarii niewidoczne w testowaniu jedną strategią, obniżając wyniki odporności o 0,17-0,20 punktu - co jest krytyczne dla spójności persony i [[pedagogical-safety|bezpiecznego wdrożenia]] z uczniami.
 - **Zastosowania dziedzinowe:** systemy agentowe pojawiają się w różnych dziedzinach, m.in. [[learnmate2-llm-adaptive-learning|agenci uczenia adaptacyjnego]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogiczni agenci LLM]], [[guided-llm-scaffolding-independent-learning|kierowane rusztowanie LLM]], [[cyberagents-gamified-cybersecurity-learning-2026|agenty gamifikowanego uczenia się cyberbezpieczeństwa]] oraz [[hdr-brachytherapy-agentic-ai-simulation-2026|agenty symulacji klinicznej]].
 - **Agenci webowi jako ewaluatorzy doświadczenia uczenia się:** pojedynczy autonomiczny agent webowy „opisujący", który nawiguje po lekcji online [[learning-design|projektu nauczania]] jak student - [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] - tworzy opis wystarczająco bogaty, by przewidzieć rezygnację studenta i dać projektantowi wykonalne informacje zwrotne, zanim zaangażują się prawdziwi uczniowie, bijąc pełną symulowaną kohortę i wszystkie punkty odniesienia na globalnym kursie CS1. To sytuuje ocenę agentową (agent jako zastępczy krytyk doświadczenia uczenia się) jako odrębne, tanie zastosowanie SI agentowej obok agentów, którzy uczą lub projektują.
+- **Ocenianie agentowe to najpierw pytanie o rzetelność, a dopiero potem o obciążenie pracą.** Agentowemu wdrożeniu Claude Code dano trzy pliki rubryk i 60 zeskanowanych odręcznych prac z egzaminu śródrocznego z kursu grafiki komputerowej. Jego oceny zgadzały się z prowadzącym na poziomie r = 0.97, ze średnim błędem bezwzględnym 0.85 punktu na 20-punktowej pracy, średnią stronniczością na korzyść SI 0.68 i ICC test-retest = 0.96 w dwóch sesjach tydzień po tygodniu. Agregat ukrywa, gdzie zawodzi: ważona kappa wahała się od 0.98 przy pytaniach wielokrotnego wyboru do 0.65 przy pozycjach oceniających, a najsłabszym przypadkiem były odręczne rysunki ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Jeden kurs, jeden prowadzący i jeden zestaw rubryk lokalizują wariancję; nie ustalają, czy ocenianie agentowe się generalizuje.
 
 ### Systemy wieloagentowe
 
@@ -76,13 +81,14 @@ Rosnący i odrębny nurt SI agentowej obejmuje **systemy wieloagentowe**, które
 
 Dwa systemy z 2026 r. wyostrzają obraz tego, co daje specjalizacja ról - i gdzie przestaje się opłacać. MeduAI-SP ([[ai-standardized-patient-scaffolding-medical-2026|Yang i wsp., 2026]]) dzieli nauczanie wywiadu klinicznego między czterech agentów LLM - agenta pacjenta, agenta tutora sokratejskiego, ewaluatora na poziomie tury i ewaluatora końcowego - z których każdy pełni odrębną funkcję dydaktyczną. Architektura z założenia wstrzymuje odpowiedzi: tutorowi zabroniono ujawniania diagnozy lub odpowiedzi przypadku, a wyniki OSCE ewaluatora końcowego pozostawały ukryte podczas trwającego spotkania. To specjalizacja ról, a nie sama zdolność modelu, jest tym, czemu badanie przypisuje poprawę zachowań konsultacyjnych (71,8% wobec 55,6% na egzaminie końcowym), co daje konkretny szablon projektowania wieloagentowego zgodnego z pedagogiką. Drugie badanie wskazuje granice tego wzorca: w systemie dyskusji etycznej dla 45 studentów w 15 grupach ([[ethics-training-agents-group-ethics-discussion-2026|Seo i wsp., 2026]]) trzy persony LLM ucieleśniające etykę troski, deontologiczną i pragmatyczną nie różniły się istotnie między sobą, a wszystkie zostały ocenione niżej niż ludzcy rówieśnicy pod względem wkładu, różnorodności i wpływu (wszystkie p < 0,001 w teście Kruskala-Wallisa). Autorzy przypisują tę lukę [[ai-sycophancy|sycophantycznemu]] potakiwaniu - agenci przyjmowali niemal każdy wkład, o ile nie był całkowicie błędny - oraz brakowi widocznego rozumowania, argumentując, że projektowanie agentów skoncentrowanych na zadaniu musi łączyć przejrzystość procesu z zabezpieczeniami (ramowanie jako omylny rówieśnik, wydzielona faza Pytań), aby uniknąć [[cognitive-offloading|nadmiernego polegania]].
 
+Architektury agentowe kupują pokrycie za mierzalną cenę w precyzji. W benchmarku [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah i wsp. (2026)]] obejmującym 926 próbek ogłoszeń o pracę i 1696 wzorcowych umiejętności agent ReAct z narzędziem wyszukiwania ESCO prowadził w rozszerzonym odwołaniu na poziomie 89.7%, wobec 83.7% dla najlepszej konfiguracji generatywnej i 49.1% dla najlepszego modelu osadzeń. Jego precyzja wynosiła 22.7%, co dawało F1 = 36.3%, poniżej osadzonego w narzędziach Gemini 2.5 Flash z wynikiem 51.6%, przy czasie około 16 sekund na próbkę. Odwołanie jest właściwą miarą, gdy listę selekcjonuje doradca; niezapośredniczony wynik wymaga alternatywy ugruntowanej w narzędziach.
+
 Krokiem dalej niż orkiestracja kilku wyspecjalizowanych agentów jest **pełny wieloagentowy ekosystem agentowy** zaproponowany przez [[sudarshan-agentic-ai-ecosystems-higher-education-2026|Sudarshana i wsp. (2026)]]: ogólnouczelniana platforma koordynująca agentów uczenia się, nauczania i administracji przez międzyfunkcyjne [[feedback|pętle informacji zwrotnych]] i [[distributed-cognition|inteligencję rozproszoną]]. Jej wyróżniający ruch to potraktowanie [[inclusive-learning|inkluzji]] jako pierwszorzędnej kwestii architektonicznej - koordynowanie agentów [[accessibility|dostępności]], wsparcia poznawczego i [[well-being|dobrostanu]] tak, aby uczniowie ze [[inclusive-learning|specjalnymi potrzebami edukacyjnymi]] byli wspierani w wymiarze poznawczym, sensorycznym i emocjonalnym w czasie rzeczywistym, a nie obsługiwani przez odizolowane narzędzie wspomagające. Artykuł umieszcza to wewnątrz pętli **współewolucji człowieka i SI** (zachowania i decyzje ludzi kształtują adaptację SI, która z kolei wzmacnia zdolności ludzi), utrzymującej człowieka w pętli.
 
 - **Agenci LLM dla konkretnych uczestników w kooperacyjnym rozwiązywaniu problemów.** Fang (2026) dostraja indywidualnych agentów LLM na danych dialogowych rzeczywistych uczestników, aby reprezentowali każdego uczestnika w symulacjach kooperacyjnego rozwiązywania problemów, z probabilistycznym wyborem mówcy i kodów tematycznych oraz pamięcią okienkową i streszczoną. Zweryfikowane za pomocą [[network-analysis|Epistemicznej Analizy Sieciowej]] symulowane dialogi są statystycznie nieodróżnialne od prawdziwych (odległość ENA 0,17, permutacyjne p = 0,65) - demonstracja tego, że SI agentowa odtwarza autentyczny dyskurs kooperacyjny.
 - **Społecznie inteligentne korepetycje wieloagentowe.** Prototypy społecznie inteligentnych korepetycji wieloagentowych, takie jak ASTRA, badają, jak uczniowie koordynują się z SI w diadach, używając zróżnicowanych agentów Tutora i Facylitatora do pobudzania koordynacji i zrównoważonego uczestnictwa. Oparta na śladach ewaluacja tych ram umożliwia odtwarzalną analizę interakcji, równowagi uczestnictwa i weryfikacji w kursie wprowadzającym do [[cs-education|programowania]].
 
 **Odpowiedź organizacyjna: uczeń jako uczestniczący członek, a nie odbiorca.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan i wsp. (2026)]] urzeczywistniają humanistycznie partycypacyjną organizację wieloagentową, w której wyspecjalizowani agenci utrzymują rewidowalny Program Zdolności łączący cele osobiste, [[multimodal|multimodalne]] działania i warstwową ocenę, z korygowalnym „Human Node” wnoszącym własne dowody i zastrzeżenia ucznia do późniejszych rewizji. Wobec najbliższej linii bazowej wieloagentowej na 96 symulowanych przypadkach uczniów przewaga skupiła się na [[assessment|projektowaniu oceniania]]: 19,32 punktu więcej w [[assessment-validity|trafności oceniania]] (95% CI [17,55, 21,04]) i 5,89 w pokryciu zdolności, podczas gdy personalizacja nie różnicowała (1,35 punktu, przedział przechodzący przez zero). W randomizowanym badaniu z 32 uczniami przyrost wiedzy w obiektywnym teście 50-punktowym wyniósł 12,19 wobec 5,61 punktu.
-
 
 ## Centralne napięcie: automatyzacja a uczenie się
 
@@ -136,7 +142,6 @@ To łączy dyskusję o SI agentowej z pokryciem [[academic-integrity|uczciwości
 ## Produktywny opór i interakcja społeczna
 
 Nie każde zachowanie agentowe musi być gładką pomocą. [[ai-agents-constructive-conflict-design-education-2026|Badania nad adwersaryjnymi agentami projektowymi]] pokazują, że agenci odgrywający **konstruktywny konflikt** wywoływali istotnie więcej iteracji projektu, szerszą eksplorację alternatyw i wyżej oceniane projekty końcowe wśród początkujących projektantów interakcji (N=48) - dynamika *produktywnego oporu*, w której agent konfliktu był frustrujący, ale ostatecznie pomocny. Łączy się to z [[socratic-method|sokratejskim pytaniem]] i [[design-thinking|myśleniem projektowym]] oraz pokazuje, jak SI agentowa może wspierać głębokie przemyślenie, a nie pasywną akceptację.
-
 
 Badanie tego, jak SI agentowa dochodzi do efektów uczenia się przez ścieżki *psychologiczne*, a nie technologiczne, dostarcza brakującego kąta pomiaru. [[pramod-agentic-ai-motivational-pathways-2026|Pramod i Patil (2026)]] przebadali 398 studentów biznesu w Indiach i modelowali autonomię, kompetencję i więź obok interaktywności, dzielenia się informacją i postrzeganej [[community-of-inquiry|obecności społecznej]]; autonomia była najsilniejszym [[motivation|motywatorem]] (β = 0,504), a interaktywność najsilniejszym czynnikiem społecznym (0,468), przy czym motywacja i obecność społeczna zasilały [[student-engagement|zaangażowanie]] z niemal tą samą siłą (0,533 i 0,493), zanim zaangażowanie przewidziało postrzegane wyniki uczenia się (0,671). Lekcja projektowa jest taka, że droga społeczna nie jest automatyczna: konstrukt środowiska współpracy przesunął postrzeganą obecność społeczną mniej niż zwykła responsywność i dzielenie się informacją, więc traktowanie agenta jako interfejsu czatu, a nie uczestnika, pozostawia większość tej ścieżki niewykorzystaną.
 
@@ -236,3 +241,5 @@ SI agentowa nie jest ani panaceum, ani nieuniknioną szkodą: jej wartość zale
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD z agentami SI w PBL z oprogramowania; automatyzacja kontra rozumienie
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Ocena zorientowanego na rusztowanie wieloagentowego systemu dużych modeli językowych w szkoleniu wywiadu klinicznego
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agenci szkolenia etycznego: facylitacja grupowej edukacji etycznej przez odgrywanie ról i dyskusję na rzecz refleksji i eksploracji etycznej
+- [[alghamdi-claude-code-agentic-grading-2026]] — ocenianie agentowe 60 odręcznych egzaminów: r = .97 ogólnie, kappa spadająca do .65 na pozycjach oceniających
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Porównanie podejść SI do automatycznego wydobywania umiejętności: od osadzeń do systemów agentowych w edukacji inżynierskiej

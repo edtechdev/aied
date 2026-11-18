@@ -1,7 +1,7 @@
 ---
 title: "Concepții greșite despre IA"
 created: "2026-11-12T04:00:00-05:00"
-updated: "2026-11-12T04:00:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,13 +11,17 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -38,11 +42,11 @@ ai_assist:
 
 Concepțiile greșite despre IA contează pentru că sunt precursorul cognitiv al comportamentelor dăunătoare pe care baza de cunoștințe le documentează sub [[cognitive-offloading|supra-dependență]] și în problemele de [[academic-integrity|integritate academică]]. Oamenii rareori pornesc să [[ai-misuse-learning-harm|utilizeze greșit]] IA; o fac pentru că modelele mentale inexacte îi fac să plaseze greșit încrederea, să sară peste verificare și să trateze rezultatul ca înțelegere. În educație, aceste erori modelează totul, de la modul în care studenții învață până la modul în care profesorii și instituțiile proiectează curriculumul, [[assessment|evaluarea]] și politica.
 
-### Ce sunt concepțiile greșite despre IA
+## Ce sunt concepțiile greșite despre IA
 
 Aici, o concepție greșită nu este simpla ignoranță a modului în care funcționează un model — este o credință activă, adesea auto-întăritoare, care produce erori sistematice în interacțiunea studenților cu IA. Ele sunt direct analoage concepțiilor greșite de domeniu studiate în [[learning-sciences|știința învățării]]: stabile, plauzibile și rezistente la corectare până când sunt confruntate. Corectarea lor este un scop central al educației pentru [[ai-literacy|alfabetizarea în IA]] și [[trust-calibration|calibrarea încrederii]].
 
-### Concepții greșite frecvente în contexte academice
+## Concepții greșite frecvente în contexte academice
 
 - **Eroarea de autoritate** — tratarea rezultatului unui [[llm]] ca fapt verificat, nu ca o completare probabilistică. Determină acceptarea necritică și tiparul de căutare a răspunsului în locul înțelegerii, documentat în cercetarea despre [[intelligent-tutoring|tutoratul cu IA]], unde cursanții acceptă răspunsul unui model fără a-l verifica față de [[hallucination-risk|riscul de halucinație]].
 - **Iluzia verificării independente** — tratarea [[ai-feedback-quality|feedback-ului IA]] ca o corecție externă, când modelul oglindește propria raționare a utilizatorului. Acuratețea de bază a utilizatorilor a fost predictorul dominant al performanței finale, iar promptarea specifică pentru [[ai-sycophancy|sycophancy]] a redus mimarea pozițională (OR = 0,26), dar a lăsat neatinsă propagarea erorilor, așa că instruirea cursanților nu este garanția ([[contextual-sycophancy-ai-literacy|Koyuturk et al. (2026)]]).
@@ -57,17 +61,17 @@ Aici, o concepție greșită nu este simpla ignoranță a modului în care func�
 
 Zona gri a integrității are o structură, nu doar două extreme. Interviurile cu 20 de studenți, împreună cu jurnalele lor de chat și documentele cursului, au găsit cinci locuri separate în care trăiește politica privind IA, de la intenția facultății prin politica formală și politica proprie a studentului până la practica reală, plus 23 de raționalizări distincte în șase clase ([[student-rationalization-ai-writing|Kim et al., 2026]]). Raționalizările erau ad-hoc și post-hoc, asamblate pentru a explica o utilizare care avusese deja loc, nu pentru a o ghida. O interdicție strictă nu a împiedicat utilizarea, ci a intensificat conflictul moral la studenții care voiau să se conformeze, ceea ce mută ținta corectării în locul politicii, nu în enunțul regulii.
 
-### Mituri instituționale și publice despre IA
+## Mituri instituționale și publice despre IA
 
 Concepțiile greșite nu se limitează la studenți — ele satură discursul instituțional și public despre IA pe care studenții îl moștenesc. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] demontează opt „mituri" înrădăcinate care modelează politica și predarea în învățământul superior: că IA este cu adevărat „artificială" (și nu construită din muncă umană exploatată), că este cu adevărat „inteligentă" și [[agentic-ai|agentică]], că va „face lumea un loc mai bun" fără probleme, că este „obiectivă și nepărtinitoare", că SUA dețin un monopol exclusiv de superputere, că nu va perturba piața muncii, că „revoluționează [[higher-ed|învățământul superior]]" și că profesorii pot detecta în mod fiabil lucrările generate de IA. Aceste mituri instituționale sunt sursa din amonte a multor concepții greșite ale studenților documentate mai sus — cel mai direct [[trust|iluzia neutralității]] („IA este obiectivă") și [[trust-calibration|eroarea de autoritate]] („IA este inteligentă"), plus calibrarea greșită a detecției care îi face pe studenți să presupună că o utilizare nedetectabilă și neverificabilă este sigură. Acolo unde studenții absorb și acționează pe baza miturilor repetate instituțional, corectarea lor cere confruntarea nu doar a credinței cursantului, ci și a discursului care o hrănește.
 
-### De ce contează concepțiile greșite pentru învățare
+## De ce contează concepțiile greșite pentru învățare
 
 Concepțiile greșite se traduc direct în comportamentele care cauzează prejudicii învățării. Credința că „IA are întotdeauna dreptate" suprimă verificarea; credința că „a folosi IA înseamnă a învăța" suprimă procesarea cu efort; credința că „nu este fraudă" ocolește revizuirea metacognitivă care consolidează înțelegerea. În acest sens, concepțiile greșite se află în amonte de [[ai-misuse-learning-harm|prejudiciile cauzate de utilizarea greșită a IA]] documentate în întreaga bază de dovezi.
 
 Credința că utilizarea IA este învățare nu există doar înainte de utilizare; instrumentul o poate fabrica. [[llm-fallacy-misattribution|Kim et al.]] descriu o eroare LLM în care un rezultat opac, fluent și imediat este citit ca dovadă a propriei competențe a utilizatorului, astfel încât capacitatea percepută și cea reală diverg cu o marjă pe care o numesc ΔC. Deoarece mecanismul este fluența și ambiguitatea atribuirii, nu eroarea, fenomenul persistă indiferent dacă modelul este corect sau halucinează, ceea ce înseamnă că un răspuns corect asistat de IA nu este dovada că credința a fost corectată.
 
-### Concepții greșite dincolo de studenți: profesori, instituții și public
+## Concepții greșite dincolo de studenți: profesori, instituții și public
 
 Concepțiile greșite despre IA nu se limitează la cursanți — sunt omniprezente în rândul adulților care modelează educația:
 
@@ -79,7 +83,7 @@ Această amploare este motivul pentru care baza de cunoștințe tratează concep
 
 Concepțiile greșite pedagogice ale profesorilor sunt imaginea în oglindă a acestora: nu neînțelegeri despre IA, ci credințe despre predare nesusținute de dovezi, care persistă indiferent de IA. [[etq-ai-conversational-teacher-training-2026|Miranda și Calvani (2026)]] le instrumentează cu Chestionarul Predării Eficace, în care 50 de itemi binari se mapează pe mărimi ale efectului din [[meta-analysis-systematic-review|meta-analize]] (d ≥ 0,40), astfel încât răspunsul unui profesor să poată fi comparat cu un reper aliniat la dovezi — iar constatarea lor este că concepțiile greșite sunt profunde și specifice. Un pilot cu 123 de educatori din Italia a găsit cel mai accentuat dezacord la afirmația despre stilurile de învățare (78% dintre profesori au apărat potrivirea vizual/auditivă), apoi la incluziune și [[group-work|munca în grup]] (68%) și la supraîncărcarea cu tehnologie educațională (54%); alinierea medie a fost aproape de 50% pe dimensiunile de planificare, cognitivă, evaluativă și de management. Două detalii contează pentru proiectarea corectării. În primul rând, concepțiile greșite supraviețuiesc educației universitare și practicii didactice — autorii descriu un „bun simț internalizat" care „precede intrarea în școală" și persistă — deci nu sunt lacune de cunoștințe pe care le închide o prelegere. În al doilea rând, când o IA conversațională a reintrodus aceiași itemi doar după validarea contextului propriu al profesorului, 41% dintre obiecții au invocat limite contextuale reale — dimensiunea claselor, studenți cu [[special-education|nevoi speciale]], acoperirea [[curriculum-design|curriculumului]] — și nu dovezile în sine. Alte 5,9% au numit sistemul „o mașină de dogmă algoritmică": condiția-limită în care încadrarea normativă naște defensivitate în loc de reflecție. Pentru dezvoltarea [[teacher-ai-competency|competenței IA a profesorilor]], implicația este că diagnosticul plus dialogul poate scoate la iveală care credințe sunt dezacord fundamentat pe dovezi și care sunt concepții greșite — o distincție pe care un scor singur nu o poate face.
 
-### Corectarea concepțiilor greșite
+## Corectarea concepțiilor greșite
 
 Corectarea nu este o dezvăluire unică, ci un proces continuu de [[ai-literacy|alfabetizare în IA]] care dezvoltă [[metacognition|metacogniția]] și [[self-regulated-learning|învățarea autoreglată]]: îi ajută pe studenți (și pe adulții din jurul lor) să își monitorizeze dependența, să calibreze când să aibă încredere și când să chestioneze un model și să vadă costul ocolirii propriei [[cognitive-offloading|munci cognitive]]. Deoarece concepțiile greșite sunt rezistente, ele sunt cel mai bine abordate prin confruntare directă cu dovezi — inclusiv cu constatarea că studenții adesea *nu percep* prejudiciul de învățare al utilizării greșite a IA.
 
@@ -95,7 +99,7 @@ Bernstein și Sibia (2026) arată că analogiile generate de [[generative-ai|IA 
 
 **Concepțiile greșite generate de model sunt o capacitate măsurabilă, nu un accident.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] au construit SocraticTrap-CS, care a promptat șapte modele cu greutăți deschise să scrie o „[[socratic-method|capcană socratică]]" pentru 35 de concepte fundamentale de informatică — o explicație fluentă și autoritară care se sprijină pe o eroare subtilă, specifică domeniului. Din 241 de segmente promptate, 221 (91,7%) au fost confirmate ca concepții greșite strategice prin votul majoritar al experților (κ Fleiss = 0,9487), fără diferențe semnificative între domeniile informatice; 66,5% dintre erorile confirmate erau conceptuale, nu factuale, și niciuna nu era pur logică. Fluența este mecanismul, nu o apărare: persuasivitatea a fost în medie 3,71 pe o scală de cinci puncte și a depins puternic de model, iar frecvența și gravitatea s-au disociat — cele două modele care au produs capcane cel mai des au fost și cele evaluate ca fiind cele mai convingătoare. Deoarece o întrebare prost formulată a unui student poate acționa ea însăși ca prompt adversarial, autorii tratează rata ca o capacitate în condiții de promptare adversarială, nu ca rată de bază pentru sesiunile obișnuite de studiu — și argumentează că sarcina [[ai-literacy|alfabetizării în IA]] se mută de la verificarea faptelor individuale la verificarea conceptuală și validarea modelelor mentale. Aceasta este fața mai întunecată a utilizării generative de mai sus: aceeași capacitate care poate însămânța o discuție productivă între colegi poate și întări o eroare pe care cursantul o forma deja.
 
-### Corecturi în stil de refutare pentru concepțiile greșite frecvente despre IA
+## Corecturi în stil de refutare pentru concepțiile greșite frecvente despre IA
 
 Deoarece concepțiile greșite sunt deținute activ și rezistente, cel mai direct mod de a le aborda — inclusiv pe această pagină — este structura [[refutation-text|textului de refutare]]: **numește concepția greșită, respinge-o explicit și enunță concepția corectă.** Intrările de mai jos aplică această structură celor mai consecvente concepții greșite despre IA și despre învățare, predare și educație:
 

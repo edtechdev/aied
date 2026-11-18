@@ -10,14 +10,18 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: concepts/educational-development
-source_updated: "2026-11-07T12:15:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -46,9 +50,14 @@ Vzdelávací rozvoj je profesijná a inštitucionálna práca, ktorou pedagógov
 - **Integrácia do kurikula:** [[institutional-change-framework-ai|Rámce inštitucionálnej zmeny]] a [[ai-assessment-scale-reform|reforma hodnotenia]] vyžadujú, aby pedagógovia redizajnovali kurzy, a nielen pridali nástroje AI.
 - **Školiace programy:** [[crewscaler-ai-upskilling-framework|Rámce zvyšovania kvalifikácie v AI]] a [[ai-tpack-preservice-math-teachers|príprava budúcich učiteľov založená na TPACK]] poskytujú modely štruktúrovaného [[ai-education|vzdelávania o AI]] pre pedagógov.
 
+- **Dopyt nie je hodnotenie potrieb.** 345 učiteľov z quebeckých CEGEP skórovalo najnižšie v technickom porozumení (2,706 z 5), no žiadali praktické aplikácie špecifické pre disciplínu a predchádzajúce sedenia označili za príliš všeobecné ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini a spol. (2026)]]).
 - **Profesijná reflexia sprostredkovaná AI.** Model reflektívneho trojuholníka stavia AI do pozície kognitívneho mediátora naprieč [[reflection|sebareflexiou]], spoločnou reflexiou a komunitnou reflexiou v profesijnej učebnej komunite; bol testovaný v štvortýždňovej prípadovej štúdii uskutočniteľnosti so šiestimi učiteľmi a hranica, ktorú vytyčuje, spočíva v tom, že individuálny vhľad sa automaticky nestáva zdieľaným profesijným poznaním ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|Riadenie]] a politika:** [[genai-policies-higher-ed-computing|Analýza inštitucionálnych politík o AI]] dokumentuje medzeru medzi inštitucionálnymi ambíciami a kapacitou podpory pedagógov.
 - **AI gramotnosť je inštitucionálne neviditeľná.** [[meta-analysis-systematic-review|Systematický prehľad]] 32 štúdií o AI gramotnosti učiteľov jazykov zistil, že chýba v modeloch pracovnej záťaže, v politikách povyšovania a v alokácii zdrojov, pričom rozvoj je roztrieštený a zodpovednosť sa presúva medzi inštitúciami a agentúrami, takže rozvoj gramotnosti sa predvolene stáva individuálnym úsilím a nie štrukturálnou podporou ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik a Duran, 2026]]).
+
+- **Konštrukcionistické workshopy potrebujú mapu.** Tri 50-minútové sedenia posunuli 20 až 25 pedagógov od hravého promptovania k znovupoužiteľným učebným materiálom, no účastníci noví v AI žiadali koncepčné uvedenie pred sandboxom ([[fischer-learning-by-making-faculty-development-2026|Fischer (2026)]]).
+
+Cezhraničný rozvoj má jednotku analýzy za hranicou workshopu. [[tian-transnational-faculty-development-governance-2027|Tian, Sun a Wang (2026)]] argumentujú, že konektivita je predvolene epizodická, keďže webinár distribuuje bez stanovenia programu a platforma hostí bez toho, aby vytvorila zhodu o používaní. To, čo premieňa podujatia na akumulovanú infraštruktúru, je neokázalé: sekretariát, ktorý drží rytmus, datovaný archív programov a príkladov z praxe a spoločné riadenie brané ako smer cesty, a nie ako status, ktorý si sieť môže nárokovať.
 
 ### Metafory a spoločný jazyk vo vzdelávacom rozvoji
 
@@ -57,7 +66,6 @@ Pedagógovia majú heterogénne a často hlboko ambivalentné mentálne modely A
 Praktickou metódou na zviditeľnenie týchto mentálnych modelov je **dielňa analýzy metafor**. [[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson a Casey (2025)]] navrhli a overili nízko-technologickú, spoločnú dielňu pre pedagógov, personál a študentov, v ktorej formulujú svoje metafory generatívnej AI. Metafory účastníkov sa zhlukovali do štyroch kategórií: *funkcie* (nástrojové: "švajčiarsky nožík"), *roly* (človeku podobné: "pomocník", "priateľ-nepriateľ"), *vlastnosti* (nepoznateľné: "čierna skrinka", "šmykľavý svah") a *agentúra* (ohrozujúce: "konkurent", "zlovestný robot"), pričom zviditeľňovali pretrvávajúce napätia medzi ľudskou a strojovou [[agency|agentúrou]] a medzi známym a nepoznateľným. Dielňa pomohla účastníkom zviditeľniť predpoklady, spojiť sa naprieč rolami, cítiť sa "nie sami" a premýšľať o [[ethics|etike]] GenAI bez potreby technickej expertízy. Ako rozvojový nástroj dáva tvorcom programov nízko-prahový spôsob, ako zviditeľniť predpoklady tímu *predtým*, než začnú redizajnovať [[assessment|hodnotenie]] alebo zavádzať politiku, a ako sa postaviť obavám priamo, vrátane obavy, že AI nahradí [[teacher-role|vyučovacie roly]].([[fear-awe-genai-metaphor-workshops-2025]])
 
 Širšia otázka návrhu je, ako metaforu vôbec vybrať. [[metaphors-and-analogies]] zhromažďuje prierezové dôkazy a [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins a Furze (2025)]] ponúkajú štyri kritériá: prístupnosť, vysvetľovaciu silu, potenciál kritickej AI gramotnosti a pedagogickú užitočnosť.
-
 
 ### GenAI ako práca s identitou, nielen zvyšovanie kvalifikácie
 
@@ -81,9 +89,7 @@ Pre rozvojárov pedagógov, akademických lídrov a [[stakeholders|návrhárov v
 
 **Riešte štyri hybné sily prijatia, nielen vedomosti.** Sebadôvera, postoje, podpora a obavy predpovedajú, či pedagógovia AI skutočne prijmú; dielňa zameraná iba na vedomosti, ktorá ich ignoruje, pravdepodobne prax nezmení. Navrhujte rozvoj tak, aby budoval sebadôveru praktickým používaním, poskytoval priebežnú podporu (nie jednorazové školenie) a aktívne zviditeľňoval obavy pedagógov a reagoval na ne.([[teacher-ai-adoption-confidence]])
 
-
 Sebadôvera a gramotnosť nie sú zameniteľné ciele: v SEM s 502 respondentmi z univerzitných pedagógov bola AI gramotnosť dominantným prediktorom [[well-being|blahobytu]] súvisiaceho s AI (β = 0,713), kým [[self-efficacy|technologická sebaúčinnosť]] prispela len málo (β = 0,082) a podpora dosahovala blahobyt iba nepriamo ([[faculty-ai-well-being-social-supports-2026|Liu a spol. (2026)]]).
-
 
 **Považujte dopyt po usmerneniach a ich primeranosť za dva samostatné problémy.** Pedagógovia jednej univerzity silne podporovali inštitucionálne opatrenia proti neetickému používaniu AI (M = 4,59), pričom existujúce usmernenia hodnotili najnižšie (M = 2,99) a za svoje najslabšie vedomosti označili [[privacy|súkromie údajov]] a kultúrnu inkluzívnosť, čo je konkrétny cieľ profesijného rozvoja ([[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic a Sever, 2026]]).
 
@@ -92,15 +98,21 @@ Sebadôvera a gramotnosť nie sú zameniteľné ciele: v SEM s 502 respondentmi 
 **Nestotožňujte investíciu do infraštruktúry s transformáciou.** Naprieč 125 štúdiami inštitucionálna investícia do infraštruktúry GenAI a vzdelávacieho rozvoja korelovala len slabo so skutočnou pedagogickou zmenou (r = 0,12), kým 60 až 70 % inštruktorov sa cítilo nepripravených integrovať GenAI, čo robí z rozvoja, a nie z nákupu, obmedzujúci faktor.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
 **Pomenujte spôsob zlyhania, nielen veľkosť účinku.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe a Martínez-Pérez (2026)]] to nazývajú simulovaná inovácia: prítomnosť nástroja signalizuje pokrok, formáty výučby a hodnotenia zostávajú nedotknuté, miery prijatia a [[visualization|dashboardy]] zastupujú učenie a cyklus vydávania technológie určuje smer. Ich diagnostika žiada, aby rozvojový program odôvodnil každý nástroj voči pomenovanému problému učenia pred prijatím.
 
+Rozsudok je lepšie chápať ako podmienku než ako položku kompetencie. [[ji-judgement-space-dialogic-inquiry-2027|Ji a Mercer (2026)]] opisujú priestor úsudku ako relačnú, normatívnu a podmienenú interakciu, cez ktorú sa profesijný úsudok artikuluje a skúma, a v prostrediach podporovaných AI sa tento priestor stáva trojstranným, pretože doň vstupujú generované hodnotenia. Ich trojstĺpcový audit sa pýta, čo robí učiteľ, čo robia študenti a ako je umiestnená AI, teda kolegiálny nástroj na lokalizovanie toho, kde sa úsudok potichu presunul na nástroj.
+
 **Smerujte k redesignu kurikula, nie k prijatiu nástroja.** Cieľom je, aby pedagógovia redizajnovali kurzy a hodnotenie, a nie iba pridali nástroje AI. Ukotvite profesijný rozvoj v práci na redesignu na úrovni kurzu a v reforme hodnotenia a dajte pedagógom štruktúrované rámce na túto prácu (napr. [[ai-assessment-scale-reform|škály hodnotenia]], [[institutional-change-framework-ai|rámce inštitucionálnej zmeny]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
 **Zvolajte dedinu, nie jednotlivca.** Naprieč 12 rozhovormi s akademikmi a 17 so študentmi redesign hodnotenia v ére GenAI presahoval schopnosť akéhokoľvek jednotlivého akademika; spomenuté boli nepružné procesy, dlhé čakacie doby a záťaž z pracovnej náročnosti, a autori preto navrhujú celoprogramový tím spájajúci expertízu v návrhu hodnotenia, GenAI, predmetovej látke, programe a priemysle ([[nicola-richmond-programwide-assessment-genai-2025|Nicola-Richmond a spol., 2025]]).
+
+Jednotka rozvoja môže byť menšia než katedra a väčšia než osoba. [[chen-future-faculty-development-ai-2027|Chen a spol. (2026)]] vytyčujú sedem rolí učiteľa, ale trvajú na tom, že nemusia sídliť v jednom akademikovi: humanistický pedagóg a disciplinárny expert sú univerzálne základy, zatiaľ čo architektúra učenia, redesign hodnotenia, technická kompetencia, etické správcovstvo a disciplinované experimentovanie sa dajú rozdeliť v rámci vyučujúceho tímu. Ich podmienkou je, že každý si zachová základnú technickú a etickú schopnosť, aby sa zdieľaná expertíza nestala zdieľanou nevedomosťou.
 
 **Veďte sériu na vlastných dátach miestnosti, nie na importovanej osvedčenej praxi.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum a Finkelstein (2026)]] dokumentujú overený model z veľkej verejnej fyzikálnej katedry R1: šesť dvojtýždňových stretnutí po 60 až 75 minút, devätnásť pedagógov zapojených naprieč sériou a približne desať na každom stretnutí, pričom každé stretnutie sa otváralo miestnymi dátami alebo materiálmi z katedry, prešlo k testovaniu AI v malých skupinách na skutočných anonymizovaných domácich úlohách študentov a uzavrelo sa spoločnou diskusiou. To, čo pedagógovia testovaním zistili, bolo užitočnejšie než akýkoľvek balík, ktorý by facilitátori mohli importovať: AI vyriešila každú úlohu, ktorú vyskúšali, ale jej spätná väzba na skutočnú prácu študentov bola nerovnomerná, závislá od promptu a povrchná, ak nedostala explicitné ciele a rubriky, a študenti promptovali plytko a výstup upravovali povrchne, ak nebolo produktívne používanie modelované. Prvým konkrétnym výstupom bolo živé úložisko s piatimi položkami (vyhlásenia politiky v sylaboch, materiály na diskusiu v triede, prieskum medzi študentmi, domáce úlohy s integrovanou AI a štruktúry hodnotenia), a preto autori považujú štruktúru stretnutí samotnú za argument, a nie obsah, ktorý priniesla.
 
 **Ukotvite to v kompetenčnom rámci.** Rozvoj by mal budovať aj **pedagogickú [[prompt-engineering|promptovú gramotnosť]]**, teda schopnosť zakódovať pedagogické zámery do promptov, keďže [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] zisťuje, že kvalitu učiteľskej návrhovej práce s podporou AI určuje pedagogická expertíza, a nie znalosť AI.([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
 
 **Zoraďte porozumenie pred automatizáciou.** [[qualitative-research|Kritická diskurzívna analýza]] 14 textov sivej literatúry publikovaných medzi novembrom 2022 a aprílom 2025, ktoré radili praktikom v oblasti generatívnej AI pre konštruktívne zladenie, zisťuje, že schopnosť musí predchádzať prístupu k nástroju: keďže v [[constructivist|konštruktivistickom]] rámci kvalita angažovania predchádza kvalite porozumenia, riziko sa mení nepriamo úmerne s oboznámenosťou a začiatočníci sú najviac vystavení prijímaniu vierohodne vyzerajúcich, ale pedagogicky tenkých výstupov na základe ich zdanlivej pravdepodobnosti. [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes a spol. (2026)]] ďalej argumentujú, že rozvojové jednotky by mali odolávať technicistickému zadaniu, teda pomáhať pedagógom "získať plynulosť" v nástrojoch, ktoré "odvedú ťažkú prácu" [[learning-design|návrhu kurzu]], pretože takéto rámcovanie vylučuje rozvojárov z uzavretej slučky pedagóg a GenAI a prerámováva hodnotovo vedený, relačný rozvoj na sprostredkujúci mechanizmus prijímania softvéru. Obhájiteľnou alternatívou je ponechať vzdelávacích rozvojárov ako kurátorov a nastavovateľov pravidiel akéhokoľvek inštitucionálne ohraničeného [[rag|vyhľadávaním rozšíreného]] asistenta zladenia, ktorý kladie sondážne otázky, označuje podhodnotenie a prehodnotenie a generuje alternatívy, ale nikdy hotové artefakty, pričom eskalácia na [[human-in-the-loop-ai|ľudský úsudok]] v otázkach akreditácie a medziprogramových záležitostí sa považuje za vlastnosť, a nie za výnimku.
+
+Rozvoj sa dá organizovať aj okolo nemenného jadra a pohyblivého okraja. [[ho-invariant-core-faculty-development-2027|Ho (2026)]] stavia neuropsychologický mechanizmus učenia pred akúkoľvek technológiu, argumentuje, že GenAI zrúca vzdialenosť medzi artefaktom a myslením, a odvodzuje vedecko-učiteľskú cestu, v ktorej pedagógovia skúmajú vlastnú výučbu pod dôkazmi, reflexiou a rovesníckym posudzovaním. Jeho priorita z toho vyplýva: prehĺbiť to, ako učenie funguje, potom nechať učiteľov tvoriť malé nástroje, a technologický okraj brať ako tú časť, ktorá sa očakávane hýbe.
 
 **Zviditeľnite a riešte obavy a mentálne modely.** Predtým, než začnete redizajnovať výučbu, použite dielňu analýzy metafor ([[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson a Casey 2025]]) na zviditeľnenie predpokladov a obáv tímu ohľadne GenAI, vrátane obavy, že nahradí vyučovacie roly, a budujte rozvoj, ktorý na ne reaguje, namiesto toho, aby ich ignoroval.([[fear-awe-genai-metaphor-workshops-2025]])
 
@@ -112,12 +124,24 @@ Sebadôvera a gramotnosť nie sú zameniteľné ciele: v SEM s 502 respondentmi 
 
 **Merajte účasť, nie pocit angažovanosti.** V šesťmesačnom programe Intelligent-TPACK pre 64 univerzitných učiteľov miera účasti predpovedala zisk v AI kompetencii (β = 0,407, p = 0,001), kým samovyhodnotená participácia nie (β = 0,049, p = 0,692), čo autori čítajú ako konkrétnu behaviorálnu investíciu oproti povrchovej angažovanosti ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng a Ling, 2025]]). Program spájal online prednášky s tromi prezenčnými dielňami a potom vyžadoval, aby učitelia revidovali svoje inštrukčné návrhy a v nasledujúcom semestri ich zaviedli, pričom autori odporúčajú previazať účasť s hodnotením zamestnancov popri zmysluplných stimuloch.
 
+Účasť a podstata sa môžu pohybovať opačnými smermi a dôvod je štrukturálny, nie motivačný. [[jiang-faculty-development-japan-2027|Jiang, Wang a Taguchi (2026)]] sledujú rast japonskej účasti na 32,7 % univerzít v roku 2023, zatiaľ čo workshopy aktívneho učenia, vzájomné hospitácie a rovesnícke posudzovanie stagnovali alebo klesali, a obmedzenie lokalizujú v absencii akejkoľvek pokračujúcej profesijnej roly v akademickom rozvoji. Rotácia, súbežné povinnosti a zmluvy na dobu určitú narúšajú kontinuitu, na ktorej závisia kolegiálne formáty, takže ukazovateľom na reportovanie je mix formátov popri počte hláv.
+
 **Benchmarkujte voči tomu, čo hlásia samotní pedagógovia.** Prieskum [[watson-rainie-ai-challenge-faculty-survey-2026|Watsona a Rainieho (2026)]] medzi 1 057 americkými pedagógmi zisťuje, že inštitucionálna vrstva je tenká spôsobmi, ktoré tvorcovia programov môžu merať priamo: 59 % hodnotilo svoju školu ako nepripravenú efektívne používať generatívnu AI na prípravu študentov na budúcnosť a 68 % uviedlo, že nepripravila pedagógov na jej používanie pri výučbe a mentorovaní, kým štrukturálna odpoveď siahala po pracovnej skupine v 55 % inštitúcií, ale po výsledku všeobecného vzdelávania v AI gramotnosti len v 13 %. Pedagógovia nečakali na politiku: 87 % si napísalo vlastné pravidlá na úrovni zadania oproti 48 %, ktorí mohli poukázať na inštitucionálne, a za prekážky prijímania na katedre označili odpor kolegov (82 %) a ich neoboznámenosť (83 %), a nie direktívu. Pre rozvojové programy to znamená chápať rovesnícke normy, spoločný jazyk pravidiel na úrovni zadania a explicitné meranie inštitucionálnej pripravenosti ako súčasť intervencie, a nie ich ponechať politickému dokumentu.
 
 **Odpoveď inštruktorov odráža mocenské centrá, nie postoj.** V inštrumentálnej prípadovej štúdii 33 inštruktorov písania formovali prax štyri polycentrické mocenské centrá (globálny trend GenAI, univerzita a katedra, kolegovia a študenti) a externí učitelia obmedzení malou diskurzívnou mocou sa posunuli od detekcie k výučbe prijateľného používania ([[zuo-instructor-power-genai-writing-2026|Zuo a spol. (2026)]]).
 
 - **Šesť rodín profesijného rozvoja, tri dobre podložené a jeden jasný víťaz.** Prehľad 78 štúdií o inštrukčnom dizajne podporovanom AI triedi zdokumentovaný profesijný rozvoj do kompaktných vstavaných modulov (2 - 4 týždne), semestrálneho mikroučenia, cyklov návrhu založených na úlohách, kolaboratívnych reťazí otázok založených na dialógu, kritického spoločného objavovania a [[self-directed-learning|samonasmerovaného učenia]] praktikov. Dôkazy o výsledkoch sú najsilnejšie pre **kompaktné vstavané moduly**: trojtýždňový modul priniesol štatisticky významné zisky vo všetkých šiestich doménach Intelligent-TPACK s veľkosťami účinku od stredných po veľké a štvortýždňový program so **436 budúcimi učiteľmi a kontrolnou podmienkou** je najsilnejším kontrolovaným hodnotením v korpuse ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou a Kameas, 2026]]).
 - **Tri návrhové črty odlišujú najlepšie podložené intervencie.** Etika zakotvená ako **[[retrieval-spacing-interleaving|rozložená praxa]] s kontrolnými bodmi pri každej úlohe**, a nie ako samostatná sekcia; **hodnotenie kompetencie založené na výkone** pomocou plánov hodín, záznamov rozhodnutí a mikrovýučby, motivované priamo nespoľahlivosťou sebavyhlásení; a prompt engineering rozvíjaný ako reflexívna, pedagogicky ukotvená praxa. Prijatie nie je tou istou pákou ako výkon: naprieč 200 učiteľmi na severe Sumatry nemalo používanie AI žiadny priamy účinok na výkon učiteľa (β = 0,112, p = 0,087), kým organizačné občianske správanie ho nieslo nepriamo, takže rozvojová práca zameraná na kolaboratívne používanie nad rámec role je verziou, ktorú dôkazy podporujú ([[ai-use-teacher-performance-north-sumatra-2026|Sherly a spol. (2027)]]). Sprievodná dvojtýždňová štúdia zistila rýchle zisky vo vedomostiach a sebadôvere a zároveň označila detekciu predsudkov za najslabšiu vznikajúcu kompetenciu, teda medzeru, ktorá pretrvala aj v dlhšom module, čo je v súlade s pomalším rozvojom etickej percepčnej kapacity oproti technologickej oboznámenosti.
+
+**Rozsah je zdokumentovaný; zmena v triedach nie.** [[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay a kolegovia]] sledovali 105 učiteľov chémie cez šesťtýždňový program a [[ma-ai-corpus-language-teaching-coi-2026|Ma a kolegovia]] viedli 20-týždňový online program s viac ako 150 učiteľmi jazykov z 28 krajín. [[white-scandinavian-teachers-genai-attitudes-2026|White a kolegovia]] namerali prírastok 0,20 SD vo vnímaných prínosoch u 2 159 skandinávskych učiteľov, ktorí absolvovali profesijný rozvoj v GenAI. Každá štúdia ukazuje, že rozvoj mení to, čo pedagógovia hlásia; žiadna ich nenasleduje do triedy, aby zmerala, čo študenti robili inak.
+
+**To, čo pedagógovia žiadajú, sa podobá skôr na učňovstvo než na tréning.** V okrskovej štúdii 22 učiteľov žiadalo rozvoj vedený bývalými učiteľmi, ktorí rozumejú obmedzeniam triedy, jednostranovú príručku o tom, kedy nástroje pomáhajú, a čas na plánovanie na využitie oboch ([[dangol-relief-or-displacement-teachers-generative-ai-2026|Dangol a spol.]]). Inštitúcie sa medzitým rozhodujú budovať kapacitu, nie ju kupovať: medzi tými, ktorých stratégia zahŕňa zručnosti pracovnej sily, 69 % zvyšuje kvalifikáciu existujúcich zamestnancov a pedagógov ([[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE, 2026]]).
+
+**Absencia rozvoja je politická voľba s viditeľným výsledkom.** [[rameskumar-shadow-ai-legitimized-higher-education-2027|Rameskumar a kolegovia]] interviewovali 20 pedagógov, ktorí si vytvorili vlastné pravidlá, pretože žiadne usmernenie neprišlo, a [[bodek-prompted-to-explore-microlearning-2026|Bodek]] opisuje model mikroučenia postavený tak, aby sedel do času, ktorý pedagógovia skutočne majú. Programy, ktoré berú rozvoj ako jednu opakovanú vrstvu inštitucionálnej podpory a nie ako jednorazové podujatie, hlásia rozdiel ([[aalhe-capacity-disposition-genai-assessment-2026|AALHE]]).
+
+**Prostredie mení tvar rozvoja, nie potrebu po ňom.** V medicínskom vzdelávaní berie AI rezidencia rozvoj pedagógov a spoločné učenie ako mechanizmus, a nie ako doplnok ([[bursic-ai-residency-education-curriculum-2026|Bursic a spol.]]). Prehľad 86 zdrojov o ranom detstve označuje rozvoj vzdelávateľov za jednu zo svojich štyroch tém ([[early-childhood-ai-holistic-competencies-review-2026|prehľad]]). Obnova odborného vzdelávania siaha po rozvoji pedagógov, keď zmena kurikula odhalí medzeru v schopnostiach ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). A u 146 učiteľov sprostredkovala angažovanosť v profesijnom rozvoji vzťah medzi motiváciou a zamýšľaným používaním GenAI ([[yuan-teacher-need-satisfaction-genai-2026|Yuan a spol.]]).
+
+Spracovaný príklad kohortového modelu pochádza z univerzitnej knižnice. [[jordan-faculty-ai-oer-creation-2025|Jordan a spol. (2025)]] vyplatili sedem štipendií pedagógom za osemtýždňový program, ktorý kombinoval štyri týždne výučby, samostatný rozvoj projektu a rovesnícku spätnú väzbu, zakotvený v Knowlesových princípoch učenia dospelých a v promptovacom rámci CLEAR. Prínosy boli mierne v oboznámenosti s AI a väčšie v oboznámenosti s OER, a autori berú štipendium aj kolektívnu zmluvu, ktorá umožnila platiť externých učiteľov, ako súčasť intervencie, a nie ako administratívu.
 
 ## Časté mylné predstavy
 
@@ -147,11 +171,12 @@ Sebadôvera a gramotnosť nie sú zameniteľné ciele: v SEM s 502 respondentmi 
 - [[stakeholders]] - Zastrešujúci rámec: ľudia a publikum vo vzdelávaní s AI (študenti, učitelia, návrhári, administrátori, tvorcovia politiky)
 
 ## Prepojené články
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritická diskurzívna analýza rád o zladení s GenAI: rozvojári prerámovaní na školiteľov technológií
+
+- [[jordan-faculty-ai-oer-creation-2025]] — Od promptu k praxi: iniciatíva zameraná na fakulty na skúmanie tvorby OER podporovanej AI (Jordan a spol., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritická diskurzívna analýza odporúčaní o zladení s GenAI: vývojári prerámovaní na školiteľov technológií
 - [[crompton-faculty-technology-integration-standards-2026]] — Štandardy pre pedagógov v oblasti integrácie technológií (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Etické dimenzie AI: pohľady pedagógov a študentov
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Ako metafory pedagógov inžinierstva konštruujú (a obmedzujú) porozumenie AI
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Ako metafory inžinierskych pedagógov konštruujú (a obmedzujú) porozumenie AI
 - [[fear-awe-genai-metaphor-workshops-2025]] — Strach a úžas: porozumenie generatívnej AI cez metaforu (metaforická dielňa pre pedagógov, personál a študentov)
 - [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Štyri kritériá a štyri metafory na výučbu kritickej AI gramotnosti
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Riadenie neviditeľného: AI gramotnosť učiteľov jazykov
@@ -178,8 +203,23 @@ Sebadôvera a gramotnosť nie sú zameniteľné ciele: v SEM s 502 respondentmi 
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — Prieskum AAC&U/Elon medzi 1 057 americkými pedagógmi: inštitucionálna nepripravenosť, tenké riadenie a medzera v politikách 87 %/48 % (Watson a Rainie 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademickí rozvojári ako digitálni mediátori v globálnom juhu vysokého školstva: rozvoj ako sociotechnická praxa
 - [[physics-faculty-learning-community-ai-2026]] — Séria dielní pre efektívne používanie AI v neistých časoch: budovanie učebnej komunity fyzikálnych pedagógov
-
 - [[faculty-ai-well-being-social-supports-2026]] — Blahobyt pedagógov v súvislosti s AI sleduje AI gramotnosť, a nie technologickú sebaúčinnosť
-
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Môže vzdelávanie určiť agendu pre AI? Simulovaná inovácia a pedagogické smerovanie vo vzdelávaní učiteľov
 - [[ai-competence-framework-landscape-2026]] — Pred prijatím rámca si overte, čo opisujú jeho úrovne
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Môže vzdelávanie určiť agendu pre AI? Simulovaná inovácia a pedagogické smerovanie vo vzdelávaní učiteľov
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 učiteľov chémie v šesťtýždňovom programe
+- [[ma-ai-corpus-language-teaching-coi-2026]] — Viac ako 150 učiteľov jazykov z 28 krajín za 20 týždňov
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2 159 skandinávskych učiteľov; prírastok 0,20 SD vo vnímaných prínosoch
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 učiteľov po programe učenia o GenAI, s potrebami sprostredkujúcimi angažovanosť
+- [[bodek-prompted-to-explore-microlearning-2026]] — model mikroučenia pre profesijný rozvoj v generatívnej AI
+- [[bursic-ai-residency-education-curriculum-2026]] — AI rezidencia v medicínskom vzdelávaní
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 zdrojov; rozvoj vzdelávateľov ako jedna zo štyroch tém
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 učiteľov žiadajúcich rozvoj vedený bývalými učiteľmi
+- [[robert-educause-impact-ai-work-higher-education-2026]] — 69 % zvyšuje kvalifikáciu existujúcich zamestnancov a pedagógov
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 pedagógov legitimizujúcich tieňovú AI tam, kde chýbalo usmernenie
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — medzery v schopnostiach ženúce rozvoj pedagógov a rozhodnutia o nábore
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — opakovaný rozvoj ako jedna z piatich vrstiev podpory
+- [[chen-future-faculty-development-ai-2027]] — Sedem rolí učiteľa, dva univerzálne základy a vyučujúci tím ako jednotka rozvoja
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Priestor úsudku, dialogické skúmanie a trojstĺpcový audit toho, kam sa úsudok presunul na nástroj
+- [[jiang-faculty-development-japan-2027]] — Japonský dvojkolejný profesijný rozvoj: účasť rástla, kolegiálne formáty nie
+- [[tian-transnational-faculty-development-governance-2027]] — Nadnárodný rozvoj pedagógov: konektivita je epizodická, prácou je koordinácia
+- [[ho-invariant-core-faculty-development-2027]] — Nemenné jadro, meniaci sa okraj: mechanizmus učenia pred technológiou
