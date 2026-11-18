@@ -9,6 +9,7 @@ import StarButton from '../../components/StarButton.astro';
 import ConnectedList from '../../components/ConnectedList.astro';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
 import { FAQ_SEARCH_ALIASES } from '../../data/searchAliases';
+import { formatRuntime, transcriptAssetUrl } from '../../data/podcast';
 
 export async function getStaticPaths() {
   const faqs = await getCollection('faqs');
@@ -43,6 +44,19 @@ const connectedFaqs = (faq.data.connected_faqs || [])
   .filter((s: string) => s !== slug)
   .map(s => faqById.get(s))
   .filter((f): f is NonNullable<typeof f> => Boolean(f));
+
+// Connected Podcasts: the episodes this FAQ names in `connected_podcasts`, listed at
+// the foot like the concept pages do. A reader who would rather listen than read gets
+// the episode, its runtime and the transcript.
+const episodeById = new Map(
+  (await getCollection('audio'))
+    .filter(e => e.data.status !== 'draft')
+    .map(e => [e.id.replace('.md', ''), e]),
+);
+const connectedPodcasts = (faq.data.connected_podcasts || [])
+  .map((s: string) => episodeById.get(s))
+  .filter((e): e is NonNullable<typeof e> => Boolean(e))
+  .sort((a, b) => a.data.episode - b.data.episode);
 
 const allArticles = await getCollection('articles');
 
@@ -132,6 +146,19 @@ if (connectedResources.length > 0) {
     <div style="line-height:1.8" data-pagefind-body data-pagefind-weight="2">
       <Fragment set:html={rendered.html} />
     </div>
+
+    <ConnectedList
+      id="connected-podcasts"
+      heading="Connected Podcasts"
+      items={connectedPodcasts.map((e) => ({
+        href: `/aied/audio/${e.id.replace('.md', '')}/`,
+        title: e.data.title,
+        kind: 'audio' as const,
+        meta: `Episode ${e.data.episode} · ${formatRuntime(e.data.duration)}`,
+        summary: e.data.summary,
+        links: [{ label: 'Download transcript (.txt)', href: transcriptAssetUrl(e.data.transcript_file) }],
+      }))}
+    />
 
     <ConnectedList
       id="connected-faqs"

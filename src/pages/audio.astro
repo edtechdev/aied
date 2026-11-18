@@ -30,24 +30,27 @@ const episodes = (await getCollection('audio'))
 // its episodes (it renders the Connected Podcasts list from its own frontmatter).
 // Two copies can drift, so the build fails on a pair that disagrees instead of
 // shipping an episode nobody can reach or a list item pointing at nothing.
-const conceptPages = await getCollection('concepts');
 const episodeBySlug = new Map(episodes.map(e => [e.id.replace('.md', ''), e]));
-for (const page of conceptPages) {
-  const pageSlug = page.id.replace('.md', '');
-  const named = page.data.connected_podcasts ?? [];
-  for (const epSlug of named) {
-    const ep = episodeBySlug.get(epSlug);
-    if (!ep) throw new Error(`concepts/${pageSlug}.md names unknown episode "${epSlug}"`);
-    if (!ep.data.concepts.includes(pageSlug)) {
-      throw new Error(`concepts/${pageSlug}.md names "${epSlug}", but that episode does not list ${pageSlug} in its concepts`);
+const checkPairing = (pages: any[], declared: 'concepts' | 'faqs', folder: string) => {
+  for (const page of pages) {
+    const pageSlug = page.id.replace('.md', '');
+    const named: string[] = page.data.connected_podcasts ?? [];
+    for (const epSlug of named) {
+      const ep = episodeBySlug.get(epSlug);
+      if (!ep) throw new Error(`${folder}/${pageSlug}.md names unknown episode "${epSlug}"`);
+      if (!ep.data[declared].includes(pageSlug)) {
+        throw new Error(`${folder}/${pageSlug}.md names "${epSlug}", but that episode does not list ${pageSlug} in its ${declared}`);
+      }
+    }
+    for (const [epSlug, ep] of episodeBySlug) {
+      if (ep.data[declared].includes(pageSlug) && !named.includes(epSlug)) {
+        throw new Error(`episode "${epSlug}" lists ${pageSlug}, but ${folder}/${pageSlug}.md does not name it in connected_podcasts`);
+      }
     }
   }
-  for (const [epSlug, ep] of episodeBySlug) {
-    if (ep.data.concepts.includes(pageSlug) && !named.includes(epSlug)) {
-      throw new Error(`episode "${epSlug}" lists ${pageSlug}, but concepts/${pageSlug}.md does not name it in connected_podcasts`);
-    }
-  }
-}
+};
+checkPairing(await getCollection('concepts'), 'concepts', 'concepts');
+checkPairing(await getCollection('faqs'), 'faqs', 'faqs');
 
 // The readings share the feed, so they are listed here too: a subscriber who opens
 // the show's page should see the same two kinds of item the feed carries.

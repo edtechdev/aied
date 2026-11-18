@@ -50,6 +50,9 @@ const rendered = renderMarkdown(episode.body ?? '', {
 const connected = episode.data.concepts
   .filter(c => conceptSlugs.has(c))
   .map(c => ({ href: `${siteConfig.basePath}/concepts/${c}/`, title: titles[c] ?? c, kind: 'concept' as const }));
+const connectedFaqs = episode.data.faqs
+  .filter(f => faqSlugs.has(f))
+  .map(f => ({ href: `${siteConfig.basePath}/faqs/${f}/`, title: titles[f] ?? f, kind: 'faq' as const }));
 
 const base = siteConfig.basePath;
 const newer = episodes[index + 1];
@@ -92,6 +95,7 @@ const toc = [{ text: 'Transcript', slug: 'transcript', depth: 2 }];
   </div>
 
   <ConnectedList id="connected-concepts" heading="Concepts in this episode" items={connected} />
+  <ConnectedList id="connected-faqs" heading="Questions this episode answers" items={connectedFaqs} />
 
   <nav class="episode-nav" aria-label="Other episodes">
     {older && (

@@ -1,8 +1,9 @@
 ---
 title: "How Can AI Agents Support Students and Instructors?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-18T15:25:00-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
+connected_podcasts: [pedagogical-agents-textbook-that-watches]
 weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]

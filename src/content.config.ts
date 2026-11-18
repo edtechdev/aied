@@ -365,6 +365,7 @@ const faqs = defineCollection({
     source_url: z.string().optional(),
     connected_faqs: connectedFaqs,
     connected_resources: connectedResources,
+    connected_podcasts: connectedPodcasts,
     ...structuredMeta,
     ...provenance,
   }),
@@ -516,9 +517,10 @@ const audio = defineCollection({
     // downloaded on its own and named in the feed's <podcast:transcript>.
     transcript_file: z.string(),
     transcript_bytes: z.number(),
-    // Concept slugs the episode is attached to. The concept page renders the
-    // player under its heading, so this is the link between page and audio.
+    // Pages the episode is attached to. Each names the episode back in
+    // `connected_podcasts`; the build fails if the two disagree.
     concepts: z.array(z.string()).default([]),
+    faqs: z.array(z.string()).default([]),
     // Everything spoken in the episode, for the feed and the episode page. The
     // transcript body carries the formatting; this is the tagline above it.
     speakers: z.array(z.string()).default([]),
