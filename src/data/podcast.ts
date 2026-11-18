@@ -21,12 +21,14 @@ export function audioAssetUrl(file: string): string {
 }
 
 /**
- * The plain-text transcript is a release asset beside the mp3, not a page: a
- * listener may want the text in a notes app, and a podcast host or directory can
- * point at a transcript URL without scraping the episode page.
+ * Transcripts live in public/transcripts, not in the release: they are ~20 kB of
+ * text, so keeping them in the repo costs nothing, and GitHub serves release assets
+ * as application/octet-stream with a Content-Disposition attachment -- which makes a
+ * browser download the file instead of showing it, and gives a podcast host the wrong
+ * MIME type. From the site they arrive as text/plain, in the page's own origin.
  */
 export function transcriptAssetUrl(file: string): string {
-  return `${AUDIO_ASSET_BASE}/${encodeURIComponent(file)}`;
+  return `/aied/transcripts/${encodeURIComponent(file)}`;
 }
 
 /** Cover art, served from public/ (i.e. /aied/audio/cover.jpg). */
@@ -51,6 +53,12 @@ export function clockDuration(seconds: number): string {
   const mm = String(m).padStart(h ? 2 : 1, '0');
   return h ? `${h}:${mm}:${String(s).padStart(2, '0')}` : `${mm}:${String(s).padStart(2, '0')}`;
 }
+
+/**
+ * Apple Podcasts will not accept a feed whose <itunes:owner> has no email, so the
+ * address is part of the show's required metadata, not a contact link on the page.
+ */
+export const PODCAST_OWNER_EMAIL = 'doug.holton@gmail.com';
 
 /** The show describes itself the same way everywhere it is offered. */
 export const PODCAST_TITLE = 'AIEd Audio';

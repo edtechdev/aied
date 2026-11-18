@@ -1,11 +1,12 @@
 ---
 title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-18T16:50:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
 connected_faqs: [course-ai-policy]
+connected_podcasts: [say-why-framing-ai-use]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high

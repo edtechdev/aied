@@ -1,8 +1,9 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T09:26:00-05:00"
+updated: "2026-11-18T16:30:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
+connected_podcasts: [integrity-designed-not-enforced]
 type: concept
 foundations: [ai-literacy]
 assessment: [ai-detection, assessment-validity, authentic-assessment]

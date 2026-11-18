@@ -1,5 +1,6 @@
 import { getCollection } from 'astro:content';
 import {
+  PODCAST_OWNER_EMAIL,
   PODCAST_COVER_URL,
   PODCAST_DESCRIPTION,
   PODCAST_SUBTITLE,
@@ -132,6 +133,7 @@ export async function GET() {
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
       <itunes:name>${xmlEscape(siteConfig.editor.name)}</itunes:name>
+      <itunes:email>${xmlEscape(PODCAST_OWNER_EMAIL)}</itunes:email>
     </itunes:owner>
     <itunes:image href="${xmlEscape(PODCAST_COVER_URL)}"/>
     <itunes:category text="Education">
