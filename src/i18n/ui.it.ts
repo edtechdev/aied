@@ -9,6 +9,7 @@ const it: UiStrings = {
   toolsLink: 'Strumenti e risorse',
   journalLink: 'Diario',
   newsletterLink: 'Newsletter',
+  audioLink: 'Podcast',
   faqLink: 'FAQ',
   language: 'Lingua',
   chooseLanguage: 'Scegli una lingua',

@@ -9,6 +9,7 @@ const tr: UiStrings = {
   toolsLink: 'Araçlar ve kaynaklar',
   journalLink: 'Günlük',
   newsletterLink: 'Newsletter',
+  audioLink: 'Podcast',
   faqLink: 'SSS',
   language: 'Dil',
   chooseLanguage: 'Bir dil seçin',

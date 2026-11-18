@@ -12,6 +12,7 @@ export interface UiStrings {
   /** Label of the journal entry in the overflow menu. */
   journalLink: string;
   newsletterLink: string;
+  audioLink: string;
   /** Label of the FAQ entry in the overflow menu. */
   faqLink: string;
   /** Label and accessible name of the language switcher button. */
@@ -122,6 +123,7 @@ const zh: UiStrings = {
   toolsLink: '工具与资源',
   journalLink: '日志',
   newsletterLink: 'Newsletter',
+  audioLink: '播客',
   faqLink: '常见问题',
   language: '语言',
   chooseLanguage: '选择语言',

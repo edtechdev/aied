@@ -12,6 +12,7 @@ export interface UiStrings {
   /** Label of the journal entry in the overflow menu. */
   journalLink: string;
   newsletterLink: string;
+  audioLink: string;
   /** Label of the FAQ entry in the overflow menu. */
   faqLink: string;
   /** Label and accessible name of the language switcher button. */
@@ -128,6 +129,7 @@ const vi: UiStrings = {
   toolsLink: 'Công cụ và tài nguyên',
   journalLink: 'Nhật ký',
   newsletterLink: 'Newsletter',
+  audioLink: 'Podcast',
   faqLink: 'FAQ',
   language: 'Ngôn ngữ',
   chooseLanguage: 'Chọn ngôn ngữ',

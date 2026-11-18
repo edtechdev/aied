@@ -12,6 +12,7 @@ export interface UiStrings {
   /** Label of the journal entry in the overflow menu. */
   journalLink: string;
   newsletterLink: string;
+  audioLink: string;
   /** Label of the FAQ entry in the overflow menu. */
   faqLink: string;
   /** Label and accessible name of the language switcher button. */
@@ -122,6 +123,7 @@ const ko: UiStrings = {
   toolsLink: '도구와 리소스',
   journalLink: '저널',
   newsletterLink: 'Newsletter',
+  audioLink: '팟캐스트',
   faqLink: 'FAQ',
   language: '언어',
   chooseLanguage: '언어 선택',

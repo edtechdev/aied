@@ -11,6 +11,7 @@ const he: UiStrings = {
   toolsLink: 'כלים ומשאבים',
   journalLink: 'יומן',
   newsletterLink: 'Newsletter',
+  audioLink: 'פודקאסט',
   faqLink: 'שאלות נפוצות',
   language: 'שפה',
   chooseLanguage: 'בחירת שפה',

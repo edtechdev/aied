@@ -12,6 +12,7 @@ export interface UiStrings {
   /** Label of the journal entry in the overflow menu. */
   journalLink: string;
   newsletterLink: string;
+  audioLink: string;
   /** Label of the FAQ entry in the overflow menu. */
   faqLink: string;
   /** Label and accessible name of the language switcher button. */
@@ -128,6 +129,7 @@ const hu: UiStrings = {
   toolsLink: 'Eszközök és források',
   journalLink: 'Napló',
   newsletterLink: 'Newsletter',
+  audioLink: 'Podcast',
   faqLink: 'GYIK',
   language: 'Nyelv',
   chooseLanguage: 'Válasszon nyelvet',
