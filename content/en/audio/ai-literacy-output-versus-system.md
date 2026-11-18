@@ -8,6 +8,8 @@ status: published
 audio_file: "aied-audio-02-ai-literacy.mp3"
 duration: 1391
 audio_bytes: 16693008
+transcript_file: "aied-audio-02-ai-literacy.txt"
+transcript_bytes: 24156
 concepts: [ai-literacy]
 ---
 

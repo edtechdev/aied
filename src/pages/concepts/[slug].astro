@@ -9,8 +9,7 @@ import { CONCEPT_REDIRECTS } from '../../data/conceptRedirects';
 import { CONCEPT_ALIASES } from '../../data/conceptAliases';
 import StarButton from '../../components/StarButton.astro';
 import ConnectedList from '../../components/ConnectedList.astro';
-import AudioPlayer from '../../components/AudioPlayer.astro';
-import { audioAssetUrl } from '../../data/podcast';
+import { formatRuntime, transcriptAssetUrl } from '../../data/podcast';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
 
 export async function getStaticPaths() {
@@ -112,29 +111,28 @@ const allTitles: Record<string, string> = {};
 
 const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, resourceSlugs, titles: allTitles });
 const toc = rendered.headings.filter(h => h.depth <= 3);
-// Episodes that name this concept in their frontmatter. The player and the
-// transcript go above the page's own prose: a reader who wants to listen should not
-// have to scroll past the article, and one who wants to read keeps scrolling.
-const episodes = (await getCollection('audio'))
-  .filter(e => e.data.status !== 'draft' && e.data.concepts.includes(slug))
-  .sort((a, b) => b.data.episode - a.data.episode)
-  .map(e => ({
-    id: e.id.replace('.md', ''),
-    data: e.data,
-    html: renderMarkdown(e.body ?? '', {
-      pageTitle: e.data.title,
-      articleSlugs,
-      conceptSlugs,
-      faqSlugs,
-      resourceSlugs,
-      titles: allTitles,
-    }).html,
-  }));
+// Connected Podcasts: the episodes this page names in its own frontmatter
+// (`connected_podcasts`). The player stays at the top of a page only when the audio
+// IS the page -- the newsletter readings. An episode about this page's subject is a
+// companion, so it is listed at the foot with its runtime, its summary and the
+// transcript as a separate download.
+const episodeById = new Map(
+  (await getCollection('audio'))
+    .filter(e => e.data.status !== 'draft')
+    .map(e => [e.id.replace('.md', ''), e]),
+);
+const connectedPodcasts = (concept.data.connected_podcasts || [])
+  .map(s => episodeById.get(s))
+  .filter((e): e is NonNullable<typeof e> => Boolean(e))
+  .sort((a, b) => a.data.episode - b.data.episode);
 if (connectedFaqs.length > 0) {
   toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
 }
 if (connectedResources.length > 0) {
   toc.push({ text: 'Connected Resources', slug: 'connected-resources', depth: 2 });
+}
+if (connectedPodcasts.length > 0) {
+  toc.push({ text: 'Connected Podcasts', slug: 'connected-podcasts', depth: 2 });
 }
 ---
 <BaseLayout title={title} toc={toc}>
@@ -161,20 +159,22 @@ if (connectedResources.length > 0) {
       </div>
     </div>
 
-    {episodes.map((ep) => (
-      <AudioPlayer
-        src={audioAssetUrl(ep.data.audio_file)}
-        title={ep.data.title}
-        duration={ep.data.duration}
-        eyebrow={`AIEd Audio · Episode ${ep.data.episode}`}
-        transcriptHtml={ep.html}
-        pageHref={`/aied/audio/${ep.id}/`}
-      />
-    ))}
-
     <div style="line-height:1.8" data-pagefind-body>
       <Fragment set:html={rendered.html} />
     </div>
+
+    <ConnectedList
+      id="connected-podcasts"
+      heading="Connected Podcasts"
+      items={connectedPodcasts.map((e) => ({
+        href: `/aied/audio/${e.id.replace('.md', '')}/`,
+        title: e.data.title,
+        kind: 'audio' as const,
+        meta: `Episode ${e.data.episode} · ${formatRuntime(e.data.duration)}`,
+        summary: e.data.summary,
+        links: [{ label: 'Download transcript (.txt)', href: transcriptAssetUrl(e.data.transcript_file) }],
+      }))}
+    />
 
     <ConnectedList
       id="connected-faqs"

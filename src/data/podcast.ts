@@ -20,6 +20,15 @@ export function audioAssetUrl(file: string): string {
   return `${AUDIO_ASSET_BASE}/${encodeURIComponent(file)}`;
 }
 
+/**
+ * The plain-text transcript is a release asset beside the mp3, not a page: a
+ * listener may want the text in a notes app, and a podcast host or directory can
+ * point at a transcript URL without scraping the episode page.
+ */
+export function transcriptAssetUrl(file: string): string {
+  return `${AUDIO_ASSET_BASE}/${encodeURIComponent(file)}`;
+}
+
 /** Cover art, served from public/ (i.e. /aied/audio/cover.jpg). */
 export const PODCAST_COVER_PATH = '/aied/audio/cover.jpg';
 export const PODCAST_COVER_URL = 'https://edtechdev.github.io/aied/audio/cover.jpg';

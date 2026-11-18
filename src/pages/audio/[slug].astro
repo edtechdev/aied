@@ -10,7 +10,7 @@ import AudioPlayer from '../../components/AudioPlayer.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import ConnectedList from '../../components/ConnectedList.astro';
 import { renderMarkdown } from '../../lib/markdown';
-import { audioAssetUrl, formatRuntime, PODCAST_COVER_PATH, PODCAST_TITLE } from '../../data/podcast';
+import { audioAssetUrl, formatRuntime, transcriptAssetUrl, PODCAST_COVER_PATH, PODCAST_TITLE } from '../../data/podcast';
 import siteConfig from '../../config/siteConfig';
 
 export async function getStaticPaths() {
@@ -78,11 +78,15 @@ const toc = [{ text: 'Transcript', slug: 'transcript', depth: 2 }];
     eyebrow={`Episode ${episode.data.episode}`}
   />
 
+  <p class="episode-download">
+    <a href={transcriptAssetUrl(episode.data.transcript_file)}>Download the transcript (.txt)</a>
+  </p>
+
   <div class="episode-body" data-pagefind-body>
     <h2 id="transcript">Transcript</h2>
     <p class="transcript-note">
-      Transcribed automatically from the audio and lightly edited for punctuation. Paragraph breaks follow
-      pauses, not turns, so the two voices are not labelled.
+      Transcribed automatically from the audio, with punctuation added and the paragraphs packed by
+      sentence. The two voices are not labelled.
     </p>
     <div class="transcript" set:html={rendered.html} />
   </div>
@@ -122,6 +126,10 @@ const toc = [{ text: 'Transcript', slug: 'transcript', depth: 2 }];
   }
   .episode-body {
     line-height: 1.75;
+  }
+  .episode-download {
+    font-size: 0.9rem;
+    margin: -0.5rem 0 1.5rem;
   }
   .transcript-note {
     color: var(--muted-color);

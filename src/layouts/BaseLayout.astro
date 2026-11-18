@@ -602,6 +602,20 @@ const recentConceptItems = recentConcepts.map(c => {
       font-size: 0.9rem;
       margin-top: 0.2rem;
     }
+    :global(.connected-meta) {
+      color: var(--muted-color);
+      font-size: 0.8rem;
+      letter-spacing: 0.02em;
+      text-transform: none;
+      margin-bottom: 0.15rem;
+    }
+    :global(.connected-links) {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem 1rem;
+      margin-top: 0.35rem;
+      font-size: 0.85rem;
+    }
     /* === Embed mode (?embed): strip all site chrome and show only content. ===
        [data-embed] is set on <html> by a head script when the URL carries
        ?embed. Hide the header, both sidebars/rail, nav, footer, the page-meta

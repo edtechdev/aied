@@ -8,6 +8,8 @@ status: published
 audio_file: "aied-audio-03-cognitive-offloading.mp3"
 duration: 1400
 audio_bytes: 16806171
+transcript_file: "aied-audio-03-cognitive-offloading.txt"
+transcript_bytes: 24434
 concepts: [cognitive-offloading, cognitive-surrender]
 ---
 

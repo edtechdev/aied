@@ -9,7 +9,7 @@
  * text colour and can't follow the theme.
  */
 
-export type PageKind = 'article' | 'concept' | 'faq' | 'resource' | 'newsletter';
+export type PageKind = 'article' | 'concept' | 'faq' | 'resource' | 'newsletter' | 'audio';
 
 const PATHS: Record<PageKind, string> = {
   // Lucide file-text
@@ -24,12 +24,16 @@ const PATHS: Record<PageKind, string> = {
   // Lucide newspaper (the newsletter issues at /news)
   newsletter:
     '<path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-4 0V6"></path><path d="M18 14h-8"></path><path d="M15 18h-5"></path><path d="M10 6h8v4h-8V6Z"></path>',
+  // Lucide headphones (the podcast episodes at /audio)
+  audio:
+    '<path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"></path>',
   // Lucide toolbox
   resource:
     '<path d="M2 9a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"></path><path d="M8 8V6.5A2.5 2.5 0 0 1 10.5 4h3A2.5 2.5 0 0 1 16 6.5V8"></path><line x1="7" y1="12.5" x2="7" y2="14.5"></line><line x1="12" y1="12.5" x2="12" y2="14.5"></line><line x1="17" y1="12.5" x2="17" y2="14.5"></line>',
 };
 
 export const PAGE_KIND_LABEL: Record<PageKind, string> = {
+  audio: 'Podcast',
   newsletter: 'Newsletter',
   article: 'Article',
   concept: 'Concept',
@@ -39,6 +43,7 @@ export const PAGE_KIND_LABEL: Record<PageKind, string> = {
 
 /** The head-of-page badge label, e.g. "Research Article". */
 export const PAGE_KIND_BADGE: Record<PageKind, string> = {
+  audio: 'Podcast',
   newsletter: 'Newsletter',
   article: 'Research Article',
   concept: 'Concept',
@@ -52,6 +57,7 @@ export const CONNECTED_SECTION_KIND: Record<string, PageKind> = {
   'connected articles': 'article',
   'connected faqs': 'faq',
   'connected resources': 'resource',
+  'connected podcasts': 'audio',
 };
 
 /**

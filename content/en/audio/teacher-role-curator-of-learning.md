@@ -8,6 +8,8 @@ status: published
 audio_file: "aied-audio-01-teacher-role.mp3"
 duration: 1270
 audio_bytes: 15235689
+transcript_file: "aied-audio-01-teacher-role.txt"
+transcript_bytes: 21954
 concepts: [teacher-role]
 ---
 

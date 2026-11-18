@@ -7,6 +7,7 @@ import {
   NEWSLETTER_AUDIO,
   audioAssetUrl,
   clockDuration,
+  transcriptAssetUrl,
   newsletterAudioUrl,
 } from '../../data/podcast';
 import { toRfc822Local, xmlEscape } from '../../lib/feedDates';
@@ -34,6 +35,8 @@ type Item = {
   bytes: number;
   duration: number;
   episode?: number;
+  /** Standalone .txt transcript; the Podcasting 2.0 tag points a host at it. */
+  transcript?: string;
   kind: 'episode' | 'reading';
 };
 
@@ -70,6 +73,7 @@ export async function GET() {
         bytes: e.data.audio_bytes,
         duration: e.data.duration,
         episode: e.data.episode,
+        transcript: transcriptAssetUrl(e.data.transcript_file),
         kind: 'episode' as const,
       };
     }),
@@ -104,13 +108,14 @@ export async function GET() {
       <enclosure url="${xmlEscape(item.enclosure)}" length="${item.bytes}" type="audio/mpeg"/>
       <itunes:duration>${clockDuration(item.duration)}</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      ${item.transcript ? `<podcast:transcript url="${xmlEscape(item.transcript)}" type="text/plain" />` : ''}
       ${item.kind === 'episode' ? `<itunes:episode>${item.episode}</itunes:episode><itunes:episodeType>full</itunes:episodeType>` : '<itunes:episodeType>bonus</itunes:episodeType>'}
     </item>`,
     )
     .join('\n');
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>${xmlEscape(PODCAST_TITLE)}</title>
     <link>${site}${base}/audio/</link>

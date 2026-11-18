@@ -1,12 +1,14 @@
 ---
 /**
- * A "Connected …" section at the foot of a page — the FAQ and resource lists
- * that come from frontmatter (Connected Concepts / Connected Articles are
+ * A "Connected …" section at the foot of a page — the FAQ, resource and podcast
+ * lists that come from frontmatter (Connected Concepts / Connected Articles are
  * markdown sections instead, and get their icons in src/lib/markdown.ts).
  *
  * Each item carries its page-type icon rather than an emoji or a bullet, so the
- * list reads as a set of typed destinations. Styling lives in BaseLayout's
- * global styles under ".connected-list" / ".page-type-icon".
+ * list reads as a set of typed destinations. Two optional extras cover media: a
+ * `meta` line ("Episode 3 · 23 min") and `links` for the things that hang off an
+ * item but are not the item itself (a transcript download). Styling lives in
+ * BaseLayout's global styles under ".connected-list" / ".page-type-icon".
  */
 import PageTypeIcon from './PageTypeIcon.astro';
 import type { PageKind } from '../lib/pageTypeIcons';
@@ -16,6 +18,10 @@ export interface ConnectedItem {
   title: string;
   kind: PageKind;
   summary?: string;
+  /** Small muted line above the title, e.g. "Episode 3 · 23 min". */
+  meta?: string;
+  /** Secondary links beside the item: downloads, alternates. */
+  links?: { label: string; href: string }[];
 }
 
 interface Props {
@@ -32,11 +38,19 @@ const { id, heading, items } = Astro.props;
     <ul class="connected-list">
       {items.map((item) => (
         <li>
+          {item.meta && <div class="connected-meta">{item.meta}</div>}
           <a href={item.href}>
             <PageTypeIcon kind={item.kind} />
             {item.title}
           </a>
           {item.summary && <div class="connected-summary">{item.summary}</div>}
+          {item.links && item.links.length > 0 && (
+            <div class="connected-links">
+              {item.links.map((link) => (
+                <a href={link.href}>{link.label}</a>
+              ))}
+            </div>
+          )}
         </li>
       ))}
     </ul>

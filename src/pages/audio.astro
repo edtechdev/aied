@@ -9,6 +9,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import AudioPlayer from '../components/AudioPlayer.astro';
 import { rssIcon } from '../lib/pageTypeIcons';
 import {
+  transcriptAssetUrl,
   PODCAST_COVER_PATH,
   PODCAST_DESCRIPTION,
   PODCAST_SUBTITLE,
@@ -23,6 +24,30 @@ import siteConfig from '../config/siteConfig';
 const episodes = (await getCollection('audio'))
   .filter(e => e.data.status !== 'draft')
   .sort((a, b) => b.data.episode - a.data.episode);
+
+// The episode <-> concept relation is declared on both sides: an episode names the
+// concepts it discusses (the feed dates it by those pages), and a concept page names
+// its episodes (it renders the Connected Podcasts list from its own frontmatter).
+// Two copies can drift, so the build fails on a pair that disagrees instead of
+// shipping an episode nobody can reach or a list item pointing at nothing.
+const conceptPages = await getCollection('concepts');
+const episodeBySlug = new Map(episodes.map(e => [e.id.replace('.md', ''), e]));
+for (const page of conceptPages) {
+  const pageSlug = page.id.replace('.md', '');
+  const named = page.data.connected_podcasts ?? [];
+  for (const epSlug of named) {
+    const ep = episodeBySlug.get(epSlug);
+    if (!ep) throw new Error(`concepts/${pageSlug}.md names unknown episode "${epSlug}"`);
+    if (!ep.data.concepts.includes(pageSlug)) {
+      throw new Error(`concepts/${pageSlug}.md names "${epSlug}", but that episode does not list ${pageSlug} in its concepts`);
+    }
+  }
+  for (const [epSlug, ep] of episodeBySlug) {
+    if (ep.data.concepts.includes(pageSlug) && !named.includes(epSlug)) {
+      throw new Error(`episode "${epSlug}" lists ${pageSlug}, but concepts/${pageSlug}.md does not name it in connected_podcasts`);
+    }
+  }
+}
 
 // The readings share the feed, so they are listed here too: a subscriber who opens
 // the show's page should see the same two kinds of item the feed carries.
@@ -99,6 +124,9 @@ const conceptTitles: Record<string, string> = Object.fromEntries(
             transcriptLabel="Read the transcript"
           />
           <p class="episode-summary">{ep.data.summary}</p>
+          <p class="episode-links">
+            <a href={transcriptAssetUrl(ep.data.transcript_file)}>Download the transcript (.txt)</a>
+          </p>
         </section>
       );
     })
@@ -185,6 +213,10 @@ const conceptTitles: Record<string, string> = Object.fromEntries(
     color: var(--muted-color);
     font-size: 0.85rem;
     margin: 0 0 0.7rem;
+  }
+  .episode-links {
+    font-size: 0.85rem;
+    margin: 0.35rem 0 0;
   }
   .episode-summary {
     color: var(--muted-color);

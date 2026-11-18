@@ -19,6 +19,10 @@ const resourcesDir = contentDir(DEFAULT_LOCALE_DIR, 'resources');
 // they carry no translations and no facets, so they stay out of COLLECTIONS and
 // out of the translation globs.
 const newslettersDir = contentDir(DEFAULT_LOCALE_DIR, 'newsletters');
+// Episode pages (English-only, see the `audio` collection at the foot of this file).
+// Declared here because the `connected_podcasts` validator below reads the directory
+// while the concept schema is being built.
+const audioDir = contentDir(DEFAULT_LOCALE_DIR, 'audio');
 
 // Keep `created`/`updated` as the ORIGINAL frontmatter string (e.g.
 // "2026-08-16T20:02:54-04:00"). We must NOT pass them through `z.date()`
@@ -65,6 +69,23 @@ const FAQ_SLUGS = new Set(
 // Shared schema: normalized to a string array, then every entry must be a real
 // FAQ slug (matched against the faqs collection, mirroring the Sveltia CMS
 // relation widget on the same field).
+// `connected_podcasts` points at episode pages by slug (content/en/audio/<slug>.md).
+// It is the page's own statement that an episode belongs to it: the episode keeps
+// `concepts` for the feed's dating, and the two are checked against each other at
+// build time so neither side can drift.
+const AUDIO_SLUGS = new Set(
+  readdirSync(audioDir)
+    .filter(f => f.endsWith('.md'))
+    .map(f => f.slice(0, -3)),
+);
+const connectedPodcasts = z
+  .any()
+  .transform(v => (Array.isArray(v) ? v.map(String) : []))
+  .optional()
+  .refine(arr => (arr ?? []).every(slug => AUDIO_SLUGS.has(slug)), {
+    message: 'connected_podcasts must be existing episode slugs (content/en/audio/)',
+  });
+
 // `connected_resources` is the same idea for resource pages: slugs from resources/.
 const RESOURCE_SLUGS = new Set(
   readdirSync(resourcesDir)
@@ -328,6 +349,7 @@ const concepts = defineCollection({
     source_url: z.string().optional(),
     connected_faqs: connectedFaqs,
     connected_resources: connectedResources,
+    connected_podcasts: connectedPodcasts,
     ...structuredMeta,
     ...provenance,
   }),
@@ -477,8 +499,6 @@ const newsletterTranslations = defineCollection({
 // The mp3s live in the `audio-latest` GitHub release rather than the repository:
 // a 20-minute episode is about 15 MB, and every rebuild would otherwise carry every
 // episode. `audio_file` is the asset name inside that release.
-const audioDir = contentDir(DEFAULT_LOCALE_DIR, 'audio');
-
 const audio = defineCollection({
   loader: glob({ pattern: '*.md', base: audioDir }),
   schema: z.object({
@@ -492,6 +512,10 @@ const audio = defineCollection({
     audio_file: z.string(),
     duration: z.number(),
     audio_bytes: z.number(),
+    // The transcript as a standalone .txt asset in the same release, so it can be
+    // downloaded on its own and named in the feed's <podcast:transcript>.
+    transcript_file: z.string(),
+    transcript_bytes: z.number(),
     // Concept slugs the episode is attached to. The concept page renders the
     // player under its heading, so this is the link between page and audio.
     concepts: z.array(z.string()).default([]),
