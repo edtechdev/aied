@@ -1,5 +1,5 @@
 The Detector Cannot Know: Why Integrity Is Designed, Not Enforced
-AIEd Audio, episode 5 · 12:23
+AIEd Audio, episode 5 · 21:21
 https://edtechdev.github.io/aied/audio/integrity-designed-not-enforced/
 
 Imagine a student who uses a calculator so much they completely forget how to do basic long division. Right, yeah. We generally accept that as, well, a normal trade-off in education, right? Sure. It's just part of the deal. Exactly. But now imagine a medical resident who relies on an AI diagnostic tool so much, they forget how to read a patient's chart, or they can't recognize the physical symptoms right in front of them.
