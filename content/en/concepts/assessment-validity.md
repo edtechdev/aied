@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-17T07:20:00-05:00"
+updated: "2026-11-18T04:45:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 connected_resources: [vfwa]
@@ -15,6 +15,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-11-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -117,6 +121,8 @@ A learner-side framework names the inference targets an artifact cannot settle b
 [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] draws the procedural consequence: where prohibited use cannot be detected, a regime that still accuses on detector scores cannot warrant the inference it draws, and so produces unfairness without effectiveness. He argues for replacing the forensic question — did the student use AI? — with a validity question — did the student demonstrate the capability the task was designed to certify? — which relocates institutional effort into program-level assessment across linked tasks, oral and supervised elements at certification points, and [[evaluative-judgment|evaluative judgment]] as an explicit object of assessment.
 
 A 27-item chemistry test generated from a national curriculum separates the two halves of validity neatly. The items passed an average of 87.71% of 22 binary item-writing criteria. Yet agreement between the competence level GPT-4 was instructed to target and the level implied by empirical difficulty was 25.93% exactly, 50.00% once adjacent categories were combined (κ = 0.429), and only seven of 27 items held their classification in at least 70% of bootstrap samples ([[rodemer-ai-generated-mcq-chemistry-assessment-2026|Rodemer et al. (2026)]]). Surface quality and construct alignment are independent properties, and only the second licenses an inference about what a student can do.
+
+A rubric's numerical criterion can be under-determined by the work it scores. In stress-tested kinematics grading, a multimodal grader awarded 10/10 to a distorted velocity–time graph whose traces branch and whose zero-velocity reference is unclear, and it awarded fractional curvature credit while noting that unnumbered axes prevented a numerical measurement — invoking a grid-spacing convention the prompt never defined ([[zammel-mllm-kinematics-graph-grading-2026|Zammel et al., 2026]]). A criterion written as a threshold carries an implicit coordinate system, and leaving that implicit makes the exact award unverifiable rather than merely imprecise.
 
 The same section of the evidence base supplies the case-file counterpart, and it is more uncomfortable than the detection literature alone. [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] coded every generative-AI misconduct case at one regional Australian university over three years — 1,162 cases carrying 1,855 discrete evidence items — and rated each item for probative value on relevance, credibility and inferential force. The strongest categories were the ones that do not depend on probabilistic classification of text (student admissions, observed prohibited exam behavior, and independently verified fabricated references), while [[ai-detection|detector]] output drew the weakest ratings of any category: similarity or Turnitin reports were wholly weak in inferential force and standalone detector outputs wholly low in credibility, falling from 8.8% of items in 2024 to 0.5% in 2025. The validity failure is procedural as much as instrumental — no stage of the pipeline set a minimum evidentiary threshold or required investigators to weigh probative value before progressing an allegation, so evidence quality showed no reliable relationship to case outcomes, which is exactly the evidential standard issue catalogued on [[legal-issues-and-risks|legal issues and risks]]. Their proposal to apply a credentials framework at the point of *allegation* rather than only at determination is a validity demand: an allegation is a claim about what the work evidences, and it should be warranted by materials capable of supporting it. [[hadra-ai-detector-accuracy-efl-2026|Hadra, Cambridge and Mesbah (2026)]] show how far the instrument is from that standard, with macro accuracy of 0.69 (Originality) against 0.61 (Turnitin) across 192 texts, near-total failure on hybrid human–AI writing (sensitivity 0.02 and 0.31), declining accuracy with text length and on scientific writing, and a borderline tendency to misclassify EFL student writing as AI — so a detector score cannot establish the fact a misconduct finding asserts.
 
@@ -243,3 +249,4 @@ Winstone, Gravett and Elkington frame the GenAI assessment problem as wicked in 
 - [[islam-human-vs-ai-sba-dental-2026]] — Threshold compliance rose while mean discrimination fell, computed descriptively with no test-level reliability
 - [[making-ai-work-for-students-ofs-2026]] — OfS and Advance HE (2026): 244 staff and 91 students at 127 institutions on detection, assessment design, AI literacy and strategy
 - [[xu-ai-teaching-evaluation-systematic-review-2026]] — 60 studies reviewed, 19 with validation evidence: agreement with raters is not validity
+- [[zammel-mllm-kinematics-graph-grading-2026]] — A full-credit award to a graph the image does not establish, and a curvature threshold with no stated coordinate convention (Zammel et al. 2026)

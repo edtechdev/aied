@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T18:50:00-05:00"
+updated: "2026-11-18T04:45:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -16,6 +16,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -81,6 +85,7 @@ A 2026 [[meta-analysis-systematic-review|PRISMA]] review of 11 empirical studies
 **Agent role design as an instructional variable.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] hold the model (DeepSeek R1), platform, and temperature constant and vary only the prompt-specified role: a teacher-centered agent answering authoritatively from a bounded textbook knowledge source, versus a student-centered agent configured as an empathic teacher with knowledge of students' understanding, scripted to diagnose the cause of [[misconceptions|misconceptions]], name the relevant concept, and transfer to an analogous phenomenon. Across 59 high-school graduates working two conceptual items, the student-centered agent produced higher post-test scores (9.67 vs. 7.93; r = 0.38), lower extraneous and higher germane cognitive load, stronger flow experience (d = 0.92), and higher empathy perception (r = 0.53) — evidence that role framing, not just answer accuracy, is what makes a physics agent instructionally effective ([[pedagogical-agent|pedagogical agent]], [[prompt-engineering|prompt engineering]]).
 - **Benchmark scores understate what models can already do in physics.** Re-grading six widely used physics benchmarks with domain experts found that most of the reported shortfall was an artifact of defective items and restrictive automated graders: of 250 audited rejections, 143 (57.20%) were benchmark defects and 95 (38.00%) grader errors, with only 12 (4.80%) genuine model errors. Corrected, HLE-Physics mean@4 rose from 47.28% to 78.66% and CritPt from 32.29% to 87.50%. For physics instruction this cuts both ways: it means students can already obtain expert-level text solutions to many canonical problems, so assessment of physics reasoning needs to move toward items that resist benchmark contamination and toward process evidence rather than final answers. ([[frontier-models-physics-benchmark-audit-2026|Ansari et al., 2026]])
 - **AI grading can reproduce a high-stakes physics outcome without matching every part.** Grading 10,364 handwritten Olympiad and university pages, a multimodal LLM recovered the same five-student Olympiad team as examiners and correlated with totals at r = 0.93–0.96, but exact question-part agreement reached 70% — examiner-controlled second reading, not replacement ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
+- **A graphical grader can award full credit its explanation does not support.** Stress-testing a multimodal grader on distorted kinematics graphs, a velocity–time submission with disconnected, branching traces and no clear zero-velocity reference still received 10/10. The authors recommend instructor review of full-credit responses, not only of the deductions ([[zammel-mllm-kinematics-graph-grading-2026|Zammel et al., 2026]]).
 
 - **Physics benchmarks can be [[curriculum-design|curriculum]]-grounded and non-English.** [[physicsmate-bengali-secondary-physics-benchmark-2026|Jahin et al. (2026)]] built 1,834 Bengali questions from the national Grade 9-10 physics textbook and a 1,760-node [[knowledge-graph|knowledge graph]]; one fixed [[llm-training-and-fine-tuning|fine-tuning]] recipe gained 5.5, 15.0 and 23.3 points at 0.6B, 1.7B and 4B parameters.
 
@@ -154,6 +159,7 @@ The lowest-infrastructure route into course materials is documented for physics 
 - [[genai-assisted-problem-posing-physics-2026]]
 - [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[zammel-mllm-kinematics-graph-grading-2026]] — Stress testing a multimodal grader on distorted kinematics graphs: full credit for a graph its explanation does not support (Zammel et al. 2026)
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: turning the FCI, FMCE and EMCS into a 14-objective cognitive diagnostic (Le et al. 2026)
 - [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction

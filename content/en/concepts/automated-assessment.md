@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-17T09:26:00-05:00"
+updated: "2026-11-18T04:45:00-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -15,6 +15,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: revision
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -137,6 +141,7 @@ Automated assessment connects to [[assessment-validity|assessment validity]] (qu
 
 - **Selective automation for handwritten [[chemistry-education|chemistry]] (2026):** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] graded a 296-student handwritten general-chemistry final page-by-page against rubric images with a multimodal, reasoning LLM, achieving high run-to-run reliability on total scores (ICC(A,1) = 0.967) and strong total-score agreement with TA grading (R² = 0.91). Because item-level reliability varied sharply by format — textual and chemical-reaction answers graded reliably while drawing and graphing scored worse than random — raw agreement was judged inadequate for high-stakes use. They operationalize [[human-in-the-loop-ai|human deferral]] through confidence filters (partial-credit thresholds, an [[item-response-theory|IRT]]-based risk threshold, and problem-type exclusion) that convert raw AI scores into an accept/deferral policy, and show that false positives (AI crediting genuinely wrong answers) tend to go undetected since students rarely contest them — a concrete [[psychometrically-aware-ai|psychometrically grounded]] route to selective automation ([[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros et al., 2026]]).
 
+- **A criterion-level award can outrun the evidence in the image.** On stress-tested kinematics graphs, a distorted velocity–time submission earned 10/10 while other submissions under the same configuration lost substantial credit, and a 6/10 case passed the study's 0.60 cutoff with 0/4 on the stopping interval ([[zammel-mllm-kinematics-graph-grading-2026|Zammel et al., 2026]]). Numerical cutoffs supplied without units or a plotting convention left the basis of exact partial-credit awards unresolved — an operational specification problem for the rubric, not only for the model.
 
 - **Semi-open handwritten mathematics in a university exam (2026):** [[gpt4-handwritten-math-exam-grading-2026|Liu et al.]] graded a German undergraduate mathematics exam with GPT-4 across two extraction routes (pre-cut answer boxes versus whole pages), two optical-character-recognition routes and two rubric formats, reporting Krippendorff's alpha against human grades of 0.22-0.44 with accuracy 0.59-0.62 on the best workflows and per-problem accuracy spanning 0.27-0.91 - not acceptable for high-stakes summative use. Itemising multi-criteria grading rules generally did not improve agreement (it helped the partial-credit problem), free grading without a rubric was far worse (accuracy 0.50-0.51), and a probabilistic confidence filter meant to flag grades for human re-checking did not significantly improve accuracy while wrongly flagging 7-41 percent of responses as reliable. The study's transferable lesson is procedural: scan and transcribe the whole exam sheet with markers rather than cropping answer boxes, because students write across box borders; rewrite grading rules written for teaching assistants, since the model attempted unrequested derivations from a rule meant for a human; and note that the human-grading rules themselves paraphrased at an alpha of 0.88 among five variants, so prompt robustness is not the bottleneck.
 
@@ -234,4 +239,4 @@ Automated assessment connects to [[assessment-validity|assessment validity]] (qu
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[dino-ai-teacher-performance-learner-behavior-review-2026]] — Assessing teaching rather than student work, without pooling
 - [[baumartz-rubric-aes-llm-ensembles-2026]] — Rubric-based AES with LLM ensembles, tested against human rater agreement (Baumartz et al., 2026)
-
+- [[zammel-mllm-kinematics-graph-grading-2026]] — A distorted kinematics graph at 10/10, and cutoffs with no coordinate convention: criterion-level awards that outran the image (Zammel et al. 2026)
