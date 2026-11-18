@@ -16,7 +16,8 @@ A free, linked knowledge base on artificial intelligence in education: research,
 - **FAQs** — curated answers to common questions, cross-linked to the concepts and articles behind them. The [FAQ index](https://edtechdev.github.io/aied/faq/) groups them by theme.
 - **Resources** — free tools, collections, assessment instruments and open formats worth using, each with an access note, a last-verified date, and the concepts it serves. Browse them on the [resources page](https://edtechdev.github.io/aied/resources/).
 - **Newsletter** — a weekly issue summarizing the most significant additions. Read the [newsletter archive](https://edtechdev.github.io/aied/news/); every translated locale has its own archive and translated issue.
-- **Feeds** — [`/rss.xml`](https://edtechdev.github.io/aied/rss.xml) carries the 200 newest pages of any type, with each page's type as the feed category and its summary rather than its full text. The newsletter has [its own English feed](https://edtechdev.github.io/aied/news/rss.xml), plus [Spanish](https://edtechdev.github.io/aied/es/news/rss.xml) and [French](https://edtechdev.github.io/aied/fr/news/rss.xml) feeds for the translated issues.
+- **Podcast and explainer videos** — every episode has a page with the player and the full transcript, and each concept and FAQ page carries the episode and the single-narrator explainer video that cover it. Subscribe to [the podcast feed](https://edtechdev.github.io/aied/audio/rss.xml).
+- **Feeds** — [`/rss.xml`](https://edtechdev.github.io/aied/rss.xml) carries the 200 newest pages of any type, with each page's type as the feed category and its summary rather than its full text. The newsletter has [its own English feed](https://edtechdev.github.io/aied/news/rss.xml), plus [Spanish](https://edtechdev.github.io/aied/es/news/rss.xml) and [French](https://edtechdev.github.io/aied/fr/news/rss.xml) feeds for the translated issues, and the podcast has [one of its own](https://edtechdev.github.io/aied/audio/rss.xml).
 - Every page links to related pages with `[[wikilinks]]`, so a topic can be followed across the whole knowledge base.
 
 ### Use it with your own AI assistant
@@ -150,7 +151,7 @@ The field lists in `config.yml` mirror `src/content.config.ts`: every enum optio
 │   ├── lib/           # jsonld.ts, markdown.ts, pageTitles.ts
 │   ├── components/    # JsonLd.astro, SourceButtons.astro, per-page components
 │   └── pages/         # index, journal, newsletter pages (news/ and <locale>/news/), localized feeds, search, faq, resources, ai, rss, dynamic routes
-├── public/            # source cover and marks; release catalog covers generated exports
+├── public/            # cover art, marks, episode transcripts (public/transcripts/), CMS and admin assets
 ├── tooling/           # the pipeline: gates, generators, builders, cron prompts and shims
 ├── skills/            # public-safe mirrors of the agent skills the pipeline follows
 ├── docs/              # json-ld.md, newsletters.md, and design notes
