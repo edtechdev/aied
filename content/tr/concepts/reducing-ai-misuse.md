@@ -1,5 +1,6 @@
 ---
 title: YZ Kötüye Kullanımını Azaltma
+updated: "2026-11-17T20:00:00-05:00"
 created: "2026-10-14T21:05:00-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
@@ -9,13 +10,17 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -36,16 +41,14 @@ ai_assist:
 
 Kavram, YZ kötüye kullanımının kalıcı öğrenmeyi fiilen zarara uğrattığına dair kanıt üzerine kuruludur — [[ai-misuse-learning-harm]] içinde belgelenmiş performans–öğrenme açığı — ve bunu yaparken anlık performansı şişirir. Müdahaleler bu zararın mekanizmalarını hedef alır: cevap kopyalama, [[cognitive-offloading]], motivasyon erozyonu ve öğrenmenin yer değiştirmesi. Bunlar birbirini dışlamaz; sağlam bir yaklaşım yapısal bir tabanı eğitici kapasite inşasıyla birleştirir.
 
-
-
 Kötüye kullanımın oluştuğu mekanizmanın artık ölçülmüş bir zinciri var. [[guo-overreliance-genai-feedback-2026|Guo ve Dong (2026)]], 600 lisans öğrencisiyle anket yapmış ve algılanan bilişsel yükün bilişsel yük dışarı aktarmayı düşük izleme grubunda β = 0,844, yüksek izleme grubunda ise β = 0,840 düzeyinde öngördüğünü bulmuştur. Yük dışarı aktarma ardından YZ geri bildirimine aşırı güveni sırasıyla β = 0,396 ve β = 0,506 ile öngörmüş, dolaylı etkiler 0,335 [0,069, 0,611] ve 0,426 [0,149, 0,648] olmuştur. Yük aynı zamanda aşırı güveni doğrudan da öngörmüştür (β = 0,560 ve 0,419); yani yük dışarı aktarma kısmi bir aracıdır ve yapısal bir kolun saldırabileceği öncül, yükün kendisidir.
 
-### Yapısal kolların neden en çok önem taşıdığı
+## Yapısal kolların neden en çok önem taşıdığı
 
 Müdahaleler **nedensel kanıt × yapısal erişim × ölçeklenebilirlik × [[sustainability]]** ile sıralanabilir. Bu temelde iki *yapısal* kol en üstte yer alır, çünkü öğrenciler doğru davranışı seçse de seçmese de işe yararlar — ortamı kısıtlarlar, içsel motivasyona bağımlı kalmazlar. *Eğitici* kollar zorunludur, ancak yalnızca öğrenciler katıldığında etkilidir; bu nedenle kavramsal vaatlerine rağmen ikinci kademe olarak ele alınırlar. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher ve Calderon (2025)]] yapısal argümanı bir basamak yukarı taşır; öğrenci davranışı yerine yönetişimi bağlayıcı kısıt olarak ele alır ve akademik yöneticilerin değerlendirmenin özgün olup olmadığını, öğrencilerin değerlendiren öğretmenler tarafından bireysel olarak tanınıp tanınmadığını ve dürüstlüğün oryantasyona dâhil edilip edilmediğini görebilmesi için 130 maddelik bir dürüstlük gösterge çerçevesi önerir. Reformları yönetişim mimarilerini, insanları ve [[ai-technologies|teknolojileri ve kaynakları]] hedef alır ve öğrenciler bunları bulmadan önce değerlendirme açıklarını ortaya çıkarmak amacıyla siber güvenlikten [[guardrails|red teaming]] yöntemini ödünç almayı önerir — yapısal tabanın, hem bilgiye hem de onu sürdürme iradesine ihtiyaç duyan kurumlar tarafından korunduğuna dair bir hatırlatma.
 Sorumlu kullanım literatürü, bu sıralamanın varsaydığı zinciri kendisi nadiren sınar. 31 çalışmadan derlenen 122 yaklaşım kaydının 51’i hem uygulanmış hem değerlendirilmiş, çoğunlukla [[self-report-measures|öz bildirim]] yoluyla; yalnızca dört çalışma bir sınır tanımlamış, bu sınır etrafında bir müdahale tasarlamış ve öğrencilerin kararlarının bu sınırla uyumlu olup olmadığını sınamıştır ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega ve Zhao (2026)]]).
 
-### 1. Kademe — Öğrenme zararını azaltmak için doğrudan kanıtlanmış
+## 1. Kademe — Öğrenme zararını azaltmak için doğrudan kanıtlanmış
 
 **Korumalı YZ aracı tasarımı ("ipucu veren, cevap vermeyen" [[scaffolding]]).** Bilgi tabanındaki en güçlü nedensel bulguda, saha [[rct]] çalışması korumasız bir ChatGPT tarzı öğretmenin destekli pratik performansını **+48%** arttırdığını, yardım almadan sınav puanlarını ise **−17%** düşürdüğünü gösterdi; buna karşılık korumalı bir öğretmen (cevap yerine ipuçları, ayrıca öğretmenlerin yazdığı problem bilgileri) zararı tamamen ortadan kaldırdı. Bu, hasarın ardındaki cevap kopyalama "koltuk değneği" davranışını mekanik olarak önler. Faaliyetler arasında ipucu veren-cevap vermeyen öğretmenlik, istek metinlerini doğru çözümler ve yaygın [[misconceptions]] ile donatmak ve YZ çıktısı ortaya çıkmadan önce öğrenciden bir deneme istemek yer alır.
 
@@ -55,7 +58,7 @@ Sorumlu kullanım literatürü, bu sıralamanın varsaydığı zinciri kendisi n
 
 Yapısal kolların bir denetim kolu vardır ve kanıt tabanı, erişiminin ima ettiğinden daha zayıftır. [[munoz-misconduct-allegation-evidence-2026|Munoz ve ark. (2026)]] 1.162 üretken YZ usulsüzlük vakasını kodladı ve suçlamanın yapıldığı noktada en sık atıf yapılan kanıtın — [[ai-detection|dedektör]] çıktısı, benzerlik raporları, YZ’ye özgü içerik örüntüleri — en zayıf ispat değerine sahip olduğunu, buna karşılık itirafların, gözlemlenen sınav davranışının ve bağımsız olarak doğrulanan uydurma kaynakların en güçlüsü olduğunu buldu; kurumsal prosedürler bir asgari ispat eşiği belirlemediğinden kanıt niteliği, vaka sonuçlarıyla güvenilir bir ilişki taşımadı ve zayıf kanıtlara dayanan davaları olan öğrenciler öncelikle itiraza başvurabildi. [[wright-transcription-not-generation-2026|Wright (2026)]] aynı hassasiyetin ikinci bir maliyetini gösterir: "üretken YZ" etrafında değil, işlev etrafında yazılan yasaklar, öğrencinin önceden yazdığı işin yalnızca biçimini dönüştüren araçları yakalar; böylece yalnızca yazıya dökme kullanımı usulsüzlük olarak yaptırıma tabi tutulabilir — bu aşırı kapsama, engelli ve [[equity-in-ai-education|eşitlik]] açısından dezavantajlı [[learners]] üzerinde en ağır düşer ve [[assessment-validity|geçerlilik]] için hiçbir şey yapmaz. [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana, Mtshali ve Mchunu (2026)]] en yaygın benimsenen dürüstlük kontrolü olan [[remote-proctoring|uzaktan gözetimli sınav]]ın caydırıcılık gerekçesinin, azalmış usulsüzlük üzerine değil, öğrencilerin hissettikleri üzerine kurulu olduğunu ekler; [[anxiety-and-stress|kaygı]], konsantrasyon kaybı ve altyapı kaynaklı dışlanma getirir ve bunların daha düşük kötüye kullanımla karşılandığı gösterilmemiştir. [[li-genai-assessment-language-equity-2026|Li (2026)]] kural tasarımı boyutunu ekler: aynı arayüz hem izin verilen dil düzenlemesini hem yasaklanan esaslı metin yazımını yerine getirdiğinden, farklılaştırılmamış GenAI kuralları İngilizce’yi ek dil olarak kullanan öğrenciler üzerinde kohorta göre çarpık uyum yükleri getirir; bu nedenle daha savunulabilir önleme, değerlendirme yapısına dayalı, kalibreli aşamalı açıklamayı, eşik/kanıt/yaptırım kararlarında oranlılığı ve tespitin yapamadığı işi üstlenen tasarım kollarını — aşamalı teslimler, kısa ve yapıya uygun sözlü doğrulama, eleştiri temelli sorular — içeren amaç temelli bir destek–yer değiştirme sınırıdır. Önleme notu değerlendirenin kendisini de kapsamalıdır: [[humble-prompt-injection-ai-grading-red-team-2026|Humble’ın (2026)]] red-team değerlendirmesi, teslim dosyasına gömülü beş dolaylı istek metni enjeksiyon strategisinden ikisinin başarısız bir yazıyı tespit edilmeden geçer nota çıkardığını, bildirilen başarı oranlarının %100 ve %94 olduğunu buldu; bu nedenle YZ araçlarının öğrenci işini notlandırdığı her yerde [[human-in-the-loop-ai|insan incelemesi]], talimatların teslim edilen içerikten daha net ayrılması ve dayanıklılık testleri, isteğe bağlı bir kademe değil yapısal tabanın içinde yer almalıdır.
 
-### 2. Kademe — Güçlü çerçeve desteği, yüksek potansiyel
+## 2. Kademe — Güçlü çerçeve desteği, yüksek potansiyel
 
 **İskeleli kullanım dizileri: önce düşün, ikinci sırada YZ, üçüncüsünde yansıt.** [[critical-thinking]]’i yer değiştirmeden LLM’leri bütünleştirmeye yönelik sekiz tasarım ilkesi: bilişsel sürtünmeyi korumak, YZ’yi bir otorite değil geçici bir düşünce ortağı olarak konumlandırmak, değerlendirme denetim noktaları gömmek, [[metacognition|üstbilişsel]] günlük tutma ve istek metni kayıtları istemek ve YZ aracılı dönemleri YZ’den uzak dönemlerle dengelemek. İlişkisel kanıt (YZ’den önce bağımsız çalışmak daha güçlü çıktılar üretir) güçlüdür; bu, 1. kademenin pedagojik olarak eksiksiz sürümüdür.
 
@@ -65,7 +68,7 @@ Yapısal kolların bir denetim kolu vardır ve kanıt tabanı, erişiminin ima e
 
 Dürüstlük, bir ceza kuralından çok öğretilmesi gereken bir uygulama olarak ele alındığında eğitici kollar yine farklı görünür. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] tespit ve doğrulamaya dayalı dürüstlük rejimlerinin GenAI ile güçlendirilmiş işle uyumsuz olduğunu savunur ve dürüstlüğü, [[evaluative-judgment|değerlendirici muhakeme]] — seçenekleri tartma, akademik seçimleri gerekçelendirme ve belirsizlik altında sorumluluk alma yetisi — yoluyla hayata geçen pedagojik bir uygulama olarak yeniden çerçeveler; bu, açıklamalı karar izleri, belgelenmiş doğrulama, sözlü savunma ve taslaktan taslağa sürüm geçmişleri gibi ürünlerle görünür kılınır ve tespit, birincil altyapıdan ziyade tek bir tamamlayıcı katmana indirgenir. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa ve Mezgebu (2026)]] aynı açılımı öğrenciler tarafından bulur: Etiyopya’daki bir [[higher-ed|üniversitede]] 27 görüşme boyunca kullanım neredeyse evrenseldi, katılımcıların çoğu GenAI’yi başarılarını yükselttiği için övdü ve en keskin şikâyet tersi yönde koştu — çalışkan bağımsız çalışanların üzerinde puan alan YZ kullanıcıları, katılımcıların bunu motive edici bulmadığını belirtti. Yazarlar, öğrencilerin inançlarının etik kullanımı kurumsal kurallardan daha güçlü biçimde öngördüğü sonucuna varır; bu nedenle farkındalık, net politika ve değerlendirme yeniden tasarımı birlikte gelmek zorundadır — bu, sayfanın eğitici kademesinin bir koşul olarak ifadesidir: kapasite inşası davranışı yalnızca yapısal bir tabanla birlikte [[framing-ai-use-for-students|öğrenci katılımı]] yoluyla değiştirir. [[ji-student-voices-academic-integrity-scoping-2026|Ji’nin (2026)]] öğrenci sözlerine dair 38 çalışmanın [[meta-analysis-systematic-review|kapsamlı incelemesi]] aynı sonucun alan düzeyindeki sürümünü sunar: incelenen çalışmalar, geriye dönük tespitten proaktif etik akıl yürütmeye, tek seferlik [[ai-literacy|okuryazarlık]] oturumları yerine [[curriculum-design|müfredatta]] YZ etiği ve YZ-intihal öğretimine ve liderler, öğretim elemanları ve öğrencilerin birlikte oluşturduğu ayrıntılı kılavuzlara yakınsar; çünkü net olmayan rehberlik, temkinli olmak yerine zımni izin olarak okunur. Ji’nin kendi okuması şudur: sahiplik ve ahlaki akıl yürütme, cezalandırma korkusundan daha fazla motive eder ve öğrenciler GenAI’nin ne pasif alıcılarıdır ne de ahlaki kısıtı olmayan suçlular; gri bir bölgede çalışan ahlaki öznelerdir — bu kademenin öncülsü, bir bulgu olarak ifade edilmiştir.
 
-### 3. Kademe — Umut verici, doğrudan nedensel kanıt daha düşük
+## 3. Kademe — Umut verici, doğrudan nedensel kanıt daha düşük
 
 **Üstbilişsel ve [[self-assessment|özdeğerlendirme]] müdahaleleri.** [[reflection|Yansıtıcı günlükler]], istek metni kayıtları ve kalibrasyon eğitimi, YZ tarafından üretilen akıcılığın maskelediği öz bilişsel sınırlarını yerinde bulamayan "YZ’yi ana dil olarak konuşan" öğrencilerin "eksik bilişsel taban çizgisini" yeniden inşa eder. Kavramsal olarak merkezîdir, ancak henüz nedensel olarak test edilmemiştir.
 
@@ -77,17 +80,7 @@ Dürüstlük, bir ceza kuralından çok öğretilmesi gereken bir uygulama olara
 
 - **[[desirable-difficulties|Verimli sürtünme]] ve pedagojik işlev.** Sidney hızlı incelemesi, GenAI’nin öğrenmeyi, öğrencilerin öğrenmek için gereken bilişsel/üstbilişsel sürtünmeyi atlatmasına izin verdiğinde öğrenmeyi zedelediğini ve amacıyla tasarlanmış araçların *verimli sürtünme* getirdiğini (cevapları saklama, açıklama isteme) savunur. Dört pedagojik işlevi — GenAI ile *öğrenmek*, *birlikte*, *hakkında* ya da *şekillendirerek* — ayırır; her biri özerkliğe ve değerlendirmeye farklı talepler getirir. ([[young-people-learning-generative-ai-rapid-review-2026]])
 
-## Yaygın yanlış anlamalar
-
-**“Öğrencilere riskleri öğretmek kötüye kullanıma karşı ana kaldıraçtır.”** Öğrencinin işbirliğine bağlı olan kaldıraç budur ve bu yüzden burada yapısal olanların altında sıralanır. Güvenlik korkulukları ve değerlendirme yeniden tasarımı, öğrenci doğru davranışı seçsin ya da seçmesin işe yarar; eğitici yaklaşımlar ise yalnızca katılımla işler. Ayrım ahlaki değil mekaniktir: değişmiş bir ortam davranışı doğrudan kısıtlar, değişmiş bir inanç ise teslim tarihinden önceki geceyi atlatmak zorundadır.
-
-**“Bir korkuluk oturum sırasında tutuyorsa öğrenme güvence altındadır.”** Tutmak ile öğretmek ayrı sonuçlardır ve bilgi tabanında temiz bir çifte sonuç vardır. [[agentic-ai|Çok aracılı]] bir tartışmada toplu konumu esirgemek, öğrencilerin yanlış YZ konumuna geçişini %42-%60,5’ten %5,7-%8,2’ye düşürmüş, büyük bir koruyucu etki yaratmış, yine de **oturum içinde hiçbir öğrenme etkisi** üretmemiştir (β = 0,03, p = 0,18). Korkuluk korkuluk olarak işini yapmış ve öğretime dönüşmemiştir. Kötüye kullanımı önlemek için tasarlamak, öğrenme için tasarlamakla aynı şey değildir.
-
-**“Kötüye kullanımı tespit edip cezalandırmak bir önleme stratejisidir.”** Önleme, notlandırıcının kendisini de kapsamak zorundadır. [[humble-prompt-injection-ai-grading-red-team-2026|Humble’ın (2026)]] kırmızı ekip değerlendirmesi, bir teslim dosyasına gömülen beş dolaylı istek metni enjeksiyonu stratejisinden ikisinin başarısız bir kompozisyonun notunu yükselttiğini bulmuştur. Öğrenci kötüye kullanımını tespit ederken incelenmemiş teslim içeriğine güvenen bir iş hattı yalnızca tek taraftan savunulmuştur.
-
-**“Kötüye kullanım bir öğrenci motivasyonu sorunudur.”** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher ve Calderon (2025)]], bağlayıcı kısıtı bir basamak yukarı taşır; değiştirilecek şey olarak öğrenci davranışı yerine yönetişimi ele alır ve 130 maddelik bir dürüstlük gösterge çerçevesi önerir. Öğrenme zararı da ölçekte ölçülebilir: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei ve Wu (2026)]], ödev dışarıdan devretmenin ödev puanlarını %18 artırırken kitapsız sınav puanlarını *%20 düşürdüğünü* bulmuştur; bu, tam olarak bu sayfanın konusu olan boşlukta görünen bir tasarım başarısızlığıdır.
-
-## Role göre uygulama rehberi
+## Uygulama için çıkarımlar
 
 **Eğitmenler ve ders ekipleri için**
 
@@ -105,6 +98,16 @@ Dürüstlük, bir ceza kuralından çok öğretilmesi gereken bir uygulama olara
 **Yöneticiler ve politika yapıcılar için**
 
 - Bağlayıcı kısıtı kanıtın koyduğu yere koyun. Göstergeler ve yönetişim yapıları ortamı ele alır; öğrencilere öğüt vermek ise kurumsal tasarımı değiştirmeye en az muktedir kişiyi ele alır.
+
+## Yaygın yanlış anlamalar
+
+**“Öğrencilere riskleri öğretmek kötüye kullanıma karşı ana kaldıraçtır.”** Öğrencinin işbirliğine bağlı olan kaldıraç budur ve bu yüzden burada yapısal olanların altında sıralanır. Güvenlik korkulukları ve değerlendirme yeniden tasarımı, öğrenci doğru davranışı seçsin ya da seçmesin işe yarar; eğitici yaklaşımlar ise yalnızca katılımla işler. Ayrım ahlaki değil mekaniktir: değişmiş bir ortam davranışı doğrudan kısıtlar, değişmiş bir inanç ise teslim tarihinden önceki geceyi atlatmak zorundadır.
+
+**“Bir korkuluk oturum sırasında tutuyorsa öğrenme güvence altındadır.”** Tutmak ile öğretmek ayrı sonuçlardır ve bilgi tabanında temiz bir çifte sonuç vardır. [[agentic-ai|Çok aracılı]] bir tartışmada toplu konumu esirgemek, öğrencilerin yanlış YZ konumuna geçişini %42-%60,5’ten %5,7-%8,2’ye düşürmüş, büyük bir koruyucu etki yaratmış, yine de **oturum içinde hiçbir öğrenme etkisi** üretmemiştir (β = 0,03, p = 0,18). Korkuluk korkuluk olarak işini yapmış ve öğretime dönüşmemiştir. Kötüye kullanımı önlemek için tasarlamak, öğrenme için tasarlamakla aynı şey değildir.
+
+**“Kötüye kullanımı tespit edip cezalandırmak bir önleme stratejisidir.”** Önleme, notlandırıcının kendisini de kapsamak zorundadır. [[humble-prompt-injection-ai-grading-red-team-2026|Humble’ın (2026)]] kırmızı ekip değerlendirmesi, bir teslim dosyasına gömülen beş dolaylı istek metni enjeksiyonu stratejisinden ikisinin başarısız bir kompozisyonun notunu yükselttiğini bulmuştur. Öğrenci kötüye kullanımını tespit ederken incelenmemiş teslim içeriğine güvenen bir iş hattı yalnızca tek taraftan savunulmuştur.
+
+**“Kötüye kullanım bir öğrenci motivasyonu sorunudur.”** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher ve Calderon (2025)]], bağlayıcı kısıtı bir basamak yukarı taşır; değiştirilecek şey olarak öğrenci davranışı yerine yönetişimi ele alır ve 130 maddelik bir dürüstlük gösterge çerçevesi önerir. Öğrenme zararı da ölçekte ölçülebilir: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei ve Wu (2026)]], ödev dışarıdan devretmenin ödev puanlarını %18 artırırken kitapsız sınav puanlarını *%20 düşürdüğünü* bulmuştur; bu, tam olarak bu sayfanın konusu olan boşlukta görünen bir tasarım başarısızlığıdır.
 
 ## Bağlı kavramlar
 

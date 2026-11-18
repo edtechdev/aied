@@ -1,4 +1,5 @@
 ---
+updated: "2026-11-17T20:00:00-05:00"
 title: YZ Hakkında Yanlış Kanılar
 created: "2026-10-14T21:35:00-04:00"
 type: concept
@@ -10,13 +11,17 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -37,11 +42,11 @@ ai_assist:
 
 YZ hakkındaki yanlış kanılar önemlidir, çünkü bilgi tabanının [[cognitive-offloading|Aşırı Bağımlılık]] ve [[academic-integrity]] kaygıları altında belgelediği zararlı davranışların bilişsel öncülüdür. İnsanlar nadiren YZ’yi [[ai-misuse-learning-harm|kötüye kullanmaya]] kalkar; bunu yaparlar çünkü yanlış zihinsel modeller onları güveni yanlış yere koymaya, doğrulamayı atlamaya ve çıktıyı anlayış olarak görmeye yönlendirir. Eğitimde bu hatalar, öğrencilerin nasıl çalıştığından öğretmenlerin ve kurumların müfredatları, [[assessment]] ve politikayı nasıl tasarladığına kadar her şeyi şekillendirir.
 
-### YZ yanlış kanıları nedir
+## YZ yanlış kanıları nedir
 
 Buradaki bir yanlış kanı, bir modelin nasıl çalıştığına dair sadece bir cehalet değildir — YZ ile etkileşimde sistematik hatalar üreten, etkin olarak benimsenen, çoğu zaman kendini güçlendiren bir inançtır. [[learning-sciences|Öğrenme biliminde]] incelenen alan yanlış kanılarına doğrudan benzerler: karşılarına çıkılana kadar istikrarlı, makul ve düzeltmeye dirençli. Onları düzeltmek, [[ai-literacy]] ve [[trust-calibration]] eğitiminin çekirdek amacıdır.
 
-### Akademik bağlamlarda yaygın yanlış kanılar
+## Akademik bağlamlarda yaygın yanlış kanılar
 
 - **Yetke safsatası** — [[llm]] çıktısını olasılıksal bir tamamlama değil doğrulanmış gerçek olarak görmek. Eleştirel olmayan kabulü ve [[intelligent-tutoring|YZ destekli öğretim]] araştırmalarında belgelenen anlama yerine yanıt arama örüntüsünü yönlendirir; öğrenenler modelin yanıtını [[hallucination-risk]]ne karşı denetlemeden kabul eder.
 - **Bağımsız denetim yanılsıması** — model kendi akıl yürütmenizi yansıttığında [[ai-feedback-quality|YZ geri bildirimini]] dıştan bir düzeltme olarak görmek. Kullanıcıların temel doğruluğu final performansının baskın öngörücüsüydü ve [[ai-sycophancy|yaltaklanmaya]] özgü istek istemesi konumsal taklidi kesti (OR = 0,26) ama hata yayılımına dokunmadı, öyleyse öğrenen eğitimi güvence değildir ([[contextual-sycophancy-ai-literacy|Koyuturk ve ark. (2026)]]).
@@ -56,17 +61,17 @@ Buradaki bir yanlış kanı, bir modelin nasıl çalıştığına dair sadece bi
 
 **Dürüstlük gri bölgesinin iki uçtan ibaret olmayan bir yapısı vardır.** 20 öğrenciyle yapılan görüşmeler, sohbet kayıtları ve ders belgeleriyle birlikte, YZ politikasının yaşadığı beş ayrı alan buldu: öğretim elemanının niyetinden resmî politikaya, öğrencinin kendi politikasından fiilî uygulamaya kadar; ayrıca altı sınıfta 23 ayrı akılcılaştırma ([[student-rationalization-ai-writing|Kim ve ark., 2026]]). Akılcılaştırmalar, kullanımı yönlendirmek için değil, çoktan gerçekleşmiş kullanımı açıklamak için bir araya getirilmiş, duruma ve sonradan üretilmiş gerekçelerdi. Katı bir yasak, kullanımı engellemekten çok uymak isteyen öğrencilerde ahlaki çatışmayı yoğunlaştırdı; bu da düzeltme hedefini kuralın ifadesinde değil politika alanında konumlandırır.
 
-### Kurumsal ve kamusal YZ mitleri
+## Kurumsal ve kamusal YZ mitleri
 
 Yanlış kanılar öğrencilerle sınırlı değildir — öğrencilerin miras aldığı, YZ hakkındaki kurumsal ve kamusal söylemi doyururlar. [[rudolph-ai-myths-critical-higher-ed|Rudolph ve ark. (2025)]], yükseköğretim politika ve öğretimini şekillendiren sekiz yerleşik "miti" çürütür: YZ’nin gerçekten "yapay" olduğu (sömürülen insan emeğinden kurulmak yerine), gerçekten "zeki" ve [[agentic-ai|etken]] olduğu, sorunsuzca "dünyayı daha iyi bir yer yapacağı", "nesnel ve tarafsız" olduğu, ABD’nin tek bir süper güç tekelini elinde tuttuğu, iş pazarını bozmayacağı, [[higher-ed|yükseköğretimi]] "devrim yapacağı" ve öğretmenlerin YZ üretimi işi güvenilir şekilde tespit edebileceği. Bu kurumsal mitler, yukarıda belgelenen birçok öğrenci yanlış kanısının yukarı akış kaynağıdır — en doğrudan [[trust|tarafsızlık yanılsıması]] ("YZ nesneldir") ve [[trust-calibration|yetke safsatası]] ("YZ zekidir"), ve öğrencilerin tespit edilemez, doğrulanamaz kullanımın güvenli olduğunu varsaymalarına yol açan tespit yanlış kalibrasyonu. Öğrencilerin kurumsal olarak tekrarlanan mitleri özümsediği ve buna göre hareket ettiği yerde, onları düzeltmek yalnızca öğrenenin inancıyla değil onu besleyen söylemle yüzleşmeyi gerektirir.
 
-### Yanlış kanılar öğrenme için neden önemlidir
+## Yanlış kanılar öğrenme için neden önemlidir
 
 Yanlış kanılar doğrudan öğrenme zararına yol açan davranışlara dönüşür. "YZ her zaman haklıdır" inancı doğrulamayı baskılar; "YZ kullanmak öğrenmektir" inancı çabayı gerektiren işlemeyi baskılar; "bu hile değil" inancı, anlayışı pekiştiren metabilişsel incelemeyi baypas eder. Bu anlamda yanlış kanılar, bilgi tabanının kanıt tabanında belgelenen [[ai-misuse-learning-harm]] olaylarının yukarı akışındadır.
 
 YZ kullanmanın öğrenmek olduğu inancı yalnızca kullanımdan önce taşınmaz; aracın kendisi de onu üretebilir. [[llm-fallacy-misattribution|Kim ve ark.]], opak, akıcı ve anında çıktının kullanıcının kendi yetkinliğinin kanıtı olarak yanlış okunduğu bir LLM safsatası tanımlar; algılanan ve gerçek yetenek, ΔC adını verdikleri bir marjla ayrışır. Mekanizma hata değil akıcılık ve atıf belirsizliği olduğundan, safsata model doğru yanıt verse de halüsinasyon görse de sürer; bu da doğru bir YZ destekli yanıtın inancın düzeltildiğinin kanıtı olmadığı anlamına gelir.
 
-### Öğrencilerin ötesinde yanlış kanılar: öğretmenler, kurumlar ve halk
+## Öğrencilerin ötesinde yanlış kanılar: öğretmenler, kurumlar ve halk
 
 YZ yanlış kanıları öğrenenlerle sınırlı değildir — eğitimi şekillendiren yetişkinler arasında da yaygındır:
 
@@ -78,7 +83,7 @@ Bu genişlik, bilgi tabanının yanlış kanıları tamamen öğrenciye dönük 
 
 Öğretmenlerin pedagojik yanlış kanıları bunun ayna görüntüsüdür: YZ hakkında yanlış anlamalar değil, YZ’den bağımsız olarak ayakta kalan ve kanıtla desteklenmeyen öğretime ilişkin inançlar. [[etq-ai-conversational-teacher-training-2026|Miranda ve Calvani (2026)]], bunu Etkin Öğretim Anketi ile ölçer; 50 ikili madde [[meta-analysis-systematic-review|meta analitik]] etki büyüklüklerine (d ≥ 0,40) eşlenir, böylece bir öğretmenin cevabı kanıtla uyumlu bir kıyasa karşı karşılaştırılabilir — ve bulguları yanlış kanıların derin ve özgül olduğudur. 123 İtalyan eğitimciyle yapılan bir pilot çalışmada, anlaşmazlık en çok bilişsel öğrenme stillerinde (öğretmenlerin %78’i görsel/işitsel eşleştirmeyi savundu), kapsama ve [[group-work|grup çalışmasında]] (%68) ve EdTech aşırı yüklemesinde (%54) kümelenmiş; planlama, bilişsel, değerlendirici ve yönetim boyutlarında ortalama hizalama %50’ye yakın kalmıştır. Düzeltme tasarımı için iki ayrıntı önemlidir. Birincisi, yanlış kanılar üniversite eğitiminden ve öğretmenlik uygulamasından sağ çıkar — yazarların “okula girişten önce” başlayan ve ayakta kalan bir “içselleştirilmiş sağduyu” olarak tanımladığı — dolayısıyla bir dersin kapattığı bilgi boşlukları değildir. İkincisi, aynı maddeler öğretmenin bağlamını kanıt sunulmadan önce doğrulayan konuşma tabanlı bir YZ ile sunulduğunda, itirazların %41’i kanıtın kendisinden çok gerçek bağlamsal kısıtları (sınıf mevcudu, [[special-education|özel gereksinimler]], [[curriculum-design|müfredat]] kapsamı) ile ilgili olmuş ve %5,9’u sistemi “algoritmik bir dogma makinesi” olarak reddetmiş — normatif çerçevelemenin yansıma yerine savunmacılık doğurduğu sınır koşulu. [[teacher-ai-competency]] gelişimi için çıkarım, tanı artı diyalogun hangi inançların kanıta dayalı anlaşmazlık, hangisinin yanlış kanı olduğunu ortaya çıkarabileceğidir; bunu bir puan tek başına yapamaz.
 
-### Yanlış kanıları düzeltmek
+## Yanlış kanıları düzeltmek
 
 Düzeltme tek seferlik bir açıklama değil, [[metacognition]] ve [[self-regulated-learning]] geliştiren süregelen bir [[ai-literacy]] sürecidir: öğrencilere (ve çevrelerindeki yetişkinlere) bağımlılıklarını izlemelerinde, bir modele ne zaman güvenip ne zaman itiraz edeceklerini kalibre etmelerinde ve kendi [[cognitive-offloading|bilişsel işlerini]] baypas etmenin bedelini görmelerinde yardım etmek. Yanlış kanılar dirençli olduğundan, en iyi kanıtla doğrudan yüzleşme yoluyla ele alınırlar — öğrencilerin YZ kötüye kullanımının öğrenme zararını çoğu zaman *algılamadıkları* bulgusu dahil.
 
@@ -94,7 +99,7 @@ Bernstein ve Sibia (2026), [[generative-ai|Üretken YZ]] üretimi benzetmelerin 
 
 **Model üretimi yanlış kanılar ölçülebilir bir yetenektir, bir kaza değil.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević ve ark. (2026)]], yedi açık ağırlıklı modeli 35 çekirdek CS kavramı için bir "[[socratic-method|Sokratik]] tuzak" yazmaya yönlendiren SocraticTrap-CS’i inşa etti — akıcı ve yetkili görünen ama ince, alana özgü bir hata üzerine oturan bir açıklama. İstek istemesi yapılan 241 segmentten 221’i (%91,7) uzman çoğunluk oyuyla stratejik yanlış kanı olarak onaylandı (Fleiss’in κ değeri = 0,9487), CS alanları arasında anlamlı fark yoktu; onaylanan hataların %66,5’i olgusaldan çok kavramsaldı ve hiçbiri tamamen mantıksal değildi. Akıcılık bir savunma değil mekanizmadır: ikna edicilik beş puanlık ölçekte ortalama 3,71’di ve güçlü şekilde modele bağımlıydı; sıklık ve şiddet ayrıştı, tuzakları en sık üreten iki model aynı zamanda en ikna edici bulunanlardı. Öğrencinin zayıf çerçevelenmiş bir sorusunun kendisi bir saldırgan istek metni olarak hareket edebildiğinden, yazarlar oranı sıradan çalışma seansları için bir temel oran değil saldırgan istek istemesi altında bir yetenek olarak ele alıyor ve [[ai-literacy]] görevinin bireysel ifadeleri gerçek kontrolünden kavramsal doğrulama ve zihinsel model geçerliliğine kaydığını savunuyor. Bu, yukarıdaki üretken kullanımın daha karanlık yüzüdür: üretken akran tartışmasını besleyebilen aynı yetenek, bir öğrenenin çoktan oluşturmakta olduğu bir hatayı da kökleştirebilir.
 
-### YZ hakkındaki yaygın yanlış kanılar için çürütme tarzı düzeltmeler
+## YZ hakkındaki yaygın yanlış kanılar için çürütme tarzı düzeltmeler
 
 Yanlış kanılar etkin olarak benimsendiğinden ve dirençli olduğundan, onları ele almanın en doğrudan yolu — bu sayfada da dahil — [[refutation-text]] yapısıdır: **yanlış kanıyı adlandır, açıkça çürüt ve doğru kavramı belirt.** Aşağıdaki maddeler bu yapıyı YZ ile öğrenme, öğretim ve eğitim hakkındaki en önemli yanlış kanılara uygular:
 

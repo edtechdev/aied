@@ -38,11 +38,11 @@ ai_assist:
 
 Quan niệm sai lầm về AI quan trọng vì chúng là tiền thân nhận thức của những hành vi có hại mà cơ sở kiến thức ghi nhận dưới [[cognitive-offloading|Sự phụ thuộc quá mức]] và các lo ngại về [[academic-integrity|liêm chính học thuật]]. Người ta hiếm khi chủ ý [[ai-misuse-learning-harm|lạm dụng]] AI; họ làm vậy vì mô hình tinh thần sai khiến họ đặt niềm tin nhầm chỗ, bỏ qua kiểm chứng và coi đầu ra là hiểu biết. Trong giáo dục, những lỗi này định hình từ cách sinh viên học đến cách giáo viên, thể chế thiết kế chương trình, [[assessment|đánh giá]] và chính sách.
 
-### Quan niệm sai lầm về AI là gì
+## Quan niệm sai lầm về AI là gì
 
 Một quan niệm sai lầm ở đây không chỉ là thiếu hiểu biết về cách mô hình hoạt động — đó là niềm tin được giữ chủ động, thường tự củng cố, tạo lỗi hệ thống trong cách sinh viên tương tác với AI. Chúng tương tự quan niệm sai lầm theo lĩnh vực trong [[learning-sciences|khoa học học tập]]: bền vững, có vẻ hợp lý và kháng sửa cho đến khi bị đối diện. Sửa chúng là mục tiêu của giáo dục [[ai-literacy|năng lực AI]] và [[trust-calibration|hiệu chỉnh niềm tin]].
 
-### Những quan niệm sai lầm phổ biến trong bối cảnh học thuật
+## Những quan niệm sai lầm phổ biến trong bối cảnh học thuật
 
 - **Ngụy biện uy tín** — coi đầu ra [[llm|LLM]] là sự thật đã kiểm chứng thay vì một sự hoàn thành theo xác suất. Nó nuôi dưỡng mô thức tìm câu trả lời thay vì hiểu trong nghiên cứu [[intelligent-tutoring|gia sư AI]], nơi người học nhận câu trả lời mà không đối chiếu [[hallucination-risk|rủi ro ảo giác]].
 - **Ảo tưởng về kiểm tra độc lập** — coi [[ai-feedback-quality|phản hồi của AI]] là sửa chữa bên ngoài trong khi mô hình phản chiếu chính lập luận của bạn. Độ chính xác nền dự báo chi phối kết quả cuối; prompt riêng cho [[ai-sycophancy|sự nịnh bợ]] cắt được bắt chước vị trí (OR = 0,26) nhưng không đụng lan truyền lỗi, nên huấn luyện người học không phải biện pháp bảo vệ ([[contextual-sycophancy-ai-literacy|Koyuturk et al. (2026)]]).
@@ -57,17 +57,17 @@ Một quan niệm sai lầm ở đây không chỉ là thiếu hiểu biết v�
 
 Vùng xám liêm chính có cấu trúc chứ không chỉ hai thái cực. Phỏng vấn 20 sinh viên cùng nhật ký trò chuyện và tài liệu khóa học cho thấy năm địa điểm nơi chính sách AI tồn tại — từ ý định giảng viên, chính sách chính thức, chính sách tự đặt của sinh viên đến thực tiễn — cùng 23 lý lẽ biện minh trong sáu lớp ([[student-rationalization-ai-writing|Kim et al., 2026]]). Những lý lẽ này tùy nghi, hậu nghiệm, ghép lại để giải thích việc đã xảy ra hơn là hướng dẫn nó. Lệnh cấm nghiêm ngặt không ngăn được việc dùng mà làm sâu thêm xung đột đạo đức ở sinh viên muốn tuân thủ, cho thấy mục tiêu sửa chữa nằm ở địa điểm chính sách, không ở câu chữ quy định.
 
-### Những huyền thoại về AI ở cấp thể chế và trong công chúng
+## Những huyền thoại về AI ở cấp thể chế và trong công chúng
 
 Quan niệm sai lầm không chỉ ở sinh viên — chúng thấm đẫm diễn ngôn thể chế và công chúng về AI mà sinh viên thừa hưởng. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] bóc tách tám "huyền thoại" ăn sâu, định hình chính sách và giảng dạy giáo dục đại học: AI thực sự "nhân tạo" (chứ không phải xây từ lao động người bị bóc lột), thực sự "thông minh" và có [[agentic-ai|tính tác tử]], sẽ "làm thế giới tốt đẹp hơn", "khách quan và không thiên lệch", rằng Hoa Kỳ độc quyền siêu cường, rằng nó không làm đảo lộn thị trường lao động, "cách mạng hóa [[higher-ed|giáo dục đại học]]", và rằng giáo viên phát hiện đáng tin cậy bài do AI tạo. Những huyền thoại này là nguồn thượng nguồn của nhiều quan niệm sai lầm ở sinh viên nêu trên — trực tiếp nhất là [[trust|ảo tưởng trung lập]] ("AI khách quan") và [[trust-calibration|ngụy biện uy tín]] ("AI thông minh"), cùng hiệu chỉnh sai về phát hiện khiến sinh viên cho rằng dùng không phát hiện được là an toàn. Khi sinh viên hành động theo huyền thoại được thể chế lặp lại, sửa chữa đòi hỏi đối diện cả niềm tin người học lẫn diễn ngôn nuôi dưỡng nó.
 
-### Vì sao quan niệm sai lầm quan trọng đối với việc học
+## Vì sao quan niệm sai lầm quan trọng đối với việc học
 
 Quan niệm sai lầm chuyển trực tiếp thành hành vi gây hại cho việc học. Niềm tin "AI luôn đúng" đè nén kiểm chứng; "dùng AI là học" đè nén xử lý đòi nỗ lực; "đó không phải gian lận" bỏ qua xem xét siêu nhận thức vốn củng cố hiểu biết. Theo nghĩa này, quan niệm sai lầm nằm thượng nguồn của [[ai-misuse-learning-harm]] trong nền tảng bằng chứng của cơ sở kiến thức.
 
 Niềm tin rằng dùng AI là học không chỉ có trước khi dùng; công cụ có thể tự sản sinh nó. [[llm-fallacy-misattribution|Kim et al.]] mô tả ngụy biện LLM trong đó đầu ra không minh bạch, trôi chảy, tức thời bị đọc nhầm là bằng chứng về năng lực của chính người dùng, khiến năng lực cảm nhận và thực tế lệch nhau một khoảng họ gọi là ΔC. Vì cơ chế là trôi chảy và mơ hồ trong quy gán chứ không phải lỗi, ngụy biện tồn tại dù mô hình đúng hay ảo giác: một câu trả lời đúng có AI hỗ trợ không chứng minh niềm tin đã được sửa.
 
-### Quan niệm sai lầm ngoài sinh viên: giáo viên, thể chế và công chúng
+## Quan niệm sai lầm ngoài sinh viên: giáo viên, thể chế và công chúng
 
 Quan niệm sai lầm về AI không chỉ ở người học — chúng phổ biến ở người trưởng thành định hình giáo dục:
 
@@ -79,7 +79,7 @@ Chính độ bao phủ này khiến cơ sở kiến thức coi quan niệm sai l
 
 Quan niệm sai lầm sư phạm của giáo viên là hình ảnh phản chiếu: không phải hiểu lầm về AI mà là niềm tin về giảng dạy thiếu bằng chứng, tồn tại bất kể AI. [[etq-ai-conversational-teacher-training-2026|Miranda và Calvani (2026)]] đo bằng Bảng hỏi Giảng dạy Hiệu quả: 50 mục nhị phân ánh xạ vào kích thước hiệu ứng [[meta-analysis-systematic-review|phân tích tổng hợp]] (d ≥ 0,40) để câu trả lời của giáo viên so được với chuẩn phù hợp bằng chứng — và phát hiện là quan niệm sai lầm rất sâu, cụ thể. Thử nghiệm với 123 nhà giáo dục ở Ý cho bất đồng gay gắt nhất ở tuyên bố phong cách học tập (78% bảo vệ ghép kênh thị giác/thính giác), rồi hòa nhập và [[group-work|làm việc nhóm]] (68%), quá tải công nghệ giáo dục (54%); đồng thuận trung bình gần 50% trên các chiều lập kế hoạch, nhận thức, đánh giá và quản lý. Hai chi tiết quan trọng. Thứ nhất, quan niệm sai lầm tồn tại qua giáo dục đại học và thực tiễn giảng dạy — một "lẽ thường đã nội tâm hóa" vốn "có trước khi vào trường" — nên không phải lỗ hổng mà bài giảng lấp được. Thứ hai, khi AI hội thoại đưa lại các mục đó chỉ sau khi xác nhận bối cảnh của giáo viên, 41% phản đối nêu giới hạn bối cảnh thực — sĩ số lớp, học sinh có [[special-education|nhu cầu đặc biệt]], độ phủ [[curriculum-design|chương trình]] — chứ không phải bằng chứng. Thêm 5,9% gọi hệ thống là "cỗ máy giáo điều thuật toán": điều kiện biên nơi khung quy phạm sinh phòng thủ thay vì phản tư. Với [[teacher-ai-competency]], chẩn đoán cộng đối thoại làm lộ niềm tin nào là bất đồng dựa trên bằng chứng, niềm tin nào là quan niệm sai lầm — phân biệt mà điểm số không tạo ra được.
 
-### Sửa chữa quan niệm sai lầm
+## Sửa chữa quan niệm sai lầm
 
 Sửa chữa không phải một lần công bố mà là quá trình [[ai-literacy|năng lực AI]] liên tục, phát triển [[metacognition]] và [[self-regulated-learning|việc học tự điều chỉnh]]: giúp sinh viên (và người trưởng thành quanh họ) theo dõi sự phụ thuộc, hiệu chỉnh khi nào nên tin và khi nào nên chất vấn mô hình, và thấy cái giá của việc bỏ qua [[cognitive-offloading|công việc nhận thức]] của chính mình. Vì quan niệm sai lầm kháng sửa, cách tốt nhất là đối diện trực tiếp với bằng chứng — gồm việc sinh viên thường *không nhận ra* tác hại của lạm dụng AI với việc học.
 
@@ -95,7 +95,7 @@ Bernstein và Sibia (2026) cho thấy phép loại suy do [[generative-ai|AI t�
 
 **Quan niệm sai lầm do mô hình tạo là năng lực đo được, không phải tai nạn.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] xây SocraticTrap-CS, nhắc bảy mô hình trọng số mở viết "[[socratic-method|cái bẫy Socrates]]" cho 35 khái niệm khoa học máy tính cốt lõi — lời giải thích trôi chảy, có thẩm quyền nhưng dựa trên lỗi tinh vi đặc thù lĩnh vực. Trong 241 đoạn được nhắc, 221 (91,7%) được xác nhận là quan niệm sai lầm chiến lược bằng bỏ phiếu đa số chuyên gia (κ của Fleiss = 0,9487), không khác biệt đáng kể giữa các lĩnh vực; 66,5% lỗi là khái niệm chứ không phải sự kiện, không lỗi nào thuần logic. Trôi chảy là cơ chế chứ không phải hàng rào: độ thuyết phục trung bình 3,71 trên thang năm điểm, phụ thuộc mạnh vào mô hình; tần suất và mức nghiêm trọng tách rời, hai mô hình tạo bẫy thường xuyên nhất cũng thuyết phục nhất. Vì câu hỏi đặt kém của sinh viên tự nó có thể là prompt đối kháng, tác giả coi tỷ lệ này là năng lực dưới nhắc đối kháng chứ không phải tỷ lệ cơ sở cho phiên học thông thường, và cho rằng nhiệm vụ [[ai-literacy|năng lực AI]] chuyển từ kiểm tra sự thật từng phát biểu sang kiểm chứng khái niệm và xác nhận mô hình tinh thần. Đây là mặt tối của việc dùng tạo sinh ở trên: cùng năng lực gieo mầm thảo luận nhóm hiệu quả cũng làm sâu thêm lỗi người học vốn đang hình thành.
 
-### Các chỉnh sửa theo kiểu văn bản phản bác đối với những quan niệm sai lầm phổ biến về AI
+## Các chỉnh sửa theo kiểu văn bản phản bác đối với những quan niệm sai lầm phổ biến về AI
 
 Vì quan niệm sai lầm được giữ chủ động và kháng sửa, cách trực tiếp nhất để xử lý chúng — kể cả trên trang này — là cấu trúc [[refutation-text|văn bản phản bác]]: **nêu tên quan niệm sai lầm, phản bác rõ ràng và nêu quan niệm đúng.** Các mục dưới đây áp dụng cấu trúc đó cho những quan niệm hệ trọng nhất về AI và về việc học, việc dạy, giáo dục:
 
