@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-16T05:34:25-05:00"
+updated: "2026-11-18T10:35:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -52,6 +52,8 @@ A two-stage verifier lifted precision to 0.8893 where false positives would corr
 
 [[k-12]] settings demand stronger privacy safeguards because learners are minors. This extends privacy beyond data protection into [[pedagogical-safety|pedagogical safety]]: the tools children use must not merely protect their data but also protect them from harm. [[child-safety-genai|Child safety research]] shows that general-purpose safety classifiers often fail to detect education-related unsafe prompts from children, warning that schools cannot assume standard model safeguards protect younger users — they need child-specific evaluation, incident-grounded testing, and [[human-in-the-loop-ai|human oversight]]. The framing connects privacy to [[equity-in-ai-education|equity]]: who is protected by default safety and privacy practices reflects whose safety and autonomy a system treats as non-negotiable.
 
+- **Age thresholds are statutory, not contractual.** A product whose terms say "13 or older" does not thereby escape COPPA: the rule attaches when a service is directed to children or the provider has actual knowledge that a user is under 13, so age-screening and data minimization belong in the deployment terms rather than in the vendor's copy. Under GDPR Articles 8 and 12 the comparable floor is generally 16 for verifiable parental consent, with age-appropriate notice ([[stefanile-middle-secondary-ai-guidance-2026|Stefanile, 2026]]).
+
 ## Privacy in practice
 
 - **Treat privacy as a design requirement, not a policy afterthought.** The [[teachlm-post-training-llms-education|TeachLM]] example shows that consent, anonymization, and secure data handling can be built into the data pipeline itself — a model for ethically sourcing the authentic data that makes [[intelligent-tutoring|AI tutors]] effective.
@@ -90,6 +92,7 @@ Privacy connects to [[learning-analytics|learning analytics]] (the data collecto
 - [[student-support-and-success]] — student records, cross-office data sharing, and federated risk modeling
 
 ## Connected Articles
+- [[stefanile-middle-secondary-ai-guidance-2026]] — COPPA and GDPR age floors that a product's terms of service do not clear (Stefanile, 2026)
 - [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Penny for your prompts: contextual leakage in AI chat platforms (Bekos et al. 2026)
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)

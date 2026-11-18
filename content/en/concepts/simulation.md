@@ -2,7 +2,7 @@
 connected_resources: [openmaic, primer]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-16T09:58:00-05:00"
+updated: "2026-11-18T10:35:00-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -58,6 +58,8 @@ Cost and delivery format are separable questions from fidelity. A two-cohort pil
 - **Agency is a designed layer, not a property of the technology.** [[theelen-classroom-simulations-four-layer-framework-2026|Theelen et al. (2026)]] sort simulations by the practice represented, the simulated situation, how agency and adaptation are distributed, and how the learning is orchestrated, rather than by immersion level.
 - **A digital twin is a simulation with a hardware bill, and the bill shapes who can take part.** A [[meta-analysis-systematic-review|systematic review]] of 11 studies of digital twins in [[engineering-education|engineering]] and STEM [[higher-ed|higher education]] found that every implementation delivered a working prototype with real-time synchronization, yet only three reported statistically significant [[learning-gains|learning gains]]. Physical rigs capped access at 1–3 concurrent students in five studies, and reduced social interaction was the most-cited pedagogical challenge, in six ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al. (2026)]]).
 - **Agent-based simulation can model a [[metacognition|metacognition]] theory as a testable system.** An agent-based digital-twin-inspired framework combining the five-level AMERT model with a NetLogo simulation let researchers vary learner archetypes and task conditions and observe metacognitive trajectories, though the authors stress the output is hypothesis generation, not evidence about real learners ([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). Simulation becomes a virtual laboratory for a theory that is otherwise hard to observe.
+- **The reasoning gains were measured inside scripted cases.** A scoping review of thirty studies of AI-based clinical simulation in undergraduate [[medical-education|medical education]] found twenty-three of them (76.7%) built on text-based virtual patients or chatbots, and the cases were mostly delimited, with preselected data elements and limited variability ([[hernandez-ai-clinical-simulation-scoping-2026|Hernández Rincón et al., 2026]]). So the reported gains in clinical reasoning describe performance within a curated scenario, not management of an ill-defined one. The review's more durable contribution is process evidence: timestamped logs and transcripts exposed narrow data gathering, unrevised hypotheses and overconfidence behind weak diagnostic performance, which a written examination cannot see.
+
 - **The curriculum is the unit that decides a simulation's value.** The Curricular Bridge Model argues that return on simulation depends on how experiences are sequenced across a program — context reuse, variation in reasoning demands, evidence feeding progression — rather than on platform fidelity ([[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno, 2026]]).
 - **Simulated clients outran the evidence.** A scoping review of 14 sources on generative AI in counselor education found AI-simulated clients the dominant application, but no study measured trainee competency, used a comparison condition or tested crisis and risk-assessment scenarios ([[van-patten-freeman-rath-ai-counselor-education-scoping-2026|Van Patten-Freeman et al., 2026]]).
 
@@ -97,6 +99,7 @@ The framework travels as a test rather than a catalog. Three questions decide an
 ## Connected Articles
 
 - [[ismail-affective-domain-ai-healthcare-review-2026]] — AI simulation and virtual patients dominate affective-domain training, with outcomes mostly self-reported (Ismail & Zafira, 2026)
+- [[hernandez-ai-clinical-simulation-scoping-2026]] — Thirty-study scoping review: 76.7% text-based virtual patients, and reasoning gains rest on scripted cases (Hernández Rincón et al., 2026)
 - [[van-patten-freeman-rath-ai-counselor-education-scoping-2026]] — 14-source scoping review: simulated clients dominate, trainee competence unmeasured (Van Patten-Freeman & Rath 2026)
 - [[learner-agency-ai-simulation-2026]] — Parameter control and an optional AI agent in a complex-systems simulation: gains tracked enactment, not access
 - [[benzion-ai-physics-simulations-virtual-lab]]

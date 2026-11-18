@@ -7,22 +7,25 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-11-18
-**Total backlog:** 30 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 26 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-18)
 
-Ingested nine papers (arXiv, EdArXiv, and five Frontiers journal articles). Four candidates from
-the same window remain queued.
+Ingested nine papers (arXiv, EdArXiv, and five Frontiers journal articles). Four candidates carried
+forward from the same window were all resolved on 2026-11-18: two ingested from PDFs the maintainer
+supplied, two declined.
 
-Full text not retrievable (publisher blocked the PDF; please send the PDFs to unblock ingestion):
+Ingested from full text once the PDFs arrived (both publisher-blocked on the scan day):
 
-- [Artificial intelligence–based clinical simulation in undergraduate medical education: contributions of virtual patients, chatbots, and immersive environments - a scoping review](https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-026-10793-8) — [DOI: 10.1186/s12909-026-10793-8](https://doi.org/10.1186/s12909-026-10793-8)
-- [Embedding AI literacy and safeguarding academic integrity: generative AI in South African higher education assessment](https://doi.org/10.1080/2331186x.2026.2690714) — [DOI: 10.1080/2331186x.2026.2690714](https://doi.org/10.1080/2331186x.2026.2690714)
+- Artificial intelligence–based clinical simulation in undergraduate medical education — scoping
+  review of 30 studies — ingested as `hernandez-ai-clinical-simulation-scoping-2026`.
+- Artificial Intelligence in Middle and Secondary Education — perspective with policy
+  recommendations — ingested as `stefanile-middle-secondary-ai-guidance-2026`.
 
-Queued for a later run (not reached inside the 20-article cap):
-
-- [Artificial Intelligence in Middle and Secondary Education: Instructional Opportunities, Limitations and Ethical Considerations](https://doi.org/10.3390/educsci16111953) — [DOI: 10.3390/educsci16111953](https://doi.org/10.3390/educsci16111953)
-- [A bibliometric study of human factors in artificial intelligence mediated second language learning ecosystems](https://doi.org/10.1007/s44217-026-02248-5) — [DOI: 10.1007/s44217-026-02248-5](https://doi.org/10.1007/s44217-026-02248-5)
+Declined by the maintainer on 2026-11-18 and recorded in `rejected-sources.yaml`: the Cogent
+Education study of AI literacy and academic-integrity assessment in South African higher education
+(10.1080/2331186X.2026.2690714), and the Discover Education bibliometric study of human factors in
+AI-mediated second-language learning (10.1007/s44217-026-02248-5).
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-16)
 
