@@ -1,0 +1,179 @@
+---
+// One listenable item: a native audio element plus, where the item has one, its
+// transcript behind a disclosure.
+//
+// Native <audio> rather than a custom player: every browser and podcast app can
+// already scrub, change speed and remember a position, and a hand-rolled control
+// would be worse at all three while needing its own keyboard handling.
+//
+// The transcript stays collapsed. On a concept page the page's own prose is the
+// point, and a 3,000-word transcript pushed above it would bury the page for
+// anyone who came to read. `open` is not wired to anything, so the disclosure
+// keeps its state for the session the way the browser handles it.
+interface Props {
+  /** mp3 URL (a release asset). */
+  src: string;
+  /** What is playing, e.g. the episode title. */
+  title: string;
+  /** Seconds; printed as a runtime next to the label. */
+  duration?: number;
+  /** Small label above the title, e.g. "Podcast episode 2" or "Audio reading". */
+  eyebrow?: string;
+  /** Where the transcript lives on the site, when this is a pointer rather than a copy. */
+  transcriptHref?: string;
+  /** Rendered transcript HTML, shown in a disclosure. */
+  transcriptHtml?: string;
+  /** Plain-text transcript for the "read" disclosure aria label. */
+  transcriptLabel?: string;
+  /** Episode page on the site, linked under the player. */
+  pageHref?: string;
+  /** Label of that link. */
+  pageLabel?: string;
+  /** Extra sentence under the player. */
+  note?: string;
+}
+
+import { formatRuntime } from '../data/podcast';
+
+const {
+  src,
+  title,
+  duration,
+  eyebrow = 'Audio',
+  transcriptHref,
+  transcriptHtml,
+  transcriptLabel = 'Read the transcript',
+  pageHref,
+  pageLabel = 'Episode page, show notes and transcript',
+  note,
+} = Astro.props;
+
+const runtime = duration ? formatRuntime(duration) : '';
+---
+
+<div class="audio-card" data-audio-player>
+  <div class="audio-head">
+    <span class="audio-eyebrow">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="15"
+        height="15"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        aria-hidden="true"
+      >
+        <path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"></path>
+      </svg>
+      {eyebrow}{runtime ? ` · ${runtime}` : ''}
+    </span>
+    <span class="audio-title">{title}</span>
+  </div>
+
+  <audio controls preload="none" src={src} aria-label={title}>
+    <a href={src}>Download the audio</a>
+  </audio>
+
+  {note && <p class="audio-note" set:html={note} />}
+
+  {transcriptHref && (
+    <p class="audio-links">
+      <a href={transcriptHref}>{transcriptLabel}</a>
+    </p>
+  )}
+
+  {
+    transcriptHtml && (
+      <details class="audio-transcript">
+        <summary>{transcriptLabel}</summary>
+        <div class="audio-transcript-body" set:html={transcriptHtml} />
+      </details>
+    )
+  }
+
+  {
+    pageHref && (
+      <p class="audio-links">
+        <a href={pageHref}>{pageLabel} →</a>
+      </p>
+    )
+  }
+</div>
+
+<style>
+  .audio-card {
+    border: 1px solid var(--card-border-color);
+    border-radius: 10px;
+    padding: 0.85rem 1rem;
+    margin: 0 0 1.5rem;
+    background: var(--card-background-color);
+  }
+  .audio-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.55rem;
+  }
+  .audio-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: var(--primary);
+    font-size: 0.78rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .audio-title {
+    color: var(--muted-color);
+    font-size: 0.9rem;
+  }
+  audio {
+    width: 100%;
+    height: 34px;
+    display: block;
+  }
+  .audio-note,
+  .audio-links {
+    margin: 0.5rem 0 0;
+    font-size: 0.9rem;
+    color: var(--muted-color);
+  }
+  .audio-links a {
+    font-weight: 500;
+  }
+  .audio-transcript {
+    margin: 0.75rem 0 0;
+    padding-bottom: 0;
+    border-bottom: 0;
+    border-top: 1px solid var(--card-border-color);
+    padding-top: 0.6rem;
+  }
+  .audio-transcript summary {
+    font-weight: 600;
+    font-size: 0.92rem;
+    color: var(--primary);
+  }
+  .audio-transcript-body {
+    max-height: 32rem;
+    overflow-y: auto;
+    margin-top: 0.8rem;
+    padding-inline-end: 0.5rem;
+    font-size: 0.95rem;
+    line-height: 1.65;
+  }
+  .audio-transcript-body :global(p) {
+    margin: 0 0 0.85rem;
+  }
+  .audio-transcript-body :global(.turn) {
+    margin: 0 0 0.9rem;
+  }
+  .audio-transcript-body :global(.speaker) {
+    font-weight: 700;
+    color: var(--primary);
+  }
+</style>

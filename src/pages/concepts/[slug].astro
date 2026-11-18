@@ -9,6 +9,8 @@ import { CONCEPT_REDIRECTS } from '../../data/conceptRedirects';
 import { CONCEPT_ALIASES } from '../../data/conceptAliases';
 import StarButton from '../../components/StarButton.astro';
 import ConnectedList from '../../components/ConnectedList.astro';
+import AudioPlayer from '../../components/AudioPlayer.astro';
+import { audioAssetUrl } from '../../data/podcast';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
 
 export async function getStaticPaths() {
@@ -110,6 +112,24 @@ const allTitles: Record<string, string> = {};
 
 const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, resourceSlugs, titles: allTitles });
 const toc = rendered.headings.filter(h => h.depth <= 3);
+// Episodes that name this concept in their frontmatter. The player and the
+// transcript go above the page's own prose: a reader who wants to listen should not
+// have to scroll past the article, and one who wants to read keeps scrolling.
+const episodes = (await getCollection('audio'))
+  .filter(e => e.data.status !== 'draft' && e.data.concepts.includes(slug))
+  .sort((a, b) => b.data.episode - a.data.episode)
+  .map(e => ({
+    id: e.id.replace('.md', ''),
+    data: e.data,
+    html: renderMarkdown(e.body ?? '', {
+      pageTitle: e.data.title,
+      articleSlugs,
+      conceptSlugs,
+      faqSlugs,
+      resourceSlugs,
+      titles: allTitles,
+    }).html,
+  }));
 if (connectedFaqs.length > 0) {
   toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
 }
@@ -140,6 +160,17 @@ if (connectedResources.length > 0) {
         created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
       </div>
     </div>
+
+    {episodes.map((ep) => (
+      <AudioPlayer
+        src={audioAssetUrl(ep.data.audio_file)}
+        title={ep.data.title}
+        duration={ep.data.duration}
+        eyebrow={`AIEd Audio · Episode ${ep.data.episode}`}
+        transcriptHtml={ep.html}
+        pageHref={`/aied/audio/${ep.id}/`}
+      />
+    ))}
 
     <div style="line-height:1.8" data-pagefind-body>
       <Fragment set:html={rendered.html} />

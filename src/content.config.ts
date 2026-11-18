@@ -466,6 +466,41 @@ const newsletterTranslations = defineCollection({
   }),
 });
 
+// ==== Audio (2026-11-18) ====
+// One file per episode at <content>/en/audio/<slug>.md, rendered at
+// /aied/audio/<slug>/ and listed at /aied/audio/. The body is the transcript, so
+// the words and the audio ship as one page and the feed can carry the transcript
+// too. English-only, like the newsletters, and deliberately outside COLLECTIONS:
+// episodes are not knowledge-base pages, and the translation globs should never
+// expect a copy of one in another language.
+//
+// The mp3s live in the `audio-latest` GitHub release rather than the repository:
+// a 20-minute episode is about 15 MB, and every rebuild would otherwise carry every
+// episode. `audio_file` is the asset name inside that release.
+const audioDir = contentDir(DEFAULT_LOCALE_DIR, 'audio');
+
+const audio = defineCollection({
+  loader: glob({ pattern: '*.md', base: audioDir }),
+  schema: z.object({
+    title: z.string(),
+    created: timeField,
+    updated: timeField.optional().transform(v => v ?? ''),
+    episode: z.number(),
+    // One or two sentences for the /audio listing and the feed description.
+    summary: z.string(),
+    status: z.enum(['draft', 'ready', 'published']).catch('published'),
+    audio_file: z.string(),
+    duration: z.number(),
+    audio_bytes: z.number(),
+    // Concept slugs the episode is attached to. The concept page renders the
+    // player under its heading, so this is the link between page and audio.
+    concepts: z.array(z.string()).default([]),
+    // Everything spoken in the episode, for the feed and the episode page. The
+    // transcript body carries the formatting; this is the tagline above it.
+    speakers: z.array(z.string()).default([]),
+  }),
+});
+
 const TRANSLATED_COLLECTIONS = COLLECTIONS.filter((name) => name !== 'articles');
 
 const translations = defineCollection({
@@ -511,4 +546,4 @@ const translations = defineCollection({
   }),
 });
 
-export const collections = { articles, concepts, faqs, resources, newsletters, newsletterTranslations, translations };
+export const collections = { articles, concepts, faqs, resources, newsletters, newsletterTranslations, audio, translations };

@@ -5,6 +5,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ConceptMap from '../ConceptMap.astro';
 import KnowledgeBaseStats from '../KnowledgeBaseStats.astro';
 import TranslationNotice from '../TranslationNotice.astro';
+import FeedsBlock from '../FeedsBlock.astro';
 import { strings } from '../../i18n';
 import { localizeHtml } from '../../i18n/config';
 import { localizeArtifactLinks } from '../../lib/offlineArtifacts';
@@ -41,6 +42,8 @@ const L = (html: string) => localizeArtifactLinks(localizeHtml(html, locale), lo
   ))}
 
   <KnowledgeBaseStats heading={s.statsHeading} intro={s.statsIntro} locale={locale} />
+
+  <FeedsBlock locale={locale} />
 </BaseLayout>
 
 <style>

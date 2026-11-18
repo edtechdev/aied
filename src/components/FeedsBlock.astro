@@ -1,0 +1,90 @@
+---
+// The three RSS feeds, listed in one place: the knowledge-base feed (every new
+// page), the weekly update, and the podcast.
+//
+// The URLs are printed as well as linked. A feed URL is something a reader copies
+// into a podcast app or a feed reader, and "click this link" is the wrong affordance
+// for that; `code` makes it selectable without a context menu.
+import { feedStrings } from '../i18n/feeds';
+import { rssIcon } from '../lib/pageTypeIcons';
+import siteConfig from '../config/siteConfig';
+
+interface Props {
+  locale: string;
+}
+
+const { locale } = Astro.props;
+const s = feedStrings(locale);
+const base = siteConfig.basePath;
+const origin = 'https://edtechdev.github.io';
+
+const feeds = [
+  { key: 'articles', href: `${base}/rss.xml`, label: s.articles },
+  { key: 'newsletter', href: `${base}/news/rss.xml`, label: s.newsletter },
+  { key: 'podcast', href: `${base}/audio/rss.xml`, label: s.podcast },
+];
+---
+
+<section class="feeds-block" aria-labelledby="feeds-heading">
+  <h2 id="feeds-heading">{s.heading}</h2>
+  <ul>
+    {
+      feeds.map(feed => (
+        <li>
+          <a href={feed.href} class="feed-name">
+            <Fragment set:html={rssIcon(14)} />
+            <span>{feed.label}</span>
+          </a>
+          <code>{origin}{feed.href}</code>
+        </li>
+      ))
+    }
+  </ul>
+  <p class="feeds-note">{s.note}</p>
+</section>
+
+<style>
+  .feeds-block {
+    margin: 2rem 0 0;
+    padding: 1rem 1.1rem;
+    border: 1px solid var(--card-border-color);
+    border-radius: 10px;
+  }
+  .feeds-block h2 {
+    margin: 0 0 0.6rem;
+    font-size: 1.05rem;
+  }
+  .feeds-block ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.55rem;
+  }
+  .feeds-block li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.35rem 0.75rem;
+  }
+  .feed-name {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+  .feeds-block code {
+    font-size: 0.78rem;
+    word-break: break-all;
+    color: var(--muted-color);
+    background: none;
+    padding: 0;
+  }
+  .feeds-note {
+    margin: 0.7rem 0 0;
+    color: var(--muted-color);
+    font-size: 0.88rem;
+    line-height: 1.6;
+  }
+</style>

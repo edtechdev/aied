@@ -1,0 +1,147 @@
+---
+// /aied/audio/<slug>/ — one episode: player, show notes, full transcript.
+//
+// The transcript is the page body, so it is linkable by anchor (#transcript) and
+// searchable, and the concept pages that embed the episode point back here rather
+// than duplicating a 3,000-word text twice on the same site.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AudioPlayer from '../../components/AudioPlayer.astro';
+import SourceButtons from '../../components/SourceButtons.astro';
+import ConnectedList from '../../components/ConnectedList.astro';
+import { renderMarkdown } from '../../lib/markdown';
+import { audioAssetUrl, formatRuntime, PODCAST_COVER_PATH, PODCAST_TITLE } from '../../data/podcast';
+import siteConfig from '../../config/siteConfig';
+
+export async function getStaticPaths() {
+  const episodes = (await getCollection('audio')).filter(e => e.data.status !== 'draft');
+  return episodes.map(e => ({ params: { slug: e.id.replace('.md', '') } }));
+}
+
+const { slug } = Astro.params;
+const episodes = (await getCollection('audio'))
+  .filter(e => e.data.status !== 'draft')
+  .sort((a, b) => a.data.episode - b.data.episode);
+const index = episodes.findIndex(e => e.id.replace('.md', '') === slug);
+const episode = episodes[index];
+if (!episode) return Astro.redirect(`${siteConfig.basePath}/audio/`);
+
+const [concepts, articles, faqs] = await Promise.all([
+  getCollection('concepts'),
+  getCollection('articles'),
+  getCollection('faqs'),
+]);
+const titles: Record<string, string> = {};
+for (const list of [concepts, articles, faqs]) {
+  for (const p of list) titles[p.id.replace('.md', '')] = p.data.title;
+}
+const conceptSlugs = new Set(concepts.map(c => c.id.replace('.md', '')));
+const articleSlugs = new Set(articles.map(a => a.id.replace('.md', '')));
+const faqSlugs = new Set(faqs.map(f => f.id.replace('.md', '')));
+
+const rendered = renderMarkdown(episode.body ?? '', {
+  pageTitle: episode.data.title,
+  articleSlugs,
+  conceptSlugs,
+  faqSlugs,
+  resourceSlugs: new Set(),
+  titles,
+});
+const connected = episode.data.concepts
+  .filter(c => conceptSlugs.has(c))
+  .map(c => ({ href: `${siteConfig.basePath}/concepts/${c}/`, title: titles[c] ?? c, kind: 'concept' as const }));
+
+const base = siteConfig.basePath;
+const newer = episodes[index + 1];
+const older = episodes[index - 1];
+const date = episode.data.created.split('T')[0];
+const toc = [{ text: 'Transcript', slug: 'transcript', depth: 2 }];
+---
+
+<BaseLayout title={episode.data.title} description={episode.data.summary} toc={toc}>
+  <p class="episode-back">
+    <a href={`${base}/audio/`}>← {PODCAST_TITLE}</a>
+  </p>
+
+  <h1>{episode.data.title}</h1>
+  <p class="episode-meta">
+    Episode {episode.data.episode} · <time datetime={date}>{date}</time> · {formatRuntime(episode.data.duration)}
+    {episode.data.speakers.length > 0 && <> · {episode.data.speakers.join(' and ')}</>}
+  </p>
+
+  <p class="episode-summary">{episode.data.summary}</p>
+
+  <AudioPlayer
+    src={audioAssetUrl(episode.data.audio_file)}
+    title={episode.data.title}
+    duration={episode.data.duration}
+    eyebrow={`Episode ${episode.data.episode}`}
+  />
+
+  <div class="episode-body" data-pagefind-body>
+    <h2 id="transcript">Transcript</h2>
+    <p class="transcript-note">
+      Transcribed automatically from the audio and lightly edited for punctuation. Paragraph breaks follow
+      pauses, not turns, so the two voices are not labelled.
+    </p>
+    <div class="transcript" set:html={rendered.html} />
+  </div>
+
+  <ConnectedList id="connected-concepts" heading="Concepts in this episode" items={connected} />
+
+  <nav class="episode-nav" aria-label="Other episodes">
+    {older && (
+      <a href={`${base}/audio/${older.id.replace('.md', '')}/`}>
+        ← Episode {older.data.episode}: {older.data.title}
+      </a>
+    )}
+    {newer && (
+      <a href={`${base}/audio/${newer.id.replace('.md', '')}/`} class="next">
+        Episode {newer.data.episode}: {newer.data.title} →
+      </a>
+    )}
+  </nav>
+
+  <SourceButtons filePath={`content/en/audio/${episode.id}`} locale="en" />
+</BaseLayout>
+
+<style>
+  .episode-back {
+    margin: 0 0 0.4rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+  .episode-meta {
+    color: var(--muted-color);
+    font-size: 0.9rem;
+    margin: 0 0 0.75rem;
+  }
+  .episode-summary {
+    line-height: 1.7;
+    margin-bottom: 1.25rem;
+  }
+  .episode-body {
+    line-height: 1.75;
+  }
+  .transcript-note {
+    color: var(--muted-color);
+    font-size: 0.85rem;
+    margin-bottom: 1.1rem;
+  }
+  .transcript :global(p) {
+    margin: 0 0 0.95rem;
+  }
+  .episode-nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin: 2.5rem 0 0;
+    padding-top: 1rem;
+    border-top: 1px solid var(--card-border-color);
+    font-weight: 500;
+  }
+  .episode-nav .next {
+    margin-inline-start: auto;
+    text-align: right;
+  }
+</style>

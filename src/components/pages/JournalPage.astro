@@ -5,6 +5,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageTypeIcon from '../PageTypeIcon.astro';
+import FeedsBlock from '../FeedsBlock.astro';
 import { rssIcon } from '../../lib/pageTypeIcons';
 import TranslationNotice from '../TranslationNotice.astro';
 import { strings } from '../../i18n';
@@ -27,6 +28,7 @@ const COLLECTIONS: Record<string, string> = {
   faq: 'faqs',
   resource: 'resources',
   newsletter: 'newsletters',
+  audio: 'audio',
 };
 
 const articles = await getCollection('articles');
@@ -35,6 +37,9 @@ const faqs = await getCollection('faqs');
 const resources = await getCollection('resources');
 // Newsletter issues are English-only and have one URL for every locale.
 const newsletters = (await getCollection('newsletters')).filter(n => n.data.status !== 'draft');
+// Podcast episodes are pages too: they enter the journal on the day they are added,
+// with the same title in every locale, like the newsletter issues.
+const episodes = (await getCollection('audio')).filter(e => e.data.status !== 'draft');
 
 const allItems = [
   ...articles.map(a => ({ ...a, kind: 'article' as const })),
@@ -42,6 +47,7 @@ const allItems = [
   ...faqs.map(f => ({ ...f, kind: 'faq' as const })),
   ...resources.map(r => ({ ...r, kind: 'resource' as const })),
   ...newsletters.map(n => ({ ...n, kind: 'newsletter' as const })),
+  ...episodes.map(e => ({ ...e, kind: 'audio' as const })),
 ];
 
 const byDate: Record<string, typeof allItems> = {};
@@ -64,6 +70,8 @@ Object.values(byDate).forEach(list => {
 const dates = Object.keys(byDate).sort((a, b) => b.localeCompare(a));
 
 const ICONS: Record<string, string> = {
+  audio:
+    '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"></path></svg>',
   article: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M16 13H8"></path><path d="M16 17H8"></path><path d="M10 9H8"></path></svg>',
   faq: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>',
   resource: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M2 9a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"></path><path d="M8 8V6.5A2.5 2.5 0 0 1 10.5 4h3A2.5 2.5 0 0 1 16 6.5V8"></path><line x1="7" y1="12.5" x2="7" y2="14.5"></line><line x1="12" y1="12.5" x2="12" y2="14.5"></line><line x1="17" y1="12.5" x2="17" y2="14.5"></line></svg>',
@@ -74,6 +82,7 @@ const ICONS: Record<string, string> = {
 
 const BASES: Record<string, string> = {
   newsletter: '/aied/news',
+  audio: '/aied/audio',
   article: '/aied/articles',
   faq: '/aied/faqs',
   resource: '/aied/resources',
@@ -115,6 +124,8 @@ const intro = s.introTemplate
   <h1><PageTypeIcon kind="article" size={32} />{s.h1}</h1>
   <p class="journal-intro" set:html={intro} />
 
+  <FeedsBlock locale={locale} />
+
   {dates.map(date => (
     <details class="journal-day" open={date === dates[0]}>
       <summary>
@@ -125,11 +136,11 @@ const intro = s.introTemplate
         // A newsletter issue exists once, in English, so it keeps its own URL for
         // every locale and shows the newsletter name plus the issue number.
         const href =
-          item.kind === 'newsletter'
-            ? `${BASES.newsletter}/${slug}/`
+          item.kind === 'newsletter' || item.kind === 'audio'
+            ? `${BASES[item.kind]}/${slug}/`
             : localizeHref(`${BASES[item.kind]}/${slug}/`, locale);
         const title =
-          item.kind === 'newsletter'
+          item.kind === 'newsletter' || item.kind === 'audio'
             ? item.data.title
             : localizedTitle(localized, COLLECTIONS[item.kind], slug, item.data.title);
         return (

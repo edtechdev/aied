@@ -1,0 +1,221 @@
+---
+// /aied/audio/ — the podcast home: cover, how to subscribe, and every episode.
+//
+// English-only, like the newsletters: the episodes are spoken English and there is
+// no translated copy of them. A listener who lands here from a translated page
+// still gets the whole show.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AudioPlayer from '../components/AudioPlayer.astro';
+import { rssIcon } from '../lib/pageTypeIcons';
+import {
+  PODCAST_COVER_PATH,
+  PODCAST_DESCRIPTION,
+  PODCAST_SUBTITLE,
+  PODCAST_TITLE,
+  NEWSLETTER_AUDIO,
+  audioAssetUrl,
+  formatRuntime,
+  newsletterAudioUrl,
+} from '../data/podcast';
+import siteConfig from '../config/siteConfig';
+
+const episodes = (await getCollection('audio'))
+  .filter(e => e.data.status !== 'draft')
+  .sort((a, b) => b.data.episode - a.data.episode);
+
+// The readings share the feed, so they are listed here too: a subscriber who opens
+// the show's page should see the same two kinds of item the feed carries.
+const issues = (await getCollection('newsletters'))
+  .filter(n => n.data.status !== 'draft')
+  .sort((a, b) => b.data.created.localeCompare(a.data.created))
+  .flatMap(n => {
+    const slug = n.id.replace('.md', '');
+    const audio = NEWSLETTER_AUDIO[slug];
+    return audio ? [{ slug, issue: n.data, audio }] : [];
+  });
+
+const base = siteConfig.basePath;
+const feedUrl = `${base}/audio/rss.xml`;
+const absoluteFeed = `https://edtechdev.github.io/aied/audio/rss.xml`;
+const published = episodes.reduce((sum, e) => sum + e.data.duration, 0);
+
+const concepts = await getCollection('concepts');
+const conceptTitles: Record<string, string> = Object.fromEntries(
+  concepts.map(c => [c.id.replace('.md', ''), c.data.title]),
+);
+---
+
+<BaseLayout title={PODCAST_TITLE} description={PODCAST_DESCRIPTION} toc={[
+  { text: 'Episodes', slug: 'episodes', depth: 2 },
+  { text: 'Weekly update readings', slug: 'readings', depth: 2 },
+  { text: 'Subscribe', slug: 'subscribe', depth: 2 },
+]}>
+  <h1>{PODCAST_TITLE}</h1>
+  <p class="audio-intro"><strong>{PODCAST_SUBTITLE}.</strong> {PODCAST_DESCRIPTION}</p>
+
+  <div class="show-card">
+    <img src={PODCAST_COVER_PATH} alt={`${PODCAST_TITLE} cover art`} width="132" height="132" loading="lazy" />
+    <div class="show-card-body">
+      <p class="show-meta">
+        {episodes.length} {episodes.length === 1 ? 'episode' : 'episodes'} · {formatRuntime(published)} in total
+      </p>
+      <p class="show-links">
+        <a href={feedUrl}><Fragment set:html={rssIcon(14)} /><span>Podcast RSS feed</span></a>
+      </p>
+      <p class="show-copy"><code>{absoluteFeed}</code></p>
+      <p class="show-note">
+        Paste that address into any podcast app. Every episode also appears, with its transcript, on the
+        concept page it discusses.
+      </p>
+    </div>
+  </div>
+
+  <h2 id="episodes">Episodes</h2>
+  {
+    episodes.map(ep => {
+      const slug = ep.id.replace('.md', '');
+      return (
+        <section class="episode" id={slug}>
+          <h3>
+            <a href={`${base}/audio/${slug}/`}>{ep.data.title}</a>
+          </h3>
+          <p class="episode-meta">
+            Episode {ep.data.episode} · <time datetime={ep.data.created.split('T')[0]}>{ep.data.created.split('T')[0]}</time>
+            {' · '}
+            {ep.data.concepts.map((c, i) => (
+              <>
+                {i > 0 && ', '}
+                <a href={`${base}/concepts/${c}/`}>{conceptTitles[c] ?? c}</a>
+              </>
+            ))}
+          </p>
+          <AudioPlayer
+            src={audioAssetUrl(ep.data.audio_file)}
+            title={ep.data.title}
+            duration={ep.data.duration}
+            eyebrow={`Episode ${ep.data.episode}`}
+            transcriptHref={`${base}/audio/${slug}/#transcript`}
+            transcriptLabel="Read the transcript"
+          />
+          <p class="episode-summary">{ep.data.summary}</p>
+        </section>
+      );
+    })
+  }
+
+  <h2 id="readings">Weekly update readings</h2>
+  <p class="audio-intro">
+    Every issue of the <a href={`${base}/news/`}>AIEd Research Weekly Update</a> is read aloud: the
+    brief, without its table of contents or the list of everything added. The reading sits at the top of
+    the issue it belongs to.
+  </p>
+  {
+    issues.map(({ slug, issue, audio }) => (
+      <div class="reading">
+        <div class="reading-head">
+          <a href={`${base}/news/${slug}/`}>{issue.title}</a>
+          <span class="reading-meta">
+            {formatRuntime(audio.duration)} · <time datetime={issue.created.split('T')[0]}>{issue.created.split('T')[0]}</time>
+          </span>
+        </div>
+        <audio controls preload="none" src={newsletterAudioUrl(audio.file)} aria-label={`${issue.title}, audio reading`} />
+      </div>
+    ))
+  }
+
+  <h2 id="subscribe">Subscribe</h2>
+  <p>
+    The feed is <a href={feedUrl}>{feedUrl}</a> — add it to Apple Podcasts, Overcast, Pocket Casts or any
+    other app that accepts a feed URL. The weekly update is also published as an audio reading, linked at
+    the top of <a href={`${base}/news/`}>each issue</a>; those readings are in the same feed, so a
+    subscriber gets the week's discussion and the week's brief.
+  </p>
+</BaseLayout>
+
+<style>
+  .audio-intro {
+    color: var(--muted-color);
+    line-height: 1.7;
+    margin-bottom: 1.25rem;
+  }
+  .show-card {
+    display: flex;
+    gap: 1.1rem;
+    align-items: flex-start;
+    border: 1px solid var(--card-border-color);
+    border-radius: 12px;
+    padding: 1rem;
+    margin-bottom: 2rem;
+  }
+  .show-card img {
+    border-radius: 8px;
+    flex: 0 0 auto;
+    display: block;
+  }
+  .show-card-body p {
+    margin: 0 0 0.45rem;
+  }
+  .show-meta {
+    font-weight: 600;
+  }
+  .show-links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-weight: 600;
+  }
+  .show-copy code {
+    font-size: 0.82rem;
+    word-break: break-all;
+  }
+  .show-note {
+    color: var(--muted-color);
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+  .episode {
+    margin-bottom: 2.25rem;
+  }
+  .episode h3 {
+    margin: 0 0 0.2rem;
+    font-size: 1.12rem;
+  }
+  .episode-meta {
+    color: var(--muted-color);
+    font-size: 0.85rem;
+    margin: 0 0 0.7rem;
+  }
+  .episode-summary {
+    color: var(--muted-color);
+    line-height: 1.65;
+    margin: 0;
+  }
+  .reading {
+    border-top: 1px solid var(--card-border-color);
+    padding: 0.7rem 0 0.9rem;
+  }
+  .reading-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 0.75rem;
+    margin-bottom: 0.4rem;
+  }
+  .reading-head a {
+    font-weight: 600;
+  }
+  .reading-meta {
+    color: var(--muted-color);
+    font-size: 0.85rem;
+  }
+  .reading audio {
+    width: 100%;
+    height: 32px;
+  }
+  @media (max-width: 560px) {
+    .show-card {
+      flex-direction: column;
+    }
+  }
+</style>
