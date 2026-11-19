@@ -41,7 +41,12 @@
       "Roles and audiences": "Roles y públicos",
       "Institutions": "Instituciones",
       "Equity and access": "Equidad y acceso",
-      "Ethics and responsibility": "Ética y responsabilidad"
+      "Ethics and responsibility": "Ética y responsabilidad",
+      "Humanities and arts": "Humanidades y artes",
+      "Overview": "Visión general",
+      "Professions": "Profesiones",
+      "STEM": "STEM",
+      "Social sciences": "Ciencias sociales"
     },
     "offlineTitle": "Base de conocimiento sobre IA en la educación",
     "offlineNotice": {
@@ -110,7 +115,12 @@
       "Institutions": "Institutions",
       "Equity, ethics, and responsible use": "Équité, éthique et usage responsable",
       "Equity and access": "Équité et accès",
-      "Ethics and responsibility": "Éthique et responsabilité"
+      "Ethics and responsibility": "Éthique et responsabilité",
+      "Humanities and arts": "Sciences humaines et arts",
+      "Overview": "Vue d'ensemble",
+      "Professions": "Professions",
+      "STEM": "STIM",
+      "Social sciences": "Sciences sociales"
     },
     "offlineTitle": "Base de connaissances sur l'IA dans l'éducation",
     "offlineNotice": {
@@ -179,7 +189,12 @@
       "Institutions": "机构",
       "Equity, ethics, and responsible use": "公平、伦理与负责任使用",
       "Equity and access": "公平与可及",
-      "Ethics and responsibility": "伦理与责任"
+      "Ethics and responsibility": "伦理与责任",
+      "Humanities and arts": "人文与艺术",
+      "Overview": "概述",
+      "Professions": "专业领域",
+      "STEM": "STEM",
+      "Social sciences": "社会科学"
     },
     "offlineTitle": "教育中的人工智能知识库",
     "offlineNotice": {
@@ -197,7 +212,8 @@
       "contains": "本文档包含概念页与常见问题页，但不包含{name}网站（<a href=\"{url}/\">{url}/</a>）上提供的数百篇文章摘要。",
       "sourceCode": "本网站及这些文档的源码可在<a href=\"{repo}\">GitHub 仓库</a>中获取。",
       "foundIssue": "发现内容有问题？请在<a href=\"{issues}\">GitHub 上报告</a>，或联系站点开发者<a href=\"{editorUrl}\">{editor}</a>。",
-      "latestEdition": "{name}的最新版本可在线获取，地址为{url}/。"
+      "latestEdition": "{name}的最新版本可在线获取，地址为{url}/。",
+      "coverAlt": "开放资源“教育中的人工智能知识库”的封面：极简白色背景，顶部与底部饰有亮蓝色横条；标题采用大号深色衬线字体；一幅辐射状概念图展示该资源的覆盖范围，中心节点“教育中的人工智能”与周围十二个子主题节点（评价、AI素养、研究、评估、学科、建模、教学法、学习、伦理、公平、技术、反馈）相连；底部为公有领域（CC0）标记。"
     },
     "offlineResourceLabels": {
       "open": "打开它",
@@ -207,7 +223,8 @@
       "access": "获取方式",
       "license": "许可",
       "linkChecked": "链接核验于"
-    }
+    },
+    "llmsTruncated": "为保持在聊天产品与摄入工具所强制执行的 500,000 词上限之内，本文件收录 {total} 个概念页中的前 {included} 个；其余页面发布在网站上。"
   },
   "de": {
     "style": "Standard German (de-DE), formal Sie",
@@ -265,7 +282,12 @@
       "Institutions and policy": "Institutionen und Politik",
       "Equity and access": "Gerechtigkeit und Zugang",
       "Equity, ethics, and responsible use": "Gerechtigkeit, Ethik und verantwortungsvoller Einsatz",
-      "Ethics and responsibility": "Ethik und Verantwortung"
+      "Ethics and responsibility": "Ethik und Verantwortung",
+      "Humanities and arts": "Geisteswissenschaften und Künste",
+      "Overview": "Überblick",
+      "Professions": "Professionen",
+      "STEM": "MINT",
+      "Social sciences": "Sozialwissenschaften"
     },
     "offlineResourceLabels": {
       "open": "Öffnen",
@@ -275,7 +297,8 @@
       "access": "Zugang",
       "license": "Lizenz",
       "linkChecked": "Link geprüft"
-    }
+    },
+    "llmsTruncated": "Diese Datei enthält die ersten {included} von {total} Konzeptseiten, damit sie unter der Grenze von 500.000 Wörtern bleibt, die Chat-Produkte und Datenimporteure durchsetzen; die übrigen Seiten sind auf der Website veröffentlicht."
   },
   "ja": {
     "style": "Japanese, polite です・ます form",
@@ -324,7 +347,12 @@
       "Roles and audiences": "役割と対象読者",
       "Institutions": "制度",
       "Equity and access": "公平性とアクセス",
-      "Ethics and responsibility": "倫理と責任"
+      "Ethics and responsibility": "倫理と責任",
+      "Humanities and arts": "人文学と芸術",
+      "Overview": "概要",
+      "Professions": "専門職",
+      "STEM": "STEM",
+      "Social sciences": "社会科学"
     },
     "offlineNotice": {
       "publicDomain": "パブリックドメイン",
@@ -341,8 +369,10 @@
       "contains": "この文書には概念ページとよくある質問のページが含まれていますが、{name}サイト（<a href=\"{url}/\">{url}/</a>）で提供されている数百の論文の要約は含まれていません。",
       "sourceCode": "本サイトおよびこれらの文書のソースコードは、<a href=\"{repo}\">GitHubリポジトリ</a>で入手できます。",
       "foundIssue": "内容に問題を見つけましたか？<a href=\"{issues}\">GitHubで報告</a>するか、サイト開発者の<a href=\"{editorUrl}\">{editor}</a>にご連絡ください。",
-      "latestEdition": "{name}の最新版は {url}/ でオンライン公開されています。"
-    }
+      "latestEdition": "{name}の最新版は {url}/ でオンライン公開されています。",
+      "coverAlt": "オープンリソース「教育におけるAIナレッジベース」の表紙：ミニマルな白い背景の上下に鮮やかな青のバー；タイトルは大きく濃い色のセリフ体；リソースの範囲を示す放射状の概念マップで、中央のノード「教育におけるAI」が周囲の12のサブトピックノード（検証、AIリテラシー、研究、評価、専門分野、モデリング、教授法、学習、倫理、公平性、技術、フィードバック）とつながっている；下部にパブリックドメイン（CC0）のマーク。"
+    },
+    "llmsTruncated": "このファイルは、チャット製品や取り込みツールが課す500,000語の上限を超えないよう、{total}件の概念ページのうちの最初の{included}件を収録しています。残りのページはサイトで公開されています。"
   },
   "ko": {
     "style": "Korean, polite -습니다체",
@@ -378,6 +408,11 @@
       "Learning and instruction": "학습과 교수",
       "Technologies and techniques": "기술과 기법",
       "AI in the disciplines": "학문 분야에서의 AI",
+      "Overview": "개요",
+      "Humanities and arts": "인문학과 예술",
+      "Social sciences": "사회과학",
+      "STEM": "STEM",
+      "Professions": "전문직",
       "Levels and contexts": "수준과 맥락",
       "Assessment and measurement": "평가와 측정",
       "Research methods and evaluation": "연구 방법과 평가",
@@ -410,7 +445,8 @@
     },
     "offlineTitle": "교육에서의 인공지능 지식베이스",
     "offlineDescription": "이 문서는 영어 지식베이스의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다. 개념 페이지와 자주 묻는 질문 페이지가 포함되어 있으며, 문서(논문 요약) 페이지는 영어로 되어 있습니다.",
-    "llmsNotice": "아래의 각 페이지는 사이트 내 해당 주소로 연결되어 있으므로, 탐색이 가능한 도우미는 링크를 따라가는 편이 낫습니다. 탐색이 불가능한 도우미도 이 텍스트만으로 답할 수 있도록 본문을 함께 수록했습니다. 이 종합의 근거가 되는 개별 연구 논문은 각 페이지에 링크되어 있으며 여기에는 재수록하지 않았습니다."
+    "llmsNotice": "아래의 각 페이지는 사이트 내 해당 주소로 연결되어 있으므로, 탐색이 가능한 도우미는 링크를 따라가는 편이 낫습니다. 탐색이 불가능한 도우미도 이 텍스트만으로 답할 수 있도록 본문을 함께 수록했습니다. 이 종합의 근거가 되는 개별 연구 논문은 각 페이지에 링크되어 있으며 여기에는 재수록하지 않았습니다.",
+    "llmsTruncated": "이 파일은 채팅 제품과 수집 도구가 적용하는 500,000단어 제한을 넘지 않도록 {total}개의 개념 페이지 중 처음 {included}개를 수록합니다; 나머지 페이지는 사이트에 게시되어 있습니다."
   },
   "pt": {
     "style": "Brazilian Portuguese, informal você",
@@ -450,7 +486,12 @@
       "Roles and audiences": "Papéis e públicos",
       "Institutions": "Instituições",
       "Equity and access": "Equidade e acesso",
-      "Ethics and responsibility": "Ética e responsabilidade"
+      "Ethics and responsibility": "Ética e responsabilidade",
+      "Humanities and arts": "Humanidades e artes",
+      "Overview": "Visão geral",
+      "Professions": "Profissões",
+      "STEM": "STEM",
+      "Social sciences": "Ciências sociais"
     },
     "offlineNotice": {
       "publicDomain": "Domínio público",
@@ -543,11 +584,17 @@
       "Roles and audiences": "الأدوار والفئات المستهدفة",
       "Institutions": "المؤسسات",
       "Equity and access": "الإنصاف والوصول",
-      "Ethics and responsibility": "الأخلاق والمسؤولية"
+      "Ethics and responsibility": "الأخلاق والمسؤولية",
+      "Humanities and arts": "العلوم الإنسانية والفنون",
+      "Overview": "نظرة عامة",
+      "Professions": "المهن",
+      "STEM": "STEM",
+      "Social sciences": "العلوم الاجتماعية"
     },
     "offlineTitle": "قاعدة المعارف للذكاء الاصطناعي في التعليم",
     "offlineDescription": "هذه ترجمة آلية لقاعدة المعارف الإنجليزية لم يراجعها بعد ناطق أصلي. وتتضمن صفحات المفاهيم وصفحات الأسئلة الشائعة؛ أما صفحات المقالات فتبقى باللغة الإنجليزية.",
-    "llmsNotice": "كل صفحة أدناه مرتبطة بعنوانها على الموقع، فقد يفضّل المساعد القادر على التصفح اتباع الرابط؛ وقد أُدرج النص أيضًا حتى يستطيع المساعد غير القادر على التصفح الإجابة منه. أما المقالات البحثية الفردية التي تستند إليها هذه المراجعات، فهي مرتبطة من كل صفحة ولا تُنسخ هنا."
+    "llmsNotice": "كل صفحة أدناه مرتبطة بعنوانها على الموقع، فقد يفضّل المساعد القادر على التصفح اتباع الرابط؛ وقد أُدرج النص أيضًا حتى يستطيع المساعد غير القادر على التصفح الإجابة منه. أما المقالات البحثية الفردية التي تستند إليها هذه المراجعات، فهي مرتبطة من كل صفحة ولا تُنسخ هنا.",
+    "llmsTruncated": "يتضمن هذا الملف أول {included} صفحة من صفحات المفاهيم البالغ عددها {total}، حتى يبقى دون حدّ 500,000 كلمة الذي تفرضه منتجات الدردشة وأدوات الاستيعاب؛ أما الصفحات المتبقية فمنشورة على الموقع."
   },
   "he": {
     "style": "Modern Hebrew; on first use keep a technical term in Latin script in parentheses",
@@ -611,11 +658,17 @@
       "Roles and audiences": "תפקידים וקהלים",
       "Institutions": "מוסדות",
       "Equity and access": "שוויון וגישה",
-      "Ethics and responsibility": "אתיקה ואחריות"
+      "Ethics and responsibility": "אתיקה ואחריות",
+      "Humanities and arts": "מדעי הרוח והאמנויות",
+      "Overview": "סקירה",
+      "Professions": "מקצועות",
+      "STEM": "STEM",
+      "Social sciences": "מדעי החברה"
     },
     "offlineTitle": "מאגר הידע לבינה מלאכותית בחינוך",
     "offlineDescription": "זוהי תרגום מכונה של מאגר הידע האנגלי, שלא נבדק עדיין על ידי דובר/ת שפת אם. הוא כולל את עמודי המושגים ואת עמודי השאלות הנפוצות; עמודי המאמרים נותרים באנגלית.",
-    "llmsNotice": "כל עמוד להלן מקושר לכתובתו באתר, ועל כן עוזר שיודע לגלוש ביניהם עשוי להעדיף לעקוב אחר הקישור; הטקסט נכלל כדי שעוזר שאינו יודע לנווט יוכל לענות גם ממנו. מאמרי המחקר הבודדים שעליהם מבוססות הסינתוזים האלה מקושרים מכל עמוד ואינם מועתקים כאן."
+    "llmsNotice": "כל עמוד להלן מקושר לכתובתו באתר, ועל כן עוזר שיודע לגלוש ביניהם עשוי להעדיף לעקוב אחר הקישור; הטקסט נכלל כדי שעוזר שאינו יודע לנווט יוכל לענות גם ממנו. מאמרי המחקר הבודדים שעליהם מבוססות הסינתוזים האלה מקושרים מכל עמוד ואינם מועתקים כאן.",
+    "llmsTruncated": "קובץ זה כולל את {included} עמודי המושגים הראשונים מתוך {total}, כדי להישאר מתחת למגבלת 500,000 המילים שמחילים מוצרי צ'אט וכלי קליטה; שאר העמודים מפורסמים באתר."
   },
   "hi": {
     "style": "Standard Hindi (Devanagari); keep Latin acronyms AI and AIEd as-is",
@@ -634,7 +687,8 @@
       "contains": "इस दस्तावेज़ में अवधारणा पृष्ठ और सामान्य प्रश्न पृष्ठ शामिल हैं, लेकिन {name} साइट (<a href=\"{url}/\">{url}/</a>) पर उपलब्ध सैकड़ों लेख-सारांश शामिल नहीं हैं।",
       "sourceCode": "इस वेबसाइट और इन दस्तावेज़ों का स्रोत कोड <a href=\"{repo}\">GitHub रिपॉज़िटरी</a> में उपलब्ध है।",
       "foundIssue": "सामग्री में कोई समस्या मिली? <a href=\"{issues}\">GitHub पर रिपोर्ट करें</a> या साइट डेवलपर <a href=\"{editorUrl}\">{editor}</a> से संपर्क करें।",
-      "latestEdition": "{name} का नवीनतम संस्करण {url}/ पर ऑनलाइन उपलब्ध है।"
+      "latestEdition": "{name} का नवीनतम संस्करण {url}/ पर ऑनलाइन उपलब्ध है।",
+      "coverAlt": "खुले संसाधन «शिक्षा में AI का ज्ञानकोश» का आवरण: ऊपर और नीचे चमकीली नीली पट्टियों वाली सादी सफ़ेद पृष्ठभूमि; बड़े, गहरे रंग के सेरिफ़ फ़ॉन्ट में शीर्षक; संसाधन का दायरा दिखाता एक त्रिज्यीय अवधारणा मानचित्र, जिसमें केंद्रीय नोड «शिक्षा में AI» चारों ओर स्थित बारह उप-विषय नोड से जुड़ा है (AI शिक्षा मूल्यांकन, AI साक्षरता, शोध, मूल्यांकन, विषय, मॉडलिंग, शिक्षाशास्त्र, अधिगम, नैतिकता, समानता, प्रौद्योगिकियाँ, प्रतिपुष्टि); नीचे सार्वजनिक डोमेन (CC0) चिह्न।"
     },
     "offlineTitle": "शिक्षा में AI का ज्ञानकोश",
     "offlineDescription": "यह अंग्रेज़ी ज्ञानकोश का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है। इसमें अवधारणा और सामान्य प्रश्न पृष्ठ शामिल हैं। लेख पृष्ठ अंग्रेज़ी में ही हैं।",
@@ -681,7 +735,12 @@
       "Roles and audiences": "भूमिकाएँ और पाठक",
       "Institutions": "संस्थाएँ",
       "Equity and access": "समानता और पहुँच",
-      "Ethics and responsibility": "नैतिकता और जिम्मेदारी"
+      "Ethics and responsibility": "नैतिकता और जिम्मेदारी",
+      "Humanities and arts": "मानविकी और कला",
+      "Overview": "सिंहावलोकन",
+      "Professions": "पेशे",
+      "STEM": "STEM",
+      "Social sciences": "सामाजिक विज्ञान"
     },
     "llmsTruncated": "यह फ़ाइल चैट उत्पादों और इनजेस्टर द्वारा लागू 500,000-शब्द सीमा के भीतर रहने के लिए {total} में से पहले {included} कॉन्सेप्ट पृष्ठ शामिल करती है; शेष पृष्ठ साइट पर प्रकाशित हैं।"
   },
@@ -747,11 +806,17 @@
       "Roles and audiences": "Роли и аудитории",
       "Institutions": "Учреждения",
       "Equity and access": "Равенство и доступ",
-      "Ethics and responsibility": "Этика и ответственность"
+      "Ethics and responsibility": "Этика и ответственность",
+      "Humanities and arts": "Гуманитарные науки и искусства",
+      "Overview": "Обзор",
+      "Professions": "Профессии",
+      "STEM": "STEM",
+      "Social sciences": "Социальные науки"
     },
     "offlineTitle": "База знаний об ИИ в образовании",
     "offlineDescription": "Это машинный перевод английской базы знаний, ещё не вычитанный носителем языка. Включены страницы понятий и страницы часто задаваемых вопросов; страницы статей остаются на английском языке.",
-    "llmsNotice": "Каждая страница ниже связана со своим адресом на сайте, поэтому ассистент, умеющий просматривать веб-страницы, может предпочесть перейти по ссылке; текст включён, чтобы ассистент, не умеющий просматривать страницы, тоже мог отвечать на его основе. Отдельные научные статьи, лежащие в основе этих обобщений, связаны с каждой страницы и здесь не воспроизводятся."
+    "llmsNotice": "Каждая страница ниже связана со своим адресом на сайте, поэтому ассистент, умеющий просматривать веб-страницы, может предпочесть перейти по ссылке; текст включён, чтобы ассистент, не умеющий просматривать страницы, тоже мог отвечать на его основе. Отдельные научные статьи, лежащие в основе этих обобщений, связаны с каждой страницы и здесь не воспроизводятся.",
+    "llmsTruncated": "Этот файл включает первые {included} из {total} страниц понятий, чтобы не превышать лимит в 500 000 слов, который устанавливают чат-продукты и ингестеры; остальные страницы опубликованы на сайте."
   },
   "uk": {
     "style": "Стандартна українська мова; латинські аббревіатури AI та AIEd зберігаються без перекладу",
@@ -788,7 +853,12 @@
       "Roles and audiences": "Ролі та аудиторії",
       "Institutions": "Установи",
       "Equity and access": "Рівність і доступ",
-      "Ethics and responsibility": "Етика та відповідальність"
+      "Ethics and responsibility": "Етика та відповідальність",
+      "Humanities and arts": "Гуманітарні науки та мистецтво",
+      "Overview": "Огляд",
+      "Professions": "Професії",
+      "STEM": "STEM",
+      "Social sciences": "Соціальні науки"
     },
     "offlineTitle": "База знань про ШІ в освіті",
     "offlineDescription": "Це машинний переклад англійської бази знань, який ще не вичитаний носієм мови. Він містить сторінки понять і сторінки поширених питань; сторінки статей залишаються англійською.",
@@ -819,7 +889,8 @@
       "license": "Ліцензія",
       "linkChecked": "Посилання перевірено"
     },
-    "llmsNotice": "Кожна сторінка нижче пов’язана зі своєю адресою на вебсайті, тому помічник, який уміє переглядати вебсторінки, може віддати перевагу переходу за посиланням; текст включено, щоб помічник, який не уміє переглядати сторінки, теж міг відповідати на його основі. Окремі наукові статті, на яких ґрунтуються ці узагальнення, пов’язані з кожної сторінки й тут не відтворюються."
+    "llmsNotice": "Кожна сторінка нижче пов’язана зі своєю адресою на вебсайті, тому помічник, який уміє переглядати вебсторінки, може віддати перевагу переходу за посиланням; текст включено, щоб помічник, який не уміє переглядати сторінки, теж міг відповідати на його основі. Окремі наукові статті, на яких ґрунтуються ці узагальнення, пов’язані з кожної сторінки й тут не відтворюються.",
+    "llmsTruncated": "Цей файл містить перші {included} із {total} сторінок понять, щоб не перевищувати ліміт у 500 000 слів, який установлюють чат-продукти та інгестери; решта сторінок опублікована на сайті."
   },
   "it": {
     "style": "Standard Italian; keep the AI and AIEd acronyms untranslated",
@@ -856,7 +927,12 @@
       "Roles and audiences": "Ruoli e pubblici",
       "Institutions": "Istituzioni",
       "Equity and access": "Equità e accesso",
-      "Ethics and responsibility": "Etica e responsabilità"
+      "Ethics and responsibility": "Etica e responsabilità",
+      "Humanities and arts": "Discipline umanistiche e arti",
+      "Overview": "Panoramica",
+      "Professions": "Professioni",
+      "STEM": "STEM",
+      "Social sciences": "Scienze sociali"
     },
     "offlineTitle": "Base di conoscenze sull’IA nell’educazione",
     "offlineDescription": "Questa è una traduzione automatica della base di conoscenze inglese, non ancora revisionata da un madrelingua. Include le pagine concetto e le pagine delle domande frequenti; le pagine articolo restano in inglese.",
@@ -925,7 +1001,12 @@
       "Roles and audiences": "ভূমিকা ও পাঠক",
       "Institutions": "প্রতিষ্ঠান",
       "Equity and access": "ন্যায়বিচার ও প্রবেশাধিকার",
-      "Ethics and responsibility": "নীতিশাস্ত্র ও দায়িত্বশীলতা"
+      "Ethics and responsibility": "নীতিশাস্ত্র ও দায়িত্বশীলতা",
+      "Humanities and arts": "মানবিক ও শিল্প",
+      "Overview": "সংক্ষিপ্ত পরিচিতি",
+      "Professions": "পেশা",
+      "STEM": "STEM",
+      "Social sciences": "সামাজিক বিজ্ঞান"
     },
     "offlineTitle": "শিক্ষায় কৃত্রিম বুদ্ধিমত্তা নলেজ বেস",
     "offlineDescription": "এটি ইংরেজি নলেজ বেসের একটি মেশিন অনুবাদ, যা কোনো নেটিভ স্পিকার দ্বারা এখনও যাচাই করা হয়নি। এতে ধারণা পৃষ্ঠা ও প্রশ্নোত্তর পৃষ্ঠা রয়েছে; নিবন্ধ পৃষ্ঠা ইংরেজিতেই থাকে।",
@@ -956,7 +1037,8 @@
       "license": "লাইসেন্স",
       "linkChecked": "লিঙ্ক যাচাই করা হয়েছে"
     },
-    "llmsNotice": "নিচের প্রতিটি পৃষ্ঠা সাইটে তার নিজের ঠিকানার সঙ্গে যুক্ত, তাই যে সহকারী নেভিগেট করতে পারে সে লিঙ্ক অনুসরণ করতেই পারে; যে সহকারী নেভিগেট করতে পারে না সে তা থেকেই উত্তর দিতে পারে বলেই টেক্সটও দেওয়া আছে। এই সারসংক্ষেপগুলোর ভিত্তি হওয়া পৃথক গবেষণাপত্র প্রতিটি পৃষ্ঠা থেকে লিঙ্ক করা এবং এখানে পুনরুক্তি করা হয়নি।"
+    "llmsNotice": "নিচের প্রতিটি পৃষ্ঠা সাইটে তার নিজের ঠিকানার সঙ্গে যুক্ত, তাই যে সহকারী নেভিগেট করতে পারে সে লিঙ্ক অনুসরণ করতেই পারে; যে সহকারী নেভিগেট করতে পারে না সে তা থেকেই উত্তর দিতে পারে বলেই টেক্সটও দেওয়া আছে। এই সারসংক্ষেপগুলোর ভিত্তি হওয়া পৃথক গবেষণাপত্র প্রতিটি পৃষ্ঠা থেকে লিঙ্ক করা এবং এখানে পুনরুক্তি করা হয়নি।",
+    "llmsTruncated": "এই ফাইলটি চ্যাট প্রোডাক্ট ও ইনজেস্টর দ্বারা আরোপিত 500,000 শব্দের সীমার নিচে থাকার জন্য {total}টি ধারণা পৃষ্ঠার মধ্যে প্রথম {included}টি অন্তর্ভুক্ত করে; বাকি পৃষ্ঠাগুলো সাইটে প্রকাশিত আছে।"
   },
   "ur": {
     "style": "معیاری اردو؛ AI اور AIEd کے مخفّظات کو غیر ترجمہ شدہ رکھیں",
@@ -993,7 +1075,12 @@
       "Roles and audiences": "کردار اور سامعین",
       "Institutions": "ادارے",
       "Equity and access": "مساوات اور رسائی",
-      "Ethics and responsibility": "اخلاق اور ذمہ داری"
+      "Ethics and responsibility": "اخلاق اور ذمہ داری",
+      "Humanities and arts": "انسانیات اور فنون",
+      "Overview": "جائزہ",
+      "Professions": "پیشے",
+      "STEM": "STEM",
+      "Social sciences": "سماجی علوم"
     },
     "offlineTitle": "تعلیم میں AI کا علمی ذخیرہ",
     "offlineDescription": "یہ انگریزی علمی ذخیرے کا مشینی ترجمہ ہے، جسے ابھی کسی مقامی بولنے والے نے جانچا نہیں۔ اس میں تصورات اور عمومی سوالات کے صفحات شامل ہیں؛ مضامین کے صفحات انگریزی ہی رہیں گے۔",
@@ -1024,7 +1111,8 @@
       "license": "لائسنس",
       "linkChecked": "لنک کی تصدیق"
     },
-    "llmsNotice": "نیچے ہر صفحہ سائٹ پر اپنے پتے سے جڑا ہوا ہے، اس لیے جو معاون گشت کر سکتا ہے وہ شاید لنک پر جانا ترجیح دے؛ متن اِس لیے بھی شامل ہے کہ جو معاون گشت نہیں کر سکتا وہ اُسی سے جواب دے سکے۔ وہ انفرادی تحقیقی مضامین جن پر یہ جائزے مبنی ہیں، ہر صفحے سے جڑے ہوئے ہیں اور یہاں نقل نہیں کیے گئے۔"
+    "llmsNotice": "نیچے ہر صفحہ سائٹ پر اپنے پتے سے جڑا ہوا ہے، اس لیے جو معاون گشت کر سکتا ہے وہ شاید لنک پر جانا ترجیح دے؛ متن اِس لیے بھی شامل ہے کہ جو معاون گشت نہیں کر سکتا وہ اُسی سے جواب دے سکے۔ وہ انفرادی تحقیقی مضامین جن پر یہ جائزے مبنی ہیں، ہر صفحے سے جڑے ہوئے ہیں اور یہاں نقل نہیں کیے گئے۔",
+    "llmsTruncated": "یہ فائل چیٹ مصنوعات اور انجیسٹرز کی نافذ کردہ 500,000 الفاظ کی حد کے اندر رہنے کے لیے {total} تصوراتی صفحات میں سے پہلے {included} صفحات شامل کرتی ہے؛ باقی صفحات سائٹ پر شائع ہیں۔"
   },
   "id": {
     "style": "Bahasa Indonesia baku; biarkan akronim AI dan AIEd tidak diterjemahkan",
@@ -1061,7 +1149,12 @@
       "Roles and audiences": "Peran dan audiens",
       "Institutions": "Institusi",
       "Equity and access": "Kesetaraan dan akses",
-      "Ethics and responsibility": "Etika dan tanggung jawab"
+      "Ethics and responsibility": "Etika dan tanggung jawab",
+      "Humanities and arts": "Humaniora dan seni",
+      "Overview": "Gambaran umum",
+      "Professions": "Profesi",
+      "STEM": "STEM",
+      "Social sciences": "Ilmu sosial"
     },
     "offlineTitle": "Basis Pengetahuan AI dalam Pendidikan",
     "offlineDescription": "Ini adalah terjemahan mesin dari basis pengetahuan berbahasa Inggris, yang belum diverifikasi oleh penutur asli. Terdiri dari halaman konsep dan halaman FAQ; halaman artikel tetap berbahasa Inggris.",
@@ -1092,7 +1185,8 @@
       "license": "Lisensi",
       "linkChecked": "Tautan diperiksa"
     },
-    "llmsNotice": "Setiap halaman di bawah ini terhubung dengan alamatnya di situs, sehingga asisten yang bisa menavigasi lebih baik mengikuti tautan; teksnya disertakan agar asisten yang tidak bisa menavigasi tetap bisa menjawab berdasarkan teks tersebut. Artikel-artikel riset individual yang mendasari ringkasan-ringkasan ini ditautkan dari setiap halaman dan tidak digandakan di sini."
+    "llmsNotice": "Setiap halaman di bawah ini terhubung dengan alamatnya di situs, sehingga asisten yang bisa menavigasi lebih baik mengikuti tautan; teksnya disertakan agar asisten yang tidak bisa menavigasi tetap bisa menjawab berdasarkan teks tersebut. Artikel-artikel riset individual yang mendasari ringkasan-ringkasan ini ditautkan dari setiap halaman dan tidak digandakan di sini.",
+    "llmsTruncated": "Berkas ini memuat {included} halaman konsep pertama dari {total} halaman agar tetap di bawah batas 500.000 kata yang diberlakukan oleh produk chat dan ingester; halaman sisanya diterbitkan di situs."
   },
   "vi": {
     "style": "Tiếng Việt chuẩn; giữ nguyên các từ viết tắt AI và AIEd",
@@ -1129,7 +1223,12 @@
       "Roles and audiences": "Vai trò và đối tượng",
       "Institutions": "Các tổ chức",
       "Equity and access": "Công bằng và khả năng tiếp cận",
-      "Ethics and responsibility": "Đạo đức và trách nhiệm"
+      "Ethics and responsibility": "Đạo đức và trách nhiệm",
+      "Humanities and arts": "Nhân văn và nghệ thuật",
+      "Overview": "Tổng quan",
+      "Professions": "Nghề nghiệp",
+      "STEM": "STEM",
+      "Social sciences": "Khoa học xã hội"
     },
     "offlineTitle": "Cơ sở tri thức về AI trong giáo dục",
     "offlineDescription": "Đây là bản dịch máy từ cơ sở tri thức tiếng Anh, chưa được người bản ngữ kiểm duyệt. Bản dịch bao gồm các trang khái niệm và trang FAQ; các trang bài viết vẫn bằng tiếng Anh.",
@@ -1160,7 +1259,8 @@
       "license": "Giấy phép",
       "linkChecked": "Đã kiểm tra liên kết"
     },
-    "llmsNotice": "Mỗi trang bên dưới đều được liên kết với địa chỉ của nó trên trang web, nên trợ lý có khả năng duyệt web có thể chọn theo liên kết; văn bản được đưa vào để trợ lý không duyệt web được vẫn có thể trả lời dựa trên đó. Các bài báo nghiên cứu riêng lẻ làm cơ sở cho những bản tổng hợp này được liên kết từ mỗi trang và không được sao chép lại ở đây."
+    "llmsNotice": "Mỗi trang bên dưới đều được liên kết với địa chỉ của nó trên trang web, nên trợ lý có khả năng duyệt web có thể chọn theo liên kết; văn bản được đưa vào để trợ lý không duyệt web được vẫn có thể trả lời dựa trên đó. Các bài báo nghiên cứu riêng lẻ làm cơ sở cho những bản tổng hợp này được liên kết từ mỗi trang và không được sao chép lại ở đây.",
+    "llmsTruncated": "Tệp này bao gồm {included} trang khái niệm đầu tiên trong tổng số {total} trang để giữ dưới giới hạn 500.000 từ mà các sản phẩm chat và công cụ nhập dữ liệu áp dụng; các trang còn lại được xuất bản trên trang web."
   },
   "nl": {
     "style": "Standaard Nederlands; houd de acronymen AI en AIEd onvertaald",
@@ -1197,7 +1297,12 @@
       "Roles and audiences": "Rollen en doelgroepen",
       "Institutions": "Instellingen",
       "Equity and access": "Gelijkheid en toegang",
-      "Ethics and responsibility": "Ethiek en verantwoordelijkheid"
+      "Ethics and responsibility": "Ethiek en verantwoordelijkheid",
+      "Humanities and arts": "Geesteswetenschappen en kunsten",
+      "Overview": "Overzicht",
+      "Professions": "Beroepen",
+      "STEM": "STEM",
+      "Social sciences": "Sociale wetenschappen"
     },
     "offlineTitle": "Kennisbank over AI in het onderwijs",
     "offlineDescription": "Dit is een machinevertaling van de Engelse kennisbank, nog niet gecontroleerd door moedertaalsprekers. Het bevat de conceptpagina's en FAQ-pagina's; de artikelpagina's blijven in het Engels.",
@@ -1228,7 +1333,8 @@
       "license": "Licentie",
       "linkChecked": "Link gecontroleerd"
     },
-    "llmsNotice": "Elke pagina hieronder is gelinkt aan zijn adres op de site, zodat een assistent die kan browzen er de voorkeur aan kan geven de link te volgen; de tekst is toegevoegd zodat een assistent die niet kan browzen toch uit die tekst kan antwoorden. De individuele onderzoeksartikelen die achter deze syntheses zitten, zijn vanaf elke pagina gelinkt en worden hier niet herhaald."
+    "llmsNotice": "Elke pagina hieronder is gelinkt aan zijn adres op de site, zodat een assistent die kan browzen er de voorkeur aan kan geven de link te volgen; de tekst is toegevoegd zodat een assistent die niet kan browzen toch uit die tekst kan antwoorden. De individuele onderzoeksartikelen die achter deze syntheses zitten, zijn vanaf elke pagina gelinkt en worden hier niet herhaald.",
+    "llmsTruncated": "Dit bestand bevat de eerste {included} van {total} conceptpagina's, zodat het onder de grens van 500.000 woorden blijft die chatproducten en importprogramma's hanteren; de overige pagina's zijn op de site gepubliceerd."
   },
   "sv": {
     "style": "Standardsvenska; håll akronymerna AI och AIEd oöversatta",
@@ -1265,7 +1371,12 @@
       "Roles and audiences": "Roller och målgrupper",
       "Institutions": "Institutioner",
       "Equity and access": "Jämlikhet och tillgång",
-      "Ethics and responsibility": "Etik och ansvar"
+      "Ethics and responsibility": "Etik och ansvar",
+      "Humanities and arts": "Humaniora och konst",
+      "Overview": "Översikt",
+      "Professions": "Professioner",
+      "STEM": "STEM",
+      "Social sciences": "Samhällsvetenskap"
     },
     "offlineTitle": "Kunskapsbas om AI i utbildningen",
     "offlineDescription": "Detta är en maskinöversättning av den engelska kunskapsbasen, ännu inte granskad av modersmålstalare. Den innehåller begreppssidorna och de vanliga frågorna; artikelsidorna förblir på engelska.",
@@ -1296,7 +1407,8 @@
       "license": "Licens",
       "linkChecked": "Länk kontrollerad"
     },
-    "llmsNotice": "Varje sida nedan är länkad till sin adress på webbplatsen, så en assistent som kan surfa föredrar att följa länken; texten ingår så att en assistent som inte kan surfa ändå kan svara utifrån den. De enskilda forskningsstudier som ligger bakom dessa synteser är länkade från varje sida och återges inte här."
+    "llmsNotice": "Varje sida nedan är länkad till sin adress på webbplatsen, så en assistent som kan surfa föredrar att följa länken; texten ingår så att en assistent som inte kan surfa ändå kan svara utifrån den. De enskilda forskningsstudier som ligger bakom dessa synteser är länkade från varje sida och återges inte här.",
+    "llmsTruncated": "Den här filen innehåller de första {included} av {total} begreppssidor så att den håller sig under gränsen på 500 000 ord som chattprodukter och importverktyg upprätthåller; de återstående sidorna är publicerade på webbplatsen."
   },
   "da": {
     "style": "Standard Danish; keep the AI and AIEd acronyms untranslated",
@@ -1333,7 +1445,12 @@
       "Roles and audiences": "Roller og målgrupper",
       "Institutions": "Institutioner",
       "Equity and access": "Ligestilling og adgang",
-      "Ethics and responsibility": "Etik og ansvarlighed"
+      "Ethics and responsibility": "Etik og ansvarlighed",
+      "Humanities and arts": "Humaniora og kunst",
+      "Overview": "Overblik",
+      "Professions": "Professioner",
+      "STEM": "STEM",
+      "Social sciences": "Samfundsvidenskab"
     },
     "offlineTitle": "Vidensbase om kunstig intelligens i uddannelse",
     "offlineDescription": "Dette er en maskinoversættelse af den engelske vidensbase, der endnu ikke er blevet gennemgået af modersmålstalere. Den omfatter begrebssiderne og FAQ-siderne; artikelsiderne forbliver på engelsk.",
@@ -1364,7 +1481,8 @@
       "license": "Licens",
       "linkChecked": "Link kontrolleret"
     },
-    "llmsNotice": "Hver side nedenfor er forbundet med sin adresse på hjemmesiden, så en assistent, der kan navigere, kan vælge at følge linket; teksten er med, så en assistent, der ikke kan navigere, alligevel kan svare ud fra den. De enkelte forskningsartikler, som disse synteser bygger på, er linket fra hver side og gengives ikke her."
+    "llmsNotice": "Hver side nedenfor er forbundet med sin adresse på hjemmesiden, så en assistent, der kan navigere, kan vælge at følge linket; teksten er med, så en assistent, der ikke kan navigere, alligevel kan svare ud fra den. De enkelte forskningsartikler, som disse synteser bygger på, er linket fra hver side og gengives ikke her.",
+    "llmsTruncated": "Denne fil indeholder de første {included} af {total} begrebssider, så den holder sig under grænsen på 500.000 ord, som chatprodukter og importværktøjer håndhæver; de resterende sider er udgivet på hjemmesiden."
   },
   "fi": {
     "style": "Vakiomuotoinen suomi; AI- ja AIEd-lyhenteet jätetään kääntämättä",
@@ -1401,7 +1519,12 @@
       "Roles and audiences": "Roolit ja yleisöt",
       "Institutions": "Instituutiot",
       "Equity and access": "Tasa-arvo ja saatavuus",
-      "Ethics and responsibility": "Etiikka ja vastuu"
+      "Ethics and responsibility": "Etiikka ja vastuu",
+      "Humanities and arts": "Humanistiset tieteet ja taiteet",
+      "Overview": "Yleiskatsaus",
+      "Professions": "Ammatit",
+      "STEM": "STEM",
+      "Social sciences": "Yhteiskuntatieteet"
     },
     "offlineTitle": "Tekoäly koulutuksessa -tietopankki",
     "offlineDescription": "Tämä on englanninkielisen tietopankin koneellinen käännös, jota syntyperäiset puhujat eivät ole vielä tarkistaneet. Se sisältää käsitesivut ja UKK-sivut; artikkelisivut jäävät englanniksi.",
@@ -1432,7 +1555,8 @@
       "license": "Lisenssi",
       "linkChecked": "Linkki tarkistettu"
     },
-    "llmsNotice": "Jokainen alla oleva sivu on yhdistetty osoitteeseensa sivustolla, joten avustaja, joka pystyy navigoimaan, haluaa mieluummin seurata linkkiä; teksti on liitetty mukaan, jotta avustaja, joka ei pysty navigoimaan, voi silti vastata sen pohjalta. Yksittäiset tutkimusartikkelit, joihin nämä tiivistelmät perustuvat, on linkitetty jokaiselta sivulta, eikä niitä toisteta tässä."
+    "llmsNotice": "Jokainen alla oleva sivu on yhdistetty osoitteeseensa sivustolla, joten avustaja, joka pystyy navigoimaan, haluaa mieluummin seurata linkkiä; teksti on liitetty mukaan, jotta avustaja, joka ei pysty navigoimaan, voi silti vastata sen pohjalta. Yksittäiset tutkimusartikkelit, joihin nämä tiivistelmät perustuvat, on linkitetty jokaiselta sivulta, eikä niitä toisteta tässä.",
+    "llmsTruncated": "Tämä tiedosto sisältää ensimmäiset {included} käsitesivua {total}:sta, jotta se pysyy chat-tuotteiden ja ingesterien asettaman 500 000 sanan rajan alapuolella; loput sivut on julkaistu sivustolla."
   },
   "no": {
     "style": "Standard Norwegian Bokmål; keep the AI and AIEd acronyms untranslated",
@@ -1469,7 +1593,12 @@
       "Roles and audiences": "Roller og målgrupper",
       "Institutions": "Institusjoner",
       "Equity and access": "Likestilling og tilgang",
-      "Ethics and responsibility": "Etikk og ansvar"
+      "Ethics and responsibility": "Etikk og ansvar",
+      "Humanities and arts": "Humaniora og kunst",
+      "Overview": "Oversikt",
+      "Professions": "Profesjoner",
+      "STEM": "STEM",
+      "Social sciences": "Samfunnsvitenskap"
     },
     "offlineTitle": "Kunnskapsbase om AI i utdanning",
     "offlineDescription": "Dette er en maskinoversettelse av den engelske kunnskapsbasen, ennå ikke verifisert av morsmålsbrukere. Den inneholder begrepssidene og FAQ-sidene; artikkelsidene er fortsatt på engelsk.",
@@ -1500,7 +1629,8 @@
       "license": "Lisens",
       "linkChecked": "Link kontrollert"
     },
-    "llmsNotice": "Hver side nedenfor er koblet til sin adresse på nettstedet, så en assistent som kan navigere, kan foretrekke å følge lenken; teksten er lagt ved for at en assistent som ikke kan navigere, likevel skal kunne svare ut fra den. De enkelte forskningsartiklene oppsummeringene bygger på, er lenket fra hver side og gjentas ikke her."
+    "llmsNotice": "Hver side nedenfor er koblet til sin adresse på nettstedet, så en assistent som kan navigere, kan foretrekke å følge lenken; teksten er lagt ved for at en assistent som ikke kan navigere, likevel skal kunne svare ut fra den. De enkelte forskningsartiklene oppsummeringene bygger på, er lenket fra hver side og gjentas ikke her.",
+    "llmsTruncated": "Denne filen inneholder de første {included} av {total} begrepssider, slik at den holder seg under grensen på 500 000 ord som chatprodukter og ingestere håndhever; de resterende sidene er publisert på nettstedet."
   },
   "ro": {
     "style": "Standard Romanian; keep the AI and AIEd acronyms untranslated",
@@ -1537,7 +1667,12 @@
       "Roles and audiences": "Roluri și publicuri",
       "Institutions": "Instituții",
       "Equity and access": "Echitate și acces",
-      "Ethics and responsibility": "Etică și responsabilitate"
+      "Ethics and responsibility": "Etică și responsabilitate",
+      "Humanities and arts": "Umanistică și arte",
+      "Overview": "Prezentare generală",
+      "Professions": "Profesii",
+      "STEM": "STEM",
+      "Social sciences": "Științe sociale"
     },
     "offlineTitle": "Baza de cunoștințe despre inteligența artificială în educație",
     "offlineDescription": "Aceasta este o traducere automată a bazei de cunoștințe în limba engleză, neverificată încă de vorbitori nativi. Conține paginile de concepte și paginile FAQ; paginile de articole rămân în engleză.",
@@ -1568,7 +1703,8 @@
       "license": "Licență",
       "linkChecked": "Link verificat"
     },
-    "llmsNotice": "Fiecare pagină de mai jos este legată de adresa sa pe site, așa că un asistent care poate naviga poate prefera să urmeze linkul; textul este atașat pentru ca un asistent care nu poate naviga să poată totuși răspunde pe baza lui. Lucrările de cercetare individuale pe care se bazează aceste sinteze sunt legate de fiecare pagină și nu sunt duplicate aici."
+    "llmsNotice": "Fiecare pagină de mai jos este legată de adresa sa pe site, așa că un asistent care poate naviga poate prefera să urmeze linkul; textul este atașat pentru ca un asistent care nu poate naviga să poată totuși răspunde pe baza lui. Lucrările de cercetare individuale pe care se bazează aceste sinteze sunt legate de fiecare pagină și nu sunt duplicate aici.",
+    "llmsTruncated": "Acest fișier include primele {included} din cele {total} de pagini de concepte, pentru a rămâne sub limita de 500.000 de cuvinte impusă de produsele de chat și ingestere; paginile rămase sunt publicate pe site."
   },
   "hu": {
     "style": "Standard Hungarian; keep the AI and AIEd acronyms untranslated",
@@ -1605,7 +1741,12 @@
       "Roles and audiences": "Szerepek és közönségek",
       "Institutions": "Intézmények",
       "Equity and access": "Esélyegyenlőség és hozzáférés",
-      "Ethics and responsibility": "Etika és felelősség"
+      "Ethics and responsibility": "Etika és felelősség",
+      "Humanities and arts": "Humán tudományok és művészetek",
+      "Overview": "Áttekintés",
+      "Professions": "Szakmák",
+      "STEM": "STEM",
+      "Social sciences": "Társadalomtudományok"
     },
     "offlineTitle": "Tudásbázis a mesterséges intelligencia oktatási alkalmazásairól",
     "offlineDescription": "Ez a tudásbázis angol változatának gépi fordítása, amelyet még nem ellenőriztek anyanyelvi beszélők. Fogalomoldalakat és GYIK-oldalakat tartalmaz; a cikkösszefoglalók oldalai angolul maradnak.",
@@ -1636,7 +1777,8 @@
       "license": "Licenc",
       "linkChecked": "Link ellenőrizve"
     },
-    "llmsNotice": "Az alábbi minden oldal a weboldalon lévő címéhez kapcsolódik, így a böngészni tudó asszisztens szívesebben követi a linket; a szöveg mellékelve van, hogy a böngészni nem tudó asszisztenst is megadhassa a válasz alapját. Az egyes kutatási cikkek, amelyeken ezek az összefoglalók alapulnak, minden oldalról linkelve vannak, és itt nem szerepelnek újból."
+    "llmsNotice": "Az alábbi minden oldal a weboldalon lévő címéhez kapcsolódik, így a böngészni tudó asszisztens szívesebben követi a linket; a szöveg mellékelve van, hogy a böngészni nem tudó asszisztenst is megadhassa a válasz alapját. Az egyes kutatási cikkek, amelyeken ezek az összefoglalók alapulnak, minden oldalról linkelve vannak, és itt nem szerepelnek újból.",
+    "llmsTruncated": "Ez a fájl az első {included} fogalomoldalt tartalmazza a(z) {total} közül, hogy a chattermékek és az ingestorok által alkalmazott 500 000 szavas korlát alatt maradjon; a fennmaradó oldalak a weboldalon vannak közzétéve."
   },
   "cs": {
     "style": "Standard written Czech; keep the AI and AIEd acronyms untranslated",
@@ -1673,7 +1815,12 @@
       "Roles and audiences": "Role a cílové skupiny",
       "Institutions": "Instituce",
       "Equity and access": "Rovnost a přístup",
-      "Ethics and responsibility": "Etika a odpovědnost"
+      "Ethics and responsibility": "Etika a odpovědnost",
+      "Humanities and arts": "Humanitní vědy a umění",
+      "Overview": "Přehled",
+      "Professions": "Profese",
+      "STEM": "STEM",
+      "Social sciences": "Společenské vědy"
     },
     "offlineTitle": "Znalostní báze AI ve vzdělávání",
     "offlineDescription": "Toto je strojový překlad anglické znalostní báze, dosud neověřený rodilými mluvčími. Obsahuje stránky pojmů a stránky FAQ; stránky článků zůstávají v angličtině.",
@@ -1704,7 +1851,8 @@
       "license": "Licence",
       "linkChecked": "Odkaz zkontrolován"
     },
-    "llmsNotice": "Každá stránka níže je propojena se svou adresou na webu, takže asistent, který umí navigovat, může raději přejít na odkaz; text je přiložen, aby asistent, který navigovat neumí, mohl odpovědět i na jeho základě. Jednotlivé výzkumné články, na nichž se tato shrnutí opírají, jsou linkované z každé stránky a nejsou zde duplikovány."
+    "llmsNotice": "Každá stránka níže je propojena se svou adresou na webu, takže asistent, který umí navigovat, může raději přejít na odkaz; text je přiložen, aby asistent, který navigovat neumí, mohl odpovědět i na jeho základě. Jednotlivé výzkumné články, na nichž se tato shrnutí opírají, jsou linkované z každé stránky a nejsou zde duplikovány.",
+    "llmsTruncated": "Tento soubor obsahuje prvních {included} z {total} stránek pojmů, aby zůstal pod limitem 500 000 slov, který uplatňují chatovací produkty a ingestery; zbývající stránky jsou publikovány na webu."
   },
   "bg": {
     "style": "Стандартен български; съкращенията AI и AIEd остават непреведени",
@@ -1741,7 +1889,12 @@
       "Roles and audiences": "Роли и аудитории",
       "Institutions": "Институции",
       "Equity and access": "Равнопоставие и достъп",
-      "Ethics and responsibility": "Етика и отговорност"
+      "Ethics and responsibility": "Етика и отговорност",
+      "Humanities and arts": "Хуманитарни науки и изкуства",
+      "Overview": "Обзор",
+      "Professions": "Професии",
+      "STEM": "STEM",
+      "Social sciences": "Социални науки"
     },
     "offlineTitle": "База знания за AI в образованието",
     "offlineDescription": "Това е машинен превод на английската база знания, все още непроверен от носители на езика. Съдържа страници с понятия и страници с често задавани въпроси; страниците със статии остават на английски.",
@@ -1772,7 +1925,8 @@
       "license": "Лиценз",
       "linkChecked": "Връзката е проверена"
     },
-    "llmsNotice": "Всяка страница по-долу е свързана със своя адрес в сайта, така че асистент, който умее да навигира, може да предпочете да последва връзката; текстът е включен, за да може асистент, който не умее да навигира, пак да отговори въз основа на него. Отделните научни статии, на които се основават тези обобщения, са свързани от всяка страница и не се възпроизвеждат тук."
+    "llmsNotice": "Всяка страница по-долу е свързана със своя адрес в сайта, така че асистент, който умее да навигира, може да предпочете да последва връзката; текстът е включен, за да може асистент, който не умее да навигира, пак да отговори въз основа на него. Отделните научни статии, на които се основават тези обобщения, са свързани от всяка страница и не се възпроизвеждат тук.",
+    "llmsTruncated": "Този файл включва първите {included} от {total} страници с понятия, за да остане под ограничението от 500 000 думи, което налагат продуктите за чат и ингесторите; останалите страници са публикувани на сайта."
   },
   "sk": {
     "style": "Štandardná slovenčina; skratky AI a AIEd ponechajte nepreložené",
@@ -1809,7 +1963,12 @@
       "Roles and audiences": "Roly a cieľové skupiny",
       "Institutions": "Inštitúcie",
       "Equity and access": "Rovnosť a prístup",
-      "Ethics and responsibility": "Etika a zodpovednosť"
+      "Ethics and responsibility": "Etika a zodpovednosť",
+      "Humanities and arts": "Humanitné vedy a umenie",
+      "Overview": "Prehľad",
+      "Professions": "Profesie",
+      "STEM": "STEM",
+      "Social sciences": "Spoločenské vedy"
     },
     "offlineTitle": "Vedecká databáza o AI v edukácii",
     "offlineDescription": "Toto je strojový preklad anglickej vedeckej databázy, ktorý ešte nebol skontrolovaný rodenými hovorcami. Obsahuje stránky pojmov a stránky často kladených otázok; stránky článkov zostávajú v angličtine.",
@@ -1840,7 +1999,8 @@
       "license": "Licencia",
       "linkChecked": "Odkaz overený"
     },
-    "llmsNotice": "Každá stránka nižšie je prepojená so svojou adresou na webe, takže asistent, ktorý dokáže navigovať, môže uprednostniť prejdenie odkazu; text je priložený, aby asistent, ktorý nedokáže navigovať, mohol odpovedať aj z neho. Jednotlivé výskumné práce, na ktorých sú tieto syntézy založené, sú prepojené z každej stránky a nie sú tu reprodukované."
+    "llmsNotice": "Každá stránka nižšie je prepojená so svojou adresou na webe, takže asistent, ktorý dokáže navigovať, môže uprednostniť prejdenie odkazu; text je priložený, aby asistent, ktorý nedokáže navigovať, mohol odpovedať aj z neho. Jednotlivé výskumné práce, na ktorých sú tieto syntézy založené, sú prepojené z každej stránky a nie sú tu reprodukované.",
+    "llmsTruncated": "Tento súbor obsahuje prvých {included} z {total} stránok pojmov, aby zostal pod limitom 500 000 slov, ktorý uplatňujú chatovacie produkty a ingestery; zostávajúce stránky sú publikované na webe."
   },
   "hr": {
     "style": "Standard Croatian; keep the AI and AIEd acronyms untranslated",
@@ -1877,7 +2037,12 @@
       "Roles and audiences": "Uloge i publike",
       "Institutions": "Institucije",
       "Equity and access": "Pravednost i pristup",
-      "Ethics and responsibility": "Etika i odgovornost"
+      "Ethics and responsibility": "Etika i odgovornost",
+      "Humanities and arts": "Humanističke znanosti i umjetnost",
+      "Overview": "Pregled",
+      "Professions": "Profesije",
+      "STEM": "STEM",
+      "Social sciences": "Društvene znanosti"
     },
     "offlineTitle": "Baza znanja o umjetnoj inteligenciji u edukaciji",
     "offlineDescription": "Ovo je strojni prijevod engleske baze znanja koji izvorni govornici još nisu pregledali. Sadrži stranice pojmova i FAQ-ove; stranice članaka ostaju na engleskom.",
@@ -1908,7 +2073,8 @@
       "license": "Licenca",
       "linkChecked": "Poveznica provjerena"
     },
-    "llmsNotice": "Svaka stranica u nastavku povezana je na svoju adresu na stranici, pa asistent koji može navigirati radije će slijediti poveznicu; tekst je priložen kako bi asistent koji ne može navigirati ipak mogao odgovarati na temelju njega. Pojedinačni istraživački članci na kojima se ti sažeci temelje povezani su sa svake stranice i nisu ovdje reproducirani."
+    "llmsNotice": "Svaka stranica u nastavku povezana je na svoju adresu na stranici, pa asistent koji može navigirati radije će slijediti poveznicu; tekst je priložen kako bi asistent koji ne može navigirati ipak mogao odgovarati na temelju njega. Pojedinačni istraživački članci na kojima se ti sažeci temelje povezani su sa svake stranice i nisu ovdje reproducirani.",
+    "llmsTruncated": "Ova datoteka uključuje prvih {included} od {total} stranica pojmova kako bi ostala ispod ograničenja od 500.000 riječi koje nameću chat-proizvodi i ingesteri; preostale stranice objavljene su na mrežnom mjestu."
   },
   "el": {
     "style": "Standard Greek; keep the AI and AIEd acronyms untranslated",
@@ -1945,7 +2111,12 @@
       "Roles and audiences": "Ρόλοι και κοινά",
       "Institutions": "Θεσμοί",
       "Equity and access": "Ισότητα και πρόσβαση",
-      "Ethics and responsibility": "Ηθική και ευθύνη"
+      "Ethics and responsibility": "Ηθική και ευθύνη",
+      "Humanities and arts": "Ανθρωπιστικές σπουδές και τέχνες",
+      "Overview": "Επισκόπηση",
+      "Professions": "Επαγγέλματα",
+      "STEM": "STEM",
+      "Social sciences": "Κοινωνικές επιστήμες"
     },
     "offlineTitle": "Βάση γνώσεων για την τεχνητή νοημοσύνη στην εκπαίδευση",
     "offlineDescription": "Αυτή είναι μια αυτόματη μετάφραση της αγγλικής βάσης γνώσεων, η οποία δεν έχει ακόμη επαληθευτεί από φυσικούς ομιλητές. Περιλαμβάνει τις σελίδες εννοιών και τις σελίδες συχνών ερωτήσεων· οι σελίδες άρθρων παραμένουν στα αγγλικά.",
@@ -1976,7 +2147,8 @@
       "license": "Άδεια",
       "linkChecked": "Ο σύνδεσμος ελέγχθηκε"
     },
-    "llmsNotice": "Κάθε σελίδα παρακάτω είναι συνδεδεμένη με τη διεύθυνσή της στον ιστότοπο, ώστε ένας βοηθός που μπορεί να περιηγηθεί να προτιμήσει να ακολουθήσει τον σύνδεσμο· το κείμενο συμπεριλαμβάνεται ώστε ένας βοηθός που δεν μπορεί να περιηγηθεί να μπορεί να απαντήσει παρ' όλα αυτά με βάση του. Τα μεμονωμένα ερευνητικά άρθρα στα οποία στηρίζονται αυτές οι συνόψεις συνδέονται από κάθε σελίδα και δεν αναπαράγονται εδώ."
+    "llmsNotice": "Κάθε σελίδα παρακάτω είναι συνδεδεμένη με τη διεύθυνσή της στον ιστότοπο, ώστε ένας βοηθός που μπορεί να περιηγηθεί να προτιμήσει να ακολουθήσει τον σύνδεσμο· το κείμενο συμπεριλαμβάνεται ώστε ένας βοηθός που δεν μπορεί να περιηγηθεί να μπορεί να απαντήσει παρ' όλα αυτά με βάση του. Τα μεμονωμένα ερευνητικά άρθρα στα οποία στηρίζονται αυτές οι συνόψεις συνδέονται από κάθε σελίδα και δεν αναπαράγονται εδώ.",
+    "llmsTruncated": "Αυτό το αρχείο περιλαμβάνει τις πρώτες {included} από τις {total} σελίδες εννοιών, ώστε να παραμένει κάτω από το όριο των 500.000 λέξεων που επιβάλλουν τα προϊόντα συνομιλίας και οι εισαγωγείς περιεχομένου· οι υπόλοιπες σελίδες δημοσιεύονται στον ιστότοπο."
   },
   "pl": {
     "style": "Standard Polish; keep the AI and AIEd acronyms untranslated",
@@ -2013,7 +2185,12 @@
       "Roles and audiences": "Role i odbiorcy",
       "Institutions": "Instytucje",
       "Equity and access": "Równość i dostęp",
-      "Ethics and responsibility": "Etyka i odpowiedzialność"
+      "Ethics and responsibility": "Etyka i odpowiedzialność",
+      "Humanities and arts": "Humanistyka i sztuki",
+      "Overview": "Przegląd",
+      "Professions": "Zawody",
+      "STEM": "STEM",
+      "Social sciences": "Nauki społeczne"
     },
     "offlineTitle": "Baza wiedzy o sztucznej inteligencji w edukacji",
     "offlineDescription": "To jest tłumaczenie maszynowe angielskiej bazy wiedzy, jeszcze niezweryfikowane przez native speakerów. Zawiera strony pojęć i strony FAQ; strony artykułów pozostają po angielsku.",
@@ -2044,7 +2221,8 @@
       "license": "Licencja",
       "linkChecked": "Link sprawdzono"
     },
-    "llmsNotice": "Każda strona poniżej jest połączona ze swoim adresem w witrynie, więc asystent, który potrafi nawigować, może wolec podążać za linkiem; tekst jest dołączony, aby asystent, który nie potrafi nawigować, mógł mimo wszystko odpowiedzieć na jego podstawie. Poszczególne artykuły badawcze, na których opierają się te streszczenia, są linkowane z każdej strony i nie są tu powielane."
+    "llmsNotice": "Każda strona poniżej jest połączona ze swoim adresem w witrynie, więc asystent, który potrafi nawigować, może wolec podążać za linkiem; tekst jest dołączony, aby asystent, który nie potrafi nawigować, mógł mimo wszystko odpowiedzieć na jego podstawie. Poszczególne artykuły badawcze, na których opierają się te streszczenia, są linkowane z każdej strony i nie są tu powielane.",
+    "llmsTruncated": "Ten plik zawiera pierwsze {included} z {total} stron pojęć, aby pozostać poniżej limitu 500 000 słów, który narzucają produkty czatowe i ingestory; pozostałe strony są opublikowane w witrynie."
   },
   "sw": {
     "style": "Kiswahili sanifu; viambishi vilivyofupishwa kwa Kilatini kama AI na AIEd viweke kama vilivyo",
@@ -2108,11 +2286,17 @@
       "Roles and audiences": "Majukumu na Walengwa",
       "Institutions": "Taasisi",
       "Equity and access": "Usawa na Ufikiaji",
-      "Ethics and responsibility": "Maadili na Uwajibikaji"
+      "Ethics and responsibility": "Maadili na Uwajibikaji",
+      "Humanities and arts": "Sayansi za Binadamu na Sanaa",
+      "Overview": "Muhtasari",
+      "Professions": "Taaluma",
+      "STEM": "STEM",
+      "Social sciences": "Sayansi za Kijamii"
     },
     "offlineTitle": "Hifadhi ya Maarifa ya Akili Bandia katika Elimu",
     "offlineDescription": "Hii ni tafsiri ya kawaida ya hifadhi ya maarifa ya Kiingereza ambayo haijakaguliwa bado na mzungumzaji asilia. Inajumuisha kurasa za dhana na kurasa za maswali yanayoulizwa mara nyingi; kurasa za makala zinabaki kwa Kiingereza.",
-    "llmsNotice": "Kila ukurasa hapa chini umeunganishwa na anwani yake kwenye tovuti, kwa hivyo msaidizi anayeweza kuvinjari anaweza kupendelea kufuata kiungo; maandishi yamejumuishwa ili msaidizi asiyeuweza kuvinjari aweze kujibu kutoka hayo. Makala binafsi za utafiti zinazozitegemea muhtasari huu zimeunganishwa kutoka kila ukurasa na hazirudiwi hapa."
+    "llmsNotice": "Kila ukurasa hapa chini umeunganishwa na anwani yake kwenye tovuti, kwa hivyo msaidizi anayeweza kuvinjari anaweza kupendelea kufuata kiungo; maandishi yamejumuishwa ili msaidizi asiyeuweza kuvinjari aweze kujibu kutoka hayo. Makala binafsi za utafiti zinazozitegemea muhtasari huu zimeunganishwa kutoka kila ukurasa na hazirudiwi hapa.",
+    "llmsTruncated": "Faili hili linajumuisha kurasa za dhana {included} za kwanza kati ya {total} ili libaki chini ya kikomo cha maneno 500,000 kinachowekwa na bidhaa za chat na zana za uingizaji; kurasa zilizosalia zimechapishwa kwenye tovuti."
   },
   "tr": {
     "style": "Standard Turkish; keep the AI and AIEd acronyms untranslated",
@@ -2149,7 +2333,12 @@
       "Roles and audiences": "Roller ve kitleler",
       "Institutions": "Kurumlar",
       "Equity and access": "Eşitlik ve erişim",
-      "Ethics and responsibility": "Etik ve sorumluluk"
+      "Ethics and responsibility": "Etik ve sorumluluk",
+      "Humanities and arts": "Beşeri bilimler ve sanat",
+      "Overview": "Genel bakış",
+      "Professions": "Meslekler",
+      "STEM": "STEM",
+      "Social sciences": "Sosyal bilimler"
     },
     "offlineTitle": "Eğitimde Yapay Zeka Bilgi Tabanı",
     "offlineDescription": "Bu, İngilizce bilgi tabanının henüz bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir. Kavram sayfalarını ve sıkça sorulan sorular sayfalarını içerir; makale sayfaları İngilizce kalır.",
@@ -2180,6 +2369,7 @@
       "license": "Lisans",
       "linkChecked": "Bağlantı kontrol edildi"
     },
-    "llmsNotice": "Aşağıdaki her sayfa sitedeki adresine bağlantılıdır, bu nedenle gezinme yapabilen bir asistan bağlantıyı takip etmeyi tercih edebilir; metin, gezinme yapamayan bir asistanın da ondan yanıt verebilmesi için dahil edilmiştir. Bu sentezlerin dayandığı tek tek araştırma makaleleri her sayfadan bağlantılıdır ve burada yeniden üretilmez."
+    "llmsNotice": "Aşağıdaki her sayfa sitedeki adresine bağlantılıdır, bu nedenle gezinme yapabilen bir asistan bağlantıyı takip etmeyi tercih edebilir; metin, gezinme yapamayan bir asistanın da ondan yanıt verebilmesi için dahil edilmiştir. Bu sentezlerin dayandığı tek tek araştırma makaleleri her sayfadan bağlantılıdır ve burada yeniden üretilmez.",
+    "llmsTruncated": "Bu dosya, sohbet ürünlerinin ve içerik alıcılarının uyguladığı 500.000 kelime sınırının altında kalmak için {total} kavram sayfasının ilk {included} tanesini içerir; kalan sayfalar sitede yayımlanır."
   }
 }
