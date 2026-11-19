@@ -65,7 +65,7 @@ ai_assist:
 - **"גישה מותנית-אבחנה היא עיצוב בר-הגנה."** דרישת אבחנה פורמלית להשתתפות מדירה לומדים עם צרכים אמיתיים ובלי תווית, מה שסותר את [[universal-design-for-learning|עיצוב אוניברסלי]] ודוחף את עלות הגישה לתיעוד של הסטודנט.
 - **"יותר כלים מסייעים פירושו יותר הכלה."** סקירת היקף סיננה **766 רשומות** בחמישה בסיסי נתונים, וכמות התפוקה אינה זהה לכיסוי הצורך — מספר המחקרים לכל מחסום הוא הנתון המאלף יותר.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[accessibility]] — the design property that assistive technology operationalizes
 - [[inclusive-learning]]
@@ -77,7 +77,7 @@ ai_assist:
 - [[learning-design]]
 - [[speech-and-voice-technologies]]
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities

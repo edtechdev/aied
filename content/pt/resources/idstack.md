@@ -41,5 +41,5 @@ Os cursos entram por uma conexão com a API do Canvas, um arquivo IMS Common Car
 
 O plugin exige o Claude Code e um shell bash para instalar; PowerShell e cmd não conseguem executar o script de configuração, e o Python 3 é recomendado para tendências de pontuação. Os dados do curso ficam na pasta do projeto na máquina do próprio leitor, e só saem dela por uma integração que o usuário invoca, como uma chamada à API do Canvas. A inferência ao vivo da extensão do Chrome precisa da chave de API gratuita do Google AI Studio do próprio leitor, embora um modo de simulação a demonstre sem uma. O projeto se intitula beta na versão 3.5.1.0 e alerta sobre mudanças incompatíveis entre versões menores, e é publicado na conta savvides do GitHub, e não por um autor nomeado.
 
-## Recursos conectados
+## Conceitos conectados
 [[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

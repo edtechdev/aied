@@ -108,7 +108,7 @@ ai_assist:
 - **「パートナーシップは採用できる姿勢である。」** それには制度的な条件が必要です。時間、学生パートナーへの認識、そしてパートナーが本当に影響を与えられる変化です。そうした条件なしに宣言されたパートナーシップは、中断すると称するヒエラルキーを再生産します。
 - **「権力の共有は教員開発にはなりえない。」** 文献の主張は、パートナーシップが開発であるのは、関係を通じて教育者の理解を変える*からだ*というものです。それを学生の利益としてのみ枠づけると、その機構を捨ててしまいます。
 
-## Connected Concepts
+## 関連する概念
 - [[pedagogy]] — 教授法と教授戦略
 - [[collaborative-learning]]
 - [[agency]] — 学習者の主体性
@@ -128,7 +128,7 @@ ai_assist:
 - [[student-ai-interaction]]
 - [[generative-ai]]
 
-## Connected Articles
+## 関連する記事
 - [[guided-inquiry-genai-course-policy-2026]] — 生成 AI コース政策の共設計における探究型学習アプローチ
 - [[lo-co-creating-custom-gpts-sap-2026]] — 独自 GPT の共創——生成 AI イノベーションにおける学生パートナーとしての学部生のオートエスノグラフィー研究
 - [[williams-ingle-assessment-co-creation-ai-2025]] — 共創による評価設計——AI を評価する学生とスタッフのパートナーシップ

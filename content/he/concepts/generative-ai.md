@@ -99,7 +99,7 @@ ai_assist:
 - מדדו את שיעור הבסיס לפני שתמטבו אותו. שיעור שכיחות של 0.68% פירושו שרוב עבודת האיכות מתרחשת בזנב, וביצועי הזנב הם שקובעים אם פריסה מקובלת.
 - דווחו גרסה, תאריך וסוג משימה עם כל מספר בנצ'מרק שאתם מפרסמים, משום שטענת יכולת שמשמיטה אותם אינה ניתנת לשחזור.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[llm]] — the model class underlying generative AI
 - [[prompt-engineering]] — how outputs are shaped
@@ -116,7 +116,7 @@ ai_assist:
 - [[k-12]] — a primary deployment context
 - [[reflection]]
 
-## Connected Articles
+## מאמרים מחוברים
 - [[bicer-genai-pd-math-creativity-2026]] — מחקר מקרה של התפתחות מקצועית במתמטיקה מונחית-GenAI עם שמונה מורים בשירות באזורים כפריים
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — g מאוגד = 0.819 שיורד ל-0.378 תחת PET-PEESE; כלים מותאמים (0.455) מתחת לצ'אטבוטים (0.970)
 - [[genai-learning-motivation-meta-analysis-2026]] — Meta-analysis of GenAI's effect on learning motivation, with a prediction interval spanning harm to benefit

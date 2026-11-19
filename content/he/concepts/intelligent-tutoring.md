@@ -175,7 +175,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 **"חונך AI הוא סוג אחד של דבר."** חונכות משתרעת על ספקטרום של עוצמה יחסית, מהיצירת רמזים ועד דיאלוג מתמשך, ומסקנות עיצוב מנקודה אחת בספקטרום אינן עוברות לאחרת. שאלת העיצוב הפדגוגית היא אפוא תמיד "איזה סוג חונכות, עושה איזו משימה" ולא "האם חונכות AI עובדת".
 
-## Connected Concepts
+## מושגים מחוברים
 - [[scaffolding]]
 - [[adaptive-learning]]
 - [[cognitive-diagnosis]]
@@ -197,7 +197,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[k-12]]
 - [[speech-and-voice-technologies]]
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[leite-its-k12-meta-analysis-2025]] — מטא-אנליזה של K-12 בארה"ב: 18 ניסויים, g = 0.271, ומה ממתן אותו (Leite et al. 2025)
 - [[learnlm-eedi-expanded-rct-2026]] — RCT מורחב בבריטניה: רווחי העברה קרובה אך ללא יתרון במבחן סטנדרטי לאחר 10 שבועות (LearnLM Team, Google & Eedi 2026)

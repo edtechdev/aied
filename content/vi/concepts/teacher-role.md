@@ -194,7 +194,7 @@ Quyền uy tri thức trong việc lập kế hoạch có AI hỗ trợ được
 
 **"Cách một giáo viên ủy thác cho chatbot hầu như không quan trọng, vì mô hình làm công việc."** Mô thức ủy thác chính là can thiệp. Trong việc lập kế hoạch bài học nghệ thuật STEAM cho trẻ em, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo và Tahir (2025)]] phát hiện bằng thực nghiệm rằng việc lấp đầy các khoảng trống nội dung trong một bài học *do chính mình phác thảo* bảo tồn quyền tự chủ thiết kế của giáo viên trong khi vẫn nâng cao chất lượng bài học được chuyên gia đánh giá (trung vị 20.5 so với 17.6, p = 0.002, hiệu ứng lớn), vượt trội so với phương án để mô hình cung cấp dàn ý. Cùng mô hình, cùng nhiệm vụ, cách phân công lao động khác, kết quả khác biệt về vật chất.
 
-## Các khái niệm liên quan
+## Khái niệm liên quan
 - [[pedagogical-partnerships]] - Quan hệ đối tác sư phạm
 - [[learner-identity]] - bản sắc người học đang tiến hóa theo ngành học, nghề nghiệp, sáng tạo và học thuật
 - [[business-education]]

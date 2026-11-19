@@ -323,7 +323,7 @@ Copilot Studio) כמרחב חזרה בסיכון-נמוך שבו תלמידים 
 - **"דוברי אנגלית לא-ילידית הם סיכון הרמאות."** **סקירת PRISMA של 25 מחקרים** מוסיפה גורם סיכון שהדיון בזיהוי משמיט: דוברים לא-ילידיים הראו **נטייה גבוהה להפר יושרה כשהתקשו** עם הדרישה הלשונית. זו בעיית תמיכה לשונית שנקראת בטעות בעיית יושרה.
 - **"מדיניות שאוסרת GenAI מסיימת את השאלה."** סטודנטים מדווחים על ספקטרום של שיפוטים ולא על דפוס של ציות לכלל, ולכן כלל שאינו פוגש את ההנמקה ההערכתית שהסטודנטים כבר עושים לא יישמר בעקביות.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[learners]] — לומדים: המכסה למושגי צד-הלומד
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -348,7 +348,7 @@ Copilot Studio) כמרחב חזרה בסיכון-נמוך שבו תלמידים 
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — תוכנית של שנה שמגדירה אוריינות הערכה רב-מודלית ומודדת מה זז ומה לא
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space

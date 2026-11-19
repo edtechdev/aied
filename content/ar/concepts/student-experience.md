@@ -130,7 +130,7 @@ ai_assist:
 
 - أبلغ صراحةً عن حجم مجموعة غير المستخدمين وأسبابها؛ فـ32% من عيّنة من 7,087 طالبًا جماعة سكانية لا بقية متخلّفة.
 
-## Connected Concepts
+## المفاهيم المرتبطة
 
 - [[learners]] — المتعلّمون: المظلة الشاملة لمفاهيم جانب المتعلّم
 - [[pedagogical-partnerships]] — الشراكات التربوية
@@ -158,7 +158,7 @@ ai_assist:
 - [[social-norms-ai-use]] — كيف يصبح استخدام الذكاء الاصطناعي مرئيًا للأقران
 - [[student-support-and-success]] — الجانب المؤسسي للدعم: ما تفعله الجامعة للطلاب، لا ما يحدث في مقرر
 
-## Connected Articles
+## المقالات المرتبطة
 
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
 - [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use

@@ -45,7 +45,7 @@ Descreva um aplicativo, continue conversando para revisá-lo e escolha se ele fi
 
 A plataforma tem um nível gratuito, mas ele é baseado em créditos: as contas recebem 1.000 créditos de IA por mês, e construir, editar, gerar imagens e usar funcionalidades de IA dentro do aplicativo gastam esses créditos. Uma assinatura acrescenta a opção de comprar mais créditos, que não expiram. Qualquer curso que pretenda depender da plataforma deve verificar os termos atuais, já que o uso gratuito é medido em vez de ilimitado, e deve tratar aplicativos criados por estudantes como conteúdo com questões próprias de tratamento de dados.
 
-## Recursos conectados
+## Conceitos conectados
 
 [[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
 

@@ -93,7 +93,7 @@ ai_assist:
 - [[open-source]]
 - [[arts-and-media-education]]
 
-## Connected Articles
+## Связанные статьи
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
 - [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
 - [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students

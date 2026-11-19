@@ -172,7 +172,7 @@ ai_assist:
 - **"תווית טקסונומית חוזה כמה פריט קשה."** לאורך **265 פריטי מתמטיקה**, רמת Bloom המיועדת הסבירה **פחות מ-5% מהשונות בקושי**. תיוג פריט לפי רמת Bloom אינו אומר כמעט דבר על הקושי האמפירי שלו.
 - **"איכות פריט נשפטת לפי הנוסח שלו."** **שפטו פריטים שנוצרו על פי נתיב הפתרון, לא על פי הנוסח**: קידוד **עץ ההיסקים המאומת** של כל פריט העלה את הביצועים מעל השיטה השנייה בטובה בפער ניכר. מבנה ההיסק נשא את האות, לא טקסט השטח.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[interpreting-and-applying-aied-research]]
 - [[item-response-theory]]
@@ -194,7 +194,7 @@ ai_assist:
 - [[motivation]]
 - [[student-engagement]]
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[semantic-variability-llm-conversation-assessment-2026]]

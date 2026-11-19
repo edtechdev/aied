@@ -64,6 +64,6 @@ IMA או MarginNote, או כספת Obsidian מקושרת. הזיכרון נית�
 כאן. כמו בכל ערימת קוד פתוח של בינה מלאכותית, הלקוח מספק מפתחות ספקי-דגם,
 ופריסת שולחן-עבודה או שרת דורשת Python 3.11 ו-Node.
 
-## Connected Concepts
+## מושגים מחוברים
 
 [[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

@@ -44,6 +44,6 @@ ai_assist:
 
 تتطلب الإضافة Claude Code وصدفة bash للتثبيت؛ وPowerShell وcmd لا تستطيعان تشغيل سكربت الإعداد، ويُنصح بـPython 3 لاتجاهات الدرجات. وتبقى بيانات المقرّر في مجلد المشروع على جهاز القارئ نفسه، ولا تخرج منه إلا عبر تكامل يستدعيه المستخدم، مثل نداء واجهة برمجة تطبيقات Canvas. ويحتاج الاستدلال الحي لإضافة Chrome مفتاح واجهة برمجة تطبيقات Google AI Studio المجاني الخاص بالقارئ، وإن كان وضع المحاكاة يُظهرها دون واحد. ويوسم المشروع نفسه ببيتا في الإصدار 3.5.1.0 ويحذّر من تغييرات كاسرة بين الإصدارات الثانوية، وهو منشور تحت حساب GitHub الخاص بـsavvides لا بواسطة مؤلف مُسمّى.
 
-## Connected Concepts
+## المفاهيم المرتبطة
 
 [[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

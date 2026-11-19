@@ -45,7 +45,7 @@ Estudantes, instrutores e pesquisadores que querem um disparo privado para exami
 
 Escrito por Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University); a justificativa de design e os limites de validação estão documentados em um preprint acompanhante, e o código-fonte é público.
 
-## Recursos conectados
+## Conceitos conectados
 
 [[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
 

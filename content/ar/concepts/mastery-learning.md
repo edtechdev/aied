@@ -73,7 +73,7 @@ ai_assist:
 
 **«التقويم الأكثر تواترًا في ظل الإتقان يجعل العتبة أكثر موثوقية.»** التواتر يحسّن التقدير ولا يصلح قاعدة سيئة التحديد. فإعادة حساب الإتقان أكثر من أحداث تتضمن عملًا مُساعَدًا تتقارب أسرع على الإجابة الخاطئة نفسها.
 
-## Connected Concepts
+## المفاهيم المرتبطة
 
 - [[adaptive-learning]]
 - [[personalized-learning]]
@@ -85,7 +85,7 @@ ai_assist:
 - [[desirable-difficulties]]
 - [[retrieval-spacing-interleaving]] — retrieval and spacing as the practice engine inside mastery cycles
 
-## Connected Articles
+## المقالات المرتبطة
 
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[neural-symbolic-knowledge-tracing]] — Injecting mastery/non-mastery rules into deep learning for responsible, interpretable learner modeling

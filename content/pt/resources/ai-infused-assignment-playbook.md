@@ -49,7 +49,7 @@ Professores das mais diversas disciplinas, especialmente no ensino superior e em
 
 Este é um guia prático, não um estudo empírico; suas afirmações sobre o uso de IA pelos estudantes se apoiam em fontes externas citadas (BestColleges, Campbell, Digital Education Council, Flaherty), e não em dados novos. O framework da "construção de redes" e o enquadramento da "ilusão de compreensão" vêm da literatura mais ampla (Wigmore et al.; Williamson et al.) e são apresentados como justificativa pedagógica, não como resultados testados do próprio manual. As atividades são modelos escritos por autoria — nenhuma delas é relatada com tamanhos de efeito, então devem ser tratadas como desenhos a adaptar e avaliar localmente. Publicado em 2026-10-07, v1, no Zenodo sob CC BY 4.0; download gratuito sem necessidade de conta. No momento da ingestão, o registro mostra apenas ~35 visualizações e ~14 downloads, então ele teve pouco uso externo ou revisão por pares até agora.
 
-## Recursos conectados
+## Conceitos conectados
 
 - [[ai-literacy]]
 - [[critical-thinking]]

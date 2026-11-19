@@ -183,7 +183,7 @@ AI tác tử không phải là thuốc vạn năng cũng không phải là tổn
 
 **"Một tác tử cá nhân hóa và làm sâu sắc việc học là lợi ích ròng so với chatbot."** Nó mang theo một sự đánh đổi cụ thể: các hệ thống tác tử đe dọa [[agency|quyền chủ động]] và mời gọi [[cognitive-offloading|đẩy bớt]] nỗ lực nhận thức mà việc học phụ thuộc vào, và bằng cách làm nhiều bước mà không có giám sát, chúng khiến việc đẩy bớt đó khó nhận ra hơn. Căng thẳng giữa tự động hóa và việc học là vấn đề phân tích trung tâm của phạm trù này, không phải một lưu ý gắn thêm vào các lợi ích của nó.
 
-## Các khái niệm liên quan
+## Khái niệm liên quan
 
 - [[scaffolding]]
 - [[intelligent-tutoring]]

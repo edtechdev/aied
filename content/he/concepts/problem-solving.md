@@ -201,7 +201,7 @@ ai_assist:
 
 - הדמיות סוכנים ייחודיים-למשתתף הן מכשיר חזק לחקר ויסות שיתופי. דווחו אותן ככאלה ולא כראיה על שיתוף פעולה לא-מפוקח בין סטודנטים.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[critical-thinking]]
 - [[computational-thinking]]
@@ -213,7 +213,7 @@ ai_assist:
 - [[self-regulated-learning]]
 - [[cognitive-psychology]]
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[hao-human-ai-collaborative-problem-solving-cognition]] — פרופילי אינטראקציה (היגיון מיוחד לעומת פרשנות מתואמת) ואיזון היעילות–הווסת
 - [[ai-assisted-collaborative-learning-model-dbr]] — מודל DBR הממקם בינה מלאכותית יוצרת כשותפת למידה אינטליגנטית

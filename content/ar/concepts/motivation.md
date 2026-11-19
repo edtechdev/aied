@@ -97,7 +97,7 @@ ai_assist:
 - **«خفض الإحباط هو نفسه استدامة الدافعية.»** وجدت [[rct|تجربة عشوائية مضبوطة]] بثلاث أذرع أن مدرّسًا مسندًا بسقالة وChatGPT غير المقيَّد **خفضا الإحباط بالقدر نفسه** (3.21 و3.13). فتصميمان مختلفان جدًا أنتجا النتيجة الوجدانية ذاتها، لذا لا تستطيع بيانات الإحباط التمييز بينهما.
 - **«التصميم المحفّز تصميم جيد.»** فبين **222 طالبًا في السنة الأولى الثانوية**، رفع صيغة الحوار بين المدرّس والمدرّس دافعية ARCS **أكثر** من البديل مع **عدم تحسين التقييم العام**. فقد تحركت الدافعية ولم تتحرك الجودة المحكَّمة.
 
-## Connected Concepts
+## المفاهيم المرتبطة
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[self-directed-learning]]
@@ -116,7 +116,7 @@ ai_assist:
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — Social-Emotional Learning
 
-## Connected Articles
+## المقالات المرتبطة
 
 - [[high-school-genai-acceptance-tam-physics-2026]] — معتقدات التوقّع-القيمة كسوابق لقبول الذكاء الاصطناعي التوليدي
 - [[liu-ai-assistance-reduces-persistence-2026]] — Brief AI use reduced persistence on later unassisted problems (Liu et al. 2026)

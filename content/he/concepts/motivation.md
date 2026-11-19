@@ -95,7 +95,7 @@ ai_assist:
 - **"צמצום תסכול זהה לשימור מוטיבציה."** [[rct|RCT]] תלת-זרועי מצא שמורה-מפוגם ו-ChatGPT ללא-הגבלה **צמצמו תסכול באותה-מידה** (3.21 ו-3.13). שני עיצובים שונים מאוד הפיקו אותה תוצאה-אפקטיבית, ולכן נתוני-תסכול אינם יכולים להבחין ביניהם.
 - **"עיצוב מניע הוא עיצוב טוב."** ב**222 סטודנטים-תיכון-שנה-ראשונה**, פורמט דיאלוג-מורה-מורה **העלה מוטיבציית-ARCS יותר** מהחלופה בעוד ש**לא שיפר את ההערכה-הכוללת**. המוטיבציה זזה והאיכות-הנשפטת לא.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[self-directed-learning]]
@@ -112,7 +112,7 @@ ai_assist:
 - [[social-emotional-learning]] — Social-Emotional Learning
 - [[reflection]]
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[high-school-genai-acceptance-tam-physics-2026]] — אמונות תוחלת-ערך כקודמות לקבלת-GenAI
 - [[liu-ai-assistance-reduces-persistence-2026]] — Brief AI use reduced persistence on later unassisted problems (Liu et al. 2026)

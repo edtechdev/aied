@@ -102,7 +102,7 @@ ai_assist:
 - **「教育における AI の主な貢献は教授である」** **28 件の研究の PRISMA レビュー**は、AI が最も頻繁に**教授の計画と評価の設計**を強化したことを見出しました。最も明確な貢献は**管理業務の外部委託**であり、教授ではありません。教授上の伸びを中心に据えた主張は、エビデンスの弱い枝の上に築かれています。
 - **「AI リテラシーの指導は自動的に良い教授に移転する」** **59 件の研究（172 の効果量）**の三層のメタ分析は、**知識志向の介入（g ≈ .97）**が知識を動かす点で他のアプローチを明確に上回ったことを見出しました。動かされたのは知識であり、測定された成果です。それが実践に届いたかどうかは次の問いです。
 
-## Connected Concepts
+## 関連する概念
 - [[pedagogical-partnerships]] — 教授学的パートナーシップ
 - [[online-teaching-and-learning]] — オンライン教授と学習
 - [[learning-theories]]
@@ -135,7 +135,7 @@ ai_assist:
 - [[k-12]]
 - [[llm-training-and-fine-tuning]] — 教授法的な原理に従うよう訓練された AI ツール
 
-## Connected Articles
+## 関連する記事
 - [[genai-didactic-pedagogical-mediator-2026]] — 教授的・教授法的媒介者としての生成 AI——教師——学生——生成 AI の三項モデル（Moganadas et al. 2026）
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 「まず教授法、次に技術」——TPAIK が学生の成果に対して技術的な TAIK に勝る（Shen et al. 2026）
 - [[wang-zhang-pedagogical-partnerships-genai-2026]] — 生成 AI との教授学的パートナーシップ

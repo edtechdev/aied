@@ -92,7 +92,7 @@ ai_assist:
 - **«الخصوصية إجراء امتثال لا قيد تصميمي.»** كل أداة ذكاء اصطناعي تقريبًا تُخصّص أو تتنبأ أو تقوّم تعتمد على بيانات المتعلّم، وهو ما يجعل تقليل البيانات قرارًا تصميميًا. فالأداة التي تتطلب البيانات ليست لها خصوصية اختيارية؛ لها تبعية بيانات اختارها التصميم.
 - **الوعي بممارسات البيانات لا ينشأ من رؤيتها.** وجد [[bergdahl-student-epistemic-agency-ai-2026|بيرغدال (2026)]] أن **66% من 47 طالبًا في الصف السابع** اختاروا الخيار الأقل حمايةً على [[conversational-ai|روبوتات محادثة]] تقرأ كتاباتهم. وقد استهان **47%** آخرون بالتأثير الخوارزمي باعتباره «مجرد متعة» — وقد قيس ذلك **بعد شهر** من درس شاهد فيه الصف سلوكه المسجَّل معروضًا مباشرةً، وتفاعل بأنه «مخيف»، وبقي عدة منهم خلال الاستراحة يواصلون استخدام المنصة. فتعليم الخصوصية الذي يجعل الآلية مرئية دون جعل الكلفة محسوسة يترك الموقف على حاله. ويشير المؤلف إلى أن الدرجات المنخفضة هنا قد تكون **أدق من العالية**، إذ لا توجد إجابة متوقعة اجتماعيًا لهذه البنود بينما تستدعي المسؤولية والحوكمة إجابةً تبدو صحيحة.
 
-## Connected Concepts
+## المفاهيم المرتبطة
 
 - [[remote-proctoring]]
 - [[learning-analytics]]
@@ -108,7 +108,7 @@ ai_assist:
 - [[student-experience]]
 - [[student-support-and-success]] — student records, cross-office data sharing, and federated risk modeling
 
-## Connected Articles
+## المقالات المرتبطة
 
 - [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Penny for your prompts: contextual leakage in AI chat platforms (Bekos et al. 2026)
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)

@@ -94,7 +94,7 @@ ai_assist:
 - הצהירו על תפיסת הלמידה שההערכה שלכם מניחה, מפני שרווח מדוד הוא טוב חינוכי רק ביחס לחשבון כלשהו של מטרת החינוך.
 - תממנו את העבודה הפילוסופית לצד העבודה האמפירית: שאלות על מה שנחשב הישג של לומד קובעות את קריטריוני ההצלחה שמחקרים אמפיריים משתמשים בהם לאחר מכן.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[learning-theories]]
 - [[theory-development-aied]]
@@ -108,7 +108,7 @@ ai_assist:
 - [[ai-education]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
-## Connected Articles
+## מאמרים מחוברים
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: a philosophical framework for human–AI cognition
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis and the Post-Human Learner

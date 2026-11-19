@@ -255,7 +255,7 @@ AES יושב בצומת של [[automated-assessment|הערכה אוטומטית]
 - **"דיוק כולל הוא המדד לדווח."** **התפלגות רובריקה משופעת יכולה לגרום למדדי ציון כוללים להוליך שולל**: הערכה אוטומטית של ממד רובריקה היא לעתים קרובות משימת סיווג עם התפלגות תוויות לא-מאוזנת, שבה דיוק גבוה והבחנה שמישה נפרדים.
 - **"פריסות שדה לא הוערכו."** ראיות שדה קיימות מפריסה אמיתית בסיכון-גבוה (**המבחן *Acredita EB* באורוגוואי, 2024**), שהיא הצורה החזקה ביותר של ראיה בספרות הזו וזו שרוב מחקרי דיוק הציון לעולם אינם מספקים.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[bias-mitigation]]
 - [[equity-in-ai-education]]
@@ -268,7 +268,7 @@ AES יושב בצומת של [[automated-assessment|הערכה אוטומטית]
 - [[ai-literacy]]
 - [[assessment-validity]]
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[reflection-level-classification-hungarian-essays-2026]] — Automatic Reflection Level Classification in Hungarian Student Essays
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays

@@ -189,7 +189,7 @@ ai_assist:
 - **"אפשר להניח אוריינות דיגיטלית ברמה של מבוגרים."** [[community-centered-ai-education-adults|מקרה-בוחן ממערב-התיכון]] תכנן באופן משותף תוכנית אוריינות AI ל‑**54 מבוגרים בקהילה נטולת-שירותים** ומצא שחינוך AI למבוגרים מוכוון-שוויון **חייב לטפל תחילה באוריינות דיגיטלית בסיסית ובאמון בנתונים**. גיל אינו פרוקסי לשטף דיגיטלי.
 - **"אימוץ הוא בעיית מוטיבציה."** בניית [[ai-literacy]] ו[[trust]] סביב פרטיות נתונים חייבת להקדים את הציפייה לאימוץ. נכונות נובעת מביטחון לגבי מה שקורה לנתונים של האדם, לא מהתלהבות מן הטכנולוגיה.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[self-directed-learning]]
 - [[online-teaching-and-learning]] — הוראה ולמידה מקוונות
@@ -214,7 +214,7 @@ ai_assist:
 - [[active-learning]]
 - [[discipline-specific-aied]]
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[packard-thinking-partner-framework-adult-learners-2026]] — עיצוב לטווח של מעורבות: להפוך את הדיאלוג הסוקרטי העמוק למסלול המתגמל יותר
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning

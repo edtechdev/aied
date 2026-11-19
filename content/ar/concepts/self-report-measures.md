@@ -169,7 +169,7 @@ ai_assist:
 - **«التقرير الذاتي والبنى المقيسة يتفقان.»** **لم يختلف الحِمل المعرفي المُبلَّغ عنه ذاتيًا اختلافًا دالًّا عبر ملامح تفريغ تراوحت من 80% إلى 2% في تأليف المقال**، بينما اختلف أكبر المُفرِّغين اختلافًا قابلًا للقياس. فالمقياس الذاتي كان مستويًا حيث تباين السلوك بمعامل أربعين.
 
 
-## Connected Concepts
+## المفاهيم المرتبطة
 
 - [[interpreting-and-applying-aied-research]]
 - [[educational-measurement]]
@@ -187,7 +187,7 @@ ai_assist:
 - [[self-efficacy]]
 - [[learning-analytics]]
 
-## Connected Articles
+## المقالات المرتبطة
 
 - [[high-school-genai-acceptance-tam-physics-2026]] — درجة نيّة واحدة، واستخدامان متعاكسان
 - [[voice-based-ai-feedback-interviews-higher-ed-2026]] — وضع التطبيق الذي تستخدمه أداة التقرير الذاتي يغيّر ما تقيسه

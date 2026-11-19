@@ -114,7 +114,7 @@ ai_assist:
 
 **«المعايير غير رسمية، فهي خارج متناول المؤسسة.»** إنها مُنفَّذة محليًا وقابلة للتغيير محليًا، وهو ما يجعلها أطوع من السياسة: فممارسة فريق المقرر الصريحة رافعة تحديدًا لأنها الموضع الذي تُوضع فيه القاعدة الفعلية.
 
-## Connected Concepts
+## المفاهيم المرتبطة
 
 - [[academic-integrity]] — the formal rulebook these norms grow alongside
 - [[ai-use-disclosure]] — the practice norms regulate most directly
@@ -132,7 +132,7 @@ ai_assist:
 - [[governance]] — the formal layer these norms sit under
 - [[ethics]] — the literature that has least to say to students
 
-## Connected Articles
+## المقالات المرتبطة
 
 - [[student-perception-ai-use-collaboration]] — Students' perception accuracy of partners' AI use and its relation to collaboration performance
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use in computing education

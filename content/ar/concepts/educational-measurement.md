@@ -142,7 +142,7 @@ ai_assist:
 - **«التسمية التصنيفية تتنبّأ بمدى صعوبة المفردة.»** عبر **265 مفردة رياضيات**، فسّر مستوى بلوم المقصود **أقل من 5% من التباين في الصعوبة**. فوسم مفردة بمستوى بلوم لا يخبرك إلا بأقل القليل عن صعوبتها التجريبية.
 - **«تُحكَم جودة المفردة من صياغتها.»** **احكم على المفردات المولَّدة من مسار الحل، لا من الصياغة**: إذ رفع ترميز **شجرة الاستدلال المُتحقَّق منها** لكل مفردة الأداء فوق ثاني أفضل طريقة بفارق ملموس. فالبنية الاستدلالية هي التي حملت الإشارة، لا النص السطحي.
 
-## Connected Concepts
+## المفاهيم المرتبطة
 
 - [[interpreting-and-applying-aied-research]]
 - [[item-response-theory]]
@@ -164,7 +164,7 @@ ai_assist:
 - [[motivation]]
 - [[student-engagement]]
 
-## Connected Articles
+## المقالات المرتبطة
 
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[semantic-variability-llm-conversation-assessment-2026]]

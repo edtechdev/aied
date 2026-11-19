@@ -250,7 +250,7 @@ ai_assist:
 הזה — שגוי, מסכים ובלתי-אחראי — הוא הסיבה שהעמוד מתייחס להחניפות כאל סיכון למידה
 נבדל ולא כאל העדפה לכוונון.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[guardrails]]
 - [[generative-ai]]
@@ -273,7 +273,7 @@ ai_assist:
 - [[collaborative-learning]]
 - [[benchmark]]
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[apostolakis-trusstutor-bench-statics-2026]] — התנגדות ללחץ נעה בפער של 52 נקודות בין מודלים, ללא תלות בדיוק הפתרון
 - [[ai-personal-coach-review-benefits-risks-2026]] — הסכמה כנמדדת: תשובות מודלי שפה מאשרות ב-49% יותר מבני-אדם ומזיזות אחריות הרחק מן המשתמשים

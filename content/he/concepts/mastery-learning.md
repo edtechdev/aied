@@ -73,7 +73,7 @@ ai_assist:
 
 **"הערכה תכופה יותר תחת שליטה הופכת את הסף לאמין יותר."** תדירות משפרת את האומדן ואינה מתקנת כלל שגוי. חישוב חוזר של שליטה לעיתים קרובות יותר מאירועים הכוללים עבודה בסיוע מתכנס מהר יותר לאותה תשובה שגויה.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[adaptive-learning]]
 - [[personalized-learning]]
@@ -85,7 +85,7 @@ ai_assist:
 - [[desirable-difficulties]]
 - [[retrieval-spacing-interleaving]] — retrieval and spacing as the practice engine inside mastery cycles
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[neural-symbolic-knowledge-tracing]] — Injecting mastery/non-mastery rules into deep learning for responsible, interpretable learner modeling

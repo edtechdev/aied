@@ -98,7 +98,7 @@ Học sinh còn bị định khung bởi truyền thông rộng hơn và diễn 
 
 **"Định khung là thuyết phục, nên nó là tu từ nhiều hơn là thiết kế."** Việc định khung mà trang này mô tả được ghép với thiết kế: kỳ vọng được nêu rõ ràng và lặp lại *đồng thời thiết kế xoay quanh học sinh*. Thông điệp được đưa ra thay vì được thiết kế cho chính là phiên bản thất bại, vì học sinh đọc ra sự khác biệt giữa một cam kết được nói và một cam kết thực sự.
 
-## Các khái niệm liên quan
+## Khái niệm liên quan
 
 - [[reducing-ai-misuse]]
 - [[ai-literacy]]

@@ -111,7 +111,7 @@ ai_assist:
 - **"עמיתים וביקורת AI הם תחליפים."** מודל PAIRR [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] **משלב ביקורת עמיתים עם ביקורת AI** כדי לבנות כיול. השילוב הוא העיצוב, ומכך נובע ששום אחד מהם לבדו אינו מספק אותו.
 - **"איכות השיפוט היא תכונה של השופט."** ממצא הקבלה ממקם את הבעיה בהסדר — שיפוט לא-מאומת המופעל במחיר תוצאה וללא שלב סינון — ולא ביכולתם של היחידים.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[pedagogical-patterns]] — The appraisal step students perform on AI output inside these sequences
 - [[ai-education]] — AI in education (umbrella)
@@ -130,7 +130,7 @@ ai_assist:
 - [[agency]]
 - [[higher-ed]]
 
-## Connected Articles
+## מאמרים מחוברים
 - [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT versus peer feedback as training grounds for different dimensions of evaluative judgment
 
 - [[ai-internal-feedback-evaluative-judgments]] — How AI-supported internal feedback develops evaluative judgments, and where reasoning stays thin

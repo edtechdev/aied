@@ -117,7 +117,7 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 
 **"נורמות הן בלתי-פורמליות, ולכן מחוץ להישג ידו של המוסד."** הן נאכפות מקומית ומשתנות מקומית, מה שהופך אותן ליותר ניתנות לטיפול מאשר מדיניות: הפרקטיקה המפורשת של צוות קורס היא מנוף בדיוק מפני ששם נקבע הכלל התפעולי.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[academic-integrity]] — the formal rulebook these norms grow alongside
 - [[ai-use-disclosure]] — the practice norms regulate most directly
@@ -135,7 +135,7 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 - [[governance]] — the formal layer these norms sit under
 - [[ethics]] — the literature that has least to say to students
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[student-perception-ai-use-collaboration]] — Students' perception accuracy of partners' AI use and its relation to collaboration performance
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use in computing education

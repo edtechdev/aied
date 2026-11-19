@@ -92,7 +92,7 @@ ai_assist:
 - **"פרטיות היא תיבת-סימון של ציות ולא אילוץ-עיצוב."** כמעט כל כלי-AI שמאשר, חוזה או מעריך תלוי בנתוני-לומד, מה שהופך צמצום-נתונים להחלטת-עיצוב. כלי שדורש את הנתונים אינו מחזיק הגדרת-פרטיות אופציונלית; יש לו תלות-נתונים שהעיצוב בחר.
 - **מודעות לפרקטיקות-נתונים אינה נובעת מלראות אותן.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] מצא ש-**66% מ-47 תלמידי כיתה ז'** בחרו באפשרות הפחות מגנה ב[[conversational-ai|צ'אטבוטים]] שקוראים את הכתיבה שלהם. **47%** נוספים דחו השפעה אלגוריתמית כ"סתם כיף" — **חודש לאחר** שיעור שבו הכיתה צפתה בהתנהגות המתועדת שלה מוקרנת בשידור חי, הגיבה שזה "מפחיד", וכמה נשארו לאורך ההפסקה כדי להמשיך להשתמש בפלטפורמה. הוראת-פרטיות שהופכת את המנגנון לגלוי בלי להפוך את המחיר לקונקרטי משאירה את העמדה ללא שינוי. המחבר מציין שהציונים הנמוכים כאן עשויים להיות **מהימנים יותר מהגבוהים**, מכיון שאין תשובה צפויה חברתית לפריטים האלה, בעוד אחריות וממשל מזמינים את התגובה הנשמעת-נכונה.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[remote-proctoring]]
 - [[learning-analytics]]
@@ -108,7 +108,7 @@ ai_assist:
 - [[student-experience]]
 - [[student-support-and-success]] — student records, cross-office data sharing, and federated risk modeling
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Penny for your prompts: contextual leakage in AI chat platforms (Bekos et al. 2026)
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)

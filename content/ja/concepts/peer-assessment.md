@@ -102,7 +102,7 @@ ai_assist:
 
 - **グループ成績の背後にある記録としての省察的なピア・自己フォーム。** [[issa-teamwork-framework-academic-integrity-2024|Issa と Hall（2024年）]]は、大学院のビジネス・プロジェクト管理ユニットで、チームメイトごとに1枚のピア省察フォームと、学生ごとに1枚の自己省察フォームを用い、加えて各チームとの30分の面談で、成員の貢献が独創的だったかを尋ねました。フォームはフィードバック交換として採点されたのではありません。40%のチーム評価の中で教員が個人の評点を擁護できるようにする、一人ひとりの証拠でした。この枠組みの評点は40点中27点から31点へ上がりましたが、それは新しい講師と交絡しており、誠実性の主張は数値化されていないため、移転可能な部分は記録の構造であり、効果量ではありません。
 
-## Connected Concepts
+## 関連する概念
 - [[pedagogical-patterns]] — PAIRR と組み合わせたピアと AI のフィードバック——配列とその比較的な証拠
 - [[writing-education]]
 - [[formative-assessment]]
@@ -120,7 +120,7 @@ ai_assist:
 - [[assessment]]
 - [[scaffolding]]
 
-## Connected Articles
+## 関連する記事
 - [[ai-peer-feedback-l2-writing-engagement-2026]] — 統合された AI とピアのフィードバックは、三つのエンゲージメントの側面すべてと四つの IELTS ライティングの側面すべてを高めた
 
 - [[usher-faraon-who-grades-best-2026]] — プロジェクトの質の水準にわたって、ChatGPT、ピア、教員の採点を比較する（Usher & Faraon 2026）

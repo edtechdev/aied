@@ -274,7 +274,7 @@ ai_assist:
 
 **"ממצאים כמותניים ואיכותניים מתחרים."** הם עונים על שאלות שונות: סקר אומר לכם כמה סטודנטים אינם בוטחים בחונך, וראיונות אומרים לכם למה. התייחסות אליהם כאל תיאורים יריבים של אותו דבר מייצרת את הבחירה הכוזבת שפרקי סקירה ממשיכים לשחזר.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[research-methods-aied]]
 - [[mixed-methods-research]]
@@ -290,7 +290,7 @@ ai_assist:
 - [[cognitive-offloading]]
 - [[self-report-measures]]
 
-## Connected Articles
+## מאמרים מחוברים
 
 - [[chain-behind-claim-warrantability-2026]] — תקן יישות לניתוח איכותני בסיוע בינה מלאכותית
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch: a grounded theory of AI-assisted programming

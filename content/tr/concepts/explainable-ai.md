@@ -105,6 +105,10 @@ Açıklanabilirlik için özellikle önemli olan ödevler, açıklamayı not def
 - **“Genel XAI pratiği eğitime aktarılır.”** [[xai-education-framework|XAI-ED çerçevesi]] (Khosravi ve ark., 2022), eğitimin genel XAI’nin ötesinde **kendine özgü açıklanabilirlik ihtiyaçları** olduğunda ısrar eder; çünkü hedef kitle, açıklamayı sertifikalandırması gereken denetçiler değil, ona göre hareket etmesi gereken öğrenenleri de içerir.
 - **“Sadakat, sorgulamadan iddia edilebilecek bir özelliktir.”** Ölçülen sadakat, insan puanlarının yanında **rubrik açısından kritik bölümlerin karşıolgusal silinmesini** gerektirir. Rubriğe dikkat hizalamasının **GPT-4 sıfır atımlık koşulun %41,7’sine ve BERT’in %32,1’ine karşılık %78,0’e** ulaşması, bu tür bir sorgulamadan çıkan karşılaştırmalı bir sonuçtur, yorumlanabilirlik hakkında bir iddiadan değil.
 
+## Atıf
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
 ## Bağlı Kavramlar
 - [[trust-calibration]]
 - [[trust]]
@@ -123,10 +127,6 @@ Açıklanabilirlik için özellikle önemli olan ödevler, açıklamayı not def
 - [[privacy]]
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
-
-## Atıf
-
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
 
 ## Bağlı Makaleler
 - [[lund-socially-accountable-data-science-xai-2026]] — XAI’ı hesap verebilirlik uygulaması olarak öğretmek için dört sütunlu çerçeve (yanıt verebilirlik, sorumluluk, yaptırım, düşünsel duruş) (Lund ve ark. 2026)

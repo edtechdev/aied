@@ -26,10 +26,10 @@ export const CONNECTED_HEADINGS: Record<string, ConnectedHeadings> = {
   ja: { connectedConcepts: '関連する概念', connectedArticles: '関連する記事' },
   ko: { connectedConcepts: '연결된 개념', connectedArticles: '연결된 문서' },
   pt: { connectedConcepts: 'Conceitos conectados', connectedArticles: 'Artigos conectados' },
-  ar: { connectedConcepts: 'المفاهيم المتصلة', connectedArticles: 'المقالات المتصلة' },
+  ar: { connectedConcepts: 'المفاهيم المرتبطة', connectedArticles: 'المقالات المرتبطة' },
   he: { connectedConcepts: 'מושגים מחוברים', connectedArticles: 'מאמרים מחוברים' },
   hi: { connectedConcepts: 'संबंधित अवधारणाएँ', connectedArticles: 'संबंधित लेख' },
-  ru: { connectedConcepts: 'Связанные понятия', connectedArticles: 'Связанные статьи' },
+  ru: { connectedConcepts: 'Связанные концепции', connectedArticles: 'Связанные статьи' },
   uk: { connectedConcepts: 'Пов’язані поняття', connectedArticles: 'Пов’язані статті' },
   it: { connectedConcepts: 'Concetti collegati', connectedArticles: 'Articoli collegati' },
   tr: { connectedConcepts: 'Bağlı kavramlar', connectedArticles: 'Bağlı makaleler' },
@@ -50,7 +50,40 @@ export const CONNECTED_HEADINGS: Record<string, ConnectedHeadings> = {
   sk: { connectedConcepts: 'Prepojené pojmy', connectedArticles: 'Prepojené články' },
   hr: { connectedConcepts: 'Povezani pojmovi', connectedArticles: 'Povezani članci' },
   el: { connectedConcepts: 'Συνδεδεμένες έννοιες', connectedArticles: 'Συνδεδεμένα άρθρα' },
-  sw: { connectedConcepts: 'Dhana zinazohusiana', connectedArticles: 'Makala zinazohusiana' },
+  sw: { connectedConcepts: 'Dhana Zilizounganishwa', connectedArticles: 'Makala Zilizounganishwa' },
+};
+
+/**
+ * Recognised variants of the connected headings, per locale.
+ *
+ * The corpus was translated in waves, and later waves sometimes chose a different but
+ * equally standard phrasing ("Verbonden concepten" beside "Gerelateerde concepten",
+ * "Dhana Zilizounganishwa" beside "Dhana zinazohusiana"). The renderer matches a
+ * heading by its exact text after lowercasing, so a variant missing from this table
+ * loses the connected-list styling even though the page is translated. Only variants
+ * that occur on enough pages to be a convention belong here; a one-off invention is a
+ * page to fix, not an alias to accept. One line per locale keeps
+ * check-translated-headings.py able to parse this block.
+ */
+export const CONNECTED_ALIASES: Record<string, Partial<Record<'connectedConcepts' | 'connectedArticles', string[]>>> = {
+  ja: { connectedConcepts: ['関連概念', '関連する構成概念', 'つながる概念'], connectedArticles: ['関連記事', '関連論文', 'つながる記事'] },
+  ko: { connectedConcepts: ['연결된 개념들'], connectedArticles: ['연결된 글들'] },
+  ar: { connectedConcepts: ['مفاهيم مرتبطة', 'المفاهيم المتصلة', 'المفاهيم المترابطة', 'مفاهيم مترابطة'], connectedArticles: ['مقالات مرتبطة', 'المقالات المتصلة', 'المقالات المترابطة', 'مقالات مترابطة'] },
+  he: { connectedConcepts: ['מושגים מקושרים', 'מושגים קשורים'], connectedArticles: ['מאמרים מקושרים', 'מאמרים קשורים'] },
+  hi: { connectedConcepts: ['संबद्ध अवधारणाएँ', 'जुड़ी अवधारणाएँ', 'संबद्ध संकल्पनाएँ'] },
+  ru: { connectedConcepts: ['Связанные понятия', 'Связанные концепты'] },
+  nl: { connectedConcepts: ['Verbonden concepten'], connectedArticles: ['Verbonden artikelen'] },
+  da: { connectedConcepts: ['Forbundne begreber'], connectedArticles: ['Forbundne artikler'] },
+  fi: { connectedConcepts: ['Liittyvät konseptit'] },
+  no: { connectedConcepts: ['Tilknyttede begrep', 'Beslektede begreper'], connectedArticles: ['Beslektede artikler'] },
+  ro: { connectedConcepts: ['Concepte conectate'], connectedArticles: ['Articole conectate'] },
+  hu: { connectedConcepts: ['Összefüggő fogalmak'], connectedArticles: ['Összefüggő cikkek'] },
+  cs: { connectedConcepts: ['Související koncepty'] },
+  bg: { connectedConcepts: ['Свързани концепции'] },
+  sk: { connectedConcepts: ['Prepojené koncepty', 'Súvisiace koncepty'], connectedArticles: ['Súvisiace články'] },
+  hr: { connectedConcepts: ['Povezani koncepti'] },
+  pl: { connectedConcepts: ['Połączone koncepcje'], connectedArticles: ['Połączone artykuły'] },
+  sw: { connectedConcepts: ['Dhana zinazohusiana', 'Dhana Zinazohusiana'], connectedArticles: ['Makala zinazohusiana', 'Makala Zinazohusiana'] },
 };
 
 /** The connected headings for one locale, falling back to English. */
@@ -61,9 +94,20 @@ export function connectedHeadings(locale: string): ConnectedHeadings {
 /** Every locale's pair, lowercased — the renderer accepts all of them. */
 export function allConnectedHeadings(): Record<string, 'concept' | 'article'> {
   const out: Record<string, 'concept' | 'article'> = {};
-  for (const { connectedConcepts, connectedArticles } of Object.values(CONNECTED_HEADINGS)) {
+  for (const [locale, { connectedConcepts, connectedArticles }] of Object.entries(CONNECTED_HEADINGS)) {
     out[connectedConcepts.toLowerCase()] = 'concept';
     out[connectedArticles.toLowerCase()] = 'article';
+    const aliases = CONNECTED_ALIASES[locale];
+    if (!aliases) continue;
+    for (const label of aliases.connectedConcepts ?? []) out[label.toLowerCase()] = 'concept';
+    for (const label of aliases.connectedArticles ?? []) out[label.toLowerCase()] = 'article';
   }
   return out;
+}
+
+/** Canonical heading plus every accepted variant, for one locale and kind. */
+export function acceptedConnectedLabels(locale: string, kind: 'connectedConcepts' | 'connectedArticles'): string[] {
+  const canonical = connectedHeadings(locale);
+  const aliases = CONNECTED_ALIASES[locale]?.[kind] ?? [];
+  return [canonical[kind], ...aliases];
 }

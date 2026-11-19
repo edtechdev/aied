@@ -113,7 +113,7 @@ Bằng chứng cho việc đầu hàng nhận thức như một khái niệm đ�
 
 **"Dạy đánh giá phê phán là đủ."** Điều đó cần thiết và nó đến quá muộn. Khi một câu trả lời có vẻ hợp lý đã hiện trên màn hình, việc đánh giá trở thành việc xác nhận - đó là lý do tài liệu thiết kế ở đây đặt nỗ lực của sinh viên trước đầu ra của hệ thống thay vì kiểm toán nó sau đó.
 
-## Các khái niệm liên quan
+## Khái niệm liên quan
 
 - [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]

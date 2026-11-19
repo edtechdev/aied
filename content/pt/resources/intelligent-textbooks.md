@@ -51,7 +51,7 @@ Professores e designers instrucionais que querem construir ou manter o livro de 
 
 Este é o guia e a cadeia de ferramentas de um praticante, não um estudo revisado por pares — ele apresenta um fluxo de trabalho e sua própria justificativa educacional ("livros inteligentes guiam os estudantes pelos conceitos em sua busca pelo conhecimento") em vez de evidências de resultados de aprendizagem. O artigo de pesquisa sobre MicroSims é o que mais se aproxima de lastro empírico, e ele é autopublicado no arXiv. Ambos os projetos são de código aberto (o repositório intelligent-textbooks reporta licença MIT e 38 estrelas; o MicroSims reporta licença Creative Commons e 13 estrelas) e são mantidos ativamente. Grafos de conceitos e estrutura que começa pelo glossário são genuinamente úteis para descoberta, mas o guia pressupõe um fluxo de autoria bastante técnico — MkDocs, Git e ferramental de IA generativa — o que pode ser uma barreira para parte do corpo docente. No momento da ingestão, o registro de MicroSims ainda estava apenas no roadmap, então encontrar uma simulação específica já existente depende da busca e da navegação do próprio site.
 
-## Recursos conectados
+## Conceitos conectados
 
 - [[curriculum-design]]
 - [[learning-design]]

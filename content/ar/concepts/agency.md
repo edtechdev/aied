@@ -142,7 +142,7 @@ ai_assist:
 - **"النماذج الحالية تدعم فاعلية المتعلّم جيدًا."** **قيس ذلك عبر عشرة نماذج، ودعم الفاعلية هو المجال الذي تؤديه أسوأ أداء بعد التعلّم**: قاس ImpactBench **الفاعلية والغاية عند 56.0%** وفق المعايير الإيجابية. فالفاعلية هي البعد الذي تتعامل معه أنظمة الذكاء الاصطناعي أسوأ من غيره، لا نتيجةً عرضية للقدرة.
 - **"وساطة المعلّم قيد على الفاعلية."** تابع [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] **عشرة معلّمي رياضيات ثانويين عبر تدخّل بـChatGPT-4 استمر ثمانية أسابيع**، فكانت الوساطة هي الآلية لا العقبة.
 
-## Connected Concepts
+## المفاهيم المرتبطة
 
 - [[learners]] — المتعلّمون: المظلة الشاملة لمفاهيم جانب المتعلّم
 - [[pedagogical-partnerships]] — الشراكات التربوية
@@ -164,7 +164,7 @@ ai_assist:
 - [[social-emotional-learning]] — التعلّم الاجتماعي الوجداني
 - [[cognitive-surrender]]
 
-## Connected Articles
+## المقالات المرتبطة
 
 - [[tench-ai-policy-isnt-a-playbook-2026]] — مسح وطني ممثل لمعلّمي ومديري المدارس الأمريكية عن تغطية سياسة الذكاء الاصطناعي والفاعلية وخمس لعبات صفية (Tench, Weinstein & James 2026)
 - [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning

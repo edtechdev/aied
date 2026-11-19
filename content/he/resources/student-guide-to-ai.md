@@ -81,7 +81,7 @@ The Princeton Review. שלוש המהדורות נבנות זו על גבי זו
 קמפוס מותאמות, הם שלהם, כמו גם ההמלצות מ-ALA, NASPA, EDUCAUSE, OLC, CAA, מכון
 גרדנר ו-RTI International.
 
-## Connected Concepts
+## מושגים מחוברים
 
 - [[ai-literacy]]
 - [[critical-thinking]]

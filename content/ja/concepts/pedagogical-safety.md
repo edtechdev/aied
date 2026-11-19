@@ -80,7 +80,7 @@ ai_assist:
 
 **「モデルレベルの安全性の仕事はどれも広報的な施策である」** その一部は測定可能です。[[llm-unlearning-math-privacy|数学のアンラーニング]]の研究は、勾配に基づくアンラーニングを適用して識別可能な情報と有害な内容を取り除き、能力を保ちながらPIIの出力を**0.1%**まで、有害率を**0.0%**まで下げたと報告しています。モデルレベルの統制は多層防御の一層であり、単独では不十分ですが、無でもありません。
 
-## Connected Concepts
+## 関連する概念
 - [[guardrails]] — 安全性を実装する設計メカニズム
 - [[hallucination-risk]]
 - [[rag]]
@@ -106,7 +106,7 @@ ai_assist:
 - [[ai-misuse-learning-harm]]
 - [[human-in-the-loop-ai]]
 
-## Connected Articles
+## 関連する記事
 
 - [[scaffolding-student-ai-dialogue-framework-2026]] — 学生と AI の対話を操縦するための SCAFFOLD 枠組みと、そのクラスでの試行
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — 教師が設計した安全性の層——領域の境界、フィルタリング、オーバーライド
