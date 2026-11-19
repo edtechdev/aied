@@ -1,6 +1,6 @@
 ---
 title: "Ethnoeducation, Afro-descendant youth leadership, and artificial intelligence literacy: an exploratory study with educational actors from Esmeraldas, Ecuador"
-created: "2026-11-19T09:30:00-05:00"
+created: "2026-11-19T09:20:00-05:00"
 updated: "2026-11-19T09:30:00-05:00"
 type: article
 published: "2026"
@@ -27,16 +27,16 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Medranda Morales and García Iturralde (2026) examine a culturally situated account of [[ai-literacy|AI literacy]] with 90 educational, youth, and community actors in Esmeraldas, Ecuador — 94.4% in that province — then explain the survey with a three-participant focus group of young Afro-Ecuadorians. All six dimensions scored between 4.60 and 4.72 on a five-point scale, with identity highest (M = 4.72) and critical AI literacy the lowest relative mean (M = 4.60). Reliability did not travel with those means: identity reached only α = .471 while youth leadership reached α = .836, and the overall α = .911 rested on 62 complete cases. All 15 Spearman correlations were positive (ρ = .433 to .680): association, not causation. The focus group is where the [[equity-in-ai-education|equity]] argument turns concrete: participants described occasional, task-bounded use and image tools that altered their skin tone, hair texture, or facial features — [[automation-bias|automated bias]] the survey recorded only as agreement that AI "can reproduce stereotypes" (M = 4.50).
+> **Synthesis:** Medranda Morales and García Iturralde (2026) examine a culturally situated account of [[ai-literacy|AI literacy]] with 90 educational, youth and community actors in Esmeraldas, Ecuador, then explain the survey with a three-participant focus group of young Afro-Ecuadorians. Every dimension scored high on a five-point scale, with Afro-descendant identity the highest and critical AI literacy the lowest — and the instrument's identity subscale was its least reliable, so the ranking is softer than the means suggest. The focus group is where the [[equity-in-ai-education|equity]] argument turns concrete: participants described occasional, task-bounded use and image tools that altered their skin tone, hair texture or facial features — [[automation-bias|automated bias]] the survey recorded only as agreement that AI "can reproduce stereotypes."
 
 ## Key Findings
 
-- **Afro-descendant identity was the highest-rated dimension.** It scored M = 4.72 (SD = 0.41), with pride at M = 4.87 (n = 68) and 95.6% of scores at or above 4.
-- **Critical AI literacy held the lowest relative mean.** It scored M = 4.60 (SD = 0.45) with 88.9% at or above 4; AI's support for learning drew the weakest item mean (M = 4.42).
-- **Reliability varied sharply across dimensions.** Youth leadership reached α = .836 and educommunication α = .819, while Afro-descendant identity reached only α = .471 despite an overall α = .911.
-- **Every dimension pairing was positively associated.** All 15 Spearman coefficients ran from ρ = .433 to ρ = .680 at p < .001, strongest between ethnoeducation and educommunication.
-- **Image tools altered participants' racialized features.** YP2 said the tool "changed my skin tone and did not recognize my features" and called it "a form of racism, even if it is digital."
-- **Reported use was narrow, unlike the survey consensus.** The three young participants used AI for logos, notes, and study; YP1 said that in his "day-to-day life I don't usually use artificial intelligence much."
+- **Afro-descendant identity was the highest-rated dimension**, with pride near the top of the scale on almost every response.
+- **Critical AI literacy was the lowest-rated dimension**, and AI's support for learning the weakest single item.
+- **Reliability was uneven**: youth leadership measured consistently, Afro-descendant identity poorly, despite strong overall reliability.
+- **All dimensions moved together** — every pairing was positively associated, strongest between ethnoeducation and educommunication.
+- **Image tools altered participants' racialized features.** One participant said a tool "changed my skin tone and did not recognize my features" and called it "a form of racism, even if it is digital."
+- **Reported use was narrow, unlike the survey consensus.** The three young participants used AI for logos, notes and study; one said he does not use it much day to day.
 
 ## Six dimensions, one instrument
 

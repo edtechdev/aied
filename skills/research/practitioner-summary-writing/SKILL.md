@@ -26,15 +26,22 @@ four defects ship green:
    the PDF title block or the raw archive, and repeated identically in the citation. Never a summary of
    the finding, never a shortened or sentence-cased variant. A descriptive headline reads better and is
    exactly the failure: the page then contradicts its own citation line.
-2. **Key Findings as a coefficient dump.** `β = 1.92, d = 0.44, p < .001` three to a line is not a
-   finding, it is a table flattened into prose. Each item is one sentence saying what was found and why
-   it matters — "Note-taking produced better learning than the chatbot alone" — with no *d*, *β*, *p*,
-   *F*, η², confidence interval or stacked percentages. Coefficients belong in the body section that
-   discusses that comparison, and in Limitations.
-3. **Practice bullets with no addressee.** Every bullet opens with a bold audience label:
-   `**Instructors:**`, `**Instructional designers:**`, `**Curriculum designers:**`,
-   `**Assessment designers:**`, `**Administrators:**`, `**Researchers:**`. Instructors first when the
-   paper speaks to teaching. An unlabeled bullet makes the reader work out whether it is for them.
+2. **A synthesis or Key Findings block that is a coefficient dump.** `β = 1.92, d = 0.44, p < .001`
+   three to a line is not a finding, it is a table flattened into prose. This applies to the
+   `> **Synthesis:**` blockquote as much as to Key Findings — it is the one paragraph a reader
+   sees before deciding whether to read on, so a pooled model's path coefficients there cost them
+   the finding and tell them nothing. Each Key Findings item is one sentence saying what was found
+   and why it matters — "Note-taking produced better learning than the chatbot alone" — with no
+   *d*, *β*, *p*, *F*, η², confidence interval, M/SD, correlation or stacked percentages.
+   Coefficients belong in the body section that discusses that comparison, and in Limitations.
+   Practice bullets carry no statistics either: an instructor acting on Monday needs the move, not
+   the effect size behind it.
+3. **Practice bullets with no addressee.** Every bullet opens with a bold audience label, in the
+   house form `- **Instructors.** ...` — period inside the bold run, not a colon:
+   `**Instructors.**`, `**Assessment designers.**`, `**Curriculum designers.**`,
+   `**Programme designers.**`, `**Program leaders.**`, `**Faculty developers.**`,
+   `**Administrators.**`, `**Researchers.**`. Instructors first when the paper speaks to
+   teaching. An unlabeled bullet makes the reader work out whether it is for them.
 4. **Length as padding.** Target 750-1,000 words of body; 1,400+ reads as padding even when every
    section is on-topic. Supporting detail belongs on the concept pages the article feeds, not in the
    article.
@@ -53,6 +60,10 @@ four defects ship green:
 
 ## Pitfalls
 
+- **A gate now reads the prose.** `tooling/scripts/check-summary-plain-language.py --changed` fails
+  on statistical notation in a Synthesis blockquote or Key Findings bullet, and on a practice bullet
+  without an audience label. Run it on the pages you touched before saying the page is done: a green
+  `audit-article-sections.py` checks shape, not readability.
 - **A verbatim title can carry a spelling the house style rejects.** Keep the title as printed (house
   style applies to body prose, and the US-English checker skips frontmatter); do not silently respell the
   source's title or the citation stops matching the paper.

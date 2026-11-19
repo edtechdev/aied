@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-16T05:34:40-05:00"
+updated: "2026-11-19T13:45:26-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -75,6 +75,8 @@ Adding a [[tpack|TPACK]]-family capability alongside belief frameworks such as t
 - **Acceptance measured at the level of instructional materials (2026).** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang and Wu (2026)]] operationalized Performance Expectancy, Effort Expectancy, Perceived Playfulness, and Behavioral Intention for two age-tiered AI literacy guidebooks used by 794 [[k-12]] students and 37 teachers, validating the four-factor structure with split-sample EFA and CFA and supporting measurement invariance across the 9-12 and 13-18 editions. Younger learners reported higher levels on all four constructs, and playfulness was the strongest correlate of intention in both cohorts — with the standardized playfulness-to-intention coefficient exceeding 1.00 in the younger group and an HTMT of .950 between the two constructs. The authors read that as construct overlap and possible suppression rather than a giant effect, a useful reminder that acceptance instruments applied to materials can produce empirically entangled factors that complicate structural interpretation.
 
 In a two-wave interview study of 22 faculty, learning more about AI made some more cautious rather than more accepting, reversing the model's assumed direction from experience to ease of use ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
+
+Even a clean interface win need not move intention: when adults aged 18 to 25 looked for university program information through a grounded chatbot or the program's website. Every perceptual measure favored the chatbot while behavioral intention to use it again did not differ, and technology readiness moderated the size of the advantage, with the least comfortable users gaining least ([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]]).
 
 ## Limits and extensions
 

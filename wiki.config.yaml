@@ -133,6 +133,12 @@ build:
     # Article page shape: the practice and Limitations sections, their bullet counts
     # (practice 3-5, Limitations 2-6) and the section order, on the pages touched here.
     - python3 tooling/scripts/audit-article-sections.py --changed
+    # A summary a practitioner cannot act on: the Synthesis blockquote and Key Findings
+    # bullets carrying β, d, p, CI, M/SD instead of a stated finding, or a practice bullet
+    # with no audience label. 913 pages and 2,605 bullets had accumulated before this gate
+    # existed; it is scoped to the touched pages so the backlog does not block a build while
+    # new and edited pages cannot ship another coefficient dump.
+    - python3 tooling/scripts/check-summary-plain-language.py --changed
     # A page that talks about the wiki instead of its subject ("this page", "the corpus",
     # "the knowledge base") tells a reader nothing they came for, and 1,273 such sentences
     # had accumulated because no gate read for them. A study's own text corpus is allowed.

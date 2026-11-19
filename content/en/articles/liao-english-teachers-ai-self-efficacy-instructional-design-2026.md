@@ -1,6 +1,6 @@
 ---
 title: "“Can AI change the future of English teaching?”: teachers' AI self-efficacy and instructional design content creation"
-created: "2026-11-19T09:30:00-05:00"
+created: "2026-11-19T09:20:00-05:00"
 updated: "2026-11-19T09:30:00-05:00"
 type: article
 page_kind: [evaluation]
@@ -28,12 +28,12 @@ ai_assist:
 > **Synthesis:** Liao and Fan (2026) ask whether AI can change the future of English teaching and answer with a survey of 505 Chinese college English teachers, modeled as a moderated mediation in which [[self-efficacy|AI self-efficacy]] works on self-evaluated [[learning-design|instructional design content creation]] partly through [[anxiety-and-stress|AI anxiety]] and partly under the conditioning of perceived school support. Self-efficacy was the stronger positive correlate of content creation, anxiety carried a smaller but significant indirect share, and school support changed both links rather than acting on content directly. Support sharpened the negative self-efficacy-to-anxiety path and flattened the negative anxiety-to-content-creation path, so a well-resourced school made confident teachers calmer and made anxious teachers less impaired. Everything here is cross-sectional self-report from one region, and the outcome is teachers' judgment of their own design performance, not audited quality of the materials. The contribution is the shape of the model — cognition, emotion, and context held together — not a causal story or an intervention effect.
 
 ## Key Findings
-- **Self-efficacy is the strongest correlate of content creation.** AI self-efficacy associated positively with instructional design content creation at β = 0.405, and the total association reached 0.553 once the anxiety pathway was counted.
-- **Anxiety carries a real indirect share.** Higher self-efficacy went with lower AI anxiety at β = −0.431, lower anxiety went with higher content creation at β = −0.345, and the indirect path was 0.149.
-- **A supported school steepens the efficacy–anxiety link.** Where school support was high the self-efficacy-to-anxiety slope was −0.703, against −0.160 where support was low, a gap of −0.543 between the two conditions.
-- **Support also buffers the anxiety–content link.** At high support the anxiety-to-content-creation slope was −0.234, against −0.457 at low support, so anxious teachers lost less ground where the school provided resources.
-- **Support never acted on content creation directly.** Its direct path to content creation was not significant, which means its whole role ran through the two conditional links rather than through resourcing alone.
-- **Evaluations climb with age and experience.** Teachers aged 51 and above averaged 3.816 on content creation against 2.462 for those 30 and under, and the upward pattern held across experience bands.
+
+- **Confident teachers rate their own materials higher.** AI self-efficacy was the strongest correlate of self-reported instructional-design content creation.
+- **Anxiety carries part of that link.** Confident teachers were less anxious about AI, and less anxious teachers rated their content creation higher.
+- **A supportive school makes confidence count for more.** Where school support was high, confident teachers were far calmer, and anxious teachers lost much less ground.
+- **Support worked through those two links, not directly** — its direct path to content creation was not significant.
+- **Evaluations rise with age and experience**, with teachers over 50 rating themselves far above those under 30.
 
 ## A chain of belief, feeling, and evaluation
 

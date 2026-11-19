@@ -24,15 +24,15 @@ confidence: medium
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Goebert, Johnson and Chung (2026) randomly assigned 299 adults aged 18–25 to find five pieces of university program information through either a traditional website or a [[conversational-ai|conversational interface]] built on GPT-4o and answering only from uploaded program PDFs. The chatbot group solved the tasks **faster** (312 s vs. 505 s, d = −0.73) and **more accurately** (95.6% vs. 78.5% of answers correct, OR = 7.84), and rated it easier, more useful, more enjoyable and more recommendable. But the advantage was **task-dependent**: on the one question tied to a named person — who to contact about a course override — the website won, 96.5% to 85.2%.
+> **Synthesis:** Goebert, Johnson and Chung (2026) randomly assigned 299 adults aged 18–25 to find five pieces of university program information through either a traditional website or a [[conversational-ai|conversational interface]] grounded only in the program's PDFs. The chatbot won on speed, accuracy and every rating of ease and usefulness — but it lost the one question that needed a person: who to contact about a course override. The boundary the study draws is the useful part: a grounded assistant answers what the documents contain, and stops where the answer is a name.
 
 ## Key Findings
 
-- **A grounded chatbot answered program questions faster and more accurately than the website**: 312 s against 505 s, and 95.6% against 78.5% of submitted answers correct (OR = 7.84).
-- **The advantage was task-dependent.** On the one question tied to a named person — who to contact about a course override — the website won, 96.5% to 85.2%.
-- **Every perceptual outcome favored the chatbot except behavioral intention**, which did not differ significantly (p = 0.058) despite higher ease, usefulness, attitude, hedonic value and word-of-mouth ratings.
-- **Technology readiness moderated the advantage**: users high in optimism and innovativeness gained most, which means the users least comfortable with technology are the ones the chatbot helps least.
-- **The sample was not a student sample**: participants were 18–25-year-old panel workers, and university enrollment was neither required nor assessed.
+- **A grounded chatbot beat the website on the tasks it was built for**: faster completion, more correct answers, and higher ratings for ease, usefulness and enjoyment.
+- **The advantage stopped at the question that needed a person.** Asked who to contact about a course override, the website won — the answer no program document contains.
+- **Liking did not become intention.** Every perceptual measure favored the chatbot, but the difference in behavioral intention was not significant.
+- **The users least comfortable with technology gained least**, because technology readiness moderated the advantage.
+- **Participants were 18–25-year-old panel workers, not students**, and university enrollment was neither required nor assessed.
 
 ## What the study did
 
@@ -83,11 +83,11 @@ Technology readiness moderated the result in a way that should shape expectation
 
 ## What this means for practice
 
-- **Layer the assistant on the site; do not replace the site.** The website kept a real advantage on person- and office-linked information, so it remains the canonical source.
-- **Include the source link in every answer**, especially for requirements, policies, deadlines and anything where being wrong has consequences.
-- **Pilot first on navigation-heavy, high-volume questions** — internship and credit requirements, completion rules — where the accuracy gain was largest (+59.2 points on internship hours).
-- **Keep contact information reachable by normal navigation**, since the chatbot lost on the course-override contact question (85.2% vs. 96.5%).
-- **Evaluate with objective measures** — completion time and answer accuracy — alongside acceptance surveys; a satisfaction score alone would have hidden the contact-question failure.
+- **Administrators.** Layer an assistant onto the existing site rather than replacing it: the website kept its advantage on person- and office-linked information, so it stays the canonical source.
+- **Web and communications staff.** Put a source link in every answer, especially for requirements, policies and deadlines, where being wrong has consequences.
+- **Administrators.** Pilot on navigation-heavy, high-volume questions — internship and credit requirements, completion rules — where the accuracy gain was largest.
+- **Web and communications staff.** Keep contact information reachable by ordinary navigation; the chatbot lost the question about who to contact for a course override.
+- **Evaluators.** Judge with objective measures, completion time and answer accuracy, alongside satisfaction surveys; a satisfaction score alone would have hidden the failure.
 
 ## Limitations
 

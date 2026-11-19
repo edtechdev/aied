@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-17T09:26:00-05:00"
+updated: "2026-11-19T13:45:26-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -68,7 +68,7 @@ Holding the axes apart matters, because conflating them is how a redesign looks 
 
 Salameh's (2026) Fade–Visibility Matrix crosses the same design question with a second variable — whether [[scaffolding|AI support persists or fades]] — and names the combination most courses default to, support that never fades assessed only by its product, Silent Dependency ([[salameh-critical-thinking-crisis-higher-ed-review-2026|Salameh, 2026]]).
 
-The construct is also distinguishable from the question of how evidence is scored. [[assessment-validity|Validity]] reasoning is where the two meet: Brunnström and Palmqvist (2026) argue that when a [[conversational-ai|chatbot]] can produce a plausible examination answer, the submitted product becomes a weaker indicator of what the student learned — an assessment-validity problem rather than only an [[academic-integrity|integrity]] problem. That is the same inference at risk in Yan, Greiff, Lodge and Gašević's [[genai-performance-vs-learning|performance-versus-learning]] argument, where [[learning-gains|performance gains]] that shrink once assistance is withdrawn show a gain living in the tool rather than in the learner, and where the proposed remedy is process measures such as [[transfer-of-learning|retention and transfer tests]] rather than immediate task success.
+The construct is also distinguishable from the question of how evidence is scored. [[assessment-validity|Validity]] reasoning is where the two meet: Brunnström and Palmqvist (2026) argue that when a [[conversational-ai|chatbot]] can produce a plausible examination answer, the submitted product becomes a weaker indicator of what the student learned — an assessment-validity problem rather than only an [[academic-integrity|integrity]] problem. That is the same inference at risk in Yan, Greiff, Lodge and Gašević's [[genai-performance-vs-learning|performance-versus-learning]] argument, where [[learning-gains|performance gains]] that shrink once assistance is withdrawn show a gain living in the tool rather than in the learner, and where the proposed remedy is process measures such as [[transfer-of-learning|retention and transfer tests]] rather than immediate task success. [[performance-without-capability-genai-assessment-validity-2026|Kearney, 2026]] presses the same reasoning into a two-dimensional framework in which cognitive responsibility and process visibility vary independently, and the combination that matters here pairs low responsibility with a fully visible process. A complete reasoning trace that documents uncritical acceptance of model output is still evidence of substitution, which leaves process evidence necessary but not sufficient.
 
 ## Why detection cannot carry this load
 

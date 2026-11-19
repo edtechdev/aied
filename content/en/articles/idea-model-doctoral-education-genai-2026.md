@@ -25,7 +25,7 @@ confidence: medium
 page_kind: [design case]
 ---
 
-> **Synthesis:** Padrón Alvarez and Estrada Molina (2026) ran a participatory action research study with 34 doctoral candidates in Cuba who were also university teachers, using **generative AI inside an integrated research-and-teaching development sequence** rather than in a stand-alone workshop. Perceived competence rose sharply across all three domains — research competence d = 1.83, AI-supported digital competence d = 2.10, creative-pedagogical competence d = 1.69 — but the design of the study cannot attribute that to the intervention, since there was **no comparison group and every measure was self-report**. The more durable contribution is the operational layer: 34 of 34 participants incorporated [[generative-ai|GenAI]] into a course, 26 (76.5%) enacted a documented redesign sustained over at least three consecutive weeks, and 25 (73.5%) were still using AI-supported practices at short-term follow-up.
+> **Synthesis:** Padrón Alvarez and Estrada Molina (2026) ran a participatory action research study with 34 doctoral candidates in Cuba who were also university teachers, putting generative AI inside an integrated research-and-teaching development sequence rather than a stand-alone workshop. Self-rated competence rose sharply in research, AI-supported digital work and creative pedagogy — but with no comparison group and nothing but self-report, the design cannot attribute that rise to the intervention. The durable contribution is the operational layer: all 34 put [[generative-ai|GenAI]] into a course, three-quarters sustained a documented redesign for at least three consecutive weeks, and nearly as many were still using AI-supported practice at follow-up.
 
 ## Key Findings
 
@@ -83,11 +83,11 @@ The model's transferable content is less the four-layer diagram than the routine
 
 ## What this means for practice
 
-- **Integrate rather than stack.** Design one development sequence where research, digital and pedagogical competence are exercised on the same authentic task; separate workshops on tools do not reproduce this design.
-- **Make transfer-to-teaching a requirement, not an invitation.** Ask every participant to redesign one of their own courses and document the redesign, the implementation and the reflection.
-- **Institute peer critique before AI revision.** Designated academic discussants give written critique on draft products first, which keeps judgment with people.
-- **Replace the ethics module with an operating rubric** — authorized, conditional and non-authorized uses, plus AI-use logbooks and mandatory verification in indexed databases.
-- **Budget for follow-up.** A quarter of participants did not sustain the redesign and a quarter did not maintain AI practices, so the intervention's tail matters as much as its launch.
+- **Programme designers.** Integrate rather than stack. Design one development sequence in which research, digital and pedagogical competence are exercised on the same authentic task; separate tool workshops do not reproduce this design.
+- **Programme designers.** Make transfer to teaching a requirement rather than an invitation: every participant redesigns one of their own courses and documents the redesign, its implementation and their reflection.
+- **Faculty developers.** Institute peer critique before AI revision. Designated discussants give written critique on draft products first, which keeps judgment with people.
+- **Programme designers.** Replace a stand-alone ethics module with an operating rubric — authorized, conditional and non-authorized uses, AI-use logbooks, and mandatory verification in indexed databases.
+- **Programme leaders.** Budget for follow-up. A quarter of participants did not sustain the redesign and a quarter did not maintain AI-supported practice.
 
 ## Limitations
 

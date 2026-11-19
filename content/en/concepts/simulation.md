@@ -2,7 +2,7 @@
 connected_resources: [openmaic, primer]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-18T10:35:00-05:00"
+updated: "2026-11-19T13:45:26-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -28,7 +28,7 @@ Simulation sits at the core of [[experiential-learning|experiential]] and [[acti
 ### AI and simulation
 
 - **AI-powered environments:** adaptive simulations adjust difficulty and scenarios to a learner's state, linking to [[adaptive-learning|adaptive learning]] and [[reinforcement-learning|reinforcement learning]]-based coaching.
-- **The [[virtual-and-augmented-reality|virtual environment]] and the AI layer are separable gains.** In a three-week Grade 9 Ohm's law unit, adjusted achievement was 23.45 of 30 with an AI-supported virtual laboratory, 20.51 with the same laboratory without AI and 16.57 in a physical laboratory ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li and Ahmad (2026)]]). Intact classes were assigned with a different teacher each, so this describes three classroom arrangements, not the agent alone.
+- **The [[virtual-and-augmented-reality|virtual environment]] and the AI layer are separable gains.** In a three-week Grade 9 Ohm's law unit, adjusted achievement was 23.45 of 30 with an AI-supported virtual laboratory, 20.51 with the same laboratory without AI and 16.57 in a physical laboratory ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li and Ahmad (2026)]]). Intact classes were assigned with a different teacher each, so this describes three classroom arrangements, not the agent alone. A virology laboratory module shows the opposite attribution problem: its class passed virtual practice far more often, but the simulation arrived with a course graph, a grounded assistant and adaptive routing, so its own contribution cannot be isolated ([[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]]).
 
 - **Prompt-generated simulations put a bespoke lab within reach.** Instructors can generate browser-run models of the topic a course needs from a reusable prompt template (sliders, animation, time-dependent graphs), validating each twice - technically, then against the known analytical solution - instead of accepting the closest published simulation ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025]]).
 

@@ -25,15 +25,15 @@ confidence: medium
 page_kind: [synthesis]
 ---
 
-> **Synthesis:** Wang, Guo and Gong (2026) pooled 31 studies covering 16,357 learners in a two-stage meta-analytic structural equation model, and found that AI use affects [[critical-thinking|critical thinking]] through **two pathways of nearly equal size that run in opposite directions**. AI dependence reduces critical thinking (U→D→CT β = −0.212) while [[motivation|learning motivation]] raises it (U→LM→CT β = +0.217); the two almost exactly cancel (total indirect β = 0.004, p = 0.645), leaving a small positive direct effect (β = 0.149) as the whole story. The net finding is optimistic but fragile: **the benefit is contingent on motivation, and the harm is contingent on dependence**, and the model's approximate fit was poor (RMSEA = 0.15), so the coefficients describe associations among study-level correlations rather than causal processes.
+> **Synthesis:** Pooling 31 studies of 16,357 learners, Wang, Guo and Gong (2026) found that AI use helps [[critical-thinking|critical thinking]] and harms it at the same time, through two mechanisms of roughly equal strength: students who use AI to avoid thinking lose ground, while students whose [[motivation|motivation]] to learn rises gain it. The two effects nearly cancel, so a study that measures only the final outcome finds nothing — which is exactly what their synthesis found. Whether AI use helps therefore depends on what the course does about dependence and motivation, not on the tool.
 
 ## Key Findings
 
-- **AI use affects critical thinking through two pathways of nearly equal size running in opposite directions**: dependence lowers it (β = −0.212) and motivation raises it (β = +0.217).
-- **The pathways cancel almost exactly**, leaving a total indirect effect of 0.004 and a small positive direct effect of 0.149 as the whole net association.
-- **The zero-order correlation is not significant** (r = 0.156), which is what a cancellation looks like when a synthesis measures only the outcome.
-- **AI dependence and learning motivation are essentially unrelated** (r = −0.108), which is why the two mechanisms operate in parallel rather than one explaining the other.
-- **The inhibition pathway held across sample types** while the motivation pathway was stronger among college students, and the model's approximate fit was poor (RMSEA = 0.15), so the coefficients describe a literature rather than a causal mechanism.
+- **AI use cuts both ways.** The same practice that lifts critical thinking when it lifts motivation depresses it when it becomes a substitute for thinking.
+- **The two effects cancel.** Across the pooled studies the net association between AI use and critical thinking was close to zero, so an evaluation that measures outcomes alone will report "no effect" and miss both mechanisms.
+- **Dependence is the harm.** Using AI to skip the thinking is what pulls critical thinking down, which makes tasks that withhold finished answers the lever.
+- **Motivation is the benefit.** Where AI use raised students' motivation to learn, critical thinking improved — the benefit is something the course produces, not something the tool supplies.
+- **This is correlational evidence.** Most pooled studies were cross-sectional and the model fit the data poorly, so these are associations to design against, not causal estimates.
 
 ## What the study did
 
@@ -72,11 +72,11 @@ The fit statistics deserve the prominence the authors give them: χ² = 340.35, 
 
 ## What this means for practice
 
-- **Choose tools that withhold end-to-end answers.** Embedded Socratic questioning — "what are the conflicting views here?", "how would you verify this inference?" — keeps the analytical frame with the student, which is the pathway that produces the benefit.
-- **Make metacognitive checkpoints non-skippable.** Require students to name the claim in the output that most needs fact-checking, or the weakest link in the argument, before they can proceed.
-- **Grade the process, not only the product.** A "cognitive process portfolio" of initial conceptions, AI interaction logs, critical commentary on output and final revisions, scored on argument rigour and critical integration, gives the motivation pathway something to act on.
-- **Stand up systematic AI literacy** covering model limits and [[ethics|ethics]], methods for evaluating output (fallacy identification, source tracing, cross-validation across tools), and a division of labor between AI brainstorming and human judgment.
-- **Negotiate usage norms by activity**, permitting AI as a collaborative partner in open project work while restricting it in drills aimed at specific reasoning skills.
+- **Instructors.** Withhold end-to-end answers. Embedded Socratic questioning — "what are the conflicting views here?", "how would you verify this inference?" — keeps the analytical frame with the student instead of handing it to the tool.
+- **Instructors.** Make a metacognitive checkpoint non-skippable before the next step: name the claim in the output that most needs fact-checking, or the weakest link in the argument.
+- **Assessment designers.** Grade the process alongside the product. A portfolio of initial conceptions, AI interaction logs, critical commentary on the output and final revisions, scored on argument rigour and critical integration, gives the motivation pathway something to act on.
+- **Curriculum designers.** Teach evaluation, not familiarity — model limits and [[ethics|ethics]], fallacy identification, source tracing, cross-validation across tools, and where AI brainstorming stops and human judgment starts.
+- **Program leaders.** Negotiate usage norms by activity rather than by course, permitting AI as a collaborative partner in open project work while restricting it in drills aimed at specific reasoning skills.
 
 ## Limitations
 

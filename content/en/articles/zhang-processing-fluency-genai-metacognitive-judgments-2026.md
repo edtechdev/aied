@@ -1,6 +1,6 @@
 ---
 title: "When AI makes learning feel effortless: how processing fluency shapes students’ metacognitive judgments"
-created: "2026-11-19T09:30:00-05:00"
+created: "2026-11-19T09:20:00-05:00"
 updated: "2026-11-19T09:30:00-05:00"
 type: article
 pedagogy: [metacognition, self-regulated-learning, retrieval-spacing-interleaving]
@@ -22,16 +22,15 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Zhang (2026) asks whether the ease of GenAI-assisted study is a trustworthy signal that learning happened, and answers with three experiments on 264, 360 and 386 university students in the United Kingdom. AI assistance raised [[metacognition|processing fluency]] and judgments of learning (JOLs) without a detectable gain in independent test performance, and a scripted manipulation placed the effect in explanation fluency rather than in AI as such: high-fluency explanations produced JOLs of 70.79% and overestimation of 10.95 points, while low-fluency AI behaved like conventional text. Across studies, fluency tracked confidence far more closely than knowledge — r = 0.474 against r = 0.087 in Study 1 — the signature of a cue that is salient without being diagnostic. A three-minute unaided retrieval attempt before the judgment weakened the fluency–JOL relationship and reduced positive calibration bias in both fluency conditions, which makes the paper's recommendation a [[retrieval-spacing-interleaving|retrieval]] argument rather than an argument against [[generative-ai|generative AI]]. Its limits are equally clear: scripted responses, immediate tests, and no evidence that the recalibration persisted.
+> **Synthesis:** Zhang (2026) asks whether the ease of GenAI-assisted study is a trustworthy signal that learning happened, and answers with three experiments on 264, 360 and 386 university students in the United Kingdom. AI assistance raised [[metacognition|processing fluency]] and judgments of learning without a detectable gain in independent test performance, and the manipulation placed the effect in explanation fluency rather than in AI as such: a fluent explanation felt like understanding whether or not the model had helped. Fluency tracked confidence far more closely than knowledge — the signature of a cue that is salient without being diagnostic. A three-minute unaided retrieval attempt before the judgment weakened the effect, which makes the paper's recommendation a [[retrieval-spacing-interleaving|retrieval]] argument rather than an argument against [[generative-ai|generative AI]].
 
 ## Key Findings
 
-- **Fluent AI explanations raised confidence without raising scores.** High-fluency AI produced JOLs of 70.79% against 61.00% for conventional text, while test performance stayed at 59.83% versus 58.00%.
-- **Processing fluency tracked confidence, not knowledge.** In Study 1 fluency correlated r = 0.474 with JOL but only r = 0.087 with objective test performance, which was nonsignificant.
-- **AI assistance lifted fluency and JOLs together.** Study 1 found fluency of 4.42 versus 4.02 and predictions of 67.66% versus 62.02% for AI-assisted over conventional study, with no significant performance difference.
-- **Only the fluent version was miscalibrated.** Overestimation reached 10.95 points under high-fluency AI, against 3.00 points for conventional text and 1.76 points for low-fluency AI.
-- **A three-minute AI-off retrieval attempt collapsed the fluency effect.** The fluency–JOL slope fell from 9.13 to 1.65, and JOLs dropped approximately 10.5 points under high fluency versus 2.9 under low.
-- **Retrieval cut overestimation without lifting test scores.** Calibration bias fell to 3.05 and 1.97 points after retrieval in the high and low-fluency conditions, with no significant change in performance.
+- **Fluency is not learning.** AI-assisted study felt easier and produced higher judgments of learning without a detectable gain in independent test performance.
+- **The cue is explanation fluency, not AI as such.** Fluent explanations raised confidence; low-fluency AI behaved like ordinary text.
+- **Confidence followed fluency far more closely than it followed knowledge**, the signature of a cue that is salient but not diagnostic.
+- **A short unaided retrieval attempt before judging learning weakened the effect** and reduced overconfidence in both fluency conditions.
+- **The conditions were scripted and the tests immediate**, so nothing shows the recalibration persisted beyond the session.
 
 ## How the three experiments were built
 

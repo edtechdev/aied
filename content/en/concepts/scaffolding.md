@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-16T05:34:25-05:00"
+updated: "2026-11-19T13:45:26-05:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -93,6 +93,8 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 
 The scaffold can sit in the assignment rather than in the tool. In a 43-student mechanics section, GPT-5 exchanges were mostly recipe requests during discussion sessions, then shifted on a graded end-of-term assignment that required at least three iterative exchanges and warned against pasting problem statements. Recipe-seeking fell from 52% to 22% of coded phrases, and think-aloud requests about physical meaning rose from 0% to 25% ([[stone-gpt5-kinematics-sensemaking-2026|Stone, Zhang & Utter, 2026]]). The model did not change between the two settings; the specification students worked to did.
 
+- **Order is a design variable, not only the choice of scaffold.** [[kozachek-orchestrating-scaffolding-agents-2026|Kozachek and Janson (2026)]] gave four specialist agents one scaffold type each in a concept-mapping task and found the metacognitive agent produced the largest concept-map growth when it ran first, while the conceptual agent running last produced almost none.
+
 ## Common Misconceptions
 
 - **"Scaffolding is a constant level of support."** Expert annotation of **207 consultations** showed scaffolding need was **strongly phase-dependent, rising from about 16.1% of student utterances early** in the encounter. A single scaffold level is misallocated at both ends of the same consultation.
@@ -156,3 +158,4 @@ The scaffold can sit in the assignment rather than in the tool. In a 43-student 
 - [[englmeier-ai-scaffolding-self-paced-learning-2025]] — Content and temporal scaffolding layers in a self-paced course, with late-start and failure rates by study timing
 - [[assistance-dilemma-rl-tutoring-2026]] — The assistance dilemma: training a multi-turn RL tutor whose reward horizon ends with the problem trains fading out (Macina, Kapur & Sachan 2026)
 - [[cruz-structured-ai-tutoring-computer-architecture-2026]] — A fixed fading ladder written into an instructor-authored system prompt
+- [[kozachek-orchestrating-scaffolding-agents-2026]] — Mechanism-specific scaffold agents behind an orchestrator: delivery order predicted concept-map growth, metacognitive first and conceptual last

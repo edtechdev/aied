@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-11-16T22:52:00-05:00"
+updated: "2026-11-19T13:45:26-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -35,6 +35,7 @@ Engineering education research is distinctive because it sits at the intersectio
 - **Embodied and [[multimodal|multimodal]] assessment:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] develop a multimodal framework integrating computer-vision gesture tracking with [[llm|LLM]] analysis of speech to assess engineering students' conceptual understanding of statistics, showing that gesture adds diagnostic evidence beyond speech and that close gesture–speech coupling signals coherent understanding.
 - **Workforce transformation:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. gray literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending durable AI competencies, [[ethics|ethics]] and [[governance|governance]], and skill-based credentials for emerging roles.
 - **Student adoption and reliance:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extend the Technology Acceptance Model with *critical use* to model how engineering/CS students form intentions to use [[generative-ai|GenAI]] and how that intention predicts reliance across understanding, assessment, programming, and engineering-project tasks — finding moderate, appropriate reliance and heavy use for understanding-related tasks but limited use for full assessment writing. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrate TAM with [[technology-acceptance-model|UTAUT]] to model Bangladeshi engineering students' adoption, explaining 64% of usage variance and highlighting job relevance, result demonstrability, and subjective norms as key drivers.
+- **Habit displaces the person:** habit, not intention, predicted whether Philippine engineering students and educators asked people for help less often once GenAI was available, and academic-integrity concern was the only construct that reduced that displacement ([[habit-over-intention-genai-help-seeking-engineering-2026|Pao, Domingo & Bernardo, 2026]]).
 - **[[prompt-engineering|Prompting strategy]] predicts performance, not usage volume:** among 128 fourth-year engineering students, AI Query Efficiency and AI-Driven Problem-Solving were the strongest predictors of academic success and remained significant after controlling for cumulative GPA ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 
 - **Students' own metaphors exceed what the tools deliver:** [[ai-engineering-education-balancing-act|Kudina (2026)]] found 100 engineering students most valued LLMs for writing support, conceptual clarification and coding, yet framed them as "oracle" and "tutor" — authority and [[personalized-learning|personalization]] a probabilistic text generator cannot supply, a "cruel optimism" that depends on verification skills students are still building.

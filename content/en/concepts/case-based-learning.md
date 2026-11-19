@@ -1,7 +1,7 @@
 ---
 title: Case-Based Learning
 created: "2026-11-07T09:26:35-05:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-19T13:45:26-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [problem-based-learning, productive-failure]
@@ -51,7 +51,7 @@ Cases are a bridge from abstract knowledge to situated judgment. They give learn
 
 The mechanism is not simply "real-world examples." A case can be realistic and still teach very little if the discussion never asks students to discriminate, justify, or compare. The stronger designs use cases to create a problem space before explanation, which is the link to [[productive-failure|productive failure]]: students attempt a case, encounter the limits of their current model, and then receive instruction that addresses the gap. Contrasting cases sharpen this further. When two cases differ on a feature that matters, learners can see the feature rather than the surface story. The existing study of a three-week GenAI course for 78 ethnic minority preparatory students used [[teacher-role|teacher]] modeling with contrasting cases to move students from efficient copying toward critical co-creation ([[scaffolding-critical-engagement-genai-minority-students|Wang et al., 2026]]). That is a case-comparison design, not a test of case-based learning in law or business, but it shows the mechanism in a real classroom.
 
-Cases also carry a social dimension. A case discussion makes reasoning public: students propose interpretations, hear alternatives, and revise. The instructor's questions do the work that a textbook cannot. That is why replacing a case with a summary or a lecture can preserve the content while losing the learning. It is also why an AI that answers the case's questions for the student can short-circuit the discussion even when its answers are accurate.
+Cases also carry a social dimension. A case discussion makes reasoning public: students propose interpretations, hear alternatives, and revise. The instructor's questions do the work that a textbook cannot. That is why replacing a case with a summary or a lecture can preserve the content while losing the learning. It is also why an AI that answers the case's questions for the student can short-circuit the discussion even when its answers are accurate. The format contrast has support beyond cases: a meta-analysis of ethics instruction found that moral outcomes improved when delivery was discussion-based and did not move when it was lecture-only ([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2026]]).
 
 ## What AI changes
 

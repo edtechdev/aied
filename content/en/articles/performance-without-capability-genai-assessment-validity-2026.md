@@ -75,11 +75,11 @@ The paper proposes three orientations, presented as context-dependent options ra
 
 ## What this means for practice
 
-- **Name the capability first.** Before choosing a format, specify which cognitive responsibilities students must retain — not how much effort they should expend.
-- **Require process evidence that discriminates.** Collect drafts, annotated decisions and reflective accounts of tool use, and check that the evidence would look different for a student who had not understood the material.
-- **Do not accept a reflective appendix as sufficient on its own.** If the reflection can be generated or rubric-satisfied, the task has become constrained engagement with visible shallow work.
-- **Pair the product with something only understanding can produce** — an annotated GenAI exchange, a short oral defense of interpretive choices, or in-class development of the analysis from unseen material.
-- **Sample performance across tasks, time points or conditions of AI support** wherever independent capability is part of the certified claim.
+- **Assessment designers.** Name the capability first. Before choosing a format, specify which cognitive responsibilities students must retain, not how much effort they should expend.
+- **Assessment designers.** Require process evidence that discriminates: drafts, annotated decisions and accounts of tool use that would look different for a student who had not understood the material.
+- **Assessment designers.** Do not accept a reflective appendix on its own. If the reflection can be generated or rubric-satisfied, the task has become constrained engagement with visible shallow work.
+- **Assessment designers.** Pair the product with something only understanding can produce — an annotated GenAI exchange, a short oral defense of interpretive choices, or in-class development of the analysis from unseen material.
+- **Quality assurance staff.** Sample performance across tasks, time points or conditions of AI support wherever independent capability is part of the certified claim.
 
 ## Limitations
 

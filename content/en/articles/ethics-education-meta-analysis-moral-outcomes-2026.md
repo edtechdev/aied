@@ -27,11 +27,11 @@ page_kind: [synthesis]
 
 ## Key Findings
 
-- **Ethics education works.** Across 45 controlled comparisons and 133 effects, ethics interventions raised ethical and moral outcomes by g = 0.55 against control conditions.
-- **73% of true effects were meaningfully helpful and 2% meaningfully harmful**, using the protocol's pre-specified thresholds of g > 0.2 and g < −0.2.
+- **Ethics education works.** Across 45 controlled comparisons, ethics interventions improved ethical and moral outcomes by a meaningful margin over control conditions.
+- **Most effects helped and very few harmed**, using the protocol's pre-specified thresholds.
 - **How ethics is taught moderates the effect more than what is taught**: discussion-based and discussion-plus-didactic formats worked, lecture-only delivery did not differ from zero.
-- **Content transfers across disciplines.** General and domain-specific ethics interventions performed similarly, and intervention duration did not moderate the effect.
-- **Online delivery was statistically indistinguishable from in-person**, on four studies, all university nursing and pharmacy courses.
+- **Content transfers across disciplines.** General and domain-specific ethics interventions performed similarly, and duration did not moderate the effect.
+- **Online delivery was indistinguishable from in-person**, on a small set of university nursing and pharmacy courses.
 
 ## What the study did
 
@@ -80,11 +80,11 @@ The transfer has a limit worth stating plainly: the outcome measures are interna
 
 ## What this means for practice
 
-- **Build structured discussion into every ethics unit.** Lecture-only delivery did not reliably improve moral outcomes (g = 0.10, not distinguishable from zero).
-- **Pair short didactic framing with discussion rather than choosing between them** — the combined format produced the largest pooled effect (g = 0.68).
-- **Treat ethics content as portable across disciplines.** General and domain-specific interventions performed similarly, so ethics can be embedded in any subject without losing effect.
-- **Use online or blended delivery where scale matters**, noting the evidence for equivalence comes only from university nursing and pharmacy courses.
-- **Start early where you can.** Primary-school interventions showed the largest effects (g = 0.94) against tertiary (g = 0.48), with the caveat that the difference is imprecise and the overall moderation was not significant.
+- **Curriculum designers.** Build structured discussion into every ethics unit. Lecture-only delivery did not reliably improve moral outcomes.
+- **Instructors.** Pair short didactic framing with discussion rather than choosing between them.
+- **Curriculum designers.** Treat ethics content as portable across disciplines: general and domain-specific interventions performed similarly, so ethics can be embedded in any subject.
+- **Program leaders.** Use online or blended delivery where scale matters, remembering that the equivalence evidence comes only from university nursing and pharmacy courses.
+- **Curriculum designers.** Start early where you can: primary-school interventions showed the largest effects, though the difference is imprecise and the moderation was not significant.
 
 ## Limitations
 

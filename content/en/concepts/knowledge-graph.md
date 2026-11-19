@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-19T13:45:26-05:00"
 connected_resources: [context-aideatext]
 type: concept
 foundations: [ai-education, curriculum-design]
@@ -35,7 +35,7 @@ Knowledge graphs are a recurring structural mechanism across AIED [[research-met
 - **Algorithm choice over the graph changes outcomes.** In G4L, propagating mastery through an Evolving Knowledge Space Graph with Bayesian knowledge propagation produced +24% measured knowledge (0.717 → 0.887), against +5% for Knowledge Space Theory and +1% for Weighted Distance Dependent Induction ([[graph-its-adaptive-algorithms-2026|Csépányi-Fürjes & Kovács, 2026]]).
 - **[[cognitive-diagnosis|cognitive diagnosis]] frameworks** like [[xie-hillm-cd-2026|HiLLM-CD]] construct concept trees from educational text using LLMs, eliminating manual annotation.
 - **Knowledge-graph-augmented tutoring:** [[quantum-education-its|ITAS]] uses a knowledge graph of quantum concepts (with explicit prerequisite relationships) to drive a multi-agent tutoring system, traversing the graph to select next topics for counterintuitive material.
-- **Curriculum and course modeling:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compares CS course structures across institutions using graph representations; [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]] model [[lifelong-learning|lifelong learning]] pathways.
+- **Curriculum and course modeling:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compares CS course structures across institutions using graph representations; [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]] model [[lifelong-learning|lifelong learning]] pathways. A course graph can also ground the teaching itself: in a virology laboratory module the assistant answered only from that graph and routed students between practice tiers, and the redesigned class outperformed an unchanged one, though all four components arrived together ([[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]]).
 - **Prerequisite-relation learning:** [[proprl-prerequisite-relation-learning|ProPrL]] learns [[recommender-systems-and-learning-paths|prerequisite relations]] among concepts, formalizing the edges that knowledge graphs encode.
 - **Learnable prerequisite discovery replaces expert priors.** A survey synthesis by [[xu-graph-knowledge-tracing-survey-2026|Xu et al. (2026)]] finds that graph-based tracers can learn prerequisite structure from response data during training, replacing expert-crafted priors. GKT parameterizes a learnable adjacency matrix end-to-end, SKT-L learns prerequisites while training, PKT applies L1 regularization to recover sparse prerequisite graphs evaluated against ground-truth structures with F1 scores, and PSI-KT's variational Bayesian framework infers directed prerequisite graphs that align with human-annotated prerequisites better than baseline models.
 - **Knowledge-gap detection:** [[knowledge-gap-detection-ai-tas|Knowledge gap detection]] uses graph-based reasoning in AI teaching assistants to identify where learners are missing foundational concepts.

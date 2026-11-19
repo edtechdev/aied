@@ -26,15 +26,15 @@ confidence: medium
 page_kind: [synthesis]
 ---
 
-> **Synthesis:** Pao, Domingo and Bernardo (2026) surveyed 392 engineering students and educators in the Philippines and found that **habit, not intention, is what predicts whether people stop asking other people for help once [[generative-ai|generative AI]] is available**. In a PLS-SEM model fitted to 347 GenAI users, habit predicted [[help-seeking|human-help displacement]] at β = 0.711 (R² = 0.727 for the displacement construct) while behavioral intention predicted it at β = 0.039, a path statistically indistinguishable from zero. Roughly **half of GenAI users (49.6%) reported asking a person for help less often**, and only 15.8% named a human as the resource they turn to first, against 30.4% who named a GenAI tool. [[academic-integrity|Academic integrity]] concern was the only construct that *reduced* displacement (β = −0.329), which makes integrity framing — not tool prohibition — the plausible lever for keeping [[cognitive-offloading|interactional learning]] in the curriculum.
+> **Synthesis:** Pao, Domingo and Bernardo (2026) surveyed 392 engineering students and educators in the Philippines and found that **habit, not intention, is what predicts whether people stop asking other people for help once [[generative-ai|generative AI]] is available**. Half of GenAI users said they ask a person for help less often, and fewer than one in six named a human as the first resource they turn to when stuck. [[academic-integrity|Academic integrity]] concern was the only construct that reduced that displacement, which makes integrity framing — not tool prohibition — the plausible lever for keeping [[cognitive-offloading|interactional learning]] in the curriculum.
 
 ## Key Findings
 
-- **Habit, not intention, governs whether people stop asking other people for help.** Habit predicted human-help displacement at β = 0.711 while behavioral intention predicted it at β = 0.039, a path statistically indistinguishable from zero.
-- **Intention predicts using the tool; habit predicts displacing the human.** Intention was a significantly weaker predictor of displacement than of use (Δβ = −0.28), and habit was significantly stronger on displacement than on use volume (Δβ = +0.46).
-- **Half of GenAI users report asking people for help less often** (49.6%), and only 15.8% name a human as their first resource when stuck, against 30.4% who name a tool.
-- **Academic integrity concern is the only construct that reduced displacement** — and also the only negative determinant of adoption intention.
-- **Students and educators differ in level but not in structure**: students report more habit and more displacement, educators more integrity concern, and no path difference survives correction for multiple comparisons.
+- **Habit, not intention, governs whether people stop asking other people for help.** Intention predicted using the tool; the path from intention to displacement was statistically indistinguishable from zero.
+- **Intention and habit point at different behaviours.** Intention was the stronger predictor of how much the tool was used, habit the stronger predictor of whether it replaced a person.
+- **Half of GenAI users report asking people for help less often**, and only 15.8% name a human as their first resource when stuck, against 30.4% who name a tool.
+- **Academic integrity concern was the only construct that reduced displacement**, and the only negative determinant of adoption intention.
+- **Students and educators differ in level but not in structure**: students report more habit and more displacement, educators more integrity concern.
 
 ## What the study did
 
@@ -74,11 +74,11 @@ Role differentiated the *levels* of habit, integrity concern and displacement �
 
 ## What this means for practice
 
-- **Target routines, not attitudes.** If displacement is driven by habit, then intention surveys and attitude campaigns measure the wrong thing. Monitor how embedded the tool has become — frequency, automaticity, first-resort choice — and treat that as the variable to intervene on.
-- **Build interpersonal consultation into the coursework itself.** Required peer review, oral defense, studio critique and supervised laboratory help make asking a person a checkpoint rather than an optional resource.
-- **Prefer disclosure-based governance to blanket prohibition.** Publish discipline-specific statements of permitted and prohibited use, require AI-use declarations attached to submitted work, and reweight assessment toward supervised, oral and process-evidenced components.
-- **Teach verification early and mandatorily.** A required module on prompt construction, systematic checking against authoritative sources, and the characteristic failure modes of numerical and symbolic reasoning reaches every student, not only the ones who seek it out.
-- **Frame faculty development to educators' custodial responsibility**, since integrity concern is the construct that most reduced displacement among the educators in this sample, rather than to the productivity framing that motivates students.
+- **Instructors.** Build asking a person into the coursework. Required peer review, oral defense, studio critique and supervised laboratory help make consultation with a human a checkpoint rather than an optional extra.
+- **Instructors.** Require verification, and teach it early: a module on prompt construction, systematic checking against authoritative sources, and the characteristic failure modes of numerical and symbolic output.
+- **Program leaders.** Prefer disclosure-based governance to blanket prohibition. Publish discipline-specific statements of permitted and prohibited use, require AI-use declarations with submitted work, and state when consultation with a person is part of the task.
+- **Faculty developers.** Frame development around educators' custodial responsibility — integrity concern was the construct that most reduced displacement among the educators in this sample.
+- **Researchers and administrators.** Monitor routines, not attitudes. Frequency, automaticity and the share of stuck moments resolved with a tool say more about displacement than any intention survey.
 
 ## Limitations
 

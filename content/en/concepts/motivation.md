@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-11-16T09:20:00-05:00"
+updated: "2026-11-19T13:45:26-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -65,6 +65,8 @@ A utility-value intervention is not uniformly beneficial: a scaffolded version p
 - **Self-efficacy is the root of teachers' enjoyment of GenAI.** In a PLS-SEM study of 434 in-service teachers, self-efficacy was the model's only exogenous variable and its largest effect was on perceived enjoyment (β = 0.805, f² = 1.839), feeding perceived usefulness and ease of use in turn ([[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez et al., 2026]]).
 
 **The effort paradox and the vicious cycle of assistance.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] argue that motivation is not simply helped or hindered by AI but redistributed: humans generally take the path of least resistance, yet they also seek effort out — the effort paradox — because effort signals that actions matter and because reward attached to process rather than product increases the tendency to strive and persevere. Two claims follow. First, the effort–meaning relationship is an inverted U, so the motivational target is moderate friction, and the risk of frictionless AI is overshooting into too little. Second, a vicious cycle: as AI replaces effort in a domain, the motivational benefits of effort there erode, which makes users more dependent on AI, which erodes motivation further. They also separate supplement from substitute by developmental stage — learners in earlier stages risk bypassing the experiences that build perseverance, while those with established skills can use AI to save time ([[desirable-difficulties|desirable difficulties]], [[self-efficacy|self-efficacy]]).
+
+[[motivational-gain-trumping-cognitive-offloading-2026|Wang, Guo and Gong, 2026]] weigh both sides of that cycle together and find them nearly balanced: where AI use raised students' motivation to learn, critical thinking improved, and where it became a substitute for thinking, critical thinking fell by about as much. That makes the motivational gain a real benefit that dependence can cancel rather than a reason to relax about over-reliance.
 
 **The literature measures motivation without a theory of it.** A [[meta-analysis-systematic-review|scoping review]] of 156 studies from 2003 to 2025 found 133 (85.3%) were guided by no specific motivational theory, the most common variable was a generalized academic motivation (n = 89), and 88 studies (56.4%) came from one national context ([[ai-student-motivation-scoping-review-2026|Li et al., 2026]]).
 

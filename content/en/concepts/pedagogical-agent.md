@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-11-19T09:45:00-05:00"
+updated: "2026-11-19T13:45:26-05:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -40,6 +40,8 @@ A pedagogical agent is an interactive AI component within a learning system that
 **Design and architecture of conversational agents.** A recurring thread is how agents are structured, not just what models power them. The [[conversational-ai-tutors-framework|conversational AI tutors framework]] argues that proven ITS [[ai-technologies|technologies]] — [[knowledge-tracing|knowledge tracing]], affect detection, [[student-modeling|student modeling]] — should anchor generative tutors, keeping the diagnostic backbone while [[generative-ai|generative AI]] supplies flexible dialogue. Multi-agent designs push this further: [[mooc-to-maic|MAIC]] replaces the [[online-teaching-and-learning|MOOC]]'s "one video for N students" with an [[llm|LLM]]-driven classroom of Teacher, Assistant, Classmate, and Analyzer agents to deliver [[personalized-learning|personalized learning]] at scale, while [[lecturaagents-multi-agent-teaching|LecturaAgents]] adds an [[embodied-learning|embodied]] ProfessorAgent whose TASA algorithm aligns visible [[teacher-role|teaching]] actions (handwriting, highlighting) with learner profiles. Even parent–child tutoring becomes a two-agent problem in [[paratutor-parent-child-tutoring|ParaTutor]], where role-separated scaffolding keeps the parent centrally involved instead of letting a generic chatbot displace them. The same role-based logic appears in [[instructional-agents-multi-agent-course-gen|Instructional Agents]], where Teaching Faculty, Designer, TA, and Program Chair agents collaborate across ADDIE to generate course materials.
 
 A complementary use of role-based agents targets [[teacher-education|teacher]] practice rather than student learning: [[educasim-cs1-instructional-practice|Mohne et al. (2026)]] combine pedagogical student personas, memory grounded in actual course material, and an LLM-as-a-judge speaker oracle so novice instructors rehearse a small-group section — 254 optional sessions averaging about 16 minutes each, at roughly \$0.05–\$0.10 per session.
+
+**An orchestrator and specialist sub-agents, rather than one general agent.** [[kozachek-orchestrating-scaffolding-agents-2026|Kozachek and Janson (2026)]] route each round to the sub-agent responsible for one scaffold mechanism (conceptual, procedural, strategic, metacognitive), keep a learner profile across sessions, and ground replies in verified course material; in their demonstration the delivery order, not only the mechanism, predicted how much learners added to their concept maps. This makes role separation and sequencing part of the architecture rather than prompt wording.
 
 **Teaching versus solving behavior.** A central empirical finding is that answer-production is not learning support. [[measuring-llm-tutors-teach-vs-solve|Measuring whether LLM tutors teach or solve]] shows solving and pedagogy scores on tutoring benchmarks correlate only weakly (r = 0.421 across eight models), arguing that benchmarks must report pedagogy-oriented criteria — guiding questions, calibrated hints, non-disclosive scaffolding — separately. This aligns with [[stanford-evidence-base-ai-k12-2026|tutoring-specific vs general AI]] evidence: pedagogically designed tutors with [[guardrails|guardrails]] mitigate the exam-score drops and suppressed reasoning that raw general-purpose chatbots produce, preserving [[desirable-difficulties|desirable difficulties]] and productive struggle rather than short-circuiting them. Yet benchmarks can overestimate how well even scaffolded tutors work in the wild. [[rethinking-scaffolding-llm-tutors|Rethinking scaffolding in LLM tutors]] finds that real students frequently bypass a chatbot's pedagogical framing, a rational response to a mismatch between the agent's goals and the learner's own — so uptake must be evaluated, not assumed.
 
@@ -154,4 +156,4 @@ Better feedback is not the same as better learning: customizing an agent with kn
 
 - [[agent-type-feedback-style-self-directed-learning-2026]] — Customized agent raised feedback quality but not self-regulation or outcomes; gain edge only under directive feedback
 - [[anagnostopoulou-ai-companion-stem-self-efficacy-2026]] — Self-efficacy, engagement, attitudes, and perceived learning in AI-assisted STEM education
-
+- [[kozachek-orchestrating-scaffolding-agents-2026]] — Lead orchestrator with one specialist sub-agent per scaffold mechanism, persistent learner profiles, and curriculum-grounded replies

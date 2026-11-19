@@ -25,15 +25,15 @@ confidence: medium
 page_kind: [implementation]
 ---
 
-> **Synthesis:** Liu and colleagues (2026) rebuilt a virology laboratory-testing module around four AI-supported components — a course [[knowledge-graph|knowledge graph]], a graph-grounded [[rag|retrieval-augmented]] teaching assistant, adaptive routing between practice tiers, and [[simulation|virtual simulation]] — and taught it to 30 students against 30 in an unchanged course. The experimental class scored higher on the final theory examination (89.7 vs. 78.3, d = 1.39), on the laboratory operation checklist (88.6 vs. 75.3, d = 1.61), and on emergency-plan design (86.3 vs. 69.8, d = 1.88), with a virtual-practice pass rate of 96.7% against 73.3%. The design is a **bundled intervention allocated by intact class**, so the effects belong to the package, not to any component — and the authors say so.
+> **Synthesis:** Liu and colleagues (2026) rebuilt a virology laboratory-testing module around four AI-supported parts — a course [[knowledge-graph|knowledge graph]], a graph-grounded [[rag|retrieval-augmented]] teaching assistant, adaptive routing between practice tiers, and [[simulation|virtual simulation]] — and taught it to one class of 30 while a second class of 30 took the unchanged course. The experimental class did substantially better on the theory examination, the laboratory-operation checklist and an emergency-plan task, and passed virtual practice far more often. The four parts arrived together in intact classes, so the gain belongs to the package rather than to any element in it — a limit the authors state themselves.
 
 ## Key Findings
 
-- **A bundled AI-supported redesign produced large achievement differences** in a virology laboratory course: theory examination +11.4 points (d = 1.39), laboratory operation d = 1.61, emergency-plan design d = 1.88.
-- **Virtual-practice pass rates rose** from 73.3% in the control class to 96.7% in the experimental class, though only the experimental group received simulation training, so exposure is confounded with the model.
-- **The teaching assistant was grounded in a course knowledge graph** rather than left unconstrained, and adaptive routing used published thresholds rather than model judgment.
-- **Assessment moved to four weighted dimensions** — Knowledge, Skills, Competencies, Professional Awareness — established through Delphi consensus.
-- **The gain belongs to the package, not a component**: four elements were introduced together and allocated by intact class, so no single element can be credited.
+- **A bundled AI-supported redesign produced large achievement differences** on the theory examination, the laboratory-operation checklist and an emergency-plan task.
+- **Virtual-practice pass rates rose sharply** — from 73.3% to 96.7% — though only the experimental class received simulation training, so exposure is confounded with the model.
+- **The teaching assistant answered from a course knowledge graph** rather than running unconstrained, and adaptive routing used published thresholds instead of model judgment.
+- **Assessment moved to four weighted dimensions** — Knowledge, Skills, Competencies, Professional Awareness — agreed through Delphi consensus.
+- **The gain belongs to the package, not a component**: four elements were introduced together within intact classes, so no single element can be credited.
 
 ## What was built
 
@@ -74,11 +74,11 @@ Internship-site feedback offered the one workplace signal: experimental graduate
 
 ## What this means for practice
 
-- **Build the knowledge graph before building the chatbot.** Explicit prerequisite edges are what let an assistant answer "what do I need to fix first" rather than "here is a summary".
-- **Ground the assistant in the graph with retrieval** instead of deploying an unconstrained model, and keep instructor review of its outputs as a standing task.
-- **Publish the adaptive thresholds.** Escalation at 90% on two consecutive attempts, remediation below 60%, and instructor flags below 50% node mastery are the kind of explicit rules that make adaptivity auditable.
-- **Organize materials in tiers** — Foundational, Enhancement, Expansion — so personalization points at real resources.
-- **Replace single-outcome grading with a weighted competency scheme** and map each instructional component to at least one dimension of it.
+- **Instructors.** Build the knowledge graph before building the assistant. Explicit prerequisite edges are what let an assistant answer "what do I need to fix first" rather than "here is a summary".
+- **Instructors.** Ground the assistant in the graph with retrieval instead of deploying an unconstrained model, and keep instructor review of its outputs as a standing task.
+- **Course designers.** Publish the adaptive thresholds — escalation, remediation and instructor-flag rules — so that adaptivity can be audited rather than trusted.
+- **Course designers.** Organize materials in tiers — foundational, enhancement, expansion — so personalization points at real resources.
+- **Assessment designers.** Replace single-outcome grading with a weighted competency scheme, and map each instructional component to at least one dimension of it.
 
 ## Limitations
 

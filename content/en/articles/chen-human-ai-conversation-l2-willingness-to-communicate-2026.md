@@ -1,6 +1,6 @@
 ---
 title: "Human-AI conversational experience and L2 speaking willingness to communicate: the mediating role of self-efficacy and the moderating role of speaking anxiety"
-created: "2026-11-19T09:30:00-05:00"
+created: "2026-11-19T09:20:00-05:00"
 updated: "2026-11-19T09:30:00-05:00"
 type: article
 pedagogy: [self-efficacy, anxiety-and-stress]
@@ -25,16 +25,15 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Chen and Wang (2026) surveyed 486 Chinese and 412 Malaysian university students immediately after a standardized 15-minute English conversation with a [[conversational-ai|ChatGPT-4o conversation partner]], then fitted a moderated mediation model. Perceived quality of that conversation was associated with stronger [[self-efficacy|speaking self-efficacy]] (β = 0.34) and, far more weakly, with greater willingness to speak English with people (β = 0.10); the indirect path through self-efficacy carried 56.5% of the total association. [[anxiety-and-stress|Speaking anxiety]] related negatively to willingness (β = −0.19) yet steepened the self-efficacy path, which ran from 0.24 at low anxiety to 0.52 at high anxiety. Configural, metric and partial scalar invariance held across the two national samples, and the interaction was significant in each (China β = 0.17; Malaysia β = 0.11) even though a Wald test found no significant between-group difference. Open-ended responses most often described a low-threat rehearsal space; a substantial minority doubted the confidence would survive contact with a human interlocutor. All of it is concurrent self-report about an unrecorded interaction.
+> **Synthesis:** Chen and Wang (2026) surveyed 486 Chinese and 412 Malaysian university students immediately after a standardized 15-minute English conversation with a [[conversational-ai|ChatGPT-4o conversation partner]]. Students who judged that conversation better reported stronger [[self-efficacy|speaking self-efficacy]], and that confidence carried most of the association with willingness to speak English with people; [[anxiety-and-stress|speaking anxiety]] pushed the other way and also steepened the confidence path. The open-ended answers split the way the model does — many described a low-threat rehearsal space, and a substantial minority doubted the confidence would survive a human interlocutor. Everything was measured once, on self-report, about an interaction nobody recorded.
 
 ## Key Findings
 
-- **Self-efficacy carried over half of the association.** HAICE → SSE β = 0.34, HAICE → SWTC β = 0.10, and the indirect path of 0.13 [0.08, 0.18] took 56.5% of the total 0.23.
-- **Mediation was partial, not complete.** A residual direct association of 0.10 survived the mediator, leaving room for affective and [[motivation|motivational]] routes the model never tested.
-- **Anxiety worked against willingness.** SA → SWTC was β = −0.19, and AI conversational experience was itself negatively associated with anxiety (HAICE → SA β = −0.15).
-- **Anxiety steepened the efficacy path in both countries.** The SA × SSE term was β = 0.14, significant in China (0.17) and Malaysia (0.11), with no Wald difference (χ²(1) = 1.87, p = 0.171).
-- **The model left most willingness unexplained.** Efficacy and anxiety accounted for approximately 27% of the variance in willingness; the interaction added a small increment on top.
-- **Learners named the trade-off themselves.** In 638 open-ended responses, 42.3% welcomed speaking without judgment, 28.4% doubted transfer, 21.8% feared over-reliance and 14.6% worried about uncorrected errors.
+- **Confidence, not the chatbot, carried the association.** Most of the link between the AI conversation and willingness to speak ran through speaking self-efficacy rather than directly.
+- **Mediation was partial, not complete.** A smaller direct association survived, leaving room for affective and [[motivation|motivational]] routes the model never tested.
+- **Anxiety worked against willingness**, and students with more AI conversation experience reported less of it.
+- **Anxiety steepened the confidence path**: the more anxious the student, the more confidence translated into willingness, and this held in both countries.
+- **Most of willingness was left unexplained**, and learners named the trade-off themselves — 42.3% welcomed speaking without judgment, 28.4% doubted it would transfer.
 
 ## How the study was run
 
