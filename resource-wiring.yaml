@@ -399,3 +399,9 @@
   hosts:
   - benchmark
   reason: 'The benchmark page argues some benchmarks exist to compare access rather than capability; this resource is that case.'
+
+- resource: repertoire
+  reviewed: '2026-11-19'
+  hosts:
+  - learning-design
+  reason: 'The learning-design page argues assignment structure is where AI policy becomes concrete; this resource is a builder that enacts that on the assignment itself, with instructor-set AI roles and engagement gates.'
