@@ -80,10 +80,11 @@ ai_assist:
 
 ## 関連記事
 
-- [[interactive-learning-dashboards-engagement]] — 教育学的エージェントによる関与の道具としての学習可視化の再考
-- [[mllm-scientific-visualization-literacy]] — 科学的可視化リテラシーにおけるマルチモーダルLLMのベンチマーク
-- [[nuclear-diffusion-text-to-image-learning-2026]] — 原子力概念の可視化のための領域適合テキストから画像へのモデル
+- [[interactive-learning-dashboards-engagement]] — 教育エージェントを通じて学習可視化をエンゲージメント促進ツールとして再考する
+- [[mllm-scientific-visualization-literacy]] — 科学的可視化リテラシーに関するマルチモーダルLLMのベンチマーク評価
+- [[nuclear-diffusion-text-to-image-learning-2026]] — 原子力概念の可視化に向けたドメイン適応型テキスト画像生成モデル
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — AI支援データコミックの有効性、利点、倫理
-- [[cfes-p24-multimodal-slide-auditing-2026]] — マルチモーダルスライド監査のための反実仮想ベンチマーク
-- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ブレンディッド教室で教師がMLの知見にアクセスできるようにすること
+- [[cfes-p24-multimodal-slide-auditing-2026]] — マルチモーダルなスライド監査のための反実仮想ベンチマーク
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ブレンデッド型教室でMLの知見を教師が理解・活用できるようにする
+- [[genai-visualization-education-framework-2026]] — チャートではなく意味を構築する:可視化教育における生成AI活用のための認知・教授フレームワーク
+- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — 次世代の文献レビュー:新進研究者のための実践的AIガイド

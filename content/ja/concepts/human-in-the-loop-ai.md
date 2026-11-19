@@ -1,7 +1,7 @@
 ---
 title: ヒューマン・イン・ザ・ループ
 created: "2026-10-10T22:38:05-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -76,13 +76,14 @@ Kim, Baek, Kwak (2026)は、HITLを**PedaCo**(Pedagogical Co-creation)を通じ�
 ## AI時代にHITLが重要である理由
 
 ヒューマン・イン・ザ・ループの設計は、いくつかの収束する理由から、ナレッジベースの[[agentic-ai|エージェント型AI]]と[[ai-literacy|責任あるAI利用]]の議論の中心となりました。
-- **教授法上の安全性。** [[pedagogical-safety]]は、現実の教育上の権威をもつAIが人間の監督を保つことを求めます。誤り、バイアス、有害な出力が学習者に届く前に捉えられるようにです。これは[[agentic-ai|目標を率先して追い求める]]自律的なエージェントにとってとくに重要です。
+- **教授法上の安全性。** [[pedagogical-safety|教授法上の安全性]]は、現実の教育上の権威をもつAIが人間の監督を保つことを求めます。誤り、バイアス、有害な出力が学習者に届く前に捉えられるようにです。これは[[agentic-ai|目標を率先して追い求める]]自律的なエージェントにとってとくに重要です。
 - **監督は実践の中で稀であり、理論の中だけではない。** [[agentic-ai-education-scoping-review|Wangら(2026)]]は、474件の教育のエージェント型AIシステムにわたって、堅固に埋め込まれたガバナンスとヒューマン・イン・ザ・ループの監督がめったに見られなかったことを見いだしました。単一課題の自律性とマルチエージェントの協働が成長する中でもです。設計原理と展開された実践の間の隔たりです。
 - **決定的な問いは、ループがどう実行可能にされるかであって、人間がどれだけ参加するかではない。** [[learning-sciences|学習科学]]の見解は、学習をデータの捕捉、計算による解釈、起こりうる反応を中心に組織することは、教授学的な行為を、システムが検出し行動できるものに依存させるようになると論じます。そして、警告や関与の分類は、教師や学生が行為する前に学習者を解釈してしまうのです([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]])。
-- **妥当性と質の管理。** HITLは[[automated-assessment|自動化された評価]]と生成の質の関門です。自動化された採点が信頼できないところで人間が裁定し([[llms-do-not-grade-essays-like-humans-2026|LLMによる論文の採点]]の[[research-methods-aied|研究]]を参照)、生成された項目を検証します。42件の採点とフィードバックの研究(2023–2025)のPRISMA準拠の[[meta-analysis-systematic-review|系統的レビュー]]は、同じ結論を明示的に導きます。LLMは短く構造化された課題では人間の評価者と一致しますが、複雑で開かれた、あるいは主観的な仕事については人間の判断を完全には代替できず、AI駆動の採点を教員の監督と検証と組み合わせるハイブリッドなシステムでもっとも高い採点の有効性が達成されます([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]])。[[falahat-chatgpt-grading-pharmacy-exams-2026|Falahatら(2026)]]は、その境界がどこに落ちるかを具体的に示します。ChatGPT-5は薬学試験の客観的な項目で教員と一致しました(CCC 0.935–1.000)が、ルーブリックが与えられても短答式と論述式の項目では信頼できず、著者らは複雑で主観的な、あるいは高い利害を持つ評価には人間の見直しを伴うハイブリッドな採点を推奨しています。
+- **ワークフローに存在することよりも、順序の中の位置が重要である。** 完成した成果物を見直す人間は、独立したチェックではありません。安全性の監督に関する実験では、3,957件の項目を判定した416人の評価者が、自分の回答の前に候補が示された場合、モデルが誤った項目での精度が36.7%から20.6%へと低下し、モデルが正しい項目では向上しました([[shi-human-ai-complementarity-safety-2026|Shiら(2026)]])。人間の判断を先に記録すること、あるいはモデルの判定なしに証拠を示すことこそが、ループが生み出すために存在する修正を保つのです。
+- **妥当性と質の管理。** HITLは[[automated-assessment|自動化された評価]]と生成の質の関門です。自動化された採点が信頼できないところで人間が裁定し([[llms-do-not-grade-essays-like-humans-2026|LLMによる論文の採点]]の[[research-methods-aied|研究]]を参照)、生成された項目を検証します。42件の採点とフィードバックの研究(2023–2025)のPRISMA準拠の[[meta-analysis-systematic-review|系統的レビュー]]は、同じ結論を明示的に導きます。LLMは短く構造化された課題では人間の評価者と一致しますが、複雑で開かれた、あるいは主観的な仕事については人間の判断を完全には代替できず、AI駆動の採点を教員の監督と検証と組み合わせるハイブリッドなシステムでもっとも高い採点の有効性が達成されます([[jukiewicz-chatgpt-teacher-assessment-feedback-2026|Jukiewiczら(2026)]])。[[falahat-chatgpt-grading-pharmacy-exams-2026|Falahatら(2026)]]は、その境界がどこに落ちるかを具体的に示します。ChatGPT-5は薬学試験の客観的な項目で教員と一致しました(CCC 0.935–1.000)が、ルーブリックが与えられても短答式と論述式の項目では信頼できず、著者らは複雑で主観的な、あるいは高い利害を持つ評価には人間の見直しを伴うハイブリッドな採点を推奨しています。
 - 反復はその監督の代替にはなりません。同一の提出物を5つの異なる日に再採点したところ、同じモデルはKrippendorff's alpha 0.625という自らの結果の再現しか示さず、ばらつきは中間の成績に集中し、AとFは5回の採点の集計に現れませんでした([[llm-grading-assistants-public-health-2026|Brevikら(2026)]])。
 
-- **承認の関門から、支援的な分析パートナーへと再枠づけする。** [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone ら（2026）]]は、ヒューマン・イン・ザ・ループのAIを、承認の関門から、誤分類や境界事例がフィルタリングすべき欠陥ではなく人間の意味交渉への入力となる支援的な分析パートナーへと再枠づけします。18,883件のラベル付きサンプルの文単位の符号化で、モデルは構成概念の存在を全体で81.94%の精度で検出しましたが、質や関連性を判断することは決してなく、係争のある事例は人間のコードブックの精緻化へと戻されました。
+- **支援的な分析パートナーとして再枠づけする。** [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone ら（2026）]]は、ヒューマン・イン・ザ・ループのAIを、承認の関門から、誤分類や境界事例がフィルタリングすべき欠陥ではなく人間の意味交渉への入力となる支援的な分析パートナーへと再枠づけします。18,883件のラベル付きサンプルの文単位の符号化で、モデルは構成概念の存在を全体で81.94%の精度で検出しましたが、質や関連性を判断することは決してなく、係争のある事例は人間のコードブックの精緻化へと戻されました。
 
 - **学習者の主体性。** 人間をループに保つことは[[agency|主体性]]を保ち[[self-regulated-learning|自己調整学習]]を支え、完全に自律的な支援が引き起こしうる[[cognitive-offloading|過度の依拠]]に対抗します。
 
@@ -91,7 +92,7 @@ Kim, Baek, Kwak (2026)は、HITLを**PedaCo**(Pedagogical Co-creation)を通じ�
 - **見直しの前に基準を見えるようにすると一致が高まる。** [[calibrating-trustworthiness-llm-education-2026|Cosciaら(2026)]]は、LLMの応答を比較するレビュアーに信頼性の指標を見せることで、評価者間の一致がKrippendorff's alpha 0.3987から0.4931へと上がったことを見いだし、さらなる指標を加えても見返りなく認知的負荷が増すだけでした。
 - **限界づけられた主体性は、断り書きではなく構造として。** [[ilieva-agentic-genai-higher-education-2026|Ilievaらの(2026)]]の[[agentic-ai|エージェント型]]学習支援のためのAGAI-HEフレームワークは、教授法的ワークフローとエージェント的支援の層に並ぶ第3の層として、監督をモデルそのものに組み込みます。許容されるAIの利用、教授法的な境界、[[privacy|プライバシー]]の規則、[[ai-use-disclosure|開示の要件]]、出典の検証、教員のチェックポイント、[[academic-integrity|誠実性]]の仕組み、そして最終的な人間の説明責任を定義し、すべてのエージェント的な機能が学習の要件、評価の目的、あるいはガバナンスの統制にたどり着くことを求めます。これは、HITLが方針の言明ではなくシステム設計の性質であるという原理の具体的な具現です。そして著者らの130人の学生を対象とした認識の研究は、その監督のもとでエージェント的なオーケストレーションを加えることが、それ自体ではチャットボットよりも良い学習支援として受け取られなかったことを思い出させます。
 - **人間がどれだけ見るか自体が設計上の決定である。** [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]]は、監督の配置からその*頻度*を切り離します。高頻度のHITL、すなわちAIの出力が学生に届く前にすべてを見直すことは、質の管理、迅速な誤りの検出、説明責任、継続的な較正を買いますが、自動化の動機となった効率を打ち消し、採点の繁忙期に瓶颈になることがあります。低頻度のHITL、すなわち標本を抜き打ちで確認し印の付いた事例だけを見直すことは、規模に対応し回転を短くしますが、誤りが提出物の間で検出されずに広がるリスクを負い、説明責任を弱め、ある学生が他の学生よりも徹底した人間の見直しを受ける場合に[[equity-in-ai-education|公平性]]の問題を作り出します。普遍的な答えを定める代わりに、この枠組みは、そのトレードオフを分野の誤りの許容度、評価が[[formative-assessment|形成的]]か[[summative-assessment|総括的]]か、集団の規模と機関の資源に対して明示的に行うことを求めます。そして通常の効率の主張とは逆の方向に既定値を定めます。高頻度の監督から始め、実質的な証拠が許容可能な信頼性、安全性、公平性を示したときにのみそれを縮小します。つまり証明の負担は、*より少ない*監督が安全であることを示すことに置かれるのです。この論文はまた、そうした監督の背後にある原理がスタッフの労力を減らすのではなく移し替えるかもしれないと警告し、純の効率の利得を未解決の実証的な問いとして残しています。
-- 展開された人間の監督は、質の判断ではなく承認の割り当てを意味しうます。ハイブリッドな問い合わせシステムで、受け入れの欄は解決者が問うた人と異なったかどうかだけを符号化しており、答えの質を評価する測定はありませんでした([[student-query-demand-hybrid-ai-support-2026|Guptaら(2026)]])。
+- 展開された人間の監督は、質の判断ではなく承認の割り当てを意味しえます。ハイブリッドな問い合わせシステムで、受け入れの欄は解決者が問うた人と異なったかどうかだけを符号化しており、答えの質を評価する測定はありませんでした([[student-query-demand-hybrid-ai-support-2026|Guptaら(2026)]])。
 
 ## HITLがナレッジベースの研究にどう現れるか
 - **自動化された評価と採点:** HITLシステムは、AIによる生成・採点と人間による検証を、短答の採点([[cong-confidence-asag-2026]])、自己説明の評価([[llm-automated-assessment-student-self-explanations]])、[[automated-essay-scoring|論文の採点]]([[psyscore-essay-scoring-zpd-feedback]])にわたって組み合わせます。[[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]]は、これを高い利害を持つ手書きの一般[[chemistry-education|化学]]の採点に具体化します。[[multimodal|マルチモーダル]]LLMの信頼性が応答の形式によって異なるため(テキストと化学反応の答えは信頼できるが、作図とグラフの得点は無作為より悪く)、誤った陽性は学生によって検出されません。そこで彼らは生のAIの得点を、確信度フィルターを用いた選択的な受け入れ・延期の方針に変換します。部分点の閾値、[[item-response-theory|IRT]]ベースのリスク閾値、問題種別の除外です。不確実な項目と図形的な項目を人間に延期し、著者らはこの手法を、教育の[[assessment|評価]]におけるAIを高リスクとして指定し記録された人間の監督を義務づける[[regulation|規制上の]]枠組みに結びつけます。
@@ -159,6 +160,8 @@ Kim, Baek, Kwak (2026)は、HITLを**PedaCo**(Pedagogical Co-creation)を通じ�
 - [[student-support-and-success]] — 自動化された支援の流れの中の人間の判断
 
 ## 関連する記事
+
+- [[shi-human-ai-complementarity-safety-2026]] — 416名の評価者、3,957項目:候補先行型の支援により、モデルが誤った項目での誤り検出が36.7%から20.6%に低下（Shi ら 2026）
 - [[zhai-science-literacy-generative-ai-coherence-2026]] — 科学教育における生成的AIのための4層の HITL アーキテクチャ（Zhai ら 2026）
 - [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 研究の計装として LLM の行動セグメントを検証する符号化者（Fonteles ら 2026）
 - [[lee-learner-question-types-ai-education-2026]] — 専門家がラベリングした問いの分類:人間がラベリング、拡張、誤りの分析を統治する(Lee, Atif & Kang 2026)
@@ -177,7 +180,7 @@ Kim, Baek, Kwak (2026)は、HITLを**PedaCo**(Pedagogical Co-creation)を通じ�
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy(Kimら 2026)
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI(Wang 2026)
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI支援の教員監督下の採点とフィードバック
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles?A large-scale evaluation
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[breideband-community-builder-cobi-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]

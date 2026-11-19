@@ -174,14 +174,14 @@ AI の専門職的な開発を計画する教員開発者、学術的な指導�
 
 ## 関連する記事
 
-- [[jordan-faculty-ai-oer-creation-2025]] — プロンプトから実践へ:AI支援のOER作成を探る教員中心の取り組み(Jordanら 2025) - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 生成的AIの整合についての助言の批判的談話分析:開発者は技術の訓練者へと描き直される
-- [[crompton-faculty-technology-integration-standards-2026]] — 技術統合のための教員の基準（DBR）
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — AI の倫理的な次元:教員と学生の見解
+- [[jordan-faculty-ai-oer-creation-2025]] — プロンプトから実践へ：AI支援によるOER作成を探る教員中心の取り組み（Jordan et al., 2025）- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — GenAIのアラインメント助言に関する批判的言説分析：技術トレーナーとして再位置づけされる開発者
+- [[crompton-faculty-technology-integration-standards-2026]] — 技術統合のための教員スタンダード（DBR）
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — AIの倫理的側面：教員と学生の視点
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — 工学の教員のメタファーが AI の理解をどう構成（し制約）するか
-- [[fear-awe-genai-metaphor-workshops-2025]] — 恐怖と畏敬:メタファーを通じて生成AIを理解する（教員／職員／学生のメタファー・ワークショップ）
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — 批判的な AI リテラシーを教えるための 4 つの基準と 4 つのメタファー
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — 見えざるものの統治:語学教師の間の AI リテラシー
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — 工学系教員のメタファーはAI理解をいかに構築し（かつ制約する）か
+- [[fear-awe-genai-metaphor-workshops-2025]] — 「恐れと畏敬」：メタファーを通じて生成AIを理解する（教員・職員・学生向けメタファーワークショップ）
+- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — 批判的AIリテラシーを教えるための4つの基準と4つのメタファー
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — 見えざるものを統治する：言語教師におけるAIリテラシー
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -192,36 +192,37 @@ AI の専門職的な開発を計画する教員開発者、学術的な指導�
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — 技能の隙みではなくアイデンティティの危機としての生成AI
-- [[zuo-instructor-power-genai-writing-2026]] — 生成AIを作文で扱う大学の教師が知覚する権力関係（Zuo, Xu & Dunning 2026）
-- [[reflective-triangle-model-teacher-ai-2026]] — 省察の三角形モデル:認知的媒介者としてのAI
-- [[sutedjo-faculty-genai-tpack-21-2026]] — 生成AIに関する教員の自己知覚された TPACK-21 知識（Sutedjo, Chowdhury & Liu 2026）
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD:出席は伸びを予測し、自己知覚された参加はしない
-- [[instructional-design-proficiency-masters-math-2026]] — 数学の教育学修士における教授設計の熟達を改善するスマート教室モデルと D-T-E ループ（Zhu ら 2026）
-- [[talebzadeh-ai-group-activity-roles-2026]] — AI が設計した分化した集団活動における役割の構造（Talebzadeh 2026）
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 大学教師の経験と認識:脆弱性、評価の再考、危機にある学生の学習（Farazouli ら 2026）
-- [[chick-faculty-development-ethical-ai-2026]] — 恐怖から革新へ:6週間の教員の集中プログラム、共生的な教授法、そしてそれが供給できなかった制度的条件
-- [[vassallo-ai-guilt-complex-faculty-2026]] — AI 罪悪感コンプレックス:学術スタッフの間の予期的な罪悪感、隠蔽、キャリア段階の違い（Vassallo 2026）
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon の1,057人のアメリカの教員の調査:制度的な準備不足、薄いガバナンス、87%/48%の方策の隔たり（Watson & Rainie 2026）
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — グローバル・サウスの高等教育におけるデジタルな媒介者としての学問開発者:社会技術的な実践としての開発
-- [[physics-faculty-learning-community-ai-2026]] — 不確実な時代における AI の効果的な利用のためのワークショップ連続講義:物理学の教員学習共同体を築く
-- [[faculty-ai-well-being-social-supports-2026]] — 教員の AI の安寧は技術的な自己効力感ではなく AI リテラシーを追う
-- [[ai-competence-framework-landscape-2026]] — 採用する前に、フレームワークの水準が何を説明しているかを確認する
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — 教育はAIの議題を設定できるのか。教員教育における模擬的な革新と教育学的な方向づけ
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 6週間のプログラムに参加した化学教師105人
-- [[ma-ai-corpus-language-teaching-coi-2026]] — 28カ国から150人以上の語学教師が20週間にわたって参加
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — スカンディナビアの教師2,159人:知覚された便益に0.20 SDの伸び
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 生成的AIの学習プログラムを受けた教師146人。欲求が関与を媒介する
-- [[bodek-prompted-to-explore-microlearning-2026]] — 生成的AIのためのマイクロラーニング型の教員開発モデル
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — スキルギャップではなくアイデンティティの危機としてのGenAI
+- [[zuo-instructor-power-genai-writing-2026]] — ライティングでGenAIに取り組む大学教員が知覚する権力関係（Zuo, Xu & Dunning 2026）
+- [[reflective-triangle-model-teacher-ai-2026]] — リフレクティブ・トライアングル・モデル：認知的仲介者としてのAI
+- [[sutedjo-faculty-genai-tpack-21-2026]] — GenAIに関する教員の自己知覚的TPACK-21知識（Sutedjo, Chowdhury & Liu 2026）
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACKのPD：出席が学習の伸びを予測し、自己知覚の参加度は予測しない
+- [[instructional-design-proficiency-masters-math-2026]] — 数学におけるM.Ed.の授業設計熟達度を高めるスマートクラスルームモデルとD-T-Eループ（Zhu et al. 2026）
+- [[talebzadeh-ai-group-activity-roles-2026]] — AIが設計した差異化されたグループ活動における役割のアーキテクチャ（Talebzadeh 2026）
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 大学教員のGAI経験と認識：脆弱性、評価の再考、リスクにさらされる学生の学習（Farazouli et al. 2026）
+- [[chick-faculty-development-ethical-ai-2026]] — 恐れからイノベーションへ：6週間の教員インスティテュート、共生的教育学、そしてそれが提供できなかった制度的条件
+- [[vassallo-ai-guilt-complex-faculty-2026]] — AI罪悪感コンプレックス：大学教職員における予期的罪悪感、隠蔽、キャリア段階による差異（Vassallo 2026）
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 米国の教員1,057人を対象としたAAC&U/Elon調査：制度的準備不足、脆弱なガバナンス、そして87%/48%のポリシーギャップ（Watson & Rainie 2026）
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — グローバル・サウスの高等教育におけるデジタル仲介者としてのアカデミック・デベロッパー：社会技術的プラクシスとしての開発
+- [[physics-faculty-learning-community-ai-2026]] — 不確実な時代にAIを効果的に活用するためのワークショップシリーズ：物理学教員の学習コミュニティの構築
+- [[faculty-ai-well-being-social-supports-2026]] — 教員のAIウェルビーイングは、技術的自己効力感よりもAIリテラシーと連動している
+- [[ai-competence-framework-landscape-2026]] — 採用する前に、そのフレームワークのレベルが何を記述しているのかを確認する
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — 教育はAIの議題を設定できるか：教師教育における模擬的イノベーションと教育学的な方向設定
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 6週間のプログラムに参加した105人の化学教師
+- [[ma-ai-corpus-language-teaching-coi-2026]] — 28か国150人超の言語教師を対象に20週間実施
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — スカンジナビアの教師2,159人、知覚された便益で0.20 SDの向上
+- [[yuan-teacher-need-satisfaction-genai-2026]] — GenAI学習プログラム後の教師146人、ニーズがエンゲージメントを媒介
+- [[bodek-prompted-to-explore-microlearning-2026]] — 生成AIのためのマイクロラーニング型教員開発モデル
 - [[bursic-ai-residency-education-curriculum-2026]] — 医学教育におけるAIレジデンシー
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86の資料:4つのテーマのひとつとしての教育者の開発
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 元教師が導く開発を求めた教師22人
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 既存の職員と教員のスキル向上を進める69%
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 指針が不在のところでシャドウAIを正当化した教育者20人
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — 能力の隔たりが教員開発と採用の決定を駆動する
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — 5つの支援の層のひとつとしての反復される開発
-- [[chen-future-faculty-development-ai-2027]] — 7つの教師の役割、2つの普遍的な基盤、そして開発の単位としての教授チーム
-- [[ji-judgement-space-dialogic-inquiry-2027]] — 判断の空間、対話的な探究、そして判断がどこで道具へ移ったかについての3列の監査
-- [[jiang-faculty-development-japan-2027]] — 日本の二重構造のFD:参加は増えたが同僚的な形式は増えなかった
-- [[tian-transnational-faculty-development-governance-2027]] — 国境を越えた教員開発:接続は断続的で、調整こそが仕事である
-- [[ho-invariant-core-faculty-development-2027]] — 不変の中核、変わる縁:技術より前にある学習の機構
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86件のリソース、4つのテーマのうちの1つとしての教育者の能力開発
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 元教師が主導する能力開発を求める22人の教師
+- [[robert-educause-impact-ai-work-higher-education-2026]] — 既存の職員・教員のアップスキリングが69%
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 指針が存在しない中でシャドーAIを正当化した20人の教育者
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — 教員開発と採用の意思決定を駆動する能力ギャップ
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — 5つの支援層のうちの1つとしての反復的な能力開発
+- [[chen-future-faculty-development-ai-2027]] — 7つの教師役割、2つの普遍的基盤、そして開発の単位としてのティーチングチーム
+- [[ji-judgement-space-dialogic-inquiry-2027]] — 判断空間、対話的探究、そして判断がどこでツールへ移されたかを点検する3列の監査表
+- [[jiang-faculty-development-japan-2027]] — 日本の二重トラックFD：参加は増加したが、同僚性のある形式は広がらなかった
+- [[tian-transnational-faculty-development-governance-2027]] — 国境を越えた教員開発：つながりは断続的であり、調整こそが実質的な仕事である
+- [[ho-invariant-core-faculty-development-2027]] — 不変の核、変わる周縁：テクノロジーに先立つ学習メカニズム
+- [[sheridan-teaching-academics-genai-plans-2026]] — 20分野・24か国：大学教員はまず自動化を計画し、制約として時間とポリシーを挙げる（Sheridan et al. 2026）

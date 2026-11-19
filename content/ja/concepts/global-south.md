@@ -1,7 +1,7 @@
 ---
 title: グローバル・サウス
 created: "2026-10-10T22:31:13-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -34,11 +34,11 @@ ai_assist:
 
 ## はじめに
 
-### なぜAIEDにとって重要なのか
+## なぜAIEDにとって重要なのか
 
 主流のAIと教育技術の研究は、歴史的に西洋的で英語圏のデータセットと[[governance|制度的]]な文脈に支配されてきました。これは二つの問題を生み出します。（1）そのようなデータで訓練された[[ai-technologies|AIシステム]]は、グローバル・サウスの設定では学習者に対して性能が劣ったり誤って表現したりし得ます。そして（2）グローバル・ノースで作られた評価の[[benchmark|ベンチマーク]]は、他の地域の教育的な現実、言語、あるいは知識の伝統を反映していないかもしれません。この知識ベースにおけるグローバル・サウスの文脈からの研究は、文化的に根ざしたデータセット、ベンチマーク、そして技術の採用の研究にわたります。[[ai-literacy]]と[[higher-ed|高等]]教育および[[k-12|K-12]]教育への含意を持ちます。
 
-### 知識ベースにおける応用
+## 知識ベースにおける応用
 
 - **文化的に根ざしたデータとベンチマーク：** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]は[[multilingual-learning|多言語の]]インドの知識体系（Indian Knowledge Systems）の指導データセットを提供し、[[nsmq-riddles-science-math-benchmark|NSMQ Riddles]]はガーナに基づく[[stem-education|STEM]]のベンチマークを導入します。これは最初期のグローバル・サウスの教育的な評価データセットの一つです。
 - **ガーナの高等教育におけるAI倫理についての自覚：** [[ai-ethical-awareness-ghana-students-2026|Acquah et al.（2026）]]は、509人のガーナの[[higher-ed|大学]]学生を用いて、三要因（自律性、善行、公平性）のAI倫理の自覚尺度を検証し、一様に非常に高い自覚からほとんど自覚のない小さな集団まで、五つの潜在的なプロファイルを見出しました — 最も弱いのは善行でした — そして性別による差はなく、AIの[[ethics]]文献にとってのグローバル・サウスの測定の拠点を提供しています。
@@ -54,7 +54,7 @@ ai_assist:
 
 - **公平性はこの地域全体で最も研究が少ない次元である。** 75のグローバル・サウスの研究（2022〜2025年）のPRISMA-ScRによる[[meta-analysis-systematic-review|スコーピングレビュー]]は、公平性が五つの領域の中で最も調べられていないものの一つである一方、包摂的な教育にとってその中心的な重要性にもかかわらず、学生の述べた倫理的な立場とその行動の間に隔たりがあることを報告しました（[[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026]]）。
 
-### 含意
+## 含意
 
 グローバル・サウスの文脈に注意を払うには、西洋のモデルとベンチマークが直接に移るという想定を超える必要があります。それは、地域に根ざしたデータセット、文化的に関連した[[pedagogy]]、共同体を中心に据えた評価の基準、そして学習者の生きられたものと共同体の認識論を権威あるものとして扱う研究を求めます。共同体に基づくAIの学習や、地域の条件に適合させた[[technology-acceptance-model|技術受容]]の研究といった枠組みと足並みをそろえるものです。
 

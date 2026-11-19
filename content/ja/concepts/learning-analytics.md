@@ -36,7 +36,7 @@ ai_assist:
 
 ## はじめに
 
-### AI によって強化されたアナリティクス
+## AI によって強化されたアナリティクス
 
 - **予測的アナリティクス:** 学習者の相互作用データに対する[[machine-learning|機械学習]]が成果を予測します——[[at-risk-students-ml-prediction|危険にある学生の特定]]から[[knowledge-tracing|知識状態の推定]]まで。
 - **検証は予測と同じくらい重要です。** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]]は、予測的な知識状態モデル（BKT、BKT-with-Forgetting、AFM）が、完全なセッション履歴に遡及的に適合されるときには正確に見えるのに、**時間に基づく交差検証**——まさにアナリティクスが実際に展開される仕方である、先行するセッションから次のセッションを予測する方法——のもとでは、学習者のパフォーマンスを過大評価し、間隔／忘却の動態を見落とし、練習条件の順序を誤りうることを示しています。アナリティクスへの教訓——遡及的適合は縦断データ上の貧しい前方予測妥当性を隠しうるため、指標とダッシュボードのモデルはウォーク・フォワードで検証されるべきです。
@@ -61,7 +61,7 @@ ai_assist:
 
 **相互作用のデータは、モデリングの問題である前に表現の問題です。** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]]は、人間と AI の各交換を、要求を動機づけた計算、要求、応答、利用者のフィードバック、そして後に続く実行を運ぶ一つの構造化された記録として扱い、孤立したプロンプトとしては扱いません。35 人の学生による展開での 140 の学生と課題の対では、相互作用の数だけでは正常に実行されたセルと r = 0.12 でしか相関せず、同じ呼び出しでも周囲の状態に応じて誤りの回復、次のステップ、概念の確認、検証になりえました。アクセスを持ちながら相互作用がまったく生じなかった 37 の対もあり、ログにおける AI 利用の不在は必要の不在として読めません。
 
-### ラーニングアナリティクスのサイクル
+## ラーニングアナリティクスのサイクル
 
 ラーニングアナリティクスは、正典的には、学習者の活動がデータを生み、それが尺度と指標に処理され、**介入**へと翻訳され、そして介入が学習者活動へフィードバックして輪を閉じる、というサイクルとして枠づけられます。介入の段階こそが、アナリティクスを単なる監視や予測から区別するものです。それがなければ、アナリティクスは記述し旗を立てるだけで、学習を変えることはありません。このサイクルは、AI ツール（ダッシュボード、フィードバック生成器、処方的な推薦器）がパイプラインのどこに位置し、どの段階を自動化するかを理解するための組織的な枠組みです。
 
@@ -69,7 +69,7 @@ ai_assist:
 
 [[qualitative-research|質的]]データの頻度符号化は入口であり、判定ではありません。10 人の参加者の研究では、ある教師は頻度符号化を生産的な入り方として読み、他の教師はそれが希だが決定的な回答を覆い隠すと警告しました。そのため設計は、すべての集約ビューを学生の原文のテキストに結び戻しています（[[wordstream-glass-learning-analytics|Nguyen et al. (2026)]]）。
 
-### 記述から介入へ
+## 記述から介入へ
 - **エビデンス基盤はまだ介入のエビデンスではない。** 学生、専門分野、教育者、機関の水準にわたる四つの研究を統合し、[[learning-analytics-genai-learning-design|Rienties, Divjak and Law (2026)]]は、この分野が横断的、[[self-report-measures|自己申告]]、談話ベース、専門家の判断によるデザインに支配されていることを見出し、因果的な機構とより長期的で分配的な成果を検証する介入研究を求めています。
 
 **ランダム化された促しの設計が因果の錨を与えます。** ASSISTments におけるランダム化された促しの実験では、[[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan & Sales (2025)]]が、プラットフォームに不慣れな教師に対し、課題を作成した後に課題レポートを見るようランダムに促しました。
@@ -87,25 +87,23 @@ ai_assist:
 誠実性に関する成果が同じ予測的な層に入ってきます。[[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]]は、学期の最初の 8 週間の[[video-education|Moodle と動画プレーヤー]]の痕跡から AI 支援の不正リスクを予測し、ロジスティック回帰で AUC 0.763 に達し、そのシグナルは試験の最中ではなく試験の前に届くがゆえに使えると論じています。
 補完的な研究系列は、アナリティクス自身の*解釈*を標的にします。[[factria-responsible-institutional-analytics-2026|Marques et al. (2026)]]の FACTRIA 枠組みは、指標の背後にあるバイアス要因——パイプライン、制度的、コース、人口統計——を組織化し、省察を促すチャットボットが、11 人の関係者が 1 件あたり測った下位要因を 1.41 から 3.45 へ引き上げ（d = 2.15）、彼らを直接的な読みから条件的な読みへと移行させました。
 
-### 方法とネットワーク分析
+## 方法とネットワーク分析
 
-ネットワーク手法はラーニングアナリティクスに中核です。[[network-analysis|推移ネットワーク分析（TNA）]]は学習者の行動の時間的系列をモデル化し（例えば、[[conversational-ai|チャットボット]]が足場かけする執筆における改訂とチャットのループ）、[[network-analysis|認識論的ネットワーク分析（ENA）]]は、活動全体でコード／構成概念がどう共起するかを写像します——両者は、学習と学習者と[[student-ai-interaction|AI の相互作用]]の*産物*だけでなく*過程*を明らかにします。（[[penny-transition-network-analysis-efl-writing-2026]]）（[[tracing-genai-literacy-interaction-patterns]]）
+- **自己主導的なモデル構築におけるクリックストリームのクラスタリング。** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] は、VERA で 822 の生態モデルを構築した 315 名のオンライン学習者のクリックストリームに対して、[[pedagogical-patterns|活動系列]]分析、階層的クラスタリング、マルコフ連鎖モデルを組み合わせ、遷移に基づく 9 つの細粒度な行動クラスタを 3 つのより大きなパターン(Observation、Construction、Exploration)へと集約した。この研究は、系列分析とマルコフ連鎖モデリングを組み合わせれば、人口統計データや文脈データがまったく存在しない場合でも、非構造化された[[self-directed-learning|自己主導的]]課題における意味のある行動を明らかにできることを示している。
+- **プールした相関はトレースの予測力を過大評価する。** 424 名の大学生の閲覧セッションに対する 576 通りのモデル構成において、課題を横断してプールした相関は課題内相関を中央値で 0.169 上回った。したがって、高いプール相関が順位づけているのは、学習者がどの課題に直面したかであって、その学習者がどれだけうまく遂行したかではない([[konca-digital-traces-critical-online-reasoning-2026|Konca & Mehler (2026)]])。
+- **LA と GenAI は学習設計を異なる仕方で形づくる(2026)。** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] は、11 件の教員フォーカスグループに ENA を適用し、ラーニングアナリティクスと[[generative-ai|生成 AI]]が[[learning-design|学習設計]]の意思決定にどのように情報をもたらすかを比較した。LA に関する議論は文脈情報、コースレベルの設計、創造的な[[problem-solving|問題解決]](エンゲージメントを診断し支援を的を絞って提供する LA)に集中した一方、GenAI に関する議論は[[assessment|評価設計]]と学習者の[[self-determination-theory|自己決定]]を支える設計(アイデア生成と評価作成のための GenAI)に集中した。文脈と[[creativity|創造性]]は双方に共通して中心的であり、アナリティクスが設計に資するのは[[pedagogy|教育学的]]文脈と教員の自律性のうちにおいてのみである、という点を想起させる。
+- **構成概念が社会的な場合は発話が融合に勝り、最適な情報源は構成概念ごとに異なる。** モダリティを最大化するのではなく、LAK26 における協調的モデリング区間での 5 つの特徴量構成の比較では、テキストのみの埋め込みが全体として最も強く(平均 ROC AUC 0.650、95% CI 0.615~0.685)、テキスト+ログ(0.613)や文脈ウィンドウ付きのテキスト+ログ(0.623)を上回った。ログ単独は 0.526 で、社会的な構成概念に対してはほぼ偶然水準だったが、内省の検出を改善した唯一の情報源でもあった(0.5862)。一方、計画は環境トレースではなく周囲の発話に依存していた。特徴量の選択は構成概念についての主張であり、予算上の決定ではない([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]])。
+- **行動トレースは認知状態の測定ではない——とりわけ特別な支援ニーズのある学習者において。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] は、相互作用トレース(課題遂行時間、繰り返される誤り、[[help-seeking|援助要請]]、不規則な進捗)は学習者がどこで支援を必要としているかを教師が特定する助けにはなるが、内的状態を透明に映し出す指標ではないと警告する。反応が遅いのは、慎重な思考、言語処理、注意散漫、アクセスしにくい設計、技術的な困難のいずれかを反映しているかもしれない。「アルゴリズムは行動データのみから実行機能の欠陥や診断上の状態を推論すべきではない」——アナリティクスが正当化されるのは、専門的なアセスメントと学習者との対話の中における一つの情報源としてである。
+- **設計アナリティクス:トレースではなく計画された活動系列をマイニングする(2026)。** [[learning-paths-patterns-learning-design-2026|Divjak, Svetec and Horvat (2026)]] は、オープンな学習設計ツールで計画された 554 コースにわたる 29,064 件の教授・学習活動の*設計された*系列に、マルコフ連鎖と系列パターンマイニングを適用した。遷移行列の最大値は Assessment から Discussion への遷移(0.332)であり、自己遷移が Practice(0.317)と Acquisition(0.292)を支配し、最も強い連続規則は Acquisition → Assessment → Practice → Practice(信頼度 0.743、リフト 1.449)、最も頻出する 4 ステップの経路は Acquisition、Practice、Practice、Assessment(120 回)であった。Discussion と Assessment が最も到達しやすい類型であり、Production が最も遠く散発的であった。本研究は、ラーニングアナリティクスが必ずしも LMS のトレースから始まる必要はないことを想起させる。設計時のデータは、学生が一人も現れる前にコースの教育学的な文法を露わにできる。ただし著者らは、反転授業、探究ベース、[[project-based-learning|プロジェクトベース]]の設計との類似は意図の証拠ではないと強調している。
+- **自己説明する蒸留 LLM(2026):** 2 段階のパイプラインが、ブラックボックスのラーニングアナリティクス推定器とその事後的解釈を、個人レベルの推定値と自然言語の説明の両方を返す小型のオープンウェイト[[llm|LLM]]へと蒸留する。忠実性を最優先する監査は、語りがそれが記述するアトリビューションと一致しているかを評価する。[[simulation|シミュレーション]]では、オラクルのメンターを用いた場合にほぼ損失のない復元(r > .90)が示され、アナリティクスにとってより透明で導入可能な道筋を提供する([[distilling-self-explaining-lm-learning-analytics-2026|Pan et al., 2026]])。
+- **LA に基づく教育介入の実現要因(2026)。** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] は、Delphi + AHP + SNAP により、信頼できる LA に基づく教育介入の 7 つの実現要因を特定し、優先順位づけた。すなわち、[[governance|組織]]の戦略的方向性、教育学的およびその他の[[research-methods-aied|研究]]基盤、利用可能な資源、教育学的支援、倫理とデータガバナンス、ステークホルダーの関与、品質保証である。組織の戦略的方向性が最も上位(かつ他の要因への影響力も最大)であり、利用可能な資源が 2 位であった。[[trust|信頼性]](倫理的遵守、透明で偏りのないアルゴリズム、教育学的妥当性)は、それがなければ LA に基づく介入が意味をなさない前提条件として位置づけられている。
+- **LLM との相互作用の深さは課題の質を予測するが、想起は予測しない(2026)。** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] は、ターン単位の LLM 会話テレメトリ(Depth/Volume/Pacing)を[[learning-gains|学習成果]]に結びつけた。説明を求める「深さ」は、独立に採点された課題の質を予測したが(β = 6.27)、即時の想起は予測しなかった。これは精緻化による理解と想起による記憶の固定化との解離であり、LA において[[llm|LLM]]との相互作用をどのように測定・評価するかに含意をもつ。
+- **共有された相互作用の単位が欠けている。** 33 の研究による 46 の分類を通じて、共有されたメタ特性は存在せず、似たラベルが異なる現象を指している。そこで本レビューは、目標志向で境界のあるやりとりである*相互作用エピソード*を、対話とスキル習得を相関させる単位として提案する([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]])。
+- **ラーニングアナリティクスのための協調的談話のシミュレーション。** [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] は、参加者ごとにファインチューニングされた LLM エージェントを用いて協調的問題解決の対話を再現し、Epistemic Network Analysis によって検証した(ENA 距離 0.17、置換検定 p = 0.65)。この手法は、新たな人間データを収集せずに、相互作用の動態、ターンテイキング、主題コードの軌跡を研究するための真正な協調的談話を生成する、スケーラブルな方法をラーニングアナリティクス研究者に提供する。
+- **オープンで再現可能なデータとトレース対応のアナリティクス。** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] は、協調的プログラミングにおける相互作用と参加の均衡を分析するために、トレース対応のスキーマを備えた合成[[benchmark|ベンチマーク]](N=540、360 セッション、1,440 エピソード)を公開している。この文献において、ログとトレースのデータは[[self-report-measures|自己報告]]の自然な対抗軸である。同じ構成概念がしばしば二度、一度は尋ねることで、一度は観察することで測定され、両者は必ずしも一致しない。また別に、SHAP 分析を伴う探索的な ML フレームワークが、大学生の学業目的の ChatGPT 利用意向と最も強く関連する学習関連の構成概念を特定し、[[explainable-ai|解釈可能性]]を優先した([[determinants-chatgpt-use-higher-education-2026|Verma et al., 2026]])。
+- **再利用可能なアナリティクス基盤、ただし検証は内部のみ(2026)。** [[a4l-analytics-pipeline|Bai et al. (2026)]] は、コードではなく設定値を変更することで、Georgia Tech の 3 つの AI アシスタントに関する既発表の知見を再現した。ただしこの主張は既存の単一機関のデータセットの再分析に基づいており、唯一の機能拡張は内部の人間によって行われた。
 
-- **自己主導的行動の系列＋マルコフ連鎖分析。** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]]は、VERA で 822 個の生態系モデルを構築した 315 人のオンライン学習者のクリックストリームに対し、[[pedagogical-patterns|活動系列]]分析、階層的クラスタリング、マルコフ連鎖モデルを組み合わせました。9 つの細粒度で推移に基づく行動クラスターを、3 つのより広いパターン（観察、構築、探求）に蒸留しました。彼らの研究は、系列分析とマルコフ連鎖モデル化を組み合わせることで、人口統計学的または文脈的なデータがまったくない状況でも、非構造化された[[self-directed-learning|自己主導的]]課題において意味のある行動を掘り起こせることを示しています。
-- **行動の痕跡は認知的状態の尺度ではない——特に特別な支援を必要とする学習者については。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 他（2026）]]は、相互作用の痕跡（課題に費やした時間、繰り返される誤り、[[help-seeking|支援の求め]]、不規則な進捗）が、学習者がどこで支援を必要としているかを教師が見つけるのを助けうる一方、内的状態の透過的な尺度ではないと警告しています。すなわち、緩やかな反応は、注意深い思考、言語の処理、気の散り、アクセスできない設計、あるいは技術的な困難を反映しうるのです。「アルゴリズムは、行動データだけから、執行機能の欠如や診断的な状態を推論すべきでない」——アナリティクスは、専門的な評価と学習者との対話の内部における一つの情報源としては擁護できます。
-- **LA と生成 AI は学習設計を異なる形で形づくる（2026）。** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]]は、11 の教師フォーカスグループで ENA を用い、ラーニングアナリティクスと[[generative-ai|生成 AI]]が[[learning-design|学習設計]]の意思決定をどう知らせるかを比較しました。LA の議論は文脈情報、コース単位の設計、創造的な[[problem-solving|問題解決]]を中心とし（関与の診断と支援の標的化のための LA）、生成 AI の議論は[[assessment|評価設計]]と学生の[[self-determination-theory|自己決意]]のための設計を中心としました（着想と評価開発のための生成 AI）。文脈と[[creativity|創造性]]は両方において中心でした——これは、アナリティクスが[[pedagogy|教育的]]な文脈と教師の自律性の内側でのみ設計を知らせる、という想起材料です。
-- **構成概念が社会的なものであるときは、融合よりも語りが勝り、最良の情報源は構成概念ごとに異なる。** 様態を最大化するのではなく、協働的なモデル化の区間に対する五つの特徴量構成の LAK26 の比較は、テキストのみの埋め込みが全体として最も強いことを見出しました（平均 ROC AUC 0.650、95% CI 0.615〜0.685）。テキストとログの併用は 0.613、文脈の窓を加えたテキストとログは 0.623 でした。ログは単独では 0.526 で、社会的な構成概念としては偶然に近い水準でしたが、内省の検出（0.5862）を改善した唯一の情報源であり、計画は環境の痕跡ではなく周囲の語りに依っていました。特徴量の選択は予算の決定ではなく、構成概念についての主張なのです（[[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]）。
-- **設計のアナリティクス——痕跡ではなく計画された活動系列の採掘（2026）。** [[learning-paths-patterns-learning-design-2026|Divjak, Svetec and Horvat (2026)]]は、オープンな学習設計ツールで計画された 554 コースにわたる 29,064 件の教授・学習活動の*設計された*系列に、マルコフ連鎖と系列パターン採掘を適用しました。推移行列は評価から討議へのピーク（0.332）を示し、自己推移が練習（0.317）と習得（0.292）を支配し、最も強い連続規則は習得から評価から練習から練習でした（確信度 0.743、リフト 1.449）、一方、最も頻繁な 4 段階の経路は習得、練習、練習、評価（120 回の出現）でした。討議と評価は最も到達可能な類型で、制作は最も遠く散発的でした。この研究は、ラーニングアナリティクスが LMS の痕跡から始まる必要はないという想起材料です。設計時のデータは、どの学生も到着する前にコースの教育学的な文法を露呈しえます——ただし著者らは、反転授業、探究ベース、[[project-based-learning|プロジェクトベース]]の設計との類似が意図の証拠ではないと強調しています。
-- **自己説明する蒸留 LLM（2026）:** 2 段階のパイプラインが、ブラックボックスのラーニングアナリティクス推定器とその事後的解釈を、個人レベルの推定と言語による説明の両方を返す小さなオープンウェイトの[[llm|LLM]]に蒸留します。忠実性第一の監査は、語りがそれが記述する帰属と一致するかどうかを評価します。[[simulation|シミュレーション]]は、指導者を伴うほぼ損失のない回復（r > .90）を示し、アナリティクスのためのより透明で展開可能な道を提供します（[[distilling-self-explaining-lm-learning-analytics-2026]]）。
-- **LA に基づく教育的介入の推進要因（2026）。** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]]は、デルファイ＋AHP＋SNAP を通じて、信頼できる LA に基づく教育的介入の 7 つの推進要因を特定し優先順位をつけました。[[governance|制度的]]な戦略的指向、教育的およびその他の[[research-methods-aied|研究]]的基礎、利用可能な資源、教育的支援、倫理とデータガバナンス、関係者の関与、品質保証です。制度的な戦略的指向が最も高く（そして他の推進要因への影響力も最も大きく）、利用可能な資源が 2 番目でした。[[trust|信頼性]]（倫理的な遵守、透明で偏りのないアルゴリズム、教育的妥当性）は、それなしには LA に基づく介入が意味をなさない前提として枠づけられています。
-- **LLM 相互作用の深さは課題の質を予測するが想起は予測しない（2026）。** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]]は、ターン単位の LLM 会話のテレメトリ（深さ／量／ペーシング）を[[learning-gains|学習の成果]]に結びつけます。説明を求める「深さ」は、独立に採点された課題の質を予測しました（β = 6.27）が、即時の想起は予測しませんでした——精緻化駆動の理解と検索駆動の定着との乖離であり、これは[[llm|LLM]]相互作用が LA においてどう測定され評価されるかについての含意を持ちます。
-
-- **共有される相互作用の単位が欠けています。** 33 研究からの 46 の分類法にわたり、共有されるメタ特性はありません——似たラベルが異なる現象を名指しています——そのためレビューは、対話とスキル習得とを相関させる単位として、*相互作用エピソード*（目標指向で境界づけられた交換）を提案します（[[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]]）。
-- **ラーニングアナリティクスのための協働的談話のシミュレーション。** [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]]は、微調整された参加者特異的な LLM エージェントを用いて協働的問題解決の対話を再現し、認識論的ネットワーク分析（ENA 距離 0.17、並べ替え検定 p = 0.65）で検証しました。この手法は、ラーニングアナリティクスの研究者に、新しい人間のデータを収集することなく、相互作用の動態、ターンの交替、主題コードの軌道を研究するために本物の協働的談話を生成する、スケーラブルな方法を提供します。
-- **開かれた再現可能なデータと痕跡対応のアナリティクス。** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]]は、協働的プログラミングにおける相互作用と参加の均衡を分析するための、痕跡対応のスキーマ（N=540。360 セッション。1,440 エピソード）を持つ合成[[benchmark|ベンチマーク]]を公開します。ログと痕跡のデータは、この文献において[[self-report-measures|自己報告]]の自然な釣り合い重りです。同じ構成概念がしばしば 2 度測定され、1 度は尋ねることで、1 度は観察することで、そして両者は必ずしも一致しません。別途、SHAP 分析を用いた探索的な ML 枠組みは、大学生の ChatGPT の使用意図と最も強く結びつく学習関連の構成概念を特定し、[[explainable-ai|解釈可能性]]を優先しました（[[determinants-chatgpt-use-higher-education-2026]]）。
-- **再検証される分析基盤——社内でのみ検証済み（2026）。** [[a4l-analytics-pipeline|Bai et al. (2026)]]は、コードではなく構成値の変更によって、3 つのジョージア工科大学の AI アシスタントから公表された発見を再現しましたが、その主張は既存の単一機関データセットの再分析に依拠し、唯一の能力拡張は内部の人間によって行われました。
-
-### つながり
+## つながり
 
 ラーニングアナリティクスは[[knowledge-tracing|知識追跡]]（中核的な分析）、[[formative-assessment|形成的評価]]（アナリティクス駆動の評価）、[[student-modeling|学生モデリング]]（アナリティクスが埋める学習者の表現）、[[privacy|プライバシー]]（[[ethics|倫理]]的な制約）、そして[[edtech-platform|EdTech プラットフォーム]]（アナリティクスが展開される場）と結びついています。処方的なアナリティクスがますます[[simulating-students|シミュレートされた学習者]]で評価されるようになるため——統制された検証で合成の学生コホートが実在のコホートを代替する場面——ラーニングアナリティクスは学生シミュレーションとも結びついています。
 
@@ -157,17 +155,15 @@ ai_assist:
 
 ## 関連する記事
 
-- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight：文献で定義された学習方略を通じてクリックストリームを解釈する（Radmehr et al. 2026）
-- [[taufer-human-ai-interaction-haidl-2026]] — 人間と AI の交換を構造化された記録として扱う：プロンプトの数は進捗についてほとんど信号を運ばない
-
-- [[ai-integrated-math-argumentation-teacher-noticing-2026]] — AI の分析を集合的な議論へと注意深く編成すること（Lee, Park & Lee 2026）
-- [[factria-responsible-institutional-analytics-2026]] — 責任ある制度的アナリティクス——AI の支援でバイアスを解釈する
-
-- [[ai-supported-lecturer-decision-making-2026]] — 高等教育における AI 支援の講師の意思決定
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — プライバシーを保つ学業リスクモデリングのための連合的で解釈可能なラーニングアナリティクス（Villegas-Ch et al. 2026）
-- [[llm-interaction-depth-task-quality-recall-2026]] — 学生が尋ねることが重要——LLM 相互作用の深さ、課題の質、即時の想起（Tsiligkiris 2026）
-- [[learning-analytics-to-educational-interventions-2026]] — ラーニングアナリティクスから教育的介入へ——信頼できる LA に基づく介入の推進要因（Svetec, Divjak & Kadoić 2026）
-- [[claassen-learning-analytics-genai-learning-design-2026]] — 学習設計の意思決定における LA と生成 AI
+- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight：文献で定義された学習方略に基づくクリックストリームの解釈（Radmehr et al. 2026）
+- [[taufer-human-ai-interaction-haidl-2026]] — 構造化された記録としての人とAIのやり取り：プロンプト数は進捗に関するシグナルをほとんど持たない
+- [[ai-integrated-math-argumentation-teacher-noticing-2026]] — AIによる分析へのノーティシングと、それを集合的論証へと編成すること（Lee, Park & Lee 2026）
+- [[factria-responsible-institutional-analytics-2026]] — 責任ある機関アナリティクス：AIの支援によるバイアスの解釈
+- [[ai-supported-lecturer-decision-making-2026]] — 高等教育におけるAIが支援する大学教員の意思決定
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — プライバシーを保護する学業リスクモデリングのための連合的かつ説明可能なラーニングアナリティクス（Villegas-Ch et al. 2026）
+- [[llm-interaction-depth-task-quality-recall-2026]] — 学生が何を問うかが重要である：LLMとの相互作用の深さ、課題の質、即時再生（Tsiligkiris 2026）
+- [[learning-analytics-to-educational-interventions-2026]] — ラーニングアナリティクスから教育介入へ：信頼できるLAに基づく介入の実現要因（Svetec, Divjak & Kadoić 2026）
+- [[claassen-learning-analytics-genai-learning-design-2026]] — 学習設計の意思決定におけるLAとGenAI
 - [[at-risk-students-ml-prediction]]
 - [[engagement-intensity-learner-modeling]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
@@ -175,29 +171,31 @@ ai_assist:
 - [[wordstream-glass-learning-analytics]]
 - [[trace-course-grade-prediction-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — 学生リスク予測から SC2R へ——反実仮想の救済経路
+- [[sc2r-counterfactual-recourse-educational-2026]] — 学生のリスク予測からSC2Rへ：反実仮想的リコース
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 個別化された学習経路のためのベイズ認知診断
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — ラーニングアナリティクスのための自己説明する LM の蒸留
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI は多様な学生プロファイルに適切な支援を届けられるか——大規模な評価
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — 協働的問題解決の対話を再現する微調整された参加者特異的な LLM エージェント（Fang 2026）
-- [[astra-multi-agent-tutoring-benchmark-2026]] — マルチエージェントのチュータリングと参加の均衡した協働のための ASTRA 合成ベンチマーク
-- [[determinants-chatgpt-use-higher-education-2026]] — 高等教育における将来の ChatGPT 使用の ML/SHAP 決定要因
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ブレンドされた教室で教師に ML の発見を届ける
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 親和性マッピングを伴う成果基盤の知識追跡
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — ラーニングアナリティクスのための自己説明型LMの蒸留
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — AIは多様な学生プロファイルに適切な支援を提供できるか：大規模評価
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — ファインチューニングされた参加者固有のLLMエージェントによる協働的問題解決対話の再現（Fang 2026）
+- [[astra-multi-agent-tutoring-benchmark-2026]] — マルチエージェント指導と参加のバランスが取れた協働のためのASTRA合成ベンチマーク
+- [[determinants-chatgpt-use-higher-education-2026]] — 高等教育における将来のChatGPT利用のML/SHAPによる決定要因
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ブレンデッド型授業においてMLの知見を教師が理解できるようにする
+- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 親和性マッピングを用いた成果ベースの知識追跡
 - [[an-goel-self-directed-modeling-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
-- [[learning-paths-patterns-learning-design-2026]] — 554 コースにおける 29,064 件の計画された活動のマルコフ連鎖とパターン採掘——習得が導き練習を固める設計文法の露呈
-- [[pulla-parsons-problem-tool-2026]] — Pulla——パーソンズ問題における過程レベルの行動追跡と教員向け困難分析（Prol et al. 2026）
+- [[learning-paths-patterns-learning-design-2026]] — 554コース・29,064件の計画された活動に対するマルコフ連鎖とパターンマイニングにより、Acquisitionが主導しPracticeを統合する設計文法を明らかにした
+- [[pulla-parsons-problem-tool-2026]] — Pulla：Parsons問題におけるプロセスレベルの行動追跡と指導者向けの難易度分析（Prol et al. 2026）
 - [[a4l-analytics-pipeline]]
 - [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — ラーニングアナリティクスを用いた生成 AI による中等学校の学生の執筆の支援
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later"——教育、AI、そして EdTech における学生プライバシーの先送り
-- [[synthetic-educational-data-structural-fidelity-2026]] — 忠実性の指標が見落とすもの——合成の教育データに対する構造的確認
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026)——学期初めの LMS 痕跡からの AI 支援の不正リスク予測（AUC 0.763）
-- [[thomas-breaking-learning-system-wall-2026]] — マルチモーダルなチュータリングの転写を用いた学習システムの壁の打破へ向けて（Thomas et al. 2026）
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — 完了率は関与の崩壊を隠しうる
-
-- [[kim-ai-embodied-learning-review-2026]] — 身体化された学習における AI は主に観察する：符号化された役割タグの 62.5% がセンシングの役割で、学習者が使っている間にマルチモーダルなストリームを融合したシステムはレビューに現れなかった（Kim & Han 2026）
-- [[liu-teaching-analytics-dashboard-2026]] — 能動的対照群の模擬授業研究で説明の層を切り分けた：解釈は動き、行動は動かなかった（Liu et al. 2026）
-
+- [[learning-analytics-genai-secondary-writing-2026]] — 生成AIを用いた中等学校生徒のライティングを支援するためのラーニングアナリティクスの活用
+- [[edtech-privacy-deferral-2026]] — 「後で修正します」：教育、AI、そしてEdTechにおける学生プライバシーの先送り
+- [[synthetic-educational-data-structural-fidelity-2026]] — 忠実度指標が見落とすもの：合成教育データの構造的検証
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar（2026）— 学期初めのLMS痕跡からAI支援による不正行為のリスクを予測する（AUC 0.763）
+- [[thomas-breaking-learning-system-wall-2026]] — マルチモーダルな指導の文字起こしを用いて学習システムの壁を打ち破ることに向けて（Thomas et al. 2026）
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — 完了率はエンゲージメントの崩壊を覆い隠しうる
+- [[kim-ai-embodied-learning-review-2026]] — 身体化学習におけるAIはほぼ観察するだけである：コード化された役割タグの62.5%がセンシング役割であり、レビュー対象のシステムのいずれも学習者の使用中にマルチモーダルなストリームを融合していなかった（Kim & Han 2026）
+- [[liu-teaching-analytics-dashboard-2026]] — 説明層を切り分けたアクティブコントロール付きマイクロティーチング研究：解釈は動いたが、行動は動かなかった（Liu et al. 2026）
+- [[wang-yi-semantic-learning-analytics-moral-reasoning-2026]] — 道徳的推論のヒューマン・イン・ザ・ループによる意味的スコアリング：大きなカテゴリには強く、小さなカテゴリには弱い
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — ディスカッションボードに対する学生の認識：AI対応ラーニングアナリティクス設計に資する技術受容モデル研究
+- [[wyszynski-genai-user-input-engineering-statics-2026]] — 工学静力学コースにおけるユーザー入力データを通じた学生の生成AI利用の検討
+- [[konca-digital-traces-critical-online-reasoning-2026]] — プールされた痕跡の相関は学生間の差異ではなく課題間の差異を反映している（Konca & Mehler, 2026）

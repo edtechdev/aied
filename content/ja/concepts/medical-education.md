@@ -123,36 +123,34 @@ HPEは高リスクで能力主義的な領域であり、AIの便益（拡張可
 
 ## 関連する記事
 
-- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — 医学・歯学教育における AI 支援の PBL と CBL: 6 件の RCT のうち CBL は 2 件のみ（Wei et al. 2025）
-- [[zhu-ai-digital-pathology-residents-2026]] — AI 支援のデジタル病理は病理レジデントの前立腺生検の読影で診断性能を改善し、経験による差を縮める
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 保健 AI のカリキュラムは倫理を教える（80.6%）が、データの出所はほとんど教えない（22.2%）
-
-- [[virtual-standardized-patients-osce-evaluation-2026]] — 配備されたデータ生成プラットフォームを伴う、LLMベースの仮想標準化患者の層別化された複数評定者による評価
-- [[genai-medical-education-transformation-review-2026]] — 153件の医療教育GenAI報告のスコーピングレビュー：シミュレーションが先行し、持続性と患者の成果は未測定
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 臨床面接訓練のための足場かけ志向のマルチエージェント大規模言語モデルシステムの評価
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 医療教育におけるAI教育エージェントの8次元ルーブリック評価
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM、看護教育の構造的な欠落、専門職アイデンティティの再構成（Sun et al. 2026）
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCANフレームワーク：医学訓練におけるAIのタスク配分の再考（Tsim et al. 2026）
+- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — 医学・歯学教育におけるAI活用PBLとCBL:6件のRCT、うちCBLは2件のみ(Wei et al. 2025)
+- [[zhu-ai-digital-pathology-residents-2026]] — AI支援デジタル病理は、前立腺生検を判読する病理専攻医の診断成績を向上させ、経験に起因する成績格差を縮小する
+- [[giancotti-data-provenance-health-ai-curricula-2026]] — 医療AIカリキュラムは倫理を教える(80.6%)が、データ来歴を扱うことはまれ(22.2%)
+- [[virtual-standardized-patients-osce-evaluation-2026]] — データ生成プラットフォームを実運用展開したLLMベース仮想標準化患者の層別化・多評価者による評価
+- [[genai-medical-education-transformation-review-2026]] — 医学教育のGenAI報告153件のスコーピングレビュー:シミュレーションが最多、持続性と患者アウトカムは未測定
+- [[ai-standardized-patient-scaffolding-medical-2026]] — 臨床面接訓練のためのスキャフォールディング指向マルチエージェント大規模言語モデルシステムの評価
+- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 医学教育におけるAIティーチングエージェントの8次元ルーブリック評価
+- [[sun-llm-nursing-education-professional-identity-2026]] — LLM、看護教育の構造的ギャップ、そして専門職アイデンティティの再構成(Sun et al. 2026)
+- [[ai-teammate-task-distribution-medical-training-2026]] — SCANフレームワーク:医学訓練におけるAIのタスク配分を再考する(Tsim et al. 2026)
 - [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — 医療専門職教育におけるAIを用いた経験的、状況埋め込まれた、分散された認知の具体化
-- [[residencyrl-clinical-rl-training-2026]] — レジデンシーにおける臨床技能のための強化学習訓練
-- [[medgame-llm-medical-education-gamification]] — 医学教育のためのゲーミフィケーションされたLLMベース学習
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — 小線源治療訓練のためのエージェンティックAIシミュレーション
+- [[fowlin-operationalizing-learning-principles-ai]] — 医療職教育においてAIで経験的・状況的・分散認知を実運用化する
+- [[residencyrl-clinical-rl-training-2026]] — 専攻医研修における臨床技能の強化学習訓練
+- [[medgame-llm-medical-education-gamification]] — 医学教育のためのゲーム化されたLLMベース学習
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — ブラキセラピー訓練のためのエージェンティックAIシミュレーション
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — AIによる看護教育の変革
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — 看護におけるAI駆動のシミュレーション：混合研究法の系統的レビュー
-- [[wang-safety-gap-productive-struggle-2026]] — 安全性のギャップ：生産的な苦労の回復
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor：人間がループに入る歯科放射線画像指導（Dong et al. 2026）
-- [[genai-scenario-based-healthcare-education-2026]] — シナリオベースの医療教育におけるGenAIの系統的レビュー（Neto et al. 2026）
+- [[jiang-ai-powered-simulation-nursing-education-2026]] — 看護におけるAI活用シミュレーション:混合研究法システマティックレビュー
+- [[wang-safety-gap-productive-struggle-2026]] — 安全性ギャップ:生産的な苦闘を取り戻す
+- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor:ヒューマン・イン・ザ・ループ型歯科放射線撮影指導(Dong et al. 2026)
+- [[genai-scenario-based-healthcare-education-2026]] — シナリオベース医療教育におけるGenAIのシステマティックレビュー(Neto et al. 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — 拡張可能なAIベースの臨床コミュニケーション訓練と自動評価
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 医療教育におけるAI倫理の計量書誌学的な地図：刊行物は113件（2023年）から500件（2025年）に増加し、39か国、引用は統治よりも能力テストを報いる（Sriram et al. 2026）
-- [[llm-grading-assistants-public-health-2026]] — 繰り返しの実行は同じ評点を再現しない
-
-- [[xiang-ai-nursing-education-kas-framework-2026]] — 教育における AI コンピテンシー枠組みを 12 の KAS の地図に写像したスコーピングレビュー
-- [[agency-gap-ai-writing]] — 保健専門職訓練における反応的・先行的な AI 執筆エージェント: 主導性のギャップ
-- [[federated-learning-at-risk-student-prediction-2026]] — HPE プログラム横断の連合リスク予測: ごくわずかなプライバシーのコストと、持ち込んだ閾値が誤作動する理由
-- [[rony-nursing-educators-ai-tpack-2025]] — バングラデシュの看護教員による AI の準備性、障壁、データ・ガバナンスについて、TPACK を通して読む
-- [[bursic-ai-residency-education-curriculum-2026]] — AI をレジデントのカリキュラムに統合する障壁: 12 人の医師リーダーへの質的インタビュー
-- [[alshahrani-health-sciences-ai-use-2026]] — 技術と教育学の橋渡し: 多様な保健科学カリキュラムの学生における AI 利用、自己報告の学業への影響、倫理的な懸念の横断分析
-
+- [[sophie-clinical-communication-ai-assessment-2026]] — スケーラブルなAIベース臨床コミュニケーション訓練と自動評価
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 医学教育におけるAI倫理の文献計量マップ:論文数は113件(2023年)から500件(2025年)へ増加、39か国が関与、引用はガバナンスよりも能力検証を優遇(Sriram et al. 2026)
+- [[llm-grading-assistants-public-health-2026]] — 繰り返し実行しても同一の評点は再現されない
+- [[xiang-ai-nursing-education-kas-framework-2026]] — 教育AIコンピテンシーフレームワークを12要素のKASマップに対応づけるスコーピングレビュー
+- [[agency-gap-ai-writing]] — 医療職訓練における反応型対能動型AIライティングエージェント:エージェンシー・ギャップ
+- [[federated-learning-at-risk-student-prediction-2026]] — HPEプログラム横断の連合学習によるリスク学生予測:プライバシーコストは無視できるほど小さく、外部から持ち込んだ閾値が誤作動する理由
+- [[rony-nursing-educators-ai-tpack-2025]] — バングラデシュの看護教員が語るAI準備度・障壁・データガバナンスをTPACKで読み解く
+- [[bursic-ai-residency-education-curriculum-2026]] — 専攻医研修カリキュラムへのAI統合の障壁:12名の医師リーダーへの質的インタビュー
+- [[alshahrani-health-sciences-ai-use-2026]] — テクノロジーと教育法をつなぐ:多様な保健科学カリキュラムの学生におけるAI利用、自己報告による学業への影響、倫理的懸念の横断的分析
+- [[ago-prompt-literacy-allied-health-2026]] — ガーナの6つの医療関連職プログラムにおけるプロンプト・リテラシー:訓練なしの日常的GenAI利用、サブスクリプションと接続性の制約、そして予備知識が最も乏しいところで生じるプロンプト検証のパラドックス(Ago et al. 2026)

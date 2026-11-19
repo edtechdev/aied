@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: デザイン思考
 created: "2026-10-10T22:12:24-04:00"
-updated: "2026-11-07T20:33:50-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

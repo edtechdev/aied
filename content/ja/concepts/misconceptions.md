@@ -1,7 +1,7 @@
 ---
 title: AIに関する誤概念
 created: "2026-10-10T22:45:45-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -10,7 +10,7 @@ ethics: [trust-calibration]
 audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T16:55:00-05:00"
 translation_of: concepts/misconceptions
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]

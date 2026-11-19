@@ -1,7 +1,7 @@
 ---
 title: 評価
 created: "2026-10-10T21:52:56-04:00"
-updated: "2026-11-07T20:30:41-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 connected_resources: [idstack, lesson-md, master-instructional-design]
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
@@ -13,7 +13,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -73,18 +73,22 @@ AIは根本的な[[assessment-validity|妥当性]]の問いを提起します。
 
 ## AI時代における評価の再設計
 
-ナレッジベースの評価に関する文献における建設的な問いは、「どうすれば生徒がAIを使うのを防げるか」ではなく、「どうすれば生徒が、将来の仕事を映す文脈で、それを思慮深く使えるようにできるか」です。これは評価を次のものの周りに捉え直します。
+評価に関する文献における建設的な問いは、「どうすれば生徒がAIを使うのを防げるか」ではなく、「どうすれば生徒が、将来の仕事を映す文脈で、それを思慮深く使えるようにできるか」です。これは評価を次のものの周りに捉え直します。
 
-- **AIの利用を見えるようにし評価する、本物らしく過程に基づいた課題。** [[authentic-assessment|本物らしい評価]]——価値があり現実的な課題における生徒の成績を検討すること——は、AIの挑戦への主要な対応です。[[llm]]がもっともらしく再現できるどんな課題もその妥当性を失うため、本物らしさは、リアルタイムの[[collaborative-learning|協働]]、デジタルおよび社会的な貢献、個人の意味形成を中心に再設計されなければなりません。これは、[[zhan-boud-du-authentic-assessment-scoping-review-2025|本物らしい評価のための設計枠組み]]、[[authentic-products-authenticated-processes-2026|本物らしい成果物と認証された過程]]、そして[[tool-invariant-framework-agentic-ai|道具に依存しない過程の評価]]に結びつきます。
-- **妥当性の証拠に根ざした責任ある評価設計**([[responsible-assessment-ai-era-stanford-2026]])
-- **評価の対象から導き出される、課題レベルのAIの許可:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle(2025)]]は、[[educational-policy-ai|AI政策]]に先立つ評価設計の作業を示しています——プロジェクト内のすべての課題を棚卸しし、何がどの目標に対して評価されるのかを特定し、その根拠に基づいて課題ごとにAIを許可または禁止すること(ブレインストーミングと画像の選定は許可、学習目標の作成とスライドのデザインは不可)。同じ整合化の作業は、評価が支える推論の点検を兼ねます。なぜなら、ある成績が保証することを意図した成果を、教員に名指しさせるからです([[assessment-validity]])。
+- **AIの利用を見えるようにし評価する、本物らしく過程に基づいた課題。** [[authentic-assessment|本物らしい評価]]——価値があり現実的な課題における生徒の成績を検討すること——は、AIの挑戦への主要な対応です。[[llm|LLM]]がもっともらしく再現できるどんな課題もその妥当性を失うため、本物らしさは、リアルタイムの[[collaborative-learning|協働]]、デジタルおよび社会的な貢献、個人の意味形成を中心に再設計されなければなりません。これは、[[zhan-boud-du-authentic-assessment-scoping-review-2025|本物らしい評価のための設計枠組み]]、[[authentic-products-authenticated-processes-2026|本物らしい成果物と認証された過程]]、そして[[tool-invariant-framework-agentic-ai|道具に依存しない過程の評価]]に結びつきます。
+- **妥当性の証拠に根ざした責任ある評価設計**([[responsible-assessment-ai-era-stanford-2026|ASSESSMENT et al., 2026]])
+- **評価の対象から導き出される、課題レベルのAIの許可:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle(2025)]]は、[[educational-policy-ai|AI政策]]に先立つ評価設計の作業を示しています——プロジェクト内のすべての課題を棚卸しし、何がどの目標に対して評価されるのかを特定し、その根拠に基づいて課題ごとにAIを許可または禁止すること(ブレインストーミングと画像の選定は許可、学習目標の作成とスライドのデザインは不可)。同じ整合化の作業は、評価が支える推論の点検を兼ねます。なぜなら、ある成績が保証することを意図した成果を、教員に名指しさせるからです([[assessment-validity|評価の妥当性]])。
 - **言語的な様式を超える評価:** Jiang et al.(2026)は、[[language-learning|第二言語]]の教員のための[[multimodal|マルチモーダル]]な評価リテラシーを、言語的、視覚的、聴覚的、身振り的、空間的な様式にわたって応答を引き出す課題のための知識、価値、能力として定義します。30人の香港の英語教員による1年間のプログラムは、評価の方略についての知識を5点満点で3.13から4.15へ(偏イータ二乗 = 0.571)、生徒を支える能力を3.05から3.98へ(0.482)高めましたが、3つの価値の下位領域はすべて横ばいのままでした。教員自身の経験は、枠組みに2つの次元を加えました——競合するカリキュラム上の優先事項に対して実践を維持することと、GenAIを批判的に動員すること——です([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al.(2026)]])。
 - **共著と宣言**を、評価の契約の一部として
-- **相互作用を評価する、過程に基づくルーブリックの基準。** [[rubrics-genai-process-based-assessment-2026|Oviedo & Díaz（2026）]]は、Biggsの3Pモデルを三つの重要な評価次元として読み解きます。人間の主体性と批判的な監督、[[prompt-engineering|プロンプト工学]]に結びついた対話的な足場かけ、そして[[academic-integrity|誠実性]]と透明性に根ざした認知的自主性です。完成したファイルはもはや、誰の推論がそれを生んだかについての情報を運ばないと論じています。
-- **能力としての制作** — 学習者が道具を操り専門職水準の仕事を生み出す能力を評価すること([[competency-based-education-genai-production-2026]])
+- **成果物ではなく相互作用を評価する、過程に基づくルーブリックの基準。** [[rubrics-genai-process-based-assessment-2026|Oviedo & Díaz（2026）]]は、Biggsの3Pモデルを三つの重要な評価次元として読み解きます。人間の主体性と批判的な監督、[[prompt-engineering|プロンプト工学]]に結びついた対話的な足場かけ、そして[[academic-integrity|誠実性]]と透明性に根ざした認知的自主性です。完成したファイルはもはや、誰の推論がそれを生んだかについての情報を運ばないと論じています。
+- **能力としての制作** — 学習者が道具を操り専門職水準の仕事を生み出す能力を評価すること([[competency-based-education-genai-production-2026|Hughes, 2026]])
 - **成果物だけでなく、相互作用の過程を評価する** — [[assessing-student-drive-framework-2025|DRIVEの枠組み]](Directive Reasoning Interaction + Visible Expertise)は、生徒の*GenAIとの関与*の質を、評価される構成概念として扱います。それは、生徒がプロンプトを戦略的に操るか(DRI)どうか、そしてやり取りを通じて自分の学問的な考えを統合し展開するか(VE)どうかに注目することで、表層的な消費と深く内省的な相互作用を区別し、過程に焦点を当てた基準を、[[self-directed-learning|自己主導的学習]]と[[icap-framework|ICAP]]の階層に沿った認知的関与の理論に根ざします。これによりDRIVEは、*AIを介した本物らしい評価*の例となります——検知の道具ではなく、学習者がGenAIとどう提携するかを評価するためのルーブリックです。
 
-この文献における一つの提案は、現在の枠組みの中での再設計を超えます。[[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma(2026)]]は、不正行為を防いだりAIの利用を検知したりすることの周りに組織された改革は、教育的な想像力を統制とコンプライアンスへと狭めると論じし、代わりに**喜びのある評価(joyful assessment)**を提案します。安全で、感情的に応答的で、生徒の[[agency|主体性]]を力づけ支える評価です。安全が荷重を支える条件です。なぜなら、それがなければ感情的な呼応はパフォーマンスになり、力づけは圧力になり、主体性は危険になるからです。彼らの捉え方は検知の課題を反転させます——誠実性は、生徒が関与したいと思う評価を設計することの帰結となり、その出発点ではなくなる——そして、彼らは教員が作る[[agentic-ai|AIエージェント]](カスタムGPT、Gems、Copilot Studioのエージェント)を、判断の前に生徒が練習する低リスクの稽古の場として位置づけます。AIが証拠を組織し、教員がそれを解釈する、という主張とともにです。
+上記の再設計は、成績がその道具の到来前と同じ意味をなお持っていることを前提としています。OyelereとKadamsは、そうでない場合に何が起こるかを名指しします——**評価証拠の負債(assessment evidence debt)**、すなわち成績が主張することと、提出された成果物が支えられることとの間に累積する隔たりであり、初期の成績が進級の判断に用いられるにつれて膨らんでいきます。彼らの対処法は、課題ごとに主張を明示することです。その成績が生徒について何を知っていると言っているのか、どのAI条件が適用されるのか、どの証拠チャネルが働いているのか。続くのは五つのチャネルです——制約下でのパフォーマンス、過程の来歴、実行による検証、解釈の弁明、転移の試問。どのチャネルも単独では能力を証明しません。著者らは証拠の等価性を未解決の問題として扱います。AIへの完全なアクセスがある持ち帰りプロジェクトと、監督下で実行する試験は、同じ成果に取り組みながらも異なる構成概念を認証するため、両者の成績は比較できないのです。彼らの最も鋭い警告は、行動からの推論に関わります。口頭での弁明が弱いことは、無許可のAI利用の証拠ではありません([[oyelere-code-programming-assessment-genai-2026|Oyelere & Kadams, 2026]])。
+
+この文献における一つの提案は、現在の枠組みの中での再設計を超えます。[[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma(2026)]]は、不正行為を防いだりAIの利用を検知したりすることの周りに組織された改革は、教育的な想像力を統制とコンプライアンスへと狭めると論じ、代わりに**喜びのある評価(joyful assessment)**を提案します。安全で、感情的に応答的で、生徒の[[agency|主体性]]を力づけ支える評価です。安全が荷重を支える条件です。なぜなら、それがなければ感情的な呼応はパフォーマンスになり、力づけは圧力になり、主体性は危険になるからです。彼らの捉え方は検知の課題を反転させます——誠実性は、生徒が関与したいと思う評価を設計することの帰結となり、その出発点ではなくなる——そして、彼らは教員が作る[[agentic-ai|AIエージェント]](カスタムGPT、Gems、Copilot Studioのエージェント)を、判断の前に生徒が練習する低リスクの稽古の場として位置づけます。AIが証拠を組織し、教員がそれを解釈する、という主張とともにです。
+
+カラーコードは繰り返し提案され続けている代替案であり、ある一機関の版はすでにその役目を終えています。[[nerantzi-traffic-light-assessment-genai-2026|Nerantzi, Palfreyman and Pavlopoulou(2026)]]は、2023年以来すべての学部で施行されているUniversity of Leedsの枠組みについてのパネルでの議論を再構成します。そこでは赤がAIを禁止し、黄が規則を各モジュールの担当教員に委ね、緑が責任ある利用を教えます。彼らの異議は適用範囲にあります。課題に付された色は、ここでその道具を使ってよいかには答えますが、読解のためにそれを使ってよいかには答えません。2024/25にはBusiness Schoolの講義モジュールの約85%が赤の課題を課していた一方、大学の明示的な目標はすべての評価を緑へ移すことでした。著者らは、信号機方式は時代遅れであり、[[evaluative-judgment|人間の判断]]を中心に据える枠組みに道を譲るべきだと結論づけています。
 
 ## 教育におけるAIへの含意
 
@@ -139,7 +143,7 @@ AIは根本的な[[assessment-validity|妥当性]]の問いを提起します。
 - [[competency-based-education-genai-production-2026]] — 生成AIの後の能力ベースの教育
 - [[genai-assessment-governance]] — 評価における生成AIの証拠中心のガバナンス
 - [[ssaho-ai-academic-integrity-review-2025]] — AIの誠実性レビュー:検知は評価の再設計と対になされなければならない
-- [[bassett-ai-detectors-education-2026]] — 表が出ても裏が出ても我々の勝ち:教育におけるAI検知器(Bassett et al. 2026)
+- [[bassett-ai-detectors-education-2026]] — 表が出れば我々の勝ち、裏が出ればあなたの負け:教育におけるAI検知器(Bassett et al. 2026)
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate:LLMで拡張された生徒の不安の評価(2026)
 - [[graph-its-adaptive-algorithms-2026]] — 動的な領域のためのグラフベースの知的個別指導(2026)
 - [[asynchronous-oral-assessment-2026]] — AI時代の非同期の口頭評価(Pentland 2026)
@@ -155,3 +159,5 @@ AIは根本的な[[assessment-validity|妥当性]]の問いを提起します。
 - [[computing-assessment-genai-workshop-report-2026]] — AIはあなたの宿題をできる。さてどうする?生成AIの時代の情報科学の評価に関するオンラインワークショップの報告
 - [[koretsky-genai-stem-assessment-2026]] — 評価を再整列させるための三頂点の枠組み
 - [[rubrics-genai-process-based-assessment-2026]] — 成果物ではなく相互作用を評価するルーブリックの基準
+
+- [[nerantzi-traffic-light-assessment-genai-2026]] — University of Leedsにおいてトラフィックライト(信号機)の枠組みを用いて行われた、生成AIの時代の評価に関する内省的な対話

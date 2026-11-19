@@ -134,10 +134,12 @@ ai_assist:
 
 ## 関連記事
 
-- [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
-- [[wang-teacher-student-centered-agents-physics-2026]] — 教師中心と学生中心のプロンプト設計を施した物理のエージェントの比較（Wang ら 2026）
+- [[beznosko-local-ai-rag-physics-oer-2026]] — RAGを用いたローカルAIによるオープン教育教材生成を物理教育に活用するアプローチ(Beznosko et al., 2026)
+- [[high-school-genai-acceptance-tam-physics-2026]] — Grade 10の物理におけるGenAIの受容をモデル化
+- [[genai-video-engineering-physics-workflow-2026]] — プロンプトから物理法則へ:工学物理教育のための生成AIワークフロー
+- [[wang-teacher-student-centered-agents-physics-2026]] — 教師中心と学生中心のプロンプトエンジニアリングによる物理エージェントの比較(Wang et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
-- [[benzion-ai-physics-simulations-virtual-lab]] — AI を用いた物理シミュレーション・バーチャルラボの迅速な生成（Ben-Zion ら 2025）
+- [[benzion-ai-physics-simulations-virtual-lab]] — AIを用いて物理シミュレーション/仮想実験を迅速に生成する(Ben-Zion et al. 2025)
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[socratic-ai-physics-tutor-taxonomy-2026]]
 - [[fouad-bentley-trust-utility-gap-physics-2026]]
@@ -151,19 +153,16 @@ ai_assist:
 - [[embodied-inquiry-ai-facilitator-physics-2026]]
 - [[probing-ai-generated-physics-solutions-2026]]
 - [[genai-assisted-problem-posing-physics-2026]]
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
-- [[ai-grading-handwritten-physics-2026]] — 手書きの物理の評価（オリンピック）の AI 採点
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: FCI、FMCE、EMCS を 14 目標の認知診断に変える（Le ら 2026）
-- [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
-
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1,834 件のベンガル語中等物理の QA ペアを 1,760 ノードのカリキュラムグラフに写像。小規模モデルの適応における向上
-- [[ai-university-physics-education-review-2026]] — Artificial intelligence in university physics education: a systematic review of empirical studies
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — 物理の問題修正のための構造化された生成 AI 訓練: 無作為化比較試験（Huang ら 2026）
-- [[high-school-genai-acceptance-tam-physics-2026]] — 10年生の物理における生成AIの受容のモデル化
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — よく設計されたチューターが教室でのアクティブ・ラーニングを上回った
-
-- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — 将来のエンジニアの利用パターンと知覚された支援
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — エネルギーの先入観が、グループ内のネットワークで AI への問いの交渉がどこに位置するかを決めた：メンバーの意見が分かれるときは統合のハブ、一致するときは問いかけて読む直線的な経路（Wang ら 2026）
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS:物理における認知を活性化するAI拡張のフレームワーク
+- [[ai-grading-handwritten-physics-2026]] — 手書きの物理答案(オリンピック)のAI採点
+- [[zammel-mllm-kinematics-graph-grading-2026]] — 歪んだ運動学グラフでマルチモーダル採点システムをストレステスト:説明が支持していないグラフに満点を付与(Zammel et al. 2026)
+- [[ai-particle-physics-education-redesign-2026]] — 素粒子物理教育におけるAI:研究課題と基礎的技能
+- [[mechanics-cognitive-diagnostic-physics-2026]] — 力学の認知診断:FCI、FMCE、EMCSを14目標の認知診断へと変換する(Le et al. 2026)
+- [[physics-students-llm-perceptions-instruction-2026]] — 懐疑心か利便性か:指導前後における物理学生の大規模言語モデルに対する認識と利用
+- [[ai-assisted-physics-lab-report-assessment-2026]] — 物理実験レポートのAI支援評価:可能性、限界、授業実践への支援
+- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate:1,760ノードのカリキュラムグラフに対応づけられた1,834件のベンガル語中等物理QAペアと、小規模モデルの適応による性能向上
+- [[ai-university-physics-education-review-2026]] — 大学物理教育における人工知能:実証研究のシステマティックレビュー
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — 物理問題の改訂に向けた構造化されたGenAIトレーニング:ランダム化比較試験(Huang et al. 2026)
+- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — 巧みに設計されたチューターが授業内のアクティブラーニングを上回った
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — エネルギーに関する事前概念が、グループネットワーク内でAIへの質問交渉が占める位置を決定した:メンバーの意見が食い違う場合は統合ハブ、一致する場合は質問してから読むという直線的経路(Wang et al. 2026)
+- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — 将来のエンジニアにおける利用パターンと知覚された支援

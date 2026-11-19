@@ -199,27 +199,28 @@ DBR は、[[rct|実験]]の因果的な統制と、生態学的真正性と反�
 
 ## 関連する概念
 
-- [[interpreting-and-applying-aied-research]]
-- [[ai-ed-evaluation]]
-- [[rct]]
-- [[benchmark]]
-- [[meta-analysis-systematic-review]]
-- [[ai-assisted-educational-research]] — AI 支援による教育研究
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[simulation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-- [[learning-gains]]
-- [[theory-development-aied]] — 教育における AI の理論構築
-- [[qualitative-research]] — 質的研究
-- [[quantitative-research]] — 量的研究
-- [[mixed-methods-research]] — 混合方法研究
-- [[design-based-research]] — デザインベース研究
-- [[usability-research]] — ユーザビリティ研究
-- [[self-report-measures]]
-- [[learning-sciences]]
+- [[longitudinal-research|縦断研究]]
+- [[interpreting-and-applying-aied-research|AIED研究の解釈と応用]]
+- [[ai-ed-evaluation|AI教育の評価]]
+- [[rct|RCT]]
+- [[benchmark|ベンチマーク]]
+- [[meta-analysis-systematic-review|メタ分析・システマティックレビュー]]
+- [[ai-assisted-educational-research|AI支援教育研究]] — AI支援教育研究
+- [[educational-measurement|教育測定]]
+- [[assessment-validity|評価の妥当性]]
+- [[simulation|シミュレーション]]
+- [[ai-education|AI教育]]
+- [[higher-ed|高等教育]]
+- [[limitations-in-aied-research|AIED研究の限界]]
+- [[learning-gains|学習成果]]
+- [[theory-development-aied|AI教育における理論構築]] — AI教育における理論構築
+- [[qualitative-research|質的研究]] — 質的研究
+- [[quantitative-research|量的研究]] — 量的研究
+- [[mixed-methods-research|混合研究法]] — 混合研究法
+- [[design-based-research|デザインベース研究]] — デザインベース研究
+- [[usability-research|ユーザビリティ研究]] — ユーザビリティ研究
+- [[self-report-measures|自己報告尺度]]
+- [[learning-sciences|学習科学]]
 
 ## 関連する記事
 

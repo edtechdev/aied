@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: 特別支援教育
 created: "2026-10-10T22:54:28-04:00"
-updated: "2026-11-07T20:33:50-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

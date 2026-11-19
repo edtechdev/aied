@@ -1,7 +1,7 @@
 ---
 title: "法的問題とリスク"
 created: "2026-10-10T22:38:07-04:00"
-updated: "2026-10-30T03:22:22-04:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
-source_updated: "2026-10-28T18:24:42-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/legal-issues-and-risks
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]

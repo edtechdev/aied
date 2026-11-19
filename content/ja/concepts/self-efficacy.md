@@ -36,7 +36,7 @@ ai_assist:
 
 自己効力感は実際の力量とは区別されます。それは行動を駆り立てる、能力についての信念です。それは自分の能力についての日常的な*自信*の概念と密接に関係し、しばしば互換的に用いられます。自己効力感は[[motivation|動機づけ]]、[[self-regulated-learning|自己調整学習]]、[[student-experience|学習者体験]]と密接に結びついています。AI の文脈では、AI 自己効力感（AI を使って働く自信）は AI リテラシーとは別の構成概念であり、研究は、学習者が AI 関連の知識を実際に活性化し適用するかどうかにおいて、それが極めて重要な役割を果たすことを示しています。
 
-### ナレッジベースの研究における自己効力感の現れ方
+## ナレッジベースの研究における自己効力感の現れ方
 
 - **GenAI と XR を併用したスタジオ制作で低下する：** 27 人の学生による建築[[arts-and-media-education|デザインスタジオ]]で、[[generative-ai|GenAI]]とマルチユーザーの XR パイプラインを用いたチームは、通常の工程を続けたチームよりも、デザイン自己効力感の自信（β = −1.675, p = 0.021）と成果期待（β = −2.088, p = 0.002）において相対的に大きな事前—事後の低下を示しました。一方、彼らの発表の盲検パネル評価には有意差はありませんでした（[[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]）。ツールに富んだ環境は、作業そのものが同等と評価される場合でも、効力感の信念を低下させることがあります。
 - **AI 自己効力感とキャリアの備え：** [[ai-literacy-career-adaptability-business-2026|AI の備えに関する研究]]は、AI 自己効力感が AI リテラシーと AI の備えの関係を調整することを示しています。すなわち、リテラシーは学習者が AI を使う自信を持つときにのみ備えへと翻訳され、また自己効力感は[[career-development-and-readiness|キャリアの適応性]]を直接予測します。
@@ -102,34 +102,35 @@ AI 支援の実践が意欲と関連する経路である不安の経路は、�
 - [[social-emotional-learning]] — 社会的情動学習
 
 ## つながる記事
-- [[confident-but-absent-ai-use-absenteeism-2026]] — 一般的な AI 利用はより高い自己効力感とより高い欠席と連動したが、自己効力感は出席を予測しなかった（Franco et al. 2026）
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 高等教育における AI チャットボット：期待と証拠の比較（Thoeni & Fryer 2026）
-- [[genai-performance-vs-learning]] — 技術的依存が成長する中での自信の上昇：誤解を招く AI 時代の成果としての自己効力感（Yan et al. 2025）
-- [[ai-supported-ementoring-efl-preservice-2026]] — AI 支援の e-メンタリングが EFL 見習い教師の自己効力感と感情的知性を高める（準実験的）
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC のアフォーダンスと学生の自己調整
+
+- [[wang-ai-assisted-blended-teaching-crop-breeding-2026]] — 自己効力感はAI群と対照群をd = 2.84で隔てたが、試験得点は変化しなかった。
+- [[ai-proof-learning-cognitive-offloading-2026]] — 学生の推論を支援するのか、それとも置き換えるのか。AI支援による証明学習における認知的オフローディング（Chen et al. 2026）
+- [[confident-but-absent-ai-use-absenteeism-2026]] — 一般的なAI利用は高い自己効力感と高い欠席率の双方と連動していたが、自己効力感は出席を予測しなかった（Franco et al. 2026）。
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 高等教育におけるAIチャットボット：期待とエビデンスの比較（Thoeni & Fryer 2026）
+- [[genai-performance-vs-learning]] — 技術への依存が深まる一方で自信は高まる：AI時代において誤解を招く成果指標としての自己効力感（Yan et al. 2025）
+- [[ai-supported-ementoring-efl-preservice-2026]] — AIが支援するeメンタリングは、EFL教員養成課程の学生の自己効力感と情動的知能を高める（準実験）。
+- [[aigc-affordance-student-self-regulation-2026]] — AIGCのアフォーダンスと学生の自己調整
 - [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — AI リテラシー、AI の備え、キャリアの適応性
+- [[ai-literacy-career-adaptability-business-2026]] — AIリテラシー、AIレディネス、キャリア適応力
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — AI リテラシーのための教師教育（SDT）
-- [[social-robot-study-companions]] — 学習の伴走者としての社会的ロボット
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP 枠組み
+- [[teacher-education-ai-literacy-sdt-2026]] — AIリテラシーのための教員教育（SDT）
+- [[social-robot-study-companions]] — 学習コンパニオンとしてのソーシャルロボット
+- [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAPフレームワーク
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — GenAI の利用様態と学問的自己効力感
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS 尺度。AI リテラシーコースにおける PBL から満足度への媒介としての力強さと倫理的な気づき（Zhu & Kong 2026）
-- [[predicting-attrition-competitive-programming]] — 競技プログラミングにおける学生の中退の予測
-- [[genai-xr-architectural-design-education-2026]] — 協働的な建築デザイン教育における生成的 AI と拡張現実：探索的スタジオ研究
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — ChatGPT の継続的利用への連続的な連鎖における AI リテラシー、信頼、学問的自己効力感
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — 運動障害を持つ大学生の学問的自己効力感のプロファイルと報告された AI 利用
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 子どもにおける生成的 AI から報告される創造的自己効力感の伸び（範囲定めレビュー）
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — 話す自己効力感が AI 支援の実践から意欲への不安の経路を逆転させる
-- [[faculty-ai-well-being-social-supports-2026]] — 教員 SEM：技術的自己効力感は AI のウェルビーイングの弱い予測変数
-- [[cen-self-efficacy-favorability-2026]] — 自己効力感と好意が個別指導システムと紙の練習からの学習を形づくる（Cen et al. 2026）
-- [[ai-proof-learning-cognitive-offloading-2026]] — 学生の推論を支えるのか置き換えるのか。AI 支援の証明学習における認知的なオフロード（Chen et al. 2026）
-- [[jelson-students-chatgpt-essay-writing-2026]] — 書くことに関する自己効力感尺度は、翻訳と見直しの問い合わせが多いことを予測したが、計画や作文全体の委任は増えなかった（Jelson ら 2026）
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — テクノロジー強化型学習における学習者の相互作用の痕跡から自己効力感の信念を機械学習で測定する
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — AI 自己効力感 -> AI リテラシー -> AI 受容。知識を介した割合も測定（İşbulan ら 2026）
-- [[kim-overtrust-ai-literacy-2026]] — 学問的自己効力感は、AI への過信を低めるのではなく高めることを予測した
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — 知覚された有用性のための必要条件としての自己効力感。ボトルネックの閾値を伴う（Chu & Liu 2026）
-
+- [[stamatoulis-genai-use-patterns-2026]] — GenAI利用のパターンと学業的自己効力感
+- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS尺度。AIリテラシー科目では、エンパワーメントと倫理的意識がPBLから満足度への関係を媒介する（Zhu & Kong 2026）。
+- [[predicting-attrition-competitive-programming]] — 競技プログラミングにおける学生の脱落予測
+- [[genai-xr-architectural-design-education-2026]] — 協働的な建築設計教育における生成AIと拡張現実：探索的スタジオ研究
+- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — ChatGPTの継続利用に至る直列連鎖としてのAIリテラシー、信頼、学業的自己効力感
+- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — 運動障害のある大学生における学業的自己効力感のプロファイルと自己報告によるAI利用
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 子どもにおいて生成AIにより創造的自己効力感が高まったという報告（スコーピングレビュー）
+- [[ai-speaking-practice-communicative-readiness-2026]] — 発話の自己効力感が、AI支援練習からコミュニケーション意欲へ至る不安の経路を逆転させる。
+- [[faculty-ai-well-being-social-supports-2026]] — 教員対象のSEM：技術的自己効力感はAIウェルビーイングの弱い予測因子
+- [[cen-self-efficacy-favorability-2026]] — 自己効力感と好意度が、チュータリングシステムと紙での練習からの学習を左右する（Cen et al. 2026）。
+- [[jelson-students-chatgpt-essay-writing-2026]] — Self-Efficacy for Writing Scaleは「Translating」と「Reviewing」のクエリ増加を予測したが、「Planning」やエッセイ全体の委任の増加は予測しなかった（Jelson et al. 2026）。
+- [[kim-overtrust-ai-literacy-2026]] - 学業的自己効力感は、AIへの過信の低さではなく高さを予測した。
+- [[somny-ml-self-efficacy-interaction-traces-2026]] — テクノロジー強化学習における学習者のインタラクショントレースを通じて自己効力感信念を測定する機械学習の利用
+- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — AI自己効力感→AIリテラシー→AI受容という連鎖で、知識によって媒介される割合を測定（İşbulan et al. 2026）
+- [[chu-design-students-ai-agent-tam-ttf-2026]] — 知覚有用性の必要条件としての自己効力感、そしてボトルネックとなる閾値（Chu & Liu 2026）
+- [[petricini-ai-literacy-communication-equity-2026]] — 有能感の低下を生産的な再調整として読み解く
+- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — LLMがコメントを付けたコードを読むことで、自信は自力で遂行できる方向へシフトした。

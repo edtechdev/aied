@@ -143,11 +143,11 @@ AI が支える協働作業について利用可能な唯一のメタ分析の�
 
 ## 関連する記事
 
-- [[lin-ai-peer-collaborative-mathematics-2026]] — 何がLLMエージェントをピアとして読ませるか：安全性、暫定的な推論、適切な不完全さ
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 人の専門家の合意が一面的な社会的リスクを見出す——向上の道のない協働過程の脆弱性
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 生成 AI が支える教育の有望な枠組みとしての課題基盤型・プロジェクト基盤型学習——システマティック・レビューと三段階メタ分析から浮かぶ新しい証拠
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — 暗黙の人間と AI の協働における創発的な学習者の主体性——支援的ペルソナと逆張りペルソナ
+- [[nixon-social-cost-ai-teammate-2026]] — 関係性コストのランダム化検証：AIがチームに加わると仲間の応答性と所属感が低下する（Nixon et al. 2026）
+- [[lin-ai-peer-collaborative-mathematics-2026]] — LLMエージェントが仲間として受け止められる条件：安全性、暫定的な推論、適切な不完全さ
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30名の専門家の合意が一面的な社会的リスクを指摘：協働プロセスが脆弱であり、能力向上の経路が存在しない
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 生成AI支援教育の有望な枠組みとしての問題基盤学習とプロジェクト基盤学習：系統的レビューと3水準メタ分析から得られつつある知見
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — 暗黙的な人間-AI協働における学習者エージェンシーの創発：支持的ペルソナと逆張り型ペルソナ
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[polished-artifacts-fragile-engagement-2026]]
@@ -157,22 +157,21 @@ AI が支える協働作業について利用可能な唯一のメタ分析の�
 - [[teacher-student-agency-orchestration]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[golrang-propact-pair-programming-2026]] — ProPACT——ペアプログラミングのための積極的な AI 適応協働個別指導システム
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz——学生プロジェクトチームにおける AI による学問的境界の媒介
-- [[academic-league-of-ai-2026]] — 学術 AI リーグ——協働的でプロジェクト基盤型の AI 教育
-- [[icap-cognitive-engagement-llm-agents]] — 協働的対話における関与を測るための拡張 ICAP 枠組み
-- [[llm-facilitation-timing-online-discussions]] — オンライン協働討論における LLM の促進のタイミング
-- [[ba-ai-agents-cscl-review-2026]] — コンピュータ支援協働学習のレビューにおける AI エージェント
-- [[wei-perkins-genai-student-collaboration-scoping-2026]] — 生成 AI と学生のグループワーク——スコーピング・レビュー（Wei & Perkins 2026）
-- [[astra-multi-agent-tutoring-benchmark-2026]] — マルチエージェント個別指導と参加の均衡した協働のための ASTRA 合成ベンチマーク
-- [[xu-genai-collaborative-space-2026]] — 小グループ力学における生成 AI——エージェントかつ協働空間として（Xu et al. 2026）
+- [[golrang-propact-pair-programming-2026]] — ProPACT：ペアプログラミングのための先回り型・適応型AI協働チューター
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz：学生プロジェクトチームにおけるAIによる専門分野の仲介
+- [[academic-league-of-ai-2026]] — Academic League of AI：協働型・プロジェクト基盤のAI教育
+- [[icap-cognitive-engagement-llm-agents]] — 協働的対話におけるエンゲージメントを測定するための拡張ICAPフレームワーク
+- [[llm-facilitation-timing-online-discussions]] — オンライン協働討論におけるLLMファシリテーションのタイミング
+- [[ba-ai-agents-cscl-review-2026]] — コンピュータ支援協働学習におけるAIエージェントに関するレビュー
+- [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAIと学生のグループワーク：スコーピングレビュー（Wei & Perkins 2026）
+- [[astra-multi-agent-tutoring-benchmark-2026]] — マルチエージェントによるチュータリングと参加の均衡が取れた協働のためのASTRA合成ベンチマーク
+- [[xu-genai-collaborative-space-2026]] — 小集団のダイナミクスにおけるエージェントおよび協働空間としてのGenAI（Xu et al. 2026）
 - [[breideband-community-builder-cobi-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — オンライン討論フォーラムにおける AI 生成要約駆動の学習設計
-- [[chen-zou-genai-group-assessment-agency-2026]] — 学生グループにおける協調の基盤としての生成 AI——強化された利用、抑制された利用、そして実現されなかった利用
-- [[ethics-training-agents-group-ethics-discussion-2026]] — 倫理訓練エージェント——役割演技と討論による集団ベースの倫理教育の促進——倫理的な省察と探究のために
-- [[chen-bertopic-ai-online-learning-research-topics-2026]] — 社会的志向のAI協働研究は、1,048件の出版物の中で支配的なトピックにならなかった
-
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — グループの認識論的な配置がAIの座を決めた：多様な前概念のグループでは統合のハブ、同様のグループでは線形の問い→処理の経路、既有知識は等しく（Wangら 2026）
-- [[bjet-many-hands-make-light-work-2026]] — マルチエージェント・システムとのペアは最良のプロジェクトを生み、単独作業は最大の批判的思考の伸びを生んだ
-
+- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — オンライン討論フォーラムにおけるAI生成要約が駆動する学習設計
+- [[chen-zou-genai-group-assessment-agency-2026]] — 学生グループにおける調整インフラとしてのGenAI：強化された利用、抑制された利用、実行されなかった利用
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents：ロールプレイと討論によって倫理的省察と探究を促し、グループベースの倫理教育をファシリテートする
+- [[chen-bertopic-ai-online-learning-research-topics-2026]] — 社会的志向のAI協働研究は、1,048件の出版物において支配的なトピックになることはなかった
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — グループの認識論的構成がAIの位置を決めた：事前知識が同等でも、事前概念が多様なグループでは統合ハブとなり、類似したグループでは問い合わせてから処理する直線的経路となった（Wang et al. 2026）
+- [[bjet-many-hands-make-light-work-2026]] — マルチエージェントシステムと組んだペアが最良のプロジェクトを生み出した一方、単独作業が批判的思考の伸びを最大にした
+- [[alam-process-oriented-collaborative-essays-2026]] — プロセス志向の協働エッセイ：反復と協働を採点し、定められた境界内でのGenAI利用を許可する（Alam & Jackson 2026）

@@ -35,7 +35,7 @@ ai_assist:
 
 ストーリーテリングは、[[motivation]]、[[student-engagement]]、そして[[constructivist|構成主義]]の[[learning-theories|学習理論]]に根ざしています。それは[[language-learning]]、[[creativity]]、[[social-emotional-learning]]、そして理解を支えます。AI 時代には、[[llm|LLM 駆動の]]およびロボットを介したストーリーテリングが、学習者と[[agentic-ai|AI エージェント]]が共に物語を組み立てる共創と、学習者に応答する相互的な物語を可能にします。
 
-### 知識ベースの研究に現れるストーリーテリング
+## 知識ベースの研究に現れるストーリーテリング
 
 - **ロボットを介したストーリーテリング：** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]]は人間らしい相互的なデジタルストーリーテリングロボットを用い、紙や PowerPoint の方法に比べた行動的・認知的関与の有意な向上を見出しています。[[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]は、教員が[[curriculum-design|カリキュラム]]の内容から LLM 駆動のシナリオベースのストーリーテリング活動をつくれるようにします。
 
@@ -71,7 +71,8 @@ ai_assist:
 
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub の物語 HRI
+- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — 教育におけるロボットと AI
-- [[ai-generated-interactive-fiction-education-2026]] — AI 生成のインタラクティブ・フィクション：22 人規模のパイロットで一貫性が最も弱い次元だった
+- [[white-wu-robotics-ai-education-2026]] — 教育におけるロボティクスとAI
+- [[ai-generated-interactive-fiction-education-2026]] — AI生成インタラクティブフィクション：22名の学生を対象としたパイロット研究で、一貫性が弱い次元として現れる。
+- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — 未就学児の絵本制作において、物語への適合性と妥当性がAI画像を判断する基準となった（Konca & Yigit-Gencten, 2026）。

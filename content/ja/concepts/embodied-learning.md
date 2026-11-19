@@ -1,14 +1,14 @@
 ---
 title: 身体性に基づく学習
 created: "2026-10-10T22:52:40-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,7 @@ ai_assist:
 
 身体性に基づく学習は、[[active-learning|アクティブラーニング]]、[[experiential-learning|経験学習]]、状況づけられた[[constructivist|構成主義]]の理論と密接に関連しています。核心となる主張は、物理的で操作可能なエージェントが学習者を助けて抽象的な観念と具体的な帰結とを結びつけるということです——ロボットを動かすプログラムや、物理的なロボットとのロールプレイ——純粋に画面ベースの相互作用ではできない仕方で。ロボット工学は、教育における AI の最も明確な身体化であり、学習者に見、触れ、観察するものを与えます。
 
-### 身体性に基づく学習がナレッジベースの研究に現れる仕方
+## 身体性に基づく学習がナレッジベースの研究に現れる仕方
 
 - **根ざしたプログラミング：** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]]は、[[cs-education|ブロックプログラミング]]を身体化されたロボットの実行に根ざかせ、作成、実行、観察、改訂の緊密なループを作り出すことで、学習者が自分のコードが振る舞いになるのを見られるようにします。
 - **社会的ロボットとの相互作用：** [[storytelling-in-education|ストーリーテリング]]に使われる[[educational-robotics|社会的ロボット]]（[[motibo-digital-storytelling-robots-motivation-2026|MotiBo]]、[[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]）、ロールプレイ（[[remind-robot-mediated-roleplay-antibullying-2026|REMind]]）、手話（[[pepper-robot-sign-language-lis-2025|Pepper]]）は、関係的で[[social-emotional-learning|情動的]]な学習を支える身体化された社会的相互作用を提供します。
@@ -44,7 +44,7 @@ ai_assist:
 
 - **言語のみの促進者は、探究を語りうるものの側へ引き寄せる。** 修士課程の流体静力学の実験室では、学生が手作業で浮力のモデルを築いた後、Gemini に基づく促進者が加わり、それを新しい現象に適用しました。3組のペアを通じて、AI は ISLE の順序を保ちましたが、「ただ教えてください」と迫られると、誰も測定していなかった質量の値を生み出しました。また、遠隔の参加者1名は、物理的には正しいものの清潔で身体性を欠く循環を完成させました（[[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani（2026）]]）。設計上の教訓は、代替ではなく順序です。まず身体でモデルを築き、その後に言語モデルにその適用を扱わせることです。
 
-### 身体性を持つ知性と、身体を持たない AI への批判
+## 身体性を持つ知性と、身体を持たない AI への批判
 
 ナレッジベースの身体化研究の第二の、より理論的な流れは、AI によって媒介される学習——[[sociocultural-learning|社会文化的学習]]——における*身体*の役割に関するものです。物理的なロボットを通じてではなく、[[ai-technologies|AI システム]]自身が（ありうるとして）身体化されているかどうかという問いを通じてです。この研究は、抽象的な情報処理の上に築かれた記号的で身体を持たない AI モデルの支配に異議を唱えます。
 

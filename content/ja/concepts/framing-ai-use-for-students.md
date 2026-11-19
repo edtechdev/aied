@@ -1,7 +1,7 @@
 ---
 title: 学生のためのAI利用の枠づけ
 created: "2026-10-10T22:31:13-04:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -77,7 +77,9 @@ ai_assist:
 
 ## メディアと公的な枠づけ
 
-学生はまた、[[ai-education|教育におけるAI]]をめぐるより広いメディアと公的な言説によっても枠づけられます。それは、どんな教員のメッセージよりも先に、彼らの基盤となる期待を形づくります。公的な言説の分析や、YouTubeのようなプラットフォームが教育におけるChatGPTの利用をどう枠づけるかの分析は、支配的な枠づけ — 誇張、悲観、あるいは実用主義 — が、学習者と[[teacher-role|教育者]]がその技術にどう接近するかに影響することを示しています。（[[youtube-frames-chatgpt-education]]）（[[ai-ethics-education-public-discourse]]）教員による効果的な枠づけは、しばしばそれらの周囲の物語を意識的に打ち消し、あるいは向きを変えることを意味します。
+学生はまた、[[ai-education|教育におけるAI]]をめぐるより広いメディアと公的な言説によっても枠づけられます。それは、どんな教員のメッセージよりも先に、彼らの基盤となる期待を形づくります。公的な言説の分析や、YouTubeのようなプラットフォームが教育におけるChatGPTの利用をどう枠づけるかの分析は、支配的な枠づけ — 誇張、悲観、あるいは実用主義 — が、学習者と[[teacher-role|教育者]]がその技術にどう接近するかに影響することを示しています。（[[youtube-frames-chatgpt-education]]）（[[ai-ethics-education-public-discourse|Bagale et al., 2026]]）教員による効果的な枠づけは、しばしばそれらの周囲の物語を意識的に打ち消し、あるいは向きを変えることを意味します。
+
+この枠づけは、その下流で資格の値付けにも影響します。米国の採用担当者約1,750人を対象とした調査では、学生のAI利用を支援ではなく代替として説明すると、面接に至る可能性と給与交渉への意欲が低下し、その低下はGPAの高い応募者で最も顕著でした（[[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]）。
 
 ## 実践的な指針
 

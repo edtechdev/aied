@@ -48,11 +48,11 @@ ai_assist:
 - **[[burneo-can-edtech-close-learning-gaps-2026|世界銀行のメタ分析]]**は14件のRCTからの191件の効果量を統合し、適応的・AI対応のEdTechが学習を平均して約0.125標準偏差上げることを推定します——教育分野のRCTの中央値を上回ります——一方、生成AIが初期の適応的な道具に対する優位性を持たないことを見出します。
 - **成果は定数ではなく、内容–処置の交互作用です。** [[rachatasumrit-example-problem-ratio-2026|Rachatasumritら(2025年)]]は、最適な例題–問題の比率が知識の内容に依存することを示します。純粋な[[retrieval-spacing-interleaving|検索練習]]は逐語的な事実に対してより高い成果を生み、一方、例と統合された練習(解き方の例と問題を交互に用いる)は一般化可能な技能に対してより高い成果を生みます——「より多く練習すること」が常によりよいわけではなく、成果が学習される知識の構成要素に訓練スケジュールを対応させることに懸かっていることの直接的な証拠です。
 
-### AI時代の測定問題
+## AI時代の測定問題
 
 このナレッジベースの学習成果研究の中心的テーマは、**生成AIが学習成果を生じさせずに目に見える成績を膨らませうる**——そして、それが見えるかどうかはアウトカム指標の選択によって決まる、というものです。[[generative-ai-reduced-study-time-math|研究]]と[[stromberg-generative-ai-learning-penalty-secondary-2026|大規模な現場データ]]は鋭い乖離を示します。AI利用はAI支援の宿題における得点を改善する一方、監督下・閉書・非支援の測定における得点は*下げます*。[[genai-performance-vs-learning|成績と学習の研究]]と[[young-people-learning-generative-ai-rapid-review-2026|迅速なレビュー]]はそれゆえ、AIに支援された即時の成績と持続的な学習を区別し、非支援条件での総括的な測定([[summative-assessment]]を参照)を真の学習成果の信頼できる信号として扱います。
 
-### 効果に関する研究が示すもの
+## 効果に関する研究が示すもの
 
 このナレッジベースの[[rct|RCT]]、[[meta-analysis-systematic-review|メタ分析]]、現場研究を通じて、**学習の効果性**(どのAI介入が実際に学習成果を生むのか、またその大きさ)の一貫した像が浮かび上がります。
 
@@ -72,7 +72,7 @@ ai_assist:
 
 - **AIチューリングは標準化された試験の向上において専門家の人間によるチューリングに匹頼しうる。** 2,383人が参加した評価で、統合されたAIチューリングはGREの学習成果について専門家の人間によるチューリングと統計的に同等であり(p = .015)、どちらもチューリングなしの統制群を上回りました。著者らは、チューターを比較する単位として向上1ポイントあたりの費用を提案しています([[studentbench-ai-human-tutoring-gre-2026|Northcuttら(2026年)]])。
 
-### AIの学習と達成への影響に関する分野全体の地図
+## AIの学習と達成への影響に関する分野全体の地図
 
 このナレッジベースのコーパス——メタ分析、RCT、準実験、現場研究——は、微細で時に矛盾する像を支持します。知見は正の効果、負の効果、条件付きの効果に集まります。
 
@@ -102,7 +102,7 @@ ai_assist:
 - **AI-IBLは創造性を支援するが、必ずしも問題解決を支援するわけではない。** [[mujib-ai-ibl-creative-math-2026|Mujibら]]は創造的な成績と態度は改善したが、批判的な問題解決は改善しませんでした。
 - **[[student-experience|学生の経験]]は測定された成果と乖離する。** [[absent-cognitive-baseline-2026|AIネイティブの学生は自分の学習を過大評価し]]、[[ai-literacy-assessment-misalignment|自己申告は成績と一致しません]]——成果の知覚は、成果の信頼できる証拠ではありません。
 
-### メタ分析的な学習成果の推定値は膨らんでいる——注意して読むこと
+## メタ分析的な学習成果の推定値は膨らんでいる——注意して読むこと
 
 このページの効果性の要約を支配する学習成果の数値——特にメタ分析からの統合された効果量——は、強い注意を払って読む必要があります。一連のメタ研究が、この分野の正の統合推定値が出版バイアス、構成概念の非整合性、方法論的な近道によって膨らんでいることを示しています。
 
@@ -115,7 +115,7 @@ ai_assist:
 
 **上記の成果の数値についての結論:** 大きな統合されたAI効果量は、点推定値ではなく上限として扱ってください。非支援で標準化されたアウトカム測定を伴う、よく設計された[[rct|RCT]]と現場研究からの学習成果の証拠(上記のガードレールRCT、KhanmigoとNUMIの実験、世界銀行のEdTechメタ分析)を優先し、統合の品質が改善するまでメタ分析的な成果を暫定的で過大に述べられているものとして読んでください。この問題は補正よりも長生きもします。ある監査されたメタ分析が撤回された後に公表された論文のうち、60%は今もそれを大きなChatGPT学習成果の権威ある根拠として引用しており、どれも撤回に言及していません——つまり撤回された推定値は拡散し続けているのです。これが、[[limitations-in-aied-research|Limitations in AIEd Research]]のページがメタ分析的な証拠の危機を詳しく記録している理由です。
 
-### 重要なものを測定する
+## 重要なものを測定する
 
 学習成果は[[assessment-validity]]につながります——[[assessment|評価]]がより深い理解を捉えそこなうなら、学習成果の測定は誤解を招きます。学習成果はまた、見かけ上の成績の向上が学習の損失を覆い隠しうる[[cognitive-offloading|過剰な依存]]と[[cognitive-offloading]]、因果的な学習成果を検出する黄金標準のデザインとしての[[rct]](無作為化試験)、そして研究を横断して効果量を統合しこの分野の効果性の証拠を確立する[[meta-analysis-systematic-review]]と交差します。
 
@@ -168,47 +168,50 @@ ai_assist:
 - [[student-support-and-success]] — administrative outcomes (task completion, credits, persistence, graduation) as distinct from learning gains
 
 ## 関連記事
-- [[epistemological-audit-genai-meta-analyses-2026]] — 生成AIの教育研究における初期の証拠統合の批判的な認識論的監査（Fütterer et al. 2026）
-- [[contractor-learning-impact-generative-ai-2026]] — Off-the-shelf chatbot access raised unaided test scores that persisted a week (Contractor & Reyes 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
-- [[genai-performance-vs-learning]] — why assisted performance is not a learning outcome (Yan et al. 2025)
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
-- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
-- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT help produces learning gains equivalent to human tutor help
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning (PNAS 2025 RCT)
-- [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
+
+- [[chen-genai-programming-understanding-2026]] — 学部生24名:支援ありのテスト合格は増加したが、支援なしの理解は向上しなかった(Chen et al., 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — プログラマ22名:支援ありの向上は支援なしの再テストまで持続しなかった(Gardella et al., 2026)
+- [[epistemological-audit-genai-meta-analyses-2026]] — 生成AI教育研究における初期のエビデンス統合の批判的認識論的監査(Fütterer et al. 2026)
+- [[contractor-learning-impact-generative-ai-2026]] — 既製チャットボットの利用により支援なしのテスト得点が上昇し、1週間後も持続した(Contractor & Reyes 2026)
+- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AIによる個別指導は授業内のアクティブラーニングを上回る:実際の教育環境で研究に基づく新規設計を導入したRCT(Kestin et al. 2025)
+- [[genai-performance-vs-learning]] — なぜ支援ありのパフォーマンスは学習成果ではないのか(Yan et al. 2025)
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CALを用いたバーチャル個別指導:利用と学習に関する実験
+- [[making-ai-tutoring-productive-mastery-math-2026]] — AI個別指導を生産的にする:習得ベースの数学練習
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — ワンクリックの先に:2年間の学校実験におけるKhanmigo
+- [[ai-literacy-assessment-misalignment]] — AIリテラシー評価:自己報告とパフォーマンスの不一致
+- [[generative-ai-reduced-study-time-math]] — 完了は速く、学習は少なく:生成AIは数学問題の学習時間とそこで築かれる知識を減らした
+- [[genai-meta-analysis-programming-learning]] — プログラミングにおける生産性と学習への生成AIの効果のメタ分析
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AIリテラシー介入効果のメタ分析
+- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPTの支援は人間のチューターの支援と同等の学習向上を生む
+- [[generative-ai-guardrails-harm-learning]] — ガードレールのない生成AIは学習を損ないうる(PNAS 2025 RCT)
+- [[absent-cognitive-baseline-2026]] — 欠落した認知的ベースライン:AIネイティブな大学生の学業自己評価における構造的ギャップの理論化
+- [[oecd-digital-education-outlook-2026]] — OECDデジタル教育アウトルック2026
+- [[ai-changing-teaching-workflows]] — AIはいかに授業のワークフローを変えつつあるか
+- [[robot-assisted-language-learning-meta-analysis-2026]] — AIで強化された身体性ロボット支援言語学習のメタ分析
 - [[genai-educational-outcomes-meta-analysis]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Immediate performance vs durable learning distinction
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
-- [[ai-assisted-collaborative-learning-model-dbr]] — AI-Assisted Collaborative Learning model DBR (critical thinking +24.1%, problem-solving gains)
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
-- [[jost-llm-programming-education-learning-outcomes]] — LLM reliance and grades in coding (negative correlations)
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching (RCT)
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative math performance
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI-enhanced PBL scaffolding gains
-- [[ccct-cooperative-learning-technique]] — AI-designed cooperative learning technique
-- [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolded self-regulated feedback gains
-- [[learner-ai-interaction-patterns-oop]] — Interaction patterns and learning gains in OOP
-- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis: adaptive/AI EdTech raises learning ~0.125 sd
+- [[young-people-learning-generative-ai-rapid-review-2026]] — 即時のパフォーマンスと持続的な学習の区別
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成AIの学習ペナルティ:宿題の外注は学習を損なう
+- [[ai-assisted-collaborative-learning-model-dbr]] — AI支援協働学習モデルのDBR(批判的思考+24.1%、問題解決能力の向上)
+- [[stanford-evidence-base-ai-k12-2026]] — 個別指導特化型AIと汎用AIの比較
+- [[jost-llm-programming-education-learning-outcomes]] — コーディングにおけるLLMへの依存と成績(負の相関)
+- [[genai-can-harm-teaching-rct-2026]] — 生成AIは授業を損ないうる(RCT)
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAIと高次思考のメタ分析
+- [[mujib-ai-ibl-creative-math-2026]] — AIが支援するIBLと創造的数学パフォーマンス
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AIで強化されたPBLスキャフォールディングによる向上
+- [[ccct-cooperative-learning-technique]] — AIが設計した協同学習技法
+- [[scaffolding-srl-feedback-genai-human-peers]] — スキャフォールディングされた自己調整フィードバックによる向上
+- [[learner-ai-interaction-patterns-oop]] — OOPにおける相互作用パターンと学習向上
+- [[ai-feedback-critical-thinking-writing-2026]] — 作文におけるAIフィードバックと批判的思考
+- [[pedagogy-ai-mistakes]] — AIの誤りの教育学:高次思考の育成(Hosseini 2026)
+- [[computational-thinking-aica-2026]] — 計算論的思考のレベルとAIコーディングアシスタント(2026)
+- [[burneo-can-edtech-close-learning-gaps-2026]] — メタ分析:適応型/AI教育テクノロジーは学習を約0.125sd向上させる
 - [[gpt4-feedback-student-activation-2026]]
 - [[rachatasumrit-example-problem-ratio-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (media-comparison critique of gains measures)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: bias-adjusted AI learning-gain effects ~1/3 of reported size
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: audit of flawed AIED meta-analyses
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — A STEM synthesis that controlled dependent effect sizes and tested publication bias, but applied no quality appraisal (Doğan et al. 2026)
-- [[ai-education-effects-second-order-meta-analysis-2026]] — Second-order meta-analysis of 45 AI-in-education meta-analyses, with overlap-corrected effects and a quality appraisal of the synthesis layer (Emslander et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[rodrigues-aied-unplugged-numeracy-2026]] — In teacher-mediated AI, preparation moved gains and the tool did not
+- [[weidlich-chatgpt-effect-search-cause-2025]] — 教育におけるChatGPT:原因を探す効果(学習向上の測定に対するメディア比較からの批判)
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — メタ・メタ分析:バイアス調整後のAI学習向上効果は報告された大きさの約3分の1
+- [[oneill-presumed-effective-meta-analysis-2026]] — 有効との推定:欠陥のあるAIEDメタ分析の監査
+- [[ai-supported-instruction-stem-meta-analysis-2026]] — 従属的効果量を調整し出版バイアスを検証したが、品質評価は適用しなかったSTEMの統合(Doğan et al. 2026)
+- [[ai-education-effects-second-order-meta-analysis-2026]] — AI教育メタ分析45件の二次メタ分析:重複を補正した効果量と統合層の品質評価を伴う(Emslander et al. 2026)
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench:AIと人間の個別指導はGREで同等の学習向上をもたらす
+- [[rodrigues-aied-unplugged-numeracy-2026]] — 教師が媒介するAIでは、学習向上を左右したのは準備であり、ツールではなかった

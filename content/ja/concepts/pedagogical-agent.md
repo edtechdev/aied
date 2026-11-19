@@ -115,8 +115,9 @@ ai_assist:
 - [[ai-avatars-and-synthetic-instructors]]
 
 ## 関連する記事
-- [[wang-teacher-student-centered-agents-physics-2026]] — 学生中心のエージェントの役割は、成績、負荷、フロー、共感にわたって教師中心の役割を上回る（Wang et al. 2026）
-- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME：AR/VR における教授法的エージェントの概念的フレームワーク——チューター対役割演技の相手、リアリズム、プレゼンス、認知的負荷（Ross & Kaspar 2026）
+
+- [[wang-teacher-student-centered-agents-physics-2026]] — 学習者中心のエージェント役割は、成績・負荷・フロー・共感のすべてにおいて教師中心の役割を上回る(Wang et al. 2026)
+- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME:AR/VRにおける教育的エージェントの概念的枠組み — チューターとロールプレイ・パートナーの対比、リアリズム、存在感、認知負荷(Ross & Kaspar 2026)
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-generated-interactive-fiction-education-2026]]
@@ -138,16 +139,15 @@ ai_assist:
 - [[paratutor-parent-child-tutoring]]
 - [[agents-that-teach-incidental-learning]]
 - [[ai-tutor-authoring-promptdecipher]]
-- [[educasim-cs1-instructional-practice]] — EducaSim：教授の実践のための生成的な学生エージェント
-- [[conversational-ai-agents-umbrella-review-2026]] — 教育における会話型 AI エージェントの傘のレビュー
-- [[conversational-agents-novice-programmers-scoping-2025]] — 初心者のプログラマーのための会話型エージェントのスコーピングレビュー
-- [[ba-ai-agents-cscl-review-2026]] — コンピュータ支援の協同学習における AI エージェントのレビュー
-- [[kim-ai-productive-failure-adult-2026]] — 生産的な失敗に基づく学習を支える AI システムのデザイン
-- [[preferred-scaffolding-ai-mathematical-modeling]] — AI 支援の数学モデリングにおける選好される足場
-- [[llm-adaptive-programming-error-explanations-2026]] — プログラミングの誤りの LLM による適応的な説明
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — 初等の読書の語らいのための役割適応型 AI の伴走的なもの。固定役割のエージェントの情動的な上限（Liao 2026）
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents：倫理的な省察と探求のための役割演技と議論を伴うグループベースの倫理教育の促進
-
-- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — カスタマイズされたエージェントはフィードバックの質を上げたが、自己調整や成果は上げず。成果上の優位は指示的なフィードバックの下でのみ
+- [[educasim-cs1-instructional-practice]] — EducaSim:指導実践の訓練のための生成的学生エージェント
+- [[conversational-ai-agents-umbrella-review-2026]] — 教育における会話型AIエージェントのアンブレラレビュー
+- [[conversational-agents-novice-programmers-scoping-2025]] — 初心プログラマー向け会話型エージェントのスコーピングレビュー
+- [[ba-ai-agents-cscl-review-2026]] — コンピュータ支援協調学習におけるAIエージェントのレビュー
+- [[kim-ai-productive-failure-adult-2026]] — 生産的失敗に基づく学習を支援するAIシステムの設計
+- [[preferred-scaffolding-ai-mathematical-modeling]] — AIが支援する数学的モデリングにおいて選好されるスキャフォールディング
+- [[llm-adaptive-programming-error-explanations-2026]] — LLMによるプログラミングエラーの適応的説明
+- [[liao-role-adaptive-ai-companion-book-talk-2026]] — 小学生のブックトークのための役割適応型AIコンパニオン、固定役割エージェントの情動面の上限(Liao 2026)
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents:倫理的省察と探究のためのロールプレイと討論によってグループベースの倫理教育を促進する
+- [[teachers-configure-educational-chatbots-2026]] — 意図したとおりに教えてくれるのか?教師は教育用AIチャットボットをどのように設定するか
+- [[agent-type-feedback-style-self-directed-learning-2026]] — カスタマイズされたエージェントはフィードバックの質を高めたが、自己調整や学習成果は向上しなかった。学習ゲインの優位は指示的フィードバック条件下でのみ見られた
+- [[anagnostopoulou-ai-companion-stem-self-efficacy-2026]] — AI支援STEM教育における自己効力感、エンゲージメント、態度、知覚された学習

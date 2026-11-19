@@ -1,7 +1,7 @@
 ---
 title: アクティブラーニング
 created: "2026-10-10T21:52:23-04:00"
-updated: "2026-11-07T20:33:50-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

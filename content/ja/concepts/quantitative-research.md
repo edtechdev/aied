@@ -92,6 +92,7 @@ ai_assist:
 
 ## 関連する概念
 
+- [[longitudinal-research]]
 - [[research-methods-aied]]
 - [[qualitative-research]]
 - [[mixed-methods-research]]

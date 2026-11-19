@@ -115,11 +115,10 @@ ai_assist:
 
 ## 限界と証拠の空白
 
-このナレッジベースの文献は均一ではありません。教員と学生の隠喩研究は質的で、しばしば小規模です。工学の教員研究は、単一のインタビュー質問への回答を分析しています。専門職化の研究は、隠喩の数を探索的に扱います。教室での類推研究は学部生10人で、個人化と説明形式の間に交絡があります。Roeらのフレームワークは概念的で、その活動は学生とともに検証されていません。ANVILは教育者とのシステム評価であり、学習研究ではありません。
-
-そのことは仕事を無用にするものではありません。主張を適切に控えめにするのです。隠喩の引き出しは、調査が見落とす想定を明かしえます。類推の批判は、構造的な理解を見えるようにしえます。よく選ばれた隠喩は、クラスに議論する共有の対象を与ええます。しかしこの分野には依然として、隠喩に基づく教授を通常の教授と比較し、隠喩の想起ではなく転移を測定し、そのアプローチが文化と専門分野を越えて通用するかを検証する研究が必要です。
-
-過大な主張をする危険は、両方向に実在します。隠喩を完全な説明として扱う教師は、誤解を据え付けえます。隠喩を単なる装飾として扱う研究者は、学生が心的モデルを築く、あるいは築き損なうメカニズムを見逃しえます。生産的な立場は、隠喩を設計され、部分的で、批判可能な表象として扱い、学習者がそれをどう用いるかを研究することです。
+- **「記憶に残る比喩は良い比喩である」。** 記憶に残ることは説明力ではない。学生は鮮やかな類推を覚えていても、その類推が明確にするはずだった概念を誤解したままでありうる。
+- **「比喩は中立的な例示である」。** あらゆる比喩は一部の特徴を選び取り、他の特徴を隠す。その選択には、エージェンシー、信頼、責任に関する前提が込められている。
+- **「AIが生成した類推はそのまま使える」。** 生成された類推は、構造的に誤っていたり、文化的に偏っていたり、教育学的に適合していなかったりすることがある。教師による検討、または学生による批評課題が必要である。
+- **「学生が類推を楽しめば、概念を学んだことになる」。** エンゲージメントと学習は別々の成果である。ここでの証拠の基盤は主に質的なものであり、学習の向上を確立するものではない。
 
 ## 関連する概念
 
@@ -142,14 +141,15 @@ ai_assist:
 
 ## 関連する記事
 
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — 批判的AIリテラシーを教えるための四つの隠喩と基準
-- [[student-reception-genai-analogies-computing-2026]] — 学生がGenAI生成の類推を監査し、壊れた写像を修復する
-- [[fear-awe-genai-metaphor-workshops-2025]] — 学生、教員、スタッフとの隠喩分析ワークショップ
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — 工学の教員の隠喩がAIの理解を構成し制約する
-- [[genai-professionalization-metaphors-2026]] — GenAIと専門的な学習についての学生の隠喩的な概念化
-- [[thermomix-genai-education-analogy-2026]] — 委任とAIとの学習のための調理家電の類推
-- [[anvil-ai-educational-animations]] — コンピューティング教育のためのAI生成の類推と教授アニメーション
-- [[ai-engineering-education-balancing-act]] — 学生の「神託」と「チューター」の隠喩がLLMの能力を超える
-- [[code-anchor-multi-view-visualization]] — 隠喩的な可視化の足場かけとその正当性の問題
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — リテラシーの証拠としての、ある学生の「フィードバックの自動販売機」の隠喩
-- [[daoism-ai-education-philosophy-2026]] — 教育におけるAIへの対抗隠喩としての「Zhenren」
+- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — 批判的AIリテラシーを教えるための四つのメタファーと基準
+- [[student-reception-genai-analogies-computing-2026]] — 学生がGenAI生成のアナロジーを監査し、破綻した対応関係を修復する
+- [[fear-awe-genai-metaphor-workshops-2025]] — 学生・教員・職員とともに取り組むメタファー分析ワークショップ
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — 工学部教員のメタファーがAI理解を構築し、同時に制約する
+- [[genai-professionalization-metaphors-2026]] — GenAIと専門的学習についての学生のメタファーによる概念化
+- [[thermomix-genai-education-analogy-2026]] — AIへの委任とAIによる学習を表す調理マシン・アナロジー
+- [[anvil-ai-educational-animations]] — コンピューティングのためのAI生成アナロジーと教学アニメーション
+- [[ai-engineering-education-balancing-act]] — 学生の「オラクル」と「チューター」のメタファーはLLMの能力を超えている
+- [[code-anchor-multi-view-visualization]] — メタファー的な可視化による足場かけとその正当性の問題
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — リテラシーの証拠としての、ある学生の「フィードバックの自動販売機」メタファー
+- [[daoism-ai-education-philosophy-2026]] — 教育におけるAIへの対抗メタファーとしての「Zhenren」
+- [[rodak-hire-ai-future-focused-literacy-2026]] — 雇われたアシスタントというメタファーと、学生が作成した業務範囲

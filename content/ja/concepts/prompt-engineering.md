@@ -39,7 +39,7 @@ ai_assist:
 
 プロンプトエンジニアリングは、教育における効果的な[[generative-ai|生成AI]]の利用の中心です。従来のプログラミングのインターフェースとは異なり、LLMは自然言語に応答します。しかし、その応答の質、正確さ、[[pedagogy|教授法的]]な価値は、プロンプトの設計に大きく依存します。この知識ベースの研究は、プロンプトを書くことは中立な行為ではないことを明らかにしています。それは、生徒がどう考え、計画し、認知的労力を配分するかを反映するのです。[[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar（2026年）]]は、この用語が何を覆うかを鋭くし、性能のための入力の技術的な最適化であるプロンプトエンジニアリングと、目的を明確化し、出力を批判的に読み、理由を述べて改訂する、修辞的・倫理的・内省的な仕事であるプロンプトリテラシーとを区別しています。彼らのプロンプトリテラシー・サイクル（目的の明確化、プロンプトの作成、出力と向き合う、プロンプトの洗練、省察）と、手順の見本となるルーブリックは、この区別を教えうるものにしており、出力だけを最適化する指導は、LLM利用の倫理的・認識論的な次元に手を触れないままだと論じています。
 
-### プロンプトエンジニアリングが研究に現れる仕方
+## プロンプトエンジニアリングが研究に現れる仕方
 
 - **認知的痕跡としてのプロンプト:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al.]]は、プロンプトのパターンが[[cognitive-offloading|認知的オフローディング]]を露呈することを示しています。質の高い作業は文脈に富んだ、礼儀正しい、教示的なプロンプトを用い、質の低い作業は領域に基づかない反発的な不同意を示します
 - **深みは成果物を改善するが、保持は改善しない。** 22名の大学院生において、説明を求める（「なぜ／どうやって／説明して」）プロンプトの割合は、基盤知識やプロンプトの量を超えて、独立に採点された課題の質を予測しました（β = 6.27）。しかし即時の再生との間には無相関を示しました（[[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris（2026年）]]）。
@@ -77,7 +77,7 @@ ai_assist:
 - **LLM と人間のコーディング一致を駆動するのは、プロンプトの文言ではなくモデルの同一性である。** [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith ら（2026）]]の統制された分解では、プロンプトの型は有意でなく（F = 1.77、p = 0.136、partial η² = .03）、モデル因子は partial η² = .19 を担いました。定義や詳細な指示を加えることは、正しい定義の判断での誤りを減らす一方で、列挙の検出を損ないました。そして価格は質を追いませんでした。Gemini 2.5 Pro は 178.13 ドルかかりながら、56.77 ドルの GPT-4.1 Full を下回りました。
 - **理論の全文ではなく、理論の名前を注入する。** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano ら（2026）]]は、理論名を指定するプロンプトが、有用性（4.40 対 3.20）と具体性（3.80 対 2.40）で論文を供給する方法を上回り、全文は理論的整合性（4.60 対 3.60）でのみ勝ったことを示しています。
 
-### より広い概念とのつながり
+## より広い概念とのつながり
 
 プロンプトエンジニアリングは[[scaffolding|足場かけ]]につながります。よく設計されたプロンプトは、生徒の思考を迂回するのではなく足場かけできるのです。それは[[metacognition|メタ認知]]と[[ai-literacy|AIリテラシー]]と交差します。効果的なプロンプトには、AIの能力と自分の学習目標の両方の理解が必要だからです。[[cognitive-offloading|認知的オフローディング]]の研究は、プロンプトの質を、AIの利用が学習を支えるか損なうかに直接結びつけています。
 
@@ -114,18 +114,19 @@ ai_assist:
 - [[ai-technologies]] — 包括的概念: AI技術と手法（モデル、LLM訓練、ロボティクス、RAG、エージェント型）
 
 ## 関連する記事
-- [[lei-fan-genai-prompting-strategies-2026]] — 234 人の学生が難しいと感じること：プロンプトの構文ではなく意図の整合
-- [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
-- [[wang-teacher-student-centered-agents-physics-2026]] — 物理の学習における設計変数としてのエージェントの役割と制約のプロンプト（Wang et al. 2026年）
-- [[gpt-item-generation-l2-listening-2026]] — GPTによるL2リスニング項目生成におけるプロンプトとファインチューニング（Aryadoust & Wong 2026年）
-- [[llm-interaction-depth-task-quality-recall-2026]] — 生徒が何を問うかが重要: LLMとの関わりの深さ、課題の質、即時の再生（Tsiligkiris 2026年）
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: 教育におけるLLMプロンプトのためのリアルタイムコーチング
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — ジャーナリズムにおける批判的なAIリテラシーのためのLLM課題の課題ベースの分類体系
-- [[prompt-privilege-equitable-ai-access-2026]] — プロンプトの特権: LLMへのアクセスの格差の測定と緩和
-- [[principal-trait-analysis-human-ai-skills-2026]] — 主成分特性分析: 人間とAIの協働の特性をデータから導く
-- [[llms-text-linguistics-teaching-2026]] — テキスト言語学の教授におけるLLM
-- [[idea-framework-metacognitive-genai-2026]] — メタ認知的に規制されたGenAI利用のためのIDEAフレームワーク
-- [[lin-llm-interactive-lesson-generation]] — インタラクティブなチューター訓練教材のLLM生成（Lin et al. 2025年）
+
+- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — プロンプト遂行能力が学習成果を予測し、家庭のデジタル資本の効果を媒介する。5要素からなる足場かけは訓練可能。
+- [[lei-fan-genai-prompting-strategies-2026]] — 234名の学生が語る難しさは、プロンプトの構文ではなく意図の整合。
+- [[wang-teacher-student-centered-agents-physics-2026]] — 物理学習における設計変数としてのエージェント役割プロンプトと制約プロンプト（Wang et al. 2026）。
+- [[gpt-item-generation-l2-listening-2026]] — GPTベースのL2リスニング問題生成におけるプロンプティングとファインチューニングの比較（Aryadoust & Wong 2026）。
+- [[llm-interaction-depth-task-quality-recall-2026]] — 学生が何を問うかが重要である：LLMとの対話の深さ、課題の質、即時再生（Tsiligkiris 2026）。
+- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+：教育用LLMプロンプティングのためのリアルタイムコーチング。
+- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — ジャーナリズムにおける批判的AIリテラシーのための、LLMタスクの課題ベース分類法。
+- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege：LLMアクセスにおけるアクセシビリティ格差の測定と緩和。
+- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis：人間とAIの協働に関するデータ駆動型の特性。
+- [[llms-text-linguistics-teaching-2026]] — テキスト言語学の教育におけるLLM。
+- [[idea-framework-metacognitive-genai-2026]] — メタ認知的に調整されたGenAI利用のためのIDEAフレームワーク。
+- [[lin-llm-interactive-lesson-generation]] — LLMによるインタラクティブなチューター訓練レッスンの生成（Lin et al. 2025）。
 - [[aaai2026-prompting-literacy-k12]]
 - [[ase-26-agentic-software-engineering-curriculum]]
 - [[choi-anchor-aes-prompting-2025]]
@@ -133,15 +134,18 @@ ai_assist:
 - [[learning-to-prompt-adaptive-tutoring]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — 化学教育に翻訳されたUNESCOのAI指針。認識論的な漂流
-- [[isaza-chatgpt-engineering-prompting-2026]] — プロンプトの行動は工学部学生の成績を予測する
-- [[student-ai-conversations-cognitive-engagement-2026]] — 生徒とAIの対話における専門分野に結びついたブルーム水準の認知的関与（Chang & Li 2026年）
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 反復的な教授法設計の担い手としてのLLM
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCOのAIガイドラインを化学教育へ翻案する。認識的ドリフト。
+- [[isaza-chatgpt-engineering-prompting-2026]] — プロンプティング行動が工学系学生の成績を予測する。
+- [[student-ai-conversations-cognitive-engagement-2026]] — 学生とAIの対話における、教科に関連したBloomレベルの認知的関与（Chang & Li 2026）。
+- [[yasar-llms-iterative-pedagogical-design-2026]] — 反復的な教育設計のエージェントとしてのLLM。
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — プロンプトエンジニアリング対プロンプトリテラシー: 五段階の人間中心のGenAI関与の枠組みと五段階のプロンプトリテラシー・サイクル（Miles, Haber-Curran & Arar 2026年）
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — AIフィードバックの質の予測変数としてのプロンプトエンジニアリングとモデル選択（Jacobsen et al. 2026年）
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 生徒の執筆に対するLLM生成フィードバックにおけるフィードバックの焦点と教授法的適応性の評価
-- [[middle-school-genai-steam-interactions-2026]] — 中学生のSTEAMグループは47.1%のプロンプトで指導者の教示をそのまま模写した
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 曖昧なプロンプトが自己反復的な明確化のループを生み、最大のフラストレーションの差を伴った
-- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 公平性への経路としてのプロンプトエンジニアリング能力と、モデル横断の足場かけ実験（Li ら 2026）
-- [[han-prompt-literacy-ai-dependence-design-2026]] — それでも関与を予測する知覚された能力としてのプロンプト・リテラシー
+- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — プロンプトエンジニアリングとプロンプトリテラシーの対比：5段階のPrompt Literacy Cycleを備えた、5フェーズの人間中心GenAI関与フレームワーク（Miles, Haber-Curran & Arar 2026）。
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — AIフィードバックの質の予測因子としてのプロンプトエンジニアリングとモデル選択（Jacobsen et al. 2026）。
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 学生の作文に対するLLM生成フィードバックにおける「フィードバック焦点」と教育的適応性の評価。
+- [[middle-school-genai-steam-interactions-2026]] — 中学校のSTEAMグループは、プロンプトの47.1%で指導者の指示をそのままコピーしていた。
+- [[ecd-prompts-automated-essay-scoring-2026]] — 測定におけるプロンプトエンジニアリングを導くEvidence-Centered Designの活用：自動作文採点による例示。
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 曖昧なプロンプトは自己反復的な確認質問ループを生み、フラストレーションの差が最大となった。
+- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 公平性への経路としてのプロンプトエンジニアリング能力。モデル横断の足場かけ実験を伴う（Li et al. 2026）。
+- [[han-prompt-literacy-ai-dependence-design-2026]] — 知覚された能力としてのプロンプトリテラシーは、それでもなお関与を予測する。
+- [[gold-genai-curriculum-design-preservice-2026]] — プロンプト履歴は、教職課程の学生のほぼ全員が推敲を行っていることを示す。
+- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — 最初の目標が「とにかく何らかのプロンプトを書くこと」であるK–12向けゲーム。

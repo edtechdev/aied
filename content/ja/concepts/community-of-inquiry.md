@@ -1,7 +1,7 @@
 ---
 title: コミュニティ・オブ・インクワイアリ
 created: "2026-10-10T22:09:40-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

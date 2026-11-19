@@ -1,7 +1,7 @@
 ---
 title: メタアナリシスと系統的レビュー
 created: "2026-10-10T22:45:45-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -9,7 +9,7 @@ research_method: [literature review]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/meta-analysis-systematic-review
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]

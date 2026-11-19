@@ -1,7 +1,7 @@
 ---
 title: サステナビリティ
 created: "2026-10-10T22:55:24-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ discipline: [teacher education]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/sustainability
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -91,13 +91,15 @@ AI 教育におけるサステナビリティは、重なり合う3つの枠組�
 - [[open-source]]
 
 ## 関連する記事
-- [[daniel-ai-sustainability-scoping-review-2026]] — 高等教育における AI for sustainability と sustainable AI のスコーピングレビュー
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 持続可能な教育と AI に対する価値批判的アプローチ
-- [[liu-ai-sustainable-engineering-education-2026]] — 持続可能な工学教育のための AI-SEE 枠組み
-- [[riandi-teacher-ai-green-energy-education-2026]] — グリーンエネルギー教育への AI 統合における教師の関与
-- [[talebzadeh-ai-green-education-2026]] — グリーン教育における AI の役割
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 持続可能な AI ナレッジベース支援ツール
-- [[llm-environmental-impact-student-usage-2026]] — LLM の利用の環境への影響
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 身体化された知性による持続可能な学習の涵養
-- [[caruana-pre-university-ai-education-slr-2026]] — 大学進学前の AI 教育の SLR(SDG 4 の枠組み)
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — スウェーデンの調査とフォーカスグループ研究。機関の生成 AI の決定は、不正の枠組みではなくパートナーシップの倫理に導かれるべきだと論じる
+
+- [[lim-ai-wearables-environmental-empathy-2024]] — ウェアラブルEDAとAIが生成した汚染の画像は覚醒水準を高めたが、環境スチュワードシップは測定していない（Lim et al., 2024）。
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — 不正行為という枠組みではなくパートナーシップの倫理こそが、機関としてのgenAIに関する意思決定を導くべきだと論じる、スウェーデンでの質問紙調査およびフォーカスグループ研究。
+- [[daniel-ai-sustainability-scoping-review-2026]] — 高等教育における持続可能性のためのAIと持続可能なAIに関するスコーピングレビュー。
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 持続可能な教育とAIに対する価値批判的アプローチ。
+- [[liu-ai-sustainable-engineering-education-2026]] — 持続可能な工学教育のためのAI-SEEフレームワーク。
+- [[riandi-teacher-ai-green-energy-education-2026]] — グリーンエネルギー教育におけるAI統合への教師の関与。
+- [[talebzadeh-ai-green-education-2026]] — グリーン教育におけるAIの役割。
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 持続可能なAIに関する知識ベースアシスタント。
+- [[llm-environmental-impact-student-usage-2026]] — LLM利用の環境影響。
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 身体化された知能を通じて持続可能な学習を育む。
+- [[caruana-pre-university-ai-education-slr-2026]] — 大学前段階のAI教育に関するSLR（SDG 4の枠組み）。

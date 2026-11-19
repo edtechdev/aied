@@ -147,12 +147,13 @@ ai_assist:
 
 ## 自己報告の主張をどう読むか
 
-- それがどんな種類の主張かを尋ねる。知覚は妥当であり、行動は近似され、学習と力量はこの方法では届きません。
-- 誰が答え、誰が答えなかったかを確かめる。回答率、標本枠、自己選択が、その百分率が何を記述するかを決めます——ある教育機関の学生に関する研究は、学生一般ではなくその場面を記述します。
-- 道具を確かめる。それはこの構成概念と集団のために検証されたか、そして集団が比較されるなら不変性は検証されたか。
-- 単一源デザインに注意する。予測変数と成果の両方が一つの時点で同じ質問紙から来るなら、その関連は提案された理論と同様に共通方法分散と両立します。
-- 満足度を設計の信号として扱い、学習の成果としては扱わない。高い満足度と検証されていない学習は、AI 道具の評価における標準的な構成であり、このコーパスはその二つが乖離することを示しています。
-- 計算過程を見せる研究を好む。述べられた回答率、述べられた限界、そして尋ねることから来ない証拠を少なくとも一つ。
+- それがどのような種類の主張かを問う。知覚は扱ってよい対象だが、行動は近似にすぎず、学習と能力はこの方法では到達できない。
+- 誰が回答し、誰が回答しなかったかを確認する。回答率、標本枠、自己選択によって、その百分率が何を記述しているかが決まる。つまり、ある一機関の学生を対象とした研究が記述するのはその状況であり、学生一般ではない。
+- 測定尺度を確認する。この構成概念とこの母集団に対して妥当化されていたか、また群を比較する場合には測定不変性が検定されていたか。
+- 検定を信頼する前に分布を確認する。妥当化されたプログラミング自己効力感尺度では、2つの因子がいずれも符号検定で変化した(p = .0074 および p = .012)一方で、因子1の中央値は事前テストから事後テストまで5.87のままであり、すべての因子が負に歪んでいた([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart et al. (2026)]])。
+- 単一情報源のデザインに注意する。予測変数と結果変数が同一時点の同じ質問紙から得られている場合、その関連は提案された理論と整合的であると同時に、共通方法分散とも整合的である。
+- 満足度は学習成果ではなく、設計上のシグナルとして扱う。高い満足度と未検証の学習という組み合わせは、AIツール評価における標準的な構成であり、証拠は両者が乖離していることを示している。
+- 根拠の導出過程を示す研究を優先する。回答率が明記され、限界が明記され、そして尋ねることによらない証拠源が少なくとも1つある研究である。
 
 ## よくある誤解
 
@@ -179,35 +180,38 @@ ai_assist:
 - [[learning-analytics]]
 
 ## つながる記事
-- [[high-school-genai-acceptance-tam-physics-2026]] — 一つの意図の得点、二つの反対の利用
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 自己報告尺度が用いる実施の様態は、それが何を測定するかを変える
-- [[capability-decision-model-teacher-readiness-2026]] — 自己報告された AI 能力と効力感の信念を分けるための判別的妥当性の基準
 
-- [[pramod-agentic-ai-motivational-pathways-2026]] — 主体性のある AI の経路モデルにおいて関与が測定されたものではなく知覚されたパフォーマンスを予測する（Pramod & Patil 2026）
-- [[ai-literacy-assessment-misalignment]] — 教師の AI リテラシーの平行な自己報告尺度と客観的尺度
-- [[jin-glat-genai-literacy-assessment]] — GLAT：自己報告に対するパフォーマンスベースの代替
-- [[genai-student-experiences-uk-he-survey-2026]] — 英国の教育機関にわたって調査された学生の GenAI 利用
-- [[student-llm-interaction-taxonomy-review-2026]] — データが自己報告か記録かによって形づくられる分類化
-- [[tracing-genai-literacy-interaction-patterns]] — GenAI リテラシーを特徴づける過程データ
-- [[engagement-intensity-learner-modeling]] — 学習者モデル化の信号としての自己報告された利用状況
-- [[predicting-attrition-competitive-programming]] — 練習行動に対する自己報告された自信
-- [[ai-use-critical-thinking-medical-students-2026]] — 単一源の媒介モデルにおける共通方法バイアス
-- [[genai-motivation-engagement-2026]] — 動機づけと関与の自己報告のみの PLS-SEM
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — AI 利用と信頼に関する 81 人の物理学部生の調査
-- [[hawkins-feedback-literacy-ai-essay-writing]] — 自己報告の対処法としての画面録画と刺激想起
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — 自己調整学習に関する自己報告とトレースデータ
-- [[adaptive-pretesting-retention]] — 記録から導出された行動的な努力の指標
-- [[ai-vocational-education-training-review]] — 自己報告と客観的尺度の不均衡を報告するレビュー
-- [[student-genai-use-views-writing|学生による書き物のための GenAI 利用と見解]] — 一つの社会学部における調査とインタビュー
-- [[competent-generative-ai-use-measures-review-2026]] — AI リテラシーを超えて：有能な生成的 AI 利用の尺度に関する構造化レビューと探索的メタ分析
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE：AI に関連する認知的オフローディングのためのプライバシー保護型自己省察ツール
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 知覚された力量が何を確立できるかについて明示的な、小学高学年のための 15 項目の自己評定尺度
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 教師の AI リテラシー尺度 33 件のうち 31 件が自己報告でありパフォーマンスベースのものはなかったとするレビュー
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 自己報告から導かれたプロファイル
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 2段階のレビューが、同一の構成概念が同じ結論に至るかどうかを問う
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — 知覚された所有権はエッセイ全体の委任を他のすべてから分離し、記録はさらに多くを分離した（Jelsonら 2026）
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — 66件の研究のうち32件が知覚を報告したのに対し、探究技能を測ったのは8件
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — AIリテラシー道具の63.8%が信頼性の証拠を報告し、妥当性の証拠を報告したのは20%未満
-- [[huang-genai-academic-information-resources-2026]] — 図書館の記録と調査の態度が異なる方向を指す
-
+- [[kares-xai-evaluation-alignment-2027]] — 参加者166名、3つの顕著性手法:満足度と信頼は横ばい、課題パフォーマンスと忠実性の指標は食い違う(Kares et al., 2027)
+- [[high-school-genai-acceptance-tam-physics-2026]] — 1つの意図スコア、正反対の2つの用法
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 自己報告尺度の実施方法が、測定される内容を変える
+- [[capability-decision-model-teacher-readiness-2026]] — 自己報告されたAI能力を効力信念から切り分けるための弁別妥当性の基準
+- [[pramod-agentic-ai-motivational-pathways-2026]] — エージェンティックAIのパスモデルでは、エンゲージメントが予測するのは測定されたパフォーマンスではなく知覚されたパフォーマンスである(Pramod & Patil 2026)
+- [[ai-literacy-assessment-misalignment]] — 教員のAIリテラシーに関する自己報告と客観的指標の並行測定
+- [[jin-glat-genai-literacy-assessment]] — GLAT:自己報告に代わるパフォーマンスベースの選択肢
+- [[genai-student-experiences-uk-he-survey-2026]] — 英国の複数機関にわたって学生のGenAI利用を調査
+- [[student-llm-interaction-taxonomy-review-2026]] — データが自己報告由来かログ由来かによって形づくられる分類体系
+- [[tracing-genai-literacy-interaction-patterns]] — GenAIリテラシーを特徴づけるプロセスデータ
+- [[engagement-intensity-learner-modeling]] — 学習者モデリングのシグナルとしての自己報告された利用状況
+- [[predicting-attrition-competitive-programming]] — 自己報告された自信と練習行動の対比
+- [[ai-use-critical-thinking-medical-students-2026]] — 単一情報源の媒介モデルにおけるコモンメソッドバイアス
+- [[genai-motivation-engagement-2026]] — 自己報告のみによる動機づけとエンゲージメントのPLS-SEM
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — 物理学専攻の学部生81名を対象としたAI利用と信頼に関する調査
+- [[hawkins-feedback-literacy-ai-essay-writing]] — 自己報告の補正策としての画面記録と刺激再生法
+- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — 自己調整学習に関する自己報告とトレースデータの併用
+- [[adaptive-pretesting-retention]] — ログから導出される行動的な努力の指標
+- [[ai-vocational-education-training-review]] — 自己報告と客観的指標の不均衡を報告するレビュー
+- [[student-genai-use-views-writing|ライティングにおける学生のGenAI利用とその見方]] — ある社会学系の1学科での調査とインタビュー
+- [[competent-generative-ai-use-measures-review-2026]] — AIリテラシーを超えて:有能な生成AI利用の測定尺度に関する構造的レビューと探索的メタ分析
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE:AIに伴う認知的オフローディングのためのプライバシー保護型自己省察ツール
+- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 小学高学年向けの15項目自己評価尺度で、知覚された有能感が何を立証できるかを明示している
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 教員のAIリテラシー尺度33件中31件が自己報告であり、パフォーマンスベースは皆無と判明したレビュー
+- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 自己報告から導かれたプロファイルも同じ挙動を示す
+- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 同一構成概念における自己報告とパフォーマンスの不一致に率を付した2段階レビュー(Fan et al. 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — 知覚された所有感はエッセイ全体の委任とそれ以外を区別するにとどまったが、トレースははるかに多くを区別した(Jelson et al. 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - 66研究中32研究が知覚を報告し、探究スキルを測定したのは8研究にとどまる
+- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - AIリテラシーツールの63.8%が信頼性の証拠を報告する一方、妥当性の証拠を報告するのは20%未満
+- [[huang-genai-academic-information-resources-2026]] — 図書館のログと調査で得られた態度が異なる方向を指し示す
+- [[onodipe-enhance-not-replace-ai-classroom-2026]] — 調査のあらゆる指標で知覚された学習とエンゲージメントは上昇したが、試験得点は動かなかった
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — α = 0.997の300項目からなる教員向け尺度が、因子分析を一切行わずに99.68%の精度で予測した
+- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — 妥当性検証済みの尺度で、中央値は変わらないまま符号検定が有意となる
+- [[tischkau-ai-simulated-patient-formats-2026]] — 期待と記憶を比較する暫定的な前後測定尺度で、下位尺度のαは−0.39から0.87まで(Tischkau et al. 2026)

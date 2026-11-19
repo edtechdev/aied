@@ -168,39 +168,40 @@ AI が採点や認定に触れると、出所は一級の要件として扱わ�
 
 ## 関連記事
 
-- [[student-perspectives-ai-writing-grading-2026]] — 透明なAI支援の執筆評価に対する学生の視点（AlGhamdi 2026）
-- [[children-verification-ai-suggestions-game-2026]] — ゲームベースの人間と AI の協働における子どもの検証行動
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 較正の再枠組み：システムの立場を保留することは保護的であり、矯正的ではない
-- [[du-yuan-epistemic-dependence-2026]] — 生産的な依存と有害な依存を分ける6つの診断基準（Du & Yuan 2026）
-- [[icet-ml-education-trust-2026]] — 教育を通じてAIシステムにおける信頼に取り組む：教訓的な視点
-- [[pearls-epistemic-verification-2026]] — 認識論的な主体性とAI出力の検証のためのPEARLSフレームワーク（Wang 2026）
+- [[shi-human-ai-complementarity-safety-2026]] — 評価者416名、3,957項目。候補を先に提示する支援により、モデルが誤っていた項目での誤り検出率が36.7%から20.6%へ低下（Shi et al., 2026）
+- [[children-verification-ai-suggestions-game-2026]] — ゲームベースの人間とAIの協働における児童の検証行動
+- [[student-perspectives-ai-writing-grading-2026]] — 透明なAI支援による作文評価に対する学生の視点（AlGhamdi 2026）
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 較正の再定義：システムの立場を伏せることは是正ではなく予防として働く
+- [[du-yuan-epistemic-dependence-2026]] — 有益な依拠と有害な依存を区別する6つの診断基準（Du & Yuan 2026）
+- [[icet-ml-education-trust-2026]] — 教育を通じてAIシステムへの信頼を扱う：教授学的視点
+- [[pearls-epistemic-verification-2026]] — 認識的主体性とAI出力の検証のためのPEARLSフレームワーク（Wang 2026）
 - [[fouad-bentley-trust-utility-gap-physics-2026]]
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[agentic-literacy-debt]] — エージェント的なリテラシーの負債：自律的なエージェントからの構造的なAIリテラシーのギャップ（Nama 2026）
-- [[trust-reliance-ai-education-2026]] — 教育におけるAIへの信頼と依存
-- [[calibrating-trustworthiness-llm-education-2026]] — 信頼性の較正：教育におけるLLMの指標の共同設計
-- [[llm-fallacy-misattribution]] — LLMの誤謬と力量の誤帰属
-- [[ai-partner-science-epistemic-vigilance]] — 生産的な増強の鍵としての認識論的な用心
+- [[agentic-literacy-debt]] — エージェント的リテラシー債務：自律エージェントが生む構造的なAIリテラシー格差（Nama 2026）
+- [[trust-reliance-ai-education-2026]] — 教育におけるAIへの信頼と依拠
+- [[calibrating-trustworthiness-llm-education-2026]] — 信頼性の較正：教育におけるLLMの評価指標の共同設計
+- [[llm-fallacy-misattribution]] — LLMの誤謬と能力の誤帰属
+- [[ai-partner-science-epistemic-vigilance]] — 生産的な拡張の鍵としての認識的警戒
 - [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[ai-overreliance-complex-adaptive-system-2026]] — 複雑適応系としてモデル化されたAIの過度な依存
+- [[ai-overreliance-complex-adaptive-system-2026]] — 複雑適応系としてモデル化されたAIへの過剰依存
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — 欠陥はあるが記憶に残る：計算機教育における関心に合わせてパーソナライズされた生成的AIの類推に対する学生の批判的な受け止め
-- [[trust-calibration-chatbots-design-problem-2026]] — 設計問題として再枠組みされた信頼の較正：2次元のユーザー類型と8つの設計命題（Jaidka & Cai 2026）
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI媒介の採点におけるプロンプトインジェクション：自分自身の警告を抑圧し矛盾させたツール（Humble 2026）
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — 信頼でゲートされた推論と設計から説明可能な評価、信頼は測定されないまま（Liら 2025）
-- [[gpt4-handwritten-math-exam-grading-2026]] — AIの成績の確信による絞り込みとその偽陽性率
-- [[bounded-reliance-ai-writing-feedback-2026]] — 有界の依存：EFL学生のAI生成の執筆フィードバックへの関与に関する情報源の信頼性の視点
-- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — AI可能なシステムにおける信頼：33の実証研究にわたる定義、測定、設計因子（Abramsonら 2026）
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 診断からメタ診断へ：AI生成の診断的推論を評価する教師（Hoppeら 2026）
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — 省察のプロンプトが誤ったAIの助言の受け入れを減らす（Ren 2026）
-- [[trust-calibration-genai-collaborative-regulation-2026]] — 文脈的な支援から知覚された転移の伸びへの連鎖における媒介変数としての信頼の較正（Bu & Li 2026）
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — AI不安によって弱められた、AIリテラシーから継続的な利用への枢軸としての信頼（Hu 2026）
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — AIの推奨を批判的に扱う構造としての役割の交代（Kenzhebayevaら 2026）
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — データサイエンスのコースにおける学生のLLM利用とAI生成の問いの難易度の限界
-- [[nazaretsky-trust-instrument-ai-edtech-2025]] — 学生向けの測定器具が信頼をAI-EdTechの4因子として検証、信頼は知覚された有用性の上流に（Nazaretskyら 2025）
-- [[children-design-trustworthy-ai-chatbots-2026]] — 子どもが信頼できる AI チャットボットをどう設計し、どう推論するか
-
-- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — AI の助言が人間の判断と一致するとき、しないとき: 体育における信頼、自己効力感、心理的な回復力、適応的な反応
-
-- [[kim-overtrust-ai-literacy-2026]] - 300人の学生で過信は自己効力感とパフォーマンス期待と相関し、AIリテラシーとは相関しなかった
-
+- [[student-reception-genai-analogies-computing-2026]] — 欠陥はあるが記憶に残る：コンピューティング教育において関心に応じて個別化された生成AIアナロジーに対する学生の批判的受容
+- [[trust-calibration-chatbots-design-problem-2026]] — 設計問題として再定義された信頼較正：2次元のユーザー類型と8つの設計命題（Jaidka & Cai 2026）
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — AIを介した採点におけるプロンプトインジェクション：自らの警告を抑制し、それに矛盾するツール（Humble 2026）
+- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — 信頼によってゲートされる推論と設計段階から説明可能な評価、ただし信頼は未測定（Li et al. 2025）
+- [[gpt4-handwritten-math-exam-grading-2026]] — AIによる採点の信頼度フィルタリングとその偽陽性率
+- [[bounded-reliance-ai-writing-feedback-2026]] — 境界づけられた依拠：AI生成の作文フィードバックへのEFL学習者の関与を情報源信頼性の視点から捉える
+- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — AI搭載システムへの信頼：33の実証研究にわたる定義、測定、設計要因（Abramson et al. 2026）
+- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 診断からメタ診断へ：AIが生成した診断的推論を評価する教師（Hoppe et al. 2026）
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — 内省を促すプロンプトが誤ったAI助言の受容を減らす（Ren 2026）
+- [[trust-calibration-genai-collaborative-regulation-2026]] — 文脈的支援から知覚された転移効果へと至る連鎖における仲介変数としての信頼較正（Bu & Li 2026）
+- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — AIリテラシーから継続利用への要となる信頼、AI不安によって弱まる（Hu 2026）
+- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — AIの推奨を批判的に扱うための構造としての役割ローテーション（Kenzhebayeva et al. 2026）
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — データサイエンス科目における学生のLLM利用とAI生成問題の難易度の限界
+- [[nazaretsky-trust-instrument-ai-edtech-2025]] — AI-EdTechへの信頼を4因子として妥当性検証した学生向け尺度、信頼は知覚された有用性の上流に位置する（Nazaretsky et al. 2025）
+- [[children-design-trustworthy-ai-chatbots-2026]] — 児童は信頼できるAIチャットボットをどのように設計し、推論するか
+- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — AIの助言が人間の判断と一致する場合と一致しない場合：体育における信頼、自己効力感、心理的レジリエンス、適応的反応
+- [[kim-overtrust-ai-literacy-2026]] - 学生300名において、過信は自己効力感および成果期待と相関したが、AIリテラシーとは相関しなかった
+- [[trust-ai-assistants-consistently-wrong-2026]] — 人はAIアシスタントが一貫して間違えていても信頼するのか
+- [[bego-course-guided-chatgpt-trust-attitudes-2026]] — 授業で誘導されたChatGPT体験が工学系学生のChatGPTへの信頼と態度に及ぼす影響
+- [[jacobs-young-learners-multimodal-genai-scratch-2026]] — 児童は音声マルチモーダルチューターの誤答を信頼した（Jacobs et al., 2026）

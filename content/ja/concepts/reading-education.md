@@ -111,15 +111,16 @@ ai_assist:
 
 ## 関連する記事
 
-- [[air-scale-motivations-ai-reading-2026]] — GenAIとともに読む動機の検証済み尺度
-- [[almirabi-ai-reading-assessment-motivation-2026]] — EFLの教室におけるAI媒介の読解評価
-- [[genai-differentiated-eap-reading-materials-2026]] — 分化したEAP読解教材
-- [[llm-children-reading-story-generation]] — 水準を制御した子どもの読解用の物語
-- [[text-simplification-its]] — チュータリングのためのテキスト単純化の評価
-- [[clara-developmental-appropriateness-children-stories-2026]] — リーダビリティ式を超えた発達的な難易度
-- [[bird-multimodal-educational-literature-2026]] — キー・ステージによる文学の分類
-- [[clark-ai-generated-language-readability-2026]] — AI生成の言語が読みにくい理由
-- [[sidorkin-ai-generated-course-readings-2026]] — 仕立てられたAI生成のコース読書
-- [[airri-machine-resistant-reading-interface-2026]] — 機械に抵抗する読解インターフェースとそのリーダビリティのコスト
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — 中等教育の読解におけるChatGPTのフィードバック
+- [[air-scale-motivations-ai-reading-2026]] — GenAIを用いた読解の動機を測定する検証済み尺度
+- [[almirabi-ai-reading-assessment-motivation-2026]] — EFL教室におけるAIを介した読解アセスメント
+- [[genai-differentiated-eap-reading-materials-2026]] — 習熟度別に調整されたEAP読解教材
+- [[llm-children-reading-story-generation]] — 難易度を制御した子ども向け読解用ストーリー
+- [[text-simplification-its]] — 個別指導に向けたテキスト平易化の評価
+- [[clara-developmental-appropriateness-children-stories-2026]] — 可読性公式では捉えられない発達上の難易度
+- [[bird-multimodal-educational-literature-2026]] — Key Stage別の文献分類
+- [[clark-ai-generated-language-readability-2026]] — AIが生成した言語はなぜ読みにくいのか
+- [[sidorkin-ai-generated-course-readings-2026]] — 学習者に合わせて調整されたAI生成の授業用読解教材
+- [[airri-machine-resistant-reading-interface-2026]] — 機械耐性のある読解インターフェースとその可読性コスト
+- [[chatgpt-feedback-orientation-chinese-reading-2026]] — 中等教育の読解におけるChatGPTフィードバック
 - [[dabaghi-ai-dyslexia-education-review-2026]] — ディスレクシアのある学習者のためのAI
+- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — 中等学校におけるLLMの利用、ノートテイキング、読解力の無作為化比較

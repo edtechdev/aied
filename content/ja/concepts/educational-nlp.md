@@ -1,13 +1,13 @@
 ---
 title: 教育 NLP
 created: "2026-10-10T22:40:12-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -30,11 +30,11 @@ ai_assist:
 
 ## はじめに
 
-### 教育 NLP が行うこと
+## 教育 NLP が行うこと
 
 教育における自然言語処理は、教授と学習の言語——学生のエッセイ、応答、議論の投稿、フィードバック、教授テキスト——に計算的な方法を適用します。[[llm|LLM]]は自動的に分析できるものを劇的に拡大し、以前は大規模には非現実的だった学生の言語の細粒度の理解を可能にしました。
 
-### ナレッジベースに記録された応用
+## ナレッジベースに記録された応用
 
 - **学生の言語の分析。** [[llm-sentiment-analysis-education-research|教育研究における LLM 感情分析]]は、LLM に基づく感情分析を教育研究に応用し、大規模に学生のテキストから情動的・評価的な信号を抽出し、[[learning-analytics|ラーニングアナリティクス]]と[[affective-computing|アフェクティブコンピューティング]]に供します。
 - **予測と測定。** [[llm-item-difficulty-prediction|項目困難度予測]]と[[vocabulary-difficulty-prediction|語彙困難度予測]]は、言語モデルを使って項目とテキストの困難度を推定します——[[educational-measurement|教育測定]]、[[adaptive-learning|適応的学習]]、[[item-response-theory|項目応答理論]]モデルへの中心的な入力です。
@@ -62,7 +62,7 @@ ai_assist:
 - **ASR トランスクリプトの実体の忠実性は、語彙的な正確さとは別の問いです。** 5 つの音声認識システムを人間の参照トランスクリプトと比較してベンチマークした[[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]]は、このナレッジベースで最初の ASR/NER の実体忠実性の証拠を報告しています。単語誤り率は 2.43%（TurboScribe）から 15.32%（Vosk）に及び、7 カテゴリーの正解実体の型コーディングでは GPT-5.5 が正確さ 0.805（κ = .726）に達したのに対し、spaCy は 0.634（κ = .488）でした。
 WER の集計値だけでは、実体の構造が転写を経て保たれたことを証明できません。
 
-### 個別指導と測定への接続
+## 個別指導と測定への接続
 
 教育 NLP は、学習者の言語の分析（[[student-modeling|学生モデリング]]、[[knowledge-tracing|知識追跡]]）と、適応的な教授内容の生成（[[intelligent-tutoring|インテリジェントチューター]]、[[scaffolding|足場かけ]]）の両方を支えます。[[ai-generated-interactive-fiction-education-2026|AI 生成インタラクティブフィクション]]は学習のための NLP 駆動の内容生成を示し、[[zerkouk-comprehensive-review-its-2025|インテリジェントチューターの包括的レビュー]]は NLP をより広い[[intelligent-tutoring|インテリジェントチューター]]の展望の中に位置づけます。LLM に基づく分析が成長するにつれて、NLP から導かれた洞察が本当に学習を改善することを検証するために、[[rct|ランダム化比較試験]]と[[research-methods-aied|教育 AI の研究方法]]の枠組みが重要になります。
 

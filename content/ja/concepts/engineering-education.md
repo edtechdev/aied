@@ -1,7 +1,7 @@
 ---
 title: 工学教育
 created: "2026-10-10T22:58:15-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

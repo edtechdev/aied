@@ -43,13 +43,13 @@ ai_assist:
 
 したがって、このナレッジベースにおける AI 時代の文献は、資源、実践、そして生成がほぼ無償になったときのどちらが生き残るのかという三つのことを同時に扱っています。資源については、誰が作り、誰がライセンスし、AI が書いたものはそれに数えられるのかが問われます。実践については、オープンな教授法が学生に何を求め、それが測定可能な何かを教えているのかが問われます。
 
-### 開放性が実際に覆うもの
+## 開放性が実際に覆うもの
 
 オープンな教育資源とは、再利用、改訂、リミックス、再配布を許すライセンスの下で公開されたコンテンツです。この分野の他のすべては、その許可と、許可を与えた者への帰属の義務の下流にあります。[[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] は、小規模なプロジェクトでその義務がどのような姿をとるかを示しています。二週間にわたりオンラインで作業した 11 名の参加者が、6 ページのサイト、[[conversational-ai|チャットボット]]、マニュアル、5 本のビデオチュートリアルを制作し、CC BY-NC-SA で公開しました。できあがったパッケージは透明性では高い評価を得た一方、ライセンス、再現性、適応性、アクセシビリティでは中程度の評価にとどまりました。名においてはオープン、使用においては部分的にオープンです。
 
 ライセンスの文献が細粒度なのは、失敗が細粒度だからです。[[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] は、16 本の中核論文、17 本の拡張論文、36 件の的を絞った参照文献からなる目的抽出によるコーパスに基づいて、公然とライセンスされた AI リテラシー教材をレビューするための七原則のルーブリックを構築しています。[[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello and Havemann (2026)]] は、統治の単位を資源からそれを収容するインフラへ移すべきだと論じます。維持されたプラットフォームを欠いた個別ファイルのコモンズは、コモンズではなく断片化の問題だからです。
 
-### 生成コストの崩壊とデジタル公共財への転回
+## 生成コストの崩壊とデジタル公共財への転回
 
 コース制作は、変化がすでに測定可能な領域です。[[mooc-to-maic|MAIC]] は、[[online-teaching-and-learning|MOOC]] の制作がコースあたりおよそ \$25,000・60 時間から、[[llm]] 駆動の[[agentic-ai|マルチエージェント]]生成によって \$2 未満・30 分へと崩壊したと報告しています。もし制作費がゼロに近づくなら、OER が金を節約するという論拠は力を失い、残るのはライセンスの自由、検証可能性、品質保証です。
 
@@ -59,7 +59,7 @@ ai_assist:
 
 開放性の制度的な根拠は、自律性の上でも述べられています。[[panda-editorial-digital-transformation-open-education-2026|Panda (2026)]] は論説の中で、オープンで柔軟な学習におけるデジタル変革は技術の導入ではなく教授法的な変革であり、技術は地域の文脈において適切な教授法と整合するときにのみ信頼を得ると論じています。[[rodes-paragarino-oer-generative-ai-framework-2026|Rodés-Paragarino and Atenas (2026)]] はそれを、OER と生成 AI の責任ある統合のための七本の柱からなる枠組みへと変えます。それは文献分析に専門家による検証を加え、2025 年 12 月にビルバオで 81 名の参加者を集めた参加型ワークショップを通じて構築されています。
 
-### オープンな教授法と実践への転回
+## オープンな教授法と実践への転回
 
 オープンな教授法は、学生を消費者から寄与者へと移します。課題は、公開され、ライセンスされ、再利用可能な何かを生み出します。[[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] は、この考え方に対してこの分野で最も明快な検証を与えています。[[early-childhood-elementary-ai-education|子ども発達]]の入門コースの二つのクラスが同じ教科書を更新し、そのうち一つは生成 AI ツールを用いました。113 件の課題を通じて、両クラスの学生はいずれも[[information-and-media-literacy|情報リテラシー]]の技能が伸びたと報告し、その伸びは統計的に区別できませんでした。時点の効果が F(1, 84) = 47.30, p < 0.001, partial η2 = 0.36 であるのに対し、時点とクラスの交互作用は F(1, 84) = 0.04, p = 0.85 でした。AI を使ったクラスはより多くの作業を完了し、得点はわずかに低く、180 点満点で 174.73 対 173.86 でした。
 
@@ -67,7 +67,7 @@ ai_assist:
 
 さらに二つの研究は、実践の層がいかに速く統治の層になるかを示しています。[[patino-ai-international-cooperation-open-education-2026|Patiño, Martínez-Pérez, Ramírez-Montoya and Miranda (2026)]] は、13 か国から 10 チーム・110 名が参加した UNESCO と ICDE のレジデンシーを記録しています。しかし彼らの調査の基盤は 54 機関からの 72 件の回答で、回答率が示されておらず、国連 2030 アジェンダを目指すロードマップとしては薄い裏づけです。そして [[guo-teachers-ai-literacy-open-education-practices-2026|Guo, Lu and Gao (2026)]] は、中国 30 省の 512 名の教師を対象に、AI リテラシーがオープンな教授実践に転じるかどうかを調査し、革新的行動を介した間接的な経路が、機関の支援が低いときに 0.218、高いときには非有意な 0.042 に落ちることを見出しました。
 
-### 公平性、持続可能性、そしてグローバルサウス
+## 公平性、持続可能性、そしてグローバルサウス
 
 オープンなコンテンツの[[equity-in-ai-education|公平性]]の論拠は最も古いものです。価格のない資源は、価格のゆえに排除されることがありません。それは同時に、最も容易に主張され、最も稀に検証される論拠でもあります。AI 時代の版はより慎重です。Atenas らは OER を、周縁化されたコミュニティのための、またデータ収集への実質的な参加のための梃子として位置づけながら、生成された資源への過度の依存が人間の[[creativity|創造性]]と判断を切り下げる危険があると警告します。Tlili らは、生成がその梃子を劣化させる仕組みを名指しします。翻訳の誤り、訓練データの偏り、そして生成されたコンテンツが次のモデルを訓練するコーパスへ再び流れ込む[[hallucination-risk|幻覚]]のループです。
 
@@ -75,7 +75,7 @@ ai_assist:
 
 [[global-south|グローバルサウス]] の次元は、証拠が最も薄くなる場所です。このバッチの非西洋の事例は実在しますが少数です。ラテンアメリカの協力レジデンシー、中国のオープン大学の教師たち、そして参加の前提条件としてのインフラという枠組みです。開放性が自動的に能力を再分配するという主張は、これらの研究によって支持されておらず、そのうちのいくつかはそう明言しています。
 
-### 執筆と推薦システムが議論と交わるところ
+## 執筆と推薦システムが議論と交わるところ
 
 このバッチの二本の論文は、政策ではなく生産のシステムについてです。[[peng-personalized-recommendation-oer-2026|Peng (2026)]] は OER のためのハイブリッドな深層推薦器を開発し、2,400 件のインタラクション記録に対して 93.6% の精度、92.5% の適合率、91.0% の再現率、90.2 の F1 スコアを報告しています。その比較表自体は、BERT4Rec のベースラインが同等の再現率で F1 90.8 であることを示しており、データセットの節はユーザー数、項目数、疎性をプレースホルダーのままにしています。モデリングについての主張は控えめで、パターンは見慣れたものです。強いベースラインに対する改善は、見出しよりも小さいのです。
 
@@ -113,16 +113,19 @@ ai_assist:
 
 ## 関連する記事
 
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — 生成 AI が生産工程に入った後の OER をめぐる五つの枠組み（Tlili et al. 2026）
-- [[atenas-oer-digital-public-goods-2026]] — デジタル公共財としての OER と、統治されたインフラを求める論拠（Atenas et al. 2026）
-- [[deimann-rethinking-openness-ai-2026]] — 25 年の開放性がなぜ制度の中核を手つかずのまま残したのか（Deimann and Lukács 2026）
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — 二つのクラスにおける、AI ツールを使った場合と使わない場合のオープンな教授法（Clinton-Lisell 2026）
-- [[duan-open-educational-practices-evolution-2026]] — オープンな教育実践の 14 のモデルと、その中での AI の位置（Duan 2026）
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — 中国 30 省にわたる教師の AI リテラシーとオープンな教授実践（Guo et al. 2026）
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — OER と AI の責任ある統合のための七本柱の枠組み（Rodés-Paragarino and Atenas 2026）
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — 仮想実験室におけるメンタリングと AI-OER の制作（González Miy 2026）
-- [[ryu-developing-ai-literacy-oer-2026]] — AI リテラシー OER をレビューするための七原則のルーブリック（Ryu 2026）
-- [[ahmadfard-interactive-oer-review-2026]] — 発見ではなく設計上の論拠としての OER の双方向性（Ahmadfard 2026）
-- [[patino-ai-international-cooperation-open-education-2026]] — 道具的な事例としてのオープンな教育における国際協力（Patiño et al. 2026）
-- [[peng-personalized-recommendation-oer-2026]] — 主張されたよりも強いベースラインに対して測られた OER のハイブリッド推薦器（Peng 2026）
-- [[panda-editorial-digital-transformation-open-education-2026]] — 教授法的な変革としてのオープンな学習におけるデジタル変革（Panda 2026）
+- [[beznosko-local-ai-rag-physics-oer-2026]] — RAGを組み込んだローカルAIでオープン教材を生成する物理教育へのアプローチ(Beznosko et al., 2026)
+- [[powell-chatbot-enhanced-oer-composition-2026]] — テキストが語り返す：非同期型Composition IIにおけるチャットボットで拡張したOER(Powell et al., 2026)
+- [[jordan-faculty-ai-oer-creation-2025]] — プロンプトから実践へ：AI支援によるOER作成を探る教員中心の取り組み(Jordan et al., 2025)
+- [[tlili-double-edged-sword-oer-generative-ai-2026]] — 生成AIが制作工程に参入した後のOERに対する5つのフレーミング(Tlili et al., 2026)
+- [[atenas-oer-digital-public-goods-2026]] — デジタル公共財としてのOERと、ガバナンスの効いたインフラストラクチャを求める議論(Atenas et al., 2026)
+- [[deimann-rethinking-openness-ai-2026]] — 25年にわたるオープン化がなぜ制度の中層を無傷のまま残したのか(Deimann and Lukács, 2026)
+- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — 2つのコースセクションにおけるAIツールを用いる場合と用いない場合のオープン・ペダゴジー(Clinton-Lisell, 2026)
+- [[duan-open-educational-practices-evolution-2026]] — オープン教育実践の14モデルと、その中でAIが占める位置(Duan, 2026)
+- [[guo-teachers-ai-literacy-open-education-practices-2026]] — 中国30省における教員のAIリテラシーとオープンな授業実践(Guo et al., 2026)
+- [[rodes-paragarino-oer-generative-ai-framework-2026]] — 責任あるOERとAIの統合に向けた7本の柱からなるフレームワーク(Rodés-Paragarino and Atenas, 2026)
+- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — 仮想ラボにおけるメンタリングとAI-OER制作(González Miy, 2026)
+- [[ryu-developing-ai-literacy-oer-2026]] — AIリテラシーOERを審査するための7原則ルーブリック(Ryu, 2026)
+- [[ahmadfard-interactive-oer-review-2026]] — 知見ではなく設計上の主張としてのOERにおけるインタラクティブ性(Ahmadfard, 2026)
+- [[patino-ai-international-cooperation-open-education-2026]] — 手段的ケースとしてのオープン教育における国際協力(Patiño et al., 2026)
+- [[peng-personalized-recommendation-oer-2026]] — 主張よりも強いベースラインに対して検証されたOER向けハイブリッド推薦手法(Peng, 2026)
+- [[panda-editorial-digital-transformation-open-education-2026]] — 教育学的変革としてのオープン学習におけるデジタル・トランスフォーメーション(Panda, 2026)

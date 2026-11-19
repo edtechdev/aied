@@ -1,13 +1,13 @@
 ---
 title: 状況学習
 created: "2026-10-10T22:53:47-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-10-30T10:20:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ ai_assist:
 [[ai-education|教育における AI]]の文献において、状況学習が重要なのは、それが AI のための設計のレンズを提供するからです。[[adaptive-learning|適応的なシステム]]、真正なシナリオにおける[[intelligent-tutoring|知的指導]]、[[virtual-and-augmented-reality|没入型の]][[simulation|シミュレーション]]は、AI 主導の教育を現実世界の文脈に根づけることができ、一方で状況学習は、AI に真正な実践と複雑さの中での意味ある支点を提供します。両者は広く補完的であると扱われており、人間による導きは[[ethics|倫理的]]な基盤として不可欠であり続けます。
 - **教材そのものを文脈化するのも、状況学習の一手です。** DagFlow-AI は、学生自身が述べた関心を中心に統計データセットを生成し、あるケーススタディでは気候変動と健康に関する学生の関心を用いました。一方で学習目標と技能水準は固定したままでした（[[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur ら、2026年]]）。説明を学習者に合わせるのではなく、*データ*を学習者に合わせることは、実践の文脈こそが状況づけられるべきものだと捉えています。著者らは限界も認めています。合成データはデータ収集、測定、研究デザインを教えることはできないため、文脈は学習者にとっては現実ですが、世界にとっては現実ではありません。
 
-### AI のための設計のレンズとしての状況学習
+## AI のための設計のレンズとしての状況学習
 
 ナレッジベースの研究は、状況学習を単なる抽象的な理論としてではなく、教育における AI のための具体的な設計および評価の枠組みとして扱っています。
 

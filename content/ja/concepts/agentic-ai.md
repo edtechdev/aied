@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: エージェンティックAI
 created: "2026-10-10T21:52:44-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-16T05:33:47-05:00"
+source_updated: "2026-11-18T15:25:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

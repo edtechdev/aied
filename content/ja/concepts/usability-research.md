@@ -7,7 +7,7 @@ research_method: [system development, user study, interviews]
 page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/usability-research
 translation_note: 英語ページの自動翻訳です。母語話者による確認はまだ行われていません。
 contributors:
@@ -17,6 +17,7 @@ ai_assist:
   role: translation
   date: '2026-10-11'
   agent: hermes-agent
+updated: "2026-11-19T06:40:00-05:00"
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*

@@ -37,7 +37,7 @@ ai_assist:
 
 これは、このナレッジベースの学習理論の束の傘の概念です。学習理論は、教育におけるAIの中心に位置します。なぜなら、すべてのAIチューター、適応システム、フィードバックの道具は、人間がどう学ぶかについての想定を埋め込んでいるからです——設計者がそれを述べようと述しまいと。このナレッジベースはそれらの理論を個別に記録し、AIの設計と効果が評価される概念的なレンズとして扱います。それらの枠組みを検証する研究分野は別のページです。[[learning-sciences|学習科学]]は学習を実証的に研究し——実験、教室での試行、[[design-based-research|デザインに基づく研究]]——理論を確証されたり反証されたりするものとして扱います。一方このページは枠組みそのものを集めます。この2つの語句はこのナレッジベースで区別されており、単数形の「learning science」はこの理論の束を指します。
 
-### 学習理論の景観
+## 学習理論の景観
 
 このナレッジベースは、それぞれが独自の概念を持つ学習理論のいくつかの系を記録しています。
 
@@ -47,13 +47,13 @@ ai_assist:
 - **動機づけと自己指向。** [[self-determination-theory]](自律性、有能感、関係性)、[[self-efficacy]](自分の能力についての自信)、[[self-regulated-learning]](目標設定、監視、調整)、[[motivation]]は、学習者がなぜAIと彼らなりの仕方で関わるのかを説明します。
 - **学習の文脈と活動。** [[experiential-learning]]、[[active-learning]]、[[project-based-learning]]、[[collaborative-learning]]、[[transfer-of-learning]]、[[desirable-difficulties]]、[[embodied-learning]]は、持続的な学習を生み出す活動と文脈の種類を記述します。
 
-### 学習理論と学習成果
+## 学習理論と学習成果
 
 学習理論は最終的にその結果によって評価され、このナレッジベースの[[learning-gains]]の概念が理論が証拠と出会う場所です。各理論は、何が学習として*数えられる*か、そしてどう測定されるかについて異なる予測を行います。行動主義は詰め込みとフィードバックの課題における観察可能な成績の向上を予測し、構成主義は新しい問題に転移するより深い理解を予測し、社会文化的な理論は参加と媒介された[[problem-solving|問題解決]]における向上を予測し、認知負荷理論は教授が作業記憶の限界を尊重するときにのみ向上を予測します。したがって、測定の選択が、評価がどの理論の予測を確かめられるかを決めます。AI時代において、AIに支援された成績と非支援の[[learning-gains|学習成果]]の鋭い乖離([[generative-ai-reduced-study-time-math]]、[[stromberg-generative-ai-learning-penalty-secondary-2026]]を参照)は、このレンズを通して読むことができます。行動主義的な読みは膨らんだ宿題の得点を成功として見るのに対し、持続的な理解に焦点を当てた構成主義的な読みは、同じ証拠を学習の失敗として見ます。それゆえ、理論を評価と測定された成果につなぐことは、あるAIシステムが実際にどの理論的なレンズを満たすかを決めるために不可欠です。
 
 **統合された証拠は肯定的であり、それは理論が扱うよりも狭い構成概念を測っています。** 53 研究の PRISMA[[meta-analysis-systematic-review|メタ分析]]は、生成 AI の支援を学業達成で g = 0.40、[[critical-thinking|高次思考]]で 0.72、ライティングで 0.76、動機づけで 0.81 とし、生成 AI のフィードバックが最大の機構で g = 1.27 でした（[[genai-educational-outcomes-meta-analysis|Dong (2026)]]）。これらは対象研究が選んだ測定具における伸びであり、したがって「機能する」という行動主義的あるいは認知主義的な読みを決着させ、持続的で転移可能な理解についての構成主義的な予測を未検証のまま残します。国別の下位集団も分かれ、中国の g = 0.71 からトルコの非有意な g = 0.01 に及んだため、統合推定値は道具の性質ではなく、地域ごとに検証すべき平均です。
 
-### なぜ学習理論が教育におけるAIにとって重要なのか
+## なぜ学習理論が教育におけるAIにとって重要なのか
 
 学習理論が重要なのには3つの理由があります。
 
@@ -61,7 +61,7 @@ ai_assist:
 - **それらは理論と実践の乖離を露わにする。** 実証的な研究は繰り返し、AIの実装が言説の主張する理論とは異なる理論を体現していることを見出します——とりわけ有名なのは、行動主義的な詰め込み練習の力学と対になった構成主義的な語彙です。([[ai-vocational-education-training-review]])それゆえAIを評価することは、システムが「機能するか」どうかだけでなく、システムが実際に*どの*理論を体現しているかを問うことを必要とします。
 - **それらは活発に再考されつつある。** 生成AIは、古典的な理論が十分かどうかを再検討するよう教育者を[[prompt-engineering|促して]]います。[[generativism-learning-theory|Generativism]]は、AI時代の学習がますます人間の学習者とAIシステムの間の反復的な共構築を通じて生じると提唱し、古典的な4つ(行動主義、認知主義、構成主義、コネクティビズム)を拡張するのではなく延長します。([[generativism-learning-theory]])
 
-### 近年のAIED研究からの新しい理論的な方向性
+## 近年のAIED研究からの新しい理論的な方向性
 
 近年の理論的な仕事は、古典的な束をいくつかの方向に拡張しており、それぞれがAIを中立的な道具として扱うのではなく人間–AIの関係を再び中心に据えています。
 
@@ -73,17 +73,17 @@ ai_assist:
 - **実行可能なKLI理論。** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho(2025年)]]は、Knowledge-Learning-Instructionの枠組みを実行可能な計算モデル(ACT-R風の記憶機構を備えたApprentice Learnerの枠組み)に接地させます。このモデルは人間のデータにおける交差的な交互作用を再現します。純粋な練習は逐語的な事実の記憶を助け(忘却を遅らせることで)、例と統合された練習は一般化可能な技能の帰納を助けます。KLIが定数的な(事実の)知識を記憶の過程に、可変的な(技能の)知識を帰納に結びつけるため、この結果は検定と解き方の例の推奨との矛盾ではなく、予測された内容–処置の交互作用です——そして記憶の機構が存在する場合にのみモデルが成功することは、練習と例が異なる相補的な役割を果たすことを実証しています。
 - **AIのパラダイムに対する存在論的な挑戦としての身体化。** [[videla-embodied-ai-education-choreography|Videla, Penny, Ross(2026年)]]は、身体化された存在的な認知とAIが体現する表象的な語彙との間に存在論的な隔たりがあると論じ、AIを中立的な道具としてではなく、認識論的な中心から外すべきだとしています。
 
-### このナレッジベースがこの束をどう組織しているか
+## このナレッジベースがこの束をどう組織しているか
 
 学習理論を抽象的な哲学として扱うのではなく、このナレッジベースはそれぞれを、それを用いる教育におけるAIの研究に接地させます。[[constructivist]]と[[behaviorism]]のページは、AIの設計が各理論をどう体現するか(あるいは裏切るか)を記録し、認知負荷理論、[[self-regulated-learning]]、[[metacognition]]、[[transfer-of-learning]]は理論を特定のAIの機構と成果につなぎます。これは、このナレッジベースが[[feedback]]や[[assessment]]のような他の傘の領域を、孤立したページではなく相互作用する概念の整合的な体系として扱うのと同じです。
 
-### 学習理論と「AIについての教育」
+## 学習理論と「AIについての教育」
 
 学習理論はまた、[[ai-literacy|AIリテラシー]]のカリキュラムにおいて内容としても現れます。学習者は、自分たちが使う道具の背後にある[[pedagogy|教授法的な]]想定を理解するために、行動主義、認知主義、構成主義、コネクティビズムを学びます。([[generativism-learning-theory]])この束を教えることは、学生(と教育者)に、AI製品がなぜそういうふうに構築されているのか——そしてその力学が当面の学習目標に資するかどうか——を批評するための語彙を与えます。
 
 - **媒介するエージェント。** Warschauer, Tate, Ritchie(2026年)は、生成AIが社会文化的な媒介手段と社会的な相互交流の区別を破ると論じ、*媒介するエージェント*——行動を媒介すると同時に、偶発的で説明責任を負わない貢献を生成し、道具と社会的なパートナーの中間的な空間を占めるシステム——を提案しています。これは、人間優先の参加の5つの習慣(人間の認知の優位性、目的のある[[student-engagement|関与]]、監督的な主体性、認識論的な用心、省察的な自己調整)をもたらします。([[generative-ai-mediational-agent-sociocultural-2026]])
 
-### AI時代のために提案された理論
+## AI時代のために提案された理論
 
 古典的な系と並んで、このナレッジベースはAIシステムとの学習のために特別に書かれた理論を記録しており、それらは古い理論が開いたままにしている設計上の含意を帯びています。[[yan-agentivism-learning-theory-ai-2026|Agentivism(Yan and Gašević 2026年)]]はその中範囲の例です。それは学習を、課題の成功ではなく人間の能力における持続的な成長として定義し、4つの機構(委譲された主体性、認識論的な監視と検証、再構築的な内面化、支援が減少した下での転移)を名指し、6つの検証可能な命題を述べます。その中には、問題の枠づけ・基準の設定・正当化に対する学習者の責任を保つAI支援が、答えを差し出す支援よりも強い学習を生み出すという命題があります。
 
@@ -143,21 +143,22 @@ ai_assist:
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## 関連記事
-- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
 
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
+- [[yan-agentivism-learning-theory-ai-2026]] — 人間とAIの相互作用を対象とする中範囲学習理論。4つのメカニズムと6つの検証可能な命題を提示（Yan and Gašević 2026）。
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺瞞的な過剰一般化：適応的な習熟判定は、学習者が行動を控えるべき時を判断できるようになる前に練習を打ち切ってしまうことがある（An, McLaren & Stamper 2026）。
+- [[airis-hybrid-human-ai-cognition-2026]] — ハイブリッドシステムにおけるAI拡張探究と調整（AIRIS）。
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — Positions AI as a cognitive partner in human-AI co-regulation; developmental framework across the lifespan
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: a philosophical framework reconceptualizing thinking as human–AI interaction
-- [[self-directed-growth-generative-ai-learning-analytics]] — Self-Directed Growth and the A2PL model extending self-directed learning with GenAI
-- [[generativism-learning-theory]] — Proposes a new learning theory for the generative AI age, revisiting the classical four
-- [[ai-vocational-education-training-review]] — Documented the constructivism/behaviorism theory-practice gap in AI for VET
-- [[genai-educational-outcomes-meta-analysis]] — PRISMA の 53 研究のメタ分析：達成、思考、ライティング、動機づけにおける統合された伸び、フィードバックが最大の機構（Dong 2026）
+- [[ai-cognitive-partner-co-regulation-learning]] — AIを人間とAIの共調整における認知的パートナーとして位置づける。生涯にわたる発達的枠組み。
+- [[ensemble-cognition-philosophy-ai-education]] — アンサンブル認知：思考を人間とAIの相互作用として再概念化する哲学的枠組み。
+- [[self-directed-growth-generative-ai-learning-analytics]] — 自己主導的成長と、GenAIによって自己主導学習を拡張するA2PLモデル。
+- [[generativism-learning-theory]] — 古典的な4つの学習理論を再検討し、生成AI時代の新しい学習理論を提案する。
+- [[ai-vocational-education-training-review]] — VETにおけるAI活用で、構成主義/行動主義の理論と実践の乖離を記録した。
+- [[genai-educational-outcomes-meta-analysis]] — 53件の研究を対象としたPRISMAメタ分析：達成度、思考、執筆、動機づけの統合された向上効果を示し、フィードバックが最大のメカニズムであった（Dong 2026）。
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
+- [[generative-ai-mediational-agent-sociocultural-2026]] — 媒介エージェントとしての生成AI。
+- [[kim-ai-productive-failure-adult-2026]] — 生産的失敗に基づく学習を支援するAIシステムの設計。
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的失敗に向けたLLMの教育学的ステアリング。
+- [[lukesova-clue-before-correction-2026]] — 訂正の前に手がかりを：自律的な言語学習のためのChatGPT。
 - [[rachatasumrit-example-problem-ratio-2026]]
+- [[saranya-pedagogical-practices-genai-learning-theories-2026]] — 学習理論の全スペクトルにわたる教育実践と生成AIの統合：システマティックレビュー。

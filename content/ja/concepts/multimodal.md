@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: マルチモーダルAI
 created: "2026-10-10T22:45:44-04:00"
-updated: "2026-11-07T20:33:50-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -10,7 +10,7 @@ assessment: [assessment, educational-measurement]
 discipline: [stem education]
 level: [higher ed]
 confidence: high
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/multimodal
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]

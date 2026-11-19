@@ -1,7 +1,7 @@
 ---
 title: 化学教育
 created: "2026-10-10T22:31:19-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ discipline: [chemistry education, stem education, teacher education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/chemistry-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ ai_assist:
 **技術的な正確さと批判的なAIリテラシー。** 体系的な証拠は、[[llm|LLM]]が基本的な化学用語を定義できる一方、厳密な定量的な課題では成績が悪く、空間的推論（例えばNMR）に苦労し、過剰な自信を示し、表記法に敏感であることを示しています（[[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]]。[[unesco-ai-guidelines-chemical-education-2026|UNESCOの展望]]におけるChemBench/QCBenchの知見）。これにより、**AIの出力に対する評価的な関与** — 問いただし、検証し、化学の原理と照らして交差検証すること — が中心的な学習目標となり、[[ai-literacy|AIリテラシー]]、[[critical-thinking|批判的思考]]、[[reducing-ai-misuse|AIの悪用の削減]]につながります。
 
 **倫理、政策、そして認識論的漂流。** [[unesco-ai-guidelines-chemical-education-2026|UNESCOの指針に基づく展望]]は、**認識論的漂流** — 不透明なアルゴリズムが探究を因果的な理解から引き離しうるというリスク — を警告し、内容の伝達から**知識の創造**への転換、批判的なAI化学リテラシー、人間の推論を優先する評価、そして世界的な[[digital-divide|アクセスの格差]]の解消を求めています。
+
+**感情的フィードバックは、対象とする不安を高めることがある。** 第9学年の実験室で1学期にわたってAIの感情的フィードバックを行ったところ、実験室不安の上昇（F = 4.60）と達成感の横ばいが同時に生じた一方、教師主導の探究クラスでは達成感が高まりました（F = 7.92）（[[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]）。
 
 ### 関連概念とのつながり
 

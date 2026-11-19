@@ -138,16 +138,18 @@ AIと[[embodied-learning]]を組み合わせた23の研究の[[meta-analysis-sys
 - [[intelligent-tutoring]]
 
 ## 関連する記事
-- [[gaze-informed-ai-children]] — 視線で起動するLLMのナレーションは子どもをナレーション領域に6.48秒対1.67秒とどめたが、研究は理解ではなく注意を測っていた(Wu et al., 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — 頭部装着型EEG、視線追跡、前頭部EDAが自己評定エンゲージメントを63.0%のベースラインに対し75.0%の1段階以内精度で予測(Anupkrishnan et al., 2026)
-- [[engagement-assessment-video]] — EduGage は7つのウェアラブルおよびカメラのストリームをセグメントレベルのエンゲージメント推定に融合し(MAE 0.81)、より軽い計装を主張(Leng et al., 2026)
-- [[student-attention-estimation-fairness-2026]] — マルチモーダルな注意モデルが MAE 0.283に到達し、検証での公平性の改善は保持された被験者で逆転(Fragkiadakis et al., 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — ウェアラブルAIは二重に透明であるため、物理的な排除が失敗し、執行は学生の身体を裁く方向へ漂流する(Corbin et al., 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — EEG 親近性予測の15モデルが、試行独立の検証で0.9853から0.6038 F1へ低下(Nanayakkara and Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — EEG で再構成した画像がテスト成績を R² = 0.79で追跡し、再構成の高い1人の参加者は誤答(Su et al., 2026)
-- [[physiological-signals-exam-outcomes-ml]] — ランダムフォレストが EDA、動き、皮膚温から試験の成績カテゴリーを予測。それらは理解ではなく覚醒を指標するシグナル(Yamazaki and Rimal, 2026)
-- [[affective-text-wearable-student-health]] — Oura を装着した458人の学生において、懸念の話題ではなく感情的な語調が睡眠と心拍変動を追跡(2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — ウェブカメラの視線が187人の学習者に対する強化学習フィードバックを駆動。注意は学習と r = 0.017で相関し、作業負荷は負に相関(2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — YOLOv11 の姿勢特徴が、あつらえのラベル付き集合で疑わしい行動を99.56%でフラグ立てし、不正も公平性も検証していない(Arif et al., 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — EEG の結合が外部の執筆支援に応じて低下し、54人の参加者を通じて依存を累積的な認知的負債として枠づける(Kosmyna et al., 2025)
-- [[kim-ai-embodied-learning-review-2026]] — 23の研究を通じて、センシングの役割がタグの62.5%を占めて支配し、レビューされたどのシステムもマルチモーダルのストリームをライブで融合していない(Kim and Han, 2026)
+
+- [[nissan-nursing-empathy-computer-vision-2026]] — 身体的接触の検出は観察者評定による共感と対応したが、笑顔検出は逆の関連を示し、アイコンタクトとヒートマップは有意な結果が得られなかった（Nissan et al., 2026）。
+- [[gaze-informed-ai-children]] — 視線誘発型のLLMナレーションは、ナレーションされた領域での児童の滞留時間を1.67秒に対して6.48秒に延ばしたが、本研究が測定したのは理解ではなく注意であった（Wu et al., 2026）。
+- [[e3sense-multimodal-learner-engagement-sensing-2026]] — 頭部装着型EEG、アイトラッキング、額部のEDAにより、自己評定のエンゲージメントを1段階以内の精度75.0%で予測した（ベースラインは63.0%）（Anupkrishnan et al., 2026）。
+- [[engagement-assessment-video]] — EduGageは7つのウェアラブルおよびカメラのストリームを融合してセグメント単位のエンゲージメント推定を行い（MAE 0.81）、より軽量な計測手法を主張している（Leng et al., 2026）。
+- [[student-attention-estimation-fairness-2026]] — マルチモーダル注意モデルはMAE 0.283に到達したが、検証で得られた公平性の改善は未知の被験者では逆転した（Fragkiadakis et al., 2026）。
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — ウェアラブルAIは二重に透明であるため、物理的な排除は機能せず、取り締まりは学生の身体を裁定する方向へと漂流する（Corbin et al., 2026）。
+- [[eeg-familiarity-automated-assessment-2026]] — EEGによる熟悉度予測の15モデルは、試行独立な検証の下でF1が0.9853から0.6038へと低下した（Nanayakkara and Halloluwa, 2026）。
+- [[seeing-cognitive-representations-eeg-reconstruction]] — EEGから再構成した画像はテスト成績をR² = 0.79で追跡したが、再構成精度の高い1名の参加者は誤答していた（Su et al., 2026）。
+- [[physiological-signals-exam-outcomes-ml]] — ランダムフォレストはEDA、身体運動、皮膚温から試験成績のカテゴリを予測したが、これらの信号は理解ではなく覚醒を示す指標である（Yamazaki and Rimal, 2026）。
+- [[affective-text-wearable-student-health]] — Ouraを装着した458名の学生では、睡眠と心拍変動に対応していたのは懸念の主題ではなく感情的な語調であった（2026）。
+- [[tutorloop-sensor-cognitive-feedback-2026]] — ウェブカメラの視線が187名の学習者に対する強化学習フィードバックを駆動し、注意は学習とr = 0.017で相関した一方、作業負荷は負の相関を示した（2026）。
+- [[arif-automated-online-proctoring-yolov11-2026]] — YOLOv11の姿勢特徴量は、独自にラベル付けしたデータセットで不審行動を99.56%の精度で検出したが、不正行為や公平性は検証されていない（Arif et al., 2026）。
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — 54名の参加者において、外部の執筆支援が強いほどEEG連結性が低下し、依存を蓄積する認知的負債として位置づけた（Kosmyna et al., 2025）。
+- [[kim-ai-embodied-learning-review-2026]] — 23件の研究を通じて、センシングの役割がタグの62.5%を占めて優勢であり、レビュー対象のシステムのいずれもマルチモーダルストリームをリアルタイムで融合していなかった（Kim and Han, 2026）。

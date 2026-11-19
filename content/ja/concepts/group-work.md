@@ -1,7 +1,7 @@
 ---
 title: グループ学習
 created: "2026-10-10T22:38:13-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,7 @@ ai_assist:
 
 ## AIはグループ学習をどう変えるか
 
-グループ学習におけるAIの研究は、2つの異なる事柄を扱っています。AIがグループの*課題*に何を加えるかと、AIがグループの*過程*に何をするかです。どちらも重要であり、ナレッジベースの知見はその両方にまたがっています。
+グループ学習におけるAIの研究は、2つの異なる事柄を扱っています。AIがグループの*課題*に何を加えるかと、AIがグループの*過程*に何をするかです。どちらも重要であり、知見はその両方にまたがっています。
 
 ### 調整の基盤としてのAI
 
@@ -79,6 +79,7 @@ ai_assist:
 - **論争は集団思考に対抗しうる。** [[genai-counter-learner-groupthink-2025|Wiss et al.(2025)]]は意図的に逆の手を打ちました。学際的な[[problem-based-learning|PBL]]チーム12隊に論争的な視点を注入するようプロンプトされたAIエージェント(CALIE)は、[[critical-thinking|批判的思考]]とポジティブなグループ力学を刺激し、グループ学習が生みがちな同調圧力に対抗しました。Jin et al.との対比は示唆的です——挑戦は、それが意図された設計であるときには助けになり、認知されていない副作用であるときには害になるのです。
 - **中立の調停者という制約。** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]]は、学際チームで暗黙の前提を顕在化させることで学問的境界を調停するAIで、認知的支援と関係的な緩衝の両方として評価されましたが、学生の信頼は荷重を担うものであり、AIが中立の調停者から助言者や挑戦者へ移った瞬間に侵食されました。したがって役割の切り替えは、沈黙したものではなく明示的で構成可能なものである必要があります。
 - **協働自体が教授の対象になりうる。** [[golrang-propact-pair-programming-2026|ProPACT]]は、分析の単位を個人ではなく*ダイアド*——2人組——として扱い、共同注意と努力をモデル化して協働の破綻を最大30秒先まで予測します。先行的フィードバックを受けたダイアドはデバッグの成功率が高く、その後も協働的な[[regulation|規制]]で持続的な伸びを示しました。AIは課題を支えるだけでなく、協働それ自体を教えることができるのです。
+- **関係性を置き換える存在。** 33チームの無作為化実験で、[[nixon-social-cost-ai-teammate-2026|Nixon et al.(2026)]]は、AIチームメイトが最も多くの発言時間を占めながら新しい情報を最も少なくしか加えず、学生同士の応答が減り(応答性 g = −0.78)、所属感の報告も低くなったこと(4.58 対 5.27)を見出しました。AIが発言時間を支配するほど、学生は自分が価値を認められていると感じにくくなりました(r = −0.52)。
 
 ### 効率と自己調整のトレードオフ
 
@@ -135,6 +136,7 @@ ai_assist:
 
 ## 関連記事
 
+- [[nixon-social-cost-ai-teammate-2026]] — AIチームメイトが最も多くの発言時間を占め、人間同士の応答性と帰属感が低下する(Nixon et al. 2026)
 - [[chen-zou-genai-group-assessment-agency-2026]] — 生成AI媒介のグループ評価における学生エージェンシーの3パターン
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — AIがグループに加わるときの創発的学習者エージェンシー:支援的対反対派的ペルソナ
 - [[genai-counter-learner-groupthink-2025]] — PBLチームの集団思考に対抗するため論争を注入するAIエージェント

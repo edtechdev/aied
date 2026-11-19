@@ -170,25 +170,24 @@ GRADE の確実性は非常に低いと評価されました。正直な読み�
 
 ## 関連記事
 
-- [[bespoke-industry-personalized-lecture-videos-2026]] — シード原稿からの業界別パーソナライズ講義動画の再生成。集団水準の調整を領域の専門家が評価（Puech ら 2026）
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — AI 教育アシスタントのプロンプトエンジニアリングによるミクロ・パーソナライズ（Basu, Kakar & Goel 2026）
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know（スタンフォード SCALE/NSSA 報告書）
-- [[mishra-control-vs-agency-history-2025]] — 二つのパーソナライズ形態（均一な到達目標と多様な到達目標）の区別
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: 体系的なレビュー
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — 学習支援のためのエージェントネイティブなパーソナライズ基盤
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — パーソナライズされた e ラーニングのためのオントロジー型階層的ハイブリッド知識モデル
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — 初等分数のためのパーソナライズ適応学習
+- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 61件の研究：75.4%が学習者主導の制御、8.2%がシステム駆動の適応としてコード化（Aybar-Bellido et al., 2026）
+- [[bespoke-industry-personalized-lecture-videos-2026]] — シードとなる文字起こしから業界別にパーソナライズされた講義動画を再生成：聴衆のレベルに合わせた調整を行い、当該領域の専門家が評価（Puech et al. 2026）
+- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — AIティーチングアシスタントのプロンプトエンジニアリングによるマイクロ・パーソナライゼーション（Basu, Kakar & Goel 2026）
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AIチュータリングは一枚岩ではない：私たちが実際に知っていること（Stanford SCALE/NSSAブリーフ）
+- [[mishra-control-vs-agency-history-2025]] — パーソナライゼーションの2つの形態（均一な成果と多様な成果）を区別する
+- [[khalifeh-redefining-personalized-learning-ai-2026]] — パーソナライズド・ラーニングの再定義：システマティックレビュー
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — チュータリングのためのエージェントネイティブなパーソナライゼーション基盤
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — パーソナライズされたeラーニングのためのオントロジーに基づく階層型ハイブリッド知識モデル
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — 小学校の分数学習に向けたパーソナライズされた適応学習
 - [[ai-coaching-rl-skill-development]] — スキル発達のための強化学習コーチング
-- [[personalized-ai-generated-videos-preference-2026]] — 学生はパーソナライズされていない人間録画動画よりもパーソナライズされた AI 生成動画を好む（Tomlinson ら 2026）
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — パーソナライズされた学習経路のためのベイジアン認知診断
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains（2026）
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT を活用した形成的評価における教員と AI の役割
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: パーソナライズされた自動フィードバックにおけるバイアス
-
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — 4 件の研究、大きなプール効果、そして非常に低い確実性
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — 体系的なレビュー: 適応的経路と推薦システムは高等教育における AI 統合の主要な活用事例である
+- [[personalized-ai-generated-videos-preference-2026]] — 学生は、パーソナライズされていない人間収録の動画よりもパーソナライズされたAI生成動画を好む（Tomlinson et al. 2026）
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — パーソナライズされた学習経路のためのベイズ認知診断
+- [[graph-its-adaptive-algorithms-2026]] — 動的ドメインのためのグラフベース知的チュータリング（2026）
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPTで強化された形成的評価における教員とAIの役割
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — 「Marked Pedagogies」：パーソナライズされた自動フィードバックにおけるバイアス
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — システマティックレビュー：適応型学習経路とレコメンダーは高等教育におけるAI統合の主要ユースケースである
 - [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — パーソナライズのパラドックス: 知覚される適応的パーソナライズは、学業上の情動を介して自己調整学習の低下と結びつき、AI リテラシーによって緩衝される（Li, Lin & Qiu 2026）
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM プランナーは 90.9% の妥当性を達成するが、定められた学習者の目標に経路をパーソナライズする際に 44.7% を超える適応度を示すモデルはない（Liu ら 2026）
+- [[student-reception-genai-analogies-computing-2026]] — 欠陥はあるが記憶に残る：コンピューティング教育における興味別にパーソナライズされたGenAIアナロジーに対する学生の批判的受容
+- [[personalization-paradox-adaptive-learning-emotions-2026]] — パーソナライゼーションのパラドックス：知覚された適応的パーソナライゼーションは学業感情を介して自己調整学習の低下と結び付き、AIリテラシーがそれを緩和する（Li, Lin & Qiu 2026）
+- [[personapath-personalized-learning-paths-2026]] — PersonaPath：LLMプランナーは90.9%の妥当性に達するが、明示された学習者目標に合わせて経路をパーソナライズする際、適応性で44.7%を超えるモデルはない（Liu et al. 2026）
+- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — 4件の研究、大きなプール効果量、そして非常に低い確実性

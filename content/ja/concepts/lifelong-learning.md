@@ -34,7 +34,7 @@ ai_assist:
 
 生涯学習とは、生涯にわたる継続的な教育——スキルの高度化、再訓練、[[educational-development|専門的な成長]]、そして正規の学位を超えた非公式の学習——を指します。AIはますますその中心にあります。大人の学習者を支える道具として、そして大人が継続的に更新しなければならない技能を変える力としての両方です。
 
-### 研究に現れる生涯学習
+## 研究に現れる生涯学習
 
 - **大人の学習のための設計指針：** [[ai-adult-learning-guidelines-dis2026|AI-ALOE研究所の研究]] は、AIを活用した大人向け学習技術のための、実証に基づく設計指針を統合し、実践的で文脈に敏感な支援を重視しています。
 - **AIに導かれる技能の習得：** [[ai-guided-learning-audiovideo-2026|AIに導かれる音声・映像学習]] は、AIが技能習得の「消費する—理解する—模倣する」段階にどう足場かけできるか、メディアを学習者に合わせて調整しながら示します。
@@ -46,7 +46,7 @@ ai_assist:
 - **方策とコミュニティ：** [[ai-lifelong-learning-policy|生涯学習方策におけるAI]] と [[community-centered-ai-education-adults|コミュニティ中心のAI教育]] は、大人のAI学習の制度的・公平性の側面を扱います。
 - **専門性の再生そのものが危険にさらされています。** AIへの露出が最も大きい米国の職種では、22〜25歳の労働者は 16% の相対的な雇用の減少（2022年10月〜2025年9月）を経験した一方、35〜49歳は 8% を超える増加を示し、AIの出力を検証するために必要な深い専門性は、減少が取り去る入門レベルの職に依存しています（[[cognitive-commons-ai-expertise-regeneration|Lovett（2026年）]]）。
 
-### つながり
+## つながり
 
 生涯学習は [[adult-learning|大人の学習]] と [[professional-training|専門的な成長]]（その主要な文脈）、[[personalized-learning|個別化された学習]] と [[adaptive-learning|適応的学習]]（それを支えるAIの仕組み）、[[self-regulated-learning|自己調整学習]] と [[metacognition|メタ認知]]（関わる学習者のプロセス）、そして [[equity-in-ai-education|教育におけるAIの公平性]]（生涯にわたるアクセス）につながります。教育者自身が生涯学習者であるとき、[[educational-development|教育開発]] とも交差します。
 

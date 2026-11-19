@@ -1,7 +1,7 @@
 ---
 title: "司書"
 created: "2026-10-10T22:38:07-04:00"
-updated: "2026-11-07T20:30:41-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -11,7 +11,7 @@ institutions: [governance, educational-policy-ai]
 audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/librarians
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]

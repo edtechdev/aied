@@ -115,11 +115,12 @@ UDLは「学習者を直す」を「デザインを直す」に変えます。AI
 
 ## 関連記事
 
-- [[seung-basham-cognitive-offloading-swld-2026]] — 学習障害のある学生の生成的AIによる認知的オフローディング
-- [[authentic-products-authenticated-processes-2026]] — 真正の成果物から真正性が認証されたプロセスへ
-- [[tactile-statistical-graphs-accessibility]] — アクセシビリティのための触覚統計グラフ
-- [[neurodivergent-computing-students]] — 神経多様性のあるコンピューティング学生
-- [[ai-learning-tools-engineering-education-needs]] — ニーズと注意対応型AI学習ツールのデザイン
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成的AI、バーチャルリアリティ、その先へ：高等教育における神経多様性のある学生のためのデジタル支援技術のスコーピングレビュー
-- [[faculty-accessible-course-design-ai-2026]] — 「AIは私が使っていた選択肢を減らしている」：ChatGPTの世界におけるアクセシブルなコースデザインに対する教員の認識の探究
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — クウェートの高等教育機関における人工知能と学びのユニバーサルデザイン：包摂的な教育のためのAI活用枠組みに向けて
+- [[seung-basham-cognitive-offloading-swld-2026]] — 学習障害のある学生のためのGenAIによる認知的オフローディング
+- [[authentic-products-authenticated-processes-2026]] — 真正な成果物から認証されたプロセスへ
+- [[tactile-statistical-graphs-accessibility]] — アクセシビリティのための触覚式統計グラフ
+- [[neurodivergent-computing-students]] — ニューロダイバージェントなコンピューティング専攻の学生
+- [[ai-learning-tools-engineering-education-needs]] — ニーズと注意状態を認識するAI学習ツールの設計
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成AI、仮想現実、そしてその先へ：高等教育におけるニューロダイバージェントな学生のためのデジタル支援技術に関するスコーピングレビュー
+- [[faculty-accessible-course-design-ai-2026]] — 「AIは私が使ってきた選択肢を減らしている」：ChatGPTの世界におけるアクセシブルなコース設計についての教員の認識の探究
+- [[alenezi-ai-universal-design-learning-kuwait-2026]] — クウェートの高等教育機関における人工知能と学習のためのユニバーサルデザイン：インクルーシブ教育のためのAI活用フレームワークに向けて
+- [[mcdonald-inclusive-assessment-genai-2026]] — GenAI時代のインクルーシブな評価設計：教育法と実践の前進

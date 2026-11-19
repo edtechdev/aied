@@ -1,14 +1,14 @@
 ---
 title: 理論と枠組み
 created: "2026-10-10T22:54:32-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_of: concepts/theories-and-frameworks
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -63,13 +63,14 @@ ai_assist:
 
 ## 教授、統合、受容の枠組み
 
-- **[[tpack|TPACK]]** — 技術、教授法、内容を融合させる教師の知識。教師向けAI研究の標準的な枠組みです。
-- **[[technology-acceptance-model|受容モデル]]** — 知覚された有用性と使いやすさの関数としての行動意図。行動ではなく意図への依存が定常的な批判となっているほど、広く使われています。
-- **[[icap-framework|ICAP]]** — 関与を受動的・能動的・構成的・相互作用的に順位づけるもの。[[student-ai-interaction|AIとの相互作用]]が実際にどのモードを可能にするかを問うのに有用です。
-- **[[samr-model|SAMR]]** — 置き換えから再定義まで。成熟の物語として人気があり、測定ツールとしては脆弱です。
-- **[[universal-design-for-learning|ユニバーサルデザインによる学習]]**、**[[inclusive-learning|インクルーシブ学習]]**、**[[accessibility|アクセシビリティ]]** — 誰がサービスを受けるかに関する設計の枠組みであり、障害と[[equity-in-ai-education|公平性]]の仕事で最もよく引き合いに出されるものです。
-- **[[learning-design|学習設計]]**、**[[curriculum-design|カリキュラム設計]]**、**[[design-thinking|デザイン思考]]** — どのツールが選ばれるよりも前に、課題・順序・プログラムがどう構造化されるか。
-- **[[change-management|変革管理]]** — システムがそもそも受け入れられるかどうか。これは通常、教授法的ではなく制度的な問いです。
+- **[[tpack|TPACK]]** — テクノロジー、教授法、内容を融合させる教師の知識であり、教師向けAI研究における標準的な枠組み。
+- **[[technology-acceptance-model|導入モデル]]** — 意図を、知覚された有用性と使いやすさの関数として捉える。この分野が行動ではなく意図に依拠していることが常に批判の対象となるほど、広く用いられている。
+- **期待確認モデル（ECM）** — 満足度を事前の期待の確認として捉え、初期の導入ではなく継続利用を結果とする。学部生24人を対象とした1学期間の社会学研究方法のパイロットでは、87%がCopilotを良いまたは優れていると評価し、91%が他者に勧めるとしたが、使い続ける意向を示したのは57%にとどまった（[[wells-genai-research-assistant-sociology-2026|Wells, 2026]]）。この差こそがモデルの要点である。満足したユーザーでも再び使わないという選択はありうるため、満足度と継続利用は別々に測定する必要がある。
+- **[[icap-framework|ICAP]]** — 関与を受動的、能動的、構成的、相互作用的の順に序列化する。[[student-ai-interaction|AIとのインタラクション]]が実際にどの様式を可能にしているかを問う際に有用である。
+- **[[samr-model|SAMR]]** — 代替から再定義まで。成熟度の物語としては人気があるが、測定器具としては弱い。
+- **[[universal-design-for-learning|学習のためのユニバーサルデザイン]]**、**[[inclusive-learning|インクルーシブ学習]]**、**[[accessibility|アクセシビリティ]]** — 誰が支援の対象となるかを定める設計の枠組みであり、障害や[[equity-in-ai-education|公平性]]に関する研究で最も頻繁に持ち出されるものである。
+- **[[learning-design|学習設計]]**、**[[curriculum-design|カリキュラム設計]]**、**[[design-thinking|デザイン思考]]** — ツールが選ばれる前に、課題、順序、プログラムをどのように構造化するか。
+- **[[change-management|チェンジマネジメント]]** — システムがそもそも採用されるかどうかであり、通常は教授法の問題ではなく組織の問題である。
 
 ## 測定と計算モデル
 
@@ -141,15 +142,17 @@ ai_assist:
 - [[research-methods-aied]] — 理論がどう検証されるか
 
 ## 関連記事
-- [[genai-chatbots-language-learning-affordances-review-2026]] — アフォーダンスの分類法における4つ目のカテゴリとして提案された感情的アフォーダンス
-- [[ai-game-based-learning-systematic-review-2026]] — メカニズムと理論の整合性が、アルゴリズムの洗練さではなく、55のAIゲーム型学習研究の効果を決めた
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — AI×Ed枠組みを通じた40年のAIED
-- [[educating-minds-generative-ai-2026]] — 生成AIと学習の理論豊富な総合
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — 教師の専門的成長に応用された活動理論
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — 活動理論と教師の受容
-- [[generativism-learning-theory]] — 生成AI時代のために提案された学習理論
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 認識的共働性の理論へ
-- [[absent-cognitive-baseline-2026]] — AIネイティブの学生の自己評価における構造的空白の理論化
-- [[yan-agentivism-learning-theory-ai-2026]] — 人間とAIの相互作用のための中範囲学習理論
-- [[ai-literacy-instrument-development-systematic-review-2026]] — 若い構成概念にわたる測定ツール開発
-- [[mishra-control-vs-agency-history-2025]] — この分野の基礎となる統制対エージェンシーの緊張
+
+- [[genai-chatbots-language-learning-affordances-review-2026]] — アフォーダンス分類体系の第4のカテゴリーとして情動的アフォーダンスを提案。
+- [[ai-game-based-learning-systematic-review-2026]] — 55件のAIゲームベース学習研究において、効果を左右したのはアルゴリズムの高度さではなく、メカニズムと理論の整合性であった。
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — AI×Edフレームワークを通じてAIEDの40年を捉える。
+- [[educating-minds-generative-ai-2026]] — 生成AIと学習に関する理論重視の統合的検討。
+- [[activity-theory-teacher-pd-ai-agent-design-2026]] — 活動理論を教員の専門性開発に適用。
+- [[activity-theory-teachers-adoption-ai-sem-2026]] — 活動理論と教員による導入。
+- [[generativism-learning-theory]] — 生成AI時代に向けて提案された学習理論。
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 認識的協働エージェンシーの理論に向けて。
+- [[absent-cognitive-baseline-2026]] — AIネイティブな学生の自己評価における構造的ギャップの理論化。
+- [[yan-agentivism-learning-theory-ai-2026]] — 人間とAIの相互作用のための中範囲学習理論。
+- [[ai-literacy-instrument-development-systematic-review-2026]] — 新しい構成概念をめぐる測定尺度の開発。
+- [[mishra-control-vs-agency-history-2025]] — 本分野の根底にある制御対エージェンシーの緊張関係。
+- [[wells-genai-research-assistant-sociology-2026]] — 学部社会学研究方法論における研究アシスタントとしての生成AIの役割の探究。

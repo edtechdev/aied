@@ -39,7 +39,7 @@ ai_assist:
 
 教育におけるウェルビーイングは多面的です。感情的ウェルビーイング（肯定的な感情、低い苦痛）、心理的ウェルビーイング（目的、自律性、力量）、社会的ウェルビーイング（所属感、肯定的な関係）を含みます。AI時代には、AIがこれらの次元に影響する仕方で学習を再形成しうるため、ウェルビーイングが重要です——学生の自信を下げ[[academic-integrity|学術的誠実性]]についての不安を高めることから、[[student-engagement|関与]]と所属感を育むか損なうかまで。AIが学生の社会情緒的スキル、ウェルビーイング、社交性、信頼と共感の感覚に与える影響についての懸念（OECDらによって提起された）は、ウェルビーイングを責任あるAI統合における重要な考慮事項として位置づけました。
 
-### 研究におけるウェルビーイングの現れ
+## 研究におけるウェルビーイングの現れ
 
 - **[[ai-literacy|AIリテラシー]]と社会情緒的学習：** [[sec-ai-literacy-narrative-review-2026|SECをAIリテラシーに統合する研究]]は、教育者と学生の感情的知性とウェルビーイングを育むことが、AI[[sociocultural-learning|媒介]]学習環境を航走するために不可欠だと論じ、[[social-emotional-learning|社会情緒的学習]]とAIの感情的次元に接続します。
 
@@ -69,13 +69,13 @@ ai_assist:
 
 **社会感情的なエビデンス基盤は、誰が行為すべきかを語っていません。** AI と[[social-emotional-learning|社会感情学習]]の交差点における 65 研究の[[meta-analysis-systematic-review|系統的レビュー]]は、4 分の 3 近くが政策上の含意にまったく言及しておらず、言及した少数も、プライバシー、[[teacher-education|教員養成]]、資源配分について行為者特有の指針をほとんど示していませんでした（[[policy-deficit-ai-sel-2026|Tran, Liu and Nguyen (2026)]]）。したがって設計上の考慮事項としてのウェルビーイングは、効果についての証拠を持ち、責任についての証拠をほとんど持ちません。誰がそのために設計するかという問いは、文献ではなく機関に残されているのです。
 
-### 設計上の考慮事項としてのウェルビーイング
+## 設計上の考慮事項としてのウェルビーイング
 
 繰り返し現れるテーマは、ウェルビーイングがAI教育における意図的な設計上の考慮事項であるべきであり、後回しにしてはならないということです。それは次を意味します。人間の関係を支えるAIを設計し、置き換えるAIではないこと。学生が[[anxiety-and-stress|AIによって引き起こされる不安]]や過度な依存を経験するのではなく、主体性と自信を維持できるようにすること。AIを統合する中で教育者の能力とウェルビーイングを支えること。そしてAIシステムを[[learning-gains|学習成果]]だけでなく、学生と教師のウェルビーイングへの影響についても[[ai-ed-evaluation|評価]]することです。[[research-methods-aied|研究]]はウェルビーイングを[[motivation|動機づけ]]、[[self-regulated-learning|自己調整学習]]、[[student-experience|学生体験]]（所属感と関与）に接続します。[[daoism-ai-education-philosophy-2026|Xie（2026）]]は、対応する教育学的な目的を主張します。道家の「真人」という対抗的な理想は、摩擦のない最適化を「涵養された全体性」で置き換え、自己・社会・宇宙の調和的な統合としての学習を再想像し、「学生は管理される単なるデータセットではなく、平静を達成できる全体の存在である」と主張します。
 
 概念的な再枠組みは、[[self-regulated-learning|感情調節]]の支援を感情の検出だけではなく身体的活動とキャンパスの生態に接地します。単一の表現的な経路は文脈なしでは苦痛を特定できないため、AIは運動を通じて調節を支援すべきで、教師とカウンセラーが解釈を保ち、影響の監視は出席や評点に結びついた瞬間に強制的になります（[[ai-emotion-regulation-sport-exercise-2026|Zhangら（2026）]]）。
 
-### 関連概念との接続
+## 関連概念との接続
 
 ウェルビーイングは、[[student-experience|学生体験]]（学習者の全体的な経験の次元として）、[[social-emotional-learning|社会情緒的学習]]と[[affective-computing|感情的コンピューティング]]（AIが交差する感情的な力量）、[[ethics|倫理]]（中核的な倫理的考慮事項として）、[[motivation|動機づけ]]と[[self-regulated-learning|自己調整学習]]（ウェルビーイングはこれらを支え、支えられる）、[[teacher-ai-competency|教師のAI力量]]（教育者の能力とウェルビーイング）、そしてAIがウェルビーイングを形作る場としての[[higher-ed|高等教育]]と[[k-12|K-12]]に接続します。
 
@@ -104,27 +104,30 @@ ai_assist:
 - [[student-support-and-success]] — 指導、働きかけ、紹介にわたるキャンパス支援サービス
 
 ## 関連記事
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 819人の学生がチャットボットを高く評価し、人間のつながりの喪失を最も恐れました
 
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 生物学的な信号としての摩擦、意味、孤独
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI不安と学業的な動機づけの関係
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — AI支援の日本語学習における心理的適応のプロファイルと移行
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — 会話型AIへの関与と依存の批判的な物語的総合
-- [[mindful-llm-math-tutoring-2026]] — 問題解決を超えて：数学学習における感情的・省察的支援のための大規模言語モデル
-- [[sec-ai-literacy-narrative-review-2026]] — AIリテラシーへの社会情緒的な力量の統合
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — 学生の生成的AIへの関与（SDT）
-- [[teacher-education-ai-literacy-sdt-2026]] — AIリテラシーのための教師教育（SDT）
-- [[genai-motivation-engagement-2026]] — 生成的AI、動機づけ、関与
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AIチャットボット、集合的有効感、協働
+- [[kayali-ai-literacy-tpack-wellbeing-2026]] — 教師350名:AI-TCKは職務満足感を高める一方、AI-TKは低下させ、満足感がウェルビーイングへの唯一の経路である(Kayalı et al., 2026)。
+- [[ai-chatbots-emotional-support-human-connection-2025]] — 学生819名はチャットボットを高く評価し、人間同士のつながりの喪失を最も恐れた。
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 摩擦、意味、そして生物学的シグナルとしての孤独。
+- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI不安と学業動機の関係。
+- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — AI支援型日本語学習における心理的適応のプロファイルと推移。
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — 対話型AIへのエンゲージメントと依存に関する批判的ナラティブ統合。
+- [[mindful-llm-math-tutoring-2026]] — 問題解決を超えて:数学学習における情動的・内省的支援のための大規模言語モデル。
+- [[sec-ai-literacy-narrative-review-2026]] — 社会情動的コンピテンシーをAIリテラシーに統合する。
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — 学生のGenAIへのエンゲージメント(SDT)。
+- [[teacher-education-ai-literacy-sdt-2026]] — AIリテラシーのための教員教育(SDT)。
+- [[genai-motivation-engagement-2026]] — 生成AI、動機、エンゲージメント。
+- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AIチャットボット、集団効力感、協働。
 - [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate：学生の不安のLLM支援評価（2026）
-- [[policy-deficit-ai-sel-2026]] — AI × SEL研究における政策の欠如
-- [[culturally-aware-student-stress-chatbot-2026]] — NLPと機械学習を用いたパキスタンの大学生のためのAI支援の文化対応ストレス検出とウェルネス支援チャットボット
-- [[daoism-ai-education-philosophy-2026]] — 代替的なAI哲学：AI教育の方法としての道家
-- [[ai-emotional-intelligence-teacher-development-2026]] — AI支援の教師開発の基準としての関係の稠密化
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — 自己申告の緊張と共存する高いAIコース承認、そして適応を弱める課題圧力
-- [[ai-connectedness-adolescent-mental-health-2026]] — AIのつながりと青年の精神的健康：補足的対補償的な絆、逆U字の予測とともに
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 知覚されたAIアシスタントの知性、目標の進展、精神的健康、調整変数としてのAIリテラシー
-- [[ai-emotion-regulation-sport-exercise-2026]] — スポーツ、運動、キャンパスの生態を通じたAI支援の感情調節の概念的再枠組み
-- [[faculty-ai-well-being-social-supports-2026]] — 教員のAIウェルビーイングの構造方程式モデル：自己効力感を上回るAIリテラシー
-- [[mulvenon-test-anxiety-ai-accountability-2026]] — 試験不安は取り除かれるのではなく再分配されます
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate:LLMで拡張した学生不安のアセスメント(2026)。
+- [[policy-deficit-ai-sel-2026]] — AI×SEL研究における政策の欠落。
+- [[culturally-aware-student-stress-chatbot-2026]] — NLPと機械学習を用い、パキスタンの大学生のストレス検出とウェルネス支援を行うAI駆動の文化認識型チャットボット。
+- [[daoism-ai-education-philosophy-2026]] — 代替的なAI哲学:教育におけるAIの方法としての道家思想。
+- [[ai-emotional-intelligence-teacher-development-2026]] — AI支援による教員発達の基準としての関係の高密度化。
+- [[ai-enabled-course-development-first-year-adjustment-2026]] — AIコースへの高い評価と自己報告された負荷感が併存し、課題の圧力が適応を弱める。
+- [[ai-connectedness-adolescent-mental-health-2026]] — AIとのつながりと青年期のメンタルヘルス:補足的な絆と代償的な絆、そして逆U字型の予測。
+- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 知覚されたAIアシスタントの知能、目標の進捗、メンタルヘルス、そして調整変数としてのAIリテラシー。
+- [[ai-emotion-regulation-sport-exercise-2026]] — スポーツ、運動、キャンパスのエコロジーを通じたAI支援型感情調整の概念的再構成。
+- [[faculty-ai-well-being-social-supports-2026]] — 教員のAIウェルビーイングの構造方程式モデル:AIリテラシーが自己効力感を上回る。
+- [[mulvenon-test-anxiety-ai-accountability-2026]] — テスト不安は除去されるのではなく、再分配される。
+- [[fang-chatbot-psychosocial-extended-use-2025]] — 4週間、9条件、有意な成果への効果なし、自発的な利用時間が害と連動した(Fang et al. 2025)。
+- [[folk-dunn-chatbot-companionship-loneliness-2026]] — 12か月、4波:利用は単一項目の孤立を予測し、孤独は両方で利用を予測した(Folk & Dunn 2026)。

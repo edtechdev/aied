@@ -1,13 +1,13 @@
 ---
 title: 心理測定論を意識したAI
 created: "2026-10-10T22:45:39-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 
 AIシステムがますます多く応答の採点、困難度の予測、[[feedback|フィードバック]]の提供を行うようになる中で、重大なリスクは、それらが測定原理に対して検証されていないまま、確信に満ちた印象の出力を報告することです。心理測定論を意識したAIは、この問題に、AIによる[[assessment|アセスメント]]を確立された心理測定に基礎づけることで対処します。出力を較正し、不確実性を定量化し、生の正答率や[[self-report-measures|自己申告]]の確信度に頼るのではなく、[[assessment-validity|アセスメントの妥当性]]と[[educational-measurement|教育測定]]の基準を保つのです。
 
-### 心理測定論を意識したAIが研究に現れる仕方
+## 心理測定論を意識したAIが研究に現れる仕方
 
 - **較正と確信度:** [[automated-assessment|不確実性を意識したアセスメント]]と[[llm-psychometric-calibration-cdp|LLMの心理測定的較正]]は、AIが過剰に自信的な点推定ではなく、意味があり不確実性を認識するスコアを報告することを保証します。
 - **モデルの確信度では不十分です。** SciEntsBankにおいて、言語化された確信度、潜在的な確信度、整合性に基づく確信度は、いずれも正答と誤答の短い答えを区別できませんでした。最良の較正は、埋め込み応答のクラスタ内エントロピーであるデータセット由来のアレアトリック不確実性を加えることで得られ、ランダムフォレストとプラッティング（Platt scaling）を通じて選択的な自動採点と[[human-in-the-loop-ai|人間による見直し]]を可能にしました（[[cong-confidence-asag-2026|Cong et al.（2026年）]]）。
@@ -48,7 +48,7 @@ AIシステムがますます多く応答の採点、困難度の予測、[[feed
 - **潜在能力推定のパイプラインと標準設定:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al.（2026年）]]は、国家的な試験における心理測定論を意識した採点の具体的な手本を提供しています。ルーブリックの項目スコアは直接合計されることはなく、[[item-response-theory|IRT]]モデルに入力され、その潜在能力の推定値はブックマーク標準設定法によって「熟達／熟達に近い／不十分」にカットされます。合格には少なくとも2つの領域が「熟達」、残る1つが少なくとも「熟達に近い」ことが必要です。著者らはそのパイプラインを自動化された形で再現しました（下側のカットでは少なくとも7つのルーブリック項目に正答する確率67%、上側では少なくとも10つで67%）。これにより、AIと人間の項目スコアを生の一致率ではなく、同一の判定基準に照らして比較できるようにしています。
 - **モデルは、主に一つのラベルを予測しながら較正されているように見えることがあります。** GPT-4oとGemini 2.0 Flashに153人の学部生の対話から学習スタイルの次元を推論させると、中程度の正確さが得られましたが、クラスごとの再現率はそれが支配ラベルの予測であることを示しました。直観型と全体型の学習者は過小に同定され、少数事例[[prompt-engineering|プロンプティング]]はバイアスを除くどころか増幅することがありました（[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard、Goudarzi、Robb（2026）]]）。
 
-### つながり
+## つながり
 
 心理測定論を意識したAIは、[[educational-measurement|教育測定]]、[[assessment-validity|アセスメントの妥当性]]、[[item-response-theory|項目反応理論]]、そして[[automated-assessment|不確実性を意識したAIアセスメント]]の交差点に位置します。[[ai-ed-evaluation|AI教育の評価]]（AIアセスメントが信頼できるかどうか）にとって中心的なものであり、[[llm]]に基づく[[automated-assessment|自動アセスメント]]と[[automated-assessment|自動採点]]につながります。妥当性の重視は、[[ai-education|AIED]]研究の[[limitations-in-aied-research|測定上の限界]]にも関わります。
 

@@ -1,13 +1,13 @@
 ---
 title: 認知心理学
 created: "2026-10-10T22:31:16-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -72,10 +72,12 @@ Mayerのマルチメディア学習の認知的理論（CTML）は、同じ作�
 
 ## 設計と研究への含意
 
-1. **成績ではなく内面化に向けて設計する。** 認知主義的なAIEDは、学習者が知識を*道具なしで*検索し応用できるかどうかで評価されるべきです。補助された成績ではありません。これは[[ai-misuse-learning-harm|成績–学習ギャップ]]であり、補助なしの[[transfer-of-learning|転移]]を測定することの根拠です。
-2. **学習者を表現せよ、ただ応答するな。** AIの対話に構造化された[[student-modeling|学習者モデリング]]と[[knowledge-tracing|知識追跡]]を結びつけ、流暢だが無思慮に応答するのではなく、推論された知識に適応するようにしましょう。（[[educlaw-bench-pedagogical-llm-agents-2026]]）
+1. **成績だけではなく内面化に向けて設計する。** 認知主義的なAIEDは、学習者が知識を*道具なしで*検索し応用できるかどうかで評価されるべきです。補助された成績ではありません。これは[[ai-misuse-learning-harm|成績–学習ギャップ]]であり、補助なしの[[transfer-of-learning|転移]]を測定することの根拠です。
+2. **学習者を表現せよ、ただ応答するな。** AIの対話に構造化された[[student-modeling|学習者モデリング]]と[[knowledge-tracing|知識追跡]]を結びつけ、流暢だが無思慮に応答するのではなく、推論された知識に適応するようにしましょう。（[[educlaw-bench-pedagogical-llm-agents-2026|Lee et al., 2026]]）
 3. **作業記憶の限界を尊重する。** 認知負荷理論をAIのUXに適用しましょう。外発的負荷（摩擦、過負荷のインターフェース）を減らしつつ、すべての認知的負荷を最小化するのではなく、生成的な処理（[[desirable-difficulties|生産的なもがき苦しみ]]、検索練習）を保つのです。
 4. **メタ認知を較正する。** [[metacognition|メタ認知]]は学習者がいつオフロードするかを選ぶことを支配するため、較正の教授（自分が補助なしに実際に何ができるかを知ること）は、過度の依存への認知主義的な答えです（[[cognitive-offloading|認知的オフローディング]]を参照）。
+
+発達は別個の問題です。これらの機制は安定したものとして扱われますが、[[developmental-psychology|発達心理学]]は、それらが年齢とともにどのように変化し、それが年齢帯別のAI利用にとって何を意味するのかを問います。
 
 ## よくある誤解
 
@@ -97,6 +99,8 @@ Mayerのマルチメディア学習の認知的理論（CTML）は、同じ作�
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[item-response-theory]]
+- [[developmental-psychology]]
+- [[longitudinal-research]]
 - [[distributed-cognition]]
 - [[icap-framework]]
 - [[transfer-of-learning]]

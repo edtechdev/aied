@@ -129,33 +129,29 @@ AI の支援チャネルが何を置き換えるかも、同じように勘定�
 
 ## 関連する記事
 
-- [[cefa-ai-learner-support-review-2026]] — AI を活用した学習者支援に関する 61 研究のレビュー: 適応システムと予測が支配し、移行段階と多様な学習者は不在
-
-- [[mata-sustaining-ai-enabled-student-support-2026]] — 大学の支援チャットボットに関する4年間のランダム化評価。課題の完了は動き、卒業とGPAは動かなかった
-- [[chatbot-outreach-course-performance-2026]] — 事前登録済みの複数学期にわたる働きかけの試験。A/B率は上昇、DFWの変化は控えめ、人口統計上の例外が1つ
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500件の合成ビネット。支援の推奨における学生の必要度への感度の低さと、モデル間の非一貫性
-- [[sc2r-counterfactual-recourse-educational-2026]] — 実行可能性の隔たり。リコースはモデルとして妥当であるだけでなく、実行可能で検証可能でなければならない
-- [[fairness-theatre-early-warning-systems-2026]] — 168,550件の記録から構築されたベンダーの早期警戒システムに対する6つの事後的公平性介入
-- [[at-risk-students-ml-prediction]] — 退学前の学生を特定する教師あり分類器
-- [[predicting-attrition-competitive-programming]] — 行動ログと心理学的調査による離脱予測
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — 生の学生データを共有せず制度横断で行う連合型リスクモデリング
-- [[precision-education-student-digital-twins-2026]] — デジタルツインと「予防的な学生の成功」という構想
-- [[learning-analytics-to-educational-interventions-2026]] — アナリティクスから介入への接続を閉じる7つの実現要因
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — 助けを求めるコストを下げることを目指した科目固有のアシスタント
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — 学習とは別に検証されたチューターの利用
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 推奨される学習オブジェクトに対応付けられた6つの行動プロファイル
-- [[trace-course-grade-prediction-2026]] — 計画のための科目と成績の同時予測
+- [[cefa-ai-learner-support-review-2026]] — AIを活用した学習者支援に関する61本の研究レビュー：適応型システムと予測が主流で、移行期と多様な学習者が欠落している
+- [[mata-sustaining-ai-enabled-student-support-2026]] — 大学支援チャットボットの4年間にわたるランダム化評価：課題完了は変化したものの、卒業とGPAは変化しなかった
+- [[chatbot-outreach-course-performance-2026]] — 事前登録された複数学期のアウトリーチ試験：A/B率の上昇、DFWの小幅な変化、1つの人口統計集団における例外
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500件の合成ヴィネット：学生のニーズに対する感度の低さと、支援推奨におけるモデル間の不一致
+- [[sc2r-counterfactual-recourse-educational-2026]] — 実行可能性のギャップ：リコースは単にモデル上有効であるだけでなく、実行可能で検証可能でなければならない
+- [[fairness-theatre-early-warning-systems-2026]] — 168,550件の記録から構築されたベンダー製早期警告システムに対する6つの事後公平性介入
+- [[at-risk-students-ml-prediction]] — 退学前に学生を特定する教師あり分類器
+- [[predicting-attrition-competitive-programming]] — 行動ログと心理特性調査を組み合わせた中途脱落の予測
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — 生の学生データを共有せずに機関横断で行う連合学習によるリスクモデリング
+- [[precision-education-student-digital-twins-2026]] — デジタルツインと「予防的な学生サクセス」というビジョン
+- [[learning-analytics-to-educational-interventions-2026]] — 分析から介入へのループを閉じるための7つの促進要因
+- [[course-specific-rag-help-seeking-higher-ed-2026]] — 助けを求めるコストの低減を狙った科目特化型アシスタント
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — 学習効果とは切り離して個別に検証されたチュータリングの利用
+- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 推奨される学習オブジェクトに対応づけられた6つの行動プロファイル
+- [[trace-course-grade-prediction-2026]] — 履修計画のための科目と成績の同時予測
 - [[zhang-ml-student-progress-programming-2026]] — 解釈可能なモジュール単位の進捗予測
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 高等教育におけるAI、リーダーシップ、サービス提供に関する155件の研究
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — 教育リーダーシップにおけるAIの10領域の分類
-- [[students-at-stake-ai-deployment-risks-2026]] — 学生側のリスクの広がり。入試と経済援助、学生支援サービス、そして教育
-- [[ai-campus-wellbeing-tools]] — 予防と介入にまたがるキャンパスのウェルビーイング支援
-- [[coursegraph-cs-course-comparison-2026]] — 編入単位認定と流動性のための科目の同等性
-
-- [[shastry-gray-empathy-offloading-2026]] — 共感のオフロードに関する 4 研究: AI が感情的な支援を供給できると信じることが、人が自ら供給する量を下げる（Shastry & Gray 2026）
-
-- [[credentials-carry-evidence-ai-agents-2026]] — エージェントが作業を行えるとき、修了記録が意味するもの
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar（2026）— AI支援のカンニングリスクの早期予測と、低リスクの働きかけのためのしきい値のトレードオフ
-
-- [[rienties-institutional-ai-assistant-co-design-2026]] — 学内 AI 学習アシスタントの 5 つの共同設計研究: 可用性が第一、価値観に基づく抵抗が最後
-
+- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 高等教育におけるAI、リーダーシップ、サービス提供に関する155本の研究
+- [[sposato-ai-educational-leadership-taxonomy-2025]] — 教育リーダーシップにおけるAIの10領域からなる分類体系
+- [[students-at-stake-ai-deployment-risks-2026]] — 学生側のリスク領域：入試と経済支援、学生サクセスサービス、そして授業
+- [[ai-campus-wellbeing-tools]] — 予防から介入までをカバーするキャンパスのウェルビーイング支援
+- [[shastry-gray-empathy-offloading-2026]] — 共感のオフローディングに関する4つの研究：AIが情緒的支援を提供できると信じることで、人自身が提供する共感が減る (Shastry & Gray 2026)
+- [[coursegraph-cs-course-comparison-2026]] — 単位互換と学生移動のための科目の同等性
+- [[credentials-carry-evidence-ai-agents-2026]] — エージェントが作業をこなせる時代に、修了記録は何を意味するのか
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — AI支援による不正行為のリスクを早期に予測することと、低ステークスのアウトリーチにおける閾値のトレードオフ
+- [[rienties-institutional-ai-assistant-co-design-2026]] — 機関のAI学習アシスタントに関する5つのコデザイン研究：まず利用可能性、最後に価値観に基づく抵抗
+- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — クエリから会話へ：工学教育におけるAIベースの仮想アシスタントの導入、ユーザビリティ、影響の探究

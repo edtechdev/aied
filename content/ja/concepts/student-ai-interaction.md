@@ -81,10 +81,10 @@ Bernstein と Sibia (2026) は、CS2 の学生が GenAI の説明をどう扱う
 
 ## 学生と AI のチャットにおける学問と認知的関与
 
-- **学生と AI のチャットにおける学問に結びついた認知的関与。** Chang と Li (2026) は、個人内・学際的なデザインで 116 コースにわたる学生の AI へのプロンプトを分析し、学生と AI の会話が固定された個人の相互作用スタイルではなく、**学問に結びついた**認知的関与を反映することを示します。全体としておよそ 62% のプロンプトが高次の認知的負荷を符号化していましたが、ブルームレベルの分布は学問分野によって鋭く異なっていました——[[stem-education|STEM]]のコースは「適用」優勢（20.8%）のプロンプトを、言語のコースは「理解」優勢（31.7%）を、社会科学のコースは「創造」優勢（33.8%）を引き出しました。個人内での対比較は、同じ学生が社会科学のコースで STEM のコースよりも有意に多くの高次プロンプトを生み出したことを確証しました（プールされた n = 16、p < .001）、そしてコースレベルの変動が学生レベルの変動を上回りました——これは AI の教育アシスタントを学問の文脈を念頭に置いて設計・評価すべきだとする強い論拠です。
-- **学生が AI をどれだけ使うかは、それをどう感じるかを予測しなかった。** 819 名の学生の間で、性別、自己評定の AI 習熟度、利用頻度はいずれも MANOVA で有意に達しませんでした（Wilks' Lambda 0.997、p = 0.551、0.990、p = 0.295）。その標本では、重い利用者と軽い利用者が同じ見解を持っていました（[[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]）。
-
-- **「学生は採点者の評点を動かせない。」** 動かせますし、この一連の検査で最も根強い失敗です。**22 モデル中 17** が、再検討の依頼よりも、根拠のない異議を唱えた後のほうが評点を大きく上げ、ゲーミングと白紙回答のすべてのチェックに合格していた **8 つのうち 6 つ**も同様でした。最大は Llama 3.2 3B で**尺度の +33.2%**、そして再検討の依頼自体が 17 のうち**10** で評点を下げたため、この対比は異議の素の効果ではありません。[[porcaro-ai-grading-benchmark-2026|学生が異議を唱えられる評点には、やり取りの記録が必要です]]。
+- **学生とAIのチャットにおける学問分野に結びついた認知的エンゲージメント。** Chang and Li（2026）は、116コースにわたる学生のAIへのプロンプトを、個人内・分野横断のデザインで分析し、学生とAIの会話が固定的な個人のやり取りスタイルではなく**学問分野に結びついた**認知的エンゲージメントを反映していることを示した。全体ではプロンプトの約62%が高次の認知的要求を含んでいたが、Bloomのレベル別プロファイルは分野によって大きく異なり、[[stem-education|STEM]]系コースでは「適用」が優勢なプロンプト（20.8%）、言語系コースでは「理解」が優勢（31.7%）、社会科学系コースでは「創造」が優勢（33.8%）であった。個人内の対応比較により、同一の学生がSTEM系コースよりも社会科学系コースで有意に多くの高次プロンプトを生成していることが確認され（合算 n = 16、p < .001）、さらにコース水準の変動が学生水準の変動を上回った。これは、AIティーチングアシスタントを学問分野の文脈を踏まえて設計・評価すべきだという強い論拠となる。
+- **利用は、作業が問題形式をとる領域に集中する。** 米国の5大学で991人の学生を対象とした追試では、学生は自然科学系コースの88%でAIを利用していると報告したのに対し、人文学系では52%、社会科学系では36%であり、最も一般的な用途は執筆に代わって学習となっていた（[[burke-ai-proliferation-college-students-replication-2026|Burke et al., 2026]]）。
+- **学生がAIをどれくらい使うかは、AIについてどう感じるかを予測しなかった。** 819人の学生において、性別、自己評価によるAIの習熟度、利用頻度はいずれもMANOVAで有意にならなかった（Wilks' Lambda 0.997、p = 0.551、0.990、p = 0.295）。この標本では、利用の多い学生と少ない学生が同じ見解を抱いていた（[[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]）。
+- **「学生は採点者の評点を動かせない。」** 動かせる。しかもこれは本テスト群で最も根強く残る失敗である。**22モデル中17**が、再検討の依頼よりも単なる異議申し立ての後に評点をより大きく引き上げており、その中にはゲーミングと白紙回答のチェックをすべて通過した**8モデル中6**も含まれる。最大はLlama 3.2 3Bの**尺度の+33.2%**であり、再検討の依頼そのものが17モデル中**10**で評点を下げていたため、この対比は異議申し立て単体の効果によるものではない。[[porcaro-ai-grading-benchmark-2026|学生が異議を唱えうる評点には、やり取りの記録が必要である]]。
 
 ## よくある誤解
 
@@ -107,25 +107,27 @@ Bernstein と Sibia (2026) は、CS2 の学生が GenAI の説明をどう扱う
 - [[ai-literacy]]
 
 ## 関連記事
-- [[ai-chatbots-emotional-support-human-connection-2025]] — 利用頻度と自己評定の習熟度は、819 名の学生の間で何も予測しなかった
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — 教師の監督のない学生—GenAI の評価における認知的アウトソーシング対再配分（Yan et al. 2026）
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 「これは罠ですか？」：評価における学生教師の GenAI 非採用（Zou et al. 2026）
+
+- [[ai-chatbots-emotional-support-human-connection-2025]] — 819名の学生において、利用頻度と自己評価の習熟度はいずれも何も予測しなかった
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — 監督のない学生–GenAI評価課題における認知的アウトソーシングと再配分の対比 (Yan et al. 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 「これは罠なのか？」：評価課題における教職課程学生のGenAI不使用 (Zou et al. 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — 学生と AI の相互作用における問いの型の分析
-- [[student-llm-interaction-taxonomy-review-2026]] — 学生—LLM 相互作用分類法レビュー
-- [[teacher-authored-prompts-student-ai-dialogue]] — 学生と AI の対話における教師作成のプロンプト
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — 認識論的な AI リテラシーの構築
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA)：CS2 における LLM 統合
-- [[li-dbagent-llm-educational-agent-cs-2026]] — CS 教育における LLM ベースの教育エージェント（DBagent）
-- [[isaza-chatgpt-engineering-prompting-2026]] — 記録されたプロンプト付けと統合の行動
+- [[student-ai-inquiry-types-cs2-2026]] — 学生とAIの相互作用における問いかけの類型の分析
+- [[student-llm-interaction-taxonomy-review-2026]] — 学生–LLM相互作用タクソノミーのレビュー
+- [[teacher-authored-prompts-student-ai-dialogue]] — 学生とAIの対話における教師作成プロンプト
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — 認識論的AIリテラシーの構築
+- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA)：CS2におけるLLMの統合
+- [[li-dbagent-llm-educational-agent-cs-2026]] — CS教育におけるLLMベースの教育エージェント (DBagent)
+- [[isaza-chatgpt-engineering-prompting-2026]] — ログに記録されたプロンプト入力と統合の行動
 - [[breideband-community-builder-cobi-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — 欠陥はあるが記憶に残る：コンピューティング教育における興味に即してパーソナライズされた GenAI の類推に対する学生の批判的な受け止め
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — 回避、オフロード、それとも足場かけか：大規模言語モデルが学習を形作る仕方の概念的モデル
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — AI の個別指導が話すとき：無作為化フィールド実験からのエビデンス
-- [[context-prompts-physics-assignments-2026]] — 文脈プロンプトを用いた AI 駆動の物理学の課題
-- [[three-pathways-student-ai-interaction-2026]] — 学生と AI の相互作用の三つの経路の類型：46% 受動的レビュー、18% 直接的な問い、36% 戦略的な対話
-
-- [[porcaro-ai-grading-benchmark-2026]] — 一致を超えて: 正解が既知のプローブに 22 のプロンプト済み採点者が挑み、その大半は言いくるめられて評点を上げる（Porcaro 2026）
-
+- [[student-reception-genai-analogies-computing-2026]] — 不正確だが記憶に残る：コンピューティング教育における興味に応じてパーソナライズされたGenAIアナロジーに対する学生の批判的受容
+- [[naim-bypass-offload-scaffold-llm-learning-2026]] — バイパス、オフロード、それともスキャフォールド：大規模言語モデルが学習を形づくる仕組みの概念モデル
+- [[ai-tutor-modality-randomized-field-experiment-2026]] — AIチューターが話すとき：ランダム化フィールド実験からの証拠
+- [[context-prompts-physics-assignments-2026]] — コンテキストプロンプトを用いた人工知能駆動の物理課題
+- [[three-pathways-student-ai-interaction-2026]] — 学生–AI相互作用のThree Pathways類型：受動的レビュー46%、直接的質問18%、戦略的対話36%
+- [[porcaro-ai-grading-benchmark-2026]] — 一致率の先へ：正解が既知のプローブに22種のプロンプト採点者が挑み、その多くは説得によって評価を引き上げられる (Porcaro 2026)
+- [[shen-ai-skill-formation-2026]] — 6つのAI相互作用パターン、補助なしのクイズでは86%から24%まで低下 (Shen & Tamkin 2026)
+- [[cs-students-llm-conceptualizations-prompting-2026]] — 彼らは誰（何）にプロンプトを与えているのか？ CS学生はLLMをどう概念化し、どう使っているか
+- [[burke-ai-proliferation-college-students-replication-2026]] — 学部生991名：科目領域別の利用（自然科学88%、人文科学52%、社会科学36%）と、最上位の用途は学習

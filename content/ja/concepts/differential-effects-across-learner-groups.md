@@ -1,7 +1,7 @@
 ---
 title: 学習者集団間で異なる効果
 created: "2026-10-10T22:31:18-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -82,10 +82,12 @@ ai_assist:
 ここでの性別研究は、ツールが学習者を異なる形で扱うかどうかと、学習者がステレオタイプを帯びた道具にさらされるかどうかに分かれます。
 
 - **意図的に性別中立の設計は性別差を示しませんでした。** [[ada-female-coded-chatbot-gender-stereotypes-2026|195 名の 9 年生の準実験的研究]]は、Ada Lovelace に基づく女性コードの[[conversational-ai|チャットボット]]である ADA をテストしました。状況的関心は両性で上昇し、感情的な応答、認知的負荷、学業成績に性別差はありませんでした。ロールモデルのペルソナは、ステレオタイプの脅威を引き起こさずに構築できます。
-- **しかしプロンプトの内容はバイアスを学生の仕事に移します。** [[gender-bias-transfer-llm-writing|123 名の参加者による対照研究]]は、性別のみが異なる対になったプロフィールについて、AI なし・中立的な AI・性別バイアスのある AI の条件のもとで、学生に進路計画のエッセイを書かせました。バイアスのある条件は、性別で差別化された言語を学生の執筆に移し、女性の[[agency]]を非対称に抑制しました。研究者らはまず 1,600 本の生成されたエッセイでこの効果を確認しました。
+- **しかしプロンプトの内容はバイアスを学生の仕事に移します。** [[gender-bias-transfer-llm-writing|123 名の参加者による対照研究]]は、性別のみが異なる対になったプロフィールについて、AI なし・中立的な AI・性別バイアスのある AI の条件のもとで、学生に進路計画のエッセイを書かせました。バイアスのある条件は、性別で差別化された言語を学生の執筆に移し、女性の[[agency|エージェンシー]]を非対称に抑制しました。研究者らはまず 1,600 本の生成されたエッセイでこの効果を確認しました。
 - **空間と枠づけはツールと同じくらい重要です。** [[all-girls-genai-makerspace-gender-equity-2026|女子のみの生成的 AI メイカースペースの事例研究]]は、女子が単一性別の環境をより安全でくつろげると評価したことを見出し、「少女化」——権力関係に触れない表面的な適応——に警告しています。
 - **モデルの感受性はモデルの属性であり、定数ではありません。** [[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]]では、7B から 70B までの 5 つの家庭教師が 9 つの人口統計水準にわたって監査されました。Qwen2.5-7B は 12 個の領域×次元セルのうち 7 個で |r| ≥ 0.10 のバイアスしきい値を超え、LLaMA-3.1-8B は 1 回だけ超えました。教授法特有の訓練は一部のバイアスを減らし、他を増やしました。
 - **単一軸の修正は集団をより悪い状態に残しえます。** 「不明な性別」というカテゴリに押し込められた性別多様な学生は、すべての公正性手法の下で最も低い真陽性率を示し、単一軸の手法はどれも彼らの扱いを改善しませんでした——上の集団ラベルの変動が、家庭教師ではなく予測的な早期警戒モデルの中で現れたものです（[[fairness-theatre-early-warning-systems-2026|McConvey ら（2026）]]）。
+
+低リスクの AI リテラシー活動を 1 学期にわたって行うと、自信の変化は集団によって異なりえます。[[petricini-ai-literacy-communication-equity-2026|Petricini と Cruz（2026）]]は、非同期のパブリックスピーキング科目の第 2 週から第 11 週にかけて 10 個の活動を組み込み、履修者 200 名から得られた 133 件の有効回答を分析しました。知覚された有能感は全体として 1–7 の尺度で 5.63 から 5.12 に低下し、その低下は一様ではありませんでした。女性として自己同一化する学生は有能感の 2 項目で事前から事後にかけて有意に低下し、男性として自己同一化する学生は 1 項目で低下した一方で、科目の価値については上昇しました。また男性として自己同一化する学生は、科目内で新しいツールを使うことについて事後テストの自己評価がより高くなりました（p = .02）。同じ介入により、白人として自己同一化する学生はプレッシャーと緊張に関する 3 項目すべてで有意に低下し、そのうち成績についての心配は 2.67 から 1.90 に下がりましたが、他の人種・民族・出自のアイデンティティを持つ学生は、いずれの項目でも有意な変化を示しませんでした。
 
 ## 人種、民族、少数化された学生
 
@@ -162,11 +164,9 @@ ai_assist:
 
 ## 関連論文
 
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 直接的なプロセスの証拠を持つ知識ベースのグループ化変数：事前知識でマッチした群でも、前概念の多様性によって同じAIの受け取り方が異なった（Wang et al. 2026）
-- [[porcaro-ai-grading-benchmark-2026]] — 一致を超えて：22のプロンプト付き採点者は正解の知られているプローブに直面し、そのほとんどは言いくるめられる（Porcaro 2026）
-- [[porcaro-ai-grader-reliability-2026]] — 学習者の文脈が同一の仕事に対するLLM採点者の評点を変え、教師との一致はそれを登録しない（Porcaro 2026, Paper VI）
-
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studies of AI for students with disabilities: g = 0.588, and g = 0.269 after bias adjustment
+- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPTは学際的な学習においてSTEMの学生と非STEMの学生に不均等に利益をもたらした
+- [[bjet-genai-engagement-minority-ethnic-students-2026]] — 少数エスニシティの留学生における生成的AIの利用と四つの流れからなる関与
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 records to 40 studies, 15 of them generative AI
 - [[adhd-video-segmentation-computing-education]] — A general design change that brought ADHD participants to parity
 - [[neurodivergent-computing-students]] — 24 neurodivergent students on structure, ambiguity, and collaboration
@@ -184,9 +184,12 @@ ai_assist:
 - [[ai-divide-ses-personality-primary-education-2026]] — 4,497 students: digital literacy, not AI use, mediates the gap
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — Rural participation that never recovered, and mentorship as the constraint
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — A subgroup interaction whose confidence interval crosses zero
-- [[student-ai-inquiry-types-cs2-2026]] — The corpus's one first-generation usage finding
-- [[international-students-conversational-ai-adaptation]] — The corpus's one international-student study
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — The corpus's first effect estimate for first-generation students: tutor access cost them 0.50 SDs of final grade against 0.22 for their peers (Liu et al. 2026)
+- [[student-ai-inquiry-types-cs2-2026]] — The only first-generation usage finding
+- [[international-students-conversational-ai-adaptation]] — The only international-student study
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — The first effect estimate for first-generation students: tutor access cost them 0.50 SDs of final grade against 0.22 for their peers (Liu et al. 2026)
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPTは学際的な学習においてSTEMの学生と非STEMの学生に不均等に利益をもたらした
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — 少数エスニシティの留学生における生成的AIの利用と四つの流れからなる関与
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 直接的なプロセスの証拠を持つ知識ベースのグループ化変数：事前知識でマッチした群でも、前概念の多様性によって同じAIの受け取り方が異なった（Wang et al. 2026）
+- [[porcaro-ai-grading-benchmark-2026]] — 一致を超えて：22のプロンプト付き採点者は正解の知られているプローブに直面し、そのほとんどは言いくるめられる（Porcaro 2026）
+- [[porcaro-ai-grader-reliability-2026]] — 学習者の文脈が同一の仕事に対するLLM採点者の評点を変え、教師との一致はそれを登録しない（Porcaro 2026, Paper VI）
+
+- [[petricini-ai-literacy-communication-equity-2026]] — AI Literacy in a Basic Communication Course: Insights on Equity, Motivation, and Reducing Uncertainty

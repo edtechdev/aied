@@ -107,11 +107,14 @@ ai_assist:
 - [[reflection]]
 
 ## 関連する記事
-- [[liu-ai-assistance-reduces-persistence-2026]] — 短時間のAI使用は、後の無支援問題における粘り強さを低下させた（Liuら、2026年）
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 論証的ライティングへの自動フィードバック：中等教育の学生のフィードバック受容性とフィードバック知覚の役割
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 努力のパラドックスと摩擦のない支援の悪循環
-- [[cui-motivation-roles-metacognitive-genai-2026]] — メタ認知的生成AI関与における動機づけと役割
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — 性別、動機づけ、生成AIの達成の軌道
+
+- [[mirpour-learning-value-self-efficacy-ai-scales-2026]] — AI文脈における学習価値と学習自己効力感を測る2つの簡潔な尺度と、それらが予測するもの
+- [[high-school-genai-acceptance-tam-physics-2026]] — GenAI受容の先行要因としての期待価値信念
+- [[liu-ai-assistance-reduces-persistence-2026]] — 短時間のAI利用が、その後の補助なしの問題に取り組む際の粘り強さを低下させた(Liu et al. 2026)
+- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 議論的文章に対する自動フィードバック:中等教育段階の生徒のフィードバック受容性とフィードバック知覚の役割
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 努力のパラドックスと、摩擦のない支援の悪循環
+- [[cui-motivation-roles-metacognitive-genai-2026]] — メタ認知的なGenAIエンゲージメントにおける動機づけと役割
+- [[lee-wu-gender-motivation-genai-achievement-2026]] — ジェンダー、動機づけ、GenAI達成の軌跡
 - [[oby-chatgpt-use-learning-framework-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
@@ -123,23 +126,20 @@ ai_assist:
 - [[scheu-mobile-chatbot-journaling-motivation-2026]]
 - [[framing-5-percent-problem-teachers-persistence]]
 - [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — 生成AIカリキュラムデザインのための教員のデジタル・コンピテンシーの評価（Guillén-Gámez 2026）
-- [[motivation-shape-future-education-ai-switzerland-china]] — AIとともに教育の未来を形作る動機づけ
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学習者の特性×TTS対話形式の交互作用
-- [[student-perceptions-ai-study-productivity-2026]] — 学習の生産性と学習のためのAIツールに関する学生の知覚：探索的な調査研究
-- [[liang-ai-learning-motivation-sdt-2026]] — 学生のAI学習動機づけのSDT潜在移行分析（中等教育学生2,086人）
-- [[wang-goal-setting-ai-engagement-2026]] — 目標設定理論：AI支援英語学習における教員の支援、達成目標、関与（中国人学生758人）
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — 生成AIを用いて責任持って教わることを学ぶ際の有用価値介入の効果（Boos、Eder & Lachner 2026）
-- [[genai-writing-program-primary-l2-motivation-engagement]] — 初等L2生成AIライティングプログラムにおける構成概念特異的な動機づけの伸び（Luら、2026年）
-- [[air-scale-motivations-ai-reading-2026]] — AIR尺度：読解中にAIに手を伸ばす4つの動機の一群
-- [[genai-math-relevance-intervention-2026]] — 生成AIの関連性の対話は、同一化としての関連性を高めたが、授業への関心は平らなままだった
-
-- [[genai-learning-motivation-meta-analysis-2026]] — 生成AIの学習動機づけへの効果のランダム効果メタアナリシス（56効果量、6,059人の学生）
-- [[ai-student-motivation-scoping-review-2026]] — AIと学生の動機づけに関する156研究：85.3%が動機づけ理論を用いず、構成概念、水準、国の面で範囲が狭い
-- [[high-school-genai-acceptance-tam-physics-2026]] — 生成AI受容の先行要因としての期待価値の信念
-- [[gai-advocacy-practice-art-education-2026]] — GAIの提唱における政策と実践の隔たりが、学生が評価するストレッサーとして働く
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 足場づけられたチューターは内発的動機づけを高めたが、制限のないChatGPTは高めなかった
-
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — 質を揃えたAIと教員のフィードバックで、動機づけの差は関係性を通じて走った（Liu et al. 2026）
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - SDTに導かれた39研究のレビュー：欲求と関与はよく測定され、動機づけの調整はほとんど測定されない
-
+- [[guillen-curriculum-genai-teacher-competence-2026]] — GenAIカリキュラム設計のための教員デジタルコンピテンスの評価(Guillén-Gámez 2026)
+- [[motivation-shape-future-education-ai-switzerland-china]] — AIで教育の未来を形づくろうとする動機づけ
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学習者特性×TTS対話形式の交互作用
+- [[student-perceptions-ai-study-productivity-2026]] — 学習の生産性と学習のための人工知能ツールに対する学生の認識:探索的調査研究
+- [[liang-ai-learning-motivation-sdt-2026]] — 学生のAI学習動機づけに関するSDT潜在移行分析(中等教育段階の生徒2,086名)
+- [[wang-goal-setting-ai-engagement-2026]] — 目標設定理論:AI支援英語学習における教師のサポート、達成目標、エンゲージメント(中国人学生758名)
+- [[utility-value-intervention-teach-responsibly-genai-2026]] — GenAIで責任ある指導を学ぶ過程における実用価値介入の効果(Boos, Eder & Lachner 2026)
+- [[genai-writing-program-primary-l2-motivation-engagement]] — 初等教育のL2向けGenAIライティングプログラムにおける構成概念ごとの動機づけの向上(Lu et al. 2026)
+- [[air-scale-motivations-ai-reading-2026]] — AIR尺度:読書中にAIを頼る4つの動機群
+- [[genai-math-relevance-intervention-2026]] — GenAIとの関連性対話は「同一化としての関連性」を高めたが、授業への興味は横ばいだった
+- [[genai-learning-motivation-meta-analysis-2026]] — GenAIが学習動機づけに及ぼす効果のランダム効果メタ分析(効果量56件、学生6,059名)
+- [[ai-student-motivation-scoping-review-2026]] — AIと学生の動機づけに関する156件の研究:85.3%が動機づけ理論を用いておらず、構成概念・教育段階・国のいずれにおいても対象範囲が狭い
+- [[gai-advocacy-practice-art-education-2026]] — GAI推進における政策と実践のギャップは、学生が認知的評価を行うストレス源として作用する
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — スキャフォールド付きチューターは内発的動機づけを高めたが、無制限のChatGPTは高めなかった
+- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — 品質を揃えたAIフィードバックと教員フィードバック:動機づけの差は関係性を介して生じる(Liu et al. 2026)
+- [[pan-generative-ai-student-motivation-sdt-review-2026]] - SDTに基づく39件の研究のレビュー:欲求とエンゲージメントは頻繁に測定されるが、動機づけの調整はほとんど測定されない
+- [[mekheimer-motivation-ethics-trust-efl-2026]] — 12週間のEFL研究において、動機づけの唯一の有意な予測因子は利用頻度だった

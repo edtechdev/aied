@@ -1,12 +1,12 @@
 ---
 title: 技術（Technologies）
 created: "2026-10-10T22:09:41-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_of: concepts/ai-technologies
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -36,10 +36,12 @@ ai_assist:
 
 ## 教育におけるAIシステム
 
-- **大規模言語モデル（LLM）。** 現代の[[ai-education|AIED]]の大半の計算基盤です — [[llm|LLM]]は、指導、評価、コンテンツ生成のための人間らしいテキストを生成し、知識ベースで最も参照される技術です。[[llm-training-and-fine-tuning|訓練とファインチューニング]]は、汎用のLLMを教育用に適応させます。
+- **大規模言語モデル（LLM）。** 現代の[[ai-education|AIED]]の大半の計算基盤です — [[llm|LLM]]は、指導、評価、コンテンツ生成のための人間らしいテキストを生成し、この分野で最も参照される技術です。[[llm-training-and-fine-tuning|訓練とファインチューニング]]は、汎用のLLMを教育用に適応させます。
 - **生成的AI。** テキスト、コード、画像、その他のコンテンツを生み出すシステムのより広い範疇です — [[generative-ai|生成的AI]]（主にLLMに駆動される）は、現在の[[ai-education|AIED]]研究の波の根底にある技術です。[[multimodal|マルチモーダルモデル]]（テキスト、画像、音声）と[[simulation|シミュレーション]]も参照してください。
 - **ロボットと[[embodied-learning|身体化]]されたシステム。** [[educational-robotics|教育におけるロボット]]は、身体化され、しばしば[[community-of-inquiry|社会的な存在]]を加えます — [[computational-thinking|計算論的思考]]のためのプログラマブルキットと、指導・[[storytelling-in-education|物語]]・ロールプレイのための人間型・社会型ロボット。ロボット工学は、[[agentic-ai|エージェント的AI]]と[[human-in-the-loop-ai|人間介在型]]の設計と重なる、明確な技術的な筋です。
 - **知識ベースシステム。** [[knowledge-graph|ナレッジグラフ]]と[[educational-nlp|教育NLP]]は、領域知識を表現し処理し、接地された説明可能な指導のためにますますLLMと組み合わされます。
+
+機能に基づく分類は、モデルアーキテクチャの羅列よりも、教員の専門性開発に広く届きます。[[jaksic-engaging-high-school-teachers-ai-2025|Jaksic、Ansaf、Massey（2025）]]は、高校教員9名を対象とした1日間のワークショップを、AIアプリケーションの6つの系統 — 分類、認識、記憶、意思決定、最適化、予測 — を軸に構成し、それぞれを、スパムフィルタリングから信用スコアリングまで、教員がすでに使っているアプリケーションと対応させました。参加した教員は、AIが脅威かどうかで意見が分かれた状態で臨み、40%が脅威だと答え、40%が判断を保留していましたが、参加者全員が新しいことを学んだと報告しました。整理の単位はシステムが何をするかであり、教員はそれがどのように訓練されたかを知らなくても、教室のツールの中でそれを見分けられます。
 
 ## 技法と方法
 
@@ -113,3 +115,5 @@ ai_assist:
 - [[elbench-education-llm-benchmark-2026]] — 教育向けLLMベンチマーク
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini 生成的社会的ロボット
 - [[benzion-ai-physics-simulations-virtual-lab]] — 教室のためのLLM生成の物理学シミュレーション
+
+- [[jaksic-engaging-high-school-teachers-ai-2025]] — 高校教師の人工知能の概念・応用・開発への関与

@@ -1,7 +1,7 @@
 ---
 title: AI 利用の社会的規範
 created: "2026-10-10T22:53:47-04:00"
-updated: "2026-11-07T20:30:41-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -13,7 +13,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

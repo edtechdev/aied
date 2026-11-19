@@ -125,9 +125,10 @@ PFの枠組みは、**代理的な失敗**、**解決策の多様性**、**適�
 ## 関連記事
 
 - [[kim-ai-productive-failure-adult-2026]] — 生産的失敗に基づく学習を支援するAIシステムの設計
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的失敗のためのLLMの教育学的操縦
-- [[rhaimi-productivemath-2025]] — ProductiveMath:PF問題の設計を支援するAI
-- [[wang-safety-gap-productive-struggle-2026]] — セーフティギャップ:生産的なもがきの回復
-- [[lukesova-clue-before-correction-2026]] — 訂正の前の手がかり:自律学習のためのChatGPT
-- [[pedagogy-ai-mistakes]] — AIの誤りの教育法
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 解決策の差し控えは苛立ちの代償を避けたが、学生の選好では負けた
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的失敗に向けたLLMの教育的ステアリング
+- [[rhaimi-productivemath-2025]] — ProductiveMath：PFの問題設計を支援するAI
+- [[wang-safety-gap-productive-struggle-2026]] — 安全性のギャップ：生産的な苦闘を取り戻す
+- [[lukesova-clue-before-correction-2026]] — 訂正の前に手がかりを：自律学習のためのChatGPT
+- [[pedagogy-ai-mistakes]] — AIの誤りに対する教育学
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 解答の提示を控えることでフラストレーションというコストは回避できたが、学生の選好では評価を落とした。
+- [[shen-ai-skill-formation-2026]] — エラー数の中央値はAIなしで3、AIありで1であり、補助なしのクイズ得点は17%高かった（Shen & Tamkin 2026）。

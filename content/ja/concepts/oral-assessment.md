@@ -101,18 +101,22 @@ ai_assist:
 - [[higher-ed]] — このエビデンスのほぼすべてが由来する場
 
 ## 関連する記事
-- [[ai-second-language-listening-speaking-assessment-2025]] — 分岐しない AI の対話課題は、課題の要求とスピーキングの構成概念を食い違わせる
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — ライブの口頭試問はもはや免疫を持たない。AI グラスとイヤホンが検知されないリアルタイムのプロンプトを届ける（Corbin, Sharpe & Dawson 2026）
 
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 口頭試験と評価の利用の再考（Fenton 2025）
-- [[asynchronous-oral-assessment-2026]] — 非同期の口頭評価：インテグリティ、エンゲージメント、専門的なコミュニケーション
-- [[ai-supported-oral-assessment-tvet-2026]] — 職業教育における AI 支援の口頭評価のデザイン
-- [[aivaluate-anxiety-assessment-2026]] — AI を介したパフォーマンスに基づく評価における不安と経験
-- [[code-review-genai-cs1]] — 入門プログラミングコースにおける口頭のコードレビュー面接
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — 口頭説明の評価におけるエビデンスとしての身振り
-- [[socratic-tests-conversational-assessment]] — 口頭評価としての自動化された会話型テスト
-- [[tool-invariant-framework-agentic-ai]] — AI 支援の仕事の口頭弁護
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 模擬患者システムの下での話される臨床面接
-- [[pgr-students-genai-uses-qualitative-2026]] — 生成 AI の下での博士論文の口頭試問
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? 生成 AI 時代のコンピュータ評価に関するオンラインワークショップからの報告
-- [[assessment-feedback-trilemma-model-2026]] — どの形式にも固定された位置を与えず、実現可能性を教育上の優先事項として組み直す
+- [[ai-second-language-listening-speaking-assessment-2025]] — 分岐しないAI対話タスクは、タスク要求をスピーキングの構成概念と不一致にしてしまう。
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — ライブの口頭試問ももはや例外ではない。AIグラスとイヤホンが密かにリアルタイムの指示を届ける(Corbin, Sharpe & Dawson 2026)。
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 口頭試験と口頭による評価の活用を再考する(Fenton 2025)。
+- [[asynchronous-oral-assessment-2026]] — 非同期型口頭評価における学術的誠実性、エンゲージメント、専門的コミュニケーション。
+- [[ai-supported-oral-assessment-tvet-2026]] — 職業教育におけるAI支援型口頭評価の設計。
+- [[aivaluate-anxiety-assessment-2026]] — AIを介したパフォーマンス評価における不安と経験。
+- [[code-review-genai-cs1]] — プログラミング入門コースにおける口頭コードレビュー面接。
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — 口頭説明の評価における証拠としてのジェスチャー。
+- [[socratic-tests-conversational-assessment]] — 口頭評価としての自動対話型テスト。
+- [[tool-invariant-framework-agentic-ai]] — AI支援による成果物の口頭ディフェンス。
+- [[ai-standardized-patient-scaffolding-medical-2026]] — 模擬患者システムの下で行う口頭臨床面接。
+- [[pgr-students-genai-uses-qualitative-2026]] — 生成AIの下での博士論文口頭試問。
+- [[computing-assessment-genai-workshop-report-2026]] — AIはあなたの宿題をこなせる。では、どうするのか。生成AI時代のコンピューティング評価に関するオンラインワークショップからの報告。
+- [[assessment-feedback-trilemma-model-2026]] — いかなる形式にも固定的な位置づけを認めず、実施可能性を教育的な優先課題として捉え直す。
+- [[onodipe-enhance-not-replace-ai-classroom-2026]] — ビジネス統計コースにおける日程調整の回避策としての、AIが足場掛けを行うペア口頭試問。
+- [[deng-certification-consultation-university-teaching-2026]] — 生成AI以降の大学教育は、講義と探究を超えて、学習者が評価者となる認定とコンサルテーションのパラダイムへ進む。
+- [[webb-davies-voice-first-written-assessment-2026]] — 自宅で書かれた提出物を採点する前に観察下で推論過程を確保する二段階の筆記評価であり、結び付きが不明瞭な場合には条件付きの口頭試問を課す(Webb-Davies, Ratner & Bassett 2026)。
+- [[challen-conversational-assessment-chat-exams-2026]] — スケーラブルな対話型評価——2エージェントLLMパイプラインによるチャットベース試験。

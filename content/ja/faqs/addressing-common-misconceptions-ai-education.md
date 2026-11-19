@@ -1,8 +1,8 @@
 ---
 title: "教育におけるAIに関するよくある誤解にどう対処すればよいでしょうか？"
 created: "2026-10-10T22:55:14-04:00"
-updated: "2026-11-15T15:43:36-05:00"
-source_updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-19T06:40:00-05:00"
+source_updated: "2026-11-18T16:55:00-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]

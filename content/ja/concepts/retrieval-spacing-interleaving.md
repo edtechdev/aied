@@ -120,16 +120,17 @@ ai_assist:
 
 ## 関連する記事
 
-- [[adaptive-pretesting-retention]] — Akgun & Toker: 7 週間にわたる適応的な間隔空け検索対固定検索対学習者主導の AI
-- [[memdora-ai-spaced-repetition]] — Memdora: FSRS-6 による予定付けと根拠のあるフラッシュカード相互作用の分類
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: 説明の深さは課題の質を予測するが即時の想起は予測しない
-- [[rachatasumrit-example-problem-ratio-2026]] — 事実には検索練習、技能には例解——内容–処置の交互作用
-- [[schuetze-knowledge-tracing-forgetting-2026]] — 知識追跡モデルは時間に基づく検証のもと間隔空け効果を捉えることに失敗する
-- [[bilingual-llm-lecture-companion-srl-2026]] — 間隔空けの執筆コストを取り除く自動フラッシュカード生成
-- [[student-cheat-sheets-make-or-take]] — 生成的な学習としてのカンニング用紙の作成——AI による作成の外部化
-- [[knowloop-confusion-to-consolidation-2026]] — 明確化が浮かび上がらせなかった空白を浮かび上がらせる教え返しによる統合
-- [[simulating-learner-task-selection]] — 課題選択の制約のもとでモデル化された学習者方略としての交互学習とまとめて並べる
-- [[nie-personavlm-long-term-personalization-2026]] — 縦断的な学生の記憶と、間隔反復と忘却曲線との未解決の関係
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — 学習の学び方の枠組みの道具の層における検索練習
-- [[agentic-ai-pedagogical-best-practice-2026]] — 事前取得するエージェントは検索練習を迂回する——意図的な摩擦の根拠
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — AI チューターが話すとき: 無作為化フィールド実験からのエビデンス
+- [[adaptive-pretesting-retention]] — Akgun & Toker:7週間にわたる適応型間隔検索、固定型検索、学習者主導AIの比較
+- [[memdora-ai-spaced-repetition]] — Memdora:FSRS-6によるスケジューリングと、根拠づけられたフラッシュカード相互作用の分類体系
+- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris:説明の深さは課題の質を予測するが、即時の再生は予測しない
+- [[rachatasumrit-example-problem-ratio-2026]] — 事実には検索練習、技能には解答例。内容と処遇の交互作用
+- [[schuetze-knowledge-tracing-forgetting-2026]] — 時間ベースの検証では、知識追跡モデルは間隔効果を捉えられない
+- [[bilingual-llm-lecture-companion-srl-2026]] — フラッシュカードの自動生成が間隔練習の作成コストを取り除く
+- [[student-cheat-sheets-make-or-take]] — 生成的学習としてのチートシート作成。その作成をAIに肩代わりさせること
+- [[knowloop-confusion-to-consolidation-2026]] — 教え返しによる定着化が、説明の明確化では明らかにならなかった穴を表面化させる
+- [[simulating-learner-task-selection]] — 課題選択の制約下でモデル化された学習者方略としてのインターリービングとブロッキング
+- [[nie-personavlm-long-term-personalization-2026]] — 学習者の縦断的記憶と、間隔反復および忘却曲線との未解明の関係
+- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — 学習の学習フレームワークのツール層における検索練習
+- [[agentic-ai-pedagogical-best-practice-2026]] — 事前取得型エージェントは検索練習を迂回させる。意図的な摩擦を設ける根拠
+- [[ai-tutor-modality-randomized-field-experiment-2026]] — AIチューターが話すとき:ランダム化フィールド実験からの証拠
+- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — ChatGPTが生成した事前質問が記憶と文章理解を向上させる

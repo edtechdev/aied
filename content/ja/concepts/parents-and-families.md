@@ -95,16 +95,18 @@ ai_assist:
 **「家庭でのAI利用は、親の許可の問題である。」** それはリテラシーと擁護の問題です。親自身のAIリテラシーが、学校が配布するツールについて何を問い質せるかを決め、家庭間のアクセスの不平等が、どの子どもが大人の仲介をまったく得られるかを形づくります。
 
 ## 関連する概念
-- [[stakeholders]] — 教育における AI の聴衆と行為者の傘のページ
-- [[early-childhood-elementary-ai-education]] — 家庭と家族の利用が最も研究される発達の領域
-- [[ai-use-disclosure]] — 開示の実践と家族に届くものの問い
-- [[ai-literacy]] — 親自身の能力と、それを定義する学校が作ったフレームワーク
-- [[equity-in-ai-education]] — 便益と負担が家庭を横断してどう分配されるか
-- [[digital-divide]] — 家庭に当てはまるアクセス、スキル、成果の層
-- [[conversational-ai]] — 家族の場で AI がとる支配的な形態
-- [[self-determination-theory]] — 家族の指導の枠組みとしての自律性の支援
-- [[cognitive-offloading]] — 依存的対自律的なオフローディング、そしてなぜ親はその違いを見られないか
-- [[intelligent-tutoring]] — AI を介した親と子のチューリングの背後にあるモデル
+
+- [[developmental-psychology]]
+- [[stakeholders]] — 教育におけるAIの対象者と行為者をまとめる上位ページ
+- [[early-childhood-elementary-ai-education]] — 家庭や家族での利用が最も多く研究されている発達領域
+- [[ai-use-disclosure]] — 開示の実践と、何が家庭に届くのかという問題
+- [[ai-literacy]] — 親自身の能力と、それを定義する学校構築の枠組み
+- [[equity-in-ai-education]] — 便益と負担が世帯間でどのように分配されるか
+- [[digital-divide]] — 家庭に当てはまるアクセス、スキル、成果の各層
+- [[conversational-ai]] — 家庭の場面でAIが取る支配的な形態
+- [[self-determination-theory]] — 家庭での指導の枠組みとしての自律性支援
+- [[cognitive-offloading]] — 依存的オフローディングと自律的オフローディング、そして親がその違いを見分けられない理由
+- [[intelligent-tutoring]] — AIが媒介する親子間の学習指導の背後にあるモデル
 
 ## 関連する記事
 - [[ai-connectedness-adolescent-mental-health-2026]] — 青少年の AI とのつながりと、AI との絆が満たされない養育者の認識に代替するとき

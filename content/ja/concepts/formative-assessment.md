@@ -1,7 +1,7 @@
 ---
 title: 形成的評価
 created: "2026-10-10T21:53:10-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -42,11 +42,12 @@ ai_assist:
 
 AIシステムは複数のモダリティにわたり形成的評価の設問を生成しますが、信頼性は型によって異なります。
 
-- **多肢選択問題：** [[code-gen]]は、[[agentic-ai|エージェント型AI]]が7つの教育学的次元にわたり検証されたとき、コーディングの理解のための多肢選択問題を確実に生成できることを示しています。成功率は概念の整合で**98.6%**、フィードバックの品質で**79.9%**に達し、これはAIが検証可能な次元で最も強く、教授上の判断の次元で最も弱いことを示唆しています。これはより広く[[automated-question-generation|自動問題生成]]に結びつきます。
+- **多肢選択問題：** [[code-gen|Duan et al.（2026）]]は、[[agentic-ai|エージェント型AI]]が7つの教育学的次元にわたり検証されたとき、コーディングの理解のための多肢選択問題を確実に生成できることを示しています。成功率は概念の整合で**98.6%**、フィードバックの品質で**79.9%**に達し、これはAIが検証可能な次元で最も強く、教授上の判断の次元で最も弱いことを示唆しています。これはより広く[[automated-question-generation|自動問題生成]]に結びつきます。
 - **易しすぎる生成問題集は形成的な情報を与えない。** 10週間の導入において、AIが生成した練習問題の約70%はすべての学生が正答しました（p = 1.0）。そのため15分から20分ごとに実施された低リスクの小テストは好評でしたが、教授を適応化するための識別情報はほとんど含んでいませんでした（[[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang（2026）]]）。
 - **自動エッセイ採点：** マルチエージェントのフレームワーク（例えばMASS）は、[[automated-essay-scoring|エッセイ採点]]において単体の[[llm|LLM]]よりも一貫性を改善しますが、マルチエージェントによる採点決定の[[explainable-ai|解釈可能性]]は未解決の課題です。
 - **形成的採点のパイプライン：** [[cotal-formative-assessment-scoring-2026|CoTAL]]は、Chain-of-Thoughtプロンプティングを[[active-learning|アクティブラーニング]]とEvidence-Centered Designと結合し、人間がループに入る[[prompt-engineering|プロンプトエンジニアリング]]によって汎化可能な形成的評価の採点を生み出します。
-- **高頻度の[[automated-assessment|自動採点される評価]]：** [[automated-formative-assessments-a-level-sciences|Aレベル理科における自動形成的評価]]は、高頻度で自動採点される形成的評価が[[learning-gains|学習成果]]に与える影響を調べます。[[science-education|理科]]における短答式自動採点のスコーピングレビュー（2017年〜2024年初頭）は、この形成的短答式のユースケースが実際に牽引力を持つ分野であることを確認しています。BERT系モデルは2021年まで自動採点を支配し、その後~2022年からより大きな[[llm|LLM]]のプロンプティングに移り、ドメイン拡張・ルーブリック対応・Chain-of-Thoughtのモデルが最も良好な成績を収めました — しかしレビューが求める包括的な評価と、未解決の[[bias-mitigation|公平性]]と説明可能性のギャップは、そうしたシステムを媒介されない[[summative-assessment|総括的]]・高リスクな利用に拡張することに警鐘を鳴らしています（[[auto-marking-short-answer-science-2026]]）。
+- **高頻度の[[automated-assessment|自動採点される評価]]：** [[automated-formative-assessments-a-level-sciences|Aレベル理科における自動形成的評価]]は、高頻度で自動採点される形成的評価が[[learning-gains|学習成果]]に与える影響を調べます。[[science-education|理科]]における短答式自動採点のスコーピングレビュー（2017年〜2024年初頭）は、この形成的短答式のユースケースが実際に牽引力を持つ分野であることを確認しています。BERT系モデルは2021年まで自動採点を支配し、その後~2022年からより大きな[[llm|LLM]]のプロンプティングに移り、ドメイン拡張・ルーブリック対応・Chain-of-Thoughtのモデルが最も良好な成績を収めました — しかしレビューが求める包括的な評価と、未解決の[[bias-mitigation|公平性]]と説明可能性のギャップは、そうしたシステムを媒介されない[[summative-assessment|総括的]]・高リスクな利用に拡張することに警鐘を鳴らしています（[[auto-marking-short-answer-science-2026|Morley et al.（2026）]]）。
+- **ゲーム化されたクイズは、学びを伴わずに楽しめることがある。** 音楽学の学部生34名は、適応型AIクイズを従来のチュートリアル形式の指導と比較して最も低く評価し（5点中M = 2.74）、推奨するかどうかは21対13に分かれました。一方で、推奨に対応していたのはトピックの理解（3.81対3.62、p = 0.420）ではなく、アプリの使用感（今後の利用3.52対1.54）でした（[[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al.（2026）]]）。
 
 ## AIが生成するフィードバック
 
@@ -154,6 +155,7 @@ AI教育における形成的評価は、学習のプロセスそのものと結
 - [[reflection]]
 
 ## 関連記事
+
 - [[llm-multi-agent-conversation-assessment-2025]] — 評価者が中間カテゴリへと寄る、会話に基づく評価のための4エージェントアーキテクチャ（Hou et al. 2025）
 - [[causal-modeling-competency-assessment-2026]] — 学生の力量評価のための支援介入の因果モデリング
 - [[nicola-richmond-programwide-assessment-genai-2025]] — 生成AI時代における評価の再設計へのプログラム横断的アプローチ
@@ -169,7 +171,7 @@ AI教育における形成的評価は、学習のプロセスそのものと結
 - [[ai-generated-feedback-higher-ed]] — 高等教育におけるAIが生成するフィードバック
 - [[ai-learning-tools-engineering-education-needs]] — LearnLens：カリキュラムに根ざしたAIフィードバック
 - [[genai-teacher-feedback-comparison]] — 生成AI対教員のフィードバックの比較
-- [[chatgpt-feedback-engagement-genai]] — ChatGPTのフィードバックと動機づけ
+- [[chatgpt-feedback-engagement-genai]] — ChatGPTのフィードバックとエンゲージメント
 - [[code-gen]] — CODE-GEN：検証された多肢選択問題の生成
 - [[responsible-assessment-ai-era-stanford-2026]] — AI時代における責任ある評価
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — 真正評価のための設計
@@ -187,11 +189,12 @@ AI教育における形成的評価は、学習のプロセスそのものと結
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[ai-feedback-adaptivity-children-plans-2026]] — 適応性がフィードバックを効果的にする：子どもの計画に対するAI生成フィードバックからの証拠
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 自動採点、通訳の解釈、自己調整学習（Chen & Liu 2026）
+- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 自動採点、パフォーマンスの解釈、自己調整学習（Chen & Liu 2026）
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — AIに支えられた形成的評価における教員の診断的スキル：診断からメタ診断へ
 - [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — 3つの教育段階にわたるプログラミングにおけるLLM生成フィードバックの知覚された有用性と利用意向
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 音楽教育における生成AIとビッグデータ分析を組み合わせた適応的教授支援
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — データサイエンスの講義における学生のLLM利用とAI生成問題の難易度の限界
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — AIに媒介された継続的評価のインフラ（AIM-CAI）：文脈と時間を越えた学習の証拠を結ぶ（McNamara & Hasnine 2026）
-- [[etq-ai-conversational-teacher-training-2026]] — 教授の誤概念のための会話型AI診断：証拠に基づく対話(Miranda & Calvani 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — 教授の誤概念のための会話型AI診断：証拠に基づく対話（Miranda & Calvani 2026）
 - [[assessment-feedback-trilemma-model-2026]] — 監視リスクへの肯定的な対応：監視ではなくエビデンス設計としての観察可能性
+- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — 学生による適応型クイズの推奨は、トピックの理解度ではなく、使ってみた感覚に連動していた

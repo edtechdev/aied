@@ -248,61 +248,62 @@ ai_assist:
 
 ## 関連する記事
 
-- [[chen-genai-programming-understanding-2026]] — 初心者と中級のプログラマー:ChatGPTはテストの合格を80.7から410.7へ上げたが、理解はついてこなかった(Chenら 2026)
-- [[gardella-copilot-fast-forgettable-2026]] — 初心者22人:Copilotの14.09ポイントの優位は、1週間後の支援なしの再テストで保たれなかった(Gardellaら 2026)
-- [[riva-cognitive-capital-generative-ai-review-2026]] — 認知資本：再生可能な能力のストックからの引き出しとしてのオフローディング
-- [[pradubwate-illusion-ai-competence-miscalibration-2026]] — 次元をまたぐ誤較正：操作的な流暢さを評価的・領域的なコンピテンスと誤読する（概念的レビュー）
-- [[akcaoglu-offloading-ladder-experience-2026]] — オフローディングのはしご：経験が、学習者と実践者がAIに何を手渡すべきかをどう変えるか（Akcaoglu 2026）
-- [[ai-proof-learning-cognitive-offloading-2026]] — 学生の推論を支えるのか置き換えるのか。AI支援の証明学習における認知的オフローディング（Chen et al. 2026）
-- [[llm-math-homework-offloading-traces-2026]] — 提出物が示さないもの。LLMを用いた学生の数学的作業における認知的オフローディングを複雑化する（Kontorovich & Wallach 2026）
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 65の学習過程にわたる30人の専門家の合意：学習過程の両端でのオフローディング
-- [[shastry-gray-empathy-offloading-2026]] — AIがそれを与えられると考えるとき、人は共感をオフロードする（Shastry & Gray 2026）
-- [[rented-self-decoupling-performance-becoming-2026]] — 借りられた自己：技能だけでなく学習者の領域的な自己を代償とするオフローディング
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — 同じように始まったグループが分岐した：一つのプロファイルで74.1%のモデルの利用、別のプロファイルで80.8%のオフローディングと行き詰まり（Kilinc et al. 2026）
-- [[liu-ai-assistance-reduces-persistence-2026]] — AI支援は三つのRCTにわたり持続と支援なしの成績を減らした（Liu et al. 2026）
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — 認知的松葉杖としてのChatGPT：45日後の知識保持に関する無作為化比較試験（Barcaui 2025）
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — 認知的外注から再配分へ：監督のない評価における学生と生成的AIの関与の3P分析（Yan et al. 2026）
-- [[family-school-autonomy-support-genai-2026]] — 子どもの責任ある生成的AIの使用のための家庭–学校の自律支援
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 余分対有益な摩擦：AIオフローディングが以前の道具と異なる理由
-- [[thermomix-genai-education-analogy-2026]] — Thermomixがあれば料理をする能力を失う：教育における生成的AIのための調理機器のアナロジー（Rummel, Nachtigall & Panadero 2026）
-- [[cognitive-washout-ai-skill-decay-2026]] — 認知的洗い流し：AIに誘発された技能衰退の撤回後の力学
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — 対話型AIの関与と依存の批判的な物語の総合
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 生成的AI支援の文章作成における層に敏感な認知的オフローディング（Chen 2026）
-- [[du-yuan-epistemic-dependence-2026]] — AIを媒介とする学習における認識論的依存：生産的な依存と有害な依存を分ける六つの診断基準（Du & Yuan 2026）
-- [[seung-basham-cognitive-offloading-swld-2026]] — 学習障害のある生徒のための生成的AIによる認知的オフローディング
-- [[lodge-loble-cognitive-offloading-2026]] — AI、認知的オフローディングと教育への含意
-- [[cognitive-offloading-metacognitive-review-2026]] — 認知的オフローディングへのメタ認知的洞察（Guo & Ye 2026）
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — メタ認知トレーニングは最適な認知的オフローディングを容易にする（Ngai & Gilbert 2026）
-- [[critical-thinking-paradox-genai-learning-2026]] — 生成的AIを統合した学習における批判的思考の逆説
-- [[cognitive-offloading-speedup-illusion]] — AIを使った仕事の加速の錯覚
-- [[misiejuk-cognitive-offloading-prompting-2026]] — プロンプトのパターンの共起ネットワーク分析
-- [[shaw-nave-cognitive-surrender-2026]] — 三システム理論と認知的降伏：AIが人間の推論をどう作り変えるか（Shaw & Nave 2026）
-- [[young-people-learning-generative-ai-rapid-review-2026]] — 生成的AIのための降伏–オフローディング–エージェンシーの連続体
+- [[chen-genai-programming-understanding-2026]] — 初学者および中級プログラマー:ChatGPTはテスト合格を410.7対80.7へと高めたが、理解はそれに追いつかなかった（Chen et al., 2026）
+- [[gardella-copilot-fast-forgettable-2026]] — 初学者22名:Copilotによる14.09点の優位は、1週間後の補助なしの再テストでは維持されなかった（Gardella et al., 2026）
+- [[riva-cognitive-capital-generative-ai-review-2026]] — 認知資本:再生可能な能力の蓄えからの引き出しとしてのオフローディング
+- [[pradubwate-illusion-ai-competence-miscalibration-2026]] — 次元横断的な較正の誤り:操作的流暢さが、評価的コンピテンスおよび領域コンピテンスと誤読される（概念的レビュー）
+- [[akcaoglu-offloading-ladder-experience-2026]] — オフローディング・ラダー:経験によって、学習者や実務者がAIに委ねるべきものがどう変わるか（Akcaoglu 2026）
+- [[ai-proof-learning-cognitive-offloading-2026]] — 学生の推論を支援するのか、それとも置き換えるのか？AI支援による証明学習における認知的オフローディング（Chen et al. 2026）
+- [[llm-math-homework-offloading-traces-2026]] — 提出物には表れないもの:LLMを用いた学生の数学的活動における認知的オフローディングの複雑化（Kontorovich & Wallach 2026）
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 65の学習プロセスに関する専門家30名の合意:学習系列の両端におけるオフローディング
+- [[shastry-gray-empathy-offloading-2026]] — 人は、AIが代わりに共感してくれると考えるとき、共感をオフロードする（Shastry & Gray 2026）
+- [[rented-self-decoupling-performance-becoming-2026]] — 借り物の自己:技能だけでなく、学習者の領域における自己をも損なうオフローディング
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — 当初は似ていた集団が分岐した:あるプロファイルではモデルの取り入れが74.1%、別のプロファイルではオフローディングと行き詰まりが80.8%（Kilinc et al. 2026）
+- [[liu-ai-assistance-reduces-persistence-2026]] — 3つのRCTすべてで、AI支援は粘り強さと補助なしの成績を低下させた（Liu et al. 2026）
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — 認知の松葉杖としてのChatGPT:45日後の知識保持に関するランダム化比較試験（Barcaui 2025）
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — 認知の外部委託から再配分へ:監督なしの評価における学生とGenAIの関わりの3P分析（Yan et al. 2026）
+- [[family-school-autonomy-support-genai-2026]] — 子どもによる生成AIの責任ある利用のための、家庭と学校による自律性支援
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 過剰な摩擦と有益な摩擦:AIへのオフローディングが従来の道具と異なる理由
+- [[thermomix-genai-education-analogy-2026]] — Thermomixを使うと料理する能力を失う:教育における生成AIをキッチンマシンにたとえる類推（Rummel, Nachtigall & Panadero 2026）
+- [[cognitive-washout-ai-skill-decay-2026]] — 認知的ウォッシュアウト:AIによる技能減衰の、撤退後の動態
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — 対話型AIへの関与と依存に関する批判的ナラティブ統合
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI支援による執筆における、層に敏感な認知的オフローディング（Chen 2026）
+- [[du-yuan-epistemic-dependence-2026]] — AIを介した学習における認識論的依存:生産的な依拠と有害な依存を分ける6つの診断基準（Du & Yuan 2026）
+- [[seung-basham-cognitive-offloading-swld-2026]] — 学習障害のある学生のためのGenAIによる認知的オフローディング
+- [[lodge-loble-cognitive-offloading-2026]] — AI、認知的オフローディング、そして教育への示唆
+- [[cognitive-offloading-metacognitive-review-2026]] — 認知的オフローディングに関するメタ認知の知見（Guo & Ye 2026）
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — メタ認知訓練は最適な認知的オフローディングを促進する（Ngai & Gilbert 2026）
+- [[critical-thinking-paradox-genai-learning-2026]] — GenAIを統合した学習における批判的思考のパラドックス
+- [[cognitive-offloading-speedup-illusion]] — AI支援による作業の高速化の錯覚
+- [[misiejuk-cognitive-offloading-prompting-2026]] — プロンプトパターンの共起ネットワーク分析
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System理論と認知的降伏:AIが人間の推論をどう作り変えるか（Shaw & Nave 2026）
+- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAIに関する「降伏—オフローディング—エージェンシー」の連続体
 - [[ai-making-us-stupid]] — AIの認知的影響と学習の置き換えに関する研究
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap：認知的仕事を代替するAI（Brcic & Frljic 2026）
-- [[genai-thoughtless-use-self-directed-learning-2026]] — 思慮なきAI使用は自律学習を侵食する
-- [[generative-ai-guardrails-harm-learning]] — 無防備な生成的AIに関する高校数学のRCT
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成的AIの学習ペナルティ：宿題の外注は学習を害する
-- [[coach-not-crutch-ai-writing]] — AIはより少なく働きより多く学ばせうる（Lira et al. 2025）
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI家庭教師を生産的なものにする：熟達に基づく数学の練習
-- [[cognitive-commons-ai-expertise-regeneration]] — 認知的コモンズの悲劇：AIと専門性の再生産
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE：AIに関連する認知的オフローディングのためのプライバシーを保護する自己内省ツール
-- [[chatgpt-writing-cognitive-impact-2026]] — ChatGPT支援の文章作成が支援なしの統制群よりも少ない知識の伸びを生んだ、書くことによる学習の実験
-- [[student-cognitive-offloading-ai-higher-ed-2026]] — 高等教育におけるAIへの学生の認知的オフローディングのパターン：自然主義的なChatGPTメッセージ水準の証拠（Piatnitckaia et al. 2026）
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — 技能喪失に抗する設計：メタ認知的フィードバックはLLM補助者への認知的オフローディングを減らす
-- [[chatgpt-programming-performance-retention-ownership-2026]] — ChatGPTを用いたプログラミングの学生の認知：高い成績、低い保持、減った所有
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — メタ認知的自己調整を通じて高次の成果を予測するオフローディングの傾向と検証リテラシー（Davor et al. 2026）
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — 省察プロンプトは誤ったAI助言の受容を減らし自覚の較正を改善する（Ren 2026）
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — 批判的思考の傾向と自己知覚された雇用可能性に対する境界条件としての生成的AI依存（Shojaei et al. 2026）
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — ChatGPTと話している間、創造性のスコアが一致していても、子どもは大人よりも前頭–頭頂、顕著性、背側注意の接続性が弱かった
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 生成的AIと子どもの創造的思考：範囲設定レビューにおける過度の依存とプロンプトへの依存（Niu et al. 2026）
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — 認知的休眠：AIのアフォーダンスが、オフローディングを高めずに深い処理を下げ無秩序さを上げた事前登録実験（Braun 2026）
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — 66 の探究研究のうち 16 で過度の依存または認知的オフローディングが課題として名指された
-- [[fan-metacognitive-offloading-sync-model-2026]] — SYNC の四象限と再較正のループ：仕事だけでなく調整者を委任する（Fan et al. 2026）
-- [[zhang-usefulness-dependence-genai-2026]] — 「有用性」から「依存」へ：生成的 AI 利用行動の動的な進化の機構
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — 調整者を引き上げるとオフローディングが上がり出力の質が下がる
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 発達的に適用された順序づけの規則：計算機の前に算数、参照管理ツールの前に引用
-- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — AIを媒介とする学習困難の6つの自己報告次元
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — 学業上のストレスがChatGPTへの依存と実行機能の低下を媒介する
-- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — 生成的AIの時代の認知的オフローディング:オフローディングを記憶、学習、実行機能に結びつけるナラティブレビュー
-- [[ho-invariant-core-faculty-development-2027]] — SOLOの水準は、なぜ生成AIがリレーショナルな成果物を供給できるのかを説明する。したがって評価は過程に重みを置かなければならない(Ho 2026)
+- [[brcic-effortless-trap-productive-struggle-2026]] — 努力不要の罠:認知作業を置き換えるAI（Brcic & Frljic 2026）
+- [[genai-thoughtless-use-self-directed-learning-2026]] — 思考を伴わないAI利用は自己主導学習を蝕む
+- [[generative-ai-guardrails-harm-learning]] — ガードレールのないGenAIに関する高校数学でのRCT
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成AIによる学習のペナルティ:宿題の外部委託は学習を損なう
+- [[coach-not-crutch-ai-writing]] — AIは作業を減らし、学びを増やせる（Lira et al. 2025）
+- [[making-ai-tutoring-productive-mastery-math-2026]] — AIによる個別指導を生産的にする:習得基準に基づく数学の練習
+- [[cognitive-commons-ai-expertise-regeneration]] — 認知のコモンズの悲劇:AIと専門性の再生
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE:AIに伴う認知的オフローディングのための、プライバシーを保護する自己省察ツール
+- [[chatgpt-writing-cognitive-impact-2026]] — ChatGPT支援による執筆が、補助なしの対照群よりも知識の増加が少なかった「書くことで学ぶ」実験
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — 高等教育における学生のAIへの認知的オフローディングのパターン:自然な状況下でのChatGPTのメッセージ単位の証拠（Piatnitckaia et al. 2026）
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — 脱技能化に抗する設計:メタ認知的フィードバックはLLMアシスタントへの認知的オフローディングを減らす
+- [[chatgpt-programming-performance-retention-ownership-2026]] — ChatGPTを使うプログラミング学習者の認知:高い成績、低い保持、そして低下したオーナーシップ
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — メタ認知的自己調整を介して高次の成果を予測する、オフローディング傾向と検証リテラシー（Davor et al. 2026）
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — 省察を促すプロンプトは、誤ったAIの助言の受け入れを減らし、気づきの較正を改善する（Ren 2026）
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — 批判的思考傾向と自己認識された雇用可能性に対する境界条件としてのGenAI依存（Shojaei et al. 2026）
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - 創造性のスコアを一致させた条件で、ChatGPTと会話している間、子どもは成人よりも前頭頭頂・顕著性・背側注意の各ネットワークの結合が弱かった
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAIと子どもの創造的思考:スコーピングレビューにおける過度の依存とプロンプト依存（Niu et al. 2026）
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — 認知的休眠:AIのアフォーダンスがオフローディングを高めずに深い処理を低下させ、無秩序さを高めた事前登録実験（Braun 2026）
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - 66件の探究学習研究のうち16件で、過度の依存または認知的オフローディングが課題として挙げられた
+- [[fan-metacognitive-offloading-sync-model-2026]] - SYNCの四象限と再較正ループ:作業だけでなく調整役そのものを委ねる（Fan et al. 2026）
+- [[zhang-usefulness-dependence-genai-2026]] — 「有用性」から「依存」へ:生成AIの利用行動の動的な進化メカニズム
+- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — 調整役を退かせるとオフローディングが増え、アウトプットの質が下がる
+- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 順序づけの規則を発達的に適用する:電卓の前に算数を、文献管理ツールの前に引用を
+- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — AIを介した学習の困難に関する6つの自己報告次元
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — 学業ストレスがChatGPT依存と実行機能不全の関係を媒介する
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — 生成AI時代の認知的オフローディング:オフローディングを記憶、学習、実行機能と結びつけるナラティブレビュー
+- [[ho-invariant-core-faculty-development-2027]] — SOLOレベルは、GenAIが関係的な産物を提供できてしまう理由を説明し、それゆえ評価はプロセスに重みを置かなければならない（Ho 2026）
+- [[su-genai-dependence-academic-performance-adolescents-2026]] — 青年期では、依存と成績の関連の大部分を担うのは注意制御である

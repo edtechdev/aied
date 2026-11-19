@@ -167,60 +167,66 @@ AIはフィードバックを三つの帰結ある方向に変え、それぞれ
 
 ## 関連記事
 
-- [[porcaro-ai-grading-benchmark-2026]] — 一致を超えて：22のプロンプト付き採点者は正解の知られているプローブに直面し、そのほとんどは言いくるめられる（Porcaro 2026）
-- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — AIと教員のフィードバックは改訂の品質では同等、動機づけでは非対称（Liu & Shi 2026）
-- [[xian-process-visualization-feedback-news-translation-2026]] — キーストロークと画面の痕跡から生成されたフィードバックが、成果物への文章コメントを上回った（各群11人）
-
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 改訂をまたいで自らを繰り返したエージェントのフィードバック(Humburgら 2025)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 論証的作文における自動フィードバック：中学生のフィードバックの受容性と知覚の役割
-- [[ai-agents-joyful-assessment-third-space-2026]] — AIエージェント、喜びに満ちた評価、そして第三の空間
-- [[student-perspectives-ai-writing-grading-2026]] — 透明なAI支援による作文評価についての学生の見解（AlGhamdi 2026）
-- [[usher-faraon-who-grades-best-2026]] — プロジェクトの品質水準にわたるChatGPT・ピア・教員の採点の比較（Usher & Faraon 2026）
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 生成AIに支援された作文における層に敏感な認知的オフローディング（Chen 2026）
+- [[morris-same-feedback-different-source-2026]] — 同一のフィードバックでも帰属ソースが異なる場合:人間が書いたと信じると努力量は増したが、質は向上しなかった。
+- [[meyer-teacher-ai-feedback-writing-2026]] — ドイツの学生391名:いずれの成果指標でも有意差なし。より高い評価を引き出したのは作成者ではなく即時性だった(Meyer et al., 2026)。
+- [[liu-ai-feedback-motivational-pathways-2026]] — 学部生247名:知覚されたフィードバック品質が有能感、自律性、関係性を予測した(Liu et al., 2026)。
+- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — 人間が検証したAIフィードバックは改訂の質を高めた(d = 0.50)が、事後テストの得点は高めなかった(Lu et al. 2026)。
+- [[guberman-control-or-support-grading-2026]] — 学生がAIフィードバックを歓迎したのは、それが優れていたからではなく、フィードバックが不足していたからである(Guberman 2026)。
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 改訂を重ねても同じ内容を繰り返すエージェントのフィードバック(Humburg et al. 2025)。
+- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 議論的文章に対する自動フィードバック:中等教育段階の生徒のフィードバック受容性とフィードバック知覚の役割。
+- [[ai-agents-joyful-assessment-third-space-2026]] — AIエージェント、喜びのある評価、そして第三空間。
+- [[student-perspectives-ai-writing-grading-2026]] — 透明なAI支援ライティング評価に対する学生の視点(AlGhamdi 2026)。
+- [[usher-faraon-who-grades-best-2026]] — プロジェクトの品質水準別にChatGPT、ピア、教員の採点を比較する(Usher & Faraon 2026)。
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI支援ライティングにおける層に敏感な認知的オフローディング(Chen 2026)。
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — 教員対生成AIのフィードバック：学生はAIではあまり改訂しない
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — 生成AIのフィードバックと自己調整学習：知覚される出典が問題になる
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — 協働的な論証における生成AIに支援されたピアフィードバック
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — 学生のフィードバックにおけるAIの倫理
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — メタ認知的訓練は最適な認知的オフローディングを容易にする（Ngai & Gilbert 2026）
-- [[liu-deris-ai-feedback-literacy-uptake]] — AIフィードバック・リテラシーの尺度と受け入れの予測（Liu & Deris 2025）
-- [[zhan-boud-dawson-genai-feedback-engagement]] — 学生のフィードバックへの関与の可能化要因としての生成AI（Zhan, Boud, Dawson & Yan 2025）
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — フィードバック・リテラシーがAIフィードバック→自己調整学習を調整する（Mendoza et al. 2026）
-- [[rethinking-ai-writing-feedback-literacy]] — AIに支援された作文のためのフィードバック・リテラシーの台本（Dai 2026）
-- [[jin-genai-learning-analytics-feedback-literacy]] — フィードバックにおける生成AIのラーニングアナリティクス（Jin et al. 2025）
-- [[tubino-adachi-ai-automated-feedback-literacy]] — フィードバック・リテラシーのためのAI自動フィードバック道具（Tubino & Adachi 2025）
-- [[irwin-muller-efl-peer-feedback-literacy]] — フィードバック・リテラシーのためのEFLピアフィードバックにおける生成AI（Irwin & Muller 2026）
-- [[ai-generated-feedback-higher-ed]] — 高等教育におけるAIが生成するフィードバック
-- [[care-full-feedback-genai]] — 生成AIによる配慮のこもったフィードバック設計
-- [[ai-feedback-ecosystem-higher-education-2026]] — 高等教育におけるフィードバックの生態系：AIがフィードバックの関係を作り直し、人間がループとなる（Bearman et al. 2026）
-- [[learner-centered-feedback-ai]] — 学習者中心のAIフィードバックの実践
-- [[genai-feedback-design-multisite-experiment]] — 複数拠点の生成AIフィードバック設計
-- [[ai-feedback-critical-thinking-writing-2026]] — 作文におけるAIフィードバックと批判的思考
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — 生成AIによる評価が心理学的・フィードバック・AIのリテラシーを築く
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens：教育者の監督を伴うカリキュラムに根ざしたフィードバック（Zhao et al. 2025）
-- [[sequenced-ai-feedback-learning]] — 配列されたAIフィードバックの研究
-- [[becerra-aicofe-feedback-2026]] — AIによるピアフィードバックのシステム
-- [[automated-formative-assessments-a-level-sciences]] — Aレベル理科における自動形成的評価
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 真正でAIに抵抗する評価としての口頭試験の再検討
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies：自動作文フィードバックにおけるバイアス
-- [[shap-llm-rationales-teaching-quality-assessment]] — ルーブリックに基づく教育フィードバックに対するSHAPとLLMの根拠説明
-- [[llm-adaptive-programming-error-explanations-2026]] — プログラミングの誤りのLLMによる適応的な説明
-- [[student-perceptions-ai-study-productivity-2026]] — 学習の生産性と学習のためのAI道具についての学生の知覚：探索的調査研究
-- [[yasar-llms-iterative-pedagogical-design-2026]] — 反復的な教育設計の担い手としてのLLM
+- [[farrokhnia-genai-feedback-student-revisions-2026]] — 教員 vs. GenAIのフィードバック:AIの場合、学生の改訂は少なくなる。
+- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAIフィードバックと自己調整学習:知覚されたソースが重要である。
+- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — 協働的議論におけるGenAI支援ピアフィードバック。
+- [[luo-eaton-ai-student-feedback-ethics-2026]] — 学生フィードバックにおけるAIの倫理。
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — メタ認知訓練は最適な認知的オフローディングを促進する(Ngai & Gilbert 2026)。
+- [[liu-deris-ai-feedback-literacy-uptake]] — AIフィードバック・リテラシー尺度とフィードバック活用の予測(Liu & Deris 2025)。
+- [[zhan-boud-dawson-genai-feedback-engagement]] — 学生のフィードバック・エンゲージメントを可能にするGenAI(Zhan, Boud, Dawson & Yan 2025)。
+- [[mendoza-ai-feedback-feedback-literacy-srl]] — フィードバック・リテラシーがAIフィードバック→SRLの関係を調整する(Mendoza et al. 2026)。
+- [[rethinking-ai-writing-feedback-literacy]] — AI支援ライティングのためのフィードバック・リテラシー・スクリプト(Dai 2026)。
+- [[jin-genai-learning-analytics-feedback-literacy]] — フィードバックにおけるGenAIラーニング・アナリティクス(Jin et al. 2025)。
+- [[tubino-adachi-ai-automated-feedback-literacy]] — フィードバック・リテラシーのためのAI自動フィードバックツール(Tubino & Adachi 2025)。
+- [[irwin-muller-efl-peer-feedback-literacy]] — フィードバック・リテラシーのためのEFLピアフィードバックにおけるGenAI(Irwin & Muller 2026)。
+- [[ai-generated-feedback-higher-ed]] — 高等教育におけるAI生成フィードバック。
+- [[care-full-feedback-genai]] — GenAIを用いた「ケアフル」なフィードバック設計。
+- [[ai-feedback-ecosystem-higher-education-2026]] — 高等教育におけるフィードバックのエコシステム:AIはフィードバック関係を再構成し、人間はループとして機能する(Bearman et al. 2026)。
+- [[learner-centered-feedback-ai]] — 学習者中心のAIフィードバック実践。
+- [[genai-feedback-design-multisite-experiment]] — 複数サイトでのGenAIフィードバック設計。
+- [[ai-feedback-critical-thinking-writing-2026]] — ライティングにおけるAIフィードバックと批判的思考。
+- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAIによる評価が心理的リテラシー、フィードバック・リテラシー、AIリテラシーを育成する。
+- [[zhao-learnlens-feedback-educators-loop]] — LearnLens:教育者の監督を伴うカリキュラムに基づくフィードバック(Zhao et al. 2025)。
+- [[sequenced-ai-feedback-learning]] — 順序立てたAIフィードバックに関する研究。
+- [[becerra-aicofe-feedback-2026]] — AIピアフィードバックシステム。
+- [[automated-formative-assessments-a-level-sciences]] — A-level理科における自動形成的評価。
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 真正でAIに耐性のある評価としての口述試験の再考。
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies:自動ライティング・フィードバックにおけるバイアス。
+- [[shap-llm-rationales-teaching-quality-assessment]] — ルーブリックに基づく授業フィードバックにおけるSHAPとLLMによる根拠説明の比較。
+- [[llm-adaptive-programming-error-explanations-2026]] — LLMによるプログラミングエラーの適応的説明。
+- [[student-perceptions-ai-study-productivity-2026]] — 学習の生産性と学習のための人工知能ツールに関する学生の認識:探索的調査研究。
+- [[yasar-llms-iterative-pedagogical-design-2026]] — 反復的な教育設計のエージェントとしてのLLM。
 - [[gpt4-feedback-student-activation-2026]]
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[tripartite-feedback-framework-ai-assessment-2026]] — 三分法のフレームワーク：認識論的地位によってフィードバックを分類し、AIの関与のための5つの境界原理（Venetsanos 2026）
-- [[structured-reflection-ai-explanatory-feedback-2026]] — 利益か隘路か。AIによる説明的フィードバックについての構造化された省察（Asher, Gold & Carvalho 2025）
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance：AIが生成する作文フィードバックへのEFL学生の関与についての出典の信頼性という観点
-- [[pivot-generative-video-tutors-stem-2026]] — 内容の生成から学習の支援へ：STEM学習のための教育学に導かれた生成ビデオチューター
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 学生の作文に対するLLM生成フィードバックにおけるフィードバックの焦点と教育学的適応性の評価
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 感情の分類から実行可能で責任あるフィードバックへ：学生による授業評価におけるNLPのスコーピングレビューと証拠地図、2015–2026
-- [[nazaretsky-feedback-source-bias-2025]] — 誰がフィードバックを与えるかが問題になる：文章を同等に保ったとき、出典のラベルが評定を動かす（Nazaretsky et al. 2025）
-- [[ai-powered-writing-feedback-awe-review-2026]] — 作文のためのAIによるフィードバック・システム：自動作文評価（AWE）道具のレビュー
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — 改訂が書き手の構えに何をするか：ピアフィードバックは論証的エッセイをより収縮的にし、AIによる改訂はContract/Expandの均衡を保つ（Zhao & Ji 2026）
-- [[xu-automated-feedback-tutor-training-2025]] — データ拡張を通じた低資源の状況におけるチューター養成のための自動フィードバック・システムの改善（Xu et al. 2025）
-- [[etq-ai-conversational-teacher-training-2026]] — 教授の誤概念のための会話型AI診断：証拠に基づく対話(Miranda & Calvani 2026)
-- [[assessment-feedback-trilemma-model-2026]] — 使いやすさ、情報源、持続可能性の間のトレードオフを名指し、持続可能性を設計上の極にする
+- [[tripartite-feedback-framework-ai-assessment-2026]] — 三分割フレームワーク:認識論的地位によるフィードバックの分類と、AI関与に関する5つの境界原則(Venetsanos 2026)。
+- [[structured-reflection-ai-explanatory-feedback-2026]] — 利点かボトルネックか:AIの説明フィードバックに対する構造化された内省(Asher, Gold & Carvalho 2025)。
+- [[bounded-reliance-ai-writing-feedback-2026]] — 限定的依存(Bounded Reliance):EFL学習者のAI生成ライティング・フィードバックへの関与をソース信頼性の視点から捉える。
+- [[pivot-generative-video-tutors-stem-2026]] — コンテンツ生成から学習支援へ:STEM学習のための教育学的指針に基づく生成ビデオチューター。
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 学生の作文に対するLLM生成フィードバックの焦点と教育学的適応性の評価。
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 感情分類から実行可能で責任あるフィードバックへ:学生による授業評価におけるNLPのスコーピングレビューとエビデンスマップ(2015–2026)。
+- [[nazaretsky-feedback-source-bias-2025]] — 誰がフィードバックを与えるかが重要:テキストを同等に保ってもソースのラベルが評価を動かす(Nazaretsky et al. 2025)。
+- [[ai-powered-writing-feedback-awe-review-2026]] — ライティングのためのAI搭載フィードバックシステム:自動作文評価(AWE)ツールのレビュー。
+- [[zhao-ji-appraisal-human-ai-revisions-2026]] — 改訂が書き手のスタンスに及ぼす影響:ピアフィードバックは議論的エッセイをより収縮的(contractive)にし、AIによる改訂はContract/Expandの均衡を保つ(Zhao & Ji 2026)。
+- [[xu-automated-feedback-tutor-training-2025]] — データ拡張により、低リソース環境におけるチューター訓練用の自動フィードバックシステムを改善する(Xu et al. 2025)。
+- [[etq-ai-conversational-teacher-training-2026]] — 証拠に基づく対話によって授業上の誤概念を診断する会話型AI(Miranda & Calvani 2026)。
+- [[assessment-feedback-trilemma-model-2026]] — 使いやすさ、ソース、持続可能性のあいだのトレードオフを名指しし、持続可能性を設計の一極とする。
+- [[porcaro-ai-grading-benchmark-2026]] — 一致率を超えて:22のプロンプト採点者が正解の既知のプローブに挑み、その多くは対話によって点数を釣り上げられる(Porcaro 2026)。
+- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — AIと教員のフィードバックは改訂の質では同等だが、動機づけでは異なる(Liu & Shi 2026)。
+- [[xian-process-visualization-feedback-news-translation-2026]] - キーストロークと画面の痕跡から生成したフィードバックは、完成した文章へのコメントを上回った(各群11名)。
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — 3水準メタ分析:GenAIは均一な介入としてではなく、フィードバックと学習者主導の設計を通じて効果を発揮する(Zhang et al. 2026)。
+- [[wang-human-ai-vs-teacher-collaboration-instructional-design-2026]] — 教員とAIのフィードバックは次元ごとに分かれ、学習経験については食い違う。

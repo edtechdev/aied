@@ -97,29 +97,32 @@ ai_assist:
 - [[ai-avatars-and-synthetic-instructors]]
 
 ## つながる記事
-- [[learner-agency-ai-simulation-2026]] — 複雑系シミュレーションにおけるパラメータ制御と任意の AI エージェント：向上はアクセスではなく実践を追った
+
+- [[ismail-affective-domain-ai-healthcare-review-2026]] — 情意的領域の訓練ではAIシミュレーションと仮想患者が主流であり、成果は主に自己報告に基づく(Ismail & Zafira, 2026)
+- [[hernandez-ai-clinical-simulation-scoping-2026]] — 30件の研究を対象としたスコーピングレビュー:仮想患者の76.7%がテキストベースであり、推論力の向上は脚本化された症例に依存している(Hernández Rincón et al., 2026)
+- [[van-patten-freeman-rath-ai-counselor-education-scoping-2026]] — 14件の文献を対象としたスコーピングレビュー:模擬クライエントが主流で、研修者の能力は測定されていない(Van Patten-Freeman & Rath 2026)
+- [[learner-agency-ai-simulation-2026]] — 複雑系シミュレーションにおけるパラメータ制御と任意選択のAIエージェント:学習の向上に対応したのはアクセスではなく実際の実行であった
 - [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — 心理療法訓練のための適応的仮想患者
-- [[ai-enabled-serious-games]] — AI 対応のシリアスゲーム
-- [[anvil-ai-educational-animations]] — ANVIL：講師のための類推と動画
-- [[astra-atco-training-simulator]] — ASTRA：ATCO 訓練シミュレータ
-- [[supplynet-visual-exploratory-learning]] — SupplyNet：視覚的な探索的学習
-- [[medeasy-ai-standardized-patients]] — MedEASY：AI 標準化患者
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — 傍観者介入のためのロボット媒介ロールプレイゲーム（応用ドラマ）
+- [[adaptive-virtual-patient-psychotherapy-training]] — 心理療法訓練のための適応型仮想患者
+- [[ai-enabled-serious-games]] — AIを活用したシリアスゲーム
+- [[anvil-ai-educational-animations]] — ANVIL:講師のためのアナロジーと動画
+- [[astra-atco-training-simulator]] — ASTRA:ATCO訓練シミュレータ
+- [[supplynet-visual-exploratory-learning]] — SupplyNet:視覚的探索学習
+- [[medeasy-ai-standardized-patients]] — MedEASY:AI標準化患者
+- [[remind-robot-mediated-roleplay-antibullying-2026]] — 傍観者介入のためのロボット媒介ロールプレイゲーム(応用演劇)
 - [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — シナリオベースの医療教育における GenAI の体系的レビュー（Neto et al. 2026）
-- [[conversational-agents-business-simulation-gaming-2026]] — ビジネスシミュレーションゲームにおける AI 会話エージェントのための CAIS-GBL 枠組み（Wenzel et al. 2026）
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — 協働的問題解決の対話を再現するファインチューニングされた参加者固有の LLM エージェント（Fang 2026）
-- [[astra-multi-agent-tutoring-benchmark-2026]] — マルチエージェント個別指導と参加が均衡した協働のための ASTRA 合成ベンチマーク
-- [[simulation-assisted-drone-learning-stem-2026]] — 教師と AI の協働設計による足場かけを用いたシミュレーション支援のドローン学習
+- [[genai-scenario-based-healthcare-education-2026]] — シナリオベースの医療教育におけるGenAIのシステマティックレビュー(Neto et al. 2026)
+- [[conversational-agents-business-simulation-gaming-2026]] — ビジネスシミュレーションゲームにおけるAI対話エージェントのためのCAIS-GBLフレームワーク(Wenzel et al. 2026)
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — 協調的問題解決の対話を再現する、参加者ごとにファインチューニングされたLLMエージェント(Fang 2026)
+- [[astra-multi-agent-tutoring-benchmark-2026]] — マルチエージェントによる個別指導と参加の均衡が取れた協働のためのASTRA合成ベンチマーク
+- [[simulation-assisted-drone-learning-stem-2026]] — 教師とAIが共同設計した足場かけを用いるシミュレーション支援型ドローン学習
 - [[an-goel-self-directed-modeling-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — 看護における AI 駆動シミュレーション：混合研究法による体系的レビュー（オーセンティシティのギャップ、段階的な連続体）
-- [[sophie-clinical-communication-ai-assessment-2026]] — スケーラブルな AI ベースの臨床コミュニケーション訓練と自動評価
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM 教育におけるデジタルツイン：プロトタイプはすべて動作したが、学習成果はほとんど動作しなかった
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — 反転学習のための AI 支援の仮想実験室：中学生の達成度、動機づけ、認知的負荷への効果
-
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — 表される実践、シミュレートされた状況、主体性と適応、編成を分ける四層の枠組み
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — 技術導入からカリキュラムの一貫性へ：医療職教育における橋としての技術強化型シミュレーション
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — シミュレーションの循環において教師が会話エージェントに委譲できないもの
-
+- [[jiang-ai-powered-simulation-nursing-education-2026]] — 看護におけるAI活用シミュレーション:混合研究法システマティックレビュー(真正性のギャップ、段階的連続体)
+- [[sophie-clinical-communication-ai-assessment-2026]] — スケーラブルなAIベースの臨床コミュニケーション訓練と自動評価
+- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM教育におけるデジタルツイン:プロトタイプはすべて動作したが、学習成果の向上はほとんど見られなかった
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — 物理の反転学習のためのAI支援仮想実験室:中学生の学業成績、動機づけ、認知負荷への効果
+- [[theelen-classroom-simulations-four-layer-framework-2026]] — 表現される実践、シミュレートされる状況、エージェンシーと適応、オーケストレーションを分離する4層フレームワーク
+- [[herrera-alcaino-simulation-curricular-coherence-2026]] — テクノロジーの導入からカリキュラムの一貫性へ:医療専門職教育における橋渡しとしてのテクノロジー強化型シミュレーション
+- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — シミュレーションのサイクル全体を通じて、教師が対話エージェントに委任できないもの
+- [[tischkau-ai-simulated-patient-formats-2026]] — ファシリテーター付きグループ形式と個人用ノートPC形式で用いた同一のLLM患者:学生1人あたり1セッション約US\$2で、学習者の評価には検出可能な差がなかった(Tischkau et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: 数学教育
 created: "2026-10-10T22:48:00-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -10,7 +10,7 @@ audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/math-education
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

@@ -127,40 +127,41 @@ ai_assist:
 - [[productive-failure]] — 生産的な失敗
 
 ## 関連する記事
-- [[kumar-genai-computing-education-systematic-review-2026]] — 検証を執行する機構としての足場の撤回(VIEの枠組み)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 臨床面接訓練のための足場かけ指向のマルチエージェント大規模言語モデルシステムの評価
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ビデオ内の知識と感情の足場かけとしてのエントロピーに基づくタイミングのAIコメント(Wang、Du、Jin 2026)
-- [[guided-llm-scaffolding-independent-learning]] — 構造化された学習への介入としての誘導的なLLMプロンプティング
-- [[scaffolding-critical-engagement-genai-minority-students]] — GenAIを用いた文化的に応答的な批判的関与の足場かけ
-- [[rethinking-scaffolding-llm-tutors]] — LLMチューターにおける足場かけの設計パターン
-- [[concept-catalyst-engineering-scaffolds]] — 概念変化のためのConcept Catalystの足場かけ
-- [[correct-answer-trap-ai-tutor]] — ヒントが助けになるときと過度の依存を助長するとき
-- [[critical-thinking-genai-scaffolding]] — GenAIを用いた批判的思考の足場かけ
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforgeを用いた足場かけされた物語の起草
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — 代替から足場かけへ。自己強化的な害の循環を断つ
-- [[preferred-scaffolding-ai-mathematical-modeling]] — AI支援を受けた数学的なモデル化において好まれる足場かけ
-- [[agentic-ai-pedagogical-best-practice-2026]] — 主体論的なAIのガードレールとしての動的(フェードする)な足場
-- [[zhang-tutormoments-2026]] — 助けが助けにならないとき。生産的な試行錯誤のためのAIチューターの評価
-- [[kim-ai-productive-failure-adult-2026]] — 生産的な失敗に基づく学習を支えるAIシステムの設計
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的な失敗のためのLLMの教授法的な操縦
-- [[making-ai-tutoring-productive-mastery-math-2026]] — AI個別指導を生産的にする。習熟度に基づく算数の練習
-- [[brcic-effortless-trap-productive-struggle-2026]] — 守られたAI対守られていないAI。配置の規則(Brcic & Frljic 2026)
-- [[ai-supported-experimental-design-chemistry-2026]] — 実践的な化学におけるAI支援を受けた実験設計
-- [[scaffolding-systematic-reviews-2026]] — メンタリングとAIを用いたシステマティックレビューの足場かけ(Wang 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — 学習の設計におけるGenAI相互作用の間の養成段階の教師の主体性(Krushinskaia、Elen、Raes 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — 数学の教師教育における教授法の実践にわたるAI。構造化されたリハーサルのフィードバックが探究的な問いを増やした(Bondurant & Shaughnessy 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — インストラクショナルデザインとしてのAI統合。AIの出力に対する批判は割り当てられなければならず、学問的な分析が先に来る
-- [[ai-literacy-tool-design-programming-education-2026]] — ヒントに予算を割り当てられたAIスタディコーチ。足場かけされた対制約のないGenAI使用、そして制約だけが学習を生まなかった理由(Azimi 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN。課題がどの下位領域に属するかを決めることとして再構想された足場かけ
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 形成的な足場かけとしての自動採点。対象とする欠陥が分解可能で確実かつ感度よく尺度化されている場合にのみ成果に転化する(Chen & Liu 2026)
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 音楽の練習において学習者の現在の境界を追跡し、誤り検出を選別とする閉ループの適応的な足場かけ(Zhuら2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 足場の形は課題だけでなく子どもの発達的な能力と一致しなければならない(Niuら2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — 足場は表象の翻訳と検証を要求しなければならない。学生は理解していないことを検証できないため(Vega-Baudrit & Rivera Álvarez 2026)
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — 視覚化だけでは不十分な幾何において、視覚的直観から演繹的な証明への橋となる促しの足場かけとしてのGenAI(Davor 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — 誘導的なAIチューターが学生の行き詰まりを解消する仕方のばらつきの検討
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — STEMの問題解決におけるGenAI使用のための足場かけとしての学習者の訓練(Huangら2026)
-- [[etq-ai-conversational-teacher-training-2026]] — 教授の誤概念のための会話型AI診断：証拠に基づく対話(Miranda & Calvani 2026)
 
-- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — 自習型コースにおける内容と時間の足場かけの層、学習時期別の遅延開始率と失敗率
-- [[assistance-dilemma-rl-tutoring-2026]] — 支援のジレンマ：報酬の地平が問題とともに終わる多ターンRLチューターを訓練すると、フェードが訓練で失われる（Macina、Kapur、Sachan 2026）
-
+- [[stone-gpt5-kinematics-sensemaking-2026]] — より優れたモデルではなく、段階付けされたルーブリックが、学生の対話を手順探しの質問から思考の言語化へと移行させた（Stone, Zhang & Utter, 2026）
+- [[kumar-genai-computing-education-systematic-review-2026]] — 検証を強制するメカニズムとしてのスキャフォールドの撤去（VIEフレームワーク）
+- [[ai-standardized-patient-scaffolding-medical-2026]] — 臨床面接訓練のためのスキャフォールディング指向マルチエージェント大規模言語モデルシステムの評価
+- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — エントロピーに基づいてタイミングを制御したAIコメントによる、動画内での知識的・情動的スキャフォールディング（Wang, Du & Jin 2026）
+- [[guided-llm-scaffolding-independent-learning]] — 構造化された学習介入としてのガイド付きLLMプロンプティング
+- [[scaffolding-critical-engagement-genai-minority-students]] — GenAIを用いた文化応答型の批判的関与のスキャフォールディング
+- [[rethinking-scaffolding-llm-tutors]] — LLMチューターにおけるスキャフォールディングのデザインパターン
+- [[concept-catalyst-engineering-scaffolds]] — 概念的変容のためのConcept Catalystスキャフォールド
+- [[correct-answer-trap-ai-tutor]] — ヒントが役立つ場合と、過度な依存を促してしまう場合
+- [[critical-thinking-genai-scaffolding]] — GenAIによる批判的思考のスキャフォールディング
+- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforgeによるスキャフォールドされた物語の草稿執筆
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — 代替からスキャフォールディングへ：自己強化する害の循環を断ち切る
+- [[preferred-scaffolding-ai-mathematical-modeling]] — AIが支援する数学的モデリングにおいて学習者が選好するスキャフォールディング
+- [[agentic-ai-pedagogical-best-practice-2026]] — エージェント型AIのガードレールとしての動的（フェーディングする）スキャフォールド
+- [[zhang-tutormoments-2026]] — 助けが助けにならないとき：生産的な苦闘の観点からAIチューターを評価する
+- [[kim-ai-productive-failure-adult-2026]] — 生産的失敗に基づく学習を支援するAIシステムの設計
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的失敗のためのLLMの教育学的ステアリング
+- [[making-ai-tutoring-productive-mastery-math-2026]] — AIチュータリングを生産的にする：習得基準に基づく数学練習
+- [[brcic-effortless-trap-productive-struggle-2026]] — ガード付きAIとガードなしAI：配置のルール（Brcic & Frljic 2026）
+- [[ai-supported-experimental-design-chemistry-2026]] — 実習化学におけるAI支援の実験設計
+- [[scaffolding-systematic-reviews-2026]] — メンタリングとAIによるシステマティックレビューのスキャフォールディング（Wang 2026）
+- [[preservice-teacher-agency-genai-design-learning-2026]] — 学習設計におけるGenAIとの相互作用の過程での教職課程学生の主体性（Krushinskaia, Elen & Raes 2026）
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — 数学教師教育における実践の教授法全体にわたるAI活用：構造化されたリハーサル・フィードバックが掘り下げた問いかけを増やした（Bondurant & Shaughnessy 2026）
+- [[ai-integration-instructional-design-collaboratory-2026]] — インストラクショナルデザインとしてのAI統合：AI出力の批判的検討を課題として課す必要があり、教科固有の分析が先に来る
+- [[ai-literacy-tool-design-programming-education-2026]] — ヒントに上限を設けたAI学習コーチ：スキャフォールドされたGenAI利用と無制限のGenAI利用、そして制約だけでは学習が生まれなかった理由（Azimi 2026）
+- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN：課題がどのサブゾーンに属するかを判断することとして再定義されたスキャフォールディング
+- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 形成的スキャフォールディングとしての自動採点：対象とする弱点が分解可能で、信頼性が高く、感度のある尺度で測れる場合にのみ学習の伸びに転化する（Chen & Liu 2026）
+- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 音楽練習における学習者の現在の限界を追跡する閉ループ型適応スキャフォールディングであり、誤り検出をトリアージとして用いる（Zhu et al. 2026）
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — スキャフォールドの形式は課題だけでなく、子どもの発達的能力に適合しなければならない（Niu et al. 2026）
+- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — 学生は理解していないものを検証できないため、スキャフォールドは表現間の変換と検証を要求しなければならない（Vega-Baudrit & Rivera Álvarez 2026）
+- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — 可視化だけでは不十分な幾何において、視覚的直観から演繹的証明へと橋渡しする問いかけのスキャフォールドとしてのGenAI（Davor 2026）
+- [[guided-ai-tutor-impasse-resolution-2026]] — ガイド付きAIチューターが学生の行き詰まりを解消する方法のばらつきの検討
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — STEMの問題解決におけるGenAI利用のスキャフォールディングとしての学習者への訓練（Huang et al. 2026）
+- [[etq-ai-conversational-teacher-training-2026]] — 証拠に基づく対話によって指導に関する誤概念を診断する会話型AI（Miranda & Calvani 2026）
+- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — 自己ペース型コースにおける内容的・時間的スキャフォールディングの層と、学習タイミング別の開始遅延率・不合格率
+- [[assistance-dilemma-rl-tutoring-2026]] — 支援のジレンマ：報酬の及ぶ範囲がその問題で終わるマルチターンRLチューターを訓練すると、フェーディングアウトが学習される（Macina, Kapur & Sachan 2026）
+- [[cruz-structured-ai-tutoring-computer-architecture-2026]] — 教員が作成したシステムプロンプトに書き込まれた固定のフェーディング段階

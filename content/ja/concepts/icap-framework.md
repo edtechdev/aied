@@ -1,7 +1,7 @@
 ---
 title: ICAPフレームワーク
 created: "2026-10-10T22:38:10-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -83,10 +83,12 @@ ICAPが重視する生成的で過程に即した関与は、生成AIを使っ�
 
 ## 設計と研究への含意
 
-1. **より高いモードに向けて設計する。** AIツールは、受動的な内容を届けたり答えを出す機械として働いたりするのではなく、学習者が生成し、説明し、対話する——構成的で相互作用的な活動——よう促すべきです。([[multimodal-learning-genai]])
-2. **複数のモードにわたって学習者を関与させる。** 効果的な[[ai-literacy|AIリテラシー]]の指導は、学習者を複数のICAP水準——受動的な接触、能動的な操作、構成的な生成、相互作用的な対話——で関与させ、学習目標に合ったモードを選びます。([[hingle-collaborative-ai-literacy-2025]])
-3. **関与を正直に測定する。** ICAPは、真の認知的関与と単なる活動を見分けるための共通の語彙を研究者と設計者に与えます。これは浅い[[student-engagement]]への修正です。([[icap-cognitive-engagement-llm-agents]])
-4. **人間とLLMのアノテーション格差に注意する。** 関与のコーディングに自動化システムを使うなら、訓練を受けた人間に対する組織的な不足を考慮に入れなければなりません。([[icap-cognitive-engagement-llm-agents]])
+1. **より高いモードに向けて設計する。** AIツールは、受動的な内容を届けたり答えを出す機械として働いたりするのではなく、学習者が生成し、説明し、対話する——構成的で相互作用的な活動——よう促すべきです。([[multimodal-learning-genai|Varga-Atkins et al., 2026]])
+2. **複数のモードにわたって学習者を関与させる。** 効果的な[[ai-literacy|AIリテラシー]]の指導は、学習者を複数のICAP水準——受動的な接触、能動的な操作、構成的な生成、相互作用的な対話——で関与させ、学習目標に合ったモードを選びます。([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]])
+3. **関与を正直に測定する。** ICAPは、真の認知的関与と単なる活動を見分けるための共通の語彙を研究者と設計者に与えます。これは浅い[[student-engagement|学習者の関与]]への修正です。([[icap-cognitive-engagement-llm-agents|Do et al., 2026]])
+4. **人間とLLMのアノテーション格差に注意する。** 関与のコーディングに自動化システムを使うなら、訓練を受けた人間に対する組織的な不足を考慮に入れなければなりません。([[icap-cognitive-engagement-llm-agents|Do et al., 2026]])
+
+上限を決めるのは、ツールの設計だけでなく課題の設計です。40の大学講義でコーディングされた829件のスレッドでは、対話が構成的または相互作用的であった場合に生み出された成果物が、最終的な質についてピア評価がわずかに高くなりました([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang et al. (2026)]])。
 
 ## よくある誤解
 

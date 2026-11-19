@@ -178,56 +178,56 @@ Al Nafjan（2026）は、厳格さとコミットメントの整合の枠組み�
 
 ## 関連記事
 
-- [[favero-thinking-not-writing-chatbot-2026]] — Thinking Is Not Writing: Designing AI Chatbots to Connect Reasoning and Revision
-
-- [[gunay-ozden-process-genre-ai-writing-2026]] — 32人の学生による準実験：プロセスとジャンルの指導が情報的、マルチモーダル、AI支援の執筆を高めた（Günay & Özden 2026）
-- [[wu-lam-genai-writing-assessment-professors-2026]] — AIで採点することについての24人の執筆の教員：フィードバックへの便益、スコアの漂流、制度的な規則なし
-- [[genai-l2-written-feedback-scoping-review-2026]] — 51件の研究のスコーピングレビュー：プロンプトの透明性の欠落と、AIと教員の組み合わせがどちらか単独より優れる理由
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — 職前の教師の教室のAI方針：緊張と絡み合い
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 大規模な執筆評価におけるAI支援の採点のためのHuman-in-the-Loopフレームワーク
-- [[llm-comparative-judgment-writing-screening-2026]] — 全員対象の執筆のスクリーニングのための大規模言語モデルの比較判断の妥当性
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 生成的AI支援の執筆における層に敏感な認知的オフローディング（Chen 2026）
-
-- [[coach-not-crutch-ai-writing]] — AIの執筆ツールは労苦を減らしながら執筆のスキルを改善できる（Liraら 2025）
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMは人間のようにエッセイを評定しない（Mathewら 2026）
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection（PAIRR）
+- [[powell-chatbot-enhanced-oer-composition-2026]] — テキストが語り返す:非同期型Composition IIにおけるチャットボット強化OER(Powell et al., 2026)- [[favero-thinking-not-writing-chatbot-2026]] — 思考することは書くことではない:推論と推敲をつなぐAIチャットボットの設計
+- [[gunay-ozden-process-genre-ai-writing-2026]] — 学生32名の準実験:プロセス・ジャンル指導が情報伝達的写作、マルチモーダル写作、AI支援写作を向上させた(Günay & Özden 2026)
+- [[wu-lam-genai-writing-assessment-professors-2026]] — AIによる採点について語る24名のライティング教員:フィードバックの利点、評点の漂移、機関としての規程の不在
+- [[genai-l2-written-feedback-scoping-review-2026]] — 51件のスコーピングレビュー:プロンプトの透明性の欠落と、AIと教師の併用がどちらか単独より優れる理由
+- [[nash-preservice-teachers-classroom-ai-policies-2026]] — 教職課程学生の教室AIポリシー:緊張と絡み合い
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 大規模ライティング評価におけるAI支援採点のためのHuman-in-the-Loopフレームワーク
+- [[llm-comparative-judgment-writing-screening-2026]] — ユニバーサル・ライティングスクリーニングにおける大規模言語モデル比較判断の妥当性
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI支援ライティングにおける層に敏感な認知的オフローディング(Chen 2026)
+- [[coach-not-crutch-ai-writing]] — AIライティングツールは努力を減らすにもかかわらず文章力を向上させうる(Lira et al. 2025)
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMは人間のようにエッセイを採点しない(Mathew et al. 2026)
+- [[pairr-ai-peer-review-2025]] — ピアレビューとAIレビュー+内省(PAIRR)
 - [[posthumanist-ai-literacy-2025]] — AIリテラシーへのポストヒューマニスト的アプローチ
-- [[choi-anchor-aes-prompting-2025]] — アンカーベースの自動エッセイ採点
-- [[aiawe-automated-writing-evaluation]] — AIAWE：自動執筆評価
-- [[agency-gap-ai-writing]] — AI支援の執筆における主体性のギャップ
-- [[ai-writing-support-stage-ownership-2026]] — 計画から修正へ：異なる段階でのAIの執筆支援
-- [[genai-teacher-feedback-comparison]] — 生成的AIと教師のフィードバックの比較
-- [[student-rationalization-ai-writing]] — 「大丈夫だ、なぜなら……」：学生の正当化の無法地帯
-- [[care-full-feedback-genai]] — 心を配るフィードバックのアプローチ
-- [[self-referential-l2-writing-llm-assessment]] — 自己参照的なL2の執筆評価
-- [[becerra-aicofe-feedback-2026]] — AIの相互フィードバックシステム
-- [[repeated-ai-writing-feedback-semester]] — 繰り返されるAIのフィードバックに対する学生の評価
-
-- [[ai-feedback-critical-thinking-writing-2026]] — 批判的思考を改善するためのAI生成のフィードバックの利用
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies：パーソナライズされた自動執筆フィードバックにおける言語学的な偏り
-- [[bassett-ai-detectors-education-2026]] — 表なら我々の勝ち、裏ならあなたの負け：教育におけるAI検出器（Bassettら 2026）
-- [[academic-erasure-complexity-ai-writing-2026]] — 学問的な消去：AI支援の執筆の下での複雑さの消失
-
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — 初等の執筆におけるマルチモーダルAIの構成と批判的思考（Luら 2027）
-- [[student-genai-use-views-writing]] — 執筆における生成的AIの利用と見解（Kuznetsov, Sheely & Baker 2026）
-- [[genai-writing-program-primary-l2-motivation-engagement]] — 初等のL2の動機づけ、関与、パフォーマンスのための生成的AI支援の執筆プログラム（Luら 2026）
-- [[automated-scoring-marketing-posts-agreement-2026]] — 学生のマーケティング投稿の自動採点における一致と誤り
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — プロンプト作成のリテラシーと内発的な動機づけが深い修正を駆動し、外的な命令は直接的な効果を持たない（Li & Zhang 2026）
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 学生の執筆に対するLLM生成のフィードバックにおけるフィードバックの焦点と教育学的な適応性の評価
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — 8週間の準実験における異質なL2の足場としての教師のフィードバック対AI支援の相互フィードバック（Tangら 2026）
-- [[genai-writing-performance-meta-analysis-2026]] — 生成的AIの執筆のパフォーマンスのメタ分析：大きなプールされた効果、脆い大きさ、教育法よりも方法論（Teng 2026）
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — AIの執筆のカスタマイズと理論—デザインの不整合のシステマティックレビュー（Luo 2026）
-- [[human-ai-collaboration-academic-writing-2026]] — 学術的な執筆とデジタルの批判的思考における構造化された人間とAIの協働（Alshehriら 2026）
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — 同じ草稿の人間とAIの修正は異なる対話的な立場を取る：相互フィードバックは対話的な空間を閉じ、AIの修正はそれを均衡に保つ（Zhao & Ji 2026）
-- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock：先行する関与にAIの出力を条件づけることが時間や正確さを犠牲にせずに労苦を執筆に再分配した（N = 398）
-- [[genai-srl-l2-writing-scale-2026]] — L2の執筆のための6次元の生成的AI-SRL尺度、環境的な規制（道具のガバナンス）を独自の次元として
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — AIを仲間のフィードバックと対にすることがエンゲージメントと執筆のスコアを上げる
-- [[when-students-prefer-ai-scoring-feedback-2026]] — 学生は高リスクの端に人間を求める
-- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — 学部の生物学の学生によるAI支援のフィードバックの利用：受容と障壁（Weston and Long 2026）
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — 学術的な執筆における生成AIの責任ある学生の利用：境界、教育的なアプローチ、証拠の欠落に関するスコーピングレビュー
-- [[porcaro-ai-grading-benchmark-2026]] — 一致を超えて：22 のプロンプト与えられた採点者は正解が既知の探査に当たり、その大半は言いくるめられる（Porcaro 2026）
-- [[porcaro-ai-grader-reliability-2026]] — 学習者の文脈は同一の仕事に対する LLM 採点者の評点を変える（Porcaro 2026, Paper VI）
-- [[jelson-students-chatgpt-essay-writing-2026]] — 痕跡から測る委任：137 の全体課題の問い、自分の入力した語のないエッセイを提出した 15 人（Jelson et al. 2026）
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — GenAI 時代の執筆の関与の二つの次元としての厳格さと教師のコミットメント
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 クラス、10 コース、654 人：PAIRR の代表的な展開とそのフィードバックのみのプロンプト
+- [[choi-anchor-aes-prompting-2025]] — アンカー基準の自動エッセイ採点
+- [[aiawe-automated-writing-evaluation]] — AIAWE:自動作文評価
+- [[agency-gap-ai-writing]] — AI支援ライティングにおけるエージェンシーのギャップ
+- [[ai-writing-support-stage-ownership-2026]] — 計画から推敲まで:段階ごとに異なるAIライティング支援
+- [[genai-teacher-feedback-comparison]] — 生成AIと教師のフィードバックの比較
+- [[student-rationalization-ai-writing]] — 「…だから問題ない」:学生の正当化が跋扈する無法地帯
+- [[care-full-feedback-genai]] — ケアに満ちたフィードバックのアプローチ
+- [[self-referential-l2-writing-llm-assessment]] — 自己言及的なL2ライティング評価
+- [[becerra-aicofe-feedback-2026]] — AIピアフィードバックシステム
+- [[repeated-ai-writing-feedback-semester]] — 反復的なAIフィードバックに対する学生の評価
+- [[ai-feedback-critical-thinking-writing-2026]] — AI生成フィードバックを用いた批判的思考の向上
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — マークされた教育法:個別化された自動ライティングフィードバックにおける言語的バイアス
+- [[bassett-ai-detectors-education-2026]] — 表が出れば我々の勝ち、裏が出ればお前の負け:教育におけるAI検出器(Bassett et al. 2026)
+- [[academic-erasure-complexity-ai-writing-2026]] — 学術的消去:AI支援ライティングの下で複雑性が失われること
+- [[lu-ai-multimodal-writing-critical-thinking-2026]] — 初等教育のライティングにおけるマルチモーダルAI作文と批判的思考(Lu et al. 2027)
+- [[student-genai-use-views-writing]] — ライティングにおける学生のGenAI利用とその見方(Kuznetsov, Sheely & Baker 2026)
+- [[genai-writing-program-primary-l2-motivation-engagement]] — 初等教育のL2学習者の動機づけ、エンゲージメント、成績を高めるGenAI支援ライティングプログラム(Lu et al. 2026)
+- [[automated-scoring-marketing-posts-agreement-2026]] — 学生のマーケティング投稿の自動採点における一致と誤差
+- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — プロンプティング・リテラシーと内発的動機づけが深い推敲を促す一方、外部からの義務づけは直接的な効果を持たない(Li & Zhang 2026)
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 学生の作文に対するLLM生成フィードバックの焦点と教育的適応性の評価
+- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — 8週間の準実験における異質なL2足場かけとしての教師フィードバック対AI支援ピアフィードバック(Tang et al. 2026)
+- [[genai-writing-performance-meta-analysis-2026]] — GenAIとライティング成績のメタ分析:大きな統合効果量、脆弱な効果の大きさ、教育法より方法論(Teng 2026)
+- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — AIライティングのカスタマイズと理論・設計の不一致に関するシステマティックレビュー(Luo 2026)
+- [[human-ai-collaboration-academic-writing-2026]] — 学術的ライティングとデジタル批判的思考における構造化された人間とAIの協働(Alshehri et al. 2026)
+- [[zhao-ji-appraisal-human-ai-revisions-2026]] — 同じ草稿に対する人間とAIの修正は異なる対話的スタンスをとる:ピアフィードバックは対話空間を閉じ、AIの修正はそれを均衡に保つ(Zhao & Ji 2026)
+- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock:事前の取り組みを条件にAI出力を解禁する仕組みが、時間や正確性を損なわずに努力を執筆へ再配分した(N = 398)
+- [[genai-srl-l2-writing-scale-2026]] — L2ライティングのための6次元GenAI-SRL尺度:環境調整(ツールのガバナンス)を独立した次元として位置づける
+- [[ai-peer-feedback-l2-writing-engagement-2026]] — AIとピアフィードバックの併用はエンゲージメントとライティングの得点を高める
+- [[when-students-prefer-ai-scoring-feedback-2026]] — 学生は利害の大きい場面では人間を求める
+- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — 生物学専攻の学部生による科学的文章の推敲のためのAI活用フィードバックの利用:受容と障壁(Weston and Long 2026)
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — 学術的ライティングにおける学生の責任ある生成AI利用:境界、教育的アプローチ、エビデンスの空白に関するスコーピングレビュー
+- [[porcaro-ai-grading-benchmark-2026]] — 一致率を超えて:22種のプロンプト採点者が正解既知のプローブに挑み、その大半は言葉巧みに点数を引き上げられてしまう(Porcaro 2026)
+- [[porcaro-ai-grader-reliability-2026]] — 同一の答案でも学習者の文脈によってLLM採点者の評点が変わる:6モデルでの項目内アブレーションによる測定(Porcaro 2026, Paper VI)
+- [[jelson-students-chatgpt-essay-writing-2026]] — 痕跡から測った委任:課題全体を丸投げするクエリ137件、自分で一字も入力せずにエッセイを提出した学生15名(Jelson et al. 2026)
+- [[al-nafjan-genai-eap-writing-engagement-2026]] — GenAI時代のライティング・エンゲージメントの2次元としての厳格さと教師へのコミットメント
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13クラス、10科目、654名の学生:PAIRRの旗艦的導入とフィードバック限定プロンプト
+- [[alam-process-oriented-collaborative-essays-2026]] — プロセス志向の協働エッセイ:反復と協働を採点対象とし、境界内でのGenAI利用を許可する(Alam & Jackson 2026)
+- [[webb-davies-voice-first-written-assessment-2026]] — 自宅で書かれた提出物を採点する前に、監視下で推論過程を確保する2段階の筆記評価:関連が不明瞭な場合は条件付きの口頭試問を行う(Webb-Davies, Ratner & Bassett 2026)
+- [[black-box-assessment-winstone-2026]] — ブラックボックス評価:プロセスの窓、証拠としての誤り、可視化による誠実性(Winstone, Gravett & Elkington 2026)
+- [[dumin-ai-research-projects-first-year-writing-2026]] — 1年次英語作文におけるAIリサーチプロジェクトの分析
+- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] — 社会学を学ぶ18名の学生:アウトライン作成と推敲にChatGPTを使い、理論は自ら確認しなければならなかった

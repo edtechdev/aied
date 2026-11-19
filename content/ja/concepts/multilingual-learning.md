@@ -85,13 +85,14 @@ LLMを基盤とする比較判定は、バイアスがモデルではなく人�
 
 ## 関連記事
 
-- [[llm-comparative-judgment-writing-screening-2026]] — 普遍的な文章スクリーニングのための大規模言語モデル比較判定の妥当性
-- [[genai-chatbots-language-learning-affordances-review-2026]] — GenAI チャットボットはトランスランゲージングを可能にする。以前の言語ツールが支えなかった利用
-- [[multilingual-adaptive-learning-nigeria-2026]] — ナイジェリアのためのAIベース適応学習プラットフォーム
-- [[bilingual-llm-lecture-companion-srl-2026]] — バイリンガルLLM講義コンパニオン
-- [[structural-silence-underrepresented-language-ai-2026]] — 構造的沈黙：十分に代表されていない言語
-- [[llm-cultural-relevance-k12]] — K-12におけるLLMの文化的適切性
-- [[scaffolding-critical-engagement-genai-minority-students]] — マイノリティ生徒におけるGenAIとの批判的関与
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct：インドの知識体系データセット
-- [[kutti-ai-voice-first-learning-companion]] — 音声ファーストの学習コンパニオン
-- [[ai-scoring-language-bias-physics]] — 物理学におけるAI採点の言語バイアス
+- [[genai-chatbots-language-learning-affordances-review-2026]] — GenAI チャットボットは、従来の言語ツールが支援しなかったトランスランゲージングを可能にする。
+- [[llm-comparative-judgment-writing-screening-2026]] — 作文のユニバーサルスクリーニングにおける大規模言語モデル比較判断の妥当性。
+- [[multilingual-adaptive-learning-nigeria-2026]] — Nigeria 向けの AI ベース適応学習プラットフォーム。
+- [[bilingual-llm-lecture-companion-srl-2026]] — バイリンガル LLM 講義コンパニオン。
+- [[structural-silence-underrepresented-language-ai-2026]] — 構造的沈黙:過小代表の言語。
+- [[llm-cultural-relevance-k12]] — K-12 における LLM の文化的関連性。
+- [[scaffolding-critical-engagement-genai-minority-students]] — 少数派学生における GenAI への批判的関与。
+- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct:インド知識体系データセット。
+- [[kutti-ai-voice-first-learning-companion]] — 音声優先の学習コンパニオン。
+- [[ai-scoring-language-bias-physics]] — 物理における AI 採点の言語バイアス。
+- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — Curacao と Aruba における会話型 AI を用いた4言語コードスイッチング(Bush et al., 2026)。

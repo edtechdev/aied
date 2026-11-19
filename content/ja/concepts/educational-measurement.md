@@ -64,45 +64,47 @@ ai_assist:
 
 ## ナレッジベースの測定尺度
 
-教育測定の中心的な機能は、**尺度**——構成概念を操作化する具体的なスケール、テスト、コーディング方案——の開発、検証、使用です。ナレッジベースの記事は、教育における AI の構成概念に関する幅広い尺度を記録しており、それは何を測るかと、どのような測定アプローチによるかによって分類できます。
+教育測定の中心的な機能は、構成概念を操作化する具体的な尺度、テスト、コーディング・スキームである**測定ツール**の開発、妥当性検証、使用である。文献には教育におけるAIの構成概念に関する幅広い測定ツールが記録されており、これらは何を測定するか、またどのような測定アプローチをとるかによって分類できる。
 
-### AI / 生成 AI リテラシーの尺度
+### AI / GenAI リテラシーの測定ツール
 
-AI リテラシーは、ナレッジベースで最も豊富な尺度のカバレッジを持つ構成概念です。大きく二つの系列があります。**パフォーマンスベースのテスト**（客観的で自己報告バイアスの影響を受けにくい）と**自己報告尺度**（主観的で、知覚された力量を捉える）です。その第二の系列のトレードオフは、[[self-report-measures|自己報告尺度]]の主題です。自己報告は態度や知覚に安価に届きますが、力量や行動についての主張を担うことはできず、ナレッジベースは並行した自己報告とパフォーマンス尺度とを比較したときの 40% の過大評価ギャップを記録しています。
+AIリテラシーは、測定ツールの蓄積が最も豊富な構成概念である。大きく二つの系統が存在する。**遂行ベースのテスト**(客観的で、自己報告バイアスの影響を受けにくい)と**自己報告尺度**(主観的で、本人が知覚する有能感を捉える)である。後者の系統のトレードオフは[[self-report-measures|自己報告測定]]の主題である。自己報告は態度や知覚を低コストで捉えられるが、能力や行動に関する主張を支えることはできず、対応する自己報告測定と遂行測定を比較すると40%の過大評価の隔たりが生じる。
 
-- **パフォーマンスベース（客観的）な尺度。** 旗艦は[[jin-glat-genai-literacy-assessment|GLAT（Generative AI Literacy Assessment Test）]]で、4 次元（知る・理解する、使う・応用する、評価する・創る、[[ethics|倫理]]）にわたる 25 概念の設計図に基づく 20 項目の多肢選択尺度であり、355 人の学生で CTT + 2PL IRT によって検証されました（RMSEA = 0.03、CFI = 0.97、α = 0.80、ω = 0.81）。重要なことに、GLAT の得点は自己報告ができなかった AI 支援タスクの成績を予測しました——AI リテラシーについては**パフォーマンスベースの測定が自己報告に勝つ**という証拠です。[[ai-literacy-assessment-misalignment|AI リテラシーの不整合]]の関連研究は、自己報告とパフォーマンスベースの AI リテラシーの間のギャップを定量化し（教師は約 40% 過大評価）、[[tracing-genai-literacy-interaction-patterns|生成 AI リテラシーの相互作用パターンの追跡]]は、報告された利用に頼るのではなく実際の学生–AI 相互作用パターンを追跡します。
-- **教師が何を知っているかだけでなく、何をするかを測る。** 486 人の教師の検証により、教師の生成 AI の教育的利用のための 6 次元尺度——管理、教材作成、評価、エンパワーメント、多様性、動機づけ——が得られ、利用が多次元的であることが確認されました。ただし自己報告は教室実践についての主張を担うことはできません（[[questionnaire-teachers-genai-uses-validation-2026|Pérez-Montesdeoca et al. (2026)]]）。
-- **自己報告尺度。** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]は、AI リテラシーを 3 つの領域（AI の概念、応用と技術的スキル、AI のデジタル市民性）と 4 つの足場かけされた水準に操作化し、[[ai-literacy-heptagon-2026|AI リテラシーのヘプタゴン]]は 7 つの次元（技術、応用、[[critical-thinking|批判的思考]]、倫理、社会的影響、統合、法的・[[regulation|規制的]]）を 4 つのブルームに沿った熟達水準で構造化します。[[genai-skill-bypass-literacy|GenAI スキルバイパス]]は学生と教職員の分岐する AI リテラシーの経路を対応づけ、[[panciroli-ai-literacy-episodes-situated-learning|パンシローリの AI リテラシーエピソード]]はリテラシー評価を[[situated-learning|状況づけられた学習]]のエピソードに根づかせます。年少の学習者のための尺度開発も進んでいます。[[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan and Srikoon (2025)]]の AI リテラシー[[self-assessment|自己評価]]質問紙（AIL-SAQ）は、小学 4 年生から 6 年生の学生のための 15 項目の自己報告尺度で、AI について学ぶこと、AI の仕組みについて学ぶこと、AI と共に生きるために学ぶことを軸に構成され、335 人の学生で探索的因子分析、さらに 579 人で確認的因子分析によって検証され、全体の Cronbach の α は .934 です。
-- **[[discipline-specific-aied|領域固有]]の AI リテラシー。** [[teacher-education-ai-literacy-sdt-2026|教師教育における AI リテラシー研究]]は、[[self-determination-theory|自己決定理論]]の枠組みの中で[[teacher-role|教師]]の AI リテラシー尺度を開発します（382 人の教師、因子妥当性検証済み）。[[conceptualizing-preservice-teachers-ai-readiness-2026|就学前教師の AI レディネスの概念化]]は、知的な[[tpack|TPACK]]を通じて就学前[[teacher-ai-competency|教師の AI レディネス]]を測定します。[[ai-literacy-career-adaptability-business-2026|ビジネス教育における AI リテラシーとキャリア適応力]]は、学生の AI レディネスと[[career-development-and-readiness|キャリア適応力]]を[[business-education|ビジネス教育]]で評価します。そして[[llm-critical-thinking-teamwork-review|LLM 支援の批判的思考と協働の成果の尺度に関するレビュー]]は、LLM が支える批判的思考と協働の成果の尺度を検討します。教育者への測定へと拡張して、Teachers' AI Literacy Scale（TAILS）は ED-AI 枠組みの 6 次元を操作化し、特に[[teacher-education|言語教師教育]]の中で AI リテラシーを測定します（因子分析で検証済み）。これは、学生や一般の利用者を標的とする評価の隙間を埋めるものです。
+- **遂行ベース(客観的)測定。** 代表例は[[jin-glat-genai-literacy-assessment|GLAT(Generative AI Literacy Assessment Test)]]であり、4つの次元(Know & Understand、Use & Apply、Evaluate & Create、[[ethics|倫理]])にわたる25概念のブループリントに基づく20項目の多肢選択式ツールで、355名の学生を対象にCTT+2PL IRTで妥当性が検証された(RMSEA = 0.03、CFI = 0.97、α = 0.80、ω = 0.81)。重要なのは、自己報告が予測できなかったAI支援下の課題遂行をGLATの得点が予測した点であり、これはAIリテラシーについて**遂行ベースの測定が自己報告を上回る**ことの証拠である。関連研究である[[ai-literacy-assessment-misalignment|Zhang et al., 2026]]は自己報告と遂行ベースのAIリテラシーの隔たりを定量化し(教師は約40%過大評価する)、[[tracing-genai-literacy-interaction-patterns|Chen et al. (2026)]]は報告された利用に依拠せず、実際の学生–AI相互作用パターンを追跡する。
+- **教師が何を知っているかだけでなく、何をするかを測定する。** 486名の教師を対象とした妥当性検証により、教師のGenAIの教育利用に関する6次元のツール——管理、教材作成、評価、エンパワーメント、多様性、動機づけ——が得られ、利用が多次元的であることが確認された。ただし自己報告は授業実践に関する主張を支えることはできない([[questionnaire-teachers-genai-uses-validation-2026|Pérez-Montesdeoca et al. (2026)]])。
+- **自己報告尺度。** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]は、3つの領域(AI Concepts、Application and Technical Skills、AI Digital Citizenship)と段階的に足場化された4つのレベルでAIリテラシーを操作化する。[[ai-literacy-heptagon-2026|AIリテラシー・ヘプタゴン]]は7つの次元(技術、応用、[[critical-thinking|批判的思考]]、倫理、社会的影響、統合、法/[[regulation|規制]])を、ブルームに沿った4つの習熟レベルで構造化する。[[genai-skill-bypass-literacy|Oliveira et al. (2026)]]は学生と教職員で分岐するAIリテラシーの経路を描き出し、[[panciroli-ai-literacy-episodes-situated-learning|Panciroli et al., 2023]]はリテラシー評価を[[situated-learning|状況的学習]]のエピソードに根づかせる。より年少の学習者向けのツール開発も進んでいる。[[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan and Srikoon (2025)]]のAIリテラシー[[self-assessment|自己評価]]質問紙(AIL-SAQ)は、小学4〜6年生を対象とする15項目の自己報告尺度で、Learning About AI、Learning About How AI Works、Learning for Life with AIを軸に構成されている。この尺度は335名の学生に対する探索的因子分析と、さらに579名に対する確認的因子分析によって妥当性が検証され、全体のクロンバックのαは.934であった。
+- **[[discipline-specific-aied|領域固有]]のAIリテラシー。** [[teacher-education-ai-literacy-sdt-2026|Chiu et al. (2026)]]は[[self-determination-theory|自己決定理論]]の枠組み内で[[teacher-role|教師]]のAIリテラシー測定を開発し(教師382名、因子分析により検証)、[[conceptualizing-preservice-teachers-ai-readiness-2026|Reyes-Rojas et al. (2026)]]はインテリジェント[[tpack|TPACK]]を通じて教職課程学生の[[teacher-ai-competency|教師のAIレディネス]]を測定し、[[ai-literacy-career-adaptability-business-2026|Testa et al. (2026)]]は[[business-education|ビジネス教育]]における学生のAIレディネスと[[career-development-and-readiness|キャリア適応力]]を評価し、[[llm-critical-thinking-teamwork-review|Martínez-Peláez et al. (2025)]]はLLMに支援された批判的思考とチームワークの成果に関する測定ツールをレビューする。教育者の測定へと拡張すると、Teachers' AI Literacy Scale(TAILS)はED-AIフレームワークの6次元を操作化し、とりわけ[[teacher-education|言語教師教育]]におけるAIリテラシーを測定する(因子分析により検証済み)。これにより、学生や一般利用者を対象としてきた評価の空白が埋められる。
 
-### 態度・受容・動機づけの尺度
+### 態度・受容・動機づけの測定ツール
 
-- **技術の受容。** TAM/UTAUT に根ざした尺度は、知覚された有用性、使いやすさ、AI を使おうとする行動意図を測定します。[[technology-acceptance-model|技術受容モデル]]と、その応用である[[acceptance-ai-english-tools-2026|AI 支援英語学習ツールの受容]]（AI を活用した英語学習ツール、専門分野・熟達度グループにわたる心理測定的検証）および[[tian-genai-learning-adoption-pathways-2026|生成 AI の受容経路]]を参照してください。
-- **自己効力感と動機づけ。** [[self-efficacy|自己効力感]]の尺度と動機づけ尺度（例えば、[[teacher-education-ai-literacy-sdt-2026|自己決定理論に基づく尺度]]における[[agency|自律性]]・能力感・関係性の測定）は、AI 利用の動機づけ上の先行条件と帰結を捉えます。これらは[[student-engagement|学生の関与]]と[[prior-knowledge|既有知識]]の測定につながります。
-- **プロジェクトベース学習への知覚。** Zhu and Kong (2026) は、文脈に根ざした AI [[project-based-learning|プロジェクトベース学習]]尺度（AI-PBLS）を開発・検証しました。これは AI リテラシーの講義で AI を使って[[problem-solving|問題解決]]を行う際の学生の PBL への知覚を測るものであり（1,027 人の[[k-12|中等教育]]および大学生で EFA と CFA、446 人が完全回答）、彼らの SEM の応用は、エンパワーメントと倫理的意識が PBL から満足への関係を媒介する様子を示します——AI の応用における知覚される PBL 経験を評価するための頑健な尺度です。
+- **技術受容。** TAM/UTAUTに基づくツールは、AIの知覚された有用性、使いやすさ、利用に対する行動意図を測定する。[[technology-acceptance-model|技術受容モデル]]、およびその応用である[[acceptance-ai-english-tools-2026|Wu et al. (2026)]](AI支援英語学習ツール、専攻分野/習熟度グループを横断した心理測定的妥当性検証)と[[tian-genai-learning-adoption-pathways-2026|GenAI導入経路]]を参照。
+- **自己効力感と動機づけ。** [[self-efficacy|自己効力感]]の測定ツールや動機づけ尺度(例:[[teacher-education-ai-literacy-sdt-2026|Chiu et al. (2026)]]におけるSDTに基づく[[agency|自律性]]/有能感/関係性の測定)は、AI利用の動機的な先行要因と帰結を捉える。これらは[[student-engagement|学習エンゲージメント]]や[[prior-knowledge|既有知識]]の測定につながる。
+- **プロジェクト型学習に対する知覚。** Zhu and Kong (2026)は、AIリテラシーの授業で[[problem-solving|問題解決]]にAIを用いる際の学生のPBL知覚を測定する、文脈に根ざしたAI[[project-based-learning|プロジェクト型学習]]尺度(AI-PBLS)を開発し妥当性を検証した([[k-12|中等教育]]および大学生1,027名に対するEFAとCFA、完全回答446名)。さらにそのSEMの応用は、エンパワーメントと倫理的意識がPBLから満足度への関係をどのように媒介するかを示しており、AI活用における知覚されたPBL経験を評価するための堅牢なツールとなっている。
 
-### 評価の質と妥当性の尺度
+### 評価の質と妥当性に関する測定ツール
 
-- **自動採点とルーブリックの尺度。** [[harmogen-ai-assessment-rubric-generation|HARMOGEN-R]]は評価ルーブリックを生成し、[[ai-assisted-instructor-supervised-grading-feedback|AI 支援の教員監修型採点・フィードバック]]は AI 採点の質を精緻化された[[feedback|フィードバック]]基準に対して評価し、[[ai-assessment-scale-reform|AI 評価尺度の改革]]は AI が従来の評価尺度をどう乱すかを扱います。
-- **妥当性を強化する設計。** [[roe-assessment-twins-2026|評価の双子]]は、[[generative-ai|生成 AI]]に脆弱な課題と、同じ成果を評価する脆弱でない等価課題とを対にし、Messick の妥当性証拠の 6 つの切り口にわたって脅威を対応づけます。
-- **支援による成果空間の分割。** ある測定プログラムは、**モデル著作性**——学習者が、システムではなく、成果物の領域水準の内容をどこまで創り出すか——を 4 側面・4 水準の構成概念として定義し、監査された 24 の研究のほぼすべてが AI が利用可能な状態での成績を測定し、撤回後の測定を行った研究はなかったと報告します（[[ai-writes-code-student-writes-model-2026|Gousopoulos (2026)]]）。
-- **談話と関与のコーディング。** [[icap-cognitive-engagement-llm-agents|ICAP の拡張]]は、[[icap-framework|ICAP]]枠組みを 7 ポイントの認知的関与コーディング方案へと拡張し、人間のアノテーション（κ = 0.906–0.998）と LLM によるラベリング（κ = 0.541–0.609）とを比較します——自動化されたコーディングがなお訓練を受けた人間に及ばないことを示す測定尺度の研究です。自動コーディングは、[[prompt-engineering|文脈を意識したプロンプティング]]によっても進展しています。これは文脈的な依存関係をモデル化し、認知的・社会的能力を融合させて、過程データから[[collaborative-learning|協働的問題解決]]スキルを強いベースラインを上回る性能でコーディングします——手作業のコーディングの労働集約性に対処しつつ、大規模でリアルタイムの評価を可能にします。
-- **スキルの抽出。** [[principal-trait-analysis-human-ai-skills-2026|主要特性分析]]は、主要特性分析を通じて人間–AI 協働における「スキル」を導き出します——協働能力のデータ駆動型の測定です。
+- **自動採点とルーブリックのツール。** [[harmogen-ai-assessment-rubric-generation|HARMOGEN-R]]は評価ルーブリックを生成し、[[ai-assisted-instructor-supervised-grading-feedback|Cruz et al. (2026)]]はElaborated-[[feedback|フィードバック]]基準に照らしてAI採点の質を評価し、[[ai-assessment-scale-reform|Perkins et al., 2026]]はAIが従来の評価尺度をどのように攪乱するかを扱う。
+- **妥当性を強化する設計。** [[roe-assessment-twins-2026|アセスメント・ツイン]]は、[[generative-ai|GenAI]]の影響を受けやすい課題と、同じ成果を評価する影響を受けにくい同等課題を対にし、Messickの6つの妥当性証拠の系列にわたって脅威を対応づける。
+- **支援の度合いによる成果空間の分割。** ある測定プログラムは、**モデル著者性(model authorship)**——成果物の領域レベルの内容を、システムではなく学習者がどの程度自ら生み出しているか——を4ファセット・4水準の構成概念として定義し、監査した24本の研究のうちほぼすべてがAIを利用可能な状態で遂行を測定しており、AIを撤去した後に測定した研究は皆無であったと報告する([[ai-writes-code-student-writes-model-2026|Gousopoulos (2026)]])。
+- **談話とエンゲージメントのコーディング。** [[icap-cognitive-engagement-llm-agents|Do et al., 2026]]は[[icap-framework|ICAP]]フレームワークを7段階の認知的エンゲージメント・コーディング・スキームへ拡張し、人手のアノテーション(κ = 0.906–0.998)とLLMによるラベリング(κ = 0.541–0.609)を比較した。これは自動コーディングが依然として訓練を受けた人間に及ばないことを示す測定ツール研究である。自動コーディングは[[prompt-engineering|文脈認識型プロンプティング]]によっても進展しており、これは文脈依存関係をモデル化し、認知的能力と社会的能力を融合して、プロセスデータから[[collaborative-learning|協働的問題解決]]スキルを強力なベースラインを上回る性能でコーディングする。これにより手作業コーディングの労働集約性に対処しつつ、大規模かつリアルタイムの評価が可能になる。
+- **スキルの抽出。** [[principal-trait-analysis-human-ai-skills-2026|McNichols et al. (2026)]]はprincipal-trait分析によって人間–AI協働における「スキル」を導出する——協働コンピテンシーのデータ駆動型測定である。
 
 ### 測定アプローチが重要である
 
-ナレッジベースの証拠は繰り返し、構成概念が*どのように*測られるかが結論を変えることを示しています。自己報告された AI リテラシーはパフォーマンスベースの尺度と鋭く分岐し（[[ai-literacy-assessment-misalignment|AI リテラシーの不整合]]）、LLM による関与のアノテーションは訓練を受けた人間のコーディングと分岐し（[[icap-cognitive-engagement-llm-agents|ICAP の拡張]]）、潜在構造は人間と LLM の間で異なります（[[assessment-latent-structure-human-llm-2026|人間と LLM の潜在構造比較]]）。したがって、厳格な尺度の検証——信頼性、構造的妥当性、外的・予測的妥当性——は形式的なものではなく、信頼できる教育における AI の証拠の基盤であり、[[assessment-validity|評価の妥当性]]と[[psychometrically-aware-ai|心理測定的に自覚した AI]]につながります。最近の資料水準の研究は、単純な受容の主張の背後にどれほどの検証作業が横たわっているかを示しています。[[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang and Wu (2026)]]は、2 つの年齢層別 AI リテラシーガイドブックのために分割半数法の設計（開発標本での EFA、保留した半数での CFA）を用い、KMO = .820、説明分散 67.3%、許容可能な学生への適合度（CFI = .943、RMSEA = .059、SRMR = .059）、合成信頼性 .84 から .90、版にわたる測定不変性を報告し——次に尺度が負荷に耐えるところを記録し、HTMT 値は最大 .950、遊び心–意図の相関は制約のもとで 1 との検定が必要でした。彼らの差分項目機能の補助的検証は、このページが主張する誠実さの模範です。不変性は保たれましたが、年少の学生における低変動の応答パターンのため、それらの回答者を除外すると 1 つの群間差が弱まり、論文はそのことを見出しの結果と並べてではなく、見出しの結果と共に報告しています。
+証拠は、構成概念を**どのように**測定するかが結論を変えることを繰り返し示している。自己報告のAIリテラシーは遂行ベースの測定と大きく乖離し([[ai-literacy-assessment-misalignment|Zhang et al., 2026]])、エンゲージメントのLLMアノテーションは訓練を受けた人間のコーディングと乖離し([[icap-cognitive-engagement-llm-agents|Do et al., 2026]])、潜在構造は人間とLLMの間で異なる([[assessment-latent-structure-human-llm-2026|Strugatski et al., 2026]])。したがって、厳密なツールの妥当性検証——信頼性、構造的妥当性、外部/予測的妥当性——は形式ではなく、信頼できる教育におけるAIの証拠の基盤であり、[[assessment-validity|評価の妥当性]]や[[psychometrically-aware-ai|心理測定に配慮したAI]]につながる。最近の教材レベルの研究は、単純な受容の主張の背後にどれほどの検証作業があるかを示している。[[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang and Wu (2026)]]は、年齢層別に作られた2冊のAIリテラシー・ガイドブックについて、半分ずつに分ける設計(開発サンプルでEFA、残りの半分でCFA)を用いた。彼らはKMO = .820、説明された分散67.3%、学生サンプルでの許容可能な適合度(CFI = .943、RMSEA = .059、SRMR = .059)、.84〜.90の合成信頼性、版をまたいだ測定不変性を報告した。さらに、ツールに無理が生じる箇所も記録している。最大.950に達するHTMT値と、1に等しいかどうかを検定しなければならなかった、遊び心と意図の相関に制約を課した推定である。項目機能差に関する補足的な確認は、この種の主張に求められる誠実さの模範である。不変性は保持されたが、年少の学生に見られた変動の小さい回答パターンのため、それらの回答者を除外するとある群間差は弱まり、論文はその事実を主要な結果の代わりにではなく、主要な結果と併せて報告している。
 
-[[assessing-student-drive-framework-2025|Oliveira et al. (2025)]]は、新しい過程尺度の検証の順序を示します。学生の生成 AI の相互作用ログを 35 の下位カテゴリの分類法に対して採点したものは、中程度の評価者間一致（Cohen の κ = 0.44）にとどまったにもかかわらず、エッセイの得点と r = 0.54 で相関し、新しい尺度に収束的な支持を与えました。
-- **一致係数はコーパスの性質であり、得点は共同の積物である。** 60 のマーケティング投稿の自動採点の検証では、絶対一致 ICC(2,1) は LLM で .435、ルールと LLM のハイブリッドで .266、決定論的ルールで .091 であり、不確実性は 2,000 の執筆者クラスタのブートストラップ標本から推定され、MAE は 6.28–17.22 点でした。研究者が執筆したアンカーを加えると、評価者間一致は .338 から .902 に動き、これらの推定が参照集合にどれほど強く依存するかが示されました（[[automated-scoring-marketing-posts-agreement-2026|マーケティング投稿の自動採点における一致]]）。[[physics-education|物理学]]ベンチマークの専門家による再採点監査は、尺度水準で補完的な点を示します。監査された棄却の 95.20% はベンチマークまたは採点者の誤りでありモデルの失敗ではありませんでした。したがって測定された得点は、項目バンク、ルーブリック、採点者の共同の性質として報告されなければなりません（[[frontier-models-physics-benchmark-audit-2026|フロンティアモデルの物理学ベンチマーク監査]]）。
+[[assessing-student-drive-framework-2025|Oliveira et al. (2025)]]は、新しいプロセス測定の妥当性検証の手順を示している。学生のGenAI相互作用ログを35の下位カテゴリからなる分類体系に照らして採点したところ、評価者間一致は中程度にとどまった(Cohen's κ = 0.44)が、エッセイの得点とr = 0.54で相関し、新しい測定に収束的妥当性の裏づけを与えた。
+- **一致係数はサンプルの性質であり、得点は共同の産物である。** 60件のマーケティング投稿を対象とした自動採点の妥当性検証では、絶対一致のICC(2,1)がLLMで.435、ルール+LLMのハイブリッドで.266、決定論的ルールで.091と報告され、不確実性は2,000回の執筆者クラスタ・ブートストラップ標本から推定され、MAEは6.28〜17.22点であった。研究者が作成したアンカーを追加すると評価者間一致は.338から.902へ上昇し、これらの推定が参照セットに強く依存することが示された([[automated-scoring-marketing-posts-agreement-2026|Li, 2026]])。[[physics-education|物理]]ベンチマークの専門家による再採点監査は、ツールレベルで補完的な点を示す。監査された不合格判定の95.20%はモデルの失敗ではなくベンチマークまたは採点者の誤りであったため、測定された得点は項目バンク、ルーブリック、採点者を合わせた性質として報告されなければならない([[frontier-models-physics-benchmark-audit-2026|Ansari et al., 2026]])。
 
-**信頼性は、モデル自身から部分的に回復できる。** [[know-when-to-trust-ai-scoring-reliability-2026|Organisciak and Acar (2026)]]は、Alternative Uses Test への 20,000 を超える応答に対する LLM に基づく採点の 3 つの安価な改良を評価しました。モデル自身のトークンレベルの確信度を読み取ること、単一の最良推定ではなく上位 n 個の予測得点の確率重み付き平均を取ること、モデルをまたいでアンサンブルを組むこと——です。それぞれが人間の得点との一致を改善し（最良の構成で相関は r = 0.781 から 0.823 へ、RMSE は 0.599 から 0.498 へ低下し）、彼らの診断は単一パス採点の特定の失敗を位置づけます。モデルが表明した確信度はその正確さと負に関係していました（β = −0.602）。これはモデルの結果ではなく測定アプローチの結果です——同じモデルでも、採点の仕方が違えばより信頼できる尺度となり——上記のコーパス水準の一致証拠と並び立ちます。
+**信頼性はモデル自体から部分的に回復できる。** [[know-when-to-trust-ai-scoring-reliability-2026|Organisciak and Acar (2026)]]は、Alternative Uses Testに対する20,000件を超える回答を用いて、LLMによる採点への3つの低コストな改良を評価した。モデル自身のトークンレベルの確信度を読み取ること、単一の最良推測ではなく上位n個の予測得点の確率加重平均をとること、そして複数モデルのアンサンブルである。いずれも人間の得点との一致を改善し(最良の構成では相関がr = 0.781から0.823へ上昇、RMSEが0.599から0.498へ低下)、その診断は単一パス採点の特定の失敗を特定している。モデルが表明した確信度はその正しさと負の関係にあった(β = −0.602)。これはモデルの結果ではなく測定アプローチの結果であり——同じモデルでも採点の仕方を変えれば、より信頼性の高いツールになる——マーケティング投稿研究の一致に関する証拠と並ぶものである。
 
-2026 年の 33 の教師 AI リテラシー尺度の評価は、尺度開発がどこまで成熟しどこがそうでないかを示します。[[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]]は、COSMIN と Terwee et al. (2007) に適合させた決定行列に対して尺度を評定し、内的整合性が最強の領域（33 中 28 がグレード A、84.8%）であり、公平性が最弱で、測定不変性または差分項目機能の証拠を報告した尺度は 5 つ（15.2%）のみであることを見出しました。構造的妥当性は強く、24 の尺度（72.7%）が CFA、PLS-SEM、IRT モデリングによってグレード A に達した一方、内容妥当性は主に[[qualitative-research|定性的]]な査読に依拠し、21 の尺度（63.6%）は定量的な専門家一致の統計を欠くとしてグレード B でした。
+2026年に行われた33の教師AIリテラシー測定ツールの評価は、ツール開発が成熟している領域としていない領域を示している。[[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]]は、COSMINとTerwee et al. (2007)を改変した判定マトリクスに基づいてツールを格付けし、内的整合性が最も強い領域(33件中28件がグレードA、84.8%)、公平性が最も弱い領域であることを見いだした。測定不変性または項目機能差の証拠を報告したのはわずか5件(15.2%)であった。構造的妥当性は強く、CFA、PLS-SEM、IRTモデリングによって24件(72.7%)がグレードAであったが、内容的妥当性は主に[[qualitative-research|質的]]レビューに依拠しており、定量的な専門家一致統計を欠くため21件(63.6%)がグレードBにとどまった。
 
-- **AI 固有の構成概念のために尺度を検証する。** [[chang-ai-cognitive-offloading-scale-2026|Chang (2026)]]は[[cognitive-offloading|認知的オフローディング]]の手順をたどります。26 の候補項目が 3 つの機能（記憶 5、支援 10、思考 5）にわたる 20 項目に削減され、研究 1（N = 665）は抽出前に KMO = 0.965、χ²(325) = 8904.89 を報告しました。研究 2（N = 1,123）は二次因子モデルを CFI = 0.951、TLI = 0.944、RMSEA = 0.047、SRMR = 0.036 で適合させ、CR 0.840-0.906、AVE 0.501-0.570、α = 0.944、1 か月後の再テスト 0.937（n = 99）でした。性別を超えた完全なスカラー不変性が保たれ（ΔCFI ≤ 0.001）、限界も同じ説明に属します。CVI、HTMT、潜在因子間の相関は報告されておらず、弁別的妥当性と内容的妥当性は実証ではなく主張されています。
+- **名目上5次元のAI不安尺度は本質的に一次元である。** 23項目・8次元のAIASが877名の学部生でその構造を再現できなかった後、残された20項目版はバイファクター分析でωtotal = .954に対してωH = .875(比.918)を示し、特定因子のωHSは.166〜.407にとどまった([[tassilova-ai-anxiety-scale-russian-2026|Tassilova et al., 2026]])。1つの切片を自由化すると国間比較の符号が反転し、その対比は単に偏っているのではなく不確定なものとなる。
 
-自動化された項目選択は、尺度を再構成することなく短縮できます。統合した 2 波標本（N = 305、342）に対するアリコロニー最適化は、各次元で完全尺度と r = 0.910–0.944 で相関する 12 項目の短縮版を得ましたが、次元ごとに 2 項目では内容の範囲はより狭くなります（[[genai-srl-l2-writing-scale-2026|Wang, Zhang and Zhang (2026)]]）。
+自動的な項目選択は、ツールの構造を作り変えずに短縮できる。2つの調査波を統合したサンプル(N = 305、342)に対する蟻コロニー最適化は12項目の短縮版をもたらし、各次元でフル尺度とr = 0.910–0.944の相関を示した。ただし各次元2項目ではカバーされる内容範囲が狭くなる([[genai-srl-l2-writing-scale-2026|Wang, Zhang and Zhang (2026)]])。
+
+- **AI固有の構成概念のための尺度の妥当性検証。** [[chang-ai-cognitive-offloading-scale-2026|Chang (2026)]]は[[cognitive-offloading|認知的オフローディング]]について一連の手順をたどる。26の候補項目が3つの機能にわたる20項目へ絞り込まれ(記憶5、補助10、思考5)、N = 665の研究1では抽出前にKMO = 0.965、χ²(325) = 8904.89が報告された。N = 1,123の研究2では二次因子モデルがCFI = 0.951、TLI = 0.944、RMSEA = 0.047、SRMR = 0.036で適合し、CRは0.840–0.906、AVEは0.501–0.570、α = 0.944、1か月後の再テストは0.937(n = 99)であった。性別をまたいだ完全なスカラー不変性が成立し、ΔCFI ≤ 0.001であった。限界も同じ報告に属する。CVI、HTMT、潜在因子間相関はいずれも報告されておらず、弁別的妥当性と内容的妥当性は実証されたのではなく主張されているにすぎない。また一次の3因子モデルはSRMR = 0.158を示し、1因子モデルの0.051と対照的であり、いくつかの項目は行動ではなく依存に対する態度を指標としている。
 
 ## 問題点と限界：測定が見落としたり誤ったりしうるもの
 
@@ -164,47 +166,47 @@ AI リテラシーは、ナレッジベースで最も豊富な尺度のカバ�
 
 ## 関連記事
 
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 大規模ライティング評価における AI 支援採点の人間参与的枠組み
-- [[semantic-variability-llm-conversation-assessment-2026]] — LLM 会話評価における意味的変動性
-- [[causal-modeling-competency-assessment-2026]] — 学生の能力評価における支援介入の因果モデリング
-- [[assessment-latent-structure-human-llm-2026]] — 評価尺度は人間と LLM にとって同じものを測るか？（Strugatski et al. 2026）
-- [[jin-glat-genai-literacy-assessment]] — GLAT：IRT 検証済みの生成 AI リテラシーテスト（Jin et al. 2025）
-- [[icap-cognitive-engagement-llm-agents]] — 拡張 ICAP 枠組みによる認知的関与の測定
-- [[roe-assessment-twins-2026]] — 生成 AI のもとで評価の妥当性を強化するための評価の双子
-- [[ai-literacy-heptagon-2026]] — AI リテラシーのヘプタゴン
-- [[ai-literacy-assessment-misalignment]] — 自己報告とパフォーマンスの AI リテラシーの不整合
-- [[teacher-education-ai-literacy-sdt-2026]] — 自己決定理論による教師の AI リテラシー
-- [[acceptance-ai-english-tools-2026]] — 英語学習ツールの AI 受容尺度
-- [[llm-difficulty-calibration-programming-exams-2026]] — 評価されたモデルから評価の援助へ
-- [[llm-item-difficulty-prediction]] — LLM 項目困難度予測の認知的評価
-- [[multimodal-item-parameter-estimation-2026]] — マルチモーダル項目パラメータ推定
-- [[ai-scoring-language-bias-physics]] — 物理学における AI 採点と言語バイアス
-- [[ai-writes-code-student-writes-model-2026]] — モデル著作性：生成 AI による構築をとおした学習の理論と測定
-- [[assessing-student-drive-framework-2025]] — DRIVE：生成 AI の相互作用を通じた学習の評価（DRI + 可視的専門性）
-- [[xiong-ai-educational-measurement-review-2026]] — 教育測定における AI の 10 年の主題的レビュー
-- [[questionnaire-teachers-genai-uses-validation-2026]] — 教師の生成 AI 利用に関する質問紙（Pérez-Montesdeoca et al. 2026）
-- [[personalized-neural-cognitive-architecture-search-2026]] — 学習者プロファイルのための AutoML パーソナライズドニューラル認知アーキテクチャ探索
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM と木ベース機械学習による項目困難度の推定
-- [[cvengros-grading-handwritten-chemistry-ai-2026]] — AI による手書き化学の採点
-- [[age-tiered-ai-literacy-guidebooks-2026]] — 不変性、HTMT、DIF 検証を含む分割半数法による EFA/CFA 検証（遊び心と意図の構成概念の重なりについての誠実な記述を含む）
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA：過程ベースの数学項目の質評価
-- [[competent-generative-ai-use-measures-review-2026]] — AI リテラシーを超えて：有能な生成 AI 利用の尺度に関する構造化レビューと探索的メタ分析
-- [[bayesian-consensus-irt-item-banks-2026]] — ベイズ的合意較正：継続的に進化する IRT 項目バンクの分割統治による再較正（Jewsbury et al. 2026）
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — エルサルバドルの AI 個別指導パイロットの学習主張の有界化（Restrepo Morales et al. 2026）
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust：採点信頼性のてことしてのモデル自己確信度、確率的採点、アンサンブル
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 高学年小学生の AI リテラシーのための検証済み 15 項目自己評価質問紙（Thianwan & Srikoon 2025）
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — COSMIN 型の質領域にわたる 33 の教師 AI リテラシー尺度の系統的評価（Zainal et al. 2026）
-- [[mental-health-literacy-students-llms-2026]] — 心理学の学生と大規模言語モデルにわたるメンタルヘルスリテラシー
-
-- [[chang-ai-cognitive-offloading-scale-2026]] — AI 認知的オフローディング尺度の検証と、それが省いた妥当性の確認
-
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI と人間の個別指導が同等の GRE 学習成果をもたらす
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 学生の LLM 利用とデータサイエンス講義における AI 生成問題の困難度の限界
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors：教育的対話の監査可能なコーディングのための主張ベーススキーマ
-- [[synthetic-educational-data-structural-fidelity-2026]] — 忠実性の尺度が見落とすもの：合成的教育データの構造的検証
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — 6 因子が意図された 6 つの下位因子を回復しなかった 42 項目の AI 共感尺度
-- [[genai-srl-l2-writing-scale-2026]] — L2 ライティングのための 6 次元生成 AI-SRL 尺度。アリコロニー最適化による 12 項目の短縮版は完全尺度を追跡する（r = 0.910〜0.944）が、内容のカバー範囲は狭まる
-- [[bloom-taxonomy-llm-item-classification-2026]] — 認知的分類は実証的な項目の挙動を予測するか？全国統一数学項目の心理測定特性とのブルーム分類法の突き合わせ
-- [[llm-benchmark-secondary-science-topics-2026]] — 合成ベンチマークの測定の質は、その生成パイプラインに依拠する
-- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — 識別力なき困難度
-- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 同一構成概念のペアは 41.2% の事例で一致せず、パフォーマンス測度には独自の妥当性の論証が必要である（Fanら 2026）
+- [[guo-ai-literacy-developmental-paces-2026]] — 検証済みのK–12向けAIリテラシー測定ツール9種。うち3種はIRTに基づく知識テスト、残りはCTTに基づく自己報告であり、プロセスを捉えるものはない（Guo, Ali & Wong, 2026）。
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 大規模作文評価におけるAI支援採点のためのHuman-in-the-Loopフレームワーク。
+- [[semantic-variability-llm-conversation-assessment-2026]]
+- [[causal-modeling-competency-assessment-2026]] — 学生コンピテンシー評価における支援介入の因果モデリング。
+- [[assessment-latent-structure-human-llm-2026]] — 評価ツールは人間とLLMに対して同じものを測定しているのか（Strugatski et al. 2026）。
+- [[jin-glat-genai-literacy-assessment]] — GLAT：IRTで検証されたGenAIリテラシーテスト（Jin et al. 2025）。
+- [[icap-cognitive-engagement-llm-agents]] — 拡張ICAPフレームワークによる認知的エンゲージメントの測定。
+- [[roe-assessment-twins-2026]] — GenAI環境下で評価の妥当性を強化するためのアセスメント・ツイン。
+- [[ai-literacy-heptagon-2026]] — AIリテラシー・ヘプタゴン。
+- [[ai-literacy-assessment-misalignment]] — 自己報告とパフォーマンスによるAIリテラシー測定の不一致。
+- [[teacher-education-ai-literacy-sdt-2026]] — 自己決定理論から捉える教師のAIリテラシー。
+- [[acceptance-ai-english-tools-2026]] — 英語学習ツールに対するAI受容の測定尺度。
+- [[llm-difficulty-calibration-programming-exams-2026]] — 評価されるモデルから評価を支援するツールへ。
+- [[llm-item-difficulty-prediction]] — LLMによる項目困難度予測の認知的評価。
+- [[multimodal-item-parameter-estimation-2026]] — マルチモーダルな項目パラメータ推定。
+- [[ai-scoring-language-bias-physics]] — 物理におけるAI採点と言語バイアス。
+- [[ai-writes-code-student-writes-model-2026]] — モデルの作者性：GenAIを用いた構築による学習の理論と測定。
+- [[assessing-student-drive-framework-2025]] — DRIVE：GenAIとの相互作用を通じた学習の評価（DRI + Visible Expertise）。
+- [[xiong-ai-educational-measurement-review-2026]] — 教育測定におけるAIの10年間のテーマ別レビュー。
+- [[questionnaire-teachers-genai-uses-validation-2026]] — 教師の生成AI利用に関する質問紙（Pérez-Montesdeoca et al. 2026）。
+- [[personalized-neural-cognitive-architecture-search-2026]] — 学習者プロファイルに向けたAutoMLによる個人化ニューラル認知アーキテクチャ探索。
+- [[razavi-powers-item-difficulty-llm-2026]] — LLMと木ベースの機械学習を用いた項目困難度の推定。
+- [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[age-tiered-ai-literacy-guidebooks-2026]] — 半分割によるEFA/CFA検証に加え、不変性・HTMT・DIFのチェックを行い、遊び心と意図の構成概念上の重複についても率直に報告。
+- [[proiqa-math-item-quality-assessment-2026]] — ProIQA：プロセスに基づく数学項目の品質評価。
+- [[competent-generative-ai-use-measures-review-2026]] — AIリテラシーを超えて：有能な生成AI利用の測定尺度に関する体系的レビューと探索的メタ分析。
+- [[bayesian-consensus-irt-item-banks-2026]] — ベイズ・コンセンサス・キャリブレーション：継続的に進化するIRT項目バンクの分割統治型再キャリブレーション（Jewsbury et al. 2026）。
+- [[el-salvador-ai-tutoring-selection-claim-2026]] — El SalvadorのAIチュータリング・パイロットにおける学習効果の主張の範囲を限定する（Restrepo Morales et al. 2026）。
+- [[know-when-to-trust-ai-scoring-reliability-2026]] — 「いつ信頼すべきか」を知る：採点信頼性の調整手段としてのモデルの自己確信度・確率的採点・アンサンブル。
+- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 小学校高学年のAIリテラシーを対象とした検証済み15項目の自己評価質問紙（Thianwan & Srikoon 2025）。
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 教師のAIリテラシー測定ツール33種をCOSMIN流の品質領域に沿って体系的に評価（Zainal et al. 2026）。
+- [[mental-health-literacy-students-llms-2026]] — 心理学専攻学生と大規模言語モデルにおけるメンタルヘルス・リテラシー。
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AIと人間によるチュータリングはGREで同等の学習効果をもたらす。
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — データサイエンス科目における学生のLLM利用とAI生成問題の難易度の限界。
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors：教育対話の監査可能なコーディングのためのアサーションに基づくスキーマ。
+- [[synthetic-educational-data-structural-fidelity-2026]] — 忠実度指標が見落とすもの：合成教育データの構造的チェック。
+- [[ai-empathy-scale-psychometric-evaluation-2026]] — 42項目のAI共感尺度。その6因子は意図された6つの下位因子を再現しなかった。
+- [[genai-srl-l2-writing-scale-2026]] — L2ライティング向けの6次元GenAI-SRL尺度。蟻コロニー最適化による12項目の短縮版は全尺度をよく追跡する（r = 0.910–0.944）が、内容の網羅性は狭まる。
+- [[bloom-taxonomy-llm-item-classification-2026]] — 認知的分類は実測の項目挙動を予測するのか。4–12学年の全国統一数学項目の心理測定特性とBloom's Taxonomyの整合。
+- [[llm-benchmark-secondary-science-topics-2026]] — 合成ベンチマークの測定品質は、その生成パイプラインに依存する。
+- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — 識別力のない困難度。
+- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 同一構成概念のペアは41.2%のケースで結論が食い違い、パフォーマンス測定には独自の妥当性論証が必要（Fan et al. 2026）。
+- [[chang-ai-cognitive-offloading-scale-2026]] — AI認知的オフローディング尺度の検証と、そこで省略された妥当性チェック。
+- [[tassilova-ai-anxiety-scale-russian-2026]] — 人工知能不安尺度ロシア語版の心理測定特性：次元性、測定不変性、個人中心のプロファイル。

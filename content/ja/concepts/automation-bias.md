@@ -1,7 +1,7 @@
 ---
 title: 自動化バイアス
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -10,7 +10,7 @@ audience: [instructors, learners, administrators, software developers]
 confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 translation_of: concepts/automation-bias
-source_updated: "2026-11-04T18:49:36-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,8 @@ ai_assist:
 このメカニズムの最も明確な記述は、教師を対象とした研究にあります。[[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe ら(2026年)]]は、成績と完了時間は見えるが[[motivation|動機づけ]]、学習履歴、教室の力学は見えない診断システムを描写し、自動化バイアスが教師をその薄い断片に基づく推薦へ従わせうると警告します。彼らの処方はよりよいスコアではなく別の構えです。説明が弱いところでは、教師はAIを使う際の学生の振る舞いについての自らの観察に、より強く頼らなければなりません。
 
 最も鋭い隔たりは判断の地点にあります。[[human-in-the-loop-ai-scoring-national-assessment-2026|全国学力評価の採点研究(2026年)]]は評価者に機械のスコアをレビューさせ、その著者らは未検証のメカニズムを直接名指しします。判断の前にAIのスコアを見せられた評価者がそれにアンカリングされるのか、それに従うのかは測定されておらず、次の段階として盲検対非盲検の評価者実験を提案しています。したがってその設計における human-in-the-loop の主張は発見ではなく前提であり、しかもそれはその設計のよい版です。
+
+安全監督の実験が、隣接する設定でその測定を新たに提供しています。416人の評価者と3,957項目にわたり、人間の回答の前にモデルの候補を提示したところ、モデルが誤った項目での評価者の正答率は36.7%から20.6%へ下がり、モデルが正しかった項目では正答率が7.3ポイント上昇しました([[shi-human-ai-complementarity-safety-2026|Shi ら(2026年)]])。評価者は全体としてはより正確になりましたが、本来捕捉するためにその場にいた誤りを捕捉する能力は低下しました。これは、全国学力評価の著者らが疑っていたとおりにバイアスが作動している状態です。機械の答えが枠組みを設定し、人間はその内で調整します。
 
 ### 分析ダッシュボードと human-in-the-loop の主張
 
@@ -136,6 +138,7 @@ ai_assist:
 
 ## 関連する記事
 
+- [[shi-human-ai-complementarity-safety-2026]] — 416人の評価者、3,957項目: 候補を先に提示する支援により、モデルが誤った項目での誤り検出が36.7%から20.6%に低下 (Shi et al., 2026)
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 薄いデータに基づく推薦へ従うなと教師に警告
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — AIスコアによる評価者のアンカリングを未検証のリスクとして名指しし、盲検化を提案
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — ダッシュボード、表層的特徴のフィードバック、信号機を一般的なパターンとして扱う

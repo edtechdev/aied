@@ -37,7 +37,7 @@ ai_assist:
 
 関与は、教育心理学に根ざした多次元の構成概念です。**行動的関与**は、参加、努力、粘り強さ、課題に向かう活動を指します。**認知的関与**は、心的処理の深さ——精緻化、[[critical-thinking|批判的分析]]、自己[[regulation]]、そして心的努力の投入——を指します。**感情的関与**は、興味、楽しみ、[[anxiety-and-stress|不安]]、学習との同一化といった感情的な反応を指します。これらの次元は乖離しえます——学生は行動的には活発（クリックし、時間を費やす）でありながら認知的には浅く（出力を受動的に受け入れて）、あるいは感情的には興味を持ちながら行動的には気を散らされているかもしれません。この多次元性こそ、関与を単一の観察可能な行動と同一視してはならない理由です。
 
-### 学生の関与が研究に現れる仕方
+## 学生の関与が研究に現れる仕方
 
 - **AI の設計の成果としての関与：** [[genai-motivation-engagement-2026|GenAI の動機づけ研究]]は、[[generative-ai]]を支えとする学習における関与が、基礎的な心理的ニーズ（[[self-determination-theory|自律性、有能感、関係性]]）の充足に従うことを示します——関与は技術の利用可能性だけではなく、動機づけの支えの下流の結果です。関与はしばしば[[self-report-measures|自己報告]]で測定され、一方で行動的関与は相互作用のログから来て、両者は互換可能ではありません。
 - **クラスター無作為化された教室試験における、学習の伸びを伴わない関与の伸び：** [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker and Becker-Genschow (2025)]]は、195 の中学 3 年生クラス（実験群 102 人の学生）を、分野特化型の数学チャットボットか、従来の分化教材かに無作為割り当てしました——平方根を推定するヘロン法に関する一回の授業のためです。状況的な興味はチャットボット条件で実質的に上がり（M = 2.63 対 2.43、p = 0.00005、Cohen's d = 0.63）、[[technology-acceptance-model|技術受容モデル]]の四つの次元すべてで受容は高かったものの、事前—事後の成績の比較では有意な群×時間の交互作用は見つかりませんでした（F(1194) = 2.84、p = 0.094）、また外来的な認知的負荷はわずかに高くなっていました。この研究は、[[k-12|中等教育]]の[[math-education|数学]]におけるカスタマイズされたチャットボットの数少ないクラスター無作為化検証の一つであり、その分裂した結果こそが要点です——興味と[[learning-gains|達成]]は異なる予定で動いたのであり、したがって関与の知見は学習の証拠ではありません。
@@ -57,7 +57,7 @@ ai_assist:
 - **AI の利用はより大きな授業の欠席と結びつきうる——一方で自信はそれを予測しません。** 291 人のポルトガルの大学生を対象とした PLS-SEM 調査では、全般的な AI の利用が欠席（β = 0.148、f² = 0.029）と独立学習の[[self-efficacy|自己効力感]]に正に関連し、一方で自己効力感自体は欠席を予測しませんでした（β = −0.068、p = 0.276）——その論文の「自信があるが欠席する」パターンです。出席との関連は控えめで、仲間の影響（β = 0.510、f² = 0.326）と時間管理（β = −0.163）に次ぐものであり、そして AI 利用の構成概念が一次元的で、支え志向と代替志向の項目を混在させていたため、その研究は補完的な利用と代替的な利用を切り分けることも、方向性を確立することもできません（[[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]）。
 - **AI 支援の音楽の授業で、関与、フロー、感情的知性がともに伸びた。** 一学期にわたる 5 つの波で 850 人の学部生を追跡したところ、3 つすべての平均的な伸びが示され、傾きの相関は関与とフローで 0.39、関与と感情的知性で 0.22 でした。フローの伸びが感情的知性への結びつきを担っていました（[[zhang-tang-ai-music-classroom-engagement-longitudinal-2026|Zhang & Tang, 2026]]）。
 
-### 関与の測定：指標選択の問題
+## 関与の測定：指標選択の問題
 
 関与は、一連の観察可能なシグナルを通じて操作化されます。**行動的な指標**は学習者が*行う*こと（課題に費やす時間、活動の回数、相互作用の頻度、粘り強さ）を測定し、**認知的指標**は学習者が*考える*仕方（処理の深さ、批判的関与、言説分析）を測定し、**感情的指標**は学習者が*感じる*仕方（感情、動機づけ、興味）を測定し、そして**文脈的な指標**はマルチタスクと注意を捉えます。AI 教育研究はますますこれらを組み合わせ、関与を AI の道具の設計と[[learning-gains|学習の成果]]との間の媒介的なメカニズムとして扱い、それ自体としての成果とはしません。
 
@@ -73,13 +73,13 @@ ai_assist:
 - **公平性の制約は、ホールドアウトされた被験者を必要とします。** マルチモーダルな注意推定器の性別を対象とした正則化項は、検証における MAE の差を 0.02 から 0.005 に縮めましたが、ホールドアウトされた被験者では差と最悪群の誤差の両方を増やしました——それゆえ部分群を意識した被験者レベルの反復検証が、あらゆる関与計測の主張に含まれるべきです（[[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]]）。
 - **学習者モデル化のシグナルとしての関与：** [[engagement-intensity-learner-modeling|学習者モデル化のシグナルとしての関与の強度]]は、関与の強度を適応的な AI システムに情報を与えるために用い、関与の指標を単なる評価の出力ではなく、[[student-modeling]]と[[adaptive-learning]]への入力として位置づけます。
 
-### 関与と学習
+## 関与と学習
 
 このナレッジベースの研究における中心的なテーマは、関与と学習を区別しなければならないということです。高い関与（課題に費やす時間、相互作用の量）を生み出す AI の道具は、その関与が受動的であるか、理解という[[cognitive-offloading|認知的作業]]を代替するものであるなら、学習を生み出さないかもしれません——[[genai-performance-vs-learning|成績対学習]]を参照。逆に、生産的な苦闘と[[desirable-difficulties|望ましい難しさ]]は、表層的な関与が低く感じられるときでも学習を生み出しえます。関与はそれゆえ、究極的な成果としてよりも、意味のある[[cognitive-psychology|認知的処理]]を反映し可能にする限りにおいて価値ある*メカニズム*として扱うのが最善です。
 
 この区別は学問的なものではありません。[[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]]は、関与を自分の PLS-SEM モデルの中心に置きます——動機づけと[[community-of-inquiry|社会的プレゼンス]]が一方の側に、*知覚された*成績が他方にあり、それは自分のモデルで最大の係数であり、それでも学習の測定ではなく知覚のままです。
 
-### 教授法が AI の関与への効果を媒介する
+## 教授法が AI の関与への効果を媒介する
 
 [[higher-ed|高等教育における AI]]の系統的な統合（[[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]）は、**AI の道具が埋め込まれる[[teacher-role|教育]]の方法が、それが学生を関与させるかどうかの決定的な媒介者である**と強調します。チャットボット、適応的なシステム、予測的な分析は、独立した道具としてではなく——反転授業、[[project-based-learning|プロジェクトベース学習]]、足場かけられた[[feedback|フィードバックのループ]]——のような相互作用的な教授法の内に展開されるときに、最も関与を高めます。そのレビューはこれを**PMAISE モデル**（[[pedagogy|Pedagogical]] Mediation of AI for Student Engagement）として定式化し、AI の[[ai-technologies|技術]]、教育学的な方略、そして関与の感情的・行動的・認知的次元の間の整合を写像します。その含意は、関与の成果が道具*と*それを取り巻く[[learning-design|教授設計]]の両方によって共同生産されるということです——同じ AI が一つの教授法では関与を増幅し、別の教授法ではそれを抑制しうるのです。
 
@@ -87,7 +87,7 @@ ai_assist:
 
 この枠組みの荷重を支える主張は、因果ではなく増幅です。4 つの配置の間の差は、GenAI が容易に利用可能になり、評価が最終的な成果物に報い、執筆の過程が見えなくなるにつれて広がるはずであり、したがって道具は、関与のパターンを自ら生み出すのではなく、課題と教師がすでに設定した条件を拡大します。Al Nafjan はこの枠組みが命題的で未検証であると述べており、それは 4 つのプロファイルを、観察された効果ではなく、経験的な検証を待つ期待にするものです。
 
-### 関連概念との結びつき
+## 関連概念との結びつき
 
 学生の関与は、その心理的な原動力として[[motivation]]と[[self-determination-theory]]に、そして生きられた文脈として[[student-experience]]に結びつきます。その測定は[[learning-analytics]]と[[educational-measurement]]に依り、それらが上記の次元を操作化するための[[quantitative-research|定量的]]な道具を供給します。深い関与と浅い関与の区別は、[[self-regulated-learning]]（自己調整的な学習者は戦略的に関与する）、[[cognitive-offloading]]と[[cognitive-offloading|過度の依存]]（失敗モードとしての浅い依存）、そして[[metacognition]]に直接結びつきます。システム設計においては、関与のシグナルは[[student-modeling]]と[[adaptive-learning]]を養い、関与の成果は AI 教育介入の[[research-methods-aied]]評価に現れます。
 
@@ -153,38 +153,40 @@ ai_assist:
 - [[reflection]]
 
 ## 関連記事
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI フィードバック・リテラシーとエージェント的な関与：三波のランダム切片パネル（Xu 2026）
-- [[assigned-ai-preclass-student-engagement-2026]] — 音声ベースの AI の授業前の練習は自発的な授業への貢献をおよそ 31% 高めたが、二回目の利用の後に限られる（Wang et al. 2026）
-- [[confident-but-absent-ai-use-absenteeism-2026]] — AI の利用はより大きな授業の欠席と結びつき、自己効力感はそれを予測せず、仲間の影響が主要な相関因子（Franco et al. 2026）
-- [[gai-advocacy-practice-art-education-2026]] — 大学は GAI を推進するが実践が及ばないとき：美術教育における学生の評価づけと創造的な過程への関与
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — 頭部に制約された EEG、視線追跡、EDA は五段階の関与評価を予測し、学習者自身の定義はその写像を移す（Anupkrishnan et al. 2026）
-- [[student-attention-estimation-fairness-2026]] — リアルタイムの学生の注意推定のための公平性を意識したマルチモーダル変換器のモデル化
+
+- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AIフィードバック・リテラシーとエージェンティック・エンゲージメント:3波のランダム切片パネル(Xu 2026)
+- [[rho-disengaged-conversational-behaviors-2026]] — 学生とAIの対話における非関与的な会話行動と学習(Rho et al. 2026)
+- [[assigned-ai-preclass-student-engagement-2026]] — 音声ベースのAIによる授業前練習は自発的な授業内での発言を約31%高めたが、その効果は2回目の利用後にのみ現れた(Wang et al. 2026)
+- [[confident-but-absent-ai-use-absenteeism-2026]] — AI利用は授業欠席の増加と連動していたが、自己効力感はそれを予測せず、仲間からの影響が最も強い相関要因だった(Franco et al. 2026)
+- [[gai-advocacy-practice-art-education-2026]] — 大学がGAIを推奨する一方で実践が伴わない場合:芸術教育における学生の評価と創造プロセスへのエンゲージメント
+- [[e3sense-multimodal-learner-engagement-sensing-2026]] — 頭部に限定したEEG、アイトラッキング、EDAが5段階のエンゲージメント評定を予測するが、学習者自身の定義によってその対応関係は変わる(Anupkrishnan et al. 2026)
+- [[student-attention-estimation-fairness-2026]] — リアルタイムの学生注意推定のための公平性を考慮したマルチモーダルTransformerモデリング
 - [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — 高等教育における AI：関与と教育方法の媒介的な役割の系統的レビュー
-- [[genai-motivation-engagement-2026]] — 生成 AI が学生の動機づけと関与に及ぼす影響
-- [[critical-engagement-code-completion]] — Tab を押すか押さないか：AI のコード補完における批判的関与の測定
-- [[icap-cognitive-engagement-llm-agents]] — 協調的な言説における認知的関与の測定
-- [[genai-tutor-engagement-patterns]] — すべての学生が同じように関与するわけではない：複数機関のパターン
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement
-- [[ai-availability-student-motivation]] — 「なぜこれほど努力するのか？」：AI の利用可能性が動機づけを形作る仕方
-- [[genai-performance-vs-learning]] — 成績の伸びと学習の区別
-- [[scaffolding-critical-engagement-genai-minority-students]] — GenAI との批判的関与の足場かけ
-- [[engagement-intensity-learner-modeling]] — 学習者モデル化のシグナルとしての関与の強度
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant
-- [[engagement-assessment-video]] — 映像学習における関与の評価
-- [[engagement-forecasting-its]] — ヒューリスティックから分析へ：努力と進捗の予測
-- [[interactive-learning-dashboards-engagement]] — インタラクティブな学習ダッシュボードと関与
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学習者の特性 × TTS 対話形式の交互作用
-- [[wang-goal-setting-ai-engagement-2026]] — 目標設定理論：AI を支えとする英語学習における教師の支え、達成目標、関与（758 人の中国の学生）
-- [[chatbot-engagement-genai-competency-emotion-2026]] — チャットボットへの関与の原動力としての GenAI の有能感と感情（Zhao et al. 2026）
-- [[student-ai-conversations-cognitive-engagement-2026]] — 学生と AI の会話における学問に結びついたブルームレベルの認知的関与（Chang & Li 2026）
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — 高等教育におけるAI:エンゲージメントと教授法の媒介的役割に関するシステマティックレビュー
+- [[genai-motivation-engagement-2026]] — 生成AIが学生の動機づけとエンゲージメントに与える影響
+- [[critical-engagement-code-completion]] — Tabを押すか押さないか:AIコード補完における批判的エンゲージメントの測定
+- [[icap-cognitive-engagement-llm-agents]] — 協働的言説における認知的エンゲージメントの測定
+- [[genai-tutor-engagement-patterns]] — すべての学生が同じようにエンゲージするわけではない:複数機関にわたるパターン
+- [[polished-artifacts-fragile-engagement-2026]] — 洗練された成果物、脆弱なエンゲージメント
+- [[ai-availability-student-motivation]] — 「なぜこれほど努力するのか?」:AIの利用可能性が動機づけをどう形づくるか
+- [[genai-performance-vs-learning]] — パフォーマンスの向上を学習と区別する
+- [[scaffolding-critical-engagement-genai-minority-students]] — GenAIとの批判的エンゲージメントの足場かけ
+- [[engagement-intensity-learner-modeling]] — 学習者モデリングのシグナルとしてのエンゲージメント強度
+- [[learning-engagement-assistant-lea]] — 学習エンゲージメント・アシスタント
+- [[engagement-assessment-video]] — 動画学習におけるエンゲージメント評価
+- [[engagement-forecasting-its]] — ヒューリスティックからアナリティクスへ:努力と進捗の予測
+- [[interactive-learning-dashboards-engagement]] — インタラクティブな学習ダッシュボードとエンゲージメント
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学習者特性×TTS対話形式の交互作用
+- [[wang-goal-setting-ai-engagement-2026]] — 目標設定理論:AI支援英語学習における教師のサポート、達成目標、エンゲージメント(中国人学生758名)
+- [[chatbot-engagement-genai-competency-emotion-2026]] — チャットボットへのエンゲージメントの促進要因としてのGenAIコンピテンシーと感情(Zhao et al. 2026)
+- [[student-ai-conversations-cognitive-engagement-2026]] — 学生とAIの会話における学問分野と関連するBloomレベルの認知的エンゲージメント(Chang & Li 2026)
 - [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — 初等レベルでの次元特有の関与の伸び（Lu et al. 2026）
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — 没入型の VR PBL スタジオにおいて認知的・行動的関与は上がり感情的関与は横ばい（Jin et al. 2026）
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — クラスター無作為化された中等数学の試験：カスタマイズされたチャットボットで状況的な興味は上がったが試験成績は上がらなかった（Rücker & Becker-Genschow 2025）
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI リテラシーは直接および心理的資本を通じて関与を動かし、職業的コミットメントによって増幅される（Wang 2026）
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI と人間の個別指導は同等の GRE 学習の伸びを生む
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — AI の個別指導へのアクセスは記録されたプラットフォームへの参加を 0.90 標準偏差下げた一方、宿題の提出は安定していた（Liu et al. 2026）
-- [[eight-mode-ai-engagement-typology-2026]] — 自己報告と観察された AI 関与プロファイルは対応せず、成績を追跡したのは行動だけだった（Keith, Wood & Posey 2026）
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — GenAI の下で予測される 4 つの関与配置と、道具がそれを増幅する理由
-- [[rho-disengaged-conversational-behaviors-2026]] — 学生と AI の対話における非関与の対話的な行動と学習（Rho et al. 2026）
+- [[genai-writing-program-primary-l2-motivation-engagement]] — 小学校段階における次元別のエンゲージメント向上(Lu et al. 2026)
+- [[ai-ive-pbl-vocational-design-creativity-2026]] — 没入型VRのPBLスタジオでは認知的・行動的エンゲージメントが上昇し、情動的エンゲージメントは横ばいだった(Jin et al. 2026)
+- [[domain-specific-chatbot-stem-enthusiasm-2025]] — 中等教育の数学におけるクラスターランダム化試験:カスタマイズされたチャットボットで状況的興味は高まったが、テスト成績は向上しなかった(Rücker & Becker-Genschow 2025)
+- [[ai-literacy-learning-engagement-psych-capital-2026]] — AIリテラシーは直接的に、また心理的資本を介してエンゲージメントを促し、専門職へのコミットメントがそれを増幅する(Wang 2026)
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench:AIと人間によるチュータリングはGREで同等の学習成果をもたらす
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — AIチューターへのアクセスは記録されたプラットフォーム参加を0.90 SD低下させた一方、課題提出は変わらなかった(Liu et al. 2026)
+- [[eight-mode-ai-engagement-typology-2026]] — 自己報告と観察によるAIエンゲージメントのプロファイルは一致せず、小テストの得点と連動したのは行動のみだった(Keith, Wood & Posey 2026)
+- [[al-nafjan-genai-eap-writing-engagement-2026]] — GenAI下で予測される4つのエンゲージメント配置と、ツールがそれを増幅する理由
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — ディスカッションボードに対する学生の認識:AI活用ラーニングアナリティクス設計に資する技術受容モデル研究

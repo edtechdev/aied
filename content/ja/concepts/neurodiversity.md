@@ -91,30 +91,31 @@ AI時代において、この捉え方はスローガンではなく設計上の
 
 ## 関連概念
 
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
+- [[special-education|特別支援教育]]
+- [[inclusive-learning|インクルーシブ学習]]
+- [[universal-design-for-learning|学習のためのユニバーサルデザイン]]
+- [[equity-in-ai-education|AI教育における公平性]]
+- [[differential-effects-across-learner-groups|学習者集団間で異なる効果]]
+- [[student-experience|学生体験]]
+- [[personalized-learning|個別化学習]]
+- [[learning-analytics|ラーニングアナリティクス]]
+- [[generative-ai|生成AI]]
+- [[cognitive-offloading|認知的オフローディング]]
+- [[student-modeling|学習者モデリング]]
+- [[executive-function|実行機能]]
 
 ## 関連記事
 
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Reframing Educational Value in EdTech for Neuro-Inclusive Primary School Classrooms: A Scoping Review
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成的AI、仮想現実、そしてその先へ：高等教育におけるニューロダイバーシティのある学生のためのデジタル支援技術のスコーピングレビュー
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 障害のある学生のためのAIに関する29件の研究と、カテゴリによって異なる効果
-- [[adhd-video-segmentation-computing-education]] — ADHDの参加者を同等の水準に導いた時間的な動画分割
-- [[neurodivergent-computing-students]] — 構造、曖昧さ、協働に関する24人のニューロダイバーシティのある情報系学生
-- [[genai-reliance-executive-functioning-2026]] — 実行機能の困難、知覚された有用性、そしてAIへの依存への経路
+- [[gibson-neuro-inclusive-edtech-scoping-2026]] — ニューロインクルーシブな小学校の教室に向けてEdTechの教育的価値を再定義する:スコーピングレビュー
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成AI、仮想現実、そしてその先へ:高等教育におけるニューロダイバージェントな学生のためのデジタル支援技術に関するスコーピングレビュー
+- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 障害のある学生のためのAIに関する29件の研究、そしてカテゴリによって異なる効果
+- [[adhd-video-segmentation-computing-education]] — ADHDの参加者を同等の水準に引き上げた時間軸での動画分割
+- [[neurodivergent-computing-students]] — 構造、曖昧さ、協働について語る24人のニューロダイバージェントなコンピューティング専攻学生
+- [[genai-reliance-executive-functioning-2026]] — 実行機能の困難、知覚された有用性、そしてAIへの依存に至る経路
 - [[seung-basham-cognitive-offloading-swld-2026]] — 学習障害のある学生のためのGenAIによる認知的オフローディング
-- [[dabaghi-ai-dyslexia-education-review-2026]] — 教育におけるディスレクシアのある人々を助けるAI
-- [[genai-minoritized-knowledges-disability]] — 生成的AIと周辺化された知識の排除
+- [[dabaghi-ai-dyslexia-education-review-2026]] — 教育の場でディスレクシアの人々を支援するAI
+- [[genai-minoritized-knowledges-disability]] — 生成AIとマイノリティ化された知識の周縁化
 - [[tactile-statistical-graphs-accessibility]] — アクセシビリティのための触覚的な統計グラフ
-- [[ai-learning-tools-engineering-education-needs]] — ニーズと注意を考慮したAI学習ツールの設計
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 検出器主導のプロセスは、正当な宿座的対応の利用を思いとどまらせうる
+- [[ai-learning-tools-engineering-education-needs]] — ニーズと注意状態を認識するAI学習ツールの設計
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 検出器主導のプロセスは正当な合理的配慮の利用をためらわせるおそれがある
+- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — ADHDの学生のためのAIに関する28件の研究、倫理を明示したもの

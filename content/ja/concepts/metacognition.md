@@ -168,8 +168,8 @@ AIは、答えを知るに十分だと判断するための**メタ認知的な�
 
 ## 関連する概念
 
-- [[pedagogical-patterns]] — これらの配列が組み込む内省の段階
-- [[learners]] — 学習者：学習者側の概念を束ねる上位概念
+- [[pedagogical-patterns]] — これらのシーケンスに組み込まれた省察のステップ
+- [[learners]] — 学習者:学習者側の概念を包括する上位概念
 - [[self-regulated-learning]]
 - [[self-assessment]]
 - [[cognitive-offloading]]
@@ -177,55 +177,56 @@ AIは、答えを知るに十分だと判断するための**メタ認知的な�
 - [[agentic-ai]]
 - [[formative-assessment]]
 - [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — 学習判断と、検索練習が修正する流暢さの錯覚
+- [[retrieval-spacing-interleaving]] — 学習判断と、検索練習が是正する流暢性の錯覚
 - [[cognitive-surrender]]
-
 - [[reflection]]
+- [[executive-function]]
 
 ## 関連する記事
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — 2時間のAIリテラシー・ワークショップは、中学生のLLM相互作用における調整を変化させた。自己報告されたメタ認知は変化させなかった（Clercら、2026年）
-- [[student-ai-interaction-consecutive-interpreting-2026]] — コンピュータ支援逐次通訳における学生–AI相互作用
-- [[du-yuan-epistemic-dependence-2026]] — AIを介した学習における認識論的依存（Du & Yuan 2026）
-- [[llm-interaction-depth-task-quality-recall-2026]] — 学生が何を問うかが重要である：LLM相互作用の深さ、タスクの質、即時の再生（Tsiligkiris 2026）
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 生成AI支援ライティングにおける層感応的な認知的オフローディング（Chen 2026）
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEMにおけるLLM媒介の助け求め：階層的、道具的、検証された
-- [[cui-motivation-roles-metacognitive-genai-2026]] — メタ認知的生成AI関与における動機づけと役割
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — メタ認知訓練は最適な認知的オフローディングを促進する（Ngai & Gilbert 2026）
-- [[cognitive-offloading-metacognitive-review-2026]] — 認知的オフローディングについてのメタ認知的洞察：メカニズム、介入、教育的含意（Guo & Ye 2026）
-- [[idea-framework-metacognitive-genai-2026]] — メタ認知的に調整された生成AI使用のためのIDEAフレームワーク
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML：人間中心のAIメタ認知的学習モデル（主体性と内省的な学習）
-- [[metacognitively-discordant-completion-genai-2026]] — メタ認知的不調和な完了と、不理解を自覚したままの通過
-- [[ai-metacognition-stem-review]] — メタ認知を足場づけるSTEMのAIツール
-- [[ai-making-us-stupid]] — AIは私たちを愚かにしているか。認知的オフローディングの批判
+
+- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — 2時間のAIリテラシー・ワークショップは中学生のLLM相互作用の調整を変化させたが、自己報告のメタ認知は変化しなかった(Clerc et al. 2026)
+- [[student-ai-interaction-consecutive-interpreting-2026]] — コンピュータ支援逐次通訳における学生とAIの相互作用
+- [[du-yuan-epistemic-dependence-2026]] — AIを介した学習における認識的依存(Du & Yuan 2026)
+- [[llm-interaction-depth-task-quality-recall-2026]] — 学生が何を問うかが重要である:LLMとの相互作用の深さ、課題の質、即時再生(Tsiligkiris 2026)
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI支援ライティングにおける層依存的な認知的オフローディング(Chen 2026)
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEMにおけるLLMを介した援助要請:階層的・道具的・検証済み
+- [[cui-motivation-roles-metacognitive-genai-2026]] — メタ認知的なGenAI利用における動機づけと役割
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — メタ認知訓練は最適な認知的オフローディングを促進する(Ngai & Gilbert 2026)
+- [[cognitive-offloading-metacognitive-review-2026]] — 認知的オフローディングに関するメタ認知の知見:メカニズム、介入、教育的示唆(Guo & Ye 2026)
+- [[idea-framework-metacognitive-genai-2026]] — メタ認知的に調整されたGenAI利用のためのIDEAフレームワーク
+- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML:人間中心のAIメタ認知学習モデル(エージェンシーと内省的学習)
+- [[metacognitively-discordant-completion-genai-2026]] — メタ認知的に不整合な完了と、不理解を自覚したままの素通り
+- [[ai-metacognition-stem-review]] — STEMにおいてメタ認知を足場化するAIツール
+- [[ai-making-us-stupid]] — AIは私たちを愚かにしているのか?認知的オフローディングへの批判
 - [[stanford-evidence-base-ai-k12-2026]] — 汎用AIは推論を完了させることでメタ認知を抑制する
-- [[ai-advice-suppresses-ikt-suspension-2026]] — AIの助言は「わからない」と言う意思を抑制する。誤った助言や正確さへのインセンティブがあっても
-- [[agentic-ai-pedagogical-best-practice-2026]] — エージェント的AIと教授上の最善実践：自動化と学習の緊張関係
-- [[cognitive-offloading-speedup-illusion]] — 人間–AI相互作用における認知的オフローディングと高速化の錯覚
-- [[lodge-loble-cognitive-offloading-2026]] — AI、認知的オフローディング、そして教育への含意（Lodge & Loble 2026）
-- [[pedagogy-ai-mistakes]] — AIの誤りの教授法：高次の思考を育むこと（Hosseini 2026）
-- [[kim-ai-productive-failure-adult-2026]] — 生産的な失敗に基づく学習を支援するAIシステムの設計
-- [[lukesova-clue-before-correction-2026]] — 修正前の手がかり：自律的な言語学習のためのChatGPT
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — プロンプトリテラシー・サイクルにおけるプロンプト過程の内省と作者性の発達（Miles、Haber-Curran & Arar 2026）
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — 内省プロンプトは誤ったAI助言の受け入れを減らし、自覚の較正を改善した（Ren 2026）
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 自動採点は監視は強化したが計画は強化せず、自己報告された内省は生産的なままではなかった（Chen & Liu 2026）
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — メタ認知的な自己調整を通じてのみ作用する検証リテラシー（Davor、Larbi & Boateng 2026）
-- [[iqbal-human-genai-support-essay-revision-2026]] — メタ認知的な判断の正確さではなく、外的な支援が修正方略の選択を駆動した（Iqbalら、2026年）
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — 選択的な利得：メタ認知的知識は上昇したが、計画と監視はしなかった（Wangら、2026年）
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — 内省的な使用はAIへのアクセスとともに増え、知識の伸びではなく批判的思考を予測した（Melanou、Beege & Kimmig 2026）
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — 適応的なSTEM学習の最強の予測変数としてのメタ認知的な自覚（Alatoai & Alshahri 2026）
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 診断からメタ診断へ：AIが生成した推論を判断する教員（Hoppe、Loibl & Leuders 2026）
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 内省的AI関与における技能を支える依存へ向けた開かれた問い
-- [[dang-human-ai-collaboration-competency-2026]] — 人間–AI協働における学習者の主体性のメカニズムとしての教授法ではなくメタ認知（Dang、Hong、Doyle & Nguyen 2026）
-- [[metacognitive-ownership-human-ai-regulation-2026]] — メタ認知的所有性：基準、判断、行為に対する学習者の統治の構成概念
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — ログと発話思考は、生成AI支援学習において異なるメタ認知的過程を捉える
-- [[ai-cognitive-partner-reflective-thought-2026]] — 学生がAIを認知的パートナーとして扱うときの、内省的思考の4つの実践と11の過程
-- [[karaki-think-aloud-ethical-genai-2026]] — シンクアラウドはプロンプト構成、検証、倫理的推論を可視にしたが、批判的評価は表層的なままだった。単独の解決策ではない
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — 養成教員の内省的実践におけるメタ認知訓練とAIベースのソクラテス的足場づけ：二重研究の実験デザイン
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — 認知的休眠: 中断されたメタ認知的関与と無秩序さの上昇についての実験的な説明（Braun 2026）
-
-- [[ai-metacognition-three-level-meta-analysis-2026]] — 3水準メタ分析：プールされた g = 0.624 は、正確さで評定された監視では非有意に落ちる（Liら、2026年）
-- [[fan-metacognitive-offloading-sync-model-2026]] — SYNCモデル：メタ認知的なオフローディングとオフローディングの反転、そしてタスクのパフォーマンスが持続的な学習から切り離されること（Fanら、2026年）
-- [[guo-overreliance-genai-feedback-2026]] — 監視はオフローディングの経路を遮るというより、経路を変える
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — 監視が省かれるとき、そしてそれが何を犠牲にするか
-
+- [[ai-advice-suppresses-ikt-suspension-2026]] — AIの助言は、誤った助言や正確性へのインセンティブがある場合でも「わからない」と言う意欲を抑制する
+- [[agentic-ai-pedagogical-best-practice-2026]] — エージェンティックAIと教育上のベストプラクティス:自動化と学習の間の緊張
+- [[cognitive-offloading-speedup-illusion]] — 人間とAIの相互作用における認知的オフローディングと高速化の錯覚
+- [[lodge-loble-cognitive-offloading-2026]] — AI、認知的オフローディング、そして教育への示唆(Lodge & Loble 2026)
+- [[pedagogy-ai-mistakes]] — AIの誤りの教育学:高次思考の育成(Hosseini 2026)
+- [[kim-ai-productive-failure-adult-2026]] — 生産的失敗に基づく学習を支援するAIシステムの設計
+- [[lukesova-clue-before-correction-2026]] — 訂正の前に手がかりを:自律的な言語学習のためのChatGPT
+- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompt Literacy Cycleにおけるプロンプト作成過程の振り返りと著者性の発達(Miles, Haber-Curran & Arar 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — 内省を促すプロンプトが誤ったAI助言の受容を減らし、自己認識の較正を改善した(Ren 2026)
+- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 自動採点はモニタリングを強化したが計画は強化せず、自己報告の振り返りは非生産的なままだった(Chen & Liu 2026)
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — 検証リテラシーはメタ認知的自己調整を介してのみ作用する(Davor, Larbi & Boateng 2026)
+- [[iqbal-human-genai-support-essay-revision-2026]] — 修正方略の選択を左右したのはメタ認知判断の正確さではなく外部からの支援だった(Iqbal et al. 2026)
+- [[wang-genai-novice-learner-learning-by-teaching-2026]] — 選択的な向上:メタ認知知識は伸びたが、計画とモニタリングは伸びなかった(Wang et al. 2026)
+- [[melanou-genai-learning-dynamics-longitudinal-2026]] — 内省的な利用はAIへのアクセスとともに増え、知識の獲得ではなく批判的思考を予測した(Melanou, Beege & Kimmig 2026)
+- [[alatoai-ai-learning-environments-self-regulation-2026]] — 適応的なSTEM学習の最も強い予測因子としてのメタ認知的意識(Alatoai & Alshahri 2026)
+- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 診断からメタ診断へ:AIが生成した推論を判断する教師(Hoppe, Loibl & Leuders 2026)
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 内省的なAI関与におけるスキル維持型の依存に向けた未解決の問い
+- [[dang-human-ai-collaboration-competency-2026]] — 人間とAIの協働における学習者エージェンシーのメカニズムは、教授法ではなくメタ認知である(Dang, Hong, Doyle & Nguyen 2026)
+- [[metacognitive-ownership-human-ai-regulation-2026]] — メタ認知的オーナーシップ:学習者による基準・判断・行為の統御を捉える構成概念
+- [[metacognitive-processes-genai-interaction-logs-2026]] — GenAI支援学習では、ログと発話思考法が異なるメタ認知プロセスを捉える
+- [[ai-cognitive-partner-reflective-thought-2026]] — 学生がAIを認知的パートナーとして扱うときの内省的思考の4つの実践と11のプロセス
+- [[karaki-think-aloud-ethical-genai-2026]] — 発話思考法はプロンプト構築・検証・倫理的推論を可視化したが、批判的評価は表層的なままであり、単独の解決策ではない
+- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — 教職課程学生の振り返り実践におけるメタ認知訓練とAIによるソクラテス式足場化:2つの研究からなる実験デザイン
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — 認知的休眠:メタ認知的関与の停止と無秩序化の進行に関する実験的説明(Braun 2026)
+- [[ai-metacognition-three-level-meta-analysis-2026]] — 3水準メタ分析:統合効果量g = 0.624、正確性で評定したモニタリングでは有意性が失われる(Li et al. 2026)
+- [[fan-metacognitive-offloading-sync-model-2026]] — SYNCモデル:メタ認知的オフローディングとオンローディング、そして持続的な学習から切り離された課題遂行(Fan et al. 2026)
+- [[guo-overreliance-genai-feedback-2026]] — モニタリングはオフローディングの経路を遮断するよりも、むしろ迂回させる
+- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — モニタリングが省略されるとき、そしてその代償
+- [[wilder-adhd-ai-interview-eye-tracking-2025]] — 認知的柔軟性は面接の段階を予測するが、自己報告の調整は予測しない
+- [[sidorkin-extended-executive-cognition-2025]] — 学習成果としての拡張実行認知(フレームワーク)
+- [[huang-multi-agent-self-regulated-learning-cs-2026]] — コンピュータ科学教育における自己調整学習と概念的理解を高めるマルチエージェント人工知能モデル…

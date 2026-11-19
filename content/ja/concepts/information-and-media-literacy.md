@@ -43,9 +43,11 @@ ai_assist:
 
 ## 二つの構成概念が分岐する地点
 
-情報リテラシーの対象は情報源であり、その中核の問いは、その主張が真であり、その背後の証拠が信頼できるかどうかです。メディアリテラシーの対象はメッセージであり、その中核の問いは、誰が、どのように、誰のために、何のためにそれを作ったのかです。捏造された引用は第一のテストに落ちます。ディープフェイクは、学生が実行できるあらゆる事実確認を通り抜けながら、第二のテストに落ちうるのです。
+情報リテラシーの対象は情報源であり、その中核的な問いは、主張が真実であるか、それを裏づける証拠が信頼できるかである。メディアリテラシーの対象はメッセージであり、その中核的な問いは、誰が、どのように、誰に向けて、何のために作ったのかである。捏造された引用は第一の検査に不合格となる。ディープフェイクは、学生が実施方法を知っているあらゆる事実確認を通過しながら、第二の検査には不合格となりうる。
 
-実証的な文献はこの分裂を反映しています。米国の大学生236人を対象とした調査は、学術的な検索がどこから始まるかを尋ね、検索エンジンが45.5%、図書館のホームページが27.9%、AIチャットボットが26.6%という結果を得て、留学生は図書館の資源の代わりにAIを用いる割合が国内学生のおよそ2倍でした（[[lund-ai-information-seeking-chatbots-libraries-2026|Lund ら、2026年]]）。32件の研究の系統的レビューは、情報リテラシー指導への[[ai-literacy|AIリテラシー]]の統合が「初期段階」にあり、カリキュラムとしてではなくLibGuidesとワークショップを通じて提供されていることを見出しました（[[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza と Arif、2026年]]）。メディアの側では、7人の専門家へのインタビューと141人の学生への調査が、批判的メディアリテラシーのカリキュラムへの技術の組み込みは「限定的で、しばしば表面的」であり、教師は偽情報やディープフェイクを生み出す道具について十分に訓練されていないことを見出しました（[[critical-media-literacy-education-2026|批判的メディアリテラシー研究、2026年]]）。
+実証研究の蓄積は、この分裂を反映している。米国の大学生236人を対象とした調査は、学術的な検索をどこから始めるかを尋ね、検索エンジンが45.5%、図書館のホームページが27.9%、AIチャットボットが26.6%であることを明らかにした。留学生が図書館の資料の代わりにAIを用いる割合は、国内学生の約2倍であった（[[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]）。32件の研究を対象とした[[meta-analysis-systematic-review|システマティックレビュー]]は、情報リテラシー教育における[[ai-literacy|AIリテラシー]]の統合が「初期段階」にとどまり、カリキュラムを通じてではなくLibGuidesやワークショップを通じて提供されていることを明らかにした（[[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza and Arif, 2026]]）。メディア側では、7人の専門家へのインタビューと141人の学生を対象とした調査により、批判的メディアリテラシーのカリキュラムへのテクノロジーの組み込みが「限定的で、しばしば表面的」であり、ディスインフォメーションやディープフェイクを生成するツールについて教師が十分な訓練を受けていないことが明らかになった（[[critical-media-literacy-education-2026|批判的メディアリテラシーの研究、2026]]）。
+
+国際的なアセスメントは、この2つの構成概念を融合させようとしている。PISA 2029は15歳を対象とするメディア・AIリテラシー（MAIL）評価を導入し、iRAISEの2026年のレビューも同じ統合の上にその定義を築いている――すなわち、AIリテラシーをデジタルリテラシーの最新の層と位置づけ、そのデジタルリテラシー自体が数十年にわたるメディアリテラシーと情報リテラシーの上に成り立つというものである（[[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]）。この統合には、分岐を主張する議論が予測する実施コストが伴う。UNESCOの2025年のマッピングでは、194の加盟国のうち171か国が国家的な枠組みでメディア・情報リテラシーに言及していたが、カリキュラムに技術的なデジタルスキルを超えた要素を含めているのは84か国（43%）にとどまった――つまり、アセスメントが測定しようとする構成概念は、学校が最も教えていないものなのである。
 
 ## AIが情報リテラシーを複雑にする仕方
 
@@ -57,9 +59,11 @@ ai_assist:
 
 ## AIがメディアリテラシーを複雑にする仕方
 
-メディアリテラシーの出発点の問いは、目的を持つ作り手を前提としていました。ディープフェイク、声の複製、自動化されたボットは、その前提を三つの仕方で破ります。成果物には人間の著者がいないかもしれず、受け手は合成的でありえ、意図は誰かによる説得ではなくエンゲージメントのための最適化でありうるのです。
+メディア・リテラシーの創設期の問いは、目的を持った作り手の存在を前提としていた。ディープフェイク、音声クローン、自動化されたボットは、その前提を三つの点で崩す。すなわち、制作物に人間の作者が存在しないかもしれず、受け手が合成された存在かもしれず、そして意図が誰かによる説得ではなくエンゲージメントの最適化であるかもしれない、ということである。
 
-カリキュラムについての証拠は、学校が追いついていないことを示唆します。専門家へのインタビューは、制約となっているのは学生の抵抗ではなく[[teacher-education|教師の訓練]]であると述べ、評価を道具の訓練ではなく倫理的で参加的な実践として扱う[[critical-pedagogy|批判的教育学]]の枠づけを主張しています。公共サービスメディアのための委託報告書は、40以上のフレームワークをレビューし35人の専門家にインタビューしたにもかかわらず、14〜19歳向けの提供が、批判的な評価から離れて機能的なAI技能へと傾いていることを見出しました（[[ai-literacies-young-adults-2025|AIリテラシー報告書、2025年]]）。
+**パーソナライズされた論証こそが、現在の説得に関する脅威モデルである。** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]]は、米国の成人900人を、人間またはGPT-4との10分間のオンライン討論に無作為に割り当て、ありふれた6項目の人口統計情報を与える条件と与えない条件を設けた。パーソナライズされていないGPT-4は人間の討論相手と統計的に区別がつかなかったが、パーソナライズされたGPT-4は討論後に同意するオッズを81.2%高め、64.4%の割合でより説得的であった。参加者は約4回の討論のうち3回で相手がAIであることを見抜いたが、相手がAIだと信じたときほど意見が大きく動いたため、情報源の検出は免疫化としては機能しなかった。この操作は文章の上では見えなかった。文体の指標は条件間でほとんど差がなく、優位性はどのように書かれたかではなく、どの論拠が選ばれたかにあった。
+
+カリキュラムに関する証拠は、学校が追いついていないことを示唆している。専門家へのインタビューは、決定的な制約となっているのは生徒の抵抗ではなく[[teacher-education|教員研修]]であると述べ、評価をツールの訓練ではなく倫理的かつ参与的な実践として扱う[[critical-pedagogy|批判的教育学]]の枠組みを主張している。公共サービス・メディアのために委託作成された報告書は、40を超える枠組みを検討し35人の専門家にインタビューしたにもかかわらず、14–19歳向けの提供内容が機能的なAIスキルに偏り、批判的評価から遠ざかっていることを見いだした([[ai-literacies-young-adults-2025|AIリテラシー報告書、2025]])。
 
 ## 防御的な道具としてのAI——主張と留保
 
@@ -73,15 +77,28 @@ ai_assist:
 
 ## 実践にとってこれが意味すること
 
-- **一つの手順、二つの対象を教える。** 検証可能なルーティン——主張を情報源へたどり、情報源を著者へたどり、成果物が何をしているかを問う——は、引用にも動画にも機能します。どの対象を課題が評価しているのかを名指してください。
-- **検出を評決ではなく証拠として扱う。** 検出器の出力は確率です。学生に、第二の方法で裏づけ、何が自分の考えを変えるのかを言えるように教えてください。
-- **制作をカリキュラムに残す。** メディアを作ることは、批評を具体的にする教授法でした。AIによる生成は、学生が道具が代わりに下した選択を吟味する場合にのみ、それを支ええます。
-- **図書館員やメディア専門家をワークフローの内側に置く。** この文献で最も強い教授上の成果は、人間の相談が後から提供されるのではなく、組み込まれた設計から来ています。
-- **シラバスを書く前に職員の能力を評価する。** 測定された不足は、道具の使用ではなく、目標の設計と成果の評価にあります。
+教員は、一つの手順を二つの対象に対して教えることができる。主張を情報源までたどり、情報源を著者までたどり、そのうえでその成果物が何をしているのかを問う。この手順は引用にも動画にも通用するため、課題ではどちらの対象を評価するのかを明示すべきである。
+
+教員は、検出器の出力を評決ではなく証拠として扱うことができる。それは確率であるため、学生は第二の方法で裏付けを取り、何があれば自分の考えを変えるのかを述べるべきである。
+
+カリキュラム設計者は、制作をコース内に置いておくことができる。ここで検討した研究において批判を具体的なものにしたのはメディアを作ることであって、AIによる生成がそれを支えるのは、ツールが自分たちの代わりに下した選択を学生が検討する場合に限られる。
+
+構成概念を態度ではなく遂行として採点すると、弱点が見えるようになる。タイの学部生28名を対象とした8週間のCode Craftの試行では、3段階ルーブリック上のデジタルリテラシーは1.51から2.82へ上昇したが、情報の管理は平均1.92、情報の創造は2.05であり、他者とのコミュニケーションおよび協働の2.36を下回った（[[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang, 2026]]）。最も低い得点は構成概念のうち生産する側に位置しており、検索と評価で止まってしまうコースはそこに到達しない。
+
+プログラム責任者は、図書館員やメディア専門家をワークフローの内部に配置することができる。この文献群で最も強い教育上の成果は、人による相談が事後に提供されるのではなく、あらかじめ組み込まれた設計から得られている。
+
+ファカルティ・ディベロップメントの担当者は、学科がシラバスを作成する前に教員の力量を評価することができる。測定された不足は、ツールの使用ではなく、目標の設計と成果の評価にある。
 
 ## エビデンスの限界
 
 ここでの研究のほとんどは小規模か[[self-report-measures|自己報告]]、あるいはその両方です。一つの調査の学生236人、一つの介入の子ども36人、自己評定した図書館員412人。計量書誌学的な可視性は実践ではなく、計量書誌学の著者たち自身がそう明言しています。コーパスの中で、統合された情報・メディアリテラシーのカリキュラムを評価した研究はなく、実践の文献が勧める検出器やファクトチェックの道具は、これらの資料ではほとんど測定されていません。AIによる検証が成果を改善するという主張は、誰かが対照群と比較して検証するまでは、設計上の仮説として扱うべきです。
+
+## よくある誤解
+
+- **検出ツールが問題を解決する。** 検出ツールが返すのは確率であり、正解表として扱うのではなく、第二の方法で裏付けるべきである。
+- **二つのリテラシーは、名前が二つあるだけの同一のスキルである。** 対象が異なる——情報源の信頼性に対して、執筆主体と意図——ため、単一のルーブリックではどちらも十分に評価できない。
+- **AIを見抜ければ、その影響は防げる。** ここで取り上げた最も強力な説得実験では、検出率は高かったにもかかわらず、AIの立場への同調はなお強まった。
+- **司書の能力はAIリテラシーにそのまま転移する。** 職員の能力不足が現れるのは、ツールの操作ではなく、目標の設計（M = 2.70）と成果の評価（M = 2.62）である。
 
 ## 関連する概念
 
@@ -97,14 +114,18 @@ ai_assist:
 
 ## 関連する記事
 
-- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries: A Systematic Review of Emerging Research
-- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries: A global Scientometric analysis (2020–2025)
-- [[lund-ai-information-seeking-chatbots-libraries-2026]] — Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — Developing an AI-Assisted Seminar-Based Learning Platform With Embedded Librarian Support
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Information literacy through open pedagogy: What's the role of AI tools?
-- [[huang-genai-academic-information-resources-2026]] — Generative artificial intelligence reshapes university students' sustainable use of academic information resources
-- [[dada-librarians-information-literacy-ai-nigeria-2026]] — Academic Librarians' Student Engagement for Promoting Information Literacy and Artificial Intelligence Instruction in Nigerian Tertiary Institutions
-- [[offem-ai-information-literacy-library-users-2026]] — Artificial Intelligence as a Tool for Promoting Information Literacy among Library Users
-- [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy: potential, challenges, and opportunities
-- [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
-- [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISEによる4か国レビュー：194州のうち84州がMILを技術的スキルを超えてカリキュラムに位置づけ、4つの制度すべてで人的要因が成果を左右した（Cerioli, 2026）
+- [[mirza-arif-ai-literacy-information-literacy-review-2026]] — 大学図書館の情報リテラシー指導へのAIリテラシー統合のマッピング：新興研究の体系的レビュー
+- [[jabeen-lux-ai-information-literacy-scientometric-2026]] — 人工知能はいかに大学図書館の情報リテラシーを再形成しているか：世界的な計量書誌学分析（2020–2025）
+- [[lund-ai-information-seeking-chatbots-libraries-2026]] — 人工知能（AI）と情報探索：大学生における情報源としてのAIチャットボット、検索エンジン、図書館リソースの比較検討
+- [[ai-assisted-seminar-learning-information-literacy-2026]] — 図書館員による支援を組み込んだAI支援セミナー型学習プラットフォームの開発
+- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — オープン・ペダゴジーを通じた情報リテラシー：AIツールの役割は何か？
+- [[huang-genai-academic-information-resources-2026]] — 生成的人工知能は大学生による学術情報資源の持続可能な利用を再形成する
+- [[dada-librarians-information-literacy-ai-nigeria-2026]] — ナイジェリアの高等教育機関における情報リテラシーと人工知能の指導を促進するための大学図書館員による学生エンゲージメント
+- [[offem-ai-information-literacy-library-users-2026]] — 図書館利用者の情報リテラシーを促進するツールとしての人工知能
+- [[critical-media-literacy-education-2026]] — テクノロジー、教育、批判的メディアリテラシー：可能性、課題、機会
+- [[demir-akar-ai-media-literacy-children-2026]] — クリックを批判的思考へと変える：子どものためのAIに基づくメディアリテラシー・プログラム
+- [[ai-literacies-young-adults-2025]] — 14-19歳の若年成人のAIリテラシーを支援する
+- [[salvi-conversational-persuasiveness-gpt4-2025]] — パーソナライズされたGPT-4は人間の討論者を打ち負かし、検出は免疫効果をもたらさなかった（Salvi et al. 2025）
+
+- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft：計算論的思考とデジタルリテラシーを高めるためのデジタル・デザイン思考および学習プラットフォーム

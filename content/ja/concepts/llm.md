@@ -1,7 +1,7 @@
 ---
 title: 大規模言語モデル（LLM）
 created: "2026-10-10T22:40:00-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 
 ## はじめに
 
-### AIEdのエンジンとしてのLLM
+## AIEdのエンジンとしてのLLM
 
 LLMは、ほぼすべてのAI教育アプリケーションを支えているため、ナレッジベースで最も多く参照される概念です（60以上の記事）。
 
@@ -54,7 +54,7 @@ LLMは、ほぼすべてのAI教育アプリケーションを支えているた
 - **生成から切り離された検証——ただし相関した失敗モードとともに。** [[eduguard-safe-rag-llm-tutor|Hossain et al.（2026）]]は、チューターの検索を教員承認済みの教材に限定し、主張をアーキテクチャ上独立したDeBERTa-v3-large-MNLI検証器に通しますが、両モデルが幅広いWeb学習を共有しているため相関した仕方で失敗しうること、また検証器はコードを実行せずにはコードトレースを検証できないことを注意深く指摘しています。
 - **評価モデルの転換（2017–2024）：** 短答型[[science-education|理科]]問題の自動採点に関するMorley et al.のスコーピングレビューは、この分野が小型の[[educational-nlp|BERT]]モデルのファインチューニング（2021年まで支配的）から、およそ2022年以降は大きなLLM（GPT-1/2/3.5/4）へのプロンプト（[[prompt-engineering]]、ファインチューニングではなく）へと移行した軌跡を描いています。ドメイン拡張モデル、ルーブリック対応プロンプト、連鎖思考（chain-of-thought）が精度を押し上げました。しかしGPTモデルは標準コーパス上でBERTと比較されることが稀で、採点の説明ができる自動採点器は少なく、[[bias-mitigation|バイアス]]はほとんど検討されませんでした——これらの注意はLLM評価一般に当てはまります（[[auto-marking-short-answer-science-2026]]）。
 
-### モデル固有の研究
+## モデル固有の研究
 
 ナレッジベースは、汎用LLM（GPT-4、Claude）と教育特化の適応の両方を扱っています。[[cstutorbench-slm-tutors|小規模言語モデルのベンチマーク]]は、チュータリングにおけるSLMの性能を比較します。そして[[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]]は、SLMが、決定論的な道具が小さなモデルがotherwise暗黙に扱う負荷を担う、道具で拡張されたプランナーとして展開されるとき——教授法上の統制がモデルではなくエスカレーションの方策に宿る——[[agentic-ai|エージェント的]]なチュータリングに構造的に適していると論じています。[[educational-llm-alignment|教育的アラインメント]]の研究は、LLMを教育学的に適切にする方法を扱います。3つの最先端モデル系列を対象とした教室研究——[[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky（2025）]]——は、ChatGPT、Gemini、またはClaudeが論証的文章における協働的な批評パートナーとして機能しうることを見いだしました。学期を通じた反復的なエッセイの中で、学生は論証の質、[[prompt-engineering|プロンプトエンジニアリング]]、AIフィードバックへの[[ai-feedback-quality|応答]]のそれぞれについて、およそ標準偏差1個分ずつ向上し（すべて p < .001）、深く関与しました（87.8%がLLMの主張に反論）。これは汎用LLMを、単なる解答生成器ではなく実用的な[[collaborative-learning|協働学習]]パートナーとして位置づけます。
 

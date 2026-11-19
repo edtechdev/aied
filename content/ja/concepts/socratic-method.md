@@ -150,9 +150,9 @@ Favero ら（2025年）は、学生が問いかけの構造を内面化するの
 - [[productive-failure]] — 生産的な失敗
 
 ## 関連記事
-- [[agent-type-feedback-style-self-directed-learning-2026]] — 2×2 の大学院の設計研究におけるソクラテス的なフィードバックと指示的なフィードバックの様式
 
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 臨床面接の訓練のための足場かけ志向のマルチエージェント大規模言語モデルシステムの評価
+- [[agent-type-feedback-style-self-directed-learning-2026]] — 大学院生を対象とした2 x 2設計研究におけるソクラテス型と指示型のフィードバックスタイルの比較
+- [[ai-standardized-patient-scaffolding-medical-2026]] — 臨床面接訓練のためのスキャフォールディング指向マルチエージェント大規模言語モデルシステムの評価
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[ai-agents-constructive-conflict-design-education-2026]]
 - [[syal-multimodal-dialogue-stem-2026]]
@@ -161,15 +161,15 @@ Favero ら（2025年）は、学生が問いかけの構造を内面化するの
 - [[embodied-inquiry-ai-facilitator-physics-2026]]
 - [[prober-ai-inquiry-writing]]
 - [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — 構造化されたソクラテス的なヒント対開かれた一般的な質疑応答
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的な失敗のための LLM の教育学的な操縦
-- [[wang-safety-gap-productive-struggle-2026]] — 安全の隔たり：生産的な苦闘の回復
-- [[rhaimi-productivemath-2025]] — ProductiveMath：PF の問題設計を支援する AI
-- [[lukesova-clue-before-correction-2026]] — 修正の前の手がかり：自律的な言語学習のための ChatGPT
-- [[socratic-nuclear-ai-learning]] — ソクラテスは核になった：学習における AI の相互作用戦略の比較
-- [[lftutor-logical-fallacy-education-2026]] — 四段階の誤謬個別指導の枠組みにおけるソクラテス的な問いかけと批判的な論証
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — ガードレールか行き止まりか。プログラミングのための AI 教授助手における教育学的様式と文脈認識の効果
-- [[genai-socratic-tutor-biology-argumentation-2026]] — 生成的AIによる見込み生物教員のPISA準拠の論証スキルの向上
-- [[etq-ai-conversational-teacher-training-2026]] — 教授の誤概念のための会話型AI診断：証拠に基づく対話(Miranda & Calvani 2026)
-- [[socratic-probing-agent-physics-cave-detection-2026]] — 教えないAIエージェントの設計:入門物理におけるソクラテス式の問いかけのための設計規則
+- [[stanford-evidence-base-ai-k12-2026]] — 構造化されたソクラテス式ヒントとオープンエンドの汎用Q&Aの比較
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的失敗を促すためのLLMの教授法的ステアリング
+- [[wang-safety-gap-productive-struggle-2026]] — 安全性ギャップ：生産的な苦闘を取り戻す
+- [[rhaimi-productivemath-2025]] — ProductiveMath：PFの問題設計を支援するAI
+- [[lukesova-clue-before-correction-2026]] — 訂正の前に手がかりを：自律的な言語学習のためのChatGPT
+- [[socratic-nuclear-ai-learning]] — ソクラテスは強硬路線へ：学習におけるAIの相互作用戦略の比較
+- [[lftutor-logical-fallacy-education-2026]] — 4段階の誤謬指導フレームワークにおけるソクラテス式質問と批判的論証の組み合わせ
+- [[guardrails-ai-teaching-assistants-programming-2026]] — ガードレールか障害物か？プログラミング向けAIティーチングアシスタントにおける教授スタイルと文脈認識の効果
+- [[genai-socratic-tutor-biology-argumentation-2026]] — 生成的人工知能によって生物科教員志望者のPISAに準拠した論証スキルを高める
+- [[etq-ai-conversational-teaching-misconceptions-2026]] — 証拠に根拠づけた対話によって指導上の誤概念を診断する対話型AI（Miranda & Calvani 2026）
+- [[socratic-probing-agent-physics-cave-detection-2026]] — 教えないAIエージェントの設計：入門物理学におけるソクラテス式プロービングの設計規則
+- [[jackson-ai-chatbots-learning-assistants-cs-2026]] — ガイド付きチャットボットでは内省的な質問の評価が最も低く、ばらつきも最も大きかった

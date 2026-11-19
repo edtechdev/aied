@@ -22,6 +22,8 @@ ai_assist:
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 
+
+> **技術導入モデル** — 個人や組織がなぜ新しい[[ai-technologies|技術]]を受け入れ、導入し、使い続けるのかを説明・予測する一連の理論群であり、その中で最も広く応用されているのが**技術受容モデル(TAM)**である。[[ai-education|教育におけるAI]]の分野では、学習者・教師・組織がなぜ[[generative-ai|生成AI]]ツールを導入するのかを問うための標準的な視座となっており、生成AIの導入研究は単一のモデルではなくこの理論群の複数のモデルに依拠しているため、まとめて扱うのが最も適切である。
 **技術受容モデル**とは、個人や組織が新しい[[ai-technologies|技術]]を受け入れ、採用し、継続的に使用する理由を説明・予測するための理論的枠組みであり、[[ai-education|教育におけるAI]]の研究では、学習者・教師・組織がなぜ[[generative-ai|生成AI]]ツールを採用するのかを標準的に説明するレンズです。単一のモデルではなく、情報システム研究と社会心理学研究に共通の源流を持つ理論群であり、その中で最も広く応用されているのが**技術受容モデル（TAM）**です。この知識ベースではこれらのモデルをまとめて扱います。生成AIの受容研究では定期的にモデルが組み合わされる（TAM + UTAUT、TAM + TPB、UTAUT + ARCS）こと、またそれらの核となる構成概念——知覚された有用性、知覚された使いやすさ、社会的影響——が教育分野におけるAI受容のほぼすべての研究に反復して現れるためです。
 
 ## 検討すべき問い
@@ -131,38 +133,38 @@ TAMの認知的焦点は、AI使用の感情的・関係的次元も捉えきれ
 - [[framing-ai-use-for-students]]
 
 ## 関連記事
-- [[high-school-genai-acceptance-tam-physics-2026]] — TAMの知覚の上流に置かれた領域固有の信念
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — 生成AIを「フレネミー」として。人工的自律性とリスク回避が教師のためにTAMを拡張する（Dai et al. 2026）
-- [[akbaba-nursing-ai-experiences-tam-2026]] — 看護分野におけるAI体験。TAMの心理社会的拡張
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — クラスタリングによる生成AI受容ペルソナ
-- [[tian-genai-learning-adoption-pathways-2026]] — 生成AI受容における対称的・非対称的経路（UTAUT3 + ARCS）
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — 性別と動機づけによる生成AI関与の差異
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — 高等教育における組織的AI受容のTOE + DOIモデル
-- [[tam-critical-use-genai-engineering-2026]] — 工学部・計算機科学系学生向けの批判的使用を加えた拡張TAM
-- [[socio-cognitive-genai-adoption-engineering-2026]] — 工学教育のための統合的社会認知的モデル（TAM + UTAUT）
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI不安から戦略的規制へ
-- [[genai-reliance-types-scale]] — 生成AI依存類型尺度
-- [[llm-reliance-types-undergrad]] — 学部生におけるLLM依存類型
+
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — AIアバターにおけるTAM + DOI：透明性→信頼（β = 0.542）、相対的優位性と有用性が利用意図を担う。
+- [[high-school-genai-acceptance-tam-physics-2026]] — TAMの知覚の上流に置かれた教科固有の信念
+- [[dai-genai-frenemy-teaching-autonomy-2026]] — 「フレネミー」としてのGenAI：人工的自律性とリスク回避が教師向けTAMを拡張する（Dai et al. 2026）。
+- [[akbaba-nursing-ai-experiences-tam-2026]] — 看護におけるAI経験。TAMの心理社会的拡張
+- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — クラスタリングによるGenAI受容ペルソナ
+- [[tian-genai-learning-adoption-pathways-2026]] — GenAI受容における対称的経路と非対称的経路（UTAUT3 + ARCS）
+- [[lee-wu-gender-motivation-genai-achievement-2026]] — 性別と動機づけによるGenAIエンゲージメントの差異
+- [[alrahmi-org-drivers-ai-adoption-he-2026]] — 高等教育における組織のAI受容のTOE + DOIモデル
+- [[tam-critical-use-genai-engineering-2026]] — 工学/CS学生を対象に批判的利用を組み込んだ拡張TAM
+- [[socio-cognitive-genai-adoption-engineering-2026]] — 工学教育のための統合的社会認知モデル（TAM + UTAUT）
+- [[ai-anxiety-strategic-regulation-writing-2026]] — AI不安から戦略的調整へ
+- [[genai-reliance-types-scale]] — GenAI依存タイプ尺度
+- [[llm-reliance-types-undergrad]] — 学部生におけるLLM依存のタイプ
 - [[acceptance-ai-english-tools-2026]] — AI英語ツールの受容
-- [[genai-chatgpt-adoption-ethics-students-2026]] — 学生のChatGPT受容の行動的・倫理的駆動要因
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUTと教師のチャットボット動機づけ
-- [[pre-service-science-teachers-ai-perceptions-2026]] — ガーナの教員養成課程の理科学生のためのUTAUT + TPB
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — 教員養成課程の学生のChatGPT受容プロファイル（LPA）
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — AI受容要因のメタ分析。TAM/UTAUTを批判する
-- [[determinants-chatgpt-use-higher-education-2026]] — 高等教育における将来のChatGPT使用のML/SHAP決定要因
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAIで拡張したUTAUT2。習慣を最も強い予測変数とし、4つの受容プロファイルを特定（Jácome-Vásconez et al. 2026）
+- [[genai-chatgpt-adoption-ethics-students-2026]] — 学生によるChatGPT受容の行動的・倫理的要因
+- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUTと教師のチャットボット利用動機
+- [[pre-service-science-teachers-ai-perceptions-2026]] — ガーナの理科教員養成課程の学生を対象としたUTAUT + TPB
+- [[chen-preservice-teachers-chatgpt-lpa-2026]] — 教職課程学生のChatGPT受容プロファイル（LPA）
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — AI受容要因のメタ分析。TAM/UTAUTへの批判
+- [[determinants-chatgpt-use-higher-education-2026]] — 高等教育における今後のChatGPT利用のML/SHAPによる決定要因
+- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAIで拡張したUTAUT2：最強の予測因子は習慣、4つの受容プロファイル（Jácome-Vásconez et al. 2026）
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — 年齢層別AIリテラシーガイドブックの教材水準のPE/EE/遊び心/意図モデル。遊び心と意図の構成概念重複が記録されている
-- [[risk-perception-genai-perceived-benefits-2026]] — TAM/UTAUT2に折り込まれたCAT + PMT。生成AIの知覚利益に対する次元固有かつ非単調なリスク効果（Du, Ning, Shi & Chen 2026）
-
-- [[capability-decision-model-teacher-readiness-2026]] — 計画的行為理論の受容モデルにTPACK能力を接ぎ木することへの順序づけられた代替案
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — 49システムにおける知覚されたAIの有用性とリスクの個人中心的TALIS 2024プロファイル
-- [[genai-learning-procrastination-planned-behavior-2026]] — 生成AI支援学習の先延ばしと、意図と遅延の結びつきに対する不安の調整効果を測定するTPB拡張
-
-- [[kim-overtrust-ai-literacy-2026]] — 業績期待が、動機づけと自己効力感から AI の過信への経路を媒介した
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — 自己効力感と受容の間の媒介変数としての AI リテラシー。未補正の不安との関連を伴う（İşbulan et al. 2026）
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — タスク–技術適合と結合した TAM、加えてニューラルネットワークの重要度順位と必要条件のしきい値（Chu & Liu 2026）
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — TAM 信念の上流にある設計特徴、そして必要性ではない重要度
-- [[pinedo-genai-adoption-marketing-students-2026]] — すでに採用済みの集団において習慣が UTAUT2 を担う
-- [[stalboerger-faculty-perceptions-2026]] — 22 人の教員、12 の追跡：親しみが一部の倫理的吟味を強め、使用の容易さという方向を逆転させた（Stalboerger et al. 2026）
-
+- [[age-tiered-ai-literacy-guidebooks-2026]] — 年齢層別AIリテラシーガイドブック向けの教材レベルのPE/EE/遊び心/意図モデル。遊び心と意図の構成概念上の重複が記録されている。
+- [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMTをTAM/UTAUT2に組み込む：知覚されたGenAIの便益に対する次元固有かつ非単調なリスク効果（Du, Ning, Shi & Chen 2026）
+- [[capability-decision-model-teacher-readiness-2026]] — TPACK能力を計画行動理論の受容モデルに後付けするやり方に代わる、順序づけられた代替モデル
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — 49の教育システムにわたる、知覚されたAIの有用性とリスクに関するTALIS 2024の個人中心プロファイル
+- [[genai-learning-procrastination-planned-behavior-2026]] — GenAI支援学習における先延ばしを測定し、意図–遅延の結びつきに対する不安の調整効果を扱うTPBの拡張
+- [[kim-overtrust-ai-literacy-2026]] - 動機づけと自己効力感からAIへの過信に至る経路を性能期待が媒介した。
+- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - 自己効力感と受容の間の媒介変数としてのAIリテラシー。不安との関連は補正されていない（İşbulan et al. 2026）
+- [[chu-design-students-ai-agent-tam-ttf-2026]] — TAMとタスク–技術適合の接合、加えてニューラルネットワークによる重要度ランキングと必要条件の閾値（Chu & Liu 2026）
+- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — TAMの信念の上流に置かれた設計特徴と、必要性を伴わない重要性
+- [[pinedo-genai-adoption-marketing-students-2026]] — すでに受容が進んだ集団ではUTAUT2を習慣が担う。
+- [[stalboerger-faculty-perceptions-2026]] — 教員22名、追跡調査12名：慣れが一部の者の倫理的吟味を厳格化し、使いやすさの作用方向を逆転させた（Stalboerger et al. 2026）。
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — ディスカッションボードに関する学生の知覚：AIを活用したラーニングアナリティクス設計に資する技術受容モデル研究

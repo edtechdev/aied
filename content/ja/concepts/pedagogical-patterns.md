@@ -223,56 +223,56 @@ AI は有能な成果物を生み出せるため、これらのパターンは�
 - [[k-12]] — 生産的失敗、概念的変容、口頭評価の研究の水準
 
 ## 関連する記事
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection（PAIRR）——旗艦の配列、N = 654（Sperber et al. 2025）
-- [[gift-ai-pairr-business-writing-2025]] — ビジネスライティングコースに適用された PAIRR（MacArthur et al. 2025）
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — 統合された AI とピアのフィードバックは、エンゲージメントと四つの IELTS の側面すべてを高めた（Liu 2026）
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — 協働的な論証における、プロンプトによる足場かけを施された GenAI ピアフィードバック（Chang et al. 2026）
-- [[rethinking-ai-writing-feedback-literacy|Dai (2026)]] — AI フィードバックをフィルタリングし評価するよう学生を訓練すること——FRAC と APCA の条件
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — より高品質な AI フィードバックは、より大きな修正の伸びを生まなかった（Farrokhnia et al., 2026）
-- [[guardrails-ai-teaching-assistants-programming-2026]] — ソクラテス的 + 完全な文脈は、他のすべてのアシスタントの構成よりも劣ると評価された（Eastwood et al., 2026）
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 臨床面接訓練における、必要性で引き起こされるソクラテス的な足場かけ、N = 100（Yang et al., 2026）
-- [[hashmi-socratic-physics-chatbot-2025]] — 入門力学におけるソクラテス的チャットボット——問いの具体性が 10〜15% から 100% へ上昇（Hashmi et al., 2025）
-- [[agent-type-feedback-style-self-directed-learning-2026]] — ソクラテス的対指示的なエージェントのフィードバック、順序は釣り合わされていない（Han et al., 2026）
-- [[adaptive-pretesting-retention]] — 適応的な間隔空き想起が、学習者主導の AI 学習に勝った（Akgun & Toker 2026）
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — 学習中の制限のない ChatGPT の利用が、45 日後の保持を低下させた（Barcaui 2025）
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — 構造化された個別指導の伸びは、分数ではなく完了した週数を追いかけた（Yang et al., 2026）
-- [[rachatasumrit-example-problem-ratio-2026]] — 例対練習は、知識の種類によって交差する（Rachatasumrit et al., 2025）
-- [[adaptive-scaffolding-cognitive-engagement-its]] — 知的論理チューターにおける、適応的な導かれた例とバグ入り例（Dey Tithi et al., 2026）
-- [[structured-reflection-ai-explanatory-feedback-2026]] — AI フィードバックに自己説明を加えることは、すべての指標で負けた（Asher et al., 2025）
-- [[generative-ai-guardrails-harm-learning]] — ガード付きの個別指導は、ガードなしの GPT が引き起こした試験の害を取り除いた、約 1,000 人の学生（Bastani et al., 2025）
-- [[guided-llm-scaffolding-independent-learning]] — 統計学における、導かれた対制限のない LLM の利用（Amanlou et al., 2026）
-- [[preferred-scaffolding-ai-mathematical-modeling]] — 即答の足場かけは、好まれながらモデル抽象化を抑圧した（Zhu et al., 2026）
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的失敗のために解答を差し控えるよう LLM チューターを操縦すること（Puech et al., 2025）
-- [[pedagogy-ai-mistakes]] — 意図的な AI の失敗事例に基づく、週ごとの批判と洗練のサイクル（Hosseini 2026）
-- [[kumar-genai-computing-education-systematic-review-2026]] — 独自の力量としての誤り分析、コンピューティング教育研究 72 件にわたって（Kumar et al., 2026）
-- [[lukesova-clue-before-correction-2026]] — L2 の修正における、直接的な誤り訂正の代わりの導かれた手がかり（Lukešová & Jennings 2026）
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — AI の初心者の学習者に説明すること、N = 68（Wang et al., 2026）
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT エージェントにプログラミングを教えることのランダム化検証（Chen et al., 2024）
-- [[explique-teachable-agent-algorithms-546-students-2026]] — 11 週間にわたって 546 人の学生に展開された、教えて学ぶ（Wang et al., 2026）
-- [[socrates-students-instructors-llms-lbt-2025]] — LLM が答えられない問いを設計する学生（Yang et al., 2025）
-- [[code-review-genai-cs1]] — CS1 における生成 AI への対応としての、必須の口頭コードレビュー面接（Fowles et al., 2026）
-- [[asynchronous-oral-assessment-2026]] — 対面の多肢選択対非同期的に録音された口頭評価（Pentland et al., 2026）
-- [[aivaluate-anxiety-assessment-2026]] — チャットベースのヴィーヴァは不安を減らし、対面は理解においてより良いと評価された（Yusuf et al., 2026）
-- [[ai-supported-oral-assessment-tvet-2026]] — 職業教育のワークショップにおける、教師の判断のためのルーブリックの証拠を表面化させる AI（Adams 2026）
-- [[quantum-education-its]] — 自己ペースの大学院コースにおける、成果物とアプローチのチェックポイント（Elhaimeur & Chrisochoides 2026）
-- [[agentic-education-coding]] — ストップブロックのチェックポイントと事前進行確認、N = 27（Naboulsi 2026）
-- [[pbl-biomedical-engineering-genai-2026]] — マイルストーンとルーブリックを伴う 4 モジュールの問題基盤型学習（Nnamdi et al., 2026）
-- [[walkington-teachers-multi-agent-personalized-problem-generation-2026]] — 教師を用いた 4 エージェントの検証ループと、興味との適合が失敗した場所（Walkington et al., 2026）
-- [[zhao-learnlens-feedback-educators-loop]] — 検証者の得点を伴う、教育者によるループ内のフィードバック（Zhao et al., 2025）
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — 気づかれずに成績を変えたプロンプト・インジェクション、唯一の確認として教師を残して（Humble 2026）
-- [[golrang-propact-pair-programming-2026]] — ペアプログラミングにおいて協働の破綻を予測する、共有された AI（Golrang et al., 2026）
 
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654人の学生がチャットボットを何と呼んだか：51.7%が提示されたチューター役または協働者役を採用した（Stillman ら 2026）
-
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — グループの知識構築における、台本化された学習者と AI の役割（Cheng et al., 2026）
-- [[paratutor-parent-child-tutoring]] — 親と子の個別指導における、役割を分離した AI 支援（Luo et al., 2026）
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — 個人化された AI 対話は即座に教科書形式の反論に勝ち、2 か月で収斂した（Corbett & Tangen 2026）
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — 概念的変容のテキストがインタラクティブな AI 対話に勝った、逆の結果（Akdogan 2025）
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI に支援された探究的学習と概念的理解（Aydin 2026）
-- [[ai-enhanced-flipped-classroom-three-year-2026]] — 伝統的、反転、AI 強化された反転の三コホート比較（Liu et al., 2026）
-- [[flipped-learning-genai-design-education-2026]] — パラメータで誘導されたプロンプトの足場かけを伴う、反転したスタジオコース（Qu et al., 2026）
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — 教授モデルが成果を緩和した——反転 g = 1.96 対伝統的 g = 0.46（Jing et al., 2026）
-- [[ai-tutor-statistical-programming-adoption-2026]] — 反転コースにおいて、毎週の宿題チューターの利用が転移課題の得点を予測した（Préau et al., 2026）
-- [[beck-genai-literacy-economics-hands-on]] — AI の誤りの上に築かれた、五段階の AI 批判の議論（Beck & Brodersen 2025）
-- [[ccct-cooperative-learning-technique]] — 割り当てられた役割とギャラリー・ウォークを伴う、検証された協同学習の配列（Tutal 2026）
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — AI の検索推薦機能を伴う、ゼミナールとピア議論のモジュール（Huang 2026）
+- [[pairr-ai-peer-review-2025]] — 仲間とAIによるレビュー＋リフレクション（PAIRR）：中核となる一連の活動、N = 654（Sperber et al. 2025）
+- [[gift-ai-pairr-business-writing-2025]] — ビジネスライティング科目に適用されたPAIRR（MacArthur et al. 2025）
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654人の学生がチャットボットをどう呼んだか：51.7%が提示されたチューターまたは協働者の役割を選んだ（Stillman et al. 2026）
+- [[ai-peer-feedback-l2-writing-engagement-2026]] — AIと仲間のフィードバックを統合した方式がエンゲージメントとIELTSの4次元すべてを高めた（Liu 2026）
+- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — 協働的議論におけるプロンプトで足場かけされたGenAIによる仲間フィードバック（Chang et al. 2026）
+- [[rethinking-ai-writing-feedback-literacy|Dai (2026)]] — AIフィードバックを選別・評価する力を学生に訓練する：FRAC条件とAPCA条件
+- [[farrokhnia-genai-feedback-student-revisions-2026]] — より高品質なAIフィードバックは改訂の伸びを大きくしなかった（Farrokhnia et al. 2026）
+- [[guardrails-ai-teaching-assistants-programming-2026]] — ソクラテス式＋完全な文脈の構成は、他のすべてのアシスタント構成より低く評価された（Eastwood et al. 2026）
+- [[ai-standardized-patient-scaffolding-medical-2026]] — 臨床面接訓練における必要性に応じて起動するソクラテス式足場かけ、N = 100（Yang et al. 2026）
+- [[hashmi-socratic-physics-chatbot-2025]] — 入門力学でのソクラテス式チャットボット：質問の具体性が10–15%から100%へ上昇（Hashmi et al. 2025）
+- [[agent-type-feedback-style-self-directed-learning-2026]] — ソクラテス式と指示的なエージェントフィードバックの比較、順序のカウンターバランスはなし（Han et al. 2026）
+- [[adaptive-pretesting-retention]] — 適応的な分散検索練習が学習者主導のAI学習を上回った（Akgun & Toker 2026）
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — 学習中の無制限のChatGPT利用が45日後の保持を低下させた（Barcaui 2025）
+- [[ai-tutor-modality-randomized-field-experiment-2026]] — 構造化されたチュータリングの効果は利用分数ではなく完了した週数に対応した（Yang et al. 2026）
+- [[rachatasumrit-example-problem-ratio-2026]] — 例題と練習問題の優劣は知識の種類によって逆転する（Rachatasumrit et al. 2025）
+- [[adaptive-scaffolding-cognitive-engagement-its]] — 知的論理チューターにおける適応的なガイド付き例題と誤りを含む例題（Dey Tithi et al. 2026）
+- [[structured-reflection-ai-explanatory-feedback-2026]] — AIフィードバックに自己説明を加えると、すべての指標で劣った（Asher et al. 2025）
+- [[generative-ai-guardrails-harm-learning]] — ガードレール付きチュータリングは、無制限のGPTが生んだ試験成績への悪影響を解消した、約1,000人（Bastani et al. 2025）
+- [[guided-llm-scaffolding-independent-learning]] — 統計学におけるガイド付きLLM利用と無制限利用の比較（Amanlou et al. 2026）
+- [[preferred-scaffolding-ai-mathematical-modeling]] — 即時解答型の足場かけは好まれた一方で、モデルの抽象化を低下させた（Zhu et al. 2026）
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的失敗のために解法を伏せるようLLMチューターを誘導する（Puech et al. 2025）
+- [[pedagogy-ai-mistakes]] — 意図的に用意されたAIの失敗事例に基づく週次の批評・改善サイクル（Hosseini 2026）
+- [[kumar-genai-computing-education-systematic-review-2026]] — 72件のコンピューティング教育研究に見る、独立した能力としてのエラー分析（Kumar et al. 2026）
+- [[lukesova-clue-before-correction-2026]] — L2の改訂において直接的な誤り訂正の代わりにガイド付きの手がかりを与える（Lukešová & Jennings 2026）
+- [[wang-genai-novice-learner-learning-by-teaching-2026]] — AIの初心学習者に説明する、N = 68（Wang et al. 2026）
+- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPTエージェントにプログラミングを教えることのランダム化検証（Chen et al. 2024）
+- [[explique-teachable-agent-algorithms-546-students-2026]] — 教えることによる学びを546人の学生に11週間実施（Wang et al. 2026）
+- [[socrates-students-instructors-llms-lbt-2025]] — LLMが答えられない問題を学生が設計する（Yang et al. 2025）
+- [[code-review-genai-cs1]] — CS1におけるGenAIへの対応としての必須の口頭コードレビュー面接（Fowles et al. 2026）
+- [[asynchronous-oral-assessment-2026]] — 非同期の録画口頭評価と対面式多肢選択の比較（Pentland et al. 2026）
+- [[aivaluate-anxiety-assessment-2026]] — チャット形式の口頭試問は不安を減らしたが、理解の面では対面がより高く評価された（Yusuf et al. 2026）
+- [[ai-supported-oral-assessment-tvet-2026]] — 職業実習において教師の判断のためにルーブリック上の証拠を提示するAI（Adams 2026）
+- [[quantum-education-its]] — 自分のペースで進む大学院科目における出力とアプローチのチェックポイント（Elhaimeur & Chrisochoides 2026）
+- [[agentic-education-coding]] — 停止ブロック型チェックポイントと進行前の確認、N = 27（Naboulsi 2026）
+- [[pbl-biomedical-engineering-genai-2026]] — マイルストーンとルーブリックを備えた4モジュールの問題基盤学習（Nnamdi et al. 2026）
+- [[walkington-teachers-multi-agent-personalized-problem-generation-2026]] — 教師を交えた4エージェントのレビューループと、興味への適合が失敗した箇所（Walkington et al. 2026）
+- [[zhao-learnlens-feedback-educators-loop]] — 検証器のスコアを用いた教育者介在型フィードバック（Zhao et al. 2025）
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — 検出されずに成績を書き換えたプロンプトインジェクション、教師が唯一のチェックとして残る（Humble 2026）
+- [[golrang-propact-pair-programming-2026]] — ペアプログラミングにおいて協働の崩壊を予測する共有AI（Golrang et al. 2026）
+- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — グループでの知識構築における学習者とAIの役割のスクリプト化（Cheng et al. 2026）
+- [[paratutor-parent-child-tutoring]] — 親子のチュータリングにおける役割分離型のAI支援（Luo et al. 2026）
+- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — パーソナライズされたAI対話は直後では教科書による反駁を上回り、2か月後には差がなくなった（Corbett & Tangen 2026）
+- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — 概念変容テキストが対話型AI対話を上回る、逆の結果（Akdogan 2025）
+- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AIが支援するガイド付き探究と概念的理解（Aydin 2026）
+- [[ai-enhanced-flipped-classroom-three-year-2026]] — 従来型、反転型、AI強化反転型の3コホート比較（Liu et al. 2026）
+- [[flipped-learning-genai-design-education-2026]] — パラメータで誘導するプロンプト足場かけを備えた反転スタジオ科目（Qu et al. 2026）
+- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — 指導モデルが成果を左右した：反転型 g = 1.96 に対し従来型 g = 0.46（Jing et al. 2026）
+- [[ai-tutor-statistical-programming-adoption-2026]] — 反転科目では毎週の宿題チューター利用が転移課題の得点を予測した（Préau et al. 2026）
+- [[beck-genai-literacy-economics-hands-on]] — AIの誤りに基づく5段階のAI批評ディスカッション（Beck & Brodersen 2025）
+- [[ccct-cooperative-learning-technique]] — 役割の割り当てとギャラリーウォークを含む、検証済みの協同学習の一連の手順（Tutal 2026）
+- [[ai-assisted-seminar-learning-information-literacy-2026]] — AI検索レコメンダーを備えたセミナーと仲間との議論のモジュール（Huang 2026）
+- [[alam-process-oriented-collaborative-essays-2026]] — プロセス志向の協働エッセイ：反復と協働を採点し、境界内でのGenAI利用を許可（Alam & Jackson 2026）
