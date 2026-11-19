@@ -11,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,7 @@ ai_assist:
 - [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]]은 실제성이 단속으로 존재할 수 없다고, 설계되어야 한다고 주장합니다. AI를 부정행위의 응용이 아니라 선언된 협력자로 자리매김하고, 감시보다 실제적이고 [[process-oriented-assessment|과정 중심의 평가]]를 우선시하는 것입니다.
 - [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]]는 타당성 증거와 학생의 미래 업무를 반영하는 실제적 과제를 중심으로 평가를 재규정합니다.
 - [[authentic-products-authenticated-processes-2026|Authentic products, authenticated processes]]는 AI가 풍부한 [[higher-ed|고등 교육]]이 진정한 산출물과 그것을 만들어 낸 과정을 모두 어떻게 평가할 수 있는지를 살핍니다.
+- **거버넌스는 평가 설계를 통해 학생에게 도달합니다.** 지각된 [[governance|AI 거버넌스]] 품질은 정책 인식을 훨씬 넘어 지각된 실제적 평가를 예측했으며(β = 0.36 대 0.12), 중국 대학의 학생 644명에게서 실제적 평가가 [[student-engagement|참여]]로 가는 경로를 완전히 매개했습니다([[jiang-genai-governance-authentic-assessment-equity-2026|Jiang, 2026]]).
 - **AI 초안 작성 파트너가 있어도 판단은 남습니다.** [[authentic-assessments-generative-ai-pilot-2026|Paula 외(2026)]]는 여덟 명의 조정자와 함께 GPT-4.1 평가 설계 도구를 시범 운영했습니다. 이 도구는 쓸 만한 개요, 과제, 준거, 일정, 루브릭을 산출했지만 반복해서 전공 맥락과 주제 배열을 놓쳤고, 여덟 명 모두 처음부터 끝까지의 자동화를 거부하며 [[evaluative-judgment|학문적 판단]]이 모형이 아니라 사람에게 있음을 확인했습니다.
 - [[tool-invariant-framework-agentic-ai|도구 불변 프레임워크]]는 도구 특유의 산출물이 아니라 계산적 방법과 과정을 구두 변론과 검증을 통해 평가할 것을 주장합니다.
 - **과정 증거를 위한 제도적 기반.** 위탁받은 품질보증 프레임워크는 과정 논증을 정책으로 바꾸어, 시간 도장이 찍힌 수정 내역, 자원 사용, 메타인지적 프롬프트 같은 학습 과정의 흔적을 성적증명서가 보여 줄 수 없는 지속적인 증거로 다루며, 산출물 특징만이 아니라 과정 특징이 수행의 더 많은 분산을 설명한다는 근거를 인용합니다([[lodge-adaptive-capabilities-genai-future-2026|Lodge 외(2026)]]).

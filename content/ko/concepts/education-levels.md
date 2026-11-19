@@ -15,7 +15,7 @@ discipline: [teacher education]
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,9 +38,9 @@ ai_assist:
 
 ## 들어가며
 
-`level` 메타데이터 항목은 어떤 자료가 어떤 교육의 구간에 관한 것인지를 이름짓습니다 — 구간이지 나이가 아닙니다. **preschool**, **primary education**, **middle school**, **secondary**, **K-12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education**, **teacher education**. 그중 일부는 학력의 한 단계를, 둘은 대학 교육의 매우 다른 두 절반을, 둘은 단계가 아니라 [[learners|학습자 집단]]을, 그리고 하나는 가르치는 사람들을 이름짓습니다. 하나의 자료는 여러 구간을 동시에 가질 수 있습니다.
+`level` 메타데이터 항목은 어떤 자료가 어떤 교육의 구간에 관한 것인지를 이름짓습니다 — 구간이지 나이가 아닙니다. **preschool**, **primary education**, **middle school**, **secondary**, **K-12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education**. 그중 일부는 학교 교육의 한 단계를, 둘은 대학 교육의 매우 다른 두 절반을, 둘은 단계가 아니라 [[learners|학습자 집단]]을 이름짓습니다. 하나의 자료는 여러 구간을 동시에 가질 수 있습니다. 교사 교육은 구간이 아닙니다. 그것은 전문 직업 분야이며, 학부와 대학원 과정(예비 교사) 그리고 k 12와 성인 학습(현직 교사)을 관통하기 때문에 [[discipline-specific-aied|학문 분야]] 아래에 태그됩니다.
 
-이 페이지는 그 영역의 우산 역할을 합니다. 구간 페이지들이 심층 작업을 하며 이 페이지와 함께 읽어야 합니다. [[k-12]], [[early-childhood-elementary-ai-education]], [[higher-ed]], [[adult-learning]], [[special-education]], [[teacher-education]], 그리고 [[vocational-education]]이 그것입니다.
+구간 페이지들이 심층 작업을 담당하며, 이 영역에 관한 어떤 읽기에도 함께해야 합니다. 학교 시절 안에서는 [[early-childhood-elementary-ai-education|유아 교육]](취학 전과 첫 학년들), [[primary-education|초등 교육]](대략 5~11세), [[secondary-education|중등 교육]](중학교와 고등학교를 함께)이 있으며, [[k-12]]가 구간을 가로지르는 발견들을 담습니다. 대학 교육 안에서는 [[higher-ed|고등교육]]이 우산이고, [[undergraduate-education|학부 교육]]은 외부 판단 아래의 강의 이수를, [[graduate-education|대학원 교육]]은 지도, 연구 훈련, 전문 프로그램을 다룹니다. 두 사다리 밖에는 [[adult-learning|성인 학습]], [[vocational-education|직업 교육]], [[special-education|특수 교육]], [[teacher-education|교사 교육]]이 있습니다.
 
 ## 어떤 구간을 다른 구간과 구별하는 것
 
@@ -59,6 +59,16 @@ ai_assist:
 
 대학 시절은 다시 갈라집니다. 학부(undergraduate) 과정은 외부의 판단 아래서의 강의 이수입니다. 소수 민족 서비스 대학(minority-serving R1 university)의 학부 작문가들 사이에서 [[ai-literacy]]는 학생이 [[llm]]을 얼마나 사용했는가가 아니라 어떤 *유형*의 의존에 놓였는지를 예측했습니다([[llm-reliance-types-undergrad]]). 대학원 과정은 연구 훈련이며, 그곳에서 결과는 수행에서 형성으로 이동합니다. 천체학 박사 과정 및 박사후 연구자 420명 사이에서 AI 의존은 연구 [[agency|자율성]](r = −.355)과 [[self-efficacy]](r = −.321)과 부적으로 연관되었으며, 혁신적 행동으로 가는 간접 경로는 주로 자율성(−.115)을 통해 자기효능감(−.069)을 통해 가는 것보다 강했으며, 지도교수의 지원은 자율성에 대한 부적 연결을 약화시켰습니다(B = .077, p = .020)([[ai-mediated-research-agency-formation-2026]]). 박사 과정 학생은 AI 의존이 침식하는 것으로 보이는 바로 그 판단에 의해 평가되며, 학부생은 그렇지 않습니다. 둘을 'higher education' 아래 묶는 것은 그것을 감춥니다.
 
+## 발달적 연속체로서의 AI 리터러시
+
+초등 AI 리터러시의 네 가지 구성 요소는 이미 대학원 프레임워크가 고급으로 취급하는 것을 포함합니다. 25개 실증 연구 전반에서 [[yim-ai-literacy-primary-schools-review-2025|Yim and Su (2025)]]는 AI와 상호작용하기 위한 디지털 리터러시를 19편, 컴퓨팅 사고를 10편, AI 윤리를 10편, 비판적 데이터 리터러시를 5편에서 발견했습니다. 지능형 에이전트는 15개 연구에, 언플러그드 활동은 3개 연구에 나타났습니다. 따라서 가장 이른 구간은 AI를 사용하는 것이 아니라 모형을 만들고 점검함으로써 AI를 가르칩니다.
+
+중등에서 이 구성 개념은 시간 압박 속의 판단으로 바뀝니다. 33개 연구 전반에서, 시험된 모든 도구는 고차 생물학 문항에서 20% 미만에 그친 반면 BingChat과 Bard는 기초 문항에서 92.11%에 도달했습니다([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]]). 향상은 학생들이 산출물을 비교하고 거부한 곳에서 나타났고, 도구가 결과물을 만들어 낸 곳에서는 사라졌습니다. 학생들이 배웠다고 말하는 것은 산출물로 무엇을 하는지를 거의 따라가지 않습니다. 응답자 1477명 연구에서 지각된 학습과 참여 지수의 상관은 0.052였습니다([[torres-peralta-perceived-learning-engagement-homework-2026|Torres-Peralta et al. (2026)]]).
+
+학부 수준에서 관건은 윤리가 아니라 리터러시입니다. 학부생 및 대학원생 304명 사이에서 디지털 리터러시는 자기보고 과제 수행을 예측했지만(β = 0.393) 윤리 의식은 그렇지 않았습니다(β = −0.006)([[kumar-chatgpt-academic-assignments-2025|Kumar et al. (2025)]]). 대학원 단계에 이르면 격차는 판단의 격차입니다. 대학원생은 윤리와 학문적 자율성에서 학부생보다 d = 1.47만큼 높은 점수를 받았고, 윤리와 자기 조절이 모형에 들어간 뒤에는 사용 빈도가 역량을 β = 0.030으로 예측했습니다([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]). 대학원 프레임워크는 초등의 네 가지에 없는 차원인 메타인지적 성찰을 더합니다([[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi et al. (2026)]]).
+
+연속체로 읽으면, 이 연속체는 각 구간이 무엇을 가르쳐야 하는지가 아니라 무엇을 평가해야 하는지를 바꿉니다. 초등 과제는 아동이 설명할 수 있는 산출물을, 중등 과제는 학생이 변호할 수 있는 비교를, 대학원 과제는 어떤 주장이 지원자 본인의 것인지에 대한 해명을 요구합니다([[academic-integrity|학문적 정직성]]). 한쪽 끝에서 충분한 도구가 다른 쪽 끝에서는 증거가 되지 않습니다.
+
 ## 증거가 집중된 곳과 빈약한 곳
 
 이 말뭉치는 고르게 채워져 있지 않으며, level 항목이 그 불균형을 보이게 합니다.
@@ -66,6 +76,8 @@ ai_assist:
 **밀집.** 고등교육은 가장 많이 다루어진 구간입니다. 여기서 참고한 페이지에는 공학 학생 60명의 8주 플랫폼 시험([[ai-assisted-seminar-learning-information-literacy-2026]]), 교육 관리자 395명의 설문조사([[ai-adoption-readiness-ukraine-education-managers-2026]]), 아프리카 고등교육 연구 18편의 메타종합([[data-privacy-ai-african-higher-education-2026]]), 그리고 박사 훈련의 420명 연구([[ai-mediated-research-agency-formation-2026]])가 포함됩니다. 초등과 중등 또한 결과 증거를 지닙니다.
 
 **빈약하며 곳에 따라서는 부재.** 여기서 참고한 페이지들은 유아(preschool) 구간에서 아동 결과 연구를 전혀 보고하지 않으며, 가장 가까운 증거는 아동 대상 도구를 배제한 교사 의도에 대한 설문조사입니다([[preschool-teachers-ai-behavioral-intention-2026]]). 중학교(middle school)는 주로 *제안된* 설계와 종단 연구로, 보고된 결과가 아니라 제안으로 나타납니다([[ai-lms-middle-school-longitudinal]]). 직업 교육 구간의 가장 강한 증거는 한 강의에서 나온 [[self-report-measures|자기보고]] 응답 63건이며, 저자들은 이를 복제가 필요하다고 말합니다([[ai-ive-pbl-vocational-design-creativity-2026]]). 대학원 증거는 횡단적이며, 역경로 모형이 발달 모형보다 약간 더 잘 맞아, 의존에서 자율성 감소로 가는 방향은 추론되었을 뿐 확인되지 않았습니다([[ai-mediated-research-agency-formation-2026]]). 여기서 참고한 것 중 **adult learning**이나 **special education**을 구간으로 한 AI 결과 증거를 보고하는 것은 없습니다. 그것들은 [[adult-learning]]과 [[special-education]]에 자신들의 고유한 다룸이 있으며, 이 페이지는 공백을 메우기 위해 학령기 발견에서 일반화하지 않습니다.
+
+중학교 결과 증거가 이제 존재합니다. 인도네시아 중학생 178명 사이에서, 문화적으로 내재된 진단 과제는 기호적 수행(β = 0.42)과 참여(β = 0.37)를 예측했고, AI 진단 프로파일은 전문가 판단과 일치했습니다(ICC = 0.81)([[culturally-embedded-ai-diagnostic-assessment-2026|Anggara et al. (2026)]]).
 
 설문조사된 모든 수준에서 하나의 패턴이 성립합니다. 인간의 층이 가장 어려운 경우를 흡수합니다. 알고리즘적 권고가 F1 = 0.64에 이르렀을 때도 인간 전문가는 공학 학생들의 신빙성 결정 지점에 남아 있었습니다([[ai-assisted-seminar-learning-information-literacy-2026]]). 지도교수의 지원은 박사 훈련에서 AI 의존의 부적 연결을 약화시킨 유일한 조건이었습니다([[ai-mediated-research-agency-formation-2026]]). 그리고 유아 구간의 도입자는 아동이 아니라 유아 교사입니다([[preschool-teachers-ai-behavioral-intention-2026]]).
 
@@ -99,6 +111,10 @@ ai_assist:
 
 ## 연결된 개념
 
+- [[primary-education]] — 그 자체로서의 초등 구간
+- [[secondary-education]] — 중학교와 고등학교를 함께
+- [[undergraduate-education]] — 외부 판단 아래의 강의 이수
+- [[graduate-education]] — 지도, 연구 훈련, 전문 프로그램
 - [[k-12]]
 - [[early-childhood-elementary-ai-education]]
 - [[higher-ed]]
@@ -125,3 +141,9 @@ ai_assist:
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — 직업 디자인 학생들을 위한 AI 지원 몰입형 PBL(Jin et al. 2027)
 - [[preschool-teachers-ai-behavioral-intention-2026]] — 유아 교육 환경에서 AI 사용 의도에 관한 유아 교사들의 의향
 - [[vahedian-children-attitudes-ai-chatbot-2026]] — 연령에 맞춘 AI 챗봇에 대한 아동들의 태도
+- [[yim-ai-literacy-primary-schools-review-2025]] — 초등 연구 25편; 윤리와 비판적 데이터 리터러시를 포함한 네 가지 구성 요소 (Yim & Su 2025)
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 중등 연구 33편; 고차 문항에서 정확도 붕괴 (Pérez-Montesdeoca et al. 2026)
+- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 고등학교, 대학, 교사 전반의 응답자 1477명; 지각된 학습 대 참여
+- [[kumar-chatgpt-academic-assignments-2025]] — 학부생 및 대학원생 304명; 디지털 리터러시는 수행을 예측했고 윤리는 그렇지 않았음
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 학부 대 대학원 비교; 윤리와 자율성 격차가 가장 큼 (Zaripova et al. 2026)
+- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — 대학원 생성 AI 리터러시의 5차원 모형

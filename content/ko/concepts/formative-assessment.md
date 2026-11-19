@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ AI 시스템은 여러 양식의 형성평가 문항을 생성하며, 유형에 
 - **자동 에세이 채점:** 다중 에이전트 프레임워크(예: MASS)는 [[automated-essay-scoring|에세이 채점]]에서 독립형 [[llm|LLM]]보다 일관성을 개선하지만, 다중 에이전트 채점 결정의 [[explainable-ai|해석 가능성]]은 여전히 해결되지 않은 과제입니다.
 - **형성 채점 파이프라인:** [[cotal-formative-assessment-scoring-2026|CoTAL]]은 사고의 연쇄(Chain-of-Thought) 프롬프팅을 [[active-learning|능동 학습]] 및 Evidence-Centered Design와 결합하여, 인간 참여형 [[prompt-engineering|프롬프트 엔지니어링]]으로 일반화 가능한 형성평가 채점을 만들어 냅니다.
 - **고빈도 [[automated-assessment|자동 채점 평가]]:** [[automated-formative-assessments-a-level-sciences|A레벨 과학의 자동 형성평가]]는 고빈도 자동 채점 형성평가가 [[learning-gains|학습 성과]]에 미치는 영향을 검토합니다. [[science-education|과학]] 분야 단답형 자동 채점에 대한 범위 검토(2017–2024년 초)는 이 형성 단답형 활용 사례가 실제로 탄력을 받는 분야임을 확인합니다. BERT 계열 모델이 2021년까지 자동 채점을 지배했으며, ~2022년부터 더 큰 [[llm|LLM]]에 프롬프팅하는 방식이 등장했고, 도메인 보강·루브릭 인식·사고의 연쇄 모델이 가장 나은 성과를 냈습니다. 그러나 이 검토가 요구하는 포괄적 평가의 부재와 해결되지 않은 [[bias-mitigation|공정성]]·설명 가능성 격차는 이러한 시스템을 중재 없는 [[summative-assessment|총괄]]·고부담 용도로 확대하는 것을 경계하게 합니다([[auto-marking-short-answer-science-2026]]).
+
+- **게임화된 퀴즈는 가르치지 않아도 즐거울 수 있다.** 음악학 전공 학부생 34명은 전통적 튜토리얼 교수와 비교할 때 적응형 AI 퀴즈에 가장 낮은 평점을 주었고(5점 만점에 M = 2.74), 그것을 추천할 것인지를 두고 21대 13으로 갈렸으며, 추천은 주제 이해(3.81 대 3.62, p = 0.420)보다 앱이 사용하기에 어떤 느낌인지(향후 사용 3.52 대 1.54)를 따라갔습니다([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]).
 
 ## AI 생성 피드백
 
@@ -193,3 +195,4 @@ AI 교육에서의 형성평가는 학습 과정 자체와 연결됩니다.
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — AI 매개 지속적 평가 인프라(AIM-CAI): 맥락과 시간을 넘어 학습 증거를 연결하기 (McNamara & Hasnine 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — 증거에 기반한 대화로 교수 오해를 다루는 대화형 AI 진단 도구(Miranda & Calvani 2026)
 - [[assessment-feedback-trilemma-model-2026]] — 감시 위험의 긍정적 대응: 모니터링이 아닌 증거 설계로서의 관찰 가능성
+- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — 적응형 퀴즈에 대한 학생의 추천은 주제 이해가 아니라 사용 느낌을 따라갔다

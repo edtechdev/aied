@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ ai_assist:
 ## AI에 저항하는 총괄평가 형식
 
 이 문서고의 핵심 주제는 **총괄평가 형식이 AI 저항성을 결정한다**는 것입니다 — 과제가 살아 있고, 대면이며, 개별적으로 추궁되는 수행을 요구할수록, 학생들이 자신의 학습을 AI로 대체하기가 더 어려워집니다.
+
+AI에 저항하는 형식은 성적을 재고하기보다 방어합니다. 감독 하의 시험과 구술 시험은 기존의 가치와 관행을 안정화하므로, 개혁은 성적이 무엇을 나타내는지가 아니라 성적 증명서에서 멈춥니다([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 - **[[oral-assessment|구술 시험]]과 평가.** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton(2025)]]는 구술 시험이 저기술적이고 본질적으로 AI에 저항하는 총괄 형식이라고 주장합니다. 실시간의 상호작용적 대화는 암기가 아니라 이해, [[critical-thinking|비판적 사고]], 추론을 시험하고, 학생이 AI로 답을 생성하여 외우는 것을 막으며, 전문가의 실제 수행을 반영합니다. [[socratic-tests-conversational-assessment|소크라테스식 시험]]과 [[code-review-genai-cs1|코드 리뷰 면접]]은 이를 동적이고 대화적이며 면접 기반의 총괄평가로 확장합니다.
 - **폐쇄북, 감독 하의, 무보조 측정.** [[generative-ai-reduced-study-time-math|증거]]와 [[stromberg-generative-ai-learning-penalty-secondary-2026|대규모 현장 데이터]]는 학생들이 AI를 사용할 때 부풀려진 과제나 재택 과제가 아니라 감독 하의 폐쇄북 시험이 실제 학습의 신뢰할 만한 신호임을 보여줍니다. [[responsible-assessment-ai-era-stanford-2026|책임 있는 평가]] 틀은 이러한 무보조 측정을 타당도 기반 재설계 안에 내장합니다. 시험이 온라인으로 남는 곳에서는 [[remote-proctoring|원격 감독]]이 그 역할을 떠맡으며, 이 문서고의 자동 감독에 관한 두 편의 고찰은 탐지 성과와 더불어 프라이버시와 [[bias-mitigation|공정성]] 우려를 발견합니다([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).

@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 증거는 작업량이 시사하는 것보다 빈약합니다: 교육에서의 AI와 로보틱스에 대한 한 검토는 대부분의 실증 연구가 네 주 이하로 13세 미만 학습자를 다루며, 초기 투자 국가 몇 개에 집중되어 있고, 가장 많이 연구된 결과는 [[learning-gains|학습 성과]]이며 윤리, 형평성, 정책이 도입에 뒤처진다는 것을 발견했습니다([[white-wu-robotics-ai-education-2026|White and Wu (2026)]]).
 
-### 사회적 로봇과 인간-로봇 상호작용
+## 사회적 로봇과 인간-로봇 상호작용
 
 두 흐름이 교육에서 로보틱스의 사회적 측면을 형성합니다.
 
@@ -46,7 +46,7 @@ ai_assist:
 
 **인간-로봇 상호작용(HRI)**은 사람과 로봇이 어떻게 상호작용하는지를 연구하는 학제 간 분야로, 인식, 의사소통, 협업, 그리고 그 상호작용의 사회적·인지적·[[ethics|윤리적]] 역학을 포괄합니다. 교육에서 HRI는 학습자가 로봇을 인식하고, 신뢰하고, 함께 학습하는 방식의 기반입니다 — 로봇을 프로그래밍하든, 튜터링 로봇과 대화하든, 사회적 시나리오를 연습하든. HRI [[research-methods-aied|연구]]는 로봇의 외형, 행동, 과제 맥락, 구현이 [[usability-research|사용자 경험]], 신뢰, 학습을 어떻게 형성하는지 검토합니다. 교육 HRI의 핵심 우려는 인간의 [[agency]] 보존하고, [[trust]]를 구축하고, [[self-efficacy]]을 뒷받침하며, 로봇과의 상호작용이 자율성과 사회적 학습을 저해하지 않고 뒷받침하도록 하는 것입니다. 이것은 로보틱스를 [[human-ai-collaboration]]과 [[social-emotional-learning]]에 연결합니다.
 
-### 로봇이 교육에서 사용되는 방식
+## 로봇이 교육에서 사용되는 방식
 
 [[teaching-with-robots-five-types-perspective-2026|Christ et al. (2026)]]는 기술 목록 대신 역할 유형론을 더합니다: 그들의 워크숍에서 도출한 다섯 가지 교실 로봇 유형은 하드웨어가 아닌 *교육적 기능과 추상화 수준*으로 구별됩니다. 유형 a는 일반적 사회적 패턴의 비상호작용 시연(고조나 오해 같은 역학에 대한 토론이 뒤따르는 각본화된 감정 연극)을 실행하고, 유형 b는 참여적 물리 연극, [[embodied-learning|구현된 학습]], 경계 인식, 감정 조절을 뒷받침하는 촉각 반응형 상호작용 로봇이며, 유형 c는 공감을 보이고 한 명의 학생과의 상호작용을 기억하여 자기 고백을 위한 보호된 일대일 환경을 만드는 구두 언어 파트너이고, 유형 d는 자유도가 더 많은 인형처럼 숨은 전문가가 외부에서 조종하여 사회적 위계를 평평하게 만드는 것을 목표로 하며, 유형 e는 학교에서 최근 관찰된 행동을 재생하는 비상호작용 로봇으로 학생들이 상황 속 행동을 성찰할 수 있게 합니다 — 유형 a와의 대비가 바로 맥락 특정적이라는 점이 일반화된 추상이 아니라는 것입니다. 이 유형론은 하나의 국가 정신건강 프로그램에 기반한 검증되지 않은 설계 공간임을 명확히 하여, 로봇 역할을 설계하고 평가하기 위한 메뉴이지 그것들 중 어느 것이 작동한다는 증거는 아닙니다.
 
@@ -74,11 +74,13 @@ ai_assist:
 - **유치원 CT 로보틱스가 실제로 하는 것.** 53개 연구에 대한 [[meta-analysis-systematic-review|체계적 검토]]는 [[problem-based-learning|문제 기반 학습]], 이야기하기, 스캐폴딩이 가장 빈번히 사용된 전략임을 발견했으며, 대부분의 연구가 CT 프레임워크를 명명하지 않고 TechCheck-K 같은 검증된 도구 대신 임시 평가 도구를 사용했습니다([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou & Sapounidis (2026)]]).
 - **대화가 아니라 LLM 계획.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková(2026)]]는 시각-언어 모형을 사용해 [[neurodiversity|자폐]] 스펙트럼 학습자와 함께 쓰는 시각적으로 구조화된 활동인 Shoebox Tasks의 사진을 PDDL 문제로 변환하고, Nao 휴머노이드가 그것을 실행하거나 시연합니다. 계획의 정확성은 학습자 결과가 아니라 여섯 과제에 걸쳐 채점됩니다.
 
-### 구현과 교육학
+## 구현과 교육학
 
 핵심 주제는 로봇이 진정한 학습 목표를 뒷받침할 때 효과적이라는 것입니다 — 고립된 기술 연습이 아니라. 도움이 있을 때 노트북 ChatGPT와 연결된 책상 거치형 로봇 프로젝터는 점수가 같았으나(6.7 대 7.3/10, p = .41), 철회 후에도 점수를 유지했습니다(7.0 대 4.4/10, p = .003), 단기 전이 점수가 60% 더 높았습니다 — 이는 저자들이 일반적 대체가 아닌 공간적 동일 배치(spatial co-location)에 귀속시키는 과제 의존적 이득입니다([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). 로봇의 가치는 교육학적 맥락에 달려 있습니다: 계산적 사고 가르치기([[computational-thinking]]), [[stem-education|STEAM]] 뒷받침, [[cs-education|프로그래밍]] 기술 쌓기, 학습자 동기 부여([[motivation]], [[student-engagement|참여]]), 또는 [[social-emotional-learning]]과 [[equity-in-ai-education|포함]] 지원. 로보틱스는 또한 [[project-based-learning]], [[game-based-learning]], [[experiential-learning]]과 연결됩니다. 핵심 설계 고려사항은 학습자의 [[agency]] 보존, [[trust]] 구축, [[self-efficacy]] 지원, [[embodied-learning|구현된 상호작용]]에 학습을 근거짓는 것입니다. [[language-learning]]에서 [[robot-assisted-language-learning-meta-analysis-2026|메타분석적 증거]]는 구현된 로봇 보조 언어 학습의 효과를 가리킵니다.
 
 - **AI 기반 로보틱스 학습으로의 경로.** 로보틱스+AI 교육과정을 수강하는 고등학생에 대한 [[educational-robotics-pathways-2026|한 질적 연구]]는 현실 세계 실천, 설계, 장난기 넘치는 창의적 표현을 통한 학습을 발견했습니다(구성주의적, 인식론적 다원주의적 렌즈).
+
+- Lan과 Chen(2026)은 몸체 변경이 언제 표면적 적응에 그치는지를 가리는 시험을 제안합니다. 교체는 불변 핵심, 즉 목표, 단계 순서, 분기 규칙, 기준, 페르소나, 어조 금지사항이 그것을 견뎌낼 때에만 허용되며, 새 몸체가 목표를 전진시키지 않으면서 요구만 더하는 배치는 거부됩니다([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
 
 ## 흔한 오해
 

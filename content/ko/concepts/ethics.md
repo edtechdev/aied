@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-19T10:16:37-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -99,6 +99,8 @@ ai_assist:
 
 윤리적 인식, 성찰적 추론, [[self-report-measures|자기 보고된]] 책임 있는 실천은 대체로 독립적으로 발달합니다. 나이지리아 컴퓨팅 [[higher-ed|학부생]] 350명을 대상으로 한 세 차례 연차 조사에서 [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale 외(2026)]]는 세 가지가 모두 상당히 상승했으나 그 성장 요인들은 거의 상관이 없었고 초기 인식이 이후의 성장을 예측하지 못했다는 것을 발견했습니다.
 
+윤리적 절차에 대한 자신감은 자기 지식이 제자리에 있는 동안에도 오를 수 있습니다. [[pal-ethically-aware-learning-ai-classroom-2026|Pal, Jones, Hoover(2026)]]는 학부 리더십 윤리 선택과목에 GenAI를 도입하여, 같은 [[case-based-learning|사례]]를 한 번은 보조 없이, 한 번은 ChatGPT와 함께 수행하도록 배열하고, 약 80명의 학생에서 나온 38건의 짝지은 자신감 설문을 분석했습니다. 0–10 척도에서, 윤리적 딜레마를 인식하는 자기평가 능력은 7.24에서 8.39로, 건전하고 정당화 가능한 결정을 내리는 능력은 7.24에서 8.45로 움직였으며(둘 다 p < .001), 윤리 이론을 사용해 결정을 설명하는 것은 5.39에서 7.08로 올랐습니다. 두 자기성찰 문항 — 자신의 덕목, 가치, 권리를 확인하는 것(p = .063)과 개인적 가치가 결정에 어떻게 영향을 미치는지 설명하는 것(p = .124) — 은 움직이지 않았으며, 이는 이득이 도덕적 자기 지식이 아니라 절차적 기술에 있음을 보여 줍니다.
+
 ## 연결
 
 윤리는 [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], [[governance]]에 연결됩니다. 이것은 다른 모든 AI 교육 개념의 규범적 기초이며, 공정성, 투명성, 자율성, 안전에 관한 질문이 제기되고 해결되는 틀입니다.
@@ -108,6 +110,12 @@ ai_assist:
 - **"부정행위 틀은 생성형 AI 윤리를 생각하기에 충분한 방식입니다."** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]]는 기관이 생성형 AI 문제를 **부정행위 틀이 아니라 파트너십 윤리**를 통해 결정해야 한다고 주장합니다. 틀이 어떤 질문이 제기되는지를 결정하며, 위법 행위 틀은 교육적 목적에 관해 물을 수 없습니다.
 - **"교수자와 학생은 무엇이 윤리적인지에 합의합니다."** **학생 971명과 교수자 135명**을 대상으로 한 [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç와 Sever(2026)]]의 [[mixed-methods-research|혼합 방법]] 연구는 윤리적 차원이 두 집단 사이에서 갈린다는 것을 발견합니다. 한 관점에서 쓰인 정책은 다른 관점을 잘못 규정할 것입니다.
 - **"윤리적 합의가 사용에 앞섭니다."** **채택은 윤리적 합의보다 앞섭니다.** 미국 교사 교육 프로그램의 네 학기에 걸쳐 학생의 생성형 AI 사용은 **평가 준비에서 57%에서 83%로** 올랐습니다. 규범은 그 반대가 아니라 실천에 의해 형성되고 있습니다.
+
+## 윤리 교육은 과연 효과가 있는가
+
+AI 윤리 교육은 종종 아무도 검증하지 않는 가정, 즉 [[ethics|윤리 교육]]이 무언가를 바꾼다는 가정에 의해 정당화됩니다. 66개 연구와 학생 9,978명을 대상으로 한 2024년 체계적 문헌고찰 및 메타 분석은 교육 전반에서 그 가정에 대한 가장 나은 검증입니다. 윤리 개입은 통제 조건에 비해 윤리적·도덕적 결과를 g = 0.55만큼 높였고, 실제 효과의 73%가 사전 등록된 유익함 기준선을 넘었습니다 — 그러나 **조절 역할을 한 것은 전달 형식이었습니다**. 토론 기반 형식과 토론+강의 형식은 효과가 있었으나(g = 0.56, g = 0.68), 강의만 하는 수업은 0과 다르지 않았습니다(g = 0.10). 온라인 전달은 대면 전달과 구별되지 않았습니다([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod 외, 2024]]).
+
+AI 윤리로의 전이는 그 연구의 발견이 아니라 추론이지만, 강한 추론입니다. 편향과 정직성에 관한 강의 형태로 전달되는 AI 윤리 모듈은 이 증거에 비추어 볼 때 이용 가능한 가장 약한 형식입니다.
 
 ## 연결된 개념
 - [[business-education]]
@@ -159,3 +167,5 @@ ai_assist:
 - [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — 윤리적 인식, 성찰, 보고된 책임 있는 실천이 세 차례 연차 조사에서 대체로 독립적으로 성장했다(Ayanwale 외 2026)
 
 - [[qi-information-ethics-ai-judgment-2026]] — 대학생의 정보 윤리 교육과 인공지능 윤리적 판단
+- [[pal-ethically-aware-learning-ai-classroom-2026]] — AI 활용 교실에서의 윤리 인식 학습
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — 윤리 교육은 효과가 있으나(g = 0.55), 토론 기반 전달은 효과가 있고 강의 전용 전달은 효과가 없음

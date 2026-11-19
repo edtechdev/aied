@@ -8,7 +8,7 @@ research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -37,12 +37,17 @@ ai_assist:
 
 ## 주요 양적 접근
 
+### 종단 및 패널 설계
+
+동일한 학습자를 반복 측정하면 상관이 궤적으로 바뀝니다. 패널 모형은 안정적 특성을 시점 특정적 변화로부터 분리하고, 성장 모형은 물결에 걸친 변화의 형태와 속도를 추정합니다. 설계 계열, AI 연구에서 실제로 문제가 되는 위협(이탈, 도구 표류, 지원받은 수행), 그리고 더 강한 사례들은 [[longitudinal-research|종단 연구]]에서 다룹니다.
+
 ### 설문조사와 상관 연구
 횡단면 설문조사는 자기보고된 태도, 인식, 동기, [[self-efficacy]], 기술 수용을 측정하며, 종종 회귀나 구조방정식 모형(SEM/PLS-SEM)으로 모형화하여 가설된 관계와 매개 변수를 검정합니다. 이런 연구는 특히 수용, 동기, 심리적 메커니즘 질문에서 지식 기반의 자료 집합을 지배합니다. [[acceptance-ai-english-tools-2026|AI 지원 영어 도구의 수용]]은 [[technology-acceptance-model|TAM]] 위에 SEM을 더해 구축되었고, [[tian-genai-learning-adoption-pathways-2026|생성형 AI 도입 경로]]는 PLS-SEM, fsQCA, 중요도-성과 매핑을 사용하며, [[teacher-education-ai-literacy-sdt-2026|교사 AI 리터러시]]는 [[self-determination-theory]]에 기반한 요인 타당화된 설문을 사용합니다.
 
 - **강점:** 큰 표본; 폭넓고 저비용의 포괄성; 복잡한 매개 모형의 검정; 관찰하기 어려운 태도에도 실천 가능함.
 - **한계:** 횡단면 자료는 인과를 확립할 수 없음; 자기보고 편향; 편의 표집이 일반화 가능성을 제한함; 매개 변수는 조작이 아닌 공분산으로부터 추론됨. 이런 한계의 검사 도구 측 다룸은 [[self-report-measures]]를 참조하십시오.
 - **포화된 매개 모형은 자신의 순서를 검증할 수 없습니다.** 1,020명 간호대학생에 대한 단일 시점 설문은 총효과 1.36을 직접효과 0.92와 [[self-regulated-learning|자기조절 학습]]을 통한 간접효과 0.44로 나누었고, 간접효과는 총효과의 32.35%였습니다. 이 모형은 자유 모수가 관측 공분산 수와 같아 자료를 구성상 재현합니다([[li-nursing-genai-interaction-self-regulated-learning-2026|Li 외(2026)]]).
+- **‘부분적’이라는 라벨은 거의 0에 닿는 구간 위에 놓일 수 있습니다.** 중국 대학생 438명에서 AI 사용에서 수행으로의 직접 경로는 β = 0.18, 95% CI (0.02, 0.34)였습니다([[yuan-ai-assisted-learning-engagement-performance-2026|Yuan 외(2026)]]).
 
 **총 간접효과가 거의 0이어도 두 개의 살아 있는 경로를 가릴 수 있습니다.** 디자인 전공 학생 568명의 자기보고 한 시점에서 간접 연관은 향상 초점을 통해 0.0929, 예방 초점을 통해 -0.0884였고, 합은 0.0045인 반면 직접 경로가 총효과의 98.7%를 지녔습니다([[wang-ai-disruption-design-innovation-competence-2026|Wang 외(2026)]]).
 
@@ -82,6 +87,7 @@ ai_assist:
 
 - **강점:** 정밀성과 통계적 검정력; 정의된 모집단으로의 일반화 가능성; 인과 추론(실험 설계의 경우); 효율적인 대규모 표본 포괄; 연구 간 누적적이고 비교 가능함.
 - **한계:** 측정 가능한 것만을 포착하여 과정, 의미, 맥락을 흔히 놓침([[qualitative-research]] 참조); 자기보고 편향; 검사 도구가 잘못된 구인을 측정할 수 있음([[educational-measurement|측정의 문제들]] 참조); 인과 없는 상관; AI 변화에 비해 인위적이고 느릴 수 있음.
+- **통합은 검토 규모에서 실패할 수 있습니다.** 고등교육 생성형 AI에 관한 103편 연구의 PRISMA 검토는 설계, 비교 대상, 측정치가 너무 이질적이라 메타분석을 수행하지 못했고, 대신 결과 유형론 일치도를 κ = 0.781로 보고했습니다([[generative-ai-higher-education-systematic-review-2026|Hawi & Samaha (2026)]]).
 
 양적 방법과 [[qualitative-research|질적]] 방법은 상호 보완적입니다. 양적 연구는 폭과 인과력을, 질적 연구는 깊이와 의미를 제공합니다. [[mixed-methods-research|혼합 방법 설계]]는 둘을 결합합니다. 전체 방법 비교와 실험, 설문, 질적 및 기타 설계 간의 대비는 [[research-methods-aied]]를 참조하십시오.
 
@@ -93,6 +99,7 @@ ai_assist:
 
 ## 연결된 개념
 
+- [[longitudinal-research]]
 - [[research-methods-aied]]
 - [[qualitative-research]]
 - [[mixed-methods-research]]

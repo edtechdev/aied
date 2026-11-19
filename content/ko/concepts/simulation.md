@@ -8,7 +8,7 @@ pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 ### AI와 모의
 
 - **AI 추동 환경:** 적응형 모의는 학습자의 상태에 난이도와 시나리오를 조정하며, [[adaptive-learning]]과 [[reinforcement-learning]] 기반 코칭과 연결됩니다.
-- **[[virtual-and-augmented-reality|가상 환경]]과 AI 계층의 이득은 분리될 수 있습니다.** 3주간의 9학년 옴의 법칙 단원에서 조정된 성취도는 AI 지원 가상 실험실이 30점 만점에 23.45, AI 없는 같은 실험실이 20.51, 물리 실험실이 16.57이었습니다([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li and Ahmad (2026)]]). 학급 단위로 각기 다른 교사가 배정되었으므로, 이는 세 가지 교실 배치를 서술하는 것이지 에이전트 단독의 효과가 아닙니다.
+- **[[virtual-and-augmented-reality|가상 환경]]과 AI 계층의 이득은 분리될 수 있습니다.** 3주간의 9학년 옴의 법칙 단원에서 조정된 성취도는 AI 지원 가상 실험실이 30점 만점에 23.45, AI 없는 같은 실험실이 20.51, 물리 실험실이 16.57이었습니다([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li and Ahmad (2026)]]). 학급 단위로 각기 다른 교사가 배정되었으므로, 이는 세 가지 교실 배치를 서술하는 것이지 에이전트 단독의 효과가 아닙니다. 바이러스학 실험실 모듈은 반대 방향의 귀속 문제를 보여 줍니다. 그 학급은 가상 연습을 훨씬 더 자주 통과했지만, 모의가 강좌 그래프, 기반을 둔 조수, 적응적 라우팅과 함께 도착했으므로 그 자체의 기여는 분리될 수 없습니다([[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]]).
 - **프롬프트 생성 모의가 손안에 맞춤형 실험실을 넣습니다.** 교수자는 재사용 가능한 프롬프트 틀에서 강좌가 필요로 하는 주제의 브라우저 실행 모델(슬라이더, 애니메이션, 시간 의존적 그래프)을 생성할 수 있으며, 가장 가까운 출판된 모의를 받아들이는 대신 각각을 두 번 검증합니다 — 기술적으로, 그런 다음 알려진 해석해적 해법에 대해([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025)]]).
 - **인간 상대방의 자동화.** [[astra-atco-training-simulator|Chew et al. (2026)]]는 항공 교통 관제 모의에 배치되는 전문가 인간 역할극 배우들을 자율적인 [[llm|LLM]] sim-pilot으로 대체하여, 훈련 역량의 병목을 제거합니다. 그들의 미세조정된 음성 파이프라인은 싱가포르 억양의 항공 음성에 대한 단어 오류율을 107.80%에서 23.45%로 낮췄으나, 모든 평가는 구성 요소 수준이었고 훈련생 집단 실행은 없었습니다.
 - **훈련 동반자로서의 적대적 모의 장치.** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]]는 57K 사례 시나리오 파이프라인에 걸쳐 적대적으로 행동하도록 만들어진 LLM 환자 모의 장치와 정책 에이전트를 짝짓습니다. 그것들을 상대로 훈련하는 것이 놓친 위험 신호 비율을 약 3분의 1 줄였고, 맹검한 임상의들은 나란히 비교의 87.6%에서 훈련된 에이전트를 선호했습니다.
@@ -47,8 +47,12 @@ ai_assist:
 - **반사실적 역사를 일류 기능으로 만드십시오.** SupplyNet의 맥락적 다중 에이전트 [[llm|LLM]] 에이전트들은 스크립트된 것이 아니라 학습자의 결정들에서 창발하는 공급망 역학을 생성하며, 그것의 분기하는 타임라인은 학습자들이 불이익 없이 이전의 선택들을 다시 방문하게 합니다 — 결정과 성과의 연결에 대해 14명의 참가자 가운데 13명이 기준선 대비 3명에 비해 높게 평가했습니다([[supplynet-visual-exploratory-learning|Li et al. (2026)]]).
 - **기반을 둔 역학이지, 프롬프트된 인격이 아닙니다.** [[adaptive-virtual-patient-psychotherapy-training|Chen et al. (2026)]]는 거의 2,000시간의 실제 심리치료 전사록으로부터 가상 환자의 자기 개방 역학을 매개변수화한 뒤, 매 차회 그 수준을 갱신했습니다. 20명의 임상의와 함께한 1,033 차회에 걸쳐 그것의 자기 개방은 치료사의 공감과 탐구와 함께 상승한 반면, 같은 LLM 위의 프롬프트 전용 기준선은 평평하게 머물렀습니다.
 - **역할극이 학습자를 그 배역에 넣습니다.** 모의 에이전트가 상대방을 제공하는 곳에서, 역할극은 그 배역을 대신 학습자에게 줍니다. [[remind-robot-mediated-roleplay-antibullying-2026|Sanoubari and colleagues (2026)]]는 9–10세 아동 18명이 사회적 로봇에 의해 연기된 괴롭힘 장면을 보고, 각 인물의 입장에 대해 추론한 뒤, 로봇 아바타를 인형 놀이하듯 조종하여 방어하는 예행연습을 하게 했으며, 방어에 대한 지각된 [[self-efficacy]]의 향상과 괴롭힘에 맞서는 것이 실제로 그것을 멈추는지에 관한 더 잘 보정된 신념을 보고했습니다. 그들의 틀 짓기인 로봇 매개 응용 드라마는 Forum Theatre 역할에 인간 촉진자를 유지하고 자동화를 서사 통제에 한정하며, 이것은 역할극의 요구되는 부분이 기계가 아니라 성찰이라는 유용한 상기입니다. [[lock-integrating-ai-online-learning-higher-ed-2025|Lock, Arteaga and Johnson (2025)]]는 역할극을 AI 지원 [[online-teaching-and-learning|온라인 학습]]이 의존하는 전략들 사이에 모의와 나란히 놓습니다.
+
+비용과 전달 형식은 충실도와 분리되는 질문입니다. 두 코호트 파일럿은 의대 1학년 학생 19명을 대상으로 LLM 환자 사례 하나를 학생 1인당 세션당 약 US\$2에 운영했으며, 촉진된 집단 세션에는 교수진 한 명과 직원 한 명의 시간 1시간이 추가되었습니다([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). 촉진된 집단 전달과 단독 노트북 만남은 동일하게 문구화된 아홉 개 항목 전반에서 감지 가능한 차이를 내지 않았고(r = 0.02~0.11) 종합 중앙값도 동일했습니다. 따라서 촉진이 더하는 것은 학습자 평가에서 보이지 않습니다.
+
 - **모의 학습자:** 학생 행동의 모델들은 [[research-methods-aied|researchers]]과 설계자가 실시간 배치 이전에 [[intelligent-tutoring|튜터링 시스템]]과 [[curriculum-design|curriculum]]을 시험하게 하며, [[student-modeling]]과 [[knowledge-tracing]]에 기반을 둡니다.
 - **신뢰와 충실도:** 모의의 가치는 실제 맥락을 얼마나 충실하게 모델링하는지 — 그리고 그것의 한계에 대한 학습자의 인식 — 에 달려 있으며, [[trust-calibration]]과 연결됩니다.
+- 학생 모의 장치는 중요한 곳에서 충실도 시험을 통과하지 못합니다. 가장 잘 미세조정된 모델조차 실제 학생이 범하는 오류를 놓쳤고, 프롬프트 방식은 가장 나쁜 성적을 냈습니다. 따라서 모의 장치는 신뢰받기 전에 측정되어야 합니다([[simulated-students-tutoring-dialogues-2026|Scarlatos et al. (2026)]]).
 - **인간다움은 모델이 아니라 상호작용의 속성입니다.** 두 백엔드가 같은 아바타 뒤에 렌더링되자, 텍스트 기반 인간다움 이점은 사라졌습니다. 참가자들은 상업 모델을 자연스럽다고 불렀으나(54% 대 22%) 의사소통 수행은 동일했습니다. 음성, 지연, 그리고 차례 교대가 같은 대화의 질이 지각되는 방식을 재형성했습니다([[sophie-clinical-communication-ai-assessment-2026|Hasan et al. (2026)]]).
 - **모의 기반 학습에서의 [[generative-ai|GenAI]].** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues (2026)]]는 의학 교육에서 시나리오, 사례, 문제, 그리고 모의 기반 학습에 걸친 GenAI를 [[meta-analysis-systematic-review|systematically review]]하여, 고차원 인지 기술에 대해서는 긍정적 결과를 발견했으나 다른 곳에서는 일관되지 않은 결과를 발견하며, 하이브리드 [[human-ai-collaboration|human-AI collaboration]]이 완전 자동화된 접근을 능가함을 보였습니다. [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger, and Liening (2026)]]는 사업 모의 게임에서의 적응적 지원을 위한 AI 대화 에이전트를 개발하며, 모의 기반 학습에서 제한된 [[formative-assessment|formative]] 피드백과 구조화된 성찰의 흔한 공백을 다룹니다.
 - **"진정성 간극"이 AI 모의가 대체할 수 있는 것에 경계를 긋습니다.** [[medical-education|clinical]] 모의에서, [[jiang-ai-powered-simulation-nursing-education-2026|Jiang et al. (2026)]]의 AI 추동 간호 모의에 관한 [[mixed-methods-research|mixed-methods]] 체계적 고찰(19개 연구, N=1,253)은 AI가 인지적 지식과 정서적 결과에는 효과적이나 복잡한 정신운동 기술에는 일관되지 않음을 발견합니다. 그들의 **진정성 간극** 개념 — 정서적 공명, 비언어적 단서 인식, 그리고 촉각적/신체적 검진 차원에서 학습자가 지각하는 부족 — 은 *왜* AI 모의가 고도로 구조화된 목표(기초 의사소통, 병력 청취)에 가장 적합한지를 설명하며, 고급 정신운동과 정서적으로 복잡한 시나리오를 인간 표준화 환자와 임상 배치에 넘기는 **단계적 모의 연속체** 안에 놓여야 한다고 말합니다. 기술적 불안정(예컨대 음성 인식 지연)은 외재적 [[cognitive-offloading|cognitive load]]와 [[anxiety-and-stress|불안]]을 더할 수도 있으므로, 충실도와 안정성이 그 자체로 설계 지렛대입니다. 이것은 [[genai-scenario-based-healthcare-education-2026|Neto et al.'s]]의 발견인 하이브리드 인간–AI 접근이 완전 자동화된 것을 능가한다는 것과 평행합니다.
@@ -59,8 +63,10 @@ ai_assist:
 
 - **디지털 트윈은 하드웨어 청구서가 붙은 모의이며, 그 청구서가 누가 참여할 수 있는지를 규정합니다.** [[engineering-education|engineering]]과 STEM [[higher-ed|고등 교육]]에서 디지털 트윈에 관한 11개 연구의 [[meta-analysis-systematic-review|systematic review]]는 모든 구현이 실시간 동기화와 함께 작동하는 프로토타입을 제공했으나, 단 세 개만이 통계적으로 유의미한 [[learning-gains|learning gains]]를 보고했음을 발견했습니다. 물리적 장비는 다섯 연구에서 접근을 동시 학생 1–3명으로 제한했으며, 감소된 사회적 상호작용이 여섯 연구에서 가장 많이 언급된 교수법적 도전이었습니다([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al. (2026)]]).
 - **에이전트 기반 모의는 [[metacognition|메타인지]] 이론을 검증 가능한 체계로 모형화할 수 있습니다.** 5수준 AMERT 모델과 NetLogo 모의를 결합한 에이전트 기반 디지털 트윈 발상의 틀은 연구자가 학습자 원형과 과제 조건을 바꾸며 메타인지 궤적을 관찰할 수 있게 했습니다. 다만 저자들은 그 산출물이 가설 생성일 뿐 실제 학습자에 관한 증거가 아니라고 강조합니다([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). 모의는 달리 관찰하기 어려운 이론을 위한 가상 실험실이 됩니다.
+- **추론 향상은 대본 사례 안에서 측정되었습니다.** 학부 [[medical-education|의학 교육]]에서 AI 기반 임상 모의에 관한 30개 연구의 범위 검토는 그중 23개(76.7%)가 텍스트 기반 가상 환자나 챗봇 위에 세워졌음을 발견했으며, 사례는 대부분 사전 선택된 데이터 요소와 제한된 변이성으로 경계 지어져 있었습니다([[hernandez-ai-clinical-simulation-scoping-2026|Hernández Rincón et al., 2026]]). 따라서 보고된 임상 추론 향상은 잘 정의되지 않은 상황의 관리가 아니라 엄선된 시나리오 안에서의 수행을 서술합니다. 이 검토의 더 지속적인 기여는 과정 증거입니다. 타임스탬프가 찍힌 로그와 전사록은 약한 진단 수행 뒤에 있는 좁은 데이터 수집, 수정되지 않은 가설, 과신을 드러냈으며, 이는 지필 시험으로는 볼 수 없는 것입니다.
 
 - **교육과정이 모의의 가치를 결정하는 단위입니다.** 교육과정 연결 모형(Curricular Bridge Model)은 모의의 수익이 플랫폼 충실도가 아니라 프로그램 전반에 걸쳐 경험이 어떻게 배열되는지 — 맥락 재사용, 추론 요구의 변화, 진전에 먹이는 증거 — 에 달려 있다고 주장합니다([[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno, 2026]]).
+- **모의 내담자가 증거를 앞질렀습니다.** 상담자 교육에서의 생성형 AI에 관한 14개 출처의 범위 검토는 AI 모의 내담자가 지배적인 응용임을 발견했으나, 어떤 연구도 훈련생 역량을 측정하거나, 비교 조건을 사용하거나, 위기 및 위험 평가 시나리오를 시험하지 않았습니다([[van-patten-freeman-rath-ai-counselor-education-scoping-2026|Van Patten-Freeman et al., 2026]]).
 
 
 ### 연결
@@ -103,6 +109,9 @@ ai_assist:
 
 ## 연결된 문서
 
+- [[ismail-affective-domain-ai-healthcare-review-2026]] — 정서적 영역 훈련에서 AI 모의와 가상 환자가 지배적이며, 결과는 대부분 자기보고 (Ismail & Zafira, 2026)
+- [[hernandez-ai-clinical-simulation-scoping-2026]] — 30편 범위 검토: 76.7%가 텍스트 기반 가상 환자, 추론 향상은 대본 사례에 기반 (Hernández Rincón et al., 2026)
+- [[van-patten-freeman-rath-ai-counselor-education-scoping-2026]] — 14개 출처 범위 검토: 모의 내담자가 지배적, 훈련생 역량 미측정 (Van Patten-Freeman & Rath 2026)
 - [[learner-agency-ai-simulation-2026]] — 복잡계 모의에서의 매개변수 통제와 선택적 AI 에이전트: 향상이 접근이 아니라 실천을 추적했다
 - [[benzion-ai-physics-simulations-virtual-lab]]
 - [[adaptive-virtual-patient-psychotherapy-training]] — 심리치료 훈련을 위한 적응형 가상 환자
@@ -128,4 +137,6 @@ ai_assist:
 - [[theelen-classroom-simulations-four-layer-framework-2026]] — 재현되는 실천, 모의된 상황, 주체성과 적응의 분배, 조율을 구분하는 네 계층 틀
 - [[herrera-alcaino-simulation-curricular-coherence-2026]] — 기술 도입에서 교육과정 정합으로: 보건 전문직 교육의 다리로서의 기술 강화 모의
 - [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — 모의 순환 전체에서 교사가 대화 에이전트에 위임할 수 없는 것
+- [[tischkau-ai-simulated-patient-formats-2026]] — 촉진된 집단 형식과 단독 노트북 형식의 LLM 환자 하나: 학생 1인당 세션당 약 US\$2, 학습자 평가에서 감지 가능한 차이 없음 (Tischkau et al. 2026)
+- [[ai-multifactorial-virology-lab-teaching-2026]] — 바이러스학 실험실의 지식 그래프와 그래프 기반 조수 및 적응적 라우팅: 이론 시험 +11.4점, d = 1.39
 

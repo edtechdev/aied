@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T20:30:23-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,7 @@ AI 탐지는 [[academic-integrity]], [[generative-ai]], [[llm|대규모 언어 �
 - **타당성과 공정성의 실패:** 탐지 도구는 비원어민 작가에게 편향되어 학생을 부당하게 불리하게 만드는 거짓양성을 만들어 낼 수 있으며, 이는 [[bias-mitigation]], [[equity-in-ai-education]]과 연결되는 우려입니다.
 - **주목할 만한 오류율과 신뢰 침식:** 신뢰할 수 없는 탐지는 학생의 [[trust]]와 평가 과정의 온전성을 해칩니다.
 - **과제 의존성:** 자기 탐지 연구가 보여 주듯, 정확도는 과제 유형에 따라 크게 달라지므로 어떤 단일 탐지기도 모든 평가에 걸쳐 의존할 만하지 않습니다.
+- **입도가 판정을 바꿉니다.** 출처가 표시된 PISA 2025 에세이에서, 임베딩 탐지기는 학생풍 재작성 아래에서도 전체 텍스트 AI 재현율을 0.94 이상으로 유지한 반면, 문장 수준 재현율은 0.59까지 떨어졌습니다([[schaller-ai-text-detection-authentic-writing-2026|Schaller 외(2026)]]).
 - **검증된 탐지기도 역사적 기준선 위에 서 있습니다:** 6년간의 CS2 연구는 자사 탐지기를 LLM 이전 기준선에 대해 검증했습니다. LLM이 공개되기 전 H-점수는 거의 0에 가까웠다가 2026년에는 평균 11.9로 상승했습니다([[argus-academic-integrity-genai-2026|Racovan 외(2026)]]).
 - **정직성의 딜레마, 계량화됨.** [[karr-ai-detection-humanization-2026|발표된 초록 642편에 대한 통제 연구(Karr 외 2026)]]는 그 [[educational-policy-ai|정책]]적 실패가 개념적일 뿐만 아니라 측정된 것임을 보여 줍니다. 지침을 준수한 가벼운 AI 수정은 38–80%가 표시되고, 수정하지 않은 최근 원본은 9–15%(비-STEM이 STEM을 크게 웃돎)가 표시되며, humanizer를 활용한 AI 텍스트는 96% 이상의 경우에서 탐지를 벗어납니다. 탐지기가 저자 의도가 아니라 표면 문체(긴 토큰 밀도와 학술 어휘 밀도)에 키를 맞추기 때문에, 정직한 AI 지원은 제재를 받고 의도적인 humanizer 회피는 빠져나갑니다. 저자들은 탐지기 점수가 결코 부정행위의 단독 증거가 되어서는 안 된다고 주장합니다.
 - **교정 한 번이 판정을 바꾸며, 이는 문체를 저자성과 분리합니다.** 저자와 주제와 내용을 고정한 135,389쌍의 편집 원고에서 동일한 편집이 인간 텍스트에 대해 13개 탐지기를 서로 반대 방향으로 밀었습니다. MAGE는 거짓양성이 10.7퍼센트포인트 줄고 RADAR는 4.7퍼센트포인트 줄어든 반면, Fast-DetectGPT는 4.6퍼센트포인트 늘었습니다([[park-style-confound-ai-detection-non-native-writing-2026|Park, Jeong과 Kim(2026)]]). 기준선 비율은 0.0%에서 100.0%까지였고 편집 강도에 따라 확대되었습니다.
@@ -90,6 +91,8 @@ AI 탐지는 [[academic-integrity]], [[generative-ai]], [[llm|대규모 언어 �
 Bassett 외는 AI 탐지가 감시와 처벌로 해결할 수 없는 문제에 대한 작동 불가능한 해법이라고 결론 내리며, 초점은 AI가 학습에서 차지하는 역할과 감독 없는 평가는 보안을 확보할 수 없다는 현실을 인식하는 [[assessment|평가 설계]]로 옮겨가야 한다고 말합니다. 이는 지식베이스의 [[beyond-detection-authentic-assessment-ai-2025|탐지를 넘어서는]] 입장을 탐지 도구를 퇴역시켜야 한다는 직접적이고 증거에 기반한 논증과 함께 공고히 합니다.
 
 16가지 유형에 걸친 심리학 평가 40개 중 36개(90%)가 통과에 적절하다고 판단된 ChatGPT 출력을 만들어 냈고, 네 번의 실패는 존재감이나 시각적 산출물, 또는 학생 자신의 데이터셋을 필요로 하는 과제였습니다. 이는 탐지가 아니라 통과 경계가 AI 작업이 성취로 산정되었는지를 결정했다는 증거입니다([[ivory-psychology-assessment-integrity-2026|Ivory 외(2026)]]).
+
+**실천은 증거보다 뒤처져 있습니다.** 127개 기관을 연구하며, [[making-ai-work-for-students-ofs-2026|OfS와 Advance HE(2026)]]는 탐지기에 반대하는 연구 합의가 나온 뒤 여러 해가 지나서도 탐지기 사용이 계속되고 있음을 발견했습니다. 교직원들은 점수가 부정행위 사건에 보조 증거로 들어간다고 서술했고, 일부 기관은 탐지기 사용을 완전히 중단했으며, Turnitin은 연구자들에게 자사 도구의 출력은 저자성을 확립할 때 하나의 데이터 포인트여야 한다고 말했습니다. 학생들은 그 반대편을 서술했습니다. 일단 표시되면 저자성을 증명할 경로가 없고, 점수를 낮추기 위해 em 대시를 제거하거나 의도적인 오류를 추가하는 같은 전략을 쓴다는 것입니다.
 
 ### 탐지기 편향과 군비 경쟁의 메커니즘
 
@@ -188,4 +191,5 @@ Bassett 외는 AI 탐지가 감시와 처벌로 해결할 수 없는 문제에 �
 - [[roe-ai-humanizers-legitimacy-assessment-2026]] — 정당성을 수행하는 55개 휴머나이저 사이트: 탐지와 회피라는 하나의 상업 시장 (Roe et al. 2026)
 - [[hashem-cheating-habitus-ai-governance-discourse-2026]] — 집행이 품행이 아니라 학술 자본으로 걸러낸다는 가설
 - [[lieske-ai-proposals-counter-ai-cheating-2026]] — 여덟 LLM이 여섯 가지 부정행위 대응 기법의 순위를 매기고, AI 탐지가 마지막에 온다
+- [[making-ai-work-for-students-ofs-2026]] — OfS와 Advance HE(2026): 127개 기관의 교직원 244명과 학생 91명이 탐지, 평가 설계, AI 리터러시, 전략에 관해 응답
 

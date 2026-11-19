@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-17T08:35:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,7 @@ ai_assist:
 
 - **명시적 벤치마크 기준으로서의 학습자 적응.** Teaching Monster Challenge는 지정된 학습자 인격에 대한 적응에 점수를 매기지만, 그 자동화된 LLM 심사자는 약한 꼬리만 분리했습니다. 상위 시스템은 그 심사자의 천장 근처에서 점수를 받았고, 그 순위는 군중 선호와 어긋났습니다(Spearman ρ = −0.17)([[teaching-monster-pck-benchmark-2026|Lin 외(2026)]]).
 
-### 왜 벤치마크가 AIED에서 중요한가
+## 왜 벤치마크가 AIED에서 중요한가
 
 벤치마크는 [[ai-ed-evaluation]]와 [[assessment-validity]]에 연결됩니다. 엄밀한 벤치마크가 없다면 [[intelligent-tutoring|AI 튜터링]] 효과에 관한 주장은 검증될 수 없습니다. 벤치마크는 또한 [[bias-mitigation]]과 교차합니다. 벤치마크 설계가 편향을 새기거나 증폭시킬 수 있기 때문입니다. 벤치마크 수행과 실제 세계의 유용성 사이의 긴장은 여러 논문에 걸쳐 다루어지며, [[generative-ai]] 응용에서의 [[transfer-of-learning]] 문제에 연결됩니다.
 
@@ -74,6 +74,20 @@ ai_assist:
 - **모형 역량을 정확도가 아니라 보정된 수준으로 보고하라.** [[standardized-assessment-llm-english-proficiency-2026|Min 외(2026)]]는 전문가 주석이 달린 624개 문항을 2,050개의 학습자 응답을 사용하여 이름 붙은 숙련도 수준으로 대응시키고, 전선 모형들이 보정된 천장을 넘어섬을 발견합니다. 퍼센트가 숨기는 한계입니다.
 
 - **채점 규칙은 그것이 훈련하는 모형에 의해 속을 수 있다.** 최선의 결정 하나를 반복하여 극대화되는 [[adaptive-learning|적응성]] 지표는, 벤치마크 설계가 argmax를 공개하고, 적응성을 차이로 채점하며, 무작위를 넘는 기준선을 보고해야 함을 보여 줍니다([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
+
+매칭 규칙은 측정의 일부이며, 그 크기는 주변적이지 않습니다. [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah과 동료들(2026)]]은 11개 구성 — 임베딩 모형, [[generative-ai|생성형]] LLM 설정, 그리고 하나의 ReAct 에이전트 — 을 1,696개의 골드 스킬을 담은 926개 구인 공고 표본의 ESCO 주석 벤치마크에 대해 채점한 뒤, 여덟 층 매칭 파이프라인으로 각각을 재채점했습니다. 파이프라인은 정확한 문자열 일치부터 0.85 임베딩 유사도 절단값까지 이어졌고, 측정된 재현율은 11개 구성 모두에서 11~72퍼센트 포인트 상승했습니다. 가장 큰 도약인 70.9포인트는 사고의 연쇄를 쓴 Gemini 2.5 Pro에 돌아갔는데, 그 설명은 골드 라벨과 의미적으로는 일치하지만 어휘상으로는 거의 일치하지 않았습니다 — 저자들은 그 변동을 정확 일치 평가가 역량만큼이나 형식을 측정했다는 증거로 읽습니다.
+
+## 벤치마크가 있는 곳
+
+벤치마크가 항상 논문인 것은 아닙니다. 이제 세 개의 표면이 운용상의 독해 대부분을 담당하며, 그것들은 독자가 무엇을 점검할 수 있게 하는지에서 서로 다릅니다.
+
+순위표는 벤치마크를 진행 중인 비교로 바꿉니다. [GradeBench](/resources/gradebench/)는 45개 대학 강좌에서 나온 손으로 쓴 STEM 답안 464개에 대해, 교수자가 실제로 선택한 루브릭 항목을 기준으로 전선 모형에 점수를 매기며, 최고 모형은 57.3%의 정확한 루브릭 일치에 도달합니다. 순위보다 비용 축이 더 중요합니다. 0.8점 뒤진 모형은 답안 천 개당 비용이 약 7분의 1입니다. 그것은 학습이 아니라 채점을 측정합니다.
+
+탐지기 순위표는 다른 질문에 답합니다. [RAID 순위표](/resources/raid-benchmark-leaderboard/)는 영역, 디코딩 설정, 적대적 공격에 걸쳐 탐지 모형에 점수를 매기며, 1% 위양성률에서의 진양성률이 기관 규모에서 중요한 열입니다. 그 규모에서 1%는 수백 명의 학생이기 때문입니다.
+
+어떤 벤치마크는 역량이 아니라 접근을 비교하기 위해 존재합니다. [Fab AI](/resources/fab-ai-benchmark-leaderboard/)는 저소득·중소득 국가의 교육을 위해 교수법, 기초 문해력, SEND, 시각적 추론에 걸쳐 모형을 평가하며, 점수 옆에 가격, 매개변수 수, 공개 가중치 열을 둡니다. 그 격차 — 전선 모형은 90%대 초반, 2B 미만 공개 모형은 21%에서 43% 사이 — 는 배치상의 맞바꿈을 명시적으로 만듭니다.
+
+그 구분은 유지할 가치가 있습니다. 순위표 점수는 고정된 문항 집합에 관한 주장이지 결코 교실에 관한 주장이 아니며, 이 세 기구는 교육 측정이 무엇을 위한 것인지에 대해 서로 다르게 봅니다.
 
 ## 흔한 오해
 
@@ -115,3 +129,4 @@ ai_assist:
 - [[llm-benchmark-secondary-science-topics-2026]] — LLM의 중학교 및 고등학교 과학 주제 이해를 위한 벤치마크
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — 반복으로 최적화된 지표에서 도출된 AI 튜터 벤치마크를 위한 여덟 가지 설계 원리(Domínguez Figaredo & Fernández De la Cruz 2026)
 - [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: 도전적 행동을 보이는 학생에 대한 LLM 튜터 평가(Park 외 2026)
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — 자동 스킬 추출을 위한 AI 접근 비교: 임베딩에서 공학 교육을 위한 에이전트 시스템까지

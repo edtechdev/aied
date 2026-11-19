@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,7 @@ ai_assist:
 - 소크라테스식 대화는 노력이 든다; 학생들은 효율을 위해 직접 답을 선호할 수 있다
 - 챗봇은 인간 튜터가 제공하는 관계적 지원을 제공할 수 없다
 - 일부 학생은 해결 없이 소크라테스식 고리 안에 갇힐 수 있다
+- 실제 전달은 설계가 명시한 것보다 더 달라질 수 있다. C++ 강좌에서 챗봇이 성찰적 질문이나 적용 질문을 던졌는지 묻는 항목은 설문에서 가장 낮고 가장 변동이 큰 점수인 5점 만점의 3.86(SD 1.24)이었으며, 저자들은 이를 시스템 프롬프트가 명시한 것의 일관성 없는 전달로 읽었다([[jackson-ai-chatbots-learning-assistants-cs-2026|Jackson, Mware와 Jiang(2026)]]).
 
 ### 반론에 가까운 발견: 제한 없는 접근이 제약된 모드를 능가할 수 있다
 
@@ -175,3 +176,4 @@ Favero et al.(2025)은 학생들이 질문 구조에 의존하게 되어 그것�
 - [[genai-socratic-tutor-biology-argumentation-2026]] — 생성형 인공지능을 통해 예비 생물 교사의 PISA 정합 논증 기술 향상하기
 - [[etq-ai-conversational-teacher-training-2026]] — 증거에 기반한 대화로 교수 오해를 다루는 대화형 AI 진단 도구(Miranda & Calvani 2026)
 - [[socratic-probing-agent-physics-cave-detection-2026]] — 가르치지 않는 AI 에이전트 설계하기: 입문 물리에서 소크라테스식 추궁을 위한 설계 규칙
+- [[jackson-ai-chatbots-learning-assistants-cs-2026]] — 안내형 챗봇에서 가장 낮고 가장 변동이 큰 평점을 받은 성찰적 질문

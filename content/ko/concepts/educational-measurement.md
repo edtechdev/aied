@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,8 @@ AI 리터러시는 이 지식 기반에서 가장 풍부한 검사 도구 보유
 
 2026년의 교사 AI 리터러시 검사 도구 33개에 대한 평가는 검사 도구 개발이 어디서 성숙하고 어디서 그렇지 않은지를 보여 줍니다. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore, Maat(2026)]]은 COSMIN과 Terwee 등(2007)에서 개작한 의사결정 행렬에 비추어 검사 도구를 등급화하여, 내적 일관성이 가장 강한 영역(33개 중 28개가 A등급, 84.8%)이고 공정성이 가장 취약하며, 측정 불변성이나 차별 문항 기능 증거를 보고한 검사 도구는 5개(15.2%)뿐임을 발견했습니다. 구조 타당도는 강하여, 24개 검사 도구(72.7%)가 확인적 요인분석, PLS-SEM 또는 IRT 모형화를 통해 A등급에 이르렀으나, 내용 타당도는 대부분 [[qualitative-research|질적]] 검토에 기대어, 21개 검사 도구(63.6%)가 양적 전문가 합치도 통계가 없어 B등급이었습니다.
 
+- **명목상 5차원인 AI 불안 척도는 본질적으로 단일차원입니다.** 23문항, 8차원 AIAS가 학부생 877명에서 그 구조를 재현하지 못한 뒤, 유지된 20문항 형태는 바이팩터 ωH = .875를 ωtotal = .954에 대해 산출했고(비율 .918), 특정 요인 ωHS는 .166에서 .407에 그쳤습니다([[tassilova-ai-anxiety-scale-russian-2026|Tassilova 등, 2026]]). 자유롭게 놓인 절편 하나가 국가 간 비교의 부호를 뒤집었는데, 이는 그 대비를 단순히 편향된 것이 아니라 불확정적인 것으로 만듭니다.
+
 자동화된 문항 선택은 검사 도구를 형태를 바꾸지 않으면서 단축할 수 있습니다. 병합된 두 물결 표본(N = 305, 342)에 대한 개미 군집 최적화는 각 차원에서 전체 척도와 r = 0.910–0.944로 상관하는 12문항 단축형을 만들어 냈으나, 차원당 두 문항은 더 좁은 내용 범위를 다룹니다([[genai-srl-l2-writing-scale-2026|Wang, Zhang, Zhang(2026)]]).
 - **AI 특화 구인을 위한 척도 타당화.** [[chang-ai-cognitive-offloading-scale-2026|Chang(2026)]]은 [[cognitive-offloading|인지적 오프로딩]]을 위한 절차를 따라갑니다. 26개 후보 문항을 세 기능(기억 5개, 보조 10개, 사고 5개)에 걸쳐 20개로 줄였고, N = 665의 연구 1은 추출 전에 KMO = 0.965, χ²(325) = 8904.89를 보고했습니다. N = 1,123의 연구 2는 2차 모형을 CFI = 0.951, TLI = 0.944, RMSEA = 0.047, SRMR = 0.036으로 적합했으며, CR 0.840–0.906, AVE 0.501–0.570, α = 0.944, 한 달 재검사 0.937(n = 99)이었습니다. 성별에 걸친 완전한 스칼라 불변성이 ΔCFI ≤ 0.001로 성립했습니다. 한계도 같은 설명에 속합니다. CVI, HTMT, 잠재 요인 상관이 보고되지 않아 판별 타당도와 내용 타당도는 입증된 것이 아니라 주장된 것입니다. 1차 3요인 모형은 또한 SRMR = 0.158을 기록했는데, 이는 1요인 모형의 0.051과 대비되며, 여러 문항은 행동이 아니라 의존에 대한 태도를 지칭합니다.
 
@@ -113,7 +115,7 @@ AI 리터러시는 이 지식 기반에서 가장 풍부한 검사 도구 보유
 - **풀링된 추정치는 취약하다.** 같은 표본의 주관적-객관적 AI 리터러시 상관만을 풀링한 2026년 구조적 검토(N = 2,765)는 r = .055(Hartung-Knapp 95% CI [−.047, .156])를 제시하며, k = 3에 이질성 추정량들이 서로 불일치하고 한 연구가 가중치의 77.2%를 짊어져, 숙련도 기준점을 정할 수 없습니다([[competent-generative-ai-use-measures-review-2026|Verí(2026)]]).
 - **모집단 간에 전이되지 않는 구인들.** [[assessment-latent-structure-human-llm-2026|Strugatski 등]]은 평가 도구가 인간과 LLM에 대해 *다른 요인 구조*를 가질 수 있다는 것을 보여 줍니다. 이는 같은 문항들이 모집단 간에 같은 잠재 구인을 측정하지 않을 수 있음을 의미합니다. 인간 내에서조차, 한 집단(예: 서구의, 자원을 갖춘 [[higher-ed]])에서 타당화된 검사 도구는 다른 집단([[global-south]])에게 일반화되지 않을 수 있으며, 이는 AI 교육 측정의 일반화 가능성에 대한 우려입니다.
 - **측정이 놓칠 수 있는 것.** AI 교육 학습에 가장 핵심적인 일부 구인은 잘 측정하기가 가장 어렵고, 따라서 검사 도구에 의해 가장 쉽게 놓쳐지거나 왜곡됩니다.
-  - **과정과 전략.** 표준 결과 측정은 학습의 *산출물*을 포착하며, *과정*을 포착하지 않습니다. 그것들은 학생이 AI와 실제로 어떻게 관계하는지를 놓칠 수 있습니다. [[cognitive-offloading|과잉 의존]], 비성찰적 수용, 또는 비판적 검증을 말입니다. [[tracing-genai-literacy-interaction-patterns]]는 자기보고와 결과 검사가 이런 역학을 놓치기 때문에 상호작용 흔적을 사용합니다. 신경 과정 측정이 이것을 확장합니다. [[seeing-cognitive-representations-eeg-reconstruction|Su 등(2026)]]은 EEG에서 비디오 프레임을 재구성하여 정답 문항(M = 71.43, SD = 4.61)에서 의미적 유사도가 오답 문항(M = 62.30, SD = 5.91, p < .001)보다 높다는 것을 발견했습니다.
+  - **과정과 전략.** 표준 결과 측정은 학습의 *산출물*을 포착하며, *과정*을 포착하지 않습니다. 그것들은 학생이 AI와 실제로 어떻게 관계하는지를 놓칠 수 있습니다. [[cognitive-offloading|과잉 의존]], 비성찰적 수용, 또는 비판적 검증을 말입니다. [[tracing-genai-literacy-interaction-patterns]]는 자기보고와 결과 검사가 이런 역학을 놓치기 때문에 상호작용 흔적을 사용합니다. 신경 과정 측정이 이것을 확장합니다. [[seeing-cognitive-representations-eeg-reconstruction|Su 등(2026)]]은 EEG에서 비디오 프레임을 재구성하여 정답 문항(M = 71.43, SD = 4.61)에서 의미적 유사도가 오답 문항(M = 62.30, SD = 5.91, p < .001)보다 높다는 것을 발견했습니다. K–12 AI 리터러시 감사는 이 격차의 깔끔한 사례입니다. Guo, Ali, Wong의 검토에 있는 타당화된 검사 도구 아홉 개 가운데 어느 것도 과정을 포착하지 못했습니다. 세 개는 문항 반응 이론으로 분석된 객관식 지식 검사였고, 나머지는 고전검사이론으로 분석된 자기보고 척도였습니다([[guo-ai-literacy-developmental-paces-2026|Guo 등, 2026]]).
   - **종단적이고 지속되는 학습.** 단일 사후 검사는 AI 지원에 의해 부풀려진 수행을 보이면서도, 지속되는 무지원 지식의 잠식을 놓칠 수 있습니다([[genai-performance-vs-learning|수행-학습 격차]]). 한 시점에서의 측정은 학습에 대해 적극적으로 오도적일 수 있습니다.
   - **형평성과 접근.** 균일한 기기/연결 접근을 가정하거나, 특권을 누린 표본에 표준화된 검사 도구는 [[equity-in-ai-education|자원이 부족한]] [[learners]]의 역량을 놓치거나 — 체계적으로 과소 측정할 수 있으며, 접근의 격차를 능력의 격차로 잘못 귀인하게 할 수 있습니다.
   - **[[affective-computing|정서]]적·동기적 상태.** 참여, 동기, 자기효능감은 흔히 자기보고로 측정되어 위의 자기보고 격차를 물려받으며, 학습을 이끄는 상황에 자리한 순간적 역학을 포착하지 못할 수 있습니다.
@@ -158,6 +160,7 @@ AI 리터러시는 이 지식 기반에서 가장 풍부한 검사 도구 보유
 - [[student-engagement]]
 
 ## 연결된 문서
+- [[guo-ai-literacy-developmental-paces-2026]] — 타당화된 K–12 AI 리터러시 검사 도구 아홉 개, IRT 아래 지식 검사 셋과 CTT 아래 자기보고 나머지, 어느 것도 과정을 포착하지 못함(Guo, Ali & Wong, 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 대규모 서술 평가에서 AI 지원 채점을 위한 인간 참여 프레임워크
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[causal-modeling-competency-assessment-2026]] — 학생 역량 평가를 위한 지원 개입의 인과 모형화
@@ -201,3 +204,4 @@ AI 리터러시는 이 지식 기반에서 가장 풍부한 검사 도구 보유
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — 난이도는 맞히고 변별력은 놓치는 LLM 난이도 판단
 - [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 같은 구인, 같은 결론? 자기보고 대 수행 측정
 - [[chang-ai-cognitive-offloading-scale-2026]] — AI 인지적 오프로딩 척도의 타당화, 그리고 그것이 생략한 타당도 점검
+- [[tassilova-ai-anxiety-scale-russian-2026]] — 인공지능 불안 척도 러시아어판의 심리측정적 속성: 차원성, 측정 불변성, 개인 중심 프로파일

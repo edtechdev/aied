@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -195,12 +195,18 @@ Learning Letters 연구들의 한 묶음(2026)이 중심 긴장으로 수렴합�
 - **교육 에이전트와의 대화에서 코딩한 지속성은 LLM과 인간 코딩 모두에서 수행과 부적으로 상관합니다.** 영어 학습자 중학생 107명을 대상으로 한 대화 기반 평가에서, 여덟 가지 ChatGPT4o 구성이 채팅 로그 발화에서 탐지한 지속성은 과제 수행과 부적으로 상관했으며(r = -0.19, p < .001), 한 인간 코더의 지속성 집계도 r = -0.32로 같은 방향이었습니다([[ober-persistence-pedagogical-agent-dialogues-2026|Ober 등(2026)]]). 지각된 도전(r = -0.25)만이 더 강한 부적 연관을 지녔고, 다른 구인들도 부적이었습니다(자기효능감 r = -0.15, 사전 KSA r = -0.14, 흥미 r = -0.08). 저자들은 지속성 표현을 비생산적 몰두일 가능성으로 읽으며, 어떤 자동화 시스템이 지속성 발화를 참여로 다루기 전에 적응적 지속성과 부적응적 지속성 — 전략적 재시도 대 반복적 시행착오 — 을 구별해야 한다고 주장합니다.
 - **GPT-4o는 지식 기반만으로 이론에 근거한 SRL 코드북을 만들 수 있습니다.** Zimmerman(2000)과 Winne과 Hadwin(1998)에 대한 참조만 주어졌을 때, GPT-4o는 Zimmerman의 세 국면 모두와 Winne-Hadwin 네 단계 가운데 세 단계를 포괄하는 구인을 제안했고 과제 정의 단계만 빠져 있었으며, 인간의 다듬기를 거쳐 코드북은 11개 구인으로 확정되었습니다([[zambrano-llm-human-ai-codebook-development-2026|Zambrano 등(2026)]]). 학생 15명의 소리 내어 생각하기 발화 955개를 프롬프트에 더하자 간극이 메워져 두 모형의 모든 국면을 포괄했고, 오류 식별(Error Identification) 같은 자료에 근거한 코드가 도입되었습니다. 인간의 다듬기는 여전히 필수였습니다. 두 코더가 겹치는 GPT 제안(계획 대 목표 설정, 점검 대 평가, 결과 대 과정 평가)을 병합했고, 환각은 나타나지 않았습니다.
 
+자기조절을 촉구하는 프롬프트는 그것을 가르치는 것과 같지 않습니다. 7–9학년 학생 371명을 대상으로 한 네 차례 세션의 무작위 시험에서, 유용성 가치 프롬프트도 인지 전략 프롬프트도 표준 ChatGPT에 비해 전략 사용, 흥미, 노력, 영역 지식을 개선하지 못했습니다([[futterer-srl-genai-support-rct-2026|Fütterer 등, 2026]]). 이 무효과가 중요한 이유는 개입이 변하지 않은 학습 과제에 성찰 프롬프트를 더한 것이기 때문입니다. 작업을 조절한 무엇이든 프롬프트가 아니라 과제와 교실에 놓여 있었습니다.
+
+자기보고는 증거에서 약한 고리입니다. ADHD 학생 46명을 대상으로 한 [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder와 Stratchan의]] 연구에서, MSLQ 메타인지 자기조절 하위척도는 면접 등급을 예측하지 못했으나(p = 0.312), 인지 유연성의 수행 과제는 예측했습니다. 이 발견은 자기조절이 무관하다는 것을 보여 주는 것이 아닙니다. 학습자가 자신의 조절에 대해 진술하는 것과 압박 속에서 규칙을 전환하는 능력이 별도로 측정 가능함을 보여 줍니다. [[executive-function|실행 기능]]이 능력 쪽을 담당합니다.
+
 ## 흔한 오해
 
 - **"자기조절은 학습자의 특성이다."** 조절된 학습은 **자기 성찰, 인과 귀인, 적응**으로 분해되며, 능숙한 학습자는 **성공을 높이기 위해 인지 전략을 쓴다**. 이는 설계가 지원할 수도 훼손할 수도 있는 훈련 가능한 과정입니다.
 - **"어떤 적응적 설계든 조절을 똑같이 지원한다."** [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu 등]]의 **학생 179명, 22일간의 2x2 무작위 현장 실험**은 두 설계 원칙을 비교하여 그것들이 메커니즘에서 다르다는 것을 발견했으므로 "적응적"은 단일한 처치가 아닙니다.
 - **"불안은 조절을 훼손한다."** **학생 107명**을 대상으로 한 혼합 방법 연구에서 더 높은 [[anxiety-and-stress|AI 불안]]은 **검증 및 재확인과 정적으로 연관**되었습니다. 불안은 검증하라는 신호로 작동했으며, 그것은 조절의 부재가 아니라 조절입니다.
 - **메타인지적 SRL은 [[ai-feedback-quality|AI 피드백]]이 예측하지 못한 학습 관련 부하를 예측했다.** **학생 234명과 관측 1,147건**의 5주 현장 연구에서 메타인지적 자기조절은 **실질적 인지 부하**의 상당한 정적 예측 변수였고(β = .363, p < .001 의도-처치 분석; .346, p < .001 사용 기반), 외재적 부하를 유의하게 예측하지 않았습니다. 반면 대화형 AI 피드백에 대한 단순한 접근은 둘 다 예측하지 못했습니다. 피드백에 대한 **지속적** 관여만이 실질적 부하에서 학생들을 구분했고 불규칙한 사용은 그렇지 않았으며(β = −.219, p = .116), 이는 능동 성분을 피드백 공급이 아니라 학습자의 처리 조절에 자리하게 합니다([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger, Liening, 2026]]).
+
+LLM을 동반자로 구성하는 일은 도구 선택의 문제이기 전에 자기조절의 문제입니다. 언어 학습을 위한 LLM 사용에 관한 117건의 공개 기록에서, 다단계 상호작용을 조율한 24건은 나머지 93건보다 훨씬 더 자주 개인화했고(70.8% 대 15.1%) 더 많은 지각된 이점을 보고했으나(3.29 대 1.96), 68.4%는 측정 가능한 개선을 지목하지 않은 채 모형을 칭찬했고 측정 가능한 개선을 보고한 것은 10.3%뿐이었습니다([[lasekan-chatbot-language-learning-partner-2026|Lasekan 등(2026)]]).
 
 ## 연결된 개념
 
@@ -226,9 +232,11 @@ Learning Letters 연구들의 한 묶음(2026)이 중심 긴장으로 수렴합�
 - [[retrieval-spacing-interleaving]] — 학습자가 내리는 일정, 자기 시험, 학습 전략 선택
 - [[cognitive-surrender]]
 - [[reflection]]
+- [[executive-function]]
 
 ## 연결된 문서
 
+- [[futterer-srl-genai-support-rct-2026]] — 독일 학생 371명: 성찰 프롬프트와 전략 프롬프트가 표준 ChatGPT 위에 아무것도 더하지 못했다(Fütterer 등, 2026)
 - [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — AI 지원 중재가 자기조절 학습을 g = 0.76 올렸다는 34개 연구 메타분석(Zhang 등 2026)
 - [[li-genai-dependency-effort-regulation-2026]] — 생성형 AI 의존과 지각된 학습 성과: 노력 조절을 통한 경로(Li, Zhang & Yang 2026)
 - [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 몸을 활용한 교실에서 LLM이 분절한 SRL의 범주별 정확도(Fonteles 등 2026)
@@ -270,3 +278,5 @@ Learning Letters 연구들의 한 묶음(2026)이 중심 긴장으로 수렴합�
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 예비 개념의 다양성이 집단의 공유 조절 프롬프트 수용 방식을 바꾼다(Wang 등 2026)
 
 - [[gouroubera-genai-benin-2026]] — 지각된 이득과 나란히 미루기가 늘었고(β = 0.525), AI 때문에 가능해진 지연과 AI에 관한 지연을 구분한다(Gouroubera 등 2026)
+- [[lasekan-chatbot-language-learning-partner-2026]] — LLM 사용의 조율은 더 풍부한 구성을 낳았으나 학습 증거는 거의 없었다
+- [[wilder-adhd-ai-interview-eye-tracking-2025]] — 자기보고된 조절 대 인지 유연성의 과제 측정

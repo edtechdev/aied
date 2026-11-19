@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,8 @@ ai_assist:
 ## 도입
 
 자동 문항 생성이 중요한 까닭은 평가 문항을 손으로 만드는 데 비용이 많이 들고, AI가 그것을 빠르게 대규모로 만들어낼 수 있기 때문입니다. 그러나 지식베이스의 연구는 생성된 문항이 정확성, 관련성, 난이도에 대해 검증되어야 하며, 문항 유형(객관식, 단답형, 코드)마다 신뢰성 있게 생성될 수 있는 정도가 다르다는 것을 보여줍니다. 따라서 AQG는 [[generative-ai|생성 AI]], [[educational-nlp|교육용 NLP]], [[educational-measurement]]의 교차점에 놓입니다.
+
+실질적인 한계가 있습니다. 절약은 “AI가 문항을 쓴다”는 말보다 좁습니다. 치의학 교수 8명에게서 나온 150개의 짝지어진 쌍에 걸쳐, 문항 마무리 시간은 문항당 6.0분에서 1.0분으로 줄었습니다 — 5.1분 절약(95% CI 4.6~5.7, d = 3.79) — 사용 가능한 초안부터 시간을 재고 업로드, 지연, 실패한 생성, 폐기된 초안은 제외한 수치입니다([[islam-human-vs-ai-sba-dental-2026|Islam et al. (2026)]]). 측정된 이득은 검토 단계이므로, 처음부터 끝까지의 절약은 타이머 밖에 무엇이 놓여 있는지에 달려 있습니다.
 
 ## 문항 생성 접근법
 
@@ -63,6 +65,7 @@ AQG의 핵심 과제는 **품질 관리**입니다:
 - **실제 시험에서의 식별 가능성, 그리고 검토가 실제로 제거하는 것:** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]]는 AI 생성 객관식 30개와 국가 면허 시험 객관식 30개를 119명의 5학년 [[medical-education|의대생]]이 치르는 채점된 태블릿 기반 시험에 넣었으며, AI 문항은 ChatGPT-4o와 Gemini 1.5 Pro가 강의 자체 자료로 작성하고 전문가 패널이 82%를 수락하고 18.2%를 사용 불가로 제거했습니다. 학생들의 출처 추정은 두 종류의 문항 간에 차이가 없었고, 문항 난이도, 오답 분포, 인식된 교육과정 정렬성은 통계적으로 구별되지 않았습니다 — 이것은 품질 결과가 아닌 *식별(recognition)* 결과이며, 저자들이 이 워크플로의 이점을 문항 작성을 없애는 것이 아니라 초안 작성에서 검토로 교수자의 노력을 옮기는 것이라고 설명하는 이유입니다. 하나의 탐색적 차이만 살아남았습니다: Gemini 문항은 면허 시험 문항보다 어려웠고(p = 0.028), ChatGPT 문항은 그렇지 않았습니다(p = 0.984).
 - **과제 의존성:** 생성 신뢰성은 문항 유형에 따라 다릅니다. [[cong-confidence-asag-2026|단답형 채점]]과 [[self-referential-l2-writing-llm-assessment|분석적 글쓰기 평가]]는 개방형 응답과 글쓰기 문항이 구조화된 문항보다 생성하고 채점하기가 더 어렵다는 것을 보여줍니다.
 - **인지 품질:** [[llm-educational-question-cognitive-depth|인지 깊이 평가]]는 생성 문항이 고차원 결과를 위해 명시적으로 설계되지 않으면 저차원 사고로 치우칠 수 있다는 것을 보여줍니다.
+- **문항 작성 루브릭은 정렬보다 먼저 통과한다.** GPT-4가 생성한 화학 문항 27개는 22개 이분법적 문항 작성 기준을 평균 87.71% 충족했지만, 전문 언어를 줄인 것은 33.33%에 그쳤고 선택지 길이를 균형 있게 맞춘 것은 48.15%였으며, 역량 수준 정렬은 Rasch가 시사하는 난이도와의 정확 일치에서 25.93%에 도달했습니다([[rodemer-ai-generated-mcq-chemistry-assessment-2026|Rodemer et al. (2026)]]). 중요한 점검은 체크리스트가 아니라 경험적 난이도입니다.
 - **자동 인지 수준 레이블링이 생성 문항에는 전이되지 않는다.** 큐레이션된 문항 은행에서 훈련된 Bloom 분류법 분류기는 AI 생성 문항에서 무너졌습니다 — 분포 내 macro F1 0.88에서 분포 외 0.48과 0.20으로 — 이는 생성 문항이 평균적으로 훨씬 더 많은 단어(18.2 대 9.3)를 쓰고 큐레이션 코퍼스와 Bloom 트리거 동사의 중앙값 10.5%만 공유하기 때문입니다(더 가까운 세트는 35.1%). 레이블 붙은 분포 외 데이터로 재훈련하는 것이 N > 1,000개 정도의 레이블 표본 임계값에서 가장 큰 단일 향상이었습니다([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026]]).
 
 ## 적응형 및 개인화 학습에서의 역할
@@ -135,3 +138,5 @@ AQG는 [[adaptive-learning|적응형]] 및 [[personalized-learning|개인화된]
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — 데이터 과학 강의에서 학생의 LLM 사용과 AI 생성 문항 난이도의 한계
 - [[bloom-classifier-ai-assisted-questions-2026]] — 새로운 AI 보조 교육 문항의 교육학적 평가를 위한 사전훈련 모델 평가
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 학생들은 채점된 시험에서 AI 생성 객관식을 면허 시험 문항과 구별하지 못했고, 생성 문항의 18.2%가 검토에서 제거되었다 (Vogt et al. 2026)
+- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — 작성 루브릭을 통과한 생성 문항도 의도한 역량 수준을 빗나갈 수 있다
+- [[islam-human-vs-ai-sba-dental-2026]] — 마무리 시간이 문항당 6.0분에서 1.0분으로 줄었으며, 사용 가능한 초안부터 최종본까지 측정한 것이지 처음부터 끝까지가 아니다

@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ ai_assist:
 
 ### 오류로부터의 학습
 오류 있는 처리는 특히 학습자가 자신의 이해를 성찰하고 재구성할 기회를 얻을 때 유지와 개념 변화를 도울 수 있습니다(Kapur, 2008; Schwartz & Martin, 2004). AI 시대에 이것은 학습자가 직접적인 정정을 받기보다 자신의 오류를 진단하고 바로잡는 시스템에서 구현됩니다. 예를 들어 AI가 안내하는 단서를 주고 학습자가 정답을 추론하는 [[lukesova-clue-before-correction-2026|clue-before-correction]] 과업은 인지 부하를 줄이고 자율적인 수정을 뒷받침합니다. 정교화 피드백(elaborative feedback)은 검증만 하는 피드백보다 훨씬 높은 [[learning-gains|학습 향상]]을 만들어 내며(Hattie & Timperley), 피드백의 시점도 중요합니다.
+
+**통제된 AI 지원 코딩 과제에서 오류가 곧 교육과정이었습니다.** [[shen-ai-skill-formation-2026|Shen과 Tamkin(2026)]]은 개발자들이 GPT-4o 어시스턴트와 함께 또는 없이 새로운 Python 라이브러리를 학습하게 했으며, 비지원 집단은 오류 중앙값 3개를 만난 반면 지원 집단은 1개였습니다(Q1–Q3: 2.0–5.0 대 0.0–3.0). 어시스턴트가 제거한 오류는 코루틴의 이해를 강제하는 라이브러리 특유의 오류들, 예를 들어 await되지 않은 코루틴이나 함수가 기대되는 자리에 전달된 코루틴 객체였습니다. 비지원 집단은 이후 AI 없이 치른 퀴즈에서 17% 더 높은 점수를 받았으며, 격차는 디버깅에서 가장 크고 코드 읽기에서 가장 작았는데, 생성된 코드를 붙여넣는 대신 다시 타이핑하는 것은 그 격차를 전혀 좁히지 못했습니다. 저자들은 독립적인 오류 해결을 그 기제로 읽되, 매개 분석이 아니라 연관성을 측정했습니다.
 
 ### Mistakes 대 Errors
 유용한 구별은 다음과 같습니다. **mistakes**는 대개 부주의나 과부하에서 비롯된 실수나 잠깐의 이탈(slips, lapses)로 진단적 가치가 제한적일 수 있는 반면, **errors**는 진정한 오해나 결함 있는 추론을 반영하며, 다룰 수 있는 오개념을 드러낸다는 점에서 더 생산적인 학습 자료입니다. 오류 분석 — 답이 왜 틀렸는지 *이유*를 파악하는 것 — 은 오류로부터의 학습의 중심이며, 핵심적인 [[pedagogy|교수법적]] 기술(그리고 [[ai-feedback-quality|AI 피드백]] 설계의 표적)입니다.
@@ -129,3 +131,4 @@ ai_assist:
 - [[lukesova-clue-before-correction-2026]] — 자율 학습을 위한 ChatGPT: 정정 이전의 단서
 - [[pedagogy-ai-mistakes]] — AI 실수의 교수법
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — 해결책 보류는 좌절 비용을 피했지만 학생 선호에서는 졌다
+- [[shen-ai-skill-formation-2026]] — AI 없이 오류 중앙값 3개 대 있을 때 1개, 그리고 무보조 퀴즈 점수 17% 상승 (Shen & Tamkin 2026)

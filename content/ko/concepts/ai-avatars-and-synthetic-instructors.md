@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [instructors, instructional designers]
 confidence: medium
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,8 @@ AI 아바타는 모형이 구동하는 렌더링 또는 애니메이션된 인�
 
 평가에 관해 SOPHIE 판정자가 가장 분명한 결과이고 음성 면담자가 가장 약합니다. Tamme의 제안은 기술적 파일럿과 아직 공식적으로 분석되지 않은 데이터를 보고하며, 음성이 무엇을 끌어내는지에 관한 모든 주장은 여전히 가설입니다.([[voice-based-ai-feedback-interviews-higher-ed-2026]])
 
+강좌 소통은 또 하나의 역할이며, 그에 대한 증거는 효과가 아니라 워크플로입니다. [[wu-singing-syllabus-avatars-2026|Wu (2026)]]는 1학년 컴퓨터과학 개론 강의계획서를 립싱크 아바타가 공연하는 노래 영상으로 바꾸는 7단계 파이프라인을 문서화합니다. ChatGPT가 가사를 작성하고, Suno AI가 음악을 생성하며, HeyGem이 Colab에서 얼굴을 합성합니다. 전이 가능한 부분은 제약 집합입니다. 정확성이 운율보다 우선하고, 변환된 모든 정책 문장은 공식 강의계획서로 다시 매핑되며, 채택한 교수자가 검증 비용을 떠안습니다. Wu는 학생 데이터를 보고하지 않으므로 참여와 회상은 여전히 가설이며, 노래 강의계획서는 서면 문서를 대체하기보다 보완합니다.
+
 ## 신뢰는 얼굴을 통해 이동합니다
 
 얼굴은 [[pedagogy|교수법적 내용]]의 중립적 용기가 아닙니다. 총 396명 참가자의 두 실험에서 [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis와 Kyriakidou-Zacharoudiou(2026)]]는 아바타 정체성 단서가 평가와 실제 수용 모두를 형성함을 발견했습니다. 백인 아바타, 그리고 STEM 맥락에서는 아시아 남성 아바타가 더 신뢰할 만하고 유능하다고 평가되었습니다. 나이 든 흑인 여성 아바타는 모든 측정에서 중첩된 불이익을 겪었습니다. 참가자들은 자신의 인종 내집단이나 전문성에 대한 고정관념과 일치하는 아바타의 안내를 더 쉽게 받아들였습니다.
@@ -106,6 +108,8 @@ AI 아바타는 모형이 구동하는 렌더링 또는 애니메이션된 인�
 큰 표본은 태도와 선호에 관한 것입니다 — 아바타 정체성에 관한 396명 참가자, 영상 선호에 관한 493명 응답자 — 그리고 둘 다 편의 표본이나 단일 강좌 모집단입니다. 이 집합의 어떤 연구도 합성 교수자가 인간 교수자보다 더 나은 학습을 낳는다는 것을 입증하지 않습니다. 방어 가능한 주장은 더 좁습니다: 이 시스템들은 실천 만남을 근사할 수 있고, 한 영역에서는 인간 평가자에 맞서 수용 가능한 일치로 채점될 수 있으며, 학습자가 교수의 출처를 평가하는 방식을 바꿀 수 있습니다.
 
 그 좁음이 중요합니다. Theelen의 저자들은 그것을 직접 말합니다: 유창함과 실재감의 감각은 [[assessment-validity|타당성 증거]]가 아닙니다.([[theelen-classroom-simulations-four-layer-framework-2026]]) 교사처럼 들리는 것은 방 안에서 가장 쉬운 기준을 통과하는 일입니다.
+
+수용은 효과성과 다른 질문입니다: [[wang-ai-avatars-tam-doi-adoption-2026|Wang 외(2026)]]는 학습자 653명의 AI 아바타 수용 의도를 모형화했고, 지각된 투명성이 신뢰의 가장 강한 예측 변수였습니다(β = 0.542). 모형은 의도의 38.9%를 설명했으며, 상대적 이점(β = 0.267)과 유용성(β = 0.247)이 태도(β = 0.126)를 앞섰습니다.
 
 ## 흔한 오해
 
@@ -162,3 +166,5 @@ AI 아바타는 모형이 구동하는 렌더링 또는 애니메이션된 인�
 - [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 강좌 피드백 면담을 위한 대화형 음성 에이전트 제안
 - [[trikonet-trivalence-co-creativity-2026]] — 사회기술적 네트워크에서의 공동 창조적 교수 아바타(TriKoNet)
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654명 학생 중 51.7%만이 제시된 인간형 역할을 택했다; 한 명은 그것을 피드백 자판기라고 불렀다
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — 수용 쪽 증거: 학습자 653명, 신뢰의 가장 강한 예측 변수는 투명성(Wang et al. 2026)
+- [[wu-singing-syllabus-avatars-2026]] — 가상 아바타로 노래하는 강의계획서 설계: AI 지원 강의계획서 재저작

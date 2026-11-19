@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-18T05:55:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,7 @@ ai_assist:
 - **교육 프로그램:** [[crewscaler-ai-upskilling-framework|AI 역량 강화 프레임워크]]와 [[ai-tpack-preservice-math-teachers|TPACK 기반 예비 교사 교육]]은 구조화된 교수진 [[ai-education|AI 교육]]의 모형을 제공합니다.
 
 - **수요는 욕구 평가가 아닙니다.** 퀘벡 CEGEP 교사 345명은 기술적 이해에서 가장 낮은 점수(5점 만점에 2.706)를 받았지만, 이전 세션이 너무 일반적이었다고 말하며 전공 분야별 실천적 적용을 요청했습니다([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini 등(2026)]]).
+- **학술인은 자동화를 자처하며, 도구가 무엇을 할 수 있는지 물을 때만 교수법을 드러냅니다.** 20개 학문 분야와 24개국에 걸쳐, 다섯 개의 개방형 질문은 효율성과 자동화에 관한 의견 737개를 끌어낸 데 비해 기관 정책에 관한 의견은 305개였고, 맞춤화는 역량에 관한 답변 74개와 장벽 질문 각각 3개에 나타났습니다([[sheridan-teaching-academics-genai-plans-2026|Sheridan et al., 2026]]). 그들이 지목한 제약은 시간, 일관된 정책, 자금이 뒷받침되는 지원이었고, 전문성 개발과 출장 예산이 가장 먼저 삭감되는 항목으로 서술되었습니다. 소수는 변화를 노사 관계를 통해 읽으며, 기관이 그것을 이용해 교직원을 줄일 것이라고 예상했습니다.
 
 - **AI를 매개로 한 전문적 성찰.** 반성적 삼각형 모형은 전문적 학습 공동체에서 [[reflection|자기 성찰]], 협력적 성찰, 공동체 성찰에 걸쳐 AI를 인지적 매개자로 위치 짓습니다. 교사 여섯 명을 대상으로 한 4주 타당성 사례 연구에서 검증되었으며, 이 모형이 긋는 경계는 개별적 통찰이 자동으로 공유된 전문적 지식이 되지는 않는다는 것입니다([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|거버넌스]]와 정책:** [[genai-policies-higher-ed-computing|기관 AI 정책 분석]]은 기관의 야망과 교수진 지원 역량 사이의 격차를 기록합니다.
@@ -226,3 +227,4 @@ ai_assist:
 - [[early-childhood-ai-holistic-competencies-review-2026]] — 자료 86건, 네 주제 가운데 하나인 교육자 개발
 - [[wang-legacy-curriculum-ai-cte-renewal-2026]] — 역량 격차가 교수진 개발과 채용 결정을 이끈다
 - [[yuan-teacher-need-satisfaction-genai-2026]] — GenAI 학습 프로그램 후 교사 146명, 욕구가 참여를 매개한다
+- [[sheridan-teaching-academics-genai-plans-2026]] — 20개 학문 분야, 24개국: 학술인은 자동화를 먼저 계획하고 시간과 정책을 제약으로 지목 (Sheridan et al. 2026)

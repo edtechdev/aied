@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/physics-education
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-18T04:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,7 @@ ai_assist:
 **교수 변수로서의 에이전트 역할 설계.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]]는 모형(DeepSeek R1), 플랫폼, 온도를 고정하고 프롬프트로 지정된 역할만을 달리합니다. 제한된 교과서 지식 원천에서 권위 있게 답하는 교사 중심 에이전트 대, 학생의 이해를 아는 공감하는 교사로 설정되어 [[misconceptions]]의 원인을 진단하고, 관련 개념을 지목하고, 유사한 현상으로 전이하도록 스크립트화된 학생 중심 에이전트입니다. 59명의 고등학교 졸업생이 개념 문항 두 개를 푼 결과, 학생 중심 에이전트는 더 높은 사후 시험 점수(9.67 대 7.93; r = 0.38), 더 낮은 외재적 인지 부하와 더 높은 본래적 인지 부하, 더 강한 몰입 경험(d = 0.92), 더 높은 공감 인식(r = 0.53)을 낳았습니다. 이는 물리 에이전트를 교수적으로 효과적으로 만드는 것이 답 정확성뿐 아니라 역할 규정이라는 증거입니다([[pedagogical-agent]], [[prompt-engineering]]).
 - **벤치마크 점수는 모형이 물리에서 이미 할 수 있는 것을 과소평가한다.** 널리 쓰이는 물리 벤치마크 여섯 개를 도메인 전문가로 재채점한 결과, 보고된 성과 부족의 대부분이 결함 있는 문항과 제한적인 자동 채점기의 인공물이었습니다. 감사된 거부 250건 중 143건(57.20%)은 벤치마크 결함, 95건(38.00%)은 채점기 오류이며, 진정한 모형 오류는 12건(4.80%)뿐이었습니다. 수정하면 HLE-Physics mean@4는 47.28%에서 78.66%로, CritPt는 32.29%에서 87.50%로 상승했습니다. 물리 교수에 대해 이것은 양면으로 작용합니다. 학생들이 이미 많은 정본 문제에 전문가 수준의 텍스트 풀이를 얻을 수 있다는 뜻이므로, 물리 추론의 평가는 벤치마크 오염에 저항하는 문항과 최종 답이 아닌 과정 증거로 나아가야 합니다.([[frontier-models-physics-benchmark-audit-2026]])
 - **AI 채점은 모든 부분을 맞추지 않고도 고강도 물리 결과를 재현할 수 있다.** 필기 올림피아드와 대학 시험지 10,364페이지를 채점한 멀티모달 LLM은 심사위원과 같은 올림피아드 팀 5인을 복원했고 총점과 r = 0.93–0.96으로 상관했지만, 문항 부분별 정확한 일치는 70%에 달했습니다. 심사위원이 통제하는 재독이며, 대체가 아닙니다([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
+- **그래프 채점기는 자신의 설명이 뒷받침하지 않는 만점을 줄 수 있다.** 왜곡된 운동학 그래프로 멀티모달 채점기를 스트레스 테스트한 결과, 끊어지고 갈라지는 자취에 명확한 영속도 기준선도 없는 속도–시간 제출물이 그래도 10/10을 받았습니다. 저자들은 감점된 응답뿐 아니라 만점 응답도 교수자가 검토할 것을 권합니다([[zammel-mllm-kinematics-graph-grading-2026|Zammel et al., 2026]]).
 
 - **물리 벤치마크는 [[curriculum-design|커리큘럼]]에 근거하고 비영어일 수 있다.** [[physicsmate-bengali-secondary-physics-benchmark-2026|Jahin et al. (2026)]]는 국가 9-10학년 물리 교과서와 1,760개 노드 [[knowledge-graph|지식 그래프]]에서 벵골어 문항 1,834개를 구축했으며, 하나의 고정된 [[llm-training-and-fine-tuning|파인튜닝]] 방식이 0.6B, 1.7B, 4B 매개변수에서 각각 5.5, 15.0, 23.3포인트의 향상을 얻었습니다.
 
@@ -103,6 +104,8 @@ ai_assist:
 - **무보조 연습과 평가를 남겨 두라.** 보훔 재설계([[ai-particle-physics-education-redesign-2026|Mikhasenko et al. 2026]])는 AI가 허용되고 연구 형태의 과제를 높은 몰입으로 완수한 경우에도 보조 없는 시험에서 학생이 크게 뒤처질 수 있음을(평균 20.6/80) 보여 줍니다. 보조 수행과 독립적으로 인출 가능한 지식을 별개로 다루고, 의도적인 무보조 연습과 필기 시험을 강좌에 설계하십시오.
 
 - **촉진자의 충실도를 검증하고, 모형 구축 단계는 AI 없이 유지하라.** "그냥 알려 달라"는 압박에 목표 설정된 Gem은 아무도 측정하지 않은 질량 값을 만들어 냈습니다. 언어 기반 촉진자의 충실도는 가정이 아니라 검증되어야 하며, AI 없는 구축 단계는 그것이 도달할 수 없는 손으로 하는 작업을 보존합니다([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
+
+강의 자료로 들어가는 가장 낮은 인프라의 경로가 물리 교수에서 문서화되어 있습니다. [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]]는 소형 모형을 로컬에서 실행하고, 강좌 자체의 노트와 문제집에 그것을 겨냥하게 하여 거기서 퀴즈와 학습 가이드를 생성하며, 교수자가 모든 산출물을 검증합니다. 이 구성에는 공급업체 계약이 필요 없고 학생 데이터를 어디에도 보내지 않으므로, 엔터프라이즈 도구를 조달할 수 없지만 워크스테이션 한 대는 낼 수 있는 학과에게 현실적인 첫걸음이 됩니다.
 
 ## 흔한 오해
 
@@ -135,6 +138,7 @@ ai_assist:
 
 ## 연결된 문서
 
+- [[beznosko-local-ai-rag-physics-oer-2026]] — 개방형 교육 자료 생성을 위해 RAG를 갖춘 로컬 AI를 사용하는 물리 교육 접근법 (Beznosko et al., 2026)
 - [[genai-video-engineering-physics-workflow-2026]] — 프롬프트에서 물리 법칙으로: 공학 물리 교육을 위한 생성형 AI 워크플로
 - [[wang-teacher-student-centered-agents-physics-2026]] — 교사 중심 대 학생 중심 프롬프트 설계 물리 에이전트 (Wang et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
@@ -156,6 +160,7 @@ ai_assist:
 - [[genai-assisted-problem-posing-physics-2026]]
 - [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: 물리에서 인지 활성화된 AI 증강을 위한 틀
 - [[ai-grading-handwritten-physics-2026]] — 필기 물리 평가(올림피아드)의 AI 채점
+- [[zammel-mllm-kinematics-graph-grading-2026]] — 왜곡된 운동학 그래프에 대한 멀티모달 채점기 스트레스 테스트: 설명이 뒷받침하지 않는 그래프에 만점 (Zammel et al. 2026)
 - [[ai-particle-physics-education-redesign-2026]] — 입자물리 교육에서의 AI: 연구 문제와 기초 기술
 - [[mechanics-cognitive-diagnostic-physics-2026]] — 역학 인지 진단: FCI, FMCE, EMCS를 14개 목표의 인지 진단으로 전환 (Le et al. 2026)
 - [[physics-students-llm-perceptions-instruction-2026]] — 회의주의 대 편의성: 교수 전후 물리 학생의 대규모 언어 모형에 대한 인식과 사용

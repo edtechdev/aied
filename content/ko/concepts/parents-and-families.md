@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ ai_assist:
 아이들의 AI와 함께하는 시간의 상당 부분은 교실 밖에서, 연구 문헌이 대부분 배경으로 취급하는 환경에서 일어납니다. tutoring과 학습 성과에 관한 연구는 대개 학교 기반이며, 가족 지도에 관한 연구는 대개 시험되지 않은 권고적 성격이므로, 가족은 동시에 [[ethics|책임 있는 AI]] 사용에 관한 막대한 지도의 대상이면서도, 그 지도가 효과가 있는지에 관해 매우 적은 증거의 대상이 됩니다.
 
 이 페이지는 가구를 그 자체로 하나의 행위자로 다룹니다. 그것은 AI 매개 부모-자녀 tutoring, 아이들이 집에서 만나는 동반자와 읽기 도구, 학교가 AI 사용에 관해 가족에게 말하는 것과 말하지 않는 것, 부모 자신의 [[ai-literacy]]와 그들의 견해에 관해 알려진 것, 그리고 가족들이 이 도구들을 사용하는 접근과 비용의 조건을 다룹니다. 증거가 얇은 곳에서, 이 페이지는 빈틈을 메우기보다 그것이 그러하다고 말합니다.
+
+아이가 특정 연령에 도구로 무엇을 할 수 있는지는 선호의 문제가 아니라 발달의 질문입니다. [[developmental-psychology|발달 심리학]]이 그 설명을 담당합니다.
 
 ## 집에서 공동 교육자로서의 부모
 
@@ -96,6 +98,7 @@ ai_assist:
 
 ## 연결된 개념
 
+- [[developmental-psychology]]
 - [[stakeholders]] — AI 교육에서 청중과 행위자들을 위한 총칭 페이지
 - [[early-childhood-elementary-ai-education]] — 가정과 가족 사용이 가장 많이 연구되는 발달 영역
 - [[ai-use-disclosure]] — 공개 실천과 무엇이 가족에게 도달하는지의 질문

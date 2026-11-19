@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T11:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 교육에서의 웰빙은 다면적입니다: 정서적 웰빙(긍정적 정서, 낮은 고통), 심리적 웰빙(목적, 자율성, 역량), 사회적 웰빙(소속, 긍정적 관계)을 포함합니다. AI 시대에 웰빙이 중요한 것은 AI가 학습을 이 차원들에 영향을 주는 방식으로 재형성할 수 있기 때문입니다 — 학생의 자신감을 낮추고 [[academic-integrity|학문적 정직성]]에 대한 불안을 높이는 것에서부터 [[student-engagement|참여]]와 소속을 키우거나 잠식하는 것에 이르기까지. AI가 학생의 사회정서 기술, 웰빙, 사교성, 신뢰와 공감에 미치는 영향에 대한 우려(OECD 등이 제기한)는 웰빙을 책임 있는 AI 통합의 핵심 고려사항으로 자리매김했습니다.
 
-### 연구에서 웰빙이 나타나는 방식
+## 연구에서 웰빙이 나타나는 방식
 
 - **[[ai-literacy|AI 리터러시]]와 사회정서 학습:** [[sec-ai-literacy-narrative-review-2026|SEC를 AI 리터러시에 통합하는 연구]]는 교육자와 학생의 정서 지능과 웰빙을 기르는 것이 AI-[[sociocultural-learning|매개 학습]] 환경을 항해하는 데 필수적이라고 논하며, [[social-emotional-learning]]과 AI의 정서적 차원에 연결됩니다.
 - **AI 불안과 학생 경험:** 학생의 AI 참여에 관한 연구들(예: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT 기반 연구]])은 AI 사용이 불안, 신뢰, 자신감과 얽혀 있으며, 학문적 정직성, [[creativity]], [[cognitive-offloading|과잉 의존]]에 대한 우려로 학생의 웰빙이 영향받음을 발견합니다.
@@ -51,6 +51,10 @@ ai_assist:
 - **정서적 지원 교습이 웰빙에 자동으로 더 좋은 것은 아닙니다.** 대수학 교사에 추가된 LLM 마음챙김 층위는 두 조건 모두에서 상태-수학 불안을 줄였으나 인지 전용 힌트와 되먹임보다 더 줄이지는 않았으며, 학생은 마음챙김 에이전트를 더 지원적으로 평가했습니다 — 지각된 배려를 웰빙 결과로 읽는 것에 대한 경계입니다([[mindful-llm-math-tutoring-2026|Rief 등, 2026]]).
 - **웰빙 신호로서의 AI 불안, 적응, 의존:** [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang 등(2026)]]은 대규모 중국 표본에서 AI 불안이 감소된 [[metacognition|정서 규제]]를 통해 학업 동기와 부적으로 연결됨을(성별에 의해 조절됨) 발견합니다; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu(2026)]]는 [[language-learning|일본어]] 학습자가 기술스트레스와 회복탄력성에 의해 추동된 부적응, 중간, 긍정적 심리 적응 프로파일로 분류되며 한 학기 동안 더 나은 적응으로 옮겨감을 보여 줍니다; 그리고 [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan(2026)]]은 [[conversational-ai]] 참여의 횡단면 상관(외로움, 불안, 낮은 웰빙)이 결과로 읽혀서는 안 되며, 지원적이고 해로운 경험이 공존함을 경계합니다.
 
+**4주 무작위 시험은 설계 선택이 아니라 시간이 웰빙을 움직였음을 발견했습니다.** [[fang-chatbot-psychosocial-extended-use-2025|Fang et al. (2025)]]은 성인 981명을 인터페이스(텍스트, 중립적 음성, 매력적인 음성)와 주제(개방형, 비개인적, 개인적)의 아홉 가지 조합 중 하나에 배정하여 28일간 GPT-4o를 사용하게 했습니다. 어느 조작도 외로움, 실제 세계 사회화, 정서적 의존, 문제적 사용을 유의하게 바꾸지 않았으며, 이는 Yan이 경계하는 상관들에 대한 가장 강한 실험적 점검입니다. 자발적 일일 사용 시간은 네 가지 결과 모두를 해로운 방향으로 예측했고, 봇을 신뢰하거나 친구로 보는 사용자가 가장 의존적이었습니다. 사용 시간은 무작위 배정되지 않았으므로 방향은 여전히 열려 있습니다.
+
+**종단 데이터도 같은 방향을 가리키되, 측정상의 단서가 붙습니다.** [[folk-dunn-chatbot-companionship-loneliness-2026|Folk and Dunn (2026)]]은 서구 4개국의 성인 2,149명을 12개월에 걸친 네 차례의 설문으로 추적했습니다. 단일 문항 정서적 고립 측정에서, 더 많은 챗봇 사용은 4개월 후 더 많은 외로움을 예측했고(β = 0.07~0.08) 외로움은 더 많은 사용을 예측했습니다(β = 0.06). 20문항 사회적 연결 척도에서는 두 번째 방향만 성립했습니다. 덜 연결되어 있다고 느끼는 것이 더 많은 사용을 예측했으나(β = −0.09~−0.07), 사용은 이후의 연결을 유의하게 예측하지 못했습니다(p = .369). 저자들은 이 분석을 탐색적이라고 부르며, 이 불일치는 외로움을 한 가지 이상의 방식으로 측정해야 할 이유입니다.
+
 - **AI 유대가 보호하는지 해치는지는 오프라인 관계에 달렸습니다.** [[ai-connectedness-adolescent-mental-health-2026|Fu와 Zhao(2026)]]은 정신 건강 효과가 AI 연결성의 강도 자체보다 전통적 오프라인 연결성에 대한 상대적 AI 연결성을 좇음을 제안합니다 — 실제 세계 유대가 정체성 확인 욕구를 충족할 때 보완적이고, [[parents-and-families|보호자]]가 그렇지 못할 때 보상적입니다 — 그리고 둘 사이의 역U자 관계를 예측합니다.
 - **문화적으로 [[situated-learning|상황화된]] 웰빙 지원과 그 한계:** [[culturally-aware-student-stress-chatbot-2026|Bashir와 Afzal(2026)]]은 파키스탄 대학 학생을 위한 하이브리드 웰빙 시스템 Sukoon을 설명합니다 — Random Forest 스트레스 분류기(세 가지 심각도 수준에 대해 89.09% 정확도; 설문 특성 20개)와 Stepped Care Model에 따라 세 단계로 어조와 지원 강도를 높이는 [[llm]] 대화 층위의 결합입니다. 이것은 서구 설계 정신 건강 도구가 영어로 되어 있고, 우르두어나 로만 우르두어로 고통을 표현하고 학업·재정·가족·관계 스트레스를 동시에 맞는 학생들에게 문화적으로 맞지 않기에 만들어졌습니다. 저자들은 이것이 [[medical-education|임상]] 진단이나 치료 도구가 아니며, 고강도 고통 반응은 전문 상담을 향해야 하고, 챗봇 층위는 학생을 대상으로 문화적 적절성이나 정서적 안전에 대해 아직 평가되지 않았음을 명확히 합니다.
 - **교사 웰빙과 역할:** AI가 [[teacher-role|교사]]에 미치는 영향 — 업무량, 파괴적 기술로 가르치는 것에 대한 불안, 정서적 지원을 제공할 역량 포함 — 은 되풀이되는 우려이며, [[teacher-ai-competency]]와 [[educational-development|전문성 개발]]에 연결됩니다.
@@ -62,7 +66,9 @@ ai_assist:
 - **윤리와 책임 있는 AI:** 웰빙은 [[ai-education]]의 핵심 윤리적 고려사항이며, [[ethics]]와 학습자의 정신 건강과 소속을 해치기보다 지원하는 AI를 설계해야 할 당위에 연결됩니다.
 - **탐지기 불안으로서의 웰빙 위험.** [[sovereign-hive-titl-further-education-2026|Herron(2026)]]은 "flagxiety" — 신뢰할 수 없는 [[ai-detection|AI 탐지기]] 주장에 대한 두려움이 유발하는 불안 — 를 명명하고, 인지적 독특성이 불량 행위로 읽힐 수 있는 주변화된 평생교육 학습자가 인지적 셧다운을 유발할 수 있는 규제되지 않은 인터페이스가 아니라 관계적 규제를 필요로 한다고 논합니다.
 
-### 설계 고려사항으로서의 웰빙
+**교사에게 역량은 직무 만족도를 통해서만 웰빙에 이릅니다.** [[kayali-ai-literacy-tpack-wellbeing-2026|Kayalı et al. (2026)]]은 현직 교사 350명을 모형화하여 [[ai-literacy|AI 리터러시]]가 모든 AI-TPACK 구성요소에 강하게 공급됨을(β = 0.65~0.73) 발견했으나, 구성요소들은 만족도에서 갈렸습니다. AI 기술적 내용 지식은 만족도를 높인 반면(β = 0.41) 기술 지식 단독은 낮췄습니다(β = −0.30). 그런 다음 만족도가 효과를 정서적, 심리적, 사회적 웰빙으로 날랐으며(β = 0.42, 0.68, 0.57) 직접 경로는 살아남지 못했습니다 — 다만 모형은 만족도의 11퍼센트만 설명합니다.
+
+## 설계 고려사항으로서의 웰빙
 
 되풀이되는 주제는 웰빙이 AI 교육에서 의도적인 설계 고려사항이어야지 사후 고려가 아니라는 것입니다. 이것은 다음을 의미합니다: AI가 인간 관계를 대체하기보다 지원하도록 설계하는 것; 학생이 [[anxiety-and-stress|AI 유발 불안]]이나 과잉 의존을 경험하기보다 주체성과 자신감을 유지하게 하는 것; AI를 통합하는 교육자의 역량과 웰빙을 뒷받침하는 것; 그리고 [[learning-gains|학습 결과]]뿐 아니라 AI 시스템의 학생과 교사 웰빙에 대한 효과에 대해서도 [[ai-ed-evaluation|AI를 평가]]하는 것. [[research-methods-aied|연구]]는 웰빙을 [[motivation]], [[self-regulated-learning]], [[student-experience]](소속과 참여)에 연결합니다. [[daoism-ai-education-philosophy-2026|Xie(2026)]]은 여기에 맞는 교육적 목적을 주장합니다: 도가의 "Zhenren"(真人) 반이상이 마찰 없는 최적화를 "기른 전체성"으로 대체하고, 학습을 자아, 사회, 우주의 조화로운 통합으로 재구상하며, "어떤 학생도 단지 관리될 데이터셋이 아니라 평정을 이룰 수 있는 전체 존재"임을 고집합니다.
 
@@ -71,7 +77,7 @@ ai_assist:
 
 한 개념적 재틀짐은 [[self-regulated-learning|정서 규제]] 지원을 정서 탐지만이 아니라 신체 활동과 캠퍼스 생태에 근거시킵니다: 어떤 단일 표현 채널도 맥락 없이는 고통을 식별하지 못하므로, AI는 운동을 통해 규제를 지원하고 해석은 교사와 상담사가 유지해야 하며, 정서 감시는 출석이나 채점에 묶이는 순간 강제적이 됩니다([[ai-emotion-regulation-sport-exercise-2026|Zhang 등(2026)]]).
 
-### 다른 개념들과의 연결
+## 다른 개념들과의 연결
 
 웰빙은 [[student-experience]](학습자 전체 경험의 한 차원으로서), [[social-emotional-learning]]과 [[affective-computing]](AI가 교차하는 정서적 역량), [[ethics]](핵심 윤리적 고려사항으로서), [[motivation]]와 [[self-regulated-learning]](웰빙이 이들을 뒷받침하고 이들에 의해 뒷받침됨), [[teacher-ai-competency]](교육자의 역량과 웰빙), 그리고 AI가 웰빙을 형성하는 환경으로서의 [[higher-ed]]과 [[k-12]]에 연결됩니다.
 
@@ -101,6 +107,7 @@ ai_assist:
 
 ## 연결된 문서
 
+- [[kayali-ai-literacy-tpack-wellbeing-2026]] — 교사 350명: AI-TCK는 직무 만족도를 높이고 AI-TK는 낮추며, 만족도가 웰빙으로 가는 유일한 경로 (Kayalı et al., 2026)
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 마찰, 의미, 그리고 생물학적 신호로서의 외로움
 - [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI 불안과 학업 동기의 관계
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — AI 지원 일본어 학습에서의 심리 적응 프로파일과 전이
@@ -125,3 +132,5 @@ ai_assist:
 - [[faculty-ai-well-being-social-supports-2026]] — 교원 AI 웰빙의 구조 방정식 모형: 자기효능감에 대한 AI 리터러시의 우세
 - [[ai-chatbots-emotional-support-human-connection-2025]] — 학생 819명이 챗봇을 높게 평가하면서도 인간 연결의 상실을 가장 크게 우려했다
 - [[mulvenon-test-anxiety-ai-accountability-2026]] — 시험 불안은 제거되는 것이 아니라 재분배된다
+- [[fang-chatbot-psychosocial-extended-use-2025]] — 4주, 9개 조건, 유의미한 결과 효과 없음; 자발적 사용 시간이 해를 추적함 (Fang et al. 2025)
+- [[folk-dunn-chatbot-companionship-loneliness-2026]] — 12개월, 4차 조사: 단일 문항에서 사용이 고립을 예측했고, 외로움은 양쪽 모두에서 사용을 예측함 (Folk & Dunn 2026)

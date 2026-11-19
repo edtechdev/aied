@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 교육과정 설계는 과정 수준에서 '어떻게'를 다루는 [[learning-design]]과 짝을 이루며, 프로그램 수준에서 교육의 *무엇*을 다룹니다. 이 지식베이스의 글들은 AI가 여러 학문(소프트웨어 공학부터 건축, 녹색 교육에 이르기까지)의 교육과정을 어떻게 재편하는지, 그리고 교육자들이 학문적 기초를 희생하지 않으면서 AI 리터러시를 내장한 교육과정을 어떻게 설계하는지를 탐구합니다.
 
-### 주요 연구 주제
+## 주요 연구 주제
 
 **AI 시대를 위한 교육과정 재설계**가 핵심 과제입니다. **[[reshaping-cs-education-genai|Lee et al.]]**는 학부 [[cs-education|컴퓨터 과학 교육]]의 재편에 관한 국제 워크숍의 결과를 종합하며, 생성 AI가 구현 수준의 프로그래밍을 자동화함에 따라 교육과정이 시스템 설계, 추상화, 비판적 평가 쪽으로 옮겨가고 저수준 구현 세부사항은 덜 강조되어야 한다고 주장합니다. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]**는 에이전트형 소프트웨어 공학(Agentic Software Engineering)을, [[agentic-ai|AI 에이전트]]를 관리하는 데 필요한 "의도의 진화"와 실무자의 규율에 초점을 둔 21개 모듈 교육과정으로 독자적인 학문으로 체계화했습니다. 둘 다 [[ai-literacy]]와 [[scaffolding]]과 연결됩니다.
 
@@ -50,8 +50,11 @@ ai_assist:
 
 가중치는 교육과정 분석이 보고하는 것을 바꿉니다. [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]]은 GPT-o3-mini가 48개 평가 각각에 대해 일곱 가지 기업 역량 전반에 100%를 배분하도록 하여 전문가 가중치에 대해 Krippendorff's alpha 0.81에 이르렀으나, 기술 설명이 명시적으로 언급하지 않는 역량에서는 일치도가 음수(-0.19)로 돌아섰습니다.
 
+감사는 재설계의 전반부가 아니라 그 자체로 하나의 단계가 될 수 있습니다. [[rodafinos-llm-curriculum-audit-2026|Rodafinos (2026)]]는 프로그램 검토를 한 번의 회의 안에 들어맞는 네 개의 감사 프롬프트 — 교육과정 건강 점검, 사명 적합성 검사, 강좌별 역량 매핑, 성과 태깅 단계 — 로 배열하고, 이어서 채용 공고와 학문 기준으로부터 역량 매핑을 수행하며, 수정은 선택적인 세 번째 단계로 남겨 둡니다. 어떤 역량도 최소 두 개의 뒷받침 신호 없이는 핵심 우선순위가 되지 않으며, 이는 노동시장 조사가 교육과정을 결정하지 못하게 막습니다. 이 분리를 작동하게 만드는 것은 거버넌스 층위입니다. 실행 간에 일정하게 유지되는 Curriculum Evidence Pack, 버전·운영자·모형을 기록하는 프롬프트 로그, 반복 실행 점검, 그리고 승인 기구와 연결된 결정 로그가 있어, [[llm|LLM]] 산출물은 발견이 아니라 타임스탬프가 찍힌 산물로서 위원회 심의에 들어갑니다.
 
 **모듈 구조는 현재 내용보다 오래갑니다.** 분야가 검토 주기보다 빠르게 움직이는 패턴이 반복됩니다: [[ai-literacy|AI 리터러시]], 비판적 평가, 편향 탐지, [[ethics|윤리]]의 안정적 핵심을 두고, 전공별·지역에서 이용 가능한 도구 내용을 모듈로 붙여 6~12개월마다 재검토하는 것입니다([[bursic-ai-residency-education-curriculum-2026|Bursic 등(2026)]]). 대학원 [[medical-education|의학 교육]]이 제시된 사례지만 원칙은 일반화됩니다: 프로그램은 도구 교체에도 살아남는 역량에 헌신하고, 도구 특화 층위는 교체 일정을 잡습니다.
+
+**윤리 내용에는 인식만이 아니라 대처 프레임워크가 필요합니다.** AI 교육과정이 없는 학부생 584명에서, 역량은 윤리 인식을 높였고(β = 0.644), 그것은 불안을 높였습니다(β = 0.439). 문제가 어떻게 규제되는지 가르치지 않은 채 문제만 지목하면, 인식이 스트레스 요인이 됩니다([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu 외(2026)]]).
 
 **AI 리터러시 통합**은 여러 학문에 걸쳐 AI 역량을 내장합니다. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]**은 모든 연령과 교육 단계에 적용 가능한 단계적 AI 리터러시 프레임워크를 제공하며 2·3차 [[digital-divide|디지털 격차]]를 다룹니다. **[[tracing-genai-literacy-interaction-patterns]]**는 AI 리터러시가 상호작용 양식을 통해 어떻게 발달하는지를 검토합니다. **[[hingle-collaborative-ai-literacy-2025]]**는 AI 리터러시 교육과정 개발의 협력적 접근을 탐구하며 [[collaborative-learning]]과 연결됩니다.
 
@@ -95,7 +98,7 @@ K-12 [[machine-learning|머신러닝]] 활동 설계는 표면에 머물러 있�
 
 구조가 — 프롬프트 문구가 아니라 — AI 초안 작성을 실제 운영에서 신뢰할 만하게 만드는 것입니다. [[curriculum-as-code-instructional-design-2026|Paiva (2026)]]의 Curriculum-as-Code 파이프라인은 맥락을 적극적으로 가지치기하고 28개 프로젝트 맥락에서 자료를 절차별로 생성하여, 교수의 준비 시간을 지시당 약 8시간에서 2시간으로 줄였고 [[human-in-the-loop-ai|사람이 검토해]] 잡아낼 개념적·수학적 [[hallucination-risk|환각]]을 남기지 않았습니다.
 
-### 관련 개념과의 연결
+## 관련 개념과의 연결
 
 교육과정 설계는 [[learning-design]]과 직접 연결됩니다. 교육과정은 무엇을, 수업은 어떻게를 규정하기 때문입니다. AI 역량의 내장이 교육과정의 주요 과제이므로 [[ai-literacy]], 교육과정 변경이 교육자 준비를 요구하므로 [[teacher-role]]과 [[educational-development]], 잘 설계된 교육과정이 강좌와 여러 해에 걸쳐 기술 발달을 뒷받침하므로 [[scaffolding]]과 연결됩니다. [[higher-ed]]와 [[k-12]] 연결은 교육과정 설계가 여러 교육 수준에 걸쳐 관련됨을 반영합니다.
 
@@ -160,3 +163,5 @@ K-12 [[machine-learning|머신러닝]] 활동 설계는 표면에 머물러 있�
 - [[computing-assessment-genai-workshop-report-2026]] — AI가 여러분의 숙제를 해 줄 수 있습니다. 이제 무엇을 할까요? 생성형 AI 시대의 컴퓨팅 평가에 관한 온라인 워크숍 보고서
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 역량 프레임워크는 공유 어휘나 상호 대조 없이 다섯 차원에 수렴합니다
 - [[bursic-ai-residency-education-curriculum-2026]] — 레지던시 교육과정에 AI를 통합하는 장벽: 의사 리더 12명과의 질적 면담
+
+- [[rodafinos-llm-curriculum-audit-2026]] — 심리학에서의 대형 언어 모델 지원 교육과정 감사: 프롬프트 기반 방법

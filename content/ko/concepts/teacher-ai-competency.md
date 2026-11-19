@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-16T08:24:32-05:00"
+source_updated: "2026-11-18T10:20:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -130,6 +130,7 @@ ai_assist:
 - **강사는 유창함을 선호하지만 학습은 스캐폴드에 돌립니다.** 강사 41명을 대상으로, GPT-4o 기준 모형이 전반적으로 더 선호되었으나(21 대 13), 미세 조정된 3단계 모형(확인, 탐색, 발전)은 학습에 기여한 것으로 더 자주 평가되었고(18 대 13), 두 판단은 39%의 경우에만 일치했습니다([[teachingcoach-chatbot-instructor-guidance|Molnar 등(2026)]]).
 - **기관의 지원:** [[educational-development|전문적 개발]]은 지속 가능한 도입을 위해 기관 인프라([[educational-policy-ai|정책]], [[institutional-change-framework-ai|기관 변화]])와 짝을 이루어야 합니다.
 - **저작 도구가 교수법적 충실성을 보장하지는 않습니다.** [[teachers-configure-educational-chatbots-2026|Riahi 등(2026)]]은 전문적 개발 워크숍에서 교육용 [[conversational-ai|챗봇]]을 설정한 중학교 교사 27명을 연구하며 포커스 그룹과 설정 및 상호작용 기록을 함께 분석했습니다. 교사들은 챗봇을 교수자가 정의한 규칙에 의해 제한되는 수업용 스캐폴드로 다루었으나, 기록에 기반한 의도와 행동의 정렬은 응답성(88.9%)과 페르소나(81.5%)에서는 규칙(70.4%)과 목적(59.3%)보다 강했습니다. 설정 가능한 제어 장치만으로는 교수법적 의도가 행동으로 옮겨가지 않으므로, 챗봇의 교수법을 표현하고, 시험하고, 다듬는 것 자체가 저작 도구가 지원해야 할 역량입니다.
+- **지원은 제공이 아니라 지식을 통해 역량에 도달합니다.** 중국 16개 학교의 교사 782명에게서 지각된 학교 지원은 지각된 AI 교수 역량으로 가는 유의미한 직접 경로가 없었습니다. 그 연관은 AI-TPACK, 자기효능감, 회복탄력성, AI 불안을 경유해 흘렀으며, AI-TPACK이 가장 큰 경로였습니다([[zhou-school-support-teacher-ai-competence-2026|Zhou, Xie와 Chen, 2026]]).
 
 역할의 사다리 위 한 단계가 아니라 상황적인 것으로 역량을 다루는 설계 기반 반례가 있습니다. 22명의 고등교육 교사 교육자와 함께 한 [[adaptive-ai-model-teacher-educators-2025|Eyal(2025)의 설계 기반 연구]]에서 참가자들은 공개된 평가 프레임워크 다섯 개를 살피고 세 개의 상호 관련된 축을 중심으로 대안을 공동 설계했습니다. 맥락 적합성(인프라, 사회문화적 요인, 지역의 요구, 발달 단계), 전문적 요구(학문 분야, 교수법, 리더십, 지원), 역동적 발달이 그것입니다. 이 모형은 고정된 역량 수준을 거부하고 비선형적 진행을 허용하며, 1에서 5로 평정하는 20문항의 반성적 자기평가 설문지를 함께 제공합니다. 다만 그 검증은 [[qualitative-research|질적]]일 뿐 [[quantitative-research|정량적]] 신뢰도 검증은 없어, 이는 검증된 도구가 아니라 설계적 기여로 서 있습니다.
 - **메타분석적 추정.** [[teacher-ai-literacy-professional-development-meta-2026|Guo 등(2026)]]은 34개 연구의 효과 크기 212개를 통합하여, 교수자의 AI 리터러시 전문적 개발을 g = 0.76(95% CI [0.50, 1.02])으로 추정했습니다. 기술에서 가장 강하고(g = 0.91), 태도와 가치에서 가장 약했습니다(g = 0.61). 명백한 출판 선택을 보정하면 추정치는 약 g = 0.49로 낮아집니다.
@@ -270,3 +271,4 @@ AI가 일상적인 교수와 평가 과제를 떠맡을수록, 교수자의 고�
 - [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — 분야별로 판단된 도입, 그리고 학생의 추론에 대한 우려
 - [[chen-future-faculty-development-ai-2027]] — 교수팀에 분배된 역량, 모두에게 유지되는 기본 기술·윤리 역량
 - [[ji-judgement-space-dialogic-inquiry-2027]] — 프레임워크는 역량을 나열하고 판단의 조건은 이론화하지 않는다
+- [[zhou-school-support-teacher-ai-competence-2026]] — 학교 지원은 AI-TPACK, 효능감, 회복탄력성, 불안을 통해서만 교수자 AI 역량에 도달한다

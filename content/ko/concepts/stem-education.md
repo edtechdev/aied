@@ -10,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,8 @@ ai_assist:
 ## 들어가며
 
 ### 주요 AIED 영역으로서의 STEM
+
+학문 분야 섹션은 과목 페이지를 네 개의 군집 — [[humanities-education|인문학과 예술]], [[social-sciences-education|사회과학]], STEM, [[professions-education|전문직]] — 으로 분류하며, STEM은 큰 격차로 그중 가장 큽니다. 이는 AI 교육 증거가 어디에 축적되는지를 보여 주는 하나의 발견입니다.
 
 - **수학:** [[math-education|수학 교육]] 연구는 [[generative-ai-reduced-study-time-math|수학 학습에 대한 생성형 AI의 영향]], [[ai-powered-personalized-learning-elementary-fractions-2026|초등 분수 튜터링]], [[student-math-competence-clustering|역량 군집화]]를 아우릅니다.
 

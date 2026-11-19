@@ -22,7 +22,7 @@ ai_assist:
     date: "2026-10-11"
     agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 ---
 
@@ -48,6 +48,13 @@ translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 
 
 가장 명시적인 설계 어휘는 Thapa and Lewis에게서 나옵니다. 그들의 네 가지 약속이 논증을 과제 설계로 끌고 갑니다. 성찰적 정당화, 단계적 과제 설계, 대화적 참여, 평가적 투명성이 그것입니다. 실천에서 학생들은 결론만 제시하는 대신 해석적 결정들을 설명하고, 검증점을 거치며 발전하는 작업을 제출하고, 자신의 추론에 관한 [[oral-assessment|구술 또는 대화적]] 교환에 참여하며, 자신이 직접 적용할 수 있는 기준에 따라 일합니다. 이는 [[feedback-literacy|피드백 리터러시]]와 [[self-assessment]]의 영역입니다. Boysen(2026)의 개방 학습 실천 제안은 같은 논리를 감사 추적(audit trail)으로 옮깁니다. 프로젝트가 시작되기 전에 세워지는 공유된 학습 계획, 필수 및 금지된 출처를 명명하는 학습 분석 계획, 그리고 작업 과정을 드러내고 각 수정에 무엇이 정보를 제공했는지 설명하는 문서화된 초안과 버전 이력입니다. 이는 Track Changes와 저장된 파일 버전을 통해 보존됩니다. 그는 이것을 가시화된 [[self-regulated-learning|자기 조절]]로 규정합니다.
 
+Alam과 Jackson의 재설계는 같은 약속들을 하나의 모듈에 담습니다. 런던 퀸 메리 대학교(Queen Mary University of London)의 1학년 비즈니스 분석가 학위 도제생 23명이 스스로 구성한 11개 팀으로 나뉘어, 미리 정해진 세 제목에서 뽑은 1,500단어 에세이를 작성했습니다. 최소 두 번의 문서화된 발전 단계가 요구되었고, 반복과 협업은 단지 권장되는 것이 아니라 채점 기준에 명시되었습니다. 생성형 AI는 과제가 정한 경계 안에서 허용되었습니다. 생성된 텍스트의 제출 금지, 문법 도구의 다시쓰기 기능 금지, AI가 형식을 맞춘 참고문헌 목록 금지가 그것입니다. 저자들은 이것을 측정된 효과가 아니라 첫 실행에서 나온 실천 기반 통찰로 제시합니다([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
+Ahmed와 Shehata는 같은 논리를 하나의 틀로 가져갑니다. AI 통합 프로그램적 평가는 같은 구성 개념에 대해 같은 난이도의 두 과제를, 하나는 AI 없이 하나는 AI와 함께 짝짓고, 그 사이의 격차를 오케스트레이션 증거와 나란히 부정행위 표지가 아니라 발달 신호로 읽습니다([[ahmed-ai-programmatic-assessment-cognitive-development-2026|Ahmed & Shehata (2026)]]).
+
+Francis, Rutherford와 Smith는 같은 약속을 채점 가능한 구조로 바꿉니다. PACE는 다섯 과정 영역을 순응에서 비평까지 이어지는 4단계 주체성 척도로 채점하고, 과정과 산출물을 별도의 결과로 유지하여, 비판 없는 의존 위에 세워진 잘 다듬어진 산출물이 유능하다고 점수받을 수 없게 합니다([[francis-pace-framework-genai-assessment-2026|Francis 외(2026)]]).
+
+두 번째 구조적 답은 Webb-Davies, Ratner와 Bassett에게서 나옵니다. 그들의 음성 우선 쓰기 평가(Voice-First Written Assessment)는 하나의 인증된 기준선을 확보하고 그 이후의 모든 것을 그 기준선에 비추어 해석합니다. 1단계는 관찰되고 채점되지 않으며 양식이 열려 있습니다. 2단계는 집에서 [[generative-ai|AI]]를 제한 없이 사용하며 작성하고, 학생이 앞선 추론을 어떻게 발전시켰는지를 기준으로 채점됩니다. 저자들은 그 야심을 최소한이라 부릅니다. 과정 산출물 포트폴리오가 아니라 하나의 검사점과 조건부 구술 심사입니다([[webb-davies-voice-first-written-assessment-2026|Webb-Davies 외(2026)]]).
+
 과정 증거를 위해 선택된 채널은 무엇이 증거될 수 있는지를 바꿉니다. 같은 79명 학생의 생성형 AI 연구에서, 더 높은 깊이의 감시와 계획은 독백(think-aloud) 단위에서 더 흔했고 더 높은 깊이의 조절은 상호작용 로그에서 더 흔했으므로, 어떤 단일 기록도 전체 과정을 포착하지 못합니다([[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]]). 흔적이 점수와 완전히 달라질 수도 있습니다. 150건의 학생-AI 대화에 걸쳐 41%가 정확히 1.00의 과제 점수를 지녔으나 관찰 가능한 인지 참여는 달랐으므로, 같은 점수가 다른 과정을 숨길 수 있습니다([[epistemic-ownership-ai-mediated-education-2026|Fábrega, 2026)]]). DraftTrace는 AI 통합 글쓰기에 대해 같은 문제에 답합니다. 키스트로크 수준의 과정 측정을 최종 산출물과 AI 상호작용 흔적에 정렬하여, 복사-타자(copy-typing)는 산출물과 과정을 함께 읽을 때만 식별 가능함을 보입니다([[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]]). 이는 이 분야가 여전히 갖추지 못한 행동 흔적 측정의 구체적 사례입니다.
 
 실천자와 틀의 설명들이 산출물들을 채워 줍니다. Uden과 Hwang(2026)의 LEARN 틀은 [[problem-based-learning|문제 기반 학습]] [[assessment]]를 대상으로, 과정 중심 루브릭, 구술 정당화, 단계적 제출, 그리고 [[ai-use-disclosure|AI 사용 공개]]와 함께한 추론 흔적을 요구하고, 학습 저널과 독백 프로토콜을 통한 성찰을 그 흐름의 [[metacognition|메타인지]] 엔진으로 다룹니다. Moganadas와 동료들(2026)은 AI 투명한, 과정 중심 평가를 연구 가능한 다섯 제안 중 하나로 삼아, 금지나 탐지기 사용이 아니라 문서화, 검증, 성찰적 정당화를 요구합니다. Padhy(2026)는 수정 이력, 상호작용 패턴, 과제 수행 시간의 포착을 투명한 공개와 짝지어 권고합니다. Goldstein, Marae-Haj와 Zidan(2026)은 [[trust]] 위기 이후 실천에서 같은 산출물들이 나타난다고 보고합니다. 프롬프트 기록, 문서 버전 이력, 감시된 집단 기여, 그리고 물리적 공책에 보관된 성찰적 "여정 저널(journey journals)"이 그것이며, 과제형 쓰기가 더는 학습을 증거할 수 없다는 평범한 발견도 함께 나타났습니다.
@@ -60,6 +67,8 @@ translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 
 
 **과정 흔적은 학습자가 과제에 비추어 읽을 때만 되먹임입니다.** [[xian-process-visualization-feedback-news-translation-2026|Xian 외(2026)]]는 번역 학생 11명에게 Inputlog와 화면 녹화 [[visualization|시각화]] 및 한 번의 30분 성찰 세션을 제공했습니다. 의미 수준 수정의 비중은 18.1%에서 28.4%로 올랐고(t(10) = 4.259, p = 0.002) 총 수정 횟수는 유의미하게 변하지 않아 1,292.91에서 1,052.36으로 줄었습니다(p = 0.248). 흔적은 학생이 더 많이 편집하게 하지 않았고 다르게 편집하게 했으며, 이것이 과정 증거를 옹호하는 하나의 결과입니다.
 
+그 위험에 대한 가장 명확한 진술은 Winstone, Gravett와 Elkington에게서 나옵니다. 그들은 오류를 함께 가치 있게 다루지 않는 과정 평가는 "연기적이 될 위험이 있으며, 학생들이 사후에 선별된 발전 설명을 곁들인 잘 다듬어진 산출물을 제시하도록 부추긴다"고 주장합니다. 그들의 대응은 실수와 방향 전환을 그 자체로 평가에서 인정받도록 만들어, 과정 증거가 사후에 들려주는 이야기가 아니라 대가를 치른 결정의 흔적이 되게 하는 것입니다([[black-box-assessment-winstone-2026|Winstone 외(2026)]]).
+
 
 
 ## 진정성 및 채점과 다른 축
@@ -68,7 +77,7 @@ translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 
 
 Salameh(2026)의 페이드-가시성 매트릭스는 같은 설계 질문에 두 번째 변수, 즉 [[scaffolding|AI 지원이 지속되는지 사라지는지]]를 교차시키고, 대부분의 강좌가 기본값으로 삼는 조합, 결코 사라지지 않는 지원을 산출물로만 평가하는 조합을 '조용한 의존'이라 명명합니다([[salameh-critical-thinking-crisis-higher-ed-review-2026|Salameh, 2026]]).
 
-이 구성 개념은 증거가 어떻게 채점되는지의 문제와도 구분됩니다. 둘이 만나는 곳은 [[assessment-validity|타당성]] 추론입니다. Brunnström과 Palmqvist(2026)는 [[conversational-ai|챗봇]]이 그럴듯한 시험 답안을 생산할 수 있을 때, 제출된 산출물이 학생이 배운 것의 더 약한 지표가 된다고 주장합니다. 이는 [[academic-integrity|진실성]] 문제이기 이전에 평가 타당성 문제입니다. 이것은 Yan, Greiff, Lodge와 Gašević의 [[genai-performance-vs-learning|수행 대 학습]] 논증에서 위험에 처한 바로 그 추론입니다. 도움이 철회되면 줄어드는 [[learning-gains|수행 이득]]은 이득이 학습자가 아닌 도구 안에 살고 있음을 보여주며, 제안된 해법은 즉각적인 과제 성공이 아니라 [[transfer-of-learning|보유와 전이 시험]] 같은 과정 측정입니다.
+이 구성 개념은 증거가 어떻게 채점되는지의 문제와도 구분됩니다. 둘이 만나는 곳은 [[assessment-validity|타당성]] 추론입니다. Brunnström과 Palmqvist(2026)는 [[conversational-ai|챗봇]]이 그럴듯한 시험 답안을 생산할 수 있을 때, 제출된 산출물이 학생이 배운 것의 더 약한 지표가 된다고 주장합니다. 이는 [[academic-integrity|진실성]] 문제이기 이전에 평가 타당성 문제입니다. 이것은 Yan, Greiff, Lodge와 Gašević의 [[genai-performance-vs-learning|수행 대 학습]] 논증에서 위험에 처한 바로 그 추론입니다. 도움이 철회되면 줄어드는 [[learning-gains|수행 이득]]은 이득이 학습자가 아닌 도구 안에 살고 있음을 보여주며, 제안된 해법은 즉각적인 과제 성공이 아니라 [[transfer-of-learning|보유와 전이 시험]] 같은 과정 측정입니다. [[performance-without-capability-genai-assessment-validity-2026|Kearney(2026)]]는 같은 추론을 인지적 책임과 과정 가시성이 독립적으로 변하는 2차원 틀로 밀어붙이며, 여기서 중요한 조합은 낮은 책임과 완전히 가시적인 과정의 짝입니다. 모형 산출물의 무비판적 수용을 문서화한 완전한 추론 흔적은 여전히 대체의 증거이며, 이는 과정 증거를 필요하지만 충분하지 않은 것으로 남깁니다.
 
 ## 탐지가 이 짐을 질 수 없는 이유
 
@@ -80,7 +89,7 @@ Salameh(2026)의 페이드-가시성 매트릭스는 같은 설계 질문에 두
 
 출처들은 이것이 비싸다는 점에서 이례적으로 솔직합니다. Thapa and Lewis는 형평성 주의를 직접적으로 밝힙니다. [[reflection|성찰적]]이고 대화적인 과제는 포용적으로 설계되고 [[scaffolding|스캐폴딩]]되지 않으면 학문적 자기 표현에 더 자신 있는 학생들을 특권화할 수 있고, 관계적이고 [[feedback|피드백 집약적인]] 작업은 크거나 자원이 제약된 환경에서 [[teacher-role|교육자]]들의 정서적이고 직업적인 노동을 강화하여, 확장성, 표준화, 측정 가능한 수행에 대한 기관의 기대와 모순됩니다. Sharma는 해석적 버전을 덧붙입니다. 문서화된 추론을 요구하는 것은 성찰적 담화에 더 능숙한 [[learners]]들을 특권화하며, 증거로서의 판단은 "기계적으로 검증 가능한 것이 아니라 관계적이고 상황에 놓인 채로 남습니다."
 
-운영 비용은 다른 곳에 항목화되어 있습니다. Boysen은 새로운 기술, 개정된 과제와 강의계획서, 학생들에게 낯선 기술을 가르치는 일, 그리고 수집하고 채점할 추가 자료를 들고, 과정에 대한 저위험 학점이 성적을 부풀릴 수 있다고 경고하며, 이 모델이 일상적 지식 습득 작업보다는 대규모 기술 개발 프로젝트에 훨씬 더 잘 맞는다고 인정합니다. 그는 또한 과정 추적이 일부 비평가들이 AI 감시라고 부르는 것임을 지적합니다. Goldstein, Marae-Haj와 Zidan의 참가자들은 과정 문서화를 확립하는 데 실제 작업이 들었다고 보고했고, 13개 중 9개의 지원된 고급 도구를 [[digital-divide|디지털 격차]]를 심화할 수 있는 방식으로 자기 돈으로 구입했으며, 여러 사람이 [[summative-assessment|감독 시험]]과 구술 논문 방어로 회귀했습니다. [[equity-in-ai-education|형평성]] 우려는 Brunnström과 Palmqvist의 발견에서 AI 고유의 날카로움을 갖습니다. 안내받지 못한 도구 사용은 고르게 분포하지 않은 상호작용 관리 기술을 요구하므로, AI는 "이미 유리한 학생들에게 가장 큰 도움이 될 수 있다"는 것입니다. 이것은 학생에게 문서화된 과정을 관리하도록 요구할 때 따르는 같은 분배적 위험입니다. Lopez-López, Bru-Cordero와 Correa-Álvarez(2026)는 더 많은 독립 학습 시간을 투자한 학생들이 AI 사용을 더 엄격하게 판단한다는 것을 발견하고, 공개 템플릿, 구술 변론, 과정 기반 평가가 [[ethics|윤리]]적 불확실성을 줄이는지 시험할 것을 권고합니다. 이는 이 분야가 여전히 필요한 연구입니다. 위험은 과정 증거를 작동하게 만드는 메커니즘에 붙어 있습니다. 협업, 수정, 성찰이 채점되는 곳에서, 학생들은 채점자가 원할 것이라 예상하는 것과 부합하는 증거를 생산할 이유를 가지므로, 과정 기록은 증거가 아니라 연기가 될 수 있습니다([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026)]]).
+운영 비용은 다른 곳에 항목화되어 있습니다. Boysen은 새로운 기술, 개정된 과제와 강의계획서, 학생들에게 낯선 기술을 가르치는 일, 그리고 수집하고 채점할 추가 자료를 들고, 과정에 대한 저위험 학점이 성적을 부풀릴 수 있다고 경고하며, 이 모델이 일상적 지식 습득 작업보다는 대규모 기술 개발 프로젝트에 훨씬 더 잘 맞는다고 인정합니다. 그는 또한 과정 추적이 일부 비평가들이 AI 감시라고 부르는 것임을 지적합니다. Goldstein, Marae-Haj와 Zidan의 참가자들은 과정 문서화를 확립하는 데 실제 작업이 들었다고 보고했고, 13개 중 9개의 지원된 고급 도구를 [[digital-divide|디지털 격차]]를 심화할 수 있는 방식으로 자기 돈으로 구입했으며, 여러 사람이 [[summative-assessment|감독 시험]]과 예정된 구술 논문 방어로 회귀했습니다. [[equity-in-ai-education|형평성]] 우려는 Brunnström과 Palmqvist의 발견에서 AI 고유의 날카로움을 갖습니다. 안내받지 못한 도구 사용은 고르게 분포하지 않은 상호작용 관리 기술을 요구하므로, AI는 "이미 유리한 학생들에게 가장 큰 도움이 될 수 있다"는 것입니다. 이것은 학생에게 문서화된 과정을 관리하도록 요구할 때 따르는 같은 분배적 위험입니다. Lopez-López, Bru-Cordero와 Correa-Álvarez(2026)는 더 많은 독립 학습 시간을 투자한 학생들이 AI 사용을 더 엄격하게 판단한다는 것을 발견하고, 공개 템플릿, 구술 변론, 과정 기반 평가가 [[ethics|윤리]]적 불확실성을 줄이는지 시험할 것을 권고합니다. 이는 이 분야가 여전히 필요한 연구입니다. 위험은 과정 증거를 작동하게 만드는 메커니즘에 붙어 있습니다. 협업, 수정, 성찰이 채점되는 곳에서, 학생들은 채점자가 원할 것이라 예상하는 것과 부합하는 증거를 생산할 이유를 가지므로, 과정 기록은 증거가 아니라 연기가 될 수 있습니다([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 
 ## 해결되지 않은 것들
 
@@ -113,6 +122,7 @@ Thapa and Lewis의 설명은 개념적입니다. 참가자도, 데이터 수집�
 
 ## 연결된 문서
 
+- [[ahmed-ai-programmatic-assessment-cognitive-development-2026]] — 세 가지 증거 흐름, 짝지은 과제 쌍, 메타 역량으로서의 오케스트레이션
 - [[alam-process-oriented-collaborative-essays-2026]] — 1학년 학위 도제 과정에서 채점되고 협업하여 쓰인 과정 에세이: 루브릭에서의 반복과 협업, 명시된 경계 안에서 허용되는 생성형 AI (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — 수행은 학습이 아니다: 과정 측정에 기반한 연구 의제 (Yan et al. 2026)
 - [[human-centered-ai-teacher-educators-2026]] — 정당화와 성찰에 기반한 AI 저항적, 과정 기반 과제를 요구하는 교사교육자들 (Baran et al. 2026)
@@ -132,3 +142,7 @@ Thapa and Lewis의 설명은 개념적입니다. 참가자도, 데이터 수집�
 - [[rubrics-genai-process-based-assessment-2026]] — Biggs 3P 모형에서 나온 세 루브릭 차원: 주체성과 감독, 대화적 비계, 인지적 주권(Oviedo와 Díaz 2026)
 - [[jelson-students-chatgpt-essay-writing-2026]] — CodeMirror 편집기와 기록된 채팅 패널이 한 에세이 세션을 과정 증거로 바꾸었고, 타이핑 대 사고의 한계를 드러냈다(Jelson 외 2026)
 - [[xian-process-visualization-feedback-news-translation-2026]] — 과정 시각화와 한 번의 성찰 세션이 편집량을 늘리지 않고 수정을 표면에서 의미 수준으로 옮겼다
+- [[webb-davies-voice-first-written-assessment-2026]] — 관찰 아래 추론을 확보한 뒤 집에서 작성한 제출물을 채점하는 2단계 쓰기 평가, 연결이 불분명할 때는 조건부 구술 심사 (Webb-Davies, Ratner & Bassett 2026)
+- [[black-box-assessment-winstone-2026]] — 블랙 박스 평가: 과정 창, 증거로서의 오류, 가시성을 통한 진실성 (Winstone, Gravett & Elkington 2026)
+- [[francis-pace-framework-genai-assessment-2026]] — PACE: 4단계 주체성 척도로 과정 채점하기 (Francis 외, 2026)
+- [[performance-without-capability-genai-assessment-validity-2026]] — 가시적 과정이 여전히 대체를 문서화할 수 있는 이유를 설명하는 2차원 틀(인지적 책임, 과정 가시성)

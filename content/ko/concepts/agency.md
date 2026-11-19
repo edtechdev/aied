@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,7 @@ ai_assist:
 - **[[collaborative-learning|협동 학습]]:** [[human-ai-collaboration]] [[research-methods-aied|연구]]는 인지 과제가 학습자와 AI 사이에서 어떻게 공유되는지를 검토하며, 주체성은 인간이냐 AI냐가 상호작용을 지휘하는지를 결정합니다.
 - **공유된 인식론적 주체성은 학생–GAI 상호작용으로 확장됩니다.** 6,788개의 ChatGPT 보조 발화를 코딩한 14범주 체계는 7학년 학생 발화의 59%를 공유된 인식론적 주체성에 배치했고, 저자들은 이 구성개념이 — 이전에는 주로 또래 협동에서 연구되었으나 — 인지적·메타인지적 차원을 포함하도록 넓어져야 한다고 주장합니다([[chang-shared-epistemic-agency-gai-scientific-writing-2026|Chang 외, 2026]]).
 - **주체성은 프롬프트 자체에서 등급화될 수 있습니다.** Human Agency Depth Taxonomy는 AI의 산출과 무관하게 학생의 공학 기여를 여섯 단계로 점수화합니다. 105명의 1학년 소프트웨어 공학 학생이 제출한 962개의 프롬프트 가운데 84.2%가 최하위 단계를 넘었지만, 시스템 제약을 명시한 것은 5.3%뿐이었습니다([[shakiba-human-agency-depth-taxonomy-2026|Shakiba & Chaffey, 2026]]).
+**개별화는 대체로 저자성이 아니라 선택을 배분합니다.** 63개 보고서에 담긴 61개 연구에서, 학습자 주도 통제는 46개(75.4%)에서 코딩되었습니다 — 학생들이 시점, 초점, 프롬프트, 속도를 선택했습니다 — 반면 목적 제작 또는 강좌 맞춤형 시스템은 10개(16.4%), 시스템 주도 적응형 개인화는 5개(8.2%), 교육자 설계 차별화는 1개에 나타났습니다. 그 증거에 비추어 "개인화된" 학습은 대개 다른 누군가가 설계한 공간 안에서 조종하는 것을 뜻하며, 이는 조건에 대한 주체성이 아니라 선택으로서의 주체성입니다. 이 고찰은 또한 빈도를 크기로 읽는 것에 경고합니다. 어떤 주제가 39개 연구에 나타난다는 것은 그 효과가 얼마나 크거나 일관적인지에 대해 아무것도 말해 주지 않습니다([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]).
 
 - **비판적 [[student-engagement|참여]]:** [[cognitive-offloading|인지적 부담 전가]] 연구는 해석을 AI에게 위임하는 학생이 자신의 추론에 대한 주체성을 어떻게 잃을 수 있는지를 보여 줍니다. 비판적이고 [[metacognition|메타인지적]] 접근은 그것을 보호하는 것을 목표로 합니다.
 

@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,7 @@ ai_assist:
 
 ### SEL이 연구에 나타나는 방식
 
+- **공감은 SEL의 정서적 측면이자, 평가하기 가장 어려운 대상입니다.** [[empathy]] 문서는 그것을 가르치고 측정하는 일에 관한 증거를 다룹니다. 역할극, VR, LLM 대화는 모두 자기 보고 점수를 높이고, 관찰자 평정은 일관성을 유지하며, 컴퓨터 비전 대리 지표는 미소 앞에서 반대로 뒤집힙니다. 공감 향상을 프로그램이 작동했다는 증거로 취급하기 전에 그 증거를 읽으십시오.
 - **AI 리터러시에 SEC 통합하기:** [[sec-ai-literacy-narrative-review-2026|The narrative review by Palmquist et al.]]는 AI 리터러시와 사회정서 역량을 결합한 통합 틀을 제안하며, 기술적 숙련도만으로는 불충분하다고 논증합니다. 교육자와 학생 모두 AI가 매개되는 학습 환경을 항해하기 위해 기술적 지능과 정서적 지능이 모두 필요하며, 이는 [[personalized-learning|personalized learning]], 협력, 윤리적 [[student-engagement|engagement]]를 촉진합니다.
 - **교사와 관계적 실천:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|AI literacy frameworks]]과 [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|teacher-student trust]]에 관한 연구는 SEL이 학습의 관계적 차원들(교사–학생 관계와 학생–학생 관계)을 뒷받침하며, AI가 그것을 보완해야지 대체해서는 안 된다고 강조합니다.
 - **교수법적 에이전트가 SEL에서 나를 수 있는 것과 나를 수 없는 것.** 맹점 평가된 관찰 108건에 걸쳐, 생성 AI [[pedagogical-agent|교수법적 에이전트]]는 존중하는 어조와 일상적인 절차적 비계를 유지하는 데 교육자보다 더 일관적이었으나, 성찰을 안내하고 사회정서적 지식을 촉진하는 데서는 교육자에게 뒤졌습니다. 이는 대체가 아닌 노동 분업을 뒷받침합니다([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026]]).

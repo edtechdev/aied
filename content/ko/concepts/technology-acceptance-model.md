@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ TPB는 태도, 주관적 규범, 인지된 행동 통제를 통해 의도를 설
 ### 확산 이론 (DOI)
 Rogers의 DOI 이론은 도입을 혁신이 시간에 걸쳐 인구를 통해 확산되는 사회적 과정으로 설명하며, 혁신 속성(상대적 이점, 적합성, 복잡성, 시도 가능성, 관찰 가능성)과 수용자 범주를 강조합니다. 이는 이 지식베이스의 [[governance|제도]] 수준 분석에 등장합니다. 예를 들어 [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]]는 기술-조직-환경(TOE) 틀을 DOI와 결합하여 사우디 대학의 조직적 AI 도입을 모형화합니다.
 
+학생 수준에서, [[gocyla-genai-adoption-diffusion-2026|Gocyła와 Strzelecki (2026)]]는 상대적 이점, 적합성, 단순성, 관찰 가능성이 GenAI 사용 의도를 예측하여 분산의 48.7%를 설명하는 반면, 시도 가능성은 그렇지 못했음을 발견했습니다(f² = 0.001). 무료 접근은 시도를 차별화 요인이 아니라 기본 기대치로 만들 수 있습니다.
+
 ### 기술-조직-환경 (TOE)
 
 TOE는 도입이 기술적, 조직적, 환경적 맥락에 의해 형성된다고 규정합니다. 개인 수준 TAM/UTAUT에 대한 보완으로, 제도적 도입을 연구하는 데 쓰입니다([[alrahmi-org-drivers-ai-adoption-he-2026]] 참조).
@@ -86,6 +88,8 @@ TOE는 도입이 기술적, 조직적, 환경적 맥락에 의해 형성된다�
 
 교수진 22명을 대상으로 한 두 차례 인터뷰 연구에서 AI를 더 많이 알게 된 것이 수용을 높이기보다 일부를 더 신중하게 만들었으며, 이는 경험에서 사용 용이성으로 향한다는 모형의 가정된 방향을 뒤집습니다([[stalboerger-faculty-perceptions-2026|Stalboerger 등, 2026]]).
 
+깔끔한 인터페이스 승리조차 의도를 움직이지 않을 수 있습니다. 18~25세 성인이 근거 기반 챗봇 또는 프로그램 웹사이트로 대학 프로그램 정보를 찾은 연구에서, 모든 지각 측정은 챗봇 쪽이었지만 재사용 행동 의도는 다르지 않았고, 기술 준비도가 우위의 크기를 조절하여 도구에 가장 불편함을 느끼는 사용자들이 가장 적은 이득을 얻었습니다([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]]).
+
 ## 한계와 확장
 
 TAM의 인지적 초점은 또한 AI 사용의 정서적·관계적 차원을 충분히 포착하지 못합니다. 간호학 학생과 교수를 대상으로 한 [[akbaba-nursing-ai-experiences-tam-2026|질적 연구]]는 네 고전 TAM 구성개인과 더불어, 참가자들 — 주로 학생들 — 이 AI를 심리사회적 지원의 원천으로 기술했다는 것을 발견했습니다. 스트레스 중의 정서적 위안과 반성을 위한 비밀스러운 공간입니다. 이는 인지된 유용성을 수행 향상 너머 [[well-being]]까지, 고강도 [[professional-training|전문 훈련]]의 차원에서 확장하며, 도입 모형이 도구적 효용만이 아니라 정서적·심리사회적 요인에도 주목해야 한다고 제안합니다.
@@ -96,6 +100,7 @@ TAM의 인지적 초점은 또한 AI 사용의 정서적·관계적 차원을 �
 
 최근의 한 확장은 방향을 뒤집어, [[discipline-specific-aied|교과 특정]] 동기 신념을 TAM 지각 옆이 아니라 그 상류에 놓습니다. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]는 효용 가치가 인지된 유용성을 β = 0.43으로, 성공 기대가 사용 용이성을 β = 0.39로 예측하는 반면, 핵심 TAM 경로는 약화되지만 유의하게 남는다고 보고합니다.
 
+**유용성은 도구가 아니라 과업 집합에 속할 수 있습니다.** STEM 학부생 26명을 대상으로 한 네 번의 포커스 그룹에서, 같은 토론 게시판이 프롬프트가 적용을 요구하거나 동급생들이 어떻게 추론했는지를 보여 줄 때는 시간을 쓸 가치가 있었고, 재진술을 요구할 때는 헛수고였습니다([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner and Nugent, 2026]]). 저자들은 결론을 TAM 주장으로 진술합니다. 인지된 유용성은 게시판의 존재가 아니라 프롬프트가 어떻게 구성되었는지에 달라붙습니다.
 
 **병렬 경로로서의 과업–기술 적합성, 그리고 별개의 질문으로서의 필요성.** 위의 확장 대부분은 신념 모형 *안에* 구성개념을 더합니다. TAM 연구가 좀처럼 다루지 않는 형제 틀이 과업–기술 적합성(Task–Technology Fit)이며, 이는 도구의 역량이 특정 과업의 요구와 맞는지를 묻습니다. [[chu-design-students-ai-agent-tam-ttf-2026|Chu and Liu (2026)]]는 중국 대학의 디자인 대학원생 405명에게 두 틀을 결합했고, 적합성은 유용성의 결정요인이 아니라 태도로 들어가는 두 번째 경로로 작동했습니다.
 
@@ -107,6 +112,7 @@ TAM의 인지적 초점은 또한 AI 사용의 정서적·관계적 차원을 �
 
 이어서 필요 조건 분석이 영향력과 요구를 분리했습니다. 최상위 예측변수인 사용 용이성은 완전히 실패했습니다(d = 0, p = 0.592). 유용성은 필요했지만 작았습니다(d = 0.027, p = 0.011). 저자들은 이 분리를 경로 계수를 하한으로 다루지 말라는 경고로 읽습니다. 강한 계수는 사용 용이성 한 단위가 평균적으로 의도를 산다는 것을 말하지만, 다른 신념이 없을 수 있는지를 말하는 것은 필요성뿐입니다.
 
+**신뢰를 거쳐 가는 설계 특징, TAM과 나란한 DOI.** [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]]는 학습자 653명을 대상으로 [[ai-avatars-and-synthetic-instructors|AI 아바타]]에 관해 설문하여, 결합된 TAM–DOI 모형에서 가장 강한 경로가 인지된 투명성에서 [[trust|신뢰]]로 이어짐을 발견했습니다(β = 0.542). 상대적 이점(β = 0.267)과 인지된 유용성(β = 0.247)이 태도(β = 0.126)보다 더 많이 의도를 실어 날랐습니다.
 
 위험과 사용의 연결은 체계에 따라서도 다릅니다. 해당 문항을 시행한 TALIS 2024 체계 49개에 걸쳐, 인지된 AI 유용성은 49개 모두에서 AI 사용에 양으로 연관되었으나, 인지된 위험은 40개에서는 음으로, 9개에서는 양으로 연관되었습니다([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
@@ -138,6 +144,7 @@ TAM의 인지적 초점은 또한 AI 사용의 정서적·관계적 차원을 �
 
 ## 연결된 문서
 
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — AI 아바타를 위한 TAM + DOI: 투명성 → 신뢰(β = 0.542), 상대적 이점과 유용성이 의도를 실어 나른다
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — "적이자 친구"로서의 GenAI: 인공 자율성과 위험 회피가 교사를 위한 TAM을 확장하다 (Dai et al. 2026)
 - [[akbaba-nursing-ai-experiences-tam-2026]] — 간호학의 AI 경험; TAM의 심리사회적 확장
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — 군집화를 통한 GenAI 도입 페르소나
@@ -173,4 +180,6 @@ TAM의 인지적 초점은 또한 AI 사용의 정서적·관계적 차원을 �
 - [[pinedo-genai-adoption-marketing-students-2026]] — 이미 도입한 집단에서 습관이 UTAUT2를 떠받친다
 
 - [[stalboerger-faculty-perceptions-2026]] — 교수진 22명, 후속 12명: 익숙해짐이 일부에게는 윤리적 검토를 강화해 사용 용이성의 방향을 뒤집었다(Stalboerger 등 2026)
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — 토론 게시판에 대한 학생 인식: AI 기반 학습 분석 설계를 위한 기술 수용 모형 연구
+- [[ai-conversational-interfaces-information-seeking-2026]] — 챗봇은 웹사이트보다 프로그램 질문에 빠르고 정확하게 답했다. 답이 특정 연락처인 경우는 제외
 

@@ -13,7 +13,7 @@ connected_faqs: [ai-support-reading-comprehension]
 confidence: medium
 updated: "2026-11-11T07:40:00-05:00"
 translation_of: "concepts/reading-education"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,10 @@ ai_assist:
 
 이 갈래는 측정이 풍부하고 결과가 빈약합니다. 검증된 도구(AIR), 검증된 난이도 모형(CLARA, Bird), 그리고 생성 및 단순화 도구의 성장하는 집합이 있습니다. 읽기 개입을 이해 향상에 연결하는 통제 연구는 매우 적고, 평가 연구 중 여럿은 지문 출처를 전달 방식이나 감독과 혼동합니다. 표본 크기도 작습니다. 읽기 평가 사례에서는 학생 53명, 맞춤형 읽기 자료 연구에서는 24명, 가장 큰 준실험에서는 7학년 200명입니다. 지식 베이스는 확립된 효과가 아니라 설계 공간을 기록한 것으로 읽어야 합니다.
 
+초등 저학년 유창성은 지금까지의 예외입니다. 한 학교에서 6주 동안 주당 최소 10분을 기록한 1·2학년 학생들은 저용량 또래보다 더 큰 향상을 보였습니다(g = 0.56). 이는 시험이 아니라 용량 대비입니다([[burns-ai-tutor-reading-growth-2026|Burns and Morton (2026)]]).
+
+[[kreijkes-llm-note-taking-reading-comprehension-2026|Kreijkes와 동료들(2026)]]은 잉글랜드의 7개 중등학교에 걸친 10학년 학생 344명을 대상으로 한 사전 등록 실험에서 챗봇이 독자를 돕는지 검사했습니다. 각 학생은 두 개의 역사 지문을 LLM과 함께, 노트 필기와 함께, 또는 둘 다와 함께 읽었습니다. 3일 후, 노트 필기 단독은 문자적 유지(d = 0.44), 이해(d = 0.38), 자유 회상(d = 0.21)에서 LLM을 앞섰습니다. LLM + 노트는 앞의 둘에서는 일부 격차를 회복했으나 자유 회상에서는 그렇지 못했습니다(beta = -0.08, p = .854). 학생들은 LLM이 더 쉽고, 더 도움이 되며, 더 즐겁다고 평정하면서도 점수는 더 낮았고, 결합 조건의 학생 중 25.63%는 그 표현의 70% 이상을 자신의 노트에 베꼈습니다.
+
 ## 흔한 오해
 
 - **"이독성 점수는 텍스트가 적절한지 알려 줍니다."** 점수는 표면적 특징을 측정합니다. CLARA와 FKGL의 비교, 그리고 Clark 등의 처리 특징 연구는 모두 그것이 난이도의 얼마나 많은 부분을 남겨 두는지 보여 줍니다.
@@ -123,3 +127,4 @@ ai_assist:
 - [[airri-machine-resistant-reading-interface-2026]] — 기계 저항형 읽기 인터페이스와 그 이독성 비용
 - [[chatgpt-feedback-orientation-chinese-reading-2026]] — 중등 읽기에서의 ChatGPT 피드백
 - [[dabaghi-ai-dyslexia-education-review-2026]] — 난독증 학습자를 위한 AI
+- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — 중등학교에서의 LLM 사용, 노트 필기, 읽기 이해: 무작위 비교

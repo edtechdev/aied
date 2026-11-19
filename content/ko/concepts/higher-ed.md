@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-18T05:55:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -62,11 +62,23 @@ ai_assist:
 
 ### 대학원 및 전문 교육
 
-지식베이스는 학부 학습에 크게 치우쳐 있으며, 대학원 및 전문 준비는 [[discipline-specific-aied|전공 분야]] 페이지([[medical-education|의학 및 보건 전문직 교육]], [[business-education|경영 교육]], [[teacher-education|교사 교육]]) 안에 두고 별도의 대학원 교육 페이지를 두지 않습니다. 그럼에도 두 갈래가 석사, 박사, 전문 학생에게 구체적으로 관련됩니다. 연구 훈련과 전문 학위 과정입니다.
+지식베이스는 학부 학습에 크게 치우쳐 있으며, 대학원 및 전문 준비는 [[discipline-specific-aied|전공 분야]] 페이지([[medical-education|의학 및 보건 전문직 교육]], [[business-education|경영 교육]], [[teacher-education|교사 교육]]) 안에 두고 별도의 대학원 줄기로 다루지 않습니다. 그럼에도 두 갈래가 석사, 박사, 전문 학생에게 구체적으로 관련됩니다. 연구 훈련과 전문 학위 과정입니다.
+
+이 세분화는 이제 자체 페이지를 가집니다: [[undergraduate-education|학부 교육]]은 대규모 수강, 입문 강좌 증거를 담고, [[graduate-education|대학원 교육]]은 지도, 연구 훈련, 전문 과정 증거를 담습니다. 기관 및 교수자 수준의 그림은 두 수준 모두에 걸쳐 적용됩니다.
 
 대학원 *연구* 실천이 둘 가운데 더 두드러집니다. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai와 Chan(2026)]]은 일곱 개의 포커스 그룹에 걸친 대학원 연구 학생 28명이 GenAI 지원 연구에서 [[ai-literacy]]를 어떻게 실행하는지를 분석하고, 이들이 수동적 수용자가 아니라 보정된 사용자임을 발견했습니다. 즉 인지된 위험도와 학문적 규범에 따라 도구를 과제에 맞추고, [[human-in-the-loop-ai|인간 감독]]을 유지하며, 허용되는 초안 도움과 자신의 추론의 대체 사이에 스스로 경계를 긋는다는 것입니다. 이들의 중심 발견은 정책 공백입니다. 기관의 GenAI 지침은 [[teacher-role|교수]], 학습, 평가를 다루지만 연구 과정에 관해 거의 말하지 않으므로, 저자들은 [[scaffolding|스캐폴딩]]을 [[research-methods-aied|연구자]]와 지도 교수를 위한 연구 작업 흐름 전반에 AI 리터러시의 각 차원에 걸쳐 제공하는 연구자 지향 지침을 제안합니다. [[engagement-intensity-learner-modeling|Oh, Talton과 Bui(2026)]]는 같은 집단을 기관 측면에서 접근합니다. 필수 연구 윤리 과목의 생명과학 대학원생과 박사후 연구원 93명 가운데, 수업 전 세 가지 간단한 행동 신호가 적응형 AI [[ethics]] 교수를 위한 가벼운 입학 프로파일링에 정보를 주었으며, 선행 AI 수업은 다섯 가지 인식 결과 가운데 어느 것도 예측하지 못했습니다. AI는 연구 팀 자체도 다시 규정하고 있습니다. [[ai-assisted-writing-research-teams|147,074편의 출판물 분석]]은 2020년 이래 AI 지원 글쓰기가 더 작고 후배가 적은 팀이 고인용 연구를 만들어 내는 것과 관련되며, 이는 수십 년간 이어진 더 큰 협업을 향한 "빅 사이언스" 흐름을 뒤집는 것입니다. 그리고 [[persistent-ai-agents-academic-research|단일 연구자 사례 연구]]는 한 연구자 자신의 작업 흐름 안에서 지속적인 [[agentic-ai|에이전트]] 지원이 어떤 모습인지를 기록합니다.
 
 전문 학위 과정이 대학원 수준 증거의 대부분을 차지하며, 이는 학문별로 조직되어 있습니다. [[medical-education|보건 전문직 교육]]에서 [[ai-standardized-patient-scaffolding-medical-2026|3학년 의대생 100명을 대상 한 무작위 대조 시험]]은 시뮬레이션된 환자, [[socratic-method|소크라테스식]] 튜터, 발화 단위 평가자로 구성된 다중 에이전트 LLM 시스템을 검사했으며, 임상 면담 훈련을 위해 명시적인 [[scaffolding]] 기능을 중심에 두었습니다. [[ai-teammate-task-distribution-medical-training-2026|SCAN 틀]]은 훈련자의 AI 활용을 학습자의 *오용*이라기보다 과제 분배와 실시간 [[metacognition|메타인지]]적 분류의 문제로 재규정합니다. 석사 수준 준비는 [[instructional-design-proficiency-masters-math-2026|Zhu 외(2026)]]에 나타납니다. 이들의 D–T–E 모형은 세 LLM이 설계–피드백–성찰 순환에서 "지능형 검토자"로 작동하게 하여 [[math-education|수학]] 교육 M.Ed. 학생의 교수설계 역량을 향상시켰습니다(Cohen's *d* = 0.62). [[genai-professionalization-metaphors-2026|학생이 GenAI와 자신의 직업화를 어떻게 개념화하는가]]는 이런 과정들을 가로지르며, 직장과 계속 전문 학습은 대학원 학습과 인접하지만 구별되어 [[adult-learning]]과 [[professional-training]]에서 다룹니다.
+
+### 학부–대학원 간극
+
+사용 빈도는 간극에서 가장 정보가 적은 부분입니다. 측정하기는 가장 쉽지만 말입니다. [[torres-peralta-perceived-learning-engagement-homework-2026|Torres-Peralta 외(2026)]]는 대학생이 고등학생보다 ChatGPT를 더 자주 도입하며 공개와 정직성 우려를 더 쉽게 언급한다는 것을 발견했습니다. 다만 그들은 학교와 대학을 서로 다른 시기에 조사했으며, 그 결과를 발달적 진행이 아니라 기울기(gradient)라고 부릅니다. 도입률에 기반한 어떤 수준 비교에도 필요한 올바른 주의입니다.
+
+분포야말로 간극이 설계와 관련되는 지점입니다. [[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova 외(2026)]]는 대학원생이 일곱 척도 중 여섯에서 더 높음을 발견했습니다. AI 사용에서 d = 1.29, 윤리와 학업적 자율성에서 d = 1.47이었으며, 지각된 인지 부하는 변하지 않았습니다(p = .296). 윤리, 자기조절, 역량에서 대학원생의 표준편차는 학부생 값의 대략 3분의 1이었고, 사분위 범위는 척도 상단에서 압축되어 있었습니다. 대학원 집단은 AI 산출물을 판단하는 틀을 공유합니다. 학부 집단은 비판적 평가자와 그러한 성향을 거의 보고하지 않는 학생을 함께 담고 있으며, 그렇기 때문에 하나의 강좌 규칙이 첫 집단에는 맞고 둘째 집단의 일부는 빗나가는 것입니다.
+
+윤리 간극이 가장 넓고 가장 확실하지 않습니다. [[kumar-chatgpt-academic-assignments-2025|Kumar 외(2025)]]는 304명의 학생에 걸쳐 윤리적 인식이 자기보고 과제 성과를 β = −0.006(p = .924)으로 예측함을 발견하고, 이를 윤리가 점수가 아니라 행동을 형성한다는 것으로 읽었습니다. d = 1.47의 뒤에 있는 윤리 측정은 세 개의 자기보고 항목으로 이루어져 있고 행동 검증이 없으며, Zaripova의 저자들은 사회적 바람직성이 그것을 부풀릴 것으로 예상합니다. 따라서 수준 분할은 학생이 자신을 어떻게 제시하는지에 대한 서술로는 신뢰할 만하지만, 그들이 무엇을 하는지에 대한 서술로는 입증되지 않았습니다. 그것을 결정지을 결과는 행동입니다. 공개, 인용, 지름길의 거부입니다.
+
+균일성은 수준 사이뿐 아니라 수준 내에서도 변합니다. [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez 외(2026)]]는 스페인 대학 한 곳의 학생 522명을 네 개의 도입 프로파일로 군집화했습니다. 저항형 8.8%에서 열성형 14.2%까지입니다. 습관이 의도의 가장 강한 예측 변수였고(β = 0.199), 교육 수준은 모형을 조절하지 않았습니다. 따라서 단일 학부 집단이 수준 비교가 수준 간 차이로 다루는 범위를 가로지릅니다. [[kong-ai-employability-cognitive-engagement-2026|Kong과 Zhang(2026)]]은 도입, 접근, 빈도가 일상적으로 역량의 대용물로 읽히며, 그 추론이 양방향 모두에서 실패한다고 논합니다. 그들의 검토는 측정된 거의 모든 결과를 근위(proximal) 끝에 놓으므로, AI를 더 많이 쓰는 대학원생이 그것으로 더 유능한 대학원생이 되는 것은 아닙니다.
 
 ### 교수와 교수 활동
 
@@ -79,6 +91,10 @@ ai_assist:
 [[academic-integrity]]과 [[ai-assessment-scale-reform|AI 평가 개혁]] 연구는 대학이 AI 활용 능력을 갖춘 학생 집단을 위해 평가를 어떻게 재설계해야 하는지를 다룹니다. [[ai-detection|탐지 중심]] 접근은 [[authentic-assessment]]와 과정 기반 평가에 자리를 내주고 있습니다. [[fenton-oral-exams-ai-authentic-assessment-2025|구두 시험]], [[roe-assessment-twins-2026|평가 쌍둥이]], [[beyond-detection-authentic-assessment-ai-2025|실제적 평가 재설계]]가 그것입니다. 이 전환은 더 깊은 우려를 반영합니다. AI와 함께 [[ai-tools-academic-work-cheating-2026|학생과 기관이 부정행위를 어떻게 정의하는가]], 그리고 [[assessing-quality-ai-generated-exams-field-2025|AI 생성 평가 자료의 품질]]에 관한 것입니다. 채점의 자동화 자체도 개방형 대학 과제에 대해 성숙해 가고 있습니다. [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko와 Drlik(2025)]]는 24개의 소프트웨어 공학 시험 문항에 대한 응답 1,885건에 대해 11개의 GenAI와 문장 임베딩 모형을 벤치마킹했으며, GPTo1만이 두 명의 전문가 인간 채점자와 거의 완벽한 합의에 이르렀습니다(Fleiss' Kappa 0.82). 맥락에 민감한 모형이 참조 기반 모형보다 우수했습니다. 그러나 독점 API 비용으로 인해 저자들은 자원이 제한된 기관에는 인간 참여형 하이브리드 배치를 권고했습니다. 전문 과정 수준에서는 [[olvet-genai-scoring-open-ended-medical-2026|Olvet 외(2026)]]가 [[llm]](GPT-4)이 pre-clerkship [[medical-education|의학]] 개방형 시험 문항을 채점하는 것이 반복적인 인간 루브릭 개선 후 교수 채점자와 상당함에서 거의 완벽함에 이르는 합의에 도달할 수 있음을(가중 카파 최대 0.94) 보여 주며, 그래도 잔여 불일치를 중재하기 위해 인간을 순환에 남겨 둘 것을 권고합니다. 이 모형 수준 증거를 보완하여, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik과 Thambi(2026)]]는 21개 문항의 대학 약학 시험을 ChatGPT-5로 채점하여 객관식 문항에서는 교수와 거의 완벽한 합의(CCC 0.935–1.000)를 얻었으나 단답형과 서술형 문항에서는 신뢰할 만한 합의에 이르지 못했고, 루브릭 제공이 성과를 일관되게 향상시키지는 않았습니다. 이는 대학 평가에서 [[human-in-the-loop-ai|하이브리드, 인간 참여형]] 채점의 근거를 강화합니다.
 
 세 번째 경로는 과제 자체를 강화합니다. 프롬프트를 교란된 이미지로 제시하자 LLM의 과제 완수 실패가 7.4%에서 55.6%로 높아지고 Tesseract 추출 오류가 100.0%로 밀려났으며, 이는 정직성을 탐지를 대체하는 것이 아니라 보완하는 내용 설계로 다시 틀짓습니다([[airri-machine-resistant-reading-interface-2026|Salaun 외, 2026]]).
+
+그 함의의 설계 수준 버전은 [[klapproth-constructive-alignment-genai-2026|Klapproth]]의 논증입니다. [[generative-ai|생성형 AI]]는 구성적 정렬을 무효화하지 않지만 그 확장을 강제한다는 것입니다. 결과는 수행의 조건을 명시해야 합니다. AI와 함께, AI 없이, 또는 공개된 사용과 함께인지에 따라, 같은 과제가 다른 조건 아래에서는 다른 것을 측정하기 때문입니다. 이 검토의 더 날카로운 주장은 AI가 두 경로 중 하나, 비계 또는 지름길로 달리며, 어느 쪽이 지배적인지는 도구가 아니라 과제 설계와 평가 형식이 결정한다는 것입니다.
+
+분석 단위는 평가가 아니라 학위일 수도 있습니다. Meng, Zhang과 Li의 "합성 학위주의(Synthetic Credentialism)" 틀은 신호 분리를 서술합니다. 언어 모형이 수용 가능한 학업 작업의 비용을 압축하므로, 학위를 정보 있게 만들던 분리 균형이 얇아지고, 실패하는 것은 탐지가 아니라 기관적 검증입니다. 그들은 서면 과제, 학위 논문, 과제형 시험을 가장 노출된 형태로, 구술 또는 감독 시험을 가장 덜 노출된 형태로 평가하며, 허용적 통합과 검증은 직교하므로 AI를 허용하는 것만으로는 귀속이 회복되지 않는다고 논합니다([[meng-synthetic-credentialism-framework-2026|Meng 외, 2026]]). 이것은 개념적 제안입니다. 분리는 측정되지 않았으며 붕괴 임계값은 규정되어 있습니다.
 
 ## 고등 교육 교수자를 위한 함의
 
@@ -100,6 +116,8 @@ ai_assist:
 - **"AI가 인식론적 작업을 분배하는 방식은 기관마다 균일합니다."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm(2026)]]은 **102개의 경험적 고등교육 연구**를 인식론적 작업이 어떻게 분배되는지로 분류했고, 그 변이 자체가 세부 사항이 아니라 발견입니다.
 
 ## 연결된 개념
+- [[undergraduate-education]] — 학부 수준 학습에서의 AI: 대규모 강좌, 입문 STEM, 평가 정직성
+- [[graduate-education]] — 석사 및 박사 학습에서의 AI: 지도, 연구 훈련, 전문 과정
 - [[pedagogical-patterns]] — 검증된 순서 증거가 가장 많이 생성된 수준
 - [[online-teaching-and-learning]] — 온라인 교수와 학습
 - [[generative-ai]] — 생성형 AI 기술과 모형
@@ -161,3 +179,10 @@ ai_assist:
 - [[ai-ethics-tensions-online-pedagogy-2026]] — 하나의 캠퍼스 전체 AI 정책이 아니라 방법별 지침을 쓸 것
 - [[ai-literacy-determinants-university-students-2026]] — 지각된 자원과 교사 지원이 AI 리터러시 분산의 29%를 설명했고 인구통계는 그렇지 못함
 - [[faculty-ai-well-being-social-supports-2026]] — 교수진에게 도구 자신감이 아니라 AI 리터러시를 지원할 것
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 대학원생이 일곱 척도 중 여섯에서 더 높음(사용 d = 1.29, 윤리 d = 1.47), 학부생보다 훨씬 좁은 분포
+- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 자기평가 학습과 세 행동 참여 지수가 1,477명 응답자에서 0.052로 상관
+- [[kumar-chatgpt-academic-assignments-2025]] — 윤리적 인식이 자기보고 과제 성과를 예측하지 못함(β = −0.006, p = .924)
+- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — 한 대학 내 네 개의 도입 프로파일; 습관이 가장 강한 예측 변수이고 교육 수준은 조절 변수가 아님
+- [[kong-ai-employability-cognitive-engagement-2026]] — 도입과 빈도가 역량 대용물로 읽힘; 측정된 거의 모든 결과가 근위 끝에 놓임
+- [[klapproth-constructive-alignment-genai-2026]] — 구성적 정렬의 확장: 결과가 수행의 조건을 명시해야 함
+- [[meng-synthetic-credentialism-framework-2026]] — 합성 학위주의: 탐지 문제가 아니라 학위 체계 문제로서의 신호 분리와 검증 붕괴 (Meng, Zhang & Li 2026)

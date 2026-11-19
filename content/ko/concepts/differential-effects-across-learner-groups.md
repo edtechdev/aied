@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,8 @@ ai_assist:
 - **공간과 프레이밍이 도구만큼 중요하다.** [[all-girls-genai-makerspace-gender-equity-2026|여학생 전용 생성형 AI 메이커스페이스 사례 연구]]는 여학생들이 단성별 환경을 더 안전하고 편안하다고 평가했음을 발견하고, 권력 관계를 손대지 않는 표면적 적응인 "소녀화(girlification)"에 반대한다고 경고합니다.
 - **모델 민감성은 모델 속성이지 상수가 아니다.** [[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]]에서 7B부터 70B까지의 다섯 튜터가 아홉 개의 인구통계 수준에 걸쳐 감사되었습니다: Qwen2.5-7B는 12개 영역×차원 셀 중 7개에서 |r| ≥ 0.10 편향 기준을 넘었고, LLaMA-3.1-8B는 한 번 넘었습니다. 교육학 특정 훈련은 어떤 편향은 줄이고 다른 편향은 늘렸습니다.
 - **단일 축 수정은 집단을 더 나쁘게 남길 수 있다:** "Unknown Gender" 범주로 축소된 성별 다양성 학생들은 모든 공정성 방법 하에서 가장 낮은 진양성률을 보였고, 어떤 단일 축 방법도 그들의 처리를 개선하지 못했습니다. 이는 위의 집단 라벨 변동이며, 튜터가 아닌 예측 조기 경보 모델 안에서입니다([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
+
+부담이 낮은 AI 리터러시 활동의 한 학기는 집단에 따라 자신감을 다르게 움직일 수 있습니다. [[petricini-ai-literacy-communication-equity-2026|Petricini와 Cruz(2026)]]는 비동기 대중 연설 수업의 2주차부터 11주차에 걸쳐 열 가지 활동을 삽입하고, 등록된 학생 200명에게서 사용 가능한 응답 133건을 분석했습니다. 지각된 역량은 전체적으로 1–7 척도에서 5.63에서 5.12로 떨어졌으며, 그 하락은 고르지 않았습니다. 여성으로 정체화한 학생들은 두 개의 역량 문항에서 사전-사후 간 유의한 하락을 기록한 반면, 남성으로 정체화한 학생들은 한 문항에서 하락하고 수업의 가치 문항에서는 상승했으며, 남성으로 정체화한 학생들은 사후 검사에서 수업 중 새로운 도구를 사용하는 항목에 대해 자신을 더 높게 평가했습니다(p = .02). 같은 중재는 백인으로 정체화한 학생들에게 세 개의 압박-긴장 문항 모두에서 유의한 하락을 가져왔으며(수행에 대한 걱정이 2.67에서 1.90로), 다른 인종·민족·문화적 유산 정체성의 학생들은 그중 어느 것에서도 유의한 변화를 보이지 않았습니다.
 
 ## 인종, 민족, 소수화된 학생들
 
@@ -192,4 +194,5 @@ ai_assist:
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 직접적인 과정 증거를 지닌 지식 기반 집단 구분 변수: 사전 지식은 매칭되었으나 선개념 다양성이 다른 집단은 같은 AI를 다르게 받아들였다 (Wang et al. 2026)
 - [[porcaro-ai-grading-benchmark-2026]] — 일치를 넘어서: 22개의 프롬프트된 채점자가 정답이 알려진 탐침을 만나고, 대부분은 설득될 수 있다 (Porcaro 2026)
 - [[porcaro-ai-grader-reliability-2026]] — 학습자 맥락은 동일한 작업에 대한 LLM 채점자의 점수를 바꾸며, 교사와의 일치는 그것을 포착하지 못한다 (Porcaro 2026, Paper VI)
+- [[petricini-ai-literacy-communication-equity-2026]] — 기초 커뮤니케이션 수업에서의 AI 리터러시: 형평성, 동기, 불확실성 줄이기에 관한 통찰
 

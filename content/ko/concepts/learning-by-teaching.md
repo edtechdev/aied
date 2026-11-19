@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,8 @@ LLM 기반 teachable agents의 중심 설계 과제는, LLM이 기본적으로 �
 - **[[socrates-students-instructors-llms-lbt-2025|설계된 지식 격차]]**(Yang et al.)는 LLM이 오직 학생만이 가진 지식 없이는 풀 수 없는 문제를 설계하여, 가르치기를 필수불가결한 것으로 만들고 LLM-튜터 사용의 수동적 과의존에 맞섭니다.
 - **Explique의 도제자 제약**(Wang et al.)은 학습자에게 (a) 초보자로 남고, (b) 학생의 설명이 정확할 때까지 계속 명확화를 요청하며, (c) 목표 설명을 결코 드러내지 말 것을 지시하고, 역할을 뒤집어 학습자가 되돌려 설명하게 하려는 학생들을 *거절*하도록 합니다.
 - **fallibility로 향하는 가중치 수준의 경로로서의 언러닝(unlearning).** 기계 언러닝은 Mistral-7B에서 16개의 표적화된 지식 구성 요소를 억제하여, 10% 망각 비율에서 약 0.75이던 정확도를 40%에서 0.5 아래로 떨어뜨리면서 기본 모델은 약 0.85를 유지했습니다. 억제된 지식은 감독된 재학습과 코치 안내 대화를 통해 돌아왔으므로, 학습자의 지식 수준은 단언이 아니라 조절 노름입니다([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026)]]).
+
+- **학습자 과제로서의 감독.** 두 강좌에 걸친 설계 사례에서, 학생들은 범용 어시스턴트를 고용하고, 온보딩하고, 코칭한 뒤 그것이 잘못한 것을 기록했습니다. 교수자들은 도구에 관례를 설명하는 것이 학생에게 그 관례를 명확하게 해 주었다고 보고합니다([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak & Braddock, 2025]]).
 
 ## 질문하기, 자기 조절, 능동 학습
 

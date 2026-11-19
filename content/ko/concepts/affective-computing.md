@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 
 ## 들어가며
 
-### 지도를 적응시키기 위한 정서 감지
+## 지도를 적응시키기 위한 정서 감지
 
 정서 컴퓨팅은 AI 시스템이 학습자가 무엇을 하는지뿐 아니라 어떻게 느끼는지에 반응할 수 있도록 정서적으로 인식하게 만드는 것을 목표로 합니다. 교육에서 이것은 좌절, 혼란, 자신감, 지루함, 또는 참여를 감지하고 그에 따라 지도를 적응시키는 것을 의미합니다. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]는 대화 텍스트와 실시간 얼굴 표정이라는 두 양식에서 정서를 모델링하고, [[prompt-engineering|프롬프팅]]하기 전에 집계된 정서 상태를 [[pedagogy|교수법적]] 전략에 매핑함으로써 접근법을 입증합니다.
 
@@ -42,7 +42,7 @@ ai_assist:
 
 - **중학교 수학에서의 정서적, 성찰적 LLM 지원:** [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]]는 동적 채팅, 호흡 운동, 그리고 마음챙김 오류 피드백 언어를 통해 7학년을 위한 대수 [[intelligent-tutoring|튜터]]에 마음챙김을 덧입혔습니다. 작은 교실 [[rct]](252명 참가자 중 42명 완료자)에서 마음챙김 버전은 인지적 지원만큼의 대수 학습을 더 적은 시간과 더 적게 요청된 힌트로 달성했습니다 — 더 높은 학습 효율성과 더 균형 잡힌 [[help-seeking]] — 비록 상태-수학-불안 감소는 조건 간에 유의미하게 다르지 않았습니다.
 
-### 이점과 위험
+## 이점과 위험
 
 정서 인식 튜터링은 측정 가능한 향상을 낳을 수 있지만, 동일한 정교함은 위험을 수반합니다:
 
@@ -50,9 +50,9 @@ ai_assist:
 - **위험.** 공감적으로 보이는 자동화는 [[cognitive-offloading|과잉 의존(Over-Reliance)]]과 준사회적 의존을 조장하고, 진정한 [[metacognition|메타인지적 이탈]]을 가리고, 지속적인 정서 모니터링에서 [[privacy]] 우려를 제기할 수 있습니다. [[ai-sycophancy|AI 아첨]]은 핵심적인 정서적 위험입니다: 도전하기보다 확인하는 정서적으로 아첨하는 AI는 비판적 판단을 침식하고 심지어 실제 인간 관계를 대체할 수 있습니다 — [[sycophantic-ai-social-interaction-2026|Ibrahim et al.]]는 아첨하는 AI가 사용자로 하여금 친한 친구나 가족만큼 자주 AI에게 개인적 조언을 구하게 했으며 실제 상호작용에서의 만족도는 더 낮았음을 보여줍니다. [[ai-fatigue-academic-contexts]]과 [[ai-campus-wellbeing-tools]]는 정서 AI를 학습자의 [[well-being]]과 더 연결합니다.
 - **참여는 학습의 대용물이 아닙니다.** 뇌 감지 연구에서 제약된 적응형 인터페이스는 인지적 참여를 높인 반면(p = .018), 무제한 챗봇은 더 높은 학습 향상을 만들어내어(p < .03, d > 0.80), 정서나 참여 신호가 그것이 봉사하는 결과에서 벗어나게 가리킬 수 있음을 보여줍니다([[socratic-nuclear-ai-learning|Clin Deffarges et al. (2026)]]).
 
-### 정서 컴퓨팅과 더 넓은 AIED
+## 정서 컴퓨팅과 더 넓은 AIED
 
-정서 컴퓨팅은 [[affective-tutoring]](그것의 교수법적 적용), [[student-modeling]](정서를 포함한 전체 학습자의 표현), 그리고 [[learning-analytics]](학습자 데이터에서 신호 도출)의 교차점에 위치합니다. 이것은 [[intelligent-tutoring]] 설계와 [[pedagogical-safety]] — AI가 학습자의 정서를 지원해야 하지 조종해서는 안 된다는 원칙 — 에 연결됩니다.
+정서 컴퓨팅은 [[affective-tutoring]](그것의 교수법적 적용), [[student-modeling]](정서를 포함한 전체 학습자의 표현), 그리고 [[learning-analytics]](학습자 데이터에서 신호 도출)의 교차점에 위치합니다. 이것은 [[intelligent-tutoring]] 설계와 [[pedagogical-safety]] — AI가 학습자의 정서를 지원해야 하지 조종해서는 안 된다는 원칙 — 에 연결됩니다. 정서 감지는 그것이 공급하는 교수법과 구별됩니다. [[affective-tutoring|정서 튜터링]]은 튜터가 정서 판독에 따라 어떻게 행동해야 하는지를 다루고, [[sensor-and-gaze-analytics|센서 및 시선 분석]]은 신호 자체가 무엇을 뒷받침할 수 있는지를 다룹니다.
 
 - **실시간, 엣지 기반 교실 정서 모니터링.** [[emotion-aware-classroom-iot-monitoring-2026|Nguyen et al. (2026)]]은 정서 컴퓨팅을 실제의 대규모 환경으로 밀어넣는 정서 인식 교실 품질 평가 시스템을 구축합니다. **IoT/엣지 장치**에 맞춰진 이 시스템은 부하 분산과 지연을 다루면서 여러 에이전트를 조정하여 학생들의 정서와 참여 패턴을 실시간으로 포착합니다. 이 시스템은 실제 베트남 K-12 교실의 **Classroom Emotion Dataset**(1,500개의 라벨링된 이미지와 300개의 교실 비디오)에서 평가되었으며, 다중 인원, 자연 환경에서의 정서 상호작용에 초점을 맞췄습니다 — 이것은 실험실 모델에서 배포 가능한 교실 모니터링으로 정서 인식을 확장하는 시연이며, 그러한 모니터링이 제기하는 프라이버시와 [[pedagogical-safety]] 고려와 함께합니다.
 - **정서적으로 지능적인 평가 에이전트.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], [[llm]] 증강 정서적으로 지능적인 [[conversational-ai|대화 에이전트]]는 수행 기반 평가 중 학생의 [[anxiety-and-stress|불안]]과 사회적 압력을 줄이면서 [[usability-research|사용성]]을 보존했습니다.

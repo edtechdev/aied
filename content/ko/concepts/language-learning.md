@@ -11,7 +11,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -90,10 +90,11 @@ ai_assist:
 
 - **고압 양방향 과업에서의 네 가지 상호작용 프로파일.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li와 Weng(2026)]]은 통역 훈련생 22명을 대상으로 안구 추적, 필기 기록, 음성 기록을 사용하여 학생이 네 가지 뚜렷한 방식으로 AI 산출물과 자신의 필기 사이에 주의를 나눔 — Intensive Engagers, Fast Scanners, Traditionalists, Frequent Switchers — 을 보여 주었고, 단계 수준 관찰의 58.3%가 같은 과업의 이해 단계와 산출 단계 사이에 프로파일을 바꾸었습니다. 이해 단계 패턴만이 산출물 질질을 예측했고, AI를 가장 많이 쓰는 군집은 전달의 유창성과 목표 언어 질질에서 가장 낮은 점수를 받았습니다. 이는 학습자에게 자신의 전략을 기술하고 성찰하도록 가르칠 사례를 만들며, 도구와 일하는 한 가지 방식을 처방하는 것이 아닙니다.
 - **비용과 연결성에 걸쳐 전체 네 기술 루프를 돌리십시오.** [[llmersion-local-first-language-learning-2026|Guo 등(2026)]]는 학습자 자신의 문서에 걸쳐 듣기, 읽기, 말하기, 쓰기를 소비자 하드웨어에서 수행하는 로컬 우선 프로토타입 LLMersion-1을 출시합니다 — 1B 교사는 808 MB로 양자화되고 전체 상주 스택은 4 GB 미만을 유지하며 — 5년간의 매일 연습을 대략 \$18의 전기료로, 클라우드 구독의 \$1,200에 맞춰 산정합니다. 학습자 결과는 보고되지 않았고 발음 되먹임은 분절적일 뿐입니다.
+- **챗봇 말하기 이득에 관한 증거는 기능별로 고르지 않습니다.** 이 질문에 관한 유일한 체계적 종합에서 2021년부터 2024년까지의 연구 열 편은 범위와 명료성을 가장 신뢰성 있게 개선했고, 일관성은 한 번, 상호작용은 거의 다뤄지지 않았으며, 열 편 가운데 네 편은 단일 총체 점수만 보고했습니다([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
 
 **번역 학생들은 표면 교정에서 벗어나게 할 수 있습니다.** 뉴스 번역 강좌에서 [[xian-process-visualization-feedback-news-translation-2026|Xian 등(2026)]]은 검색엔진 조회가 세션 시간 중앙값 15.6%에서 27.7%로(p = 0.020, Holm 보정), 지식 기반 검색이 7.2%에서 28.8%로(p = 0.010) 오름을 발견했습니다. 기계 번역 사용은 28.5%에서 5.1%로 줄었으나 유의성에 이르지 못했고(p = 0.338), 상호작용적 AI 사용은 중앙값 0에 머물렀습니다. 지렛대는 도구를 금지하는 것이 아니라 학생에게 자신의 과정을 보여 주는 것이었습니다.
 
-- **챗봇 말하기 이득에 관한 증거는 기능별로 고르지 않습니다.** 이 질문에 관한 유일한 체계적 종합에서 2021년부터 2024년까지의 연구 열 편은 범위와 명료성을 가장 신뢰성 있게 개선했고, 일관성은 한 번, 상호작용은 거의 다뤄지지 않았으며, 열 편 가운데 네 편은 단일 총체 점수만 보고했습니다([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
+Zhang, Aubrey, Wu, Chiu의 통제 연구 48편(N = 5196) 종합은 GenAI의 혜택이 도구의 존재 여부가 아니라 구성 방식에 달려 있음을 발견합니다. 되먹임 및 평가 활용이 가장 큰 효과(g = 1.15)를 낸 반면 교수 통합은 g = 0.28이었고, 학습자 주도 방식(g = 0.92)이 자율 방식(g = 0.34)을 앞섰습니다. 읽기는 유의미한 효과를 보이지 않았고, 말하기의 대표 수치 g = 1.48은 극단적 이상치 세 개를 제거하자 g = 0.65로 떨어졌습니다([[zhang-genai-l2-learning-meta-analysis-2026|Zhang 등, 2026]]).
 
 ## 흔한 오해
 
@@ -159,3 +160,4 @@ ai_assist:
 - [[ai-ethics-tensions-online-pedagogy-2026]] — 화용적 맹목: AI 언어 산출물은 문법적으로 옳을 수 있으나 문화적으로 그르다
 - [[xian-process-visualization-feedback-news-translation-2026]] — 뉴스 번역 강좌에서 과정 피드백이 출처 조회를 높이고 기계 번역 사용을 줄였다
 - [[wordofa-genai-grammar-instruction-efl-2026]] — 생성형 AI 지원 문법 교수와 에티오피아 EFL 학습자의 자기효능감 및 메타언어적 인식
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — 3수준 메타 분석: GenAI는 균일한 개입이 아니라 되먹임과 학습자 주도 설계를 통해 작동한다(Zhang 등 2026)

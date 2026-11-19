@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ ai_assist:
 - **구현되고 [[multimodal]] 평가:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]]은 컴퓨터 시각 기반 제스처 추적을 말의 [[llm]] 분석과 통합하는 다중양식 프레임워크를 개발하여, 공학 학생들의 통계학에 관한 개념적 이해를 평가하며, 제스처가 말을 넘어서는 진단적 증거를 더하고 제스처–말의 밀접한 결합이 응집된 이해를 신호함을 보여줍니다.
 - **노동력의 변혁:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]]은 AI와 공학/전산 노동력에 관한 미국의 회색 문헌을 검토하며, "Dual Train Problem"(급격한 변화 대 긴박한 정책)을 틀짓고, 내구적인 AI 역량, [[ethics]]와 [[governance]], 그리고 부상하는 역할들을 위한 기술 기반 자격증을 권장합니다.
 - **학생의 도입과 의존:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]]은 *비판적 사용*으로 Technology Acceptance Model을 확장하여, 공학/CS 학생들이 [[generative-ai|GenAI]] 사용 의도를 어떻게 형성하고 그 의도가 이해, 평가, 프로그래밍, 공학 프로젝트 과제에 걸친 의존을 어떻게 예측하는지를 모형화합니다 — 이해 관련 과제에서는 적절하고 무거운 의존을, 전체 평가 글쓰기에서는 제한된 사용을 발견합니다. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]]은 TAM을 [[technology-acceptance-model|UTAUT]]과 통합하여 방글라데시 공학 학생들의 도입을 모형화하며, 사용 분산의 64%를 설명하고 직업 관련성, 결과 입증가능성, 주관적 규범을 핵심 동인으로 지목합니다.
+- **습관이 사람을 밀어냅니다:** GenAI를 사용할 수 있게 된 뒤 필리핀 공학 학생과 교육자들이 사람에게 도움을 덜 청하게 되는지를 예측한 것은 의도가 아니라 습관이었고, 학술적 진실성에 대한 우려만이 그 밀어내기를 줄이는 구성개념이었습니다([[habit-over-intention-genai-help-seeking-engineering-2026|Pao, Domingo & Bernardo, 2026]]).
 - **[[prompt-engineering|프롬프팅 전략]]이 사용량이 아닌 수행을 예측합니다:** 128명의 4학년 공학 학생들 사이에서, AI Query Efficiency와 AI-Driven Problem-Solving이 학업적 성공의 가장 강한 예측 변수였고 누적 GPA를 통제한 뒤에도 유의하게 남았습니다([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 - **학생들 자신의 비유가 도구들이 제공하는 것을 넘어섭니다:** [[ai-engineering-education-balancing-act|Kudina (2026)]]은 100명의 공학 학생들이 LLM을 쓰기 지원, 개념적 명료화, 코딩에 가장 가치 있게 여겼으나, 이를 "oracle"과 "tutor"로 틀짓는다는 점을 발견했습니다 — 확률적 텍스트 생성기가 공급할 수 없는 권위와 [[personalized-learning|개인화]]이며, 학생들이 아직 구축하고 있는 검증 기술에 의존하는 "잔인한 낙관주의"입니다.
 - **AI를 학문 옆이 아닌 안에 내장하십시오:** 한 프로젝트 기반 열공학 [[curriculum-design|교육과정]]은 컴퓨터 과학 강좌를 추가하는 대신 기계 학습을 입문, 응용, 고급 수준에 걸친 기존 열 주제들 안으로 접어 넣었고, 최소한의 입학 요건만 충족한 학부생들은 대학원 동료들보다 더 약한 프로젝트를 산출했습니다([[mechanical-engineering-ai-curriculum-2026|Li et al. (2026)]]).
@@ -117,4 +118,5 @@ ai_assist:
 - [[genai-xr-architectural-design-education-2026]] — 협력적 건축 설계 교육에서의 생성형 AI와 확장 현실: 탐색적 스튜디오 연구
 
 - [[apostolakis-trusstutor-bench-statics-2026]] — 정역학 벤치마크: 풀이와 오류 탐지는 포화되지만 밀어붙임 저항은 그렇지 않다
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — 의도가 아니라 습관이 학생의 사람 대상 도움 요청 감소를 예측한다: 49.6%가 인간 대상 도움 요청 감소를 보고, 습관의 β 0.711 대 의도 0.039
 

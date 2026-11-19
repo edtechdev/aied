@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,7 @@ ai_assist:
 
 - **수용은 과제를 따르지 분야를 따르지 않습니다.** 일곱 과제와 학생 211명에 걸쳐 [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]]는 LLM 사용을 알고리즘에서 89.6%, 소프트웨어 공학에서 15.2%로 측정하며, 그 차이를 과제의 복잡성, 검증 가능성, 비계 지원에 귀속했습니다. 과목 자체에 귀속하지 않았습니다.
 - **피드백은 진단이 드러나지 않도록 단계화될 수 있습니다.** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]]는 학생의 데이터베이스 스키마에 대한 결과물 기반 진단을 그것을 공개하는 워크플로와 분리하고, 단계를 교육자가 저술하도록 했습니다. 383개 에피소드에 걸쳐 피드백의 71.1%가 목표 수준에 도달했습니다.
+- **열일곱 가지 요구사항 오류 유형, 211개 팀에 걸친 집계.** 우선순위 오류가 가장 많았고(학부 팀의 81%), 제로샷 생성형 AI 프롬프트 하나가 범위, 스토리 형식, 우선순위, 공수에서 팀들과 대등하거나 그 이상이었습니다([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]]).
 
 ### 프로그래밍 교수법: 블록에서 신체화되고 게임 기반인 학습으로
 
@@ -101,6 +102,7 @@ ai_assist:
 ### 형평성, 문화, 그리고 누가 컴퓨팅에 들어가는가
 
 - **참여 확대:** [[suacode-african-students-motivations|SuaCode]]는 아프리카 학생들 사이 스마트폰 기반 코딩의 동기를 기록합니다(중등 졸업자의 1% 미만이 기초 코딩 능력을 보유). 이는 [[equity-in-ai-education|저자원 맥락]]을 위한 접근 가능한 AI 지원 MOOC에 정보를 제공합니다.
+- **AI 없는 관문, AI 우선 업무.** [[ai-free-gates-engineering-students-india-2026|Goutham and Gu (2026)]]는 인도 공학 학생 23명을 면담했습니다. 한 명을 제외한 모두가 AI를 배제하는 취업 선별 관문에서 AI를 사용했고, 정작 고용주는 AI 활용을 요구했습니다. 그렇게 걸러진 성적은 더 적은 것을 인증하는 셈입니다.
 - **신경다양성과 협력:** [[neurodivergent-computing-students|신경다양성 컴퓨팅 학생들]]은 모호한 협력 구조에 대한 불편을 보고합니다. 구조화된 과제, 작고 일관된 팀, 명시적 역할은 [[accessibility]]를 개선합니다. 컴퓨팅 교실에 들어오는 AI 도구를 위한 설계 교훈입니다.
 - **문화가 지각된 윤리를 형성합니다:** [[cross-cultural-student-perceptions-genai-computing|캐나다 대 한국 컴퓨팅 학생들]]은 기능적으로 동일한 정책에도 불구하고 동일한 AI 지원 코딩 실천을 다르게 판단했습니다. 정책 조화가 인식의 조화를 낳지 않는다는 것입니다. 이것은 [[academic-integrity]]와 [[equity-in-ai-education]]의 관심사입니다.
 - **협력 [[explainable-ai|투명성]]:** [[student-perception-ai-use-collaboration|Graf et al.]]는 동료들이 서로의 AI 사용에 대해 어긋난 믿음을 가질 때 더 낮은 프로젝트 성적을 예측한다는 것을 발견합니다. 특히 수행이 낮은 학생에게서 그렇습니다. 투명성 메커니즘(공개, 공유 로그)이 협력적 프로그래밍에서 필요할 수 있습니다.

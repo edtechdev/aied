@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -86,6 +86,7 @@ XAI-ED 프레임워크는 주요 설명 양상들을 목록화합니다. **시�
 
 **모형이 사용했다고 말하는 것은 데이터만큼이나 모형 계열에 달려 있습니다.** 한 코호트의 일곱 모형에 걸쳐, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar 등(2026)]]은 기호적 접근이 인지적·[[motivation|동기]] 요인에 기대고, 아기호적 모형은 인지적 측면과 학습된 지식, 성별에 기대며, 둘 다 메타인지 요인은 대체로 간과한 반면, 신경-기호 모형은 더 통합된 집합을 사용했음을 발견했습니다. 같은 학생과 같은 지표가 무엇이 중요했는지에 대해 서로 다른 설명을 산출했으므로, [[learning-theories|학습 이론]]과의 정렬은 정확성에 관한 주장이 아니라 귀인에 관한 주장이 됩니다.
 
+설명 품질을 인증하는 데 쓰이는 지표는 적합성을 측정하지 않습니다. 166명의 참가자가 세 가지 현저성 방법(LIME, Grad-CAM, Guided Backpropagation)을 비교한 사전등록 연구에서, 만족도와 신뢰 평정은 조건에 걸쳐 평평했고, 과제 측정치는 Grad-CAM을 지지했으며, 수학적 충실성 지표는 Guided Backpropagation을 지지했습니다 — 세 가지 증거 계열이 서로 다른 세 방법을 가리킨 것입니다([[kares-xai-evaluation-alignment-2027|Kares et al., 2027]]). 일부 지표–수행 관계는 그 지표가 인증하려는 방향과 반대 방향으로 달렸습니다. 충실성 점수는 모델에 관한 증거이지, 사용자가 그 설명에 따라 행동할 수 있는지에 관한 증거가 아닙니다.
 
 인용은 정확성의 증거가 아니라 신뢰성 단서로 작동합니다. 토론 인터페이스에 인용과 권위 신호를 붙이자 올바른 판단을 버리고 AI 입장을 채택하는 비율이 15.0%에서 31.8%로 올랐고, 인용된 사례는 때때로 잘못 귀인되거나 허구였습니다([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
@@ -149,3 +150,4 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[bloom-classifier-ai-assisted-questions-2026]] — 새로운 AI 보조 교육 질문의 교수학적 평가를 위한 사전 훈련 모델의 평가
 - [[decision-making-agent-student-decision-acceptance-2026]] — 교사 대 AI가 낸 채점 결정: 서면 근거 제시가 공정성 간극을 넓힘
 - [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — 한 코호트의 일곱 모형이 서로 다른 요인에 예측을 귀인했다: 기호적, 아기호적, 신경-기호 모형
+- [[kares-xai-evaluation-alignment-2027]] — 참가자 166명, 세 가지 현저성 방법: 만족도와 신뢰는 평평, 과제 수행과 충실성 지표는 불일치 (Kares et al., 2027)

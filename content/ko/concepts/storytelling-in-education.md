@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-11-04T14:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 스토리텔링은 [[motivation]], [[student-engagement]], 그리고 학습의 [[constructivist]] [[learning-theories|이론]]에 뿌리를 둡니다. 그것은 [[language-learning]], [[creativity]], [[social-emotional-learning]], 그리고 이해력을 지원합니다. AI 시대에 [[llm|LLM 기반]] 및 로봇 매개 스토리텔링은 학습자와 [[agentic-ai|AI 에이전트]]가 함께 이야기를 만드는 공동 창작과, 학습자에게 반응하는 상호작용 서사를 가능하게 합니다.
 
-### 스토리텔링이 지식 기반의 연구에 나타나는 방식
+## 스토리텔링이 지식 기반의 연구에 나타나는 방식
 
 - **로봇 매개 스토리텔링:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]]는 인간과 같은 상호작용형 디지털 스토리텔링 로봇을 사용하여, 종이와 파워포인트 방식에 비해 행동적·인지적 참여의 유의미한 향상을 발견했습니다. [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]는 교사가 [[curriculum-design|커리큘럼]] 콘텐츠로부터 LLM 기반 시나리오 중심의 스토리텔링 활동을 만들 수 있게 합니다.
 
@@ -46,6 +46,8 @@ ai_assist:
 - **AI에 대한 균형추로서의 디지털 스토리텔링:** [[generative-ai|생성형 AI]]가 부상하면서, 디지털 스토리텔링은 AI가 결여한 정서적·문화적·서사적 역량을 위한 수단으로 새롭게 조명됩니다. 예술·[[design-education|디자인 교육]]의 [[project-based-learning|프로젝트 기반 학습]] 모델에서, 학생들은 지역 문화유산을 92점의 디지털 스토리텔링 작품에 걸친 [[multimodal]] 서사로 번역하여, 스토리텔링이 AI 시대에 인간의 창의성을 어떻게 유지하는지를 보여주었습니다.
 
 - **생성된 서사는 만들기 쉽고 일관성을 유지하기 어렵습니다.** STEM 학생 22명을 대상으로 AI 생성 상호작용 픽션은 서사 명료성(M = 4.11)과 길이(M = 4.14)에서 좋은 평가를 받았지만, 참여는 중립적 중간점(M = 3.08)에 머물렀고 이야기 내용의 일관성이 가장 약했습니다(M = 2.92)([[ai-generated-interactive-fiction-education-2026]]). 공동 창작은 이야기가 제 역할을 해야 하는 층위에서 그 약점을 물려받습니다.
+
+- **이야기는 평가의 틀이지, 단지 산출물의 목적지가 아닙니다.** 터키의 한 유치원에서 22명의 어린이가 모든 이미지 프롬프트를 작성하는 교사와 함께 그림책을 만들었습니다. 생성된 이미지에 대한 그들의 판단은 이야기 적합성에 관한 것이었습니다. 네 후보 중 어느 것을 반이 남길지, "조종사 같은" 추가 사물이 어울리는지, 요청한 꽃이 빠져서 그 이미지가 못생겼는지 — 그리고 "안경을 쓴 나비는 있을 수 없어" 같은 개연성 판단과 나란히 놓였습니다([[konca-preschool-genai-storytelling-ai-literacy-2026|Konca & Yigit-Gencten, 2026]]). 스토리텔링은 반이 산출물을 특징별로 점검할 이유를 주었으며, 그것이 도구에 대한 그들의 추론을 비로소 가시화한 것입니다.
 
 
 스토리텔링은 [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], 그리고 [[educational-robotics]]와 연결됩니다.
@@ -77,3 +79,4 @@ ai_assist:
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — 로봇 매개 역할극을 통한 따돌림 예방 REMind
 - [[white-wu-robotics-ai-education-2026]] — 교육에서의 로보틱스와 AI
 - [[ai-generated-interactive-fiction-education-2026]] — AI 생성 상호작용 픽션: 22명 파일럿에서 약한 차원으로서의 일관성
+- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — 이야기 적합성과 개연성이 AI 이미지 판단의 기준이 된 유치원 그림책 만들기 (Konca & Yigit-Gencten, 2026)

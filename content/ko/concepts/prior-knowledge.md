@@ -8,7 +8,7 @@ pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, sc
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,7 @@ ai_assist:
 - **시동(priming)과 활성화를 설계 기법으로 삼기.** [[genai-mindtool-generative-learning|GenAI 마인드툴 접근법]]은 새로운 내용을 제시하기 전에 질문, AI 생성 시각 자료, 비유(예: "생태계에 대해 이미 알고 있는 것은 무엇인가요?")를 통해 사전 지식과 호기심을 활성화하여 의도적으로 '학습 과제에 시동을 겁니다'. 이는 답 제공 경로가 아니라 인출과 통합의 경로를 모델링하는 것입니다.
 - **학생 모델링과 기억.** AI 시스템은 학습자의 사전 지식 상태와 종단적 기억을 점점 더 모델링하며(예: 튜터링 기억에 사전 지식 상태와 망각 곡선을 통합하는 것), 각 학습자가 이미 아는 것을 바탕으로 간격 반복(spaced repetition)과 적응적 복습을 가능하게 합니다([[nie-personavlm-long-term-personalization-2026]]).
 - **개인화-적응의 지렛대.** 학습자들은 사전 지식에 따라 크게 다르기 때문에, 적응은 학급 평균의 가정이 아니라 개개인의 실제 현재 상태에서 학습자를 만나도록 조정되어야 합니다. 이것이 [[personalized-learning]]과 적응적 [[scaffolding]]의 핵심 논거입니다.
+- **사전 지식은 적응적 지원을 조절하는 유일한 학습자 특성이었습니다.** 내용을 이미 알고 있던 학습자는 그렇지 않은 학습자보다 더 큰 이득을 얻었고(g = .74, 95% CI [.42, 1.05] 대 g = .63 [.46, .80]), 양쪽 모두 혜택을 받았습니다. 이는 전문성 역전(expertise reversal)이 아니라 적응성이 중복된 도움을 철회하는 것과 부합합니다([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## 교육용 AI 설계의 시사점
 

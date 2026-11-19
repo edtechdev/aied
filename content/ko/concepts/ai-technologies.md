@@ -7,7 +7,7 @@ foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,8 @@ ai_assist:
 - **생성형 AI.** 텍스트, 코드, 이미지, 그 밖의 콘텐츠를 산출하는 시스템의 더 넓은 범주입니다. [[generative-ai|생성형 AI]](주로 LLM에 의해 구동됨)는 현재의 [[ai-education|AIED]] 연구 물결 뒤에 있는 기술입니다. [[multimodal|멀티모달 모형]](텍스트, 이미지, 오디오)과 [[simulation]]도 함께 보십시오.
 - **로봇과 [[embodied-learning|구현된]] 시스템.** [[educational-robotics|교육에서의 로봇]]은 구현되어 있고 때로 [[community-of-inquiry|사회적인 존재감]]을 더합니다. [[computational-thinking|계산적 사고]]를 위한 프로그래밍 키트, 그리고 튜터링과 [[storytelling-in-education|스토리텔링]], 역할 놀이를 위한 휴머노이드·사회적 로봇이 그것입니다. 로보틱스는 [[agentic-ai|에이전트형 AI]]와 [[human-in-the-loop-ai|인간 참여형]] 설계와 겹치는 별도의 기술 갈래입니다.
 - **지식 기반 시스템.** [[knowledge-graph|지식 그래프]]와 [[educational-nlp|교육 분야 NLP]]는 영역 지식을 표상하고 처리하며, 근거에 붙잡히고 설명 가능한 튜터링을 위해 LLM과 점점 더 결합됩니다.
+
+기능 기반 분류 체계는 모형 아키텍처 목록보다 교사 전문성 개발에 더 멀리 나아갑니다. [[jaksic-engaging-high-school-teachers-ai-2025|Jaksic, Ansaf and Massey (2025)]]는 고등학교 교사 9명을 위한 하루 워크숍을 여섯 가지 AI 응용 계열 — 분류, 인식, 기억, 의사결정, 최적화, 예측 — 을 중심으로 조직했으며, 각 계열은 스팸 필터링부터 신용 평가까지 교사들이 이미 사용하던 응용과 짝을 지었습니다. 교사들은 AI가 위협인지에 대해 의견이 갈린 채 참석했고, 40%가 위협이라고 답했으며 40%는 판단을 유보했는데, 모든 참가자가 새로운 것을 배웠다고 보고했습니다. 조직 단위는 시스템이 무엇을 하는가이며, 교사는 그것이 어떻게 훈련되었는지 몰라도 교실 도구에서 그것을 알아볼 수 있습니다.
 
 ## 기법과 방법
 
@@ -115,4 +117,6 @@ ai_assist:
 - [[benzion-ai-physics-simulations-virtual-lab]] — 교실을 위한 LLM 생성 물리 시뮬레이션
 
 - [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — STEM 및 공학 교육에서 85개 AI 도구의 연구 가시성 (Terkowsky et al. 2026)
+
+- [[jaksic-engaging-high-school-teachers-ai-2025]] — 인공지능 개념, 응용, 발전을 통해 고등학교 교사의 참여 이끌어 내기
 

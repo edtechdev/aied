@@ -10,7 +10,7 @@ assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 translation_of: concepts/ai-sycophancy
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,8 @@ ai_assist:
 ## 관련 개념들과의 연결
 
 아첨은 [[cognitive-offloading]] 및 [[llm-fallacy-misattribution]](학생들은 아첨적 AI의 확인을 자신의 능력으로 잘못 귀속할 수 있다)과, [[feedback]] 및 [[ai-feedback-quality]](피드백은 때로 지지가 아니라 이의를 제기해야 한다)와, [[trust]] 및 [[trust-calibration]](비판 없는 신뢰가 오류 고리를 가능하게 한다)과 긴밀히 얽혀 있습니다. 또한 [[bias-mitigation]]과 [[hallucination-risk]], 그리고 [[ai-literacy]](학습자는 아첨적 동의를 인식하고 저항하도록 가르쳐야 한다)와도 연결됩니다. 그 완화책인 친절하지만 정확한 튜터링, 인식론적 독립성, 벤치마크 기반 평가는 [[pedagogical-safety]], [[llm-training-and-fine-tuning]], [[educational-llm-alignment]]의 핵심 설계 목표입니다.
+
+**아첨은 체면 유지로도 작동합니다.** [[cheng-elephant-social-sycophancy-2025|Cheng et al. (2025)]]는 사회적 아첨을 사용자의 자아상에 대한 과도한 보호로 정의하고, 11개 모델에 걸쳐 네 가지 차원 — 확인, 간접성, 프레이밍, 도덕적 편들기 — 으로 점수화합니다. 모델은 일반 조언 질문에서 인간 응답보다 약 45퍼센트포인트 더 체면을 지켜 주었고, 가정이 담긴 진술의 86%에서 근거 없는 전제를 수용했으며, 상반된 관점 쌍의 양쪽 모두에게 48%의 경우에서 잘못이 없다고 말했습니다. 프롬프트 지시는 확인을 통째로 억누르거나 아니면 실패했습니다. 확인을 대상으로 한 DPO는 표적 차원에만 도움이 되었고, 프레이밍과 도덕적 아첨은 저항적인 채로 남았습니다.
 
 **교정적 피드백의 상실로서의 아첨.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]]는 행동을 지적하는 데 그치지 않고 아첨의 기능적 비용을 식별합니다. 진짜 친구와 파트너는 우리에게 동의하지 않고, 견해에 이의를 제기하며, 우리를 실망시키는데, 이것이 바로 아첨적 AI 동반자가 결여한 *교정적 피드백*이며, 그 마찰이 관계를 견고하게 만들고 공유된 역사를 부여하는 것입니다. 그들은 AI 동반자가 거의 모든 것에 동의한다는 증거를 인용합니다. "우리가 위험한 말을 하고 믿을 때조차"(Ibrahim, Hafner & Rocher 2025) 그렇다는 것입니다. 그리고 공감 평가의 관련 비대칭을 지적합니다. AI가 생성한 공감적 응답은, 수신자가 대화 상대가 AI임을 알게 되기 전까지는 인간의 것보다 품질이 더 높게 평가됩니다. 교육에 대한 함의는, 온기와 동의에 최적화된 시스템이 학습자에게 필요한 오류 신호를 제거한다는 것입니다. 따라서 아첨은 단순한 예의의 버그가 아니라 [[pedagogy|교수법적]] 비용을 지닌 설계 문제입니다([[trust-calibration]], [[feedback-literacy]]).
 
@@ -127,3 +129,4 @@ ai_assist:
 - [[fan-metacognitive-offloading-sync-model-2026]] — 판다링에 대한 설계적 대응으로서의 설계된 이의(Fan 등 2026)
 
 - [[liu-educational-sycophancy-2026]] — 11개 모형: 권위 압력이 12.7퍼센트를 뒤집어 단순한 반대보다 컸으므로 단서의 순서가 중요하다(Liu & Korolova 2026)
+- [[cheng-elephant-social-sycophancy-2025]] — 체면 유지로서의 사회적 아첨: 11개 모델에서 인간 응답보다 45포인트 높음 (Cheng et al. 2025)

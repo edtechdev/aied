@@ -8,7 +8,7 @@ pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-11-05T14:28:00-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,7 @@ AI가 직업을 변화시키면서 교육의 진로 개발에서의 역할은 �
 - **교수진이 AI로 대체될 것이라 기대하는 것, 그리고 그것이 아닌 것.** AI에 초점을 둔 [[engineering-education|공학]] 학과에서 진행된 10건의 인터뷰에서 교수진은 생성형 AI가 업무를 어떻게 재편할지에 대해 의견이 갈렸고, 코딩, [[writing-education|글쓰기]], 정보 업무를 단기적으로 취약한 것으로 지목했지만 그러한 기대를 뒷받침하는 노동시장 근거는 제시하지 않았습니다([[sadik-ai-ready-engineering-talent-faculty-2026|Sadik (2026)]]).
 - **인력 전이.** [[post-covid-ict-career-aspirations|ICT 진로 포부]] 연구는 기술 변화에 대한 반응으로 학생들의 진로 의도가 어떻게 이동하는지를 살핍니다.
 - **이론적 토대.** [[kim-ai-anxiety-comprehensive-analysis|AI Anxiety 종합 분석]]은 **AI에 의한 대체에 대한 두려움**을 AI 불안의 주요 동인으로 지목합니다. 이것이 이 개념이 정면으로 다루는 진로 차원입니다.
+- **LLM 진로 조언에는 서구적 기본값이 깔려 있습니다.** 아프리카 10개국에서 초급 컴퓨팅 일자리가 무엇을 요구하는지 물었을 때, 여섯 개 모형이 지역 생태계, 언어 요구, 국가 정책을 인식한 것은 35.4%에 불과했습니다. 그래서 기술적 조언은 전이되지만 맥락은 전이되지 않습니다([[eze-llm-career-guidance-african-computing-2026|Eze, Lunn, Berhane(2026)]]).
 
 ## 보호적이면서 발달적인 목표로서의 진로 준비도
 
@@ -67,6 +68,10 @@ AI가 직업을 변화시키면서 교육의 진로 개발에서의 역할은 �
 - **"AI 불안은 위로로 달랠 수 있는 일반적 기질이다."** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]]은 AI 불안이 **진로 적응력의 침식을 통해 진로 결정을 크게 손상시킨다(전체 효과의 63.35%)**는 것을 SEM으로 확인합니다. 기제는 구체적입니다. 불안은 적응할 능력을 없애는 방식으로 작동하므로, 감정을 겨냥한 위로는 효과를 지고 있는 매개변인을 놓칩니다.
 - **"진로 적응력은 기술 역량에 부차적인 소프트 스킬이다."** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]]은 진로 적응력이 **AI 불안을 줄인다**는 것을 보여주며, 이는 적응력을 하류의 결과가 아니라 상류의 개입으로 만듭니다. 적응력을 기르는 일은 그 기제를 다루는 것이고, 있으면 좋은 것으로 취급하는 일은 매개변인을 그대로 두는 것입니다.
 - **"AI에 대한 불안은 고르게 분포한다."** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]]는 AI 불안과 부정적 AI 태도가 **1,057명의 학생**에서 졸업 후 취업 불안을 예측하며, **여성과 사회과학 전공 학생**에게는 다른 양상이 나타난다고 보고합니다. 획일적인 개입은 지원을 잘못 배분합니다.
+
+프로그램 수준 프레임워크는 기관의 단계들을 명시적으로 만들지만, 프로그램으로서 평가받은 적은 없습니다. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale(2026)]]은 여섯 단계를 제안합니다. 감지(sensing), 이해관계자 검증, 프로그램 진단, 교육과정 재설계, 실행 및 역량, 성과 검토입니다. 각 단계는 이름이 붙은 결정권과 책임 있는 산출물을 지니며, AI는 네 가지 경계 지어진 지원 기능으로 한정됩니다. 노동시장 정보 전반의 패턴 탐지, 역량 매핑, 사람이 평가할 교육과정 선택지 생성, 이행 지표 모니터링입니다. 그 가치는 진로 준비도 전략이 대개 암묵적으로 남겨 두는 거버넌스 단계들에 이름을 붙인다는 데 있습니다.
+
+중국 대학생 1,445명 설문은 유용성 믿음에서 AI 사용을 거쳐 진로 탐색으로 이어지는 경로를 추적합니다. 생성형 AI의 지각된 유용성은 사용을 β = 0.569로 예측한 반면, 진로 자기효능감은 β = 0.082로만 예측했습니다. 사용은 이어서 진로 탐색 행동과 β = 0.423으로 연관되었고, 자기효능감은 탐색 자체의 가장 강한 인지적 예측요인으로 남았으며(β = 0.285), 모형은 탐색 분산의 50.5%를 설명했습니다([[lu-career-cognitions-genai-exploration-2026|Lü 외(2026)]]). 간접 경로들은 통계적이고 횡단면적인 것이지, 종단적인 것이 아닙니다.
 
 ## 연결된 개념들
 
@@ -100,3 +105,5 @@ AI가 직업을 변화시키면서 교육의 진로 개발에서의 역할은 �
 - [[ai-attitude-latent-profiles-career-development-2026]] — 네 가지 AI 태도 프로파일: 진로 구성과 취업 가능성은 불안이 아니라 참여를 짝지었음
 - [[sadik-ai-ready-engineering-talent-faculty-2026]] — 교수진의 전망은 고용에 관한 증거가 아니라 예측임
 - [[kong-ai-employability-cognitive-engagement-2026]] — AI 지원 학습에서 취업 가능성으로 가는 서사 검토의 구인 지도
+- [[nyale-ai-integrated-workplaces-digital-capability-2026]] — AI 시대 노동시장에 프로그램을 맞추기 위한 여섯 단계의 미평가 과정 프레임워크
+- [[lu-career-cognitions-genai-exploration-2026]] — 중국 학생 1,445명: 하나의 횡단면 모형 안의 AI 유용성, 사용, 진로 탐색

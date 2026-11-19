@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ ai_assist:
 
 - **[[tpack|TPACK]]** — 기술, 교수법, 내용을 혼합하는 교사 지식이며, 교사 대상 AI 연구의 기본 틀입니다.
 - **[[technology-acceptance-model|수용 모형]]** — 지각된 유용성과 사용 용이성의 함수로서의 의도. 이 분야가 행동이 아니라 의도에 의존하는 것이 오래된 비판이 될 만큼 널리 쓰입니다.
+- **기대일치 모형(ECM)** — 만족을 사전 기대와의 일치로 보며, 결과를 최초 도입이 아니라 지속 사용으로 둡니다. 학부생 24명이 참여한 한 학기 사회학 방법론 파일럿에서 87%가 Copilot을 좋음 또는 매우 좋음으로 평가했고 91%가 추천하겠다고 했으나, 계속 사용할 의향은 57%뿐이었습니다([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). 이 간극이 모형의 요점입니다. 만족한 사용자도 다시 돌아오기를 거부할 수 있으므로, 만족과 지속 사용에는 별도의 측정이 필요합니다.
 - **[[icap-framework|ICAP]]** — 참여를 수동적·능동적·구성적·상호작용적으로 위계화하며, 한 [[student-ai-interaction|AI 상호작용]]이 실제로 어떤 방식을 제공하는지를 묻는 데 유용합니다.
 - **[[samr-model|SAMR]]** — 대체에서 재정의에 이르는 것. 성숙 서사로서는 인기 있지만, 측정 기구로서는 약합니다.
 - **[[universal-design-for-learning|보편적 학습 설계]]**, **[[inclusive-learning|포용적 학습]]**, and **[[accessibility|접근성]]** — 누구에게 서비스가 닿는지를 위한 설계 틀이며, 장애와 [[equity-in-ai-education|형평성]] 작업에서 가장 자주 불러 쓰이는 것들입니다.
@@ -154,3 +155,4 @@ ai_assist:
 - [[ai-literacy-instrument-development-systematic-review-2026]] — 젊은 구성 개념에 걸친 기구 개발
 - [[mishra-control-vs-agency-history-2025]] — 이 분야의 기초적 통제 대 자율 긴장
 - [[genai-chatbots-language-learning-affordances-review-2026]] — 어포던스 분류 체계의 네 번째 범주로 제안된 정서적 어포던스
+- [[wells-genai-research-assistant-sociology-2026]] — 학부 사회학 연구 방법론에서 연구 보조자로서의 생성형 AI 역할 탐색

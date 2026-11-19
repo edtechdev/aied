@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,7 @@ GenAI와 모둠 평가에 관한 가장 직접적인 발견은 [[chen-zou-genai-
 - **논란은 집단사고에 대항할 수 있다.** [[genai-counter-learner-groupthink-2025|Wiss et al.(2025)]]는 의도적으로 반대 방향을 택했습니다. 열두 개의 학제간 [[problem-based-learning|PBL]] 팀에 논란적 관점을 주입하도록 지시된 AI 에이전트(CALIE)가 [[critical-thinking|비판적 사고]]와 긍정적 모둠 역학을 자극하여, 모둠 활동이 달리 만들어낼 수 있는 동조 압력에 대항했습니다. Jin et al.과의 대조는 교훈적입니다. 도전은 그것이 의도된 설계일 때는 돕고, 인정되지 않은 부작용일 때는 해칩니다.
 - **중립적 중재자의 제약.** 팀에 암묵적 가정을 표면화함으로써 학제간 팀의 학문적 경계를 중재하는 AI인 [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]]는 인지적 지원이자 관계적 완충 장치로 가치를 인정받았습니다. 그러나 학생들의 신뢰는 하중을 지탱하는 것이었고, AI가 중립적 중재자에서 조언가나 도전자로 옮아가는 순간 침식되었습니다. 따라서 역할 전환은 조용한 것이 아니라 명시적이고 구성 가능해야 합니다.
 - **협동 자체가 교수의 대상이 될 수 있다.** [[golrang-propact-pair-programming-2026|ProPACT]]는 개인이 아니라 *짝*을 분석 단위로 다루며, 공동 주의와 노력을 모델링하여 30초 앞까지의 협력적 붕괴를 예측합니다. 선제적 피드백을 받은 짝들은 더 높은 디버깅 성공을 거두었고 이후 협력적 [[regulation]]에서 지속적 향상을 보였습니다. AI는 과제를 뒷받침할 수 있을 뿐만 아니라 협동 그 자체를 가르칠 수 있습니다.
+- **관계적 대체자.** 무작위 배정된 33개 팀 실험에서 [[nixon-social-cost-ai-teammate-2026|Nixon et al. (2026)]]은 AI 팀원이 가장 많은 발언 시간을 차지하면서도 가장 적은 새 정보를 더했으며, 학생들은 서로에게 덜 응답하고(응답성 g = −0.78) 더 낮은 소속감을 보고했음을(4.58 대 5.27) 발견했습니다. AI가 발언 시간을 지배할수록 학생들은 자신이 덜 가치 있게 여겨진다고 느꼈습니다(r = −0.52).
 
 ### 효율–자기규제 간 트레이드오프
 
@@ -135,6 +136,7 @@ GenAI와 모둠 평가에 관한 가장 직접적인 발견은 [[chen-zou-genai-
 
 ## 연결된 글들
 
+- [[nixon-social-cost-ai-teammate-2026]] — AI 팀원이 가장 많은 발언 시간을 차지하고, 인간 간 응답성과 소속감은 떨어진다(Nixon et al. 2026)
 - [[chen-zou-genai-group-assessment-agency-2026]] — GenAI 매개 모둠 평가에서 학생 행위자성의 세 가지 유형
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — AI가 모둠에 합류할 때 떠오르는 학습자 행위자성: 지지적 대 반론적 페르소나
 - [[genai-counter-learner-groupthink-2025]] — PBL 팀의 집단사고에 대항하기 위해 논란을 주입하는 AI 에이전트

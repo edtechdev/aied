@@ -30,11 +30,11 @@ ai_assist:
 
 ## 도입
 
-### 교육을 위한 자연어 처리가 하는 일
+## 교육을 위한 자연어 처리가 하는 일
 
 교육에서의 자연어 처리는 교수와 학습의 언어 — 학생 에세이, 응답, 토론 게시물, 피드백, 교수 텍스트 — 에 계산적 방법을 적용합니다. [[llm|LLM]]은 이전에는 대규모로 실용적이지 않았던 학생 언어의 세밀한 이해를 가능하게 하며, 자동으로 분석할 수 있는 범위를 극적으로 확장했습니다.
 
-### 지식베이스에 기록된 응용
+## 지식베이스에 기록된 응용
 
 - **학생 언어의 분석.** [[llm-sentiment-analysis-education-research]]는 교육 연구에 LLM 기반 감정 분석을 적용하여, 대규모로 학생 텍스트에서 감정적·평가적 신호를 추출하고, [[learning-analytics]]와 [[affective-computing]]에 투입합니다.
 - **예측과 측정.** [[llm-item-difficulty-prediction]]과 [[vocabulary-difficulty-prediction]]은 언어 모델을 사용해 문항과 텍스트의 난이도를 추정합니다 — 이는 [[educational-measurement]], [[adaptive-learning]], [[item-response-theory]] 모델의 핵심 입력입니다.
@@ -61,7 +61,7 @@ ai_assist:
 - **ASR 전사본의 개체 충실도는 어휘 정확도와 별개의 질문입니다.** 다섯 개의 음성 인식 시스템을 인간 참조 전사본과 벤치마크한 [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]]는 이 지식베이스의 첫 ASR/NER 개체 충실도 증거를 보고합니다. 단어 오류율은 2.43%(TurboScribe)에서 15.32%(Vosk)에 걸쳤고, 일곱 범주 정답 개체 유형 코딩에서 GPT-5.5는 정확도 0.805(κ = .726)에 도달한 반면 spaCy는 0.634(κ = .488)였습니다. 집계 WER만으로는 전사 후 개체 구조가 살아남았음을 인증할 수 없습니다.
 
 
-### 튜터링과 측정과의 연결
+## 튜터링과 측정과의 연결
 
 교육용 NLP는 학습자 언어의 분석([[student-modeling]], [[knowledge-tracing]])과 적응형 교수 콘텐츠의 생성([[intelligent-tutoring]], [[scaffolding]]) 양쪽의 기반이 됩니다. [[ai-generated-interactive-fiction-education-2026]]는 학습을 위한 NLP 기반 콘텐츠 생성을 보여주며, [[zerkouk-comprehensive-review-its-2025]]는 NLP를 더 넓은 [[intelligent-tutoring]] 환경 속에 위치시킵니다. LLM 기반 분석이 성장함에 따라, NLP에서 얻은 통찰이 실제로 학습을 개선하는지 검증하기 위해 [[rct]]와 [[research-methods-aied]] 프레임워크가 중요해집니다.
 

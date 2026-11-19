@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,8 @@ ai_assist:
 **공식 진단을 관문으로 세우는 것이 도구가 서비스를 약속한 학습자를 배제합니다.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al.(2026)]]이 신경다양 학생을 위한 디지털 보조 기술에 관한 연구 40편을 정리한 범위 고찰에서, 28편이 공식 진단을 참여 조건으로 삼았고, 학생이 아니라 환경을 다룬 연구는 단 3편뿐이었습니다.
 
 **실천 속의 접근 가능한 도구들**은 AI가 참여를 넓힐 수 있음을 보여 줍니다. **[[suacode-african-students-motivations|SuaCode]]**는 코딩 능력을 지닌 사람이 1%도 되지 않는 저자원 아프리카 맥락에서 스마트폰 기반 코딩 강의가 학생들에게 닿을 수 있음을 보여 주었습니다. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]**는 시각장애·저시력 음악가들과 함께 비시각적 학습 전략을 개발하며, 장애가 이끄는 [[embodied-learning|체화]] 설계를 중심에 두었습니다. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]**는 교육자들을 UDL 원칙과 연결하는 무료이고 비공개이며 다언어인 AI 사고 동반자를 제공합니다. **[[special-r1-rl-special-education|Special-R1]]**는 [[reinforcement-learning|강화 학습]]을 장애 프로필 전반의 인지적·의사소통적 다양성을 모형화하는 것으로 확장합니다.
+
+**정책은 배치보다 뒤처집니다.** 93%가 AI 기반 캠퍼스 서비스를 배치하고 있었음에도, 상위 100개 대학 가운데 어느 곳도 AI 접근성 정책을 갖추지 못했습니다([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]).
 
 ### 관련 개념들과의 연결
 

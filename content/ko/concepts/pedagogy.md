@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,7 @@ ai_assist:
 - **교수법이 AI의 효과를 결정한다.** 되풀이되는 발견은 AI를 *사용하는가*만큼 *어떻게* 사용하는가가 중요하다는 것입니다. [[instructional-guidance-genai-learning|교수적 안내 연구]]와 [[generative-ai-guardrails-harm-learning|가드레일을 둔 튜터 RCT]]는 같은 AI가 교수법적 포장(답 대신 힌트, 구조화된 사용 대신 개방된 사용)에 따라 해가 되기도 하고 도움이 되기도 한다는 것을 보여 줍니다.
 - **교수법적 지식이 기술적 지식을 앞선다.** 교사 46명과 학생 2,832명을 대상으로 한 연구에서, 교사의 교수법적 AI 지식이 학생들이 AI를 사회적 선에 관해 어떻게 인식하는지와 AI를 배우려는 의도를 예측한 반면, 기술적 지식만으로는 불충분했습니다. 그리고 어느 쪽도 학생의 AI 지식을 예측하지 못했습니다([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen 외(2026)]]).
 - **AI의 가장 분명한 기여는 행정 업무의 오프로딩이다.** 연구 28편에 대한 PRISMA 고찰은 AI가 가장 빈번히 수업 설계와 [[assessment|평가]] 설계를 향상시켰으며, 가장 많이 보고된 이점은 채점, 피드백, 진도 모니터링의 자동화(18편, 64.2%)였다고 밝혔습니다. 반면 교수법적 정합성이 가장 많이 지적된 난제였습니다(14편)([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz(2026)]]).
+- 108개 학교의 군집 무작위 대조 시험이 그 주장에 경계를 설정합니다. Aila는 수업 적용률 7%에서 주당 계획 시간을 0.81시간 줄였으며, 사용은 10주에 걸쳐 감소했고 학생 결과는 측정되지 않았습니다([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al. (2026)]]).
 **자동화와 학습은 직접 상충합니다.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston 외(2026)]]는 여섯 가지 교수법적 원칙 — [[prior-knowledge|선행 지식]] 활성화, [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — 을 따라가며, 능동적인 에이전트 주도성이 각 원칙에 무엇을 하는지 검토하고, 마찰과 동적 페이딩, [[human-in-the-loop-ai|인간 감독]]을 설계하지 않는 한 에이전트가 자동화하는 정도만큼 학습자가 하는 인지적 작업은 줄어든다고 주장합니다.
 
 - **성찰은 AI가 가능하게도 하고 위협하기도 하는 교수법입니다.** 구조화된 프롬프트, 저널, [[eportfolio|포트폴리오]] 논평은 경험이 학습이 되는 기제이며, [[reflection]] 페이지가 그 증거를 담고 있습니다. 한 사전등록 실험은 피드백에 쓰는 시간을 두 배로 늘리고 연습량을 40% 줄이면서도 문제당 향상을 끌어올리지 못한 프롬프트를 발견했습니다. AI 성찰 파트너에 대한 코딩 감사는 그것이 눈에 보이는 흔적을 남기지 않고 모든 행동 지시를 어겼음을 발견했습니다. 완료된 시도에 맞춰 프롬프트를 설계하고, 다듬어진 글보다 흔적을 요구하십시오.
@@ -85,6 +86,8 @@ ai_assist:
 - **소크라테스식·대화 기반 전략**([[socratic-method]])은 고차원적 사고와 추론을 겨냥합니다. 이 성과는 기술 성과보다 측정하기 어렵지만 [[critical-thinking]]에 중심적입니다.
 
 지식베이스의 [[learning-gains]] 연구와 일관되게 나타나는 관통하는 핵심 발견은, **전략이 학습에 미치는 효과는 그것이 붙이는 이름보다 학습자의 노력과 생산적 투쟁을 얼마나 보존하는가에 더 크게 좌우된다**는 것입니다. 즉 AI가 그것이 이끌어내려던 인지적 작업을 우회하도록 설정된다면, "좋은" 교수법조차 실패합니다([[cognitive-offloading]], [[desirable-difficulties]] 참고).
+
+교실 수업과 동일한 일곱 가지 연구 기반 실천으로 공학적으로 만든 튜터가 그 수업을 능가했습니다. 하버드 입문 물리학 강좌에서 학생 194명의 학습 성과 중위값은 능동적 학습 수업의 두 배 이상이었고, 더 적은 시간에 이루어졌으며, 저자들은 요청 시 제공되는 맞춤 피드백과 자기 속도 조절을 그 공으로 돌렸습니다([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin (2025)]]).
 
 학생과 [[student-ai-interaction|AI의 상호작용]]은 고정된 의존이 아니라 인지적 분배의 변화하는 과정으로 읽는 편이 낫습니다. 횡학문적 [[engineering-education|공학]] 강좌의 ChatGPT 대화 53개에서, 확장(긴밀하고 반복적인 공동 사고)이 321개의 프롬프트 수준 코드 가운데 53.3%로 가장 빈번한 상호작용 유형이었고, 아웃소싱이 29.6%로 그 뒤를 이었습니다([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane & Arikan (2026)]]).
 

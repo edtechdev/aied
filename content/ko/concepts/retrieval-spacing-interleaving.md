@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -92,6 +92,8 @@ ai_assist:
 - **혼합 연습은 여기에서 사실상 직접 증거가 없습니다.** 위에서 말했듯, 말뭉치에는 묶음 대 혼합 비교가 없으며, 혼합이 여러 전략 중 하나의 선택 가능한 전략인 시뮬레이션만 있습니다.
 - **대상 집단과 내용.** 증거 기반은 [[higher-ed|고등교육]], STEM과 통계 자료, 기하학 및 다중 회귀 내용의 사실 대 기술 구분에 집중되어 있으며, [[k-12|K-12]] 환경, [[humanities-education|인문학]]과 글쓰기, 비서구권 교실로의 일반화는 이 연구들에 의해 확립되지 않았습니다.
 
+[[pan-chatgpt-prequestions-memory-comprehension-2026|Pan, Schweppe, Teo, Indrajaya와 Wenzel(2026)]]은 생성형 AI를 시험 효과의 앞단에 놓았습니다. 675단어 텍스트를 읽기 전에 답하는, ChatGPT가 생성한 두 개의 사전 질문입니다. 성인 90명, 128명, 153명, 157명을 대상으로 한 네 실험에 걸쳐, 사전 질문은 읽기만 하는 것을 능가했고(연습한 문항에서 d = 1.12, 연습하지 않은 문항에서 d = 0.78) 인간이 생성한 질문과 맞먹었습니다. 학습자들은 거의 정답을 맞히지 못했지만 — 실험 1에서 정확도 0.056 — 그래도 더 많이 배웠으며, 이것이 사전 검사 효과의 특징입니다. 전이는 거리에 따라 감소했습니다. 시험한 문항은 시험하지 않은 동일 출처 문항을 능가했고(d = 0.46), 그것은 다시 시험하지 않은 다른 출처 문항을 능가했습니다(d = 0.32). 질문 생성은 값싸졌지만, 인출은 여전히 필수였습니다.
+
 ## 흔한 오해
 
 **"AI 질문이 더 좋아지면 기억 유지도 더 좋아집니다."** 그것은 작업을 더 좋게 만듭니다. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]]는 더 깊은 LLM 질문이 독립적으로 채점된 과제 품질을 개선했지만(**β = 6.27, p = .006**) 즉각적인 사후 검사 회상과는 **연관이 없었고(β = −0.014, p = .728)**, 회상 이득은 대신 기초 지식이 이끌었다는 것을 발견했습니다. 산출물의 품질과 기억의 지속성은 서로 다른 결과이며, 더 나은 대화는 첫째를 움직이면서 둘째는 움직이지 않습니다.
@@ -133,3 +135,4 @@ ai_assist:
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — 학습하는 방법 틀의 도구 층에 있는 인출 연습
 - [[agentic-ai-pedagogical-best-practice-2026]] — 인출 연습을 우회하는 미리 가져오기 에이전트들; 의도적 마찰에 대한 논거
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — AI 튜터가 말할 때: 무작위 현장 실험으로부터의 증거
+- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — ChatGPT가 생성한 사전 질문이 기억과 텍스트 이해를 향상시킨다

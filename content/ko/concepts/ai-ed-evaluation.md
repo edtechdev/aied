@@ -41,7 +41,7 @@ ai_assist:
 
 이 분야의 10년에 걸친 흐름 자체가 하나의 틀이 됩니다. [[xiong-ai-educational-measurement-review-2026|Xiong과 Li(2026)]]는 313개 논문에 걸쳐 세 시대 — 형성기(2015–2018), 확장기(2019–2022), 생성기(2023–현재) — 를 추적하며, 구인과 타당성 논증이 [[human-ai-collaboration|인간-AI 협업]]을 위해 새로 쓰여야 한다고 주장합니다. [[item-response-theory|IRT]]와 고전검사이론 모형이 인간이 보조받지 않는 수행 위에 세워졌기 때문입니다.
 
-### 연구에서 이 평가가 드러나는 방식
+## 연구에서 이 평가가 드러나는 방식
 
 - **산출물 신뢰성과 정답(ground truth):** [[ground-truth-reliability-aied|정답의 현대화]]는 교육 분야 AI 평가의 신뢰성 문제가 흔히 참조 자료 자체 — 시스템이 판단되는 "정답" 라벨 — 로 거슬러 올라간다고 주장하며, 신뢰성과 타당성을 향한 네 가지 전환을 제안합니다. [[calibrating-trustworthiness-llm-education-2026|신뢰성의 보정]]은 이해관계자와 함께 평가 지표와 [[visualization|시각화]]를 공동 설계하여, AI 도구에 대한 신뢰가 입증되고 해석 가능한 증거 위에 놓이게 합니다.
 
@@ -59,7 +59,7 @@ ai_assist:
 - **프롬프트 민감성은 LLM 채점자의 일차적 속성입니다.** [[llm-graders-computer-science-exams-2026|Habibullah 외(2026)]]는 570명의 학생 [[cs-education|컴퓨터 비전]] 시험을 171개 구성으로 채점하고, 1,038명의 학생 [[machine-learning|머신러닝]] 시험을 162개 구성으로 채점했습니다. 짧은 "엄격한 채점자" 전문 서문이 공개 가중치 모형 17개 중 14개를 채점 밴드 밖으로 밀어냈으며, 반복 실험은 그 취약성은 재현했으나 그 방향은 재현하지 못해 중립 프롬프트가 과대 채점했던 일곱 모형을 개선했습니다. 하나의 프롬프트가 얻은 정확도는 쓸 만한 채점자의 증거가 아니며, 부호가 있는 편향은 평균절대오차 수치 곁에 놓여야 합니다. 종합된 이중 채점 사례에 대한 LoRA 미세 조정은 다섯 개의 작은 모형을 인간과 대등한 수준으로 끌어올리고 인격(persona) 민감성을 거의 지웠습니다.
 - **평가 가능한 증거는 과제의 속성이 아니라 설계 변수입니다.** [[durable-skills-measurement-ai-teammates-2026|Globerson 외(2026)]]는 Executive LLM이 루브릭을 쥐고 대화를 평가되는 기술 쪽으로 조종하게 하여, 평가 가능한 증거를 프로젝트 관리에서 92.4%, 갈등 해결에서 85%로 끌어올렸습니다. 한편 참여자에게 그 기술에 주의를 기울이라고 말하는 것은 아무것도 바꾸지 않았습니다.
 
-### 왜 교육 분야 AI 평가는 어려운가
+## 왜 교육 분야 AI 평가는 어려운가
 
 교육 분야 AI 개입 평가는 몇 가지 이유로 어렵습니다. 첫째, **신뢰성은 충분하지 않습니다**. 시스템이 루브릭과는 일치하면서도 교수법을 잘못 판단할 수 있습니다. [[machines-misread-pedagogical-quality|인간-기계 정렬 연구]]가 이를 보여 줍니다. 둘째, **정답은 논쟁적입니다**. 무엇이 "옳은" 답, 성적, 교수의 한 수인지 자체가 학문과 전문가에 따라 달라지는 판단입니다. [[ground-truth-reliability-aied|정답의 현대화]]를 참고하십시오. 셋째, **교육적 타당성은 다차원입니다**. [[assessment-validity]], [[formative-assessment]], [[authentic-assessment]] 각각이 단일 정확도 지표가 담아낼 수 없는 서로 다른 기준을 부과합니다. 마지막으로, **대상은 계속 움직입니다**. 에이전트형 AI와 [[multimodal]] 모형은 텍스트 모형 벤치마크의 재사용이 아니라 평가 틀([[agentic-ai]], [[tool-invariant-framework-agentic-ai|도구 불변 평가]])을 요구합니다. 평가 발견은 AIED 연구 전체에 영향을 미치는 것과 같은 관통하는 한계에도 따릅니다. AI가 나아짐에 따라 낡아지고, 재현 가능성과 FAIR 실천에 의존하며, 독점 시스템에 기댈 수 있습니다. 따라서 평가 결과는 [[limitations-in-aied-research]]의 경고와 함께 읽어야 합니다. 더해 부상하는 차원은 **자원 지속가능성**입니다. 온프레미스 배치는 점점 정확도와 나란히 에너지 소비와 하드웨어 요건(예: VRAM, 질의당 mWh)을 보고합니다. [[shen-sustainable-ai-knowledge-base-cs-education-2026|지속가능한 온프레미스 지식베이스 보조자]]를 참고하십시오. 따라서 완전한 평가는 출력 품질뿐 아니라 환경적·인프라적 비용을 저울질합니다.
 
@@ -88,11 +88,11 @@ ai_assist:
 
 - **AI 난도 척도는 평가 보조물이지 성적이 아니다.** AI 난도 추정은 문제 수준 통과율을 강하게 추적했으나(rho = −0.871, 79개 문제에 걸쳐) 106개 문제의 CS101 표본에서는 −0.552로 약해지고 시험 수준에서는 0에 가까워졌으므로, 이런 척도는 학생 평가가 아니라 문항 검토에 속합니다([[llm-difficulty-calibration-programming-exams-2026|Yan 외(2026)]]).
 
-### 관련 개념과의 연결
+## 관련 개념과의 연결
 
 교육 분야 AI 개입 평가는 지식베이스의 방법과 위험의 중심에 놓입니다. 이 평가는 [[assessment]]와 [[automated-assessment]] 안에서 [[assessment-validity]], [[educational-measurement]], [[benchmark]]를 구현합니다. 인간 감독에 대한 요구는 [[human-in-the-loop-ai]]와 [[teacher-role]]에, 신뢰성에 대한 초점은 [[hallucination-risk]], [[automated-assessment|Confidence Aware AI Assessment]], [[trust-calibration]]에 연결됩니다. 수행의 평가와 학습의 평가 사이의 구분은 [[genai-performance-vs-learning|수행 대 학습]]과 [[student-modeling]]에, 교수법적 에이전트의 평가는 [[intelligent-tutoring]], [[llm-training-and-fine-tuning]], [[pedagogical-safety]]에 연결됩니다.
 
-### 학습 성과 평가하기
+## 학습 성과 평가하기
 
 교육 분야 AI 평가의 중심 대상은 **학습 성과**, 즉 AI 도구가 만들어 내는 지식이나 기술의 측정 가능한 향상입니다([[learning-gains]] 참고). 성과를 엄밀하게 평가하려면 옳은 결과 측정치를 골라야 합니다. [[genai-performance-vs-learning|수행과 학습은 갈리기]] 때문입니다. AI는 AI가 지원하는 즉각적 과제 수행은 부풀리면서 지속적이고 보조 없는 학습은 그대로 두거나 줄일 수 있습니다([[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]] 참고). 따라서 효과적인 성과 평가는 다음을 따릅니다.
 

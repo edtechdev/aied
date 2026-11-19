@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,8 @@ UDL은 "학습자를 고치는 것"을 "설계를 고치는 것"으로 바꿉니
 - 같은 학습 결과에 맞춰 평가 산출물의 선택권(에세이, 발표, 영상, 다이어그램, 코드)을 제공하라.
 - *사례:* 한 프로젝트는 서면 보고서, AI 지원 영상 설명, 혹은 라이브 시연으로 제출할 수 있게 하며, 각 양식을 AI [[scaffolding|비계]]가 뒷받침합니다. [[assessment]] 설계에서 이것은 [[authentic-assessment]]의 표상적 공정성과 나란히 놓입니다.
 
+선택지는 서로 동등하게 신뢰할 만해 보일 때에만 포용이 됩니다. 한 이과대학 연구에서 학생들은 영상과 에세이 사이의 선택을 좋아했지만, 동료들이 에세이가 더 낮게 채점될 것을 두려워했다고 보고했습니다. 따라서 형식 메뉴를 전략적 추측이 아니라 포용으로 바꾸는 것은 공유된 기준과 설명된 채점 논리입니다([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]]).
+
 **AI 리터러시와 행위성을 위해 설계하라.**
 - 학생들에게 AI를 어떻게, 언제 사용할지 가르치고, 학습자(도구가 아니라)가 책임지게 하는 검사 지점을 만들어라. [[ai-literacy]]와 [[reducing-ai-misuse]]를 참조하라.
 - *사례:* UDL에 맞춘 과제 하나는 학생들이 AI로 초안을 작성할 수 있게 하지만 자신의 기여에 대한 [[metacognition|초인지적]] 성찰을 요구하여, 참여와 행위성 원칙을 보존합니다.
@@ -121,3 +123,4 @@ UDL은 "학습자를 고치는 것"을 "설계를 고치는 것"으로 바꿉니
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 생성 AI, 가상 현실, 그리고 그 너머: 고등 교육의 신경다양성 학생을 위한 디지털 보조 기술의 범위 검토
 - [[faculty-accessible-course-design-ai-2026]] — "AI is reducing options I had used": ChatGPT 세상에서 접근 가능한 강의 설계에 대한 교수 인식 탐구
 - [[alenezi-ai-universal-design-learning-kuwait-2026]] — 쿠웨이트 고등교육 기관에서의 인공지능과 보편적 학습 설계: 포용 교육을 위한 AI 기반 체계를 향하여
+- [[mcdonald-inclusive-assessment-genai-2026]] — GenAI 시대의 포용적 평가 설계: 교수법과 실천의 진전

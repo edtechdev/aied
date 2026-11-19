@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,8 @@ ai_assist:
 ## 미디어와 공적 프레이밍
 
 학생들은 또한 [[ai-education|교육에서의 AI]]를 둘러싼 더 넓은 미디어와 공적 담론에 의해 프레이밍되며, 이것은 어떤 교수의 메시지보다 먼저 그들의 기초 기대를 형성합니다. 공적 담론에 대한 분석과 YouTube 같은 플랫폼이 교육에서 ChatGPT 사용을 어떻게 프레이밍하는지에 대한 분석은 지배적 프레임 — 과대광고, 비관론, 실용주의 — 이 학습자와 [[teacher-role|교육자]]들이 기술에 접근하는 방식에 영향을 준다는 것을 보여줍니다([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]). 교사의 효과적인 프레이밍은 종종 이러한 주변 서사를 의도적으로 반박하거나 방향을 바꾸는 것을 의미합니다.
+
+프레이밍은 또한 이후 단계에서 자격의 값을 매깁니다. 약 1,750명의 미국 채용 전문가를 대상으로, 학생의 AI 사용을 보조가 아닌 대체로 묘사하면 면접 제안을 받을 가능성과 연봉 협상 의향이 낮아졌으며, GPA가 높은 지원자에게서 가장 두드러졌습니다([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## 실천 지침
 

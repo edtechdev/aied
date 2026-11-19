@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -186,7 +186,7 @@ AI 리터러시의 핵심 미해결 질문은 *어떤* 기술이 누구에게 �
 
 **1. 구조화된 역량 프레임워크를 체크리스트가 아닌 비계로 사용하십시오.** 성숙한 프레임워크는 설계자에게 공유된 어휘와 발달 단계가 배열된 목표를 제공합니다. [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL 프레임워크]]는 AI 리터러시를 세 영역(AI Concepts; Application and Technical Skills; AI Digital Citizenship)에 걸쳐 네 개의 비계 수준 — Understand and Explore → Apply and Integrate → Evaluate and Create → AI++ — 으로 조직합니다. [[ai-literacy-heptagon-2026|AI 리터러시 헵타곤]]은 일곱 차원(기술 지식, 적용, 비판적 사고, 윤리, 사회적 영향, 통합, 법률/규제)을 Bloom에 맞춘 네 개의 숙련도 수준과 교차시키며, 강조점이 반드시 **학문 맥락에 맞게 조정**되어야 함을 강조합니다 — 기술 프로그램은 적용에, [[humanities-education|인문학]] 프로그램은 윤리적·사회적 영향 추론에 무게를 둡니다.([[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|MacCallum 외, 2026]])([[ai-literacy-heptagon-2026|Hackl 외, 2026]])
 
-**2. ICAP 방식 전반에 걸쳐 학습자를 참여시키십시오.** [[icap-framework|ICAP 프레임워크]]를 적용하면, 효과적인 교수법은 학습자에게 여러 인지 수준에서 참여할 기회를 제공합니다 — 수동적 노출(AI 개념 강의), 능동적 조작(도구 직접 사용), 구성적 생성(AI 산출물 제작, 자기 설명), 상호작용적 대화(동료 및 AI와의 협력적 [[problem-solving|문제 해결]]) — 학습 목표에 맞는 방식을 선택하면서 말입니다. [[meta-analysis-systematic-review|체계적 고찰]]은 성공적인 협력적 AI 리터러시 개입이 네 가지 ICAP 방식을 모두 아우름을 확인했습니다.([[hingle-collaborative-ai-literacy-2025|Hingle 외, 2025]])
+**2. ICAP 방식 전반에 걸쳐 학습자를 참여시키십시오.** [[icap-framework|ICAP 프레임워크]]를 적용하면, 효과적인 교수법은 학습자에게 여러 인지 수준에서 참여할 기회를 제공합니다 — 수동적 노출(AI 개념 강의), 능동적 조작(도구 직접 사용), 구성적 생성(AI 산출물 제작, 자기 설명), 상호작용적 대화(동료 및 AI와의 협력적 [[problem-solving|문제 해결]]) — 학습 목표에 맞는 방식을 선택하면서 말입니다. [[meta-analysis-systematic-review|체계적 고찰]]은 성공적인 협력적 AI 리터러시 개입이 네 가지 ICAP 방식을 모두 아우름을 확인했습니다.([[hingle-collaborative-ai-literacy-2025|Hingle 외, 2025]]) 방식 구분은 겉치레가 아닙니다. AI 밖에서, 윤리 교수에 관한 메타분석은 도덕적 결과가 전반적으로 향상되었음을 발견했지만, 그 이득은 토론 기반 전달에서 나온 반면 강의 전용 전달은 아무것도 산출하지 못했습니다([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod 외, 2026]]).
 
 **3. 자기 인식이 아닌 입증된 역량을 평가하십시오.** 자기보고 AI 리터러시는 실측 수행과 크게 벌어집니다 — 교사들은 자신의 AI 기술을 약 40% 과대평가하며, 수행 기반 척도는 자신감 설문보다 교실의 AI 통합을 훨씬 잘 예측합니다(r≈0.72 vs 0.31). 개입을 수행 기반 평가와 보정(calibration)을 중심으로 설계하고, 자신감 조사가 아니라 진단적 프로파일(과대평가자 vs 진짜 초심자)을 사용하여 지원을 목표화하십시오.([[ai-literacy-assessment-misalignment|Zhang 외, 2026]])
 
@@ -322,74 +322,76 @@ AI 리터러시는 과잉 의존에 대해 **양날의 칼**입니다. [[student
 
 ## 연결된 문서
 
-- [[jordan-faculty-ai-oer-creation-2025|프롬프트에서 실천으로: AI 지원 OER 제작을 탐구하는 교수자 중심 이니셔티브]] (Jordan 외, 2025)
-- [[powell-chatbot-enhanced-oer-composition-2026|텍스트가 응답하다: 비동기 작문 II 강좌에서의 챗봇 강화 OER]] (Powell 외, 2026)- [[feng-ai-literacy-psychological-dimensions-2026|58편의 학교교육 연구: 심리적 핵심을 공유하는 교사 6차원·학생 8차원 AI 리터러시]] (Feng & Carolus, 2026)
-- [[guo-ai-literacy-developmental-paces-2026|K–12 기록 118건을 아홉 범주로: 감각적 놀이에서 팀 프로젝트로 이어지는 열 가지 고려의 진행 단계와, 과정을 포착하지 못하는 검증된 도구 아홉 개]] (Guo, Ali & Wong, 2026)
-- [[cerioli-human-centered-ai-literacy-schools-2026|iRAISE의 4개국 검토: 194개국 중 84개국이 MIL을 기술적 기술 너머로 교육과정에 담았고, 네 체계 모두에서 인간적 요인이 결과를 결정했습니다]] (Cerioli, 2026)
-- [[islam-credibility-weaker-llms-2026|학부생 42명: 먼저 답하기 조건에서 AI 신뢰성이 6.60에서 5.65로 낮아졌고, 검증 조건은 6.22였습니다]] (Islam 외, 2026)
-- [[yang-collaborative-ai-literacy-measures-review-2026|AI 리터러시 측정 도구 17개: 협력은 구성개념으로 거의 평가되지 않으며, 제안된 조정·의사소통·초인지 요인은 검증되지 않은 채 남아 있습니다]] (Yang 외, 2026)
-- [[early-childhood-ai-holistic-competencies-review-2026|AI 시대의 유아기 형성: 역량, 교수법, 생태적 지원]] (Pei, 2026)
-- [[ai-security-literacy-k12-framework-2026|AI 보안 리터러시: 생태계 기반 역량 프레임워크와 K-12 학습 플랫폼]]
-- [[mu-ai-competence-ethical-awareness-anxiety-2026|대처 프레임워크 없이 리터러시의 윤리적 차원을 높이면 학생을 더 불안하게 남길 수 있습니다]]
-- [[caeai-digital-literacy-frameworks-review-2026|80개의 검증된 프레임워크가 보여주는 AI의 디지털 리터러시 확장, 그리고 덜 명시된 채 남는 교육자의 인간–AI 협업]] (Guo 외, 2026)
-- [[ai-literacies-young-adults-2025|공영 미디어를 위한 여섯 역량 영역, 다섯 가치, 세 진행 수준]]
-- [[ai-literacy-heptagon-2026|AI 리터러시 헵타곤]]
-- [[ai-literacy-continuum-higher-education|AI 리터러시를 위한 실천적 5단계 연속체]]
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026|AI 리터러시 도구 집합의 매핑: 55개 구성개념, jangle과 jingle 쌍, LLM 기반 코딩]]
-- [[ai-literacy-instrument-development-systematic-review-2026|58개 연구와 47개 AI 리터러시 도구에 대한 COSMIN 평가: 타당성 증거는 내부 구조 주변에 모여 있고 준거·내용·동일성 증거는 대체로 부재한 채 남아 있습니다]] (Jin 외, 2026)
-- [[gails-generative-ai-literacy-scale-2026|GAILS: 성인 341명에서 검증된 34문항 생성형 AI 리터러시 척도, 성별과 학생/노동력 집단에 걸쳐 스칼라 동일]] (Zhang 외, 2026)
-- [[jin-glat-genai-literacy-assessment|GLAT: 검증된 생성형 AI 리터러시 평가 검사]]
-- [[ai-literacy-assessment-misalignment|AI 리터러시 평가: 자기보고 대 수행의 불일치]]
-- [[genai-assessment-literacy-scale-2026|GAA-LS: 고등교육 학생을 위한 검증된 생성형 AI 평가 리터러시 척도]] (Nie 외, 2026)
-- [[competent-generative-ai-use-measures-review-2026|AI 리터러시를 넘어서: 유능한 생성형 AI 사용을 위한 측정의 구조화된 고찰과 탐색적 메타 분석]]
-- [[ai-literacy-correlates-affective-behavioral-cognitive-2025|AI 리터러시가 무엇과 상관하는지에 관한 체계적 고찰]]
-- [[assessing-teachers-ai-literacy-measurement-tools-2026|교사의 AI 리터러시를 측정하는 도구들에 관한 체계적 고찰]]
-- [[ai-literacy-self-assessment-questionnaire-primary-2025|초등 고학년 학생을 위한 자기평가 질문지]]
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026|초인지적 사회적 실천으로서의 AI 리터러시]]
-- [[liu-ai-literacy-interventions-meta-analysis-2026|AI 리터러시 개입 효과의 메타 분석]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|비계화된 AI 리터러시(SAIL) 프레임워크]]
-- [[age-tiered-ai-literacy-guidebooks-2026|학생 794명과 교사 37명으로 평가한 연령 계층화 AI 리터러시 지침서: 9-12세와 13-18세 판에 걸쳐 동일한 4요인 수용 구조, 모든 구성개념에서 어린 학습자가 더 높음]]
-- [[li-mroziak-reorienting-critical-ai-literacy|비판적 AI 리터러시: 권력, 저항, 주체성]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026|프롬프트 엔지니어링과 구분되는 기초 리터러시로서의 프롬프트 리터러시: 5단계 인간 중심 GenAI 참여 모형]] (Miles, Haber-Curran & Arar, 2026)
-- [[contextual-sycophancy-ai-literacy|AI 리터러시 개입으로서의 상황적 아부]]
-- [[student-dependency-on-ai-literacy-self-efficacy-2026|AI 리터러시, 자기효능감, 의존]]
-- [[clerc-ai-literacy-workshop-llm-regulation-2026|2시간 워크숍이 중학교 학생들의 LLM 상호작용 규제를 변화시킨 반면, 자기보고는 아무것도 예측하지 못했습니다]] (Clerc 외, 2026)
-- [[ai-literacy-sdg-governance-framework-2026|지속가능 발전을 위한 거버넌스 역량으로서의 AI 리터러시: AIRE 분류 체계와 AI–SDG 연계]] (Islam, Morshed & Islam, 2026)
-- [[ukraine-ai-literacy-secondary-framework-2026|우크라이나 중등 교육자를 위한 5단계 AI 리터러시 프레임워크]] (Marienko 외, 2026)
-- [[niri-steam-ai-literacy-review-2026|AI 리터러시를 위한 STEAM 교육: 체계적 고찰]]
-- [[hingle-collaborative-ai-literacy-2025|협력적 AI 리터러시 프레임워크]]
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|어떤 해석적 작업을 위임하지 말아야 하는지를 판단하는 것으로서의 AI 리터러시 재규정]]
-- [[davor-ai-supported-learning-higher-order-outcomes-2026|AI 검증 리터러시는 초인지적 자기조절을 통해서만 의미가 있었고, 인지적 외주화는 더 낮은 비판적 사고와 문제 해결을 예측했습니다]] (Davor 외, 2026)
-- [[yu-designing-ai-literacy-self-determination-2026|사고 기반 교수법이 객관적으로 평정된 과업에서 기술 기반 교수법을 능가했고, 자율성과 유능성이 효과를 떠받쳤습니다]] (Yu, Lin & Chen, 2026)
-- [[hu-psychological-predictors-continued-chatgpt-use-2026|AI 리터러시에서 ChatGPT 지속 사용으로의 경로는 신뢰와 학업적 자기효능감을 지나며, AI 불안이 첫 연결을 얇게 만듭니다]] (Hu, 2026)
-- [[zhi-modeling-measuring-graduate-genai-literacy-2026|대학원 생성형 AI 리터러시를 위한 Marzano 기반 5차원 모형과 15문항 자기보고 척도]] (Zhi 외, 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026|초기 수학 교사 교육에서의 AI에 관한 11개 연구, 대부분 단기적이며 윤리는 3개에서만 다루어졌습니다]] (Pinto 외, 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026|대학 화학에서 검증 중심의 생성형 AI 통합, 핵심적인 AI 리터러시 요구로서의 표상 번역]] (Vega-Baudrit & Rivera Alvarez, 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026|누가 행동하고, 누가 알며, 누가 답하는가? 생성형 AI 고등교육 연구의 주체성, 인식론적 책임, 책무에 관한 말뭉치 지원 담론 분석]]
-- [[elsayary-ai-literacy-employability-competencies-2026|자기보고 AI 리터러시가 지각된 취업 가능성 준비도의 60.8%를 설명했고, 평가적·정서적 차원이 가장 강했습니다]] (ElSayary & Ragab, 2026)
-- [[fagerlund-competency-agency-purposes-ai-education-2026|Biesta의 qualification, socialization, subjectification으로 읽은 교사들의 AI 교육 목적, 그리고 정보에 입각한 AI 주체성 휴리스틱]] (Fagerlund 외, 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026|도입이나 자신감이 아닌 설계의 질로서의 교사 준비 태도, 자원으로서의 자기효능감, 미준비가 아닌 비사용]] (Charles, 2026)
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|K-12 AI 교육이 57개의 긍정적 효과에 걸쳐 통합 g = 0.892로 AI 리터러시를 높였고, 측정의 불일치가 이질성을 설명합니다]] (Yu 외, 2026)
-- [[sun-student-genai-entanglement-literacy-demands-2026|리터러시 요구는 학생–GenAI 얽힘 유형에 따라 다르며, Assistant와 Enabler 형태가 지배적이고 나머지는 제도적 이유로 주변에 머뭅니다]] (Sun, Dohn & Rehm, 2026)
-- [[ai-competence-framework-landscape-2026|교육과 노동력 개발을 위한 16개 AI 역량 프레임워크의 비교 분석]]
-- [[ai-literacy-determinants-university-students-2026|공동 결정요인으로서의 외부 자원, 디지털 역량, 심리적 프로파일, 그리고 기술 불안의 부호 반전]]
-- [[sfailq-six-facet-ai-literacy-questionnaire-2026|책임 있는 사용과 자기발전 요인을 더한 6요인 도구, 청소년·청년·중년에 걸쳐 스칼라 동일]]
-- [[faculty-ai-well-being-social-supports-2026|교수의 AI 웰빙, 사회적 지원, AI 리터러시의 구조방정식 모형]]
-- [[bozkurt-3wai-literacy-scale-2026|세 가지 서로 다른 AI 리터러시 요인(What/How/Why)을 지닌 검증된 17문항 자기보고 척도; Know-How와 Know-Why가 가장 밀접히 결합(HTMT = 0.544)]
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026|STEM 교육에서 AI 리터러시에 관한 가장 많이 인용된 열 편의 연구 종합]] (Hallström 외, 2026)
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026|AI에 관해 배우라는 요구를 훈육적 담론으로 읽기]] (Wang & Jin, 2026)
-- [[genait-genai-literacy-test-high-school-2026|GenAIT: 고등학생을 위한 객관적 생성형 AI 리터러시 검사와 LLM 사용 및 인식과의 연관]] (Puppart, Laak 및 Aru, 2026)
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|K-12 AI 리터러시 프레임워크 50개: 생성형 AI를 특정해 평가하는 도구는 하나뿐]]
-- [[kim-overtrust-ai-literacy-2026|AI 리터러시는 이변량에서는 과신과 상관이 없으나 성과 기대를 모형화하면 부적 간접 연관을 지닙니다]]
-- [[liang-ai-literacy-facets-creative-higher-education-2026|창조적 고등교육에서의 AI 리터러시 측면: 학습 성과 및 학업 웰빙과의 연관]]
-- [[chen-genai-literacy-task-performance-cognitive-load-2026|생성형 AI 리터러시 차원의 분화: Use and Apply는 글의 질을, Know and Understand는 낮은 정신적 부하를 예측하며 어느 쪽도 동기를 움직이지 않습니다]] (Chen 외, 2026)
-- [[huang-ai-literacy-vocational-problem-solving-2026|도구 접근이 아니라 인지적 움직임을 통해 문제 해결에 도달하는 리터러시]]
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|인지 아웃소싱에 맞선 시민적 대항 무게로서의 비판적 AI·미디어 리터러시]]
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|13개 분반에 걸쳐 구현된 PAIRR: 읽기, 동료 피드백, 루브릭 기반 AI 피드백, 성찰]]
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|비판적 AI 리터러시를 가르치기 위한 네 가지 기준과 네 가지 은유]]
-- [[cuenca-rodriguez-genai-use-caution-trajectories-2026|학생들은 생성형 AI를 의심하기보다 먼저 사용하는 법을 배운다: 청소년기에서 대학까지 학업적 사용과 주의의 서열 궤적]]
-- [[boison-freirean-critical-ai-literacy-framework-2026|역량 목록이 인식에서 행동으로의 이동을 설명할 수 없다고 주장하는 프레이리적 비판]]
-- [[dumancic-tool-to-method-ai-literacy-history-2026|도구에서 방법으로: 상위 수준 역사 강좌에서 AI 리터러시 발전시키기]]
-- [[ago-prompt-literacy-allied-health-2026|가나의 보건계열 학부생 417명: 76.3%가 책임 있는 AI 훈련을 받은 적이 없고, 40.8%가 교직원 지도를 불충분하다고 평정했습니다(적절하다는 28.1%)]] (Ago 외, 2026)
-- [[making-ai-work-for-students-ofs-2026|OfS와 Advance HE(2026): 127개 기관의 교직원 244명과 학생 91명을 대상으로 한 탐지, 평가 설계, AI 리터러시, 전략 조사]]
-- [[yan-genai-use-critical-thinking-feedback-literacy-2026|학부생 421명: 피드백 리터러시가 AI와 비판적 사고 사이 연관의 72%를 담당합니다]]
+- [[jordan-faculty-ai-oer-creation-2025]] — 프롬프트에서 실천으로: AI 지원 OER 제작을 탐구하는 교수자 중심 이니셔티브 (Jordan 외, 2025)
+- [[powell-chatbot-enhanced-oer-composition-2026]] — 텍스트가 응답하다: 비동기 작문 II 강좌에서의 챗봇 강화 OER (Powell 외, 2026)- [[feng-ai-literacy-psychological-dimensions-2026]] — 58편의 학교교육 연구: 심리적 핵심을 공유하는 교사 6차원·학생 8차원 AI 리터러시 (Feng & Carolus, 2026)
+- [[guo-ai-literacy-developmental-paces-2026]] — K–12 기록 118건을 아홉 범주로: 감각적 놀이에서 팀 프로젝트로 이어지는 열 가지 고려의 진행 단계와, 과정을 포착하지 못하는 검증된 도구 아홉 개 (Guo, Ali & Wong, 2026)
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE의 4개국 검토: 194개국 중 84개국이 MIL을 기술적 기술 너머로 교육과정에 담았고, 네 체계 모두에서 인간적 요인이 결과를 결정했습니다 (Cerioli, 2026)
+- [[islam-credibility-weaker-llms-2026]] — 학부생 42명: 먼저 답하기 조건에서 AI 신뢰성이 6.60에서 5.65로 낮아졌고, 검증 조건은 6.22였습니다 (Islam 외, 2026)
+- [[yang-collaborative-ai-literacy-measures-review-2026]] — AI 리터러시 측정 도구 17개: 협력은 구성개념으로 거의 평가되지 않으며, 제안된 조정·의사소통·초인지 요인은 검증되지 않은 채 남아 있습니다 (Yang 외, 2026)
+- [[early-childhood-ai-holistic-competencies-review-2026]] — AI 시대의 유아기 형성: 역량, 교수법, 생태적 지원 (Pei, 2026)
+- [[ai-security-literacy-k12-framework-2026]] — AI 보안 리터러시: 생태계 기반 역량 프레임워크와 K-12 학습 플랫폼
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 대처 프레임워크 없이 리터러시의 윤리적 차원을 높이면 학생을 더 불안하게 남길 수 있습니다
+- [[caeai-digital-literacy-frameworks-review-2026]] — 80개의 검증된 프레임워크가 보여주는 AI의 디지털 리터러시 확장, 그리고 덜 명시된 채 남는 교육자의 인간–AI 협업 (Guo 외, 2026)
+- [[ai-literacies-young-adults-2025]] — 공영 미디어를 위한 여섯 역량 영역, 다섯 가치, 세 진행 수준
+- [[ai-literacy-heptagon-2026]] — AI 리터러시 헵타곤
+- [[ai-literacy-continuum-higher-education]] — AI 리터러시를 위한 실천적 5단계 연속체
+- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — AI 리터러시 도구 집합의 매핑: 55개 구성개념, jangle과 jingle 쌍, LLM 기반 코딩
+- [[ai-literacy-instrument-development-systematic-review-2026]] — 58개 연구와 47개 AI 리터러시 도구에 대한 COSMIN 평가: 타당성 증거는 내부 구조 주변에 모여 있고 준거·내용·동일성 증거는 대체로 부재한 채 남아 있습니다 (Jin 외, 2026)
+- [[gails-generative-ai-literacy-scale-2026]] — GAILS: 성인 341명에서 검증된 34문항 생성형 AI 리터러시 척도, 성별과 학생/노동력 집단에 걸쳐 스칼라 동일 (Zhang 외, 2026)
+- [[jin-glat-genai-literacy-assessment]] — GLAT: 검증된 생성형 AI 리터러시 평가 검사
+- [[ai-literacy-assessment-misalignment]] — AI 리터러시 평가: 자기보고 대 수행의 불일치
+- [[genai-assessment-literacy-scale-2026]] — GAA-LS: 고등교육 학생을 위한 검증된 생성형 AI 평가 리터러시 척도 (Nie 외, 2026)
+- [[competent-generative-ai-use-measures-review-2026]] — AI 리터러시를 넘어서: 유능한 생성형 AI 사용을 위한 측정의 구조화된 고찰과 탐색적 메타 분석
+- [[ai-literacy-correlates-affective-behavioral-cognitive-2025]] — AI 리터러시가 무엇과 상관하는지에 관한 체계적 고찰
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 교사의 AI 리터러시를 측정하는 도구들에 관한 체계적 고찰
+- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 초등 고학년 학생을 위한 자기평가 질문지
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — 초인지적 사회적 실천으로서의 AI 리터러시
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI 리터러시 개입 효과의 메타 분석
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — 비계화된 AI 리터러시(SAIL) 프레임워크
+- [[age-tiered-ai-literacy-guidebooks-2026]] — 학생 794명과 교사 37명으로 평가한 연령 계층화 AI 리터러시 지침서: 9-12세와 13-18세 판에 걸쳐 동일한 4요인 수용 구조, 모든 구성개념에서 어린 학습자가 더 높음
+- [[li-mroziak-reorienting-critical-ai-literacy]] — 비판적 AI 리터러시: 권력, 저항, 주체성
+- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — 프롬프트 엔지니어링과 구분되는 기초 리터러시로서의 프롬프트 리터러시: 5단계 인간 중심 GenAI 참여 모형 (Miles, Haber-Curran & Arar, 2026)
+- [[contextual-sycophancy-ai-literacy]] — AI 리터러시 개입으로서의 상황적 아부
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI 리터러시, 자기효능감, 의존
+- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — 2시간 워크숍이 중학교 학생들의 LLM 상호작용 규제를 변화시킨 반면, 자기보고는 아무것도 예측하지 못했습니다 (Clerc 외, 2026)
+- [[ai-literacy-sdg-governance-framework-2026]] — 지속가능 발전을 위한 거버넌스 역량으로서의 AI 리터러시: AIRE 분류 체계와 AI–SDG 연계 (Islam, Morshed & Islam, 2026)
+- [[ukraine-ai-literacy-secondary-framework-2026]] — 우크라이나 중등 교육자를 위한 5단계 AI 리터러시 프레임워크 (Marienko 외, 2026)
+- [[niri-steam-ai-literacy-review-2026]] — AI 리터러시를 위한 STEAM 교육: 체계적 고찰
+- [[hingle-collaborative-ai-literacy-2025]] — 협력적 AI 리터러시 프레임워크
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — 어떤 해석적 작업을 위임하지 말아야 하는지를 판단하는 것으로서의 AI 리터러시 재규정
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — AI 검증 리터러시는 초인지적 자기조절을 통해서만 의미가 있었고, 인지적 외주화는 더 낮은 비판적 사고와 문제 해결을 예측했습니다 (Davor 외, 2026)
+- [[yu-designing-ai-literacy-self-determination-2026]] — 사고 기반 교수법이 객관적으로 평정된 과업에서 기술 기반 교수법을 능가했고, 자율성과 유능성이 효과를 떠받쳤습니다 (Yu, Lin & Chen, 2026)
+- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — AI 리터러시에서 ChatGPT 지속 사용으로의 경로는 신뢰와 학업적 자기효능감을 지나며, AI 불안이 첫 연결을 얇게 만듭니다 (Hu, 2026)
+- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — 대학원 생성형 AI 리터러시를 위한 Marzano 기반 5차원 모형과 15문항 자기보고 척도 (Zhi 외, 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — 초기 수학 교사 교육에서의 AI에 관한 11개 연구, 대부분 단기적이며 윤리는 3개에서만 다루어졌습니다 (Pinto 외, 2026)
+- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — 대학 화학에서 검증 중심의 생성형 AI 통합, 핵심적인 AI 리터러시 요구로서의 표상 번역 (Vega-Baudrit & Rivera Alvarez, 2026)
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — 누가 행동하고, 누가 알며, 누가 답하는가? 생성형 AI 고등교육 연구의 주체성, 인식론적 책임, 책무에 관한 말뭉치 지원 담론 분석
+- [[elsayary-ai-literacy-employability-competencies-2026]] — 자기보고 AI 리터러시가 지각된 취업 가능성 준비도의 60.8%를 설명했고, 평가적·정서적 차원이 가장 강했습니다 (ElSayary & Ragab, 2026)
+- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Biesta의 qualification, socialization, subjectification으로 읽은 교사들의 AI 교육 목적, 그리고 정보에 입각한 AI 주체성 휴리스틱 (Fagerlund 외, 2026)
+- [[charles-teacher-readiness-by-design-ai-rich-2026]] — 도입이나 자신감이 아닌 설계의 질로서의 교사 준비 태도, 자원으로서의 자기효능감, 미준비가 아닌 비사용 (Charles, 2026)
+- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — K-12 AI 교육이 57개의 긍정적 효과에 걸쳐 통합 g = 0.892로 AI 리터러시를 높였고, 측정의 불일치가 이질성을 설명합니다 (Yu 외, 2026)
+- [[sun-student-genai-entanglement-literacy-demands-2026]] — 리터러시 요구는 학생–GenAI 얽힘 유형에 따라 다르며, Assistant와 Enabler 형태가 지배적이고 나머지는 제도적 이유로 주변에 머뭅니다 (Sun, Dohn & Rehm, 2026)
+- [[ai-competence-framework-landscape-2026]] — 교육과 노동력 개발을 위한 16개 AI 역량 프레임워크의 비교 분석
+- [[ai-literacy-determinants-university-students-2026]] — 공동 결정요인으로서의 외부 자원, 디지털 역량, 심리적 프로파일, 그리고 기술 불안의 부호 반전
+- [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — 책임 있는 사용과 자기발전 요인을 더한 6요인 도구, 청소년·청년·중년에 걸쳐 스칼라 동일
+- [[faculty-ai-well-being-social-supports-2026]] — 교수의 AI 웰빙, 사회적 지원, AI 리터러시의 구조방정식 모형
+- [[bozkurt-3wai-literacy-scale-2026]] — 세 가지 서로 다른 AI 리터러시 요인(What/How/Why)을 지닌 검증된 17문항 자기보고 척도; Know-How와 Know-Why가 가장 밀접히 결합(HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 교육에서 AI 리터러시에 관한 가장 많이 인용된 열 편의 연구 종합 (Hallström 외, 2026)
+- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — AI에 관해 배우라는 요구를 훈육적 담론으로 읽기 (Wang & Jin, 2026)
+- [[genait-genai-literacy-test-high-school-2026]] — GenAIT: 고등학생을 위한 객관적 생성형 AI 리터러시 검사와 LLM 사용 및 인식과의 연관 (Puppart, Laak 및 Aru, 2026)
+- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — K-12 AI 리터러시 프레임워크 50개: 생성형 AI를 특정해 평가하는 도구는 하나뿐
+- [[kim-overtrust-ai-literacy-2026]] — AI 리터러시는 이변량에서는 과신과 상관이 없으나 성과 기대를 모형화하면 부적 간접 연관을 지닙니다
+- [[liang-ai-literacy-facets-creative-higher-education-2026]] — 창조적 고등교육에서의 AI 리터러시 측면: 학습 성과 및 학업 웰빙과의 연관
+- [[chen-genai-literacy-task-performance-cognitive-load-2026]] — 생성형 AI 리터러시 차원의 분화: Use and Apply는 글의 질을, Know and Understand는 낮은 정신적 부하를 예측하며 어느 쪽도 동기를 움직이지 않습니다 (Chen 외, 2026)
+- [[huang-ai-literacy-vocational-problem-solving-2026]] — 도구 접근이 아니라 인지적 움직임을 통해 문제 해결에 도달하는 리터러시
+- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 인지 아웃소싱에 맞선 시민적 대항 무게로서의 비판적 AI·미디어 리터러시
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13개 분반에 걸쳐 구현된 PAIRR: 읽기, 동료 피드백, 루브릭 기반 AI 피드백, 성찰
+- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — 비판적 AI 리터러시를 가르치기 위한 네 가지 기준과 네 가지 은유
+- [[cuenca-rodriguez-genai-use-caution-trajectories-2026]] — 학생들은 생성형 AI를 의심하기보다 먼저 사용하는 법을 배운다: 청소년기에서 대학까지 학업적 사용과 주의의 서열 궤적
+- [[boison-freirean-critical-ai-literacy-framework-2026]] — 역량 목록이 인식에서 행동으로의 이동을 설명할 수 없다고 주장하는 프레이리적 비판
+- [[dumancic-tool-to-method-ai-literacy-history-2026]] — 도구에서 방법으로: 상위 수준 역사 강좌에서 AI 리터러시 발전시키기
+- [[ago-prompt-literacy-allied-health-2026]] — 가나의 보건계열 학부생 417명: 76.3%가 책임 있는 AI 훈련을 받은 적이 없고, 40.8%가 교직원 지도를 불충분하다고 평정했습니다(적절하다는 28.1%) (Ago 외, 2026)
+- [[making-ai-work-for-students-ofs-2026]] — OfS와 Advance HE(2026): 127개 기관의 교직원 244명과 학생 91명을 대상으로 한 탐지, 평가 설계, AI 리터러시, 전략 조사
+- [[yan-genai-use-critical-thinking-feedback-literacy-2026]] — 학부생 421명: 피드백 리터러시가 AI와 비판적 사고 사이 연관의 72%를 담당합니다
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — 윤리 교수는 효과가 있으나(g = 0.55), 토론 기반 전달만 효과가 있고 강의 전용 전달은 효과가 없습니다
+- [[idea-model-doctoral-education-genai-2026]] — 박사과정생이 자신의 강좌를 재설계하다: 76.5%가 강좌 재설계를 지속했고, 73.5%가 추적 시점에도 AI 지원 실천을 사용 중

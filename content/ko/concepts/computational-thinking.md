@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 
 ## 들어가며
 
-### AI 시대 교실에서의 컴퓨팅 사고
+## AI 시대 교실에서의 컴퓨팅 사고
 
 지식베이스의 연결된 문서들은 한 가지 핵심 주장으로 수렴합니다: 컴퓨팅 사고(CT)는 학생이 AI와 비판적으로 맞서는 데 필요한 개념적 기반이며, 동시에 잘 설계된 AI 지원 학습에 의해 가장 직접적으로 깊어지는 기술이기도 합니다. 아래에서 증거는 연결된 문서들에 근거한 네 가지 주제로 묶입니다.
 
@@ -48,8 +48,12 @@ ai_assist:
 - **K-12, 교사 교육, 평가 재설계 전반에 걸친 CT.** CT는 [[k-12]]에서 [[higher-ed]]까지 전체 스펙트럼에 걸쳐 있으며 평가를 재편하고 있습니다. 초기 아동기 쪽 끝에서는 AI-Play가 CT와 AI 리터러시를 유아(K)–2학년 학습자와 비기술 가족에게 확장합니다; 대학 쪽 끝에서는 [[genai-oop-programming-assessments-2026|OOP 평가 연구]]가 2026년 GenAI 시스템이 실제 프로그래밍 시험에서 평균 학생을 능가하면서도 인터페이스, 추상 클래스, 상속에서는 여전히 실패함을 발견했습니다 — CT가 자동화하기에 여전히 어려운 바로 그 지점을 표시하는 반복되는 개념적 공백입니다. [[solving-vs-evaluating-genai-solutions|무작위 A/B 교차 연구]]는 평가와 비평 과제가 생성 과제와 비슷한 결과를 낳아, CT가 결함 있는 AI 해법을 판단함으로써 행해질 수 있음을 보여 주었습니다 — 비록 그 이득에는 의도적인 비계가 필요합니다. 이 모든 것의 밑에는 교사가 있습니다: microbit 연구는 CT 교수를 [[teacher-education]]에 직접 연결하고, [[hashmi-socratic-physics-chatbot-2025|소크라테스식 챗봇 연구]]는 CT가 요구하는 정밀한 문제 형식화를 측정 가능한 강좌 성과에 묶습니다.
 
 - **검증된 도구가 CT가 가장 어려운 곳을 짚어 냅니다.** 증거 중심 설계로 제작되고 461명의 AI 프로그래밍 학생에 대한 문항 반응 이론으로 검증된 34문항 컴퓨팅 사고 검사는 난이도를 교안 전체에 고르게 퍼뜨리지 않고 데이터 표현, 논리 연산자 배열, 반복 구조에 집중시켰습니다([[zhang-ct-ai-training-test-2026|Zhang & Zhang(2026)]]).
+- 측정 선택이 판정을 바꿉니다: 컴퓨팅 사고와 비판적 사고 항목은 같은 구인을 다룬 23쌍 중 13쌍에서 불일치하거나 혼합된 결론에 이르렀으므로, 자기보고 CT 설문과 과제 기반 측정은 종종 서로 어긋납니다([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan 등(2026)]]).
+- 컴퓨팅 사고는 성향으로도 측정됩니다: 3주간의 5학년 게임 연구에서, 조정된 자기보고 CT 성향은 GenAI 학급 쪽으로 기울었습니다(4.325 대 4.037, p = .046, 부분 에타 제곱 = .052, n = 78). 알고리즘 지식 검사는 두 학급을 구분하지 못했으므로(80.7 대 74.9), 성향 측정과 지식 측정은 서로 다른 구인을 추적한 것입니다([[zhou-genai-contextual-games-computational-thinking-2026|Zhou 등, 2026]]).
 
-### AI 소비자로부터 생산자, 창작자, 설계자로의 전환과 CT
+하위 기술 프로파일은 사전-사후 설계가 보고하는 단일 CT 점수를 복잡하게 만듭니다. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij과 Khlaisang(2026)]]은 컴퓨팅 전공이 아닌 태국 학부생 28명을 대상으로, 5단계 [[design-thinking|디자인 사고]] 순환과 로우코드 앱 구축을 짝지은 3시간 세션을 8주에 걸쳐 진행하고, 프로젝트 작업을 3점 루브릭으로 채점했습니다. 평균 컴퓨팅 사고는 첫 세션의 1.13에서 1.80, 이어서 2.49로 올랐으며, 알고리즘적 사고가 2.08로 가장 강한 가닥이었고 1.46에서 1.93, 2.86으로 이어지는 궤적을 보였습니다. 논리적 사고는 평균 1.54였고 첫 두 세션 사이에서는 1.04에서 1.29로 거의 움직이지 않다가 세 번째 세션에서 2.29에 도달했습니다 — 한 구성 요소의 이득이 다른 구성 요소도 뒤따랐음을 뜻하지는 않는다는 점을 일깨워 줍니다.
+
+## AI 소비자로부터 생산자, 창작자, 설계자로의 전환과 CT
 
 AI 시대 CT의 중심 목표는 학생과 교수를 AI 산출물의 *수동적 소비* 너머로, AI와 함께 그리고 AI를 위해 *만들고, 구축하고, 설계하는* 쪽으로 옮기는 것입니다 — CT를 [[constructivist|구성주의]] 학습(만들면서 배우기)과 일치시키는 의제입니다. 지식베이스의 연결된 문서들은 이 생산자/창작자/설계자 전환을 점점 더 명시적으로 만듭니다. [[ai-writes-code-student-writes-model-2026|모형 저자 연구]]는 GenAI와의 구성을 통한 학습을 측정 가능한 "모형 저자됨" 과정으로 다시 틉니다 — 학생이 AI가 생성한 코드나 답을 소비하는 데 그치지 않고 AI 모형을 저작하고, 디버깅하고, 반복합니다. [[code-to-learn-genai-artifact-construction-2026|CtL-GenAI 프레임워크]]는 이것을 GenAI 시대의 구성주의로 구현하여, 학생이 AI로 만드는 산출물을 CT 발달의 엔진으로 다룹니다. [[computational-thinking-ai-agent-creation|AI 에이전트 창작을 통한 CT]]는 AI 에이전트를 설계하는 것 — 단순히 쓰는 것이 아니라 — 이 분해, 추상화, 알고리즘적 추론을 직접 행하게 함을 보여 줍니다.
 
@@ -60,11 +64,11 @@ AI 시대 CT의 중심 목표는 학생과 교수를 AI 산출물의 *수동적 
 타인의 모형을 재사용하는 것은 생산자 태도에 속합니다. 출판된 AI 모형을 구현하는 것 — 선택하고, 설치하고, 실행하고, 검증하는 것 — 은 예상되는 각 실패에 대한 대안 경로와 함께 배울 수 있는 구조화된 기술로 가르쳐질 수 있으며, 프로그래밍 배경이 없는 세 명의 [[chemistry-education|화학]] BSc 학생이 4개월 안에 효소-기질 예측 모형을 재현하고 확장했습니다([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
 
-### 실천적 지침
+## 실천적 지침
 
 교육자에게 일관된 메시지는 CT가 수동적 AI 사용이 아니라 *명시적이고, 비계가 놓인, 관찰 가능한* 참여를 통해 발달한다는 것입니다. 로보틱스는 교육과정에 대한 명시적 CT 개념 매핑과 짝지으십시오; LLM은 [[simulation]], 자연어 제어, CT 성장의 규모 있는 평가에 쓰되 시스템 사고 같은 구성개념에 대한 인간의 판단은 남겨 두십시오; 그리고 평가를 재설계하여 날것의 생성보다 AI 산출물의 평가와 진단을 강조하십시오. 환경이 무엇이든 — 초기 아동기의 플러그를 뽑은 놀이, 중등 [[stem-education]]의 로봇, [[higher-ed]]의 가상 교사 — 활동을 구조화하여 학생이 분해, 패턴, 추상화, 알고리즘에 대해 추론해야 하게 하고 완성된 해법을 받지 않게 하십시오.
 
-### 다른 개념들과의 연결
+## 다른 개념들과의 연결
 
 컴퓨팅 사고는 [[ai-literacy]]와 [[critical-thinking]] 아래에 놓인 공유된 인지적 기반이며, [[cs-education]]과 [[k-12]] 컴퓨팅의 교육과정 핵심이며, [[educational-robotics]], [[game-based-learning]], [[project-based-learning]]이 가장 잘 봉사하도록 설계되어야 하는 개념적 표적입니다. 그것은 [[llm|대형 언어 모형]]과 [[generative-ai]]가 비계 도구로 쓰일 때 깊어지며, 학생 오해 분류와 CT 인식 평가가 측정하고자 하는 기술입니다. 교사는 [[teacher-education]]과 [[professional-training]]을 통해 그것을 기르며, 그것은 [[physics-education]]와 [[stem-education|STEM]] 전반을 포함한 여러 영역에 걸쳐 전이됩니다.
 
@@ -127,3 +131,5 @@ AI 시대 CT의 중심 목표는 학생과 교수를 AI 산출물의 *수동적 
 - [[astor-computational-thinking-meta-review-2026]] — 128개의 체계적 검토에 대한 CT 메타 검토
 - [[tsingidou-ct-robotics-kindergarten-2026]] — 유치원에서 로보틱스를 통한 CT에 대한 체계적 검토
 - [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: 비프로그래머 과학자가 출판된 AI 모형을 구현하기 위한 재현 가능한 워크플로
+
+- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft: 컴퓨팅 사고와 디지털 리터러시를 향상시키기 위한 디지털 디자인 사고 및 학습 플랫폼

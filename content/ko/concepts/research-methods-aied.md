@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-11-01T11:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,7 @@ AIED 연구의 중심 긴장은 인과 추론에 가장 강한 설계 — 무작
 - **한계:** 비용이 많이 들고 느립니다. 인위적 조건이 생태학적 타당성을 떨어뜨릴 수 있습니다. 빠르게 변하는 AI 도구가 긴 실험을 금세 낡게 만듭니다. 작은 표본이 종종 유의미한 효과를 탐지하기에 검정력이 부족합니다. 잠재적으로 도움이 되는 도구를 의도적으로 제공하지 않는 일에는 [[ethics|윤리]]적 제약이 따릅니다.
 - **사례:** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]].
 - **사전등록은 시험뿐 아니라 이차 분석에도 적용된다.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava(2026)]]는 동일한 ASSISTments 로그(학생 12,716명, 채점된 사건 985,813건)에 대해 힌트가 있는 행을 어떻게 채점하는가만 다른 네 가지 [[knowledge-tracing]] 갱신 규칙을 적용하며, 등록 URL이 담긴 파일이 존재할 때까지 확증 반쪽을 봉인해 두었고, 사전등록된 네 가지 예측이 모두 성립했다고 보고했습니다. 어떤 완료든 인정하는 규칙은 이후의 무조력 수행을 기술 난이도 상수 수준으로만 예측했고(통합 AUC 0.604 대 0.595), 엄격한 규칙(72.8%)에 비해 93.9%의 학생–기술 쌍을 숙달로 판정했습니다. 하나의 로그가 여러 결론을 떠받칠 때, 분석을 미리 고정하는 것이 비교를 신빙 가능하게 만듭니다.
+- **AI 배제 여부를 명시적으로 코딩하라.** AI 금지 사후검사는 그 제한이 문서화되고 준수 여부가 점검될 때에만 검증된 배제로 인정됩니다. 감독하의 시험이나 지필 시험만으로는 충분하지 않습니다([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
 
 ### 조사 및 구조방정식 모형 연구
 
@@ -103,6 +104,8 @@ DBR은 [[rct|실험]]의 인과적 통제를 생태학적 진정성과 반복적
 
 - **강점:** 크고 파편화된 문헌의 효율적 종합. 메타분석은 통합된 효과 추정치를 만들고 조절 변수를 탐지합니다. 증거 기반 실천과 공백 규명에 필수적입니다.
 - **한계:** 포함된 연구의 품질에 의존합니다(쓰레기가 들어가면 쓰레기가 나옵니다). 출판 편향. 이질적인 방법과 결과 측정이 종합을 어렵게 만듭니다. AI 변화의 속도로 금세 낡아집니다.
+- 
+Google Scholar의 관련성 순위는 동적이므로, 그것을 포함하는 PRISMA 검색은 질의만으로는 완전히 재현될 수 없습니다([[ai-mathematics-education-prisma-review-2026|Omirzakova와 Tileubay (2026)]]).
 - **메타연구 주의(2026):** AIED 종합 기반에 대한 비판은 초기 메타분석의 상당수가 구성 개념의 비일관성, 해결되지 않은 이질성, 효과크기 사이 의존성의 미해결, 그리고 타당하지 않은 출판 편향 평가로 훼손되어 — AI 효과크기의 표면값을 부풀린다는 것을 보여 줍니다([[bartos-ai-learning-meta-meta-analysis-2026]], [[oneill-presumed-effective-meta-analysis-2026]], [[weidlich-chatgpt-effect-search-cause-2025]] 참고). 통합된 AIED 효과크기를 상한으로 다루십시오.
 - **사례:** [[zerkouk-comprehensive-review-its-2025]], [[genai-higher-education-systematic-review-2026]], [[chatgpt-critical-creative-thinking-review]], [[zerkouk-comprehensive-review-its-2025]], [[agentic-ai-education-scoping-review]].
 
@@ -121,7 +124,7 @@ DBR은 [[rct|실험]]의 인과적 통제를 생태학적 진정성과 반복적
 
 ### 기타 설계: 종단, 사례, 시뮬레이션 연구
 
-주요 갈래를 넘어, 지식베이스는 시간에 따라 학습자를 추적하는 **종단** 설계([[ai-lms-middle-school-longitudinal|종단 LMS 연구]]), 실제 사용의 **사례 및 현장(in-the-wild)** 연구([[ai-in-the-wild-college|실제 학생 상호작용의 대규모 분석]]), 그리고 LLM이 학생이나 환자를 대신하는 **시뮬레이션** 연구([[llm-student-simulation-teacher-insights|시뮬레이션된 학습자로서의 LLM]], [[simulation]])를 사용합니다. 이들은 넓음이나 통제를 현실성과, 달리 관찰하기 어려운 현상에 대한 접근과 바꿉니다.
+주요 갈래를 넘어, 지식베이스는 시간에 따라 학습자를 추적하는 **[[longitudinal-research|종단]]** 설계([[ai-lms-middle-school-longitudinal|종단 LMS 연구]]), 실제 사용의 **사례 및 현장(in-the-wild)** 연구([[ai-in-the-wild-college|실제 학생 상호작용의 대규모 분석]]), 그리고 LLM이 학생이나 환자를 대신하는 **시뮬레이션** 연구([[llm-student-simulation-teacher-insights|시뮬레이션된 학습자로서의 LLM]], [[simulation]])를 사용합니다. 이들은 넓음이나 통제를 현실성과, 달리 관찰하기 어려운 현상에 대한 접근과 바꿉니다.
 
 ### 전문가 합의 방법: 델파이 기법
 
@@ -201,6 +204,7 @@ AIED 연구 전체에 영향을 미치는 **관통하는 한계**를 의식하�
 **"통계적 유의성은 개입이 효과가 있었는지를 결정합니다."** 그것은 효과가 탐지 가능했는지를 결정할 뿐입니다. 그것이 *학습* 효과였는지는 결과 측정치, 비교, 그리고 그것이 취해진 조건에 달려 있습니다. 그래서 이 페이지의 각 절에 있는 설계와 보고의 선택이 분석만큼 무게를 지닙니다.
 
 ## 연결된 개념
+- [[longitudinal-research]]
 - [[interpreting-and-applying-aied-research]]
 - [[ai-ed-evaluation]]
 - [[rct]]

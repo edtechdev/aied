@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,10 @@ ai_assist:
 다중언어 AI는 번역을 넘어 [[culturally-relevant-pedagogy|문화적으로 관련된 교수법]] — 언어적으로 그리고 맥락적으로 적절한 콘텐츠를 생성하는 것 — 을 반영해야 합니다. [[llm-cultural-relevance-k12|K-12에서의 LLM 문화적 관련성]]과 [[scaffolding-critical-engagement-genai-minority-students|소수 학생들의 생성형 AI에 대한 비판적 참여]]에 대한 연구는 언어적, 문화적 정렬이 학생들이 실제로 혜택을 받는지를 규제한다는 것을 보여줍니다. 미해결된 채로 두면, AI의 단일언어 편향은 [[digital-divide]]를 심화하고 [[global-south|남반구]] 전반에 걸쳐 [[equity-in-ai-education|형평성]]을 훼손합니다.
 
 언어 간 넘나듦(translanguaging)은 생성형 [[conversational-ai|챗봇]]이 더한 편의성으로, 이전의 언어 도구에는 없던 것입니다. 24편 연구의 [[meta-analysis-systematic-review|체계적 검토]]에서 학습자들은 목표 언어로 건너가기 위한 다리로서 자기 언어로 맥락화된 표현과 설명을 요청했고, 검토자들은 이 사용을 재포장된 것이 아니라 새로운 하위 편의성으로 분류합니다([[genai-chatbots-language-learning-affordances-review-2026|Lopez와 Arabadzhy(2026)]]).
+
+도구 온보딩의 언어 비용은 측정 가능합니다: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari 등(2026)]]은 영어 학습자들이 비계가 제공된 에이전트 제작 튜토리얼에서 원어민 화자보다 유의미하게 더 오랜 시간을 들인 반면, 개방형 설계 과제에서는 차이가 없음을 발견했습니다.
+
+네 개 언어가 일상적으로 사용되는 곳에서도 영어가 지배적입니다. 퀴라소와 아루바의 학생 42명 중 3분의 2가 AI에 사용할 선호 언어로 영어를 꼽았고, 대화가 지역 주제로 옮겨갈 때 파피아멘투어 쪽으로 이동한 것은 GPT 세션뿐이었습니다([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush 등(2026)]]).
 
 ## 평가 편향
 
@@ -95,3 +99,4 @@ LLM 기반 비교 판단은 편향이 모델이 아니라 인간 기준선을 �
 - [[kutti-ai-voice-first-learning-companion]] — 음성 우선 학습 동반자
 - [[ai-scoring-language-bias-physics]] — 물리에서의 AI 채점 언어 편향
 - [[genai-chatbots-language-learning-affordances-review-2026]] — 생성형 AI 챗봇이 가능하게 하는 언어 간 넘나듦: 이전 언어 도구가 지원하지 못한 사용
+- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — 퀴라소와 아루바에서의 대화형 AI 4개 언어 코드 전환(Bush 등, 2026)

@@ -10,7 +10,7 @@ audience: [instructors, learners, administrators, software developers]
 confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 translation_of: concepts/automation-bias
-source_updated: "2026-11-04T18:49:36-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,8 @@ ai_assist:
 
 가장 뾰족한 격차는 판단의 지점에 있습니다. [[human-in-the-loop-ai-scoring-national-assessment-2026|국가 평가 채점 연구(2026)]]는 평가자가 기계 점수를 검토하게 하며, 저자들은 검증되지 않은 기제를 직접 지목합니다: 판단 전에 AI 점수를 본 평가자가 그 점수에 앵커링되는지 아니면 그것에 따르는지는 측정되지 않았으며, 다음 단계로 눈가림 대 비눈가림 평가자 실험을 제안합니다. 따라서 그 설계의 인간 참여형 주장은 발견이 아니라 가정이며, 그것도 설계의 좋은 쪽 판본입니다.
 
+이제 안전 감독 실험이 인접한 환경에서 그 측정을 제공합니다. 평가자 416명과 문항 3,957개에 걸쳐, 인간의 답보다 모형 후보를 먼저 제시하자 모형이 틀린 문항에서 평가자 정확도가 36.7%에서 20.6%로 떨어진 반면, 모형이 맞힌 문항에서는 정확도가 7.3포인트 올랐습니다([[shi-human-ai-complementarity-safety-2026|Shi 외, 2026]]). 평가자들은 전체적으로는 더 정확해졌지만 정작 잡아내야 할 오류는 덜 잡아내게 되었습니다. 이는 국가 평가 연구 저자들이 의심했던 그대로 편향이 작동하는 것입니다. 기계의 답이 틀을 설정하고, 인간은 그 안에서 조정합니다.
+
 ### 분석 대시보드와 인간 참여형 주장
 
 [[in-the-loop-educational-ai-learning-sciences-2026|루프 안의 교육 AI에 관한 학습과학 고찰(2026)]]은 이 패턴에 일반적 형태를 부여합니다: 대시보드는 클릭으로 참여를 추론하고, 자동 [[writing-education|글쓰기 피드백]]은 논증보다 표면적 특징을 우대하며, 조기 경보 신호등은 궤적을 미리 해석합니다. 자동화 편향은 그 각각을 심화하며, 이 고찰은 [[trust]]를 안정된 태도가 아니라 투명성, 지각된 역량, 그리고 의미 있는 재정의 권리에 의해 형성되는 사회기술적 결과로 다룹니다.
@@ -91,6 +93,8 @@ ai_assist:
 ### 편향이 측정되지 않고 위험으로만 언급될 때
 
 지식베이스의 상당 부분은 자동화 편향을 검증 없이 위협 모형에 나열하며, 이 구분은 이 개념이 얼마만큼의 무게를 실을 수 있는지에 중요합니다. [[ahmadfard-interactive-oer-review-2026|상호작용형 OER 고찰(2026)]]은 학습자와 교사의 행위성을 침식하는 되풀이되는 위험 가운데 하나로 그것을 포함시키되, 측정하지 않고 나열합니다. [[alshahrani-health-sciences-ai-use-2026|보건과학 설문(2026)]]은 310명 학생의 [[ethics|윤리적]] 우려를 자동화 편향을 명시적으로 다루는 [[professional-training|전문 훈련]]의 근거로 읽습니다. [[ai-literacy-legal-translation-2026|법률 번역 연구(2026)]]는 오역을 놓치기 쉽게 만드는 자동화 편향과 품질 착각 압력을 지목하며, 교정과 검증을 채점되는 기술로 가르칠 것을 요구합니다. [[morales-cevallos-ai-forensic-science-education-2026|법과학 고찰(2026)]]은 포함된 연구들에서 자동화 편향이 기록되어 있음을 발견하고, 보고된 실패로 구성한 사례 기반 연습을 제안합니다. [[rana-genai-design-thinking-2025|디자인 사고 연구(2025)]]는 그것을 설계 요건으로 바꿉니다: 인간 판단을 중심에 두는 [[scaffolding|비계]]가 전가와 자동화 편향을 모두 막습니다.
+
+또 다른 편향은 사용자가 아니라 산출물에 있습니다. 에콰도르 에스메랄다스에서 교육 및 지역사회 활동가 90명은 이미지 도구가 아프리카계 에콰도르인 참가자의 피부색, 머리카락 질감, 얼굴 특징을 바꾼다고 서술했으며, 한 사람은 그것을 “디지털일지라도 일종의 인종주의”라고 불렀습니다 — 어떤 정확도 지표도 포착하지 못하는 재현의 해악입니다([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 
 ## 증거가 얇거나, 혼재하거나, 뒤집히는 곳
 
@@ -136,6 +140,7 @@ ai_assist:
 
 ## 연결된 문서
 
+- [[shi-human-ai-complementarity-safety-2026]] — 평가자 416명, 문항 3,957개: 후보를 먼저 제시하는 지원이 모형이 틀린 문항의 오류 적발을 36.7%에서 20.6%로 떨어뜨렸다(Shi 외, 2026)
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 얇은 데이터에 기초한 권고에 따르지 말라는 경고를 받은 교사들
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 평가자가 AI 점수에 앵커링되는 것을 검증되지 않은 위험으로 지목하고 눈가림을 제안
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — 대시보드, 표면 특징 피드백, 신호등이라는 일반 패턴

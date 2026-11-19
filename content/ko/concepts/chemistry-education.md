@@ -10,7 +10,7 @@ discipline: [chemistry education, stem education, teacher education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/chemistry-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ ai_assist:
 **기술적 정확성과 비판적 AI 리터러시.** 체계적인 근거는 [[llm|LLM]]이 기초 화학 용어는 정의할 수 있지만 엄격한 정량적 과업에서는 부진하고, 공간 추론(예: NMR)에서 어려움을 겪으며, 지나친 자신감과 표기법 민감성을 보인다는 것을 보여 줍니다([[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]]; [[unesco-ai-guidelines-chemical-education-2026|UNESCO 관점]]의 ChemBench/QCBench 결과). 이 때문에 AI 산출물에 대한 **평가적 참여** — 화학 원리에 대해 질문하고, 검증하고, 교차 확인하는 것 — 이 핵심 학습 목표가 되며, [[ai-literacy]], [[critical-thinking]], [[reducing-ai-misuse]]와 연결됩니다.
 
 **윤리, 정책, 인식론적 표류.** [[unesco-ai-guidelines-chemical-education-2026|UNESCO 지침 관점]]은 **인식론적 표류**를 경고합니다. 불투명한 알고리즘에 의존하는 것이 과학적 탐구를 인과적 이해에서 분리한다는 것입니다. 또한 내용 전달에서 **지식 창조**로의 전환, 비판적 AI 화학 리터러시, 인간의 추론을 우선하는 평가, 그리고 전 지구적 [[digital-divide|접근성 격차]]의 해소를 촉구합니다.
+
+**정서적 피드백은 그것이 겨냥하는 불안을 높일 수 있다.** 9학년 실험실에서 한 학기 동안의 AI 정서적 피드백은 실험실 불안의 상승(F = 4.60)과 성취감의 정체와 맞물린 반면, 교사 주도 탐구 수업은 향상되었습니다(F = 7.92)([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
 
 ### 관련 개념과의 연결
 

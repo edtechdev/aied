@@ -34,7 +34,7 @@ ai_assist:
 
 AI 시스템이 점점 더 많이 반응에 점수를 매기고, 난이도를 예측하고, [[feedback]]를 제공하게 되면서, 핵심 위험은 측정 원칙에 대해 검증되지 않은 자신감 있는 출력을 보고한다는 점입니다. 측정심리를 고려한 AI는 출력을 보정하고 불확실성을 정량화하며 원시 정확도나 [[self-report-measures|자기보고식]] 신뢰도에 의존하기보다 [[assessment-validity]]와 [[educational-measurement]] 표준을 보존함으로써 AI [[assessment]]를 확립된 심리측정에 기반을 둠으로써 이 문제를 다룹니다.
 
-### 측정심리를 고려한 AI가 연구에 드러나는 방식
+## 측정심리를 고려한 AI가 연구에 드러나는 방식
 
 - **보정과 신뢰도:** [[automated-assessment|불확실성을 인지하는 평가]]와 [[llm-psychometric-calibration-cdp|LLM 심리측정 보정]]은 AI가 지나치게 자신감 있는 점추정 대신 의미 있고 불확실성을 인지하는 점수를 보고하도록 보장합니다.
 - **모델 신뢰도만으로는 충분하지 않다.** SciEntsBank에서 언어화된 신뢰도, 잠재적 신뢰도, 일관성 기반 신뢰도는 각각 정답과 오답인 단답형 문항을 구분하는 데 실패했습니다. 최상의 보정은 Random Forest와 Platt scaling을 통해 포함된 반응의 클러스터 내 엔트로피인 데이터셋 기반 불확실성을 추가하는 것에서 나왔으며, 이를 통해 선택적 자동 채점과 [[human-in-the-loop-ai|인간 검토]]가 가능해졌습니다([[cong-confidence-asag-2026|Cong et al. (2026)]]).
@@ -48,7 +48,7 @@ AI 시스템이 점점 더 많이 반응에 점수를 매기고, 난이도를 �
 - **잠재 능력 파이프라인과 표준 설정:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]]는 국가 시험에서 측정심리를 고려한 채점의 구체적인 템플릿을 제공합니다: 루브릭 문항 점수는 결코 직접 합산되지 않고, [[item-response-theory|IRT]] 모델에 입력되어 잠재 능력 추정치를 산출한 뒤 Bookmark 표준 설정 방법으로 숙달 / 숙달에 근접 / 미흡으로 절단하며, 합격은 최소 두 개 문항에서 숙달이고 나머지 하나는 최소한 숙달에 근접해야 합니다. 저자들은 이 파이프라인을 자동 형태로 재현하여(하위 절단점은 7개 이상 루브릭 문항을 맞힐 확률 67%, 상위 절단점은 10개 이상), AI와 인간의 문항 점수를 원시 일치율이 아니라 동일한 의사결정 기준에 대해 비교할 수 있게 했습니다.
 - **균형 지표는 보정된 것처럼 보이기만 하는 모형을 잡아냅니다.** GPT-4o와 Gemini 2.0 Flash에게 학부생 153명의 대화에서 학습 양식 차원을 추론하게 했을 때 중간 정도의 정확도가 나왔으나, 범주별 재현율은 그것이 다수 라벨 예측임을 보여 주었고, 직관형과 총체형 학습자는 과소 식별되었으며, 소수 예시 [[prompt-engineering|프롬프팅]]은 편향을 제거하기보다 때로 증폭했습니다([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi와 Robb (2026)]]).
 
-### 연결
+## 연결
 
 측정심리를 고려한 AI는 [[educational-measurement]], [[assessment-validity]], [[item-response-theory]], 그리고 [[automated-assessment|Confidence Aware AI Assessment]]의 교차점에 놓여 있습니다. 이것은 [[ai-ed-evaluation]](AI 평가가 신뢰할 수 있는지)에 핵심적이며, [[llm]] 기반 [[automated-assessment]]와 [[automated-assessment|Automated Grading]]에 연결됩니다. 타당성에 대한 강조는 [[limitations-in-aied-research|측정상 한계]]인 [[ai-education|AIED]] 연구에도 해당합니다.
 

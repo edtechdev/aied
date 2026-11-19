@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,9 @@ ai_assist:
 
 피드백 리터러시가 중요한 이유는 잘 설계된 피드백도 해석하고 행동으로 옮길 수 있는 학생에게만 도움이 되기 때문입니다. AI가 생성한 피드백이 정확한지 판단할 수 없거나, 피드백을 구체적인 수정으로 바꾸는 방법을 모르는 학생은, 같은 피드백을 받고도 피드백 리터러시가 높은 동료보다 훨씬 덜 배웁니다. AI가 피드백 제공을 재편함에 따라 피드백 리터러시는 AI 피드백이 학습을 개선할 수 있는지의 중추적인 경계 조건이 되었습니다.
 
-### 피드백 리터러시란 무엇인가
+[[corbin-recognition-feedback-2026|Corbin, Tai and Flenady (2026)]]는 인정을 리터러시보다 앞에 둡니다. 학생은 제공자에게 안내할 자격을 부여해야 하고, 스스로도 응답할 자격을 부여받아야 합니다. 그렇지 않으면 리터러시가 작용할 대상이 없기 때문입니다.
+
+## 피드백 리터러시란 무엇인가
 
 피드백 리터러시는 널리 상호 연관된 역량의 집합으로 규정됩니다. 피드백을 인식하고, 판단하고, 정서를 다루고, 행동으로 옮기는 능력입니다(Carless & Boud 이후). 지식베이스의 문서들은 피드백 리터러시를 다음과 같은 여러 역량으로 묶습니다.
 
@@ -46,7 +48,7 @@ ai_assist:
 - **피드백에 행동으로 옮기기** — 피드백을 구체적인 수정이나 접근법의 변화로 바꾸는 것([[feedback|피드백 루프]], [[self-regulated-learning]]).
 - **평가 권위 판단하기** — [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]]가 제안한 추가 역량으로, 피드백을 인식하고, 판단하고, 정서를 다루고, 행동으로 옮기는 것에 더해, 학생이 AI가 만든 피드백에 대해 추론할 때 피드백 품질을 판단하는 것과 구분하여 *어떤 출처가 평가 권위를 지니는지* 판단해야 했습니다. 참가자들에게 ChatGPT가 점수와 피드백을 모두 생성했다고 안내되었기 때문에, 그들의 피드백 리터러시는 평가의 내용이 아니라 출처와 정당성에 행사되었고, 수동적 수용이 아니라 교수자의 확인을 요구하는 결과를 낳았습니다.
 
-### 피드백 리터러시가 연구에 나타나는 모습
+## 피드백 리터러시가 연구에 나타나는 모습
 
 - **AI 피드백 가치의 조절 변수로서의 피드백 리터러시:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]]는 피드백 리터러시가 ChatGPT 수용과 [[self-regulated-learning]]의 연결을 조절한다고 보입니다. 리터러시가 높은 학생은 AI 피드백에서 더 큰 자기조절 학습의 이득을 지각하고, 리터러시가 낮은 학생은 효과가 미미하거나 오히려 부정적인([[cognitive-offloading|과잉 의존]]) 결과를 보입니다. 피드백 리터러시는 학생이 AI 피드백을 "의미 구성"할 수 있는지의 경계 조건입니다.
 - **생성형 AI 사용에서 비판적 사고로 가는 경로로서의 피드백 리터러시:** 중국 학부생 421명을 대상으로 한 연구에서 생성형 AI 사용과 [[self-report-measures|자기보고식]] 비판적 사고의 연관성은 거의 전적으로 생성형 AI 피드백 리터러시(β=0.185, 전체 효과의 71.98%)를 통해 나타났으며, 성찰적 사고가 높아질수록 그 경로가 강화되었습니다(조절된 매개 지수 = 0.030)([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
@@ -67,13 +69,13 @@ ai_assist:
 - **AI 리터러시와 [[assessment|평가 설계]]의 목표로서의 피드백 리터러시:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]]는 학생이 ChatGPT 산출물을 루브릭에 비추어 비평하게 하는 산출물보다 과정 중심의 평가를 활용하여 피드백, 심리, AI 리터러시를 함께 기릅니다. [[learner-centered-feedback-ai|학습자 중심의 AI 피드백]]과 [[care-full-feedback-genai|케어풀 피드백 설계]]는 피드백 품질을 학습자의 관여 역량과 연결합니다.
 - **피드백 리터러시는 가르칠 수 있고, AI가 연습 자료를 공급할 수 있습니다.** 한 개념적 안내서는 교수자가 기준을 모두 충족하는 표본, 일부만 충족하는 표본, 전혀 충족하지 못하는 표본으로 이루어진 등급 스펙트럼을 AI 작업물로 생성하게 한 뒤, 모델링된 비평, 안내된 학급 분석, 독립적 평가로 학생들을 이끌도록 합니다([[ai-feedback-literacy-assessment-as-learning-2026|Pennington and Hock (2026)]]).
 
-### 피드백 리터러시가 교육에서의 AI에 중요한 이유
+## 피드백 리터러시가 교육에서의 AI에 중요한 이유
 
 AI는 피드백을 두 방향으로 바꾸어 피드백 리터러시의 중요성을 함께 높입니다. 첫째, AI는 피드백의 *양과 즉시성*을 극적으로 늘려([[ai-feedback-quality]], [[feedback|피드백 루프]]) 학생이 분류하고 평가해야 할 피드백이 훨씬 많아집니다. 둘째, AI가 생성한 피드백은 부정확성, [[hallucination-risk|환각]] "숙달의 환상"과 같은 별개의 위험을 지니며, 이는 [[critical-thinking|비판적 평가]] 역량과 과잉 의존 및 [[llm-fallacy-misattribution|귀인 오류]]에 대한 경계를 요구합니다. 따라서 피드백 리터러시는 [[ai-literacy]]의 핵심 구성 요소가 됩니다. AI에 피드백을 요청하는 방법을 아는 것만이 아니라, 그 피드백이 행동으로 옮길 가치가 있는지 판단하고, 과제 완수가 아니라 진정한 학습으로 전환하는 방법을 아는 것이 핵심입니다.
 
 [[ai-feedback-ecosystem-higher-education-2026|Bearman and colleagues (2026)]]는 그 목록에 하나의 요구를 더합니다. 워크숍 연구에서 학생들은 하나의 피드백 출처가 아니라 네트워크를 관리하고 있었습니다. 교수자의 논평을 AI 산출물, 루브릭, 수업 자료, 동료와 저울질했고, 인간 피드백이 늦을 때는 AI로 계속 작업하면서 나중에 잘못 이끌었다면 수정하는 임시 방편을 썼습니다. 저자들은 학생들이 세밀한 과제부터 더 넓은 궤적에 이르기까지 그러한 관계를 스스로 관리함으로써 자신의 human-as-the-loop가 될 수 있다고 제시하며, 이는 그 자체로 피드백 리터러시 역량입니다. 그들의 경고는 빈약하거나 늦은 교수자 논평이 학생들을 검증되지 않은 출처로 밀어낸다는 것입니다.
 
-### 관련 개념과의 연결
+## 관련 개념과의 연결
 
 피드백 리터러시는 [[ai-feedback-quality]]와 [[feedback|피드백 루프]](그것이 보완하는 제공 쪽), [[formative-assessment]](그것이 공급하는 평가 순환), [[self-regulated-learning]](그것이 뒷받침하는 [[self-assessment]]와 적응)과 연결됩니다. AI가 생성한 피드백에 적용될 때 [[ai-literacy]]의 부분 집합이며, 협력적 맥락에서 [[peer-assessment]]과 교차하고, [[writing-education]]에서 특히 중요한 결과를 가집니다. 또한 [[metacognition]]과 [[trust-calibration]] — 피드백이 신뢰할 만한지 판단하는 능력 — 과도 연결됩니다.
 

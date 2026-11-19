@@ -7,7 +7,7 @@ pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,8 @@ Mayer의 멀티미디어 학습 인지 이론(CTML)은 같은 작업 기억 가�
 3. **작업 기억의 한계를 존중하십시오.** AI UX에 인지 부하 이론을 적용하십시오. 외재 부하(마찰, 과부하된 인터페이스)를 줄이는 한편 모든 인지적 요구를 최소화하기보다 본래적 처리([[desirable-difficulties|productive struggle]], 인출 연습)를 보존하십시오.
 4. **메타인지를 보정하십시오.** 학습자가 언제 외주화할지를 [[metacognition]]가 지배하기 때문에, 보정을 가르치는 것(자신이 보조 없이 실제로 할 수 있는 것을 아는 것)은 과잉 의존에 대한 인지주의적 답입니다([[cognitive-offloading]] 참조).
 
+발달은 별개의 질문입니다. 이 기제들은 안정적인 것으로 다루어지는 반면, [[developmental-psychology|발달 심리학]]은 그것들이 연령에 따라 어떻게 변하며, 그것이 연령대별 AI 사용에 무엇을 의미하는지를 묻습니다.
+
 ## 흔한 오해
 
 - **"정신적 표상은 관찰할 수 없으므로 학습에 관한 인지적 주장은 가정일 뿐입니다."** 과학 영상 시청 중 학습자의 **EEG**에서 이미지를 재구성한 연구는 **표상 충실도가 검사 수행을 추적한다**는 것을 발견했습니다(회귀 계수 **0.8481, R² = 0.79**). 내적 표상이라는 인지주의적 전제는 측정 가능하며, 그 측정은 결과를 예측했습니다.
@@ -98,6 +100,8 @@ Mayer의 멀티미디어 학습 인지 이론(CTML)은 같은 작업 기억 가�
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[item-response-theory]]
+- [[developmental-psychology]]
+- [[longitudinal-research]]
 - [[distributed-cognition]]
 - [[icap-framework]]
 - [[transfer-of-learning]]

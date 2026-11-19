@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,7 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 - **교수법적 안전.** [[pedagogical-safety]]은 실제 교수적 권위를 지닌 AI가 오류, 편향, 유해한 산출이 학습자에게 닿기 전에 잡히도록 인간 감독을 유지할 것을 요구합니다. 이것은 목표를 [[agentic-ai|능동적으로 추구하는]] 자율 에이전트에 특히 중요합니다.
 - **감독은 이론만이 아니라 실제에서 드물다.** [[agentic-ai-education-scoping-review|Wang 외(2026)]]는 474개의 교육용 에이전트 AI 시스템에 걸쳐 견고하게 내장된 거버넌스와 인간 개입 감독이 드물게 나타난다는 것을 발견했습니다 — 단일 과제 자율성과 다중 에이전트 협동은 커지는 가운데서도 말입니다. 이것은 설계 원리와 실제 배치 사이의 간극입니다.
 - **핵심 질문은 인간이 얼마나 참여하는가가 아니라 고리를 어떻게 실행 가능하게 만드는가이다.** [[learning-sciences|학습과학]]의 관점은 학습을 데이터 포착, 전산적 해석, 그리고 개연적 응답을 중심으로 조직하는 것이 교수적 행동을 시스템이 탐지하고 행동할 수 있는 것에 의존하게 만들고, 알림과 참여 분류가 어떤 교사나 학생도 행동하기 전에 학습자를 해석한다고 주장합니다([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
+- **워크플로에 존재하는 것보다 순서상의 위치가 더 중요합니다.** 완성된 산출물을 검토하는 인간은 독립적 점검이 아닙니다. 안전 감독 실험에서, 3,957개 항목을 판단한 416명의 평정자는 후보 답안을 자신의 답보다 먼저 제시받았을 때 모형이 틀린 항목에서 정확도가 36.7%에서 20.6%로 떨어졌고, 모형이 옳은 항목에서는 향상되었습니다([[shi-human-ai-complementarity-safety-2026|Shi et al., 2026]]). 인간의 판단을 먼저 기록하거나, 모형의 판정 없이 증거를 제시하는 것이야말로 그 고리가 존재하는 이유인 교정을 보존합니다.
 - **타당성과 품질 관리.** HITL은 [[automated-assessment|자동화된 평가]]와 생성의 품질 검문입니다 — 자동 채점이 신뢰할 수 없는 곳에서 인간이 판정하고([[llms-do-not-grade-essays-like-humans-2026|LLM 에세이 채점]] [[research-methods-aied|연구]] 참고) 생성된 문항을 검증합니다. 채점과 피드백 연구 42건(2023–2025)에 대한 PRISMA 지침 [[meta-analysis-systematic-review|체계적 문헌고찰]]은 같은 결론을 명시적으로 이릅니다. LLM은 짧고 잘 구조화된 과제에서는 인간 평가자와 맞먹지만, 복잡하고 개방적이며 주관적인 작업에서 인간의 판단을 완전히 대체할 수 없으며, 가장 높은 채점 효과는 AI 주도 채점을 교사의 감독과 검증과 결합한 하이브리드 시스템에서 달성됩니다([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat 외(2026)]]는 그 경계가 어디에 놓이는지를 구체적으로 보여 줍니다. ChatGPT-5는 객관적 약학 시험 문항에서는 교수진과 일치했으나(CCC 0.935–1.000), 루브릭이 주어져도 서술형과 에세이 문항에서는 신뢰할 수 없어, 저자들은 복잡하고 주관적이며 고위험 평가에 대해 인간 검토를 포함한 하이브리드 채점을 권고합니다.
 - 반복은 그 감독의 대용물이 아닙니다. 동일한 제출물을 다섯 다른 날에 재채점한 결과, 같은 모형은 자신의 결과를 Krippendorff's alpha 0.625로만 재현했으며, 변동은 중간 성적에 집중되고 다섯 회차의 계수에서 A와 F는 나타나지 않았습니다([[llm-grading-assistants-public-health-2026|Brevik 외(2026)]]).
 
@@ -195,3 +196,4 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — 시스템이 선호하는 답을 감춘 것이 잘못된 AI 조언에 대한 순응을 교정적이 아니라 보호적으로 줄였다
 
 - [[capodieci-humanities-hil-2026]] — 인간 점검이 어디에 놓이는지와 누가 그 과정을 저술했는지를 구분한다(Capodieci 등 2026)
+- [[shi-human-ai-complementarity-safety-2026]] — 평정자 416명, 항목 3,957개: 후보 우선 지원이 모형이 틀린 항목의 오류 탐지를 36.7%에서 20.6%로 낮춤 (Shi et al., 2026)

@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,8 @@ AI 시대에 이 규정은 슬로건이 아니라 하나의 설계 시험이 됩
 
 신경다양성은 [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]], [[equity-in-ai-education]]와 연결됩니다. 이는 AI가 [[student-experience]]을 위해 어떻게 배치되는지와 평가와 리터러시 프로그램이 인지적 변이에 걸쳐 공정하도록 어떻게 설계되는지 양쪽에 정보를 줍니다. 이 발견들이 다른 학습자 집단, 즉 언어, 성별, 사회경제적 지위, 지리와 나란히 어떻게 놓이는지는 [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]]를 보십시오.
 
+ADHD 대학생을 위한 AI에 관한 연구 28편에 대한 [[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh, Natoli의]] 고찰은 증거를 지원, 예측, 윤리로 분류합니다. 예측은 가장 얇은 부분입니다. 동공 측정 모델은 AUROC 0.856에 도달한 반면, SVM 분류기는 66.1~68.8퍼센트의 정확도에 그쳐 임상적 유용성에 미치지 못했습니다. 실행기능 절충이 윤리적 핵심입니다. 요구를 보상해 주는 도구는 그 능력을 길러 주었을 연습까지 흡수할 수 있습니다([[executive-function|실행기능]]).
+
 ## 흔한 오해
 
 - **"신경다양성 연구는 [[ai-education|AIED]]의 변두리다."** 이 분야는 [[generative-ai|생성형 AI]]를 중심으로 **재편되었습니다. 40개 연구 가운데 15개**가 그것이며, 몰입형 형식이 11개로 두 번째입니다. 문헌은 안정된 질문을 중심으로 축적되기보다 기술을 따라 움직였습니다.
@@ -101,6 +103,7 @@ AI 시대에 이 규정은 슬로건이 아니라 하나의 설계 시험이 됩
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[student-modeling]]
+- [[executive-function]]
 
 ## 연결된 문서
 
@@ -117,3 +120,4 @@ AI 시대에 이 규정은 슬로건이 아니라 하나의 설계 시험이 됩
 - [[tactile-statistical-graphs-accessibility]] — 접근성을 위한 촉각 통계 그래프
 - [[ai-learning-tools-engineering-education-needs]] — 욕구 및 주의 인식 AI 학습 도구의 설계
 - [[gibson-neuro-inclusive-edtech-scoping-2026]] — 신경포용적 초등 교실을 위한 에듀테크의 교육적 가치 재구성: 범위 검토
+- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — ADHD 학생을 위한 AI에 관한 연구 28편, 윤리를 명시하다

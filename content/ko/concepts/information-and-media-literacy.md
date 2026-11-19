@@ -12,7 +12,7 @@ page_kind: [synthesis]
 confidence: high
 updated: "2026-11-11T07:40:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ ai_assist:
 
 실증 문헌은 그 분열을 반영합니다. 미국 대학생 236명 설문은 학술 검색이 어디서 시작되는지 물었고 검색 엔진 45.5%, 도서관 홈페이지 27.9%, AI 챗봇 26.6%를 찾았으며, 국제 학생들은 도서관 자료 대신 AI를 쓰는 비율이 국내 학생의 대략 두 배였습니다([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). 32개 연구의 [[meta-analysis-systematic-review|체계적 고찰]]은 정보 리터러시 수업에서 [[ai-literacy|AI 리터러시]] 통합이 "초기 단계"이며 교육과정이 아니라 LibGuides와 워크숍을 통해 전달된다고 발견했습니다([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza and Arif, 2026]]). 미디어 쪽에서는 전문가 7명 면담과 학생 141명 설문이 비판적 미디어 리터러시 교육과정의 기술 포함이 "제한적이고 종종 피상적"이며, 교사들이 허위정보와 딥페이크를 생산하는 도구에 대해 충분히 훈련되지 않았다고 발견했습니다([[critical-media-literacy-education-2026|비판적 미디어 리터러시 연구, 2026]]).
 
+국제 평가가 두 구성개념을 융합하려 합니다. PISA 2029는 15세를 위한 미디어·AI 리터러시(MAIL) 평가를 도입하고, iRAISE의 2026년 고찰은 같은 통합 위에 정의를 세웁니다. AI 리터러시는 디지털 리터러시의 가장 새로운 층이고, 디지털 리터러시 자체는 수십 년의 미디어 및 정보 리터러시 위에 서 있습니다([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). 이 통합에는 갈라짐 논증이 예측하는 실행 비용이 따릅니다. UNESCO의 2025년 매핑은 194개 회원국 중 171국이 국가 프레임워크에서 미디어 및 정보 리터러시를 언급하지만, 기술적 디지털 기술을 넘는 요소를 교육과정에 포함한 것은 84개국(43%)뿐임을 발견했습니다. 따라서 평가가 측정할 구성개념은 학교가 가장 적게 가르치는 것입니다.
+
 ## AI가 정보 리터러시를 복잡하게 만드는 방식
 
 첫 번째 복잡성은 대규모 날조입니다. 모형은 설득력 있는 텍스트, 그럴듯한 참고문헌, 확신에 찬 통계를 생산하며 그것들은 존재하지 않을 수 있습니다. 독자는 검색 흔적이 지워진 종합을 받습니다. 점검은 다른 기술이 됩니다. "이것이 좋은 출처인가"가 아니라 "이 출처가 존재하며, 답이 주장하는 것을 말하는가"입니다.
@@ -58,6 +60,8 @@ ai_assist:
 ## AI가 미디어 리터러시를 복잡하게 만드는 방식
 
 미디어 리터러시의 창립 질문은 목적을 가진 제작자를 가정했습니다. 딥페이크, 목소리 복제, 자동화 봇은 그 가정을 세 가지로 깨뜨립니다. 산물에 인간 저자가 없을 수 있고, 청중이 합성일 수 있으며, 의도가 누군가의 설득이 아니라 참여 최적화일 수 있습니다.
+
+**개인화된 논증이 현재의 설득 위협 모형입니다.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]]는 미국 성인 900명을 인간 또는 GPT-4와의 10분 온라인 토론에 무작위 배정했고, 여섯 개의 평범한 인구통계 항목을 제공하거나 제공하지 않았습니다. 개인화되지 않은 GPT-4는 인간 상대와 통계적으로 구별되지 않았지만, 개인화된 GPT-4는 토론 후 동의 오즈를 81.2% 높였고 64.4%의 경우 더 설득력이 있었습니다. 참가자들은 토론 네 번 중 약 세 번에서 AI 상대를 식별했지만, 상대가 AI라고 믿을 때 오히려 더 많이 이동했습니다. 따라서 출처 탐지는 면역으로 작동하지 않았습니다. 조작은 문장에서 보이지 않았습니다. 문체 측정은 조건 간 차이가 작아, 우위가 어떻게 쓰였는지가 아니라 어떤 논증이 선택되었는지에 있음을 위치시킵니다.
 
 교육과정 증거는 학교가 따라잡지 못했음을 시사합니다. 전문가 면담은 [[teacher-education|교사 훈련]]을 학생 저항이 아니라 결정적 제약으로 기술하고, 평가를 도구 훈련이 아니라 윤리적이고 참여적인 실천으로 다루는 [[critical-pedagogy]] 틀을 주장합니다. 공영 미디어를 위한 위탁 보고서는 40개 이상의 프레임워크를 검토하고 전문가 35명을 면담했음에도, 14–19세 대상 제공이 비판적 평가에서 기능적 AI 기술로 기울어져 있음을 발견했습니다([[ai-literacies-young-adults-2025|AI 리터러시 보고서, 2025]]).
 
@@ -73,15 +77,28 @@ ai_assist:
 
 ## 실천을 위한 함의
 
-- **하나의 절차, 두 개의 대상.** 점검 가능한 루틴(주장을 출처로 추적하고, 출처를 저자로 추적하고, 산물이 무엇을 하는지 묻기)은 인용과 영상 모두에 작동합니다. 과제가 어느 대상을 평가하는지 이름 붙이십시오.
-- **탐지를 평결이 아니라 증거로 다루십시오.** 탐지기의 출력은 확률입니다. 학생에게 두 번째 방법으로 교차 확인하고 무엇이 판단을 바꿀지 말하도록 가르치십시오.
-- **제작을 교육과정에 남기십시오.** 미디어를 만드는 것이 비판을 구체적으로 만든 교수법이었습니다. AI로 생성하는 것은 학생이 도구가 대신 내린 선택을 검토할 때만 그것을 뒷받침할 수 있습니다.
-- **사서나 미디어 전문가를 워크플로 안에 두십시오.** 이 문헌에서 가장 강한 교수 결과는 인간 상담이 나중에 제공되는 것이 아니라 설계에 내장된 데서 나옵니다.
-- **강의계획서를 쓰기 전에 직원 역량을 평가하십시오.** 측정된 결핍은 도구 사용이 아니라 목표 설계와 성과 평가에 있습니다.
+교수자는 하나의 절차를 두 대상에 대해 가르칠 수 있습니다. 주장을 출처로 추적하고, 출처를 저자로 추적한 뒤, 산물이 무엇을 하는지 물으십시오. 이 루틴은 인용과 영상 모두에 작동하며, 과제는 어느 대상을 평가하는지 이름 붙여야 합니다.
+
+교수자는 탐지기의 출력을 평결이 아니라 증거로 다룰 수 있습니다. 그것은 확률이므로, 학생은 두 번째 방법으로 교차 확인하고 무엇이 자신의 판단을 바꿀지 말해야 합니다.
+
+교육과정 설계자는 제작을 강좌 안에 남길 수 있습니다. 여기서 검토된 연구들에서 비판을 구체적으로 만든 것은 미디어 제작이었고, AI로 생성하는 것은 학생이 도구가 대신 내린 선택을 검토할 때만 그것을 뒷받침합니다.
+
+구성개념을 태도가 아니라 수행으로 채점하면 취약점이 시야에 들어옵니다. 태국 학부생 28명을 대상으로 한 8주 Code Craft 시범에서, 디지털 리터러시는 3점 루브릭에서 1.51에서 2.82로 올랐지만, 정보 관리 평균은 1.92, 정보 생성은 2.05로, 의사소통 및 타인과의 협업 2.36에 못 미쳤습니다([[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang, 2026]]). 가장 낮은 점수는 구성개념의 생산 쪽에 놓였습니다. 검색과 평가에서 멈추는 강좌는 결코 도달하지 못하는 곳입니다.
+
+프로그램 책임자는 사서나 미디어 전문가를 워크플로 안에 둘 수 있습니다. 이 문헌에서 가장 강한 교수 결과는 인간 상담이 나중에 제공되는 것이 아니라 설계에 내장된 데서 나옵니다.
+
+교수개발 담당자는 학과가 강의계획서를 쓰기 전에 직원 역량을 평가할 수 있습니다. 측정된 결핍은 도구 사용이 아니라 목표 설계와 성과 평가에 있습니다.
 
 ## 증거의 한계
 
 이곳의 대부분 연구는 소규모이거나 [[self-report-measures|자기보고]]이거나 둘 다입니다. 한 설문의 학생 236명, 한 개입의 아동 36명, 스스로를 평정한 사서 412명입니다. 계량서지적 가시성은 실천이 아니며, 계량서지 저자들도 그렇게 명시합니다. 말뭉치의 어떤 연구도 정보·미디어 리터러시 결합 교육과정을 평가하지 않았고, 실천 문헌이 권고하는 탐지기와 팩트체킹 도구는 이 출처들에서 대체로 측정되지 않았습니다. AI 기반 검증이 성과를 향상시킨다는 주장은 누군가 통제 집단과 비교해 시험할 때까지 설계 가설로 다루어야 합니다.
+
+## 흔한 오해
+
+- **탐지기가 문제를 종결짓는다.** 탐지기는 확률을 반환합니다. 답안지로 다루는 대신 두 번째 방법으로 교차 확인하십시오.
+- **두 리터러시는 두 이름 아래의 하나의 기술이다.** 대상이 다릅니다 — 출처 신뢰성 대 저자성과 의도 — 따라서 단일 루브릭으로는 어느 쪽도 잘 평가할 수 없습니다.
+- **AI를 알아보는 것이 그에 대한 면역을 준다.** 여기서 검토된 가장 강한 설득 실험에서, 탐지율은 높았지만 AI의 입장 쪽으로의 이동은 여전히 커졌습니다.
+- **사서의 역량이 AI 리터러시로 전이된다.** 직원 결핍은 도구 조작이 아니라 목표 설계(M = 2.70)와 성과 평가(M = 2.62)에서 나타납니다.
 
 ## 연결된 개념
 
@@ -97,6 +114,7 @@ ai_assist:
 
 ## 연결된 문서
 
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE의 4개국 고찰: 194개국 중 84개국만이 기술적 기술을 넘는 MIL을 교육과정에 넣았고, 네 체계 모두에서 인간적 요인이 결과를 결정했다(Cerioli, 2026)
 - [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries: A Systematic Review of Emerging Research
 - [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries: A global Scientometric analysis (2020–2025)
 - [[lund-ai-information-seeking-chatbots-libraries-2026]] — Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students
@@ -108,3 +126,6 @@ ai_assist:
 - [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy: potential, challenges, and opportunities
 - [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
 - [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19
+- [[salvi-conversational-persuasiveness-gpt4-2025]] — 개인화된 GPT-4가 인간 토론자를 이겼다. 탐지는 면역을 주지 않았다(Salvi et al. 2025)
+
+- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft: 계산적 사고와 디지털 리터러시를 강화하는 디지털 설계 사고 및 학습 플랫폼

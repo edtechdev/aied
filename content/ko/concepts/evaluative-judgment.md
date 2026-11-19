@@ -10,7 +10,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-18T10:20:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,7 @@ ai_assist:
 판단의 *출처*가 내용만이 아니라 별개의 층위를 이룹니다. [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]]는 그 층위에 더 예리한 어휘를 부여합니다. 그의 13명의 사우디 컴퓨팅 학생들은 하나의 평가 사건 안에서 두 개의 독립적 판단을 내렸습니다. 피드백이 유용했는지, 그리고 그 출처가 채점할 권위를 지녔는지. 그들은 모두 ChatGPT의 루브릭 기반 피드백을 명확하고 구체적이라고 받아들이면서도 채점은 압도적으로 교수자에게 유보했습니다("동의합니다, 단 하나의 조건으로, 박사님께서 그 피드백을 확인하신다면"). 이는 AI가 매개하는 평가에서 평가적 판단이 이제 받은 피드백의 품질에 관한 것만이 아니라 평가 권위 자체에 관한 추론을 포함해야 함을 시사합니다.
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]]는 이 구인에 정직성 문헌에서 가장 강한 위치를 부여합니다. Eaton의 (2023) 포스트표절 틀을 [[ethics|윤리]]적 지향에서 평가 설계로 확장하며, 그는 [[academic-integrity|정직성]]의 탐지 및 검증 기반 모델이 인간 판단과 기계 생성이 뒤엉킨 작업과 어긋나 있다고 주장하고, 정직성을 평가적 판단을 통해 실천되는 교수법적 실행으로 재규정합니다. 학습자가 선택을 저울질하고, 학문적 선택을 정당화하며, 인식론적 불확실성 아래 책임을 지는 역량입니다. 그의 네 실행(주석이 달린 결정의 흔적, 검증과 책임 귀속, [[oral-assessment|구두 변론]]과 대화적 책임 귀속, 버전 기록이 있는 초안 차이)은 그 판단을 결과물에서 추론하는 것이 아니라 증거로 가시화하며, 그는 판단을 그것이 흔히 혼동되는 구인들과 분리합니다. [[reflection|성찰적 실행]]은 자신의 사고를 사후에 고려하는 것이고, [[metacognition]]은 인지 과정의 인식과 조절인 반면, 판단은 선택을 기준에 대해 평가하고 불확실성 아래 결과를 받아들입니다. 그는 또한 이 페이지가 추적하는 실패 양상에도 이름을 붙입니다. 문서화된 추론을 요구하는 것은 "하나의 순응 체제를 다른 것으로 대체하는" 위험을 지니며, 증거로서의 판단은 "기계적으로 검증 가능한 것이 아니라 관계적이고 상황에 놓인 채로 남는다"는 것입니다.
+- **책임 있는 판단은 이 구인에 문화적 매개를 더합니다.** Yan(2026)은 AI가 매개하는 언어 및 번역 평가를 위해 평가적 판단을 확장합니다. 유창한 목표 텍스트가 해결되지 않은 사용역(register)과 문화적 문제를 감출 수 있으므로, 학습자는 언어적, 의사소통적, 문화적 매개, 윤리적 결정을 정당화해야 합니다([[yan-accountable-judgement-language-assessment-2026|Yan, 2026]]).
 
 ## 증거: 판단이 어떻게 발달하고, AI가 그것에 무엇을 하는가
 
@@ -86,6 +87,7 @@ ai_assist:
 - **강의실 층위의 판단 대리 지표가 제안되고 있다.** [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]]는 재설계된 과제 순서에 두 행동 신호를 더합니다. 학습자가 질문하고, 도전하고, 수정하는 AI 산출물의 비율인 UnBlooms™ *Discernment Rate*와 *First-Pass Acceptance Rate*. 둘 다 타당화되지 않았습니다 — 둘 다 값싼 과제별 진단 도구로 제시됩니다 — 그러나 이들은 그 구인을 일상적 채점 안에서 관찰 가능하게 만들어, 여러 과제에 걸친 거의 0에 가까운 판별률이 개인의 결핍이 아니라 과제 설계 신호로 읽히게 합니다.
 - **판단은 단지 존재하는 것이 아니라 수정과 연결될 때 드러납니다.** 생성형 AI로 수업 계획을 설계한 예비 교사 67명에서 명시적 평가는 낮은 품질 집단에서 거의 없었고(0.67 대 0.00), 품질을 가른 것은 양방향 평가-수정 순환(CE→RE Z = 2.80, RE→CE Z = 2.50)과 수정 자기 순환(RE→RE Z = 4.24)이었습니다([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 - **교수자의 기준은 AI 산출물을 수정함으로써 외부화될 수 있습니다.** [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang et al. (2026)]]는 16명의 교수자가 LLM 생성 프로그래밍 피드백을 수정한 내용에서 재사용 가능한 검증 규칙을 추론하여, 교수법적 의도와의 정합을 57%에서 91%로 높였습니다. 이는 암묵적 기준을 말하지 않은 채 두지 않고 검사 가능하게 만듭니다.
+- **체크리스트가 아니라 고리입니다.** AI 평가적 판단은 재귀적으로 작동합니다. 직업적 기준에 비추어 평가하고, 수용, 수정 또는 거부 후 다시 프롬프트하고, 그다음 검증하고 정당화하며, 산출물이 적합하지 않은 동안 평가로 되돌아갑니다([[zheng-ai-evaluative-judgement-vocational-2026|Zheng and Tang (2026)]]).
 
 ## 오용이 판단을 대체하는 방식
 
@@ -164,3 +166,4 @@ ai_assist:
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — 각각의 AI 상호작용을 구조짓는 주체성 점검(신뢰할 만하고, 적절하며, 받아들일 수 있고, 섬세한)
 - [[judgment-centred-software-engineering-education-2026]] — AI가 보강하는 소프트웨어 공학 교육을 위한 과장을 걷어낸 검토와 틀
 - [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — 빌려온 판단: 관련성을 미리 패터닝하는 시스템이 해석의 작업을 제거한다 (Åhman & Thorén 2026)
+- [[yan-accountable-judgement-language-assessment-2026]] — 언어 및 번역 평가를 위한 책임 있는 판단, 문화적 매개를 채점 차원으로 포함

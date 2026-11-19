@@ -33,19 +33,17 @@ ai_assist:
 
 구현된 학습은 [[active-learning]], [[experiential-learning]], 그리고 상황적/[[constructivist]] 이론과 밀접히 관련되어 있습니다. 핵심 주장은 물리적이고 조작 가능한 행위자가 학습자가 추상적 아이디어를 구체적 결과에 연결하도록 돕는다는 것입니다 — 로봇을 움직이게 하는 프로그램, 또는 물리적 로봇과의 역할 놀이처럼 — 순수한 화면 기반 상호작용이 하지 못하는 방식으로 말입니다. 로봇 공학은 AI의 가장 분명한 구현이며, 학습자에게 보고 만지고 관찰할 무언가를 줍니다.
 
-### 구현된 학습이 이 문서고의 연구에 드러나는 방식
+## 구현된 학습이 이 문서고의 연구에 드러나는 방식
 
 - **기반이 된 프로그래밍:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]]는 [[cs-education|블록 프로그래밍]]을 구현된 로봇 실행에 뿌리내리게 하여, 학습자가 자신의 코드가 행동이 되는 것을 보도록 저작, 실행, 관찰, 수정의 긴밀한 순환을 만듭니다.
 - **사회적 로봇 상호작용:** [[storytelling-in-education|스토리텔링]]([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), 역할 놀이([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]), 수화([[pepper-robot-sign-language-lis-2025|Pepper]])에 쓰이는 [[educational-robotics|사회적 로봇]]은 관계적이고 [[social-emotional-learning|정서적인 학습]]을 뒷받침하는 구현된 사회적 상호작용을 제공합니다.
 - **결과를 이끄는 것은 구현 특징이 아니다.** 11개 RALL 연구(N = 595, g = 0.83, I² = 84.4%)에 대한 [[meta-analysis-systematic-review|메타분석]]은 로봇 형태, 양상, 자율성, 사회적 역할이 제2언어 학습을 조절하지 않는다는 것을 발견했습니다 — 집단 기반 형식이 일대일을 이겼으므로, 효과를 낸 것은 구현이 아니라 로봇의 위치였습니다([[robot-assisted-language-learning-meta-analysis-2026|Wang et al. (2026)]]).
-- **신체 추적은 조절을 측정 가능한 신호로 바꿉니다.** 움직임 태그가 학생 에이전트를 투사된 모형 위에서 이동시키는 혼합 현실 광합성 시뮬레이션에서, LLM 파이프라인이 40분 분량의 영상에서 자기조절 행동 470개 구간에 표지를 달았고, 지배하기가 66.4%를 차지했습니다([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles 외, 2026]]).
-- **AI는 대체로 몸에 합류하기보다 몸을 지켜봅니다.** AI-구현 학습 연구 23편에 대한 PRISMA 검토에서 코딩된 AI 역할 40개는 감지가 지배했습니다: 분석과 평가 40.0%, 인식과 탐지 22.5%인 반면 활동 내부에서 행동하는 역할은 35.0%였습니다(되먹임과 코칭 15.0%, 상호작용 12.5%, 콘텐츠 생성 7.5%). 낮게 평정된 3편과 평정 불가능한 4편을 제외하면 상호작용은 6.7%, 콘텐츠 생성은 3.3%로 떨어지므로, AI가 구현된 순환에 합류한다는 증거는 가장 약한 논문들에 기대고 있습니다([[kim-ai-embodied-learning-review-2026|Kim과 Han(2026)]]).
 - **구현과 창의적 글쓰기:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|창의적 글쓰기에서의 로봇-LLM 통합에 관한 연구]]는 구현이 학습자의 상호작용과 결과에 어떻게 영향을 미치는지 살핍니다.
 - **인간-로봇 상호작용:** [[educational-robotics|HRI]] 연구([[task-context-trust-educational-hri-2026|신뢰]], [[human-autonomy-agency-hri-review-2025|행위성]])는 물리적 구현이 신뢰, [[student-engagement|참여]], 그리고 [[agency|자율성]]을 어떻게 형성하는지 살핍니다.
 - **이해의 증거로서의 제스처:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]]는 컴퓨터 비전 제스처 추적을 [[llm]] 음성 분석과 통합하여, 공학 학생들의 통계 개념 이해가 말과 제스처를 모두 통해 표현된다는 것을 보여줍니다. 높은 신뢰도의 설명적 제스처는 특정 개념(특히 평균) 주변에 모이며, 제스처–말의 긴밀한 결합은 정합적인 개념적 담론을 신호하고, 그 괴리는 발전 중인 아이디어를 표시합니다 — 이는 구현된 행동을 학습 메커니즘으로서뿐 아니라 [[multimodal|멀티모달 학습 분석]]을 통한 [[assessment-validity|평가]]의 증거로 자리매김합니다.
 - **언어 전용 촉진자는 탐구를 말할 수 있는 것 쪽으로 끌어당깁니다.** 석사 과정 유체 정역학 실험실에서 학생들은 Gemini 기반 촉진자가 새 현상에 적용하러 합류하기 전에 손으로 부력 모형을 만들었습니다. 세 쌍에 걸쳐 AI는 ISLE 순서를 유지했지만 "그냥 알려 달라"고 압박받자 아무도 측정하지 않은 질량 값을 만들어 냈고, 한 원격 참가자는 물리적으로 정확하지만 깔끔하고 비구현적인 순환을 완료했습니다([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani, 2026]]). 설계 교훈은 대체가 아니라 순서입니다: 먼저 몸으로 모형을 만들고, 그다음 언어 모형이 그것을 적용하도록 하십시오.
 
-### 구현된 지능과 비구현된 AI에 대한 비판
+## 구현된 지능과 비구현된 AI에 대한 비판
 
 이 문서고의 구현 연구에서 두 번째이자 더 이론적인 흐름은 AI-[[sociocultural-learning|매개 학습]]에서 *몸*의 역할 — 물리적 로봇을 통해서가 아니라, [[ai-technologies|AI 시스템]] 그 자체가 구현되는지(또는 구현될 수 있는지)의 문제를 통해서 — 을 다룹니다. 이 연구는 추상적 정보 처리에 기반한 상징적이고 비구현된 AI 모형의 지배에 도전합니다:
 
@@ -55,6 +53,8 @@ ai_assist:
 
 구현된 학습은 [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]], 그리고 [[social-emotional-learning]]과 연결됩니다.
 
+- **신체 추적은 조절을 측정 가능한 신호로 바꿉니다.** 움직임 태그가 학생 에이전트를 투사된 모형 위에서 이동시키는 혼합 현실 광합성 시뮬레이션에서, LLM 파이프라인이 40분 분량의 영상에서 자기조절 행동 470개 구간에 표지를 달았고, 지배하기가 66.4%를 차지했습니다([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles 외, 2026]]).
+- **AI는 대체로 몸에 합류하기보다 몸을 지켜봅니다.** AI-구현 학습 연구 23편에 대한 PRISMA 검토에서 코딩된 AI 역할 40개는 감지가 지배했습니다: 분석과 평가 40.0%, 인식과 탐지 22.5%인 반면 활동 내부에서 행동하는 역할은 35.0%였습니다(되먹임과 코칭 15.0%, 상호작용 12.5%, 콘텐츠 생성 7.5%). 낮게 평정된 3편과 평정 불가능한 4편을 제외하면 상호작용은 6.7%, 콘텐츠 생성은 3.3%로 떨어지므로, AI가 구현된 순환에 합류한다는 증거는 가장 약한 논문들에 기대고 있습니다([[kim-ai-embodied-learning-review-2026|Kim과 Han(2026)]]).
 - **가장 신체적인 문헌이 몸을 가장 적게 측정합니다.** 결과 꼬리표 32개 중 인지 결과가 43.8%, 정의적 34.4%, 심리운동 21.9%를 차지했고, 이 순서는 더 높게 평정된 16편(꼬리표 25개 중 24.0%)에서도 유지되었습니다. 저자들은 심리운동 측정치를 고르는 어려움과 인지 이득을 우선하는 관행을 탓하며, 신체 기술에 대한 효과가 약해서라고 보지 않습니다. 검토된 어떤 시스템도 학습자들이 함께 행동하도록 설계되지 않았고, 나타나는 협력은 [[teacher-role|교사]]와 AI 사이의 협력입니다([[kim-ai-embodied-learning-review-2026|Kim과 Han(2026)]]).
 
 

@@ -35,11 +35,11 @@ ai_assist:
 
 ## 들어가며
 
-### AIED에서 강화 학습이 작동하는 방식
+## AIED에서 강화 학습이 작동하는 방식
 
 강화 학습(RL)은 바람직한 행동에 보상함으로써 에이전트를 훈련합니다. 에이전트는 시행착오를 통해 누적 보상을 극대화하는 정책을 학습합니다. [[ai-education|교육에서의 AI]]에서 RL은 단일 답변이 아니라 결정의 열(어떤 힌트를 줄지, 언제 난이도를 높일지, 연습의 속도를 어떻게 할지)을 내려야 하는 튜터링 에이전트와 학습 동반자를 훈련하는 데 쓰입니다. 이것이 RL을 장기적 교수법적 결정이 중요한 [[adaptive-learning]]과 [[intelligent-tutoring]]에 잘 맞게 합니다.
 
-### 지식베이스에 문서화된 응용
+## 지식베이스에 문서화된 응용
 
 - **교수법적으로 정렬된 RL.** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]]은 RL-SFT-RL 파이프라인을 사용하여 답이 아니라 *안내하는* 모형을 훈련하며, 보상을 교수법적 목표에 정렬합니다. [[special-r1-rl-special-education]]은 [[special-education]]의 튜터 설계에 RL을 적용합니다.
 - **교수법적 지시 따르기에서 RL이 지도 파인튜닝을 이긴다.** LearnLM의 훈련은 선호 기반 RL이 SFT 단독보다 유의하게 효과적이라는 것을 발견했습니다. 선호 판단이 장기 대화에 걸친 맥락 의존적 구분을 포착하기 때문이며, 지시 라벨이 붙은 지도 데이터는 그것을 부분적으로만 다룹니다([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
@@ -49,11 +49,11 @@ ai_assist:
 
 - **장기적이고 안전 가중 RL.** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]]은 동시대 [[conversational-ai|대화 시스템]]의 ≤12턴 지평을 훨씬 넘어서는 60턴 전체 임상 대면을 최적화하며, 안전 정렬된 보상에 대해 적대적 시뮬레이션 환자를 상대로 훈련한 결과 진단 정확도가 7.0% 올라가고 놓친 위험 신호율이 대략 3분의 1로 줄었습니다.
 
-### 분야 전반의 증거
+## 분야 전반의 증거
 
 Riedmann, Schaper, Lugrin (2025)의 [[meta-analysis-systematic-review|PRISMA]] 표준 [[riedmann-reinforcement-learning-education-review-2026|교육에서 RL에 대한 체계적 검토]]는 89개 연구(2000–2024)를 종합하여, [[adaptive-learning]]과 [[intelligent-tutoring|튜터링]] 응용의 2016년 이후 급격한 성장을 발견했습니다. 그 성장은 STEM(특히 [[math-education]])에 집중되어 있었습니다. 모형 기반이 아닌(model-free) RL이 지배적이었으며(n = 72), Q-러닝이 가장 흔한 알고리즘이었으나, 고전적 RL이 심층 RL보다 더 일관되게 효과적이었다고 보고합니다(유의한 우위를 보인 논문이 61% 대 36%). 적응은 콘텐츠 스케줄링(n = 53)과 안내 관련(n = 36) 메커니즘으로 나뉘었으며, RL은 안내에서 기준선을 더 자주 이겼습니다. 그리고 학습 향상 — 특히 정규화된 학습 향상 — 이 가장 효과적인 보상 원천이었습니다. 이 검토는 또한 절반 이상의 연구(n = 54)가 통계 검정을 건너뛰었다고 경고하므로, 이 분야의 성장이 그 방법론적 엄밀성을 앞질렀습니다.
 
-### 지식베이스와의 연결
+## 지식베이스와의 연결
 
 RL은 에이전트가 단일 정답이 아니라 장기적 학습을 최적화해야 하는 현대 [[agentic-ai]]와 [[intelligent-tutoring]] 설계의 기반이 됩니다. RL은 [[llm-training-and-fine-tuning]](훈련 방법으로서의 RL), [[scaffolding]](생산적 고군분투를 보존하는 보상 설계), [[self-regulated-learning]](학습자가 자신의 전략을 조절하도록 돕는 에이전트)에 연결됩니다. 보상 설계가 교육적 가치를 내장하기 때문에, AIED의 RL 연구는 [[pedagogical-safety]]와 [[equity-in-ai-education|공정한]] 튜터 행동의 형평성 고려와 밀접하게 묶여 있습니다.
 

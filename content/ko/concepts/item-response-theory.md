@@ -7,7 +7,7 @@ technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 
 IRT는 능력(θ)과 문항 모수(난이도, 변별도, 때로 추측)를 반응 패턴으로부터 공동 추정하며, 원점수를 측정으로 취급하지 않습니다. 이것은 학습자들을 공통 척도에서 비교하고, 문항을 적응적으로 선택하고, 정밀도를 전체가 아닌 개인별로 추정하는 것을 가능하게 합니다.
 
-### IRT가 연구에 나타나는 방식
+## IRT가 연구에 나타나는 방식
 
 - **AI가 예측한 난이도:** [[llm-item-difficulty-prediction]]은 언어 모델을 사용해 문항 난이도를 추정하며, 이는 실증적으로 피팅된 IRT 모수에 대해 검증되어야 합니다.
 - **심리측정 보정:** [[llm-psychometric-calibration-cdp]]은 AI 생성 응답이 측정 속성을 보존하도록 모델 기반 평가를 IRT 기반 측정에 맞춥니다.
@@ -57,8 +57,9 @@ IRT는 능력(θ)과 문항 모수(난이도, 변별도, 때로 추측)를 반�
 - **연합적 IRT의 인과적 대안.** [[causal-modeling-competency-assessment-2026|Mangili et al. (2026)]]는 IRT와 베이지안 네트워크 학습자 모델이 개입이나 반사실을 표현할 수 없다고 주장하고, 대신 전문가로부터 구조 방정식을 이끌어냅니다; 109명 학생의 적응형 검사 배터리에서 이끌어낸 모델은 예측력이 약간 낮았으나(−277에 대해 −287 시험 로그 우도) 도움에 관한 반사실 질의를 지원했습니다.
 - **같은 척도 위의 대화 하위 과제.** [[unified-irt-framework-question-tutoring-dialogue-2026|Duan 외(2026)]]는 튜터가 대화 도중에 던지는 하위 과제를 독립 문항으로 다시 쓰고, 난이도가 문항 텍스트에서 나오는 하나의 공유 1PL IRT 척도 위에 배치하며, 고전 후 비계 제공과 엄밀성 요구라는 이동을 난이도 순서의 감독으로 사용합니다.
 - **기준 정렬 [[benchmark]]는 포화될 수 있습니다.** NGSS 정렬 [[k-12|중학교]] 및 고등학교 과학 세트에서 대부분의 오픈 가중치 모형이 90% 이상을 기록해 고전적 문항 지표가 빈약해졌습니다. 난이도는 높고 변별도는 낮으며 90%를 넘는 사소한 칸이 생겨, 저자들은 약한 문항과 다루기 쉬워진 영역을 구분할 수 없습니다([[llm-benchmark-secondary-science-topics-2026|Schroeder 외(2026)]]).
+- [[ai-second-language-listening-speaking-assessment-2025|Goh와 Aryadoust (2025)]]는 그 한계를 밀어붙입니다. IRT는 모집단 질문에 답하는 반면, 학습으로서의 평가는 한 개인이 변했는지를 묻습니다. 그들은 그것이 잠재 마르코프 접근 같은 개인특유적(idiographic) 모델을 필요로 한다고 주장합니다.
 
-### 연결
+## 연결
 
 IRT는 [[educational-measurement]]와 [[assessment-validity]]의 기반이며, [[adaptive-learning]](적응형 문항 선택)과 [[student-modeling]]을 떠받치며, [[psychometrically-aware-ai]](측정 이론에 맞춘 AI 평가)와 [[knowledge-tracing]]에 연결됩니다. 이것은 프로그래밍 평가를 위한 [[llm-difficulty-calibration-programming-exams-2026|LLM 난이도 보정]]에 등장합니다.
 

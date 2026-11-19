@@ -7,7 +7,7 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-11-07T23:52:37-05:00"
 translation_of: concepts/visualization
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,7 @@ ai_assist:
 
 프롬프트에서 차트로의 생성은 AI가 유능한 시각화를 만들어낼 수 있는지와는 다른 질문을 제기합니다. 학습자가 그 산출물을 교육적으로 만드는 분석적·부호화 작업을 여전히 수행하는가 하는 질문입니다. 2026년의 한 틀은 이것을 과정–산출물의 구분이라 부르고, [[scaffolding]]과 대체 사이의 주체성 선으로 투명성, 초대, 걷히기를 제안합니다([[genai-visualization-education-framework-2026|Purohit et al., 2026]]).
 
+빈도는 중요성이 아니며, 그 간극은 교수 대상입니다. 저자들 자신의 페로브스카이트 원고에서 뽑아낸 워드 클라우드는 "PSC", "stability", "PCE"를 표면화한 반면 "space applications", "manufacturing", "device modeling"의 가중치는 낮았고, "can", "one" 같은 비기술적 단어들도 포함했습니다([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]]). 같은 초안에서 만든 마인드 맵은 그 분야를 유용하게 쓸 수 있을 만큼 잘 조직했습니다. 그래서 저자들은 학생들에게 각 그림을 요약으로 읽기보다 그것이 무엇을 빠뜨렸는지를 진술하게 합니다.
 
 ## 실제로 쓰이는 슬라이드, 만화, 다중 뷰 도구들
 
@@ -87,3 +88,4 @@ ai_assist:
 - [[cfes-p24-multimodal-slide-auditing-2026]] — 멀티모달 슬라이드 감사를 위한 반사실적 벤치마크
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 혼합형 교실의 교사들에게 머신러닝 연구 결과를 접근 가능하게 만들기
 - [[genai-visualization-education-framework-2026]] — 의미를 구성하기, 단순한 차트가 아니라: 시각화 교육에서의 생성형 AI 사용을 위한 인지–교수 틀
+- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — 차세대 문헌 고찰: 신입 연구자를 위한 실천적 AI 안내서

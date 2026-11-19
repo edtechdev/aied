@@ -34,7 +34,7 @@ ai_assist:
 
 ## 들어가며
 
-### LLM: AIED의 엔진
+## LLM: AIED의 엔진
 
 LLM은 거의 모든 AI 교육 응용의 기반이 되므로 지식베이스에서 가장 많이 참조되는 개념입니다(논문 60편 이상):
 
@@ -54,7 +54,7 @@ LLM은 거의 모든 AI 교육 응용의 기반이 되므로 지식베이스에�
 - **생성과 분리된 검증 — 상관된 실패 양식과 함께.** [[eduguard-safe-rag-llm-tutor|Hossain et al. (2026)]]은 튜터의 검색을 교수자 승인 교재로 제한하고 주장을 구조적으로 분리된 DeBERTa-v3-large-MNLI 검증기에 통과시키지만, 두 모델 모두 광범위한 웹 훈련을 공유해 상관된 방식으로 실패할 수 있고 검증기는 코드 실행 없이 코드 추적을 검증할 수 없다고 경고합니다.
 - **평가 모델의 전환(2017~2024):** Morley et al.의 단답형 [[science-education|과학]] 문항 자동 채점에 관한 범위 고찰은 이 분야가 더 작은 [[educational-nlp|BERT]] 모델 파인튜닝(2021년까지 우세)에서 2022년경부터 더 큰 LLM(GPT-1/2/3.5/4) 프롬프팅으로 이동한 궤적을 추적합니다. 이는 파인튜닝이 아니라 [[prompt-engineering]]을 통해 도입되었고, 도메인 보강 모델, 루브릭 인식 프롬프팅, 사고의 사슬이 정확도를 높였습니다. 그러나 GPT 모델이 표준 코퍼스에서 BERT와 비교된 적은 드물었고, 채점을 설명할 수 있는 자동 채점기는 거의 없었으며, [[bias-mitigation|편향]]은 좀처럼 검토되지 않았는데, 이 경고는 LLM 평가 전반에 해당합니다([[auto-marking-short-answer-science-2026]]).
 
-### 모델별 연구
+## 모델별 연구
 
 이 지식베이스는 범용 LLM(GPT-4, Claude)과 교육 특화 변형을 모두 다룹니다. [[cstutorbench-slm-tutors|소형 언어 모델 벤치마크]]는 튜터링에서 SLM 성능을 비교하며, [[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]]는 SLM이 결정적 도구로 증강된 계획자로 배치될 때 — 결정적 도구가 작은 모형이 암묵적으로 처리할 부담을 떠맡고, 교수법적 통제는 모형이 아니라 단계적 위임 정책에 존재합니다 — [[agentic-ai|에이전트형]] 튜터링에 구조적으로 적합하다고 주장합니다. [[educational-llm-alignment|교육 정합]] 연구는 LLM을 교수법적으로 적합하게 만드는 방법을 다룹니다. 세 최전선 모델 군을 대상으로 한 수업 연구([[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]])는 ChatGPT, Gemini, Claude가 논증적 글쓰기에서 협력적 비평 파트너가 될 수 있음을 발견했습니다. 한 학기 동안의 반복적인 에세이를 거쳐 학생들은 논증의 질, [[prompt-engineering|프롬프트 엔지니어링]], [[ai-feedback-quality|AI 피드백]]에 대한 대응에서 각각 약 한 표준편차씩 향상했고(모두 p < .001) 깊이 참여했습니다(87.8%가 LLM 주장에 반박했습니다). 이는 범용 LLM을 단순한 답 생성기가 아니라 실현 가능한 [[collaborative-learning|협력 학습]] 파트너로 자리매김합니다.
 

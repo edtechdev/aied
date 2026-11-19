@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -103,3 +103,4 @@ AI를 [[environmental-education|지속가능성 교육]]과 성과를 *위한* �
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 구현된 지능을 통해 지속가능한 학습을 기르기
 - [[caruana-pre-university-ai-education-slr-2026]] — 대학 이전 AI 교육에 관한 체계적 문헌 고찰(SDG 4 틀)
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — 파트너십 윤리가 부정행위 틀 대신 기관의 생성형 AI 결정을 이끌어야 한다고 주장하는 스웨덴 설문 및 포커스 그룹 연구
+- [[lim-ai-wearables-environmental-empathy-2024]] — 웨어러블 EDA와 AI 생성 오염 이미지가 각성을 높였으나, 환경 관리 의식(stewardship)은 측정하지 않았다 (Lim 등, 2024)

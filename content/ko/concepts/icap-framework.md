@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,8 @@ ICAP의 생성적이고 과정 수준인 참여에 대한 강조는 생성형 AI
 2. **양식에 걸쳐 학습자를 참여시키십시오.** 효과적인 [[ai-literacy|AI 리터러시]] 교수는 학습자를 여러 ICAP 수준 — 수동적 노출, 능동적 조작, 구성적 생성, 상호작용적 대화 — 에서 참여시키며, 학습 목표에 맞는 양식을 선택합니다.([[hingle-collaborative-ai-literacy-2025]])
 3. **참여를 정직하게 측정하십시오.** ICAP은 연구자와 설계자에게 진정한 인지적 참여와 단순한 활동을 구별하는 공통 어휘를 제공합니다 — 얕은 [[student-engagement]]에 대한 교정입니다.([[icap-cognitive-engagement-llm-agents]])
 4. **인간–LLM 주석 격차를 살피십시오.** 참여를 부호화하는 데 자동화된 시스템을 쓴다면, 훈련된 인간에 대한 그것의 체계적 부족분을 고려해야 합니다.([[icap-cognitive-engagement-llm-agents]])
+
+상한을 정하는 것은 도구 설계만이 아니라 과제 설계입니다. 40개 대학 강좌의 코딩된 스레드 829개에 걸쳐, 대화가 구성적이거나 상호작용적이었던 곳에서 생산된 산출물은 최종 품질에 대한 또래 평정에서 다소 더 높은 점수를 받았습니다([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang et al. (2026)]]).
 
 ## 흔한 오해
 

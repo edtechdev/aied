@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-17T09:26:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,7 @@ ai_assist:
 - **평가 재설계:** [[authentic-assessment|진정한 평가]], [[beyond-detection-authentic-assessment-ai-2025|탐지를 넘어서는 접근]], 그리고 [[ai-assessment-scale-reform|AI 평가 척도]]는 AI 사용을 잡아내는 데서, AI 사용이 무관하거나 투명하거나 특정 능력을 입증하기 위해 요구되는 평가를 설계하는 데로 초점을 옮깁니다.
 - **채점의 구조적 취약성:** [[biology-degree-integrity-genai-cheating-2026|Chan 외]]는 현재의 채점이 AI를 매개로 한 부정직에 얼마나 구조적으로 노출되어 있는지에 대한 구체적 사례 연구를 제공합니다. 한 [[biology-education|생물학]] 학과에서 교수들은 대면 감독 시험만이 최소한으로 취약하다고 인식했으며, 수업 외 과제는 매우 취약하다고 인식되어, 학생 성적의 약 3분의 1이 매우 취약하고 80%가 최소한 다소 취약한 상태로 남았습니다. 이것은 진실성 문제를 부분적으로 *채점 설계* 문제로 규정하며, 감독 시험이나 수업 내 평가, 그리고 위탁이 어려운 [[authentic-assessment|진정한 평가]] 설계로 균형을 재조정할 동기를 제공합니다. [[ivory-psychology-assessment-integrity-2026|Ivory 외 (2026)]]는 3년에 걸친 심리학 프로그램 전체를 통해 학문 분야 차원의 대응 사례를 제공합니다. 16개 유형에 걸친 40개의 평가 중 36개가 최소한의 노력으로 통과 가능한 결과물을 만들어냈고, 통과하지 못한 4개는 출석, 시각 매체, 또는 학생 자신의 데이터셋을 요구하는 것들이었습니다. 그 연구에서 일반화되는 부분은 *왜* 통과하는지에 대한 해석입니다. 즉 유창한 구조와 올바른 분석의 성의 있는 사용에 점수를 주는 채점은 조작된 값과 환각된 참고문헌을 용낣하며, 따라서 AI 산출물이 성취로 채점되는지를 결정하는 것은 탐지가 아니라 통과 기준이며, 평가의 취약성은 "전적으로 학생의 사용 탓으로 돌릴 수 없습니다."
 - **제출물이 공격 표면이 되는 것: [[automated-assessment|AI 채점]]에 대한 프롬프트 인젝션.** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]]은 일상적인 채점 워크플로를 상대로 레드팀 검사를 수행하고, 학생의 제출물이 AI 도구가 산출하는 성적을 바꾸는 숨겨진 지시를 담을 수 있음을 보여 줍니다. 제출 파일에 삽입된 다섯 가지 간접 인젝션 전략 중 두 가지가 사용자에게 가시적인 경고 없이 불합격 에세이를 합격으로 끌어올렸으며, 보고된 공격 성공률은 각각 100%(9/9)와 94%(17/18)였고, 둘 모두 docx, pdf, htm 형식에 걸쳐 지시 조작, 역할 놀이, 난독화를 결합했습니다. 가장 기본적인 공격은 완전히 실패했고, 그 거부는 조용했습니다 — 도구가 시도를 보고하지 않고 채팅을 비활성화했습니다 — 그리고 탐지된 단 한 건의 인젝션은 도구가 "공식 과제 지시에 따라서만" 채점할 것이라는 안심을 준 뒤에, 같은 파일의 이후 여섯 번 실행에서도 성적을 올렸습니다. 진실성의 결과는 양방향으로 작동합니다. 숨겨진 지시에 의해 올라간 성적은 어떤 [[assessment-validity|타당도]] 주장도 담고 있지 않으며, 같은 기법은 산출물에 지속적인 흔적을 남기지 않고 제출물의 질을 떨어뜨리는 데 쓰일 수 있으며, 인간 채점자는 보이지 않도록 설계된 조작에 대한 유일한 실질적 검증 장치로 남습니다.
-- **타당도를 조직화하는 틀로:** [[assessment-validity|평가 타당성]]는 진실성을 증거의 문제로 재규정합니다. [[authentic-products-authenticated-processes-2026|진정한 평가 연구]]는 **구성개념 대체(construct substitution)**를 도입합니다 — AI가 생성한 산출물이 학생에게 귀속되므로, 평가는 학생이 아닌 도구의 능력을 추론하게 됩니다. 증거에 관한 질문은 어떤 AI 정책에서도 살아남습니다. 사용이 금지되거나, 허용되거나, 요구되거나에 관계없이 평가는 여전히 내리는 추론을 정당화하는 증거를 만들어내야 합니다.
+- **타당도를 조직화하는 틀로:** [[assessment-validity|평가 타당성]]는 진실성을 증거의 문제로 재규정합니다. [[authentic-products-authenticated-processes-2026|진정한 평가 연구]]는 **구성개념 대체(construct substitution)**를 도입합니다 — AI가 생성한 산출물이 학생에게 귀속되므로, 평가는 학생이 아닌 도구의 능력을 추론하게 됩니다. 증거에 관한 질문은 어떤 AI 정책에서도 살아남습니다. 사용이 금지되거나, 허용되거나, 요구되거나에 관계없이 평가는 여전히 내리는 추론을 정당화하는 증거를 만들어내야 합니다. [[performance-without-capability-genai-assessment-validity-2026|Kearney, 2026]]는 그 틀을 두 차원으로 나눕니다 — 학생이 학습과 관련된 인지적 책임을 얼마나 유지하는지, 그리고 평가자가 과정의 얼마나 많은 부분을 볼 수 있는지 — 그리고 책임이 도구에 놓이고 과정이 보이지 않는 채로 남으면, 다듬어진 산출물은 더 이상 이해에 관한 추론을 정당화하지 못함을 보여 줍니다.
 - **감시 없는 진실성 메커니즘으로서의 대규모 변형:** [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA (Lee 2026)]]는 AI 통합 진정한 평가(AIAA)의 전제를 [[benchmark|벤치마크]]합니다 — 복사를 구조적으로 무의미하게 만들어 감시 기반 감독을 대체하는 학생별 과제 변형이 그것입니다. 진실성 보장은 LLM이 표면적으로 구별되고 [[assessment-validity|구성개념 등가인]] 변형을 생성하는지에 조건부이며, VARIA의 600개 변형 파일럿은 최전선 모형이 이를 간신히 충족함을(공동 점수 0.81–0.88), 비최전선 모형은 무너짐을(0.50–0.55) 발견하므로, "대규모 변형은 [[prompt-engineering|프롬프트 작성]]만으로 해결될 수 없습니다." 이것은 탐지 대 재설계 논쟁에 경험적이고 반증 가능한 검증을 제공합니다. 진정하고 과제가 변형된 평가의 무감시 약속은 이제 가정된 것이 아니라 측정된(그리고 여전히 좁은) 생성 능력에 의존하게 되었습니다.
 - **생성형 AI에 대한 학생 성찰의 인증:** [[5p-reflection-model-genai-2026|Kadel 외 (2026)]]는 생성형 AI가 성찰적 산문을 쓸 수 있게 된 이상 전통적인 성찰 모형이 학생의 성찰을 더 이상 인증할 수 없다고 주장하며, 성찰 모형 안에 진실성을 직접 내장합니다. 5P 틀의 함정(Pitfalls) 단계는 표절, [[hallucination-risk|환각]], 과도한 의존을 명시적으로 다루며, 과정(Process)과 산출물(Product) 단계는 프롬프트를 문서화하고 출력을 검증하도록 요구하여 [[learners|학습자]] 자신의 추론을 AI가 생성한 기여와 구별할 수 있게 합니다.
 - **정책 개발:** [[genai-policies-higher-ed-computing|제도적 AI 정책]]과 [[educational-policy-ai|정책]] 연구는 대학이 진실성 기대를 어떻게 개발하고 전달하는지, 그리고 추상적인 정책 진술이 왜 그렇게 자주 실패하는지를 검토합니다.
@@ -141,6 +141,8 @@ Benau (2026)는 반대 방향에서 같은 경계에 도달합니다. 학문적 
 세 번째 경로는 탐지와 재설계 사이에 놓입니다. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]]는 학기 초 [[learning-analytics|LMS 추적]]에서 AI 보조 부정행위 위험을 AUC 0.763으로 예측하고, 그 출력을 부정행위의 증거가 아니라 저위험의 학업 지도 — 알림, 과제 후속 조치, 짧은 확인 — 으로 규정하며, 그 점수가 채점과 징계 기록으로부터 분리된 채 남아 있어야 한다고 주장합니다.
 
 학생에게 펜을 쥐여주는 것이 경계를 부과하는 것보다 더 엄격한 경계를 낳습니다. [[rodak-hire-ai-future-focused-literacy-2026|Rodak (2026)]]은 필수 학부 경영 글쓰기 강좌 세 분반의 학생 72명에게 강좌 AI 정책을 함께 작성하게 한 뒤, 이름이 지정된 보조 도우미에 대한 업무 범위서를 작성하게 했습니다. 모든 목록이 미공개 복사-붙여넣기, 보조 도우미가 과제를 완수하는 것, AI가 만들어낸 출처를 배제했으며, 81%가 연습 문제와 교정을 위해 보조 도우미를 고용했습니다. 그 경계는 준수가 아니라 저자성으로 읽히며, "AI를 써도 되나"를 "이 일이 그 직무에 속하나"로 바꿉니다.
+
+진실성 프레이밍에는 행동적 배당도 있습니다. [[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]]은 학문적 진실성 우려가 필리핀 공대생의 인간 도움 요청을 생성형 AI로 대체하는 것을 줄인 유일한 구성개념임을 발견했습니다. 따라서 교육적인 진실성 틀은 금지가 손대지 않은 채로 두는 인간적 지원을 보존합니다.
 
 ## 연결
 
@@ -285,3 +287,5 @@ Winstone, Gravett 및 Elkington은 통상의 논리를 뒤집습니다. 진실�
 - [[wyszynski-genai-user-input-engineering-statics-2026]] — 공학 정역학 강좌의 사용자 입력 데이터로 본 생성형 AI 사용
 - [[burke-ai-proliferation-college-students-replication-2026]] — 5개 대학 2년 재현 연구: 부정행위 인식은 14포인트 하락했지만 자인한 부정행위자의 30.2%는 여전히 AI 사용
 - [[mingole-ai-proofing-higher-education-assessments-2026]] — AI-proofing 전략 벤치마크: 복잡성을 더한 경우에만 저항했다 (Mingole 등, 2026)
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — 의도가 아니라 습관이 학생이 사람에게 도움을 덜 요청하는 것을 예측한다: 49.6%가 인간 도움 요청 감소를 보고, 습관의 β 0.711 대 의도 0.039
+- [[performance-without-capability-genai-assessment-validity-2026]] — 가시적 과정이 여전히 대체를 문서화할 수 있는 이유를 설명하는 2차원 틀(인지적 책임, 과정 가시성)

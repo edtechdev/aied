@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T12:19:30-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,8 @@ GenAI 지원 PBL을 프로젝트 기반 학습과 함께 묶는 3수준 메타 �
 - **영역별 구현.** [[engineering-education|생체공학]]을 위한 PBL 프레임워크는 복제 패키지와 함께 요약과 코딩 지원을 위해 GenAI를 사용합니다([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]). AI 지원 PBL은 [[educational-robotics|로보틱스]]에서 [[computational-thinking|계산적 사고]]를 향상시킵니다([[ai-pbl-computational-thinking-2026|계산적 사고를 위한 AI 지원 PBL]]). genAI 기반 가상 환자는 병력 청취 지도 학습을 지원합니다([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
 - **근거 종합.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]]는 [[human-ai-collaboration|인간-컴퓨터 상호작용]] 프레임워크 안에서 PBL에서의 AI에 관한 교수자의 참여에 대한 50개 연구(2015–2024)를 [[meta-analysis-systematic-review|체계적으로 검토]]합니다.
 - **시나리오 기반 PBL에서의 GenAI.** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues (2026)]]는 보건의료 교육에서 GenAI에 관한 체계적 검토에서 시나리오 기반 접근법들 가운데 문제 기반 학습을 포함하며, [[prompt-engineering|프롬프트 설계]]가 교수 명세로 기능하고 하이브리드 인간-AI 협업이 완전 자동화된 접근보다 우수하다는 것을 발견합니다. 이 검토는 생성된 내용이 교수 프레임워크와 더 강하게 조화해야 하고, PBL 맥락에서 더 재현 가능한 프롬프트 관행이 필요함을 부각합니다.
+
+- **단계적 철회는 최종 선택을 판단 과제로 만든다.** [[abril-jimenez-human-centred-engineering-genai-2026|Abril-Jimenez et al. (2026)]]에서 공학 2학년 학생 105명이 GenAI를 사용해 문제를 탐색하고 프로토타입을 만든 뒤, 도구를 의도적으로 제한하고 기준을 미리 설정한 상태에서 해결책을 선택했습니다. 저자들은 비판적 평가를 도구 덕분이 아니라 그 제한 덕분으로 돌립니다.
 
 - **AI는 튜터의 지식 전달은 수행할 수 있지만 집단 학습의 사회적 조절은 하지 못합니다.** 4주간의 약리학 준실험에서, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]]는 AI 매개 PBL이 촉진자 주도 집단의 학업 성취 이득과 맞먹었으며(집단 간 p = 0.474), 촉진자 주도 집단은 집단 역학(26.51 대 24.74, p = 0.035)과 비판적 사고(14.75 대 13.09, p < 0.001)에서 이점을 유지했습니다.
 
