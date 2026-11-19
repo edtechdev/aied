@@ -1,7 +1,7 @@
 ---
 title: "Bibliothekarinnen"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -12,7 +12,7 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

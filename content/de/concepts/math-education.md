@@ -1,7 +1,7 @@
 ---
 title: Mathematikbildung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/math-education
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

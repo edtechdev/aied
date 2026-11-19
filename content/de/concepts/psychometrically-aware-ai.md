@@ -1,13 +1,13 @@
 ---
 title: Psychometrisch bewusste KI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 Während KI-Systeme zunehmend Antworten benoten, Schwierigkeit vorhersagen und [[feedback|Feedback]] geben, ist ein zentrales Risiko, dass sie selbstsicher klingende Outputs berichten, die nicht gegen Messprinzipien validiert sind. Psychometrisch bewusste KI adressiert das, indem sie KI-[[assessment|Assessment]] in etablierter Psychometrie gründet — Outputs kalibriert, Unsicherheit quantifiziert und [[assessment-validity|Validität]]- und [[educational-measurement|Bildungsmessung]]standards bewahrt, statt auf rohe Genauigkeit oder [[self-report-measures|selbstberichtete]] Konfidenz zu vertrauen.
 
-### Wie psychometrisch bewusste KI in der Forschung erscheint
+## Wie psychometrisch bewusste KI in der Forschung erscheint
 
 - **Kalibrierung und Konfidenz:** [[automated-assessment|konfidenzbewusstes Assessment]] und [[llm-psychometric-calibration-cdp|LLM-psychometrische Kalibrierung]] sorgen dafür, dass KI bedeutungsvolle, unsicherheitsbewusste Noten berichtet statt überkonfidenter Punktschätzungen.
 - **Modellkonfidenz genügt nicht.** Auf SciEntsBank trennten verbale, latente und konsistenzbasierte Konfidenz jeweils nicht korrekte von inkorrekten Kurzantworten; die beste Kalibrierung kam vom Hinzufügen datensatzabgeleiteter aleatorischer Unsicherheit — Within-Cluster-Entropie eingebetteter Antworten —, durch einen Random Forest plus Platt-Scaling, was selektives Auto-Benoten und [[human-in-the-loop-ai|menschliche Review]] ermöglicht ([[cong-confidence-asag-2026|Cong et al. (2026)]]).
@@ -53,7 +53,7 @@ Während KI-Systeme zunehmend Antworten benoten, Schwierigkeit vorhersagen und [
 - **Latent-Fähigkeits-Pipelines und Standard-Setzung:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] liefern eine konkrete Vorlage für psychometrisch bewusstes Benoten in einer nationalen Klausur: Rubrik-Itemscores werden nie direkt summiert, sondern in ein [[item-response-theory|IRT]]-Modell gespeist, dessen Latent-Fähigkeits-Schätzungen mit der Bookmark-Standard-Setzungs-Methode in Proficient / Close to Proficiency / Insufficient geschnitten werden, wobei Bestehen mindestens zwei Proficient-Abschnitte erfordert und der verbliebene mindestens Close to Proficiency. Die Autoren reproduzierten diese Pipeline in automatisierter Form (eine 67%-Wahrscheinlichkeit, mindestens 7 Rubrik-Items korrekt zu beantworten für den unteren Cut und mindestens 10 für den oberen), was KI- und menschliche Itemscores gegen identische Entscheidungskriterien vergleichen lässt statt auf roher Übereinstimmung allein.
 - **Ein Modell kann kalibriert aussehen und doch überwiegend ein Label vorhersagen.** Die Aufforderung an GPT-4o und Gemini 2.0 Flash, Lernstildimensionen aus den Dialogen von 153 Grundstudierenden abzuleiten, erzeugte eine moderate Genauigkeit, die sich beim pro-Klasse-Recall als Mehrheitsklassen-Prädiktion erwies, wobei intuitive und globale Lernende unteridentifiziert wurden und Few-Shot-[[prompt-engineering|Prompting]] den Bias manchmal verstärkte statt beseitigte ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi und Robb (2026)]]).
 
-### Verbindungen
+## Verbindungen
 
 Psychometrisch bewusste KI sitzt an der Schnittstelle von [[educational-measurement|Bildungsmessung]], [[assessment-validity|Validität]], [[item-response-theory|Item-Response-Theorie]] und [[automated-assessment|Confidence Aware AI Assessment]]. Sie ist zentral für [[ai-ed-evaluation|Evaluation von KI in der Bildung]] (ob KI-Assessment vertrauenswürdig ist) und verbindet sich mit [[llm]]-basiertem [[automated-assessment]] und [[automated-assessment|automatisiertem Benoten]]. Ihre Betonung von Validität spricht auch zu den [[limitations-in-aied-research|Messbeschränkungen]] der [[ai-education|AIED]]-Forschung.
 

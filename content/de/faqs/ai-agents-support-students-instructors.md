@@ -1,14 +1,14 @@
 ---
 title: "Wie können KI-Agenten Studierende und Lehrende unterstützen?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-15T15:44:25-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T15:25:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

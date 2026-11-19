@@ -1,7 +1,7 @@
 ---
 title: Missverständnisse über KI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T16:55:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

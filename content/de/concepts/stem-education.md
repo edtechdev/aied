@@ -1,7 +1,7 @@
 ---
 title: MINT-Bildung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-18T18:55:00-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/stem-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T13:05:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,8 @@ ai_assist:
 ## Einführung
 
 ### MINT als primäre KIED-Domäne
+
+Der Disziplinenabschnitt ordnet die Fachseiten in vier Cluster ein – [[humanities-education|Geistes- und Kunstwissenschaften]], [[social-sciences-education|Sozialwissenschaften]], STEM und die [[professions-education|Professionsdisziplinen]] – und STEM ist mit großem Abstand das größte davon, was selbst ein Befund darüber ist, wo sich Evidenz zu KI in der Bildung ansammelt.
 
 - **Mathematik:** [[math-education|Mathematikbildungs]]-Forschung überspannt [[generative-ai-reduced-study-time-math|GenAI-Wirkung auf Mathematiklernen]], [[ai-powered-personalized-learning-elementary-fractions-2026|Tutoring zu Brüchen in der Grundschule]] und [[student-math-competence-clustering|Kompetenz-Clustering]].
 - **Mathematik-ITS-Evidenz ist begrenzt und bedingt.** Ein strukturiertes narratives Review von 20 Publikationen (2020–April 2026) fand den klarsten gemessenen Vorteil für Echtzeit-diagnostisches [[feedback]], das auf dasselbe adaptive System aufgesetzt wird, schloss aber, dass intelligentes Tutoring Mathematiklernen nur unterstützt, wenn valides [[student-modeling|Lernendenmodell]], kalibriertes Scaffolding und Vermittlung durch die Lehrkraft zusammenkommen, und dass Skalierbarkeit technisch ist, nicht pädagogisch ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).

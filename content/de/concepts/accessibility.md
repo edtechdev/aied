@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Barrierefreiheit
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

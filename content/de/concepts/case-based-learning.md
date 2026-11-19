@@ -8,9 +8,9 @@ technology: [generative-ai, simulation, intelligent-tutoring]
 audience: [instructors, learners, researchers]
 level: [higher ed]
 confidence: high
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 translation_of: "concepts/case-based-learning"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

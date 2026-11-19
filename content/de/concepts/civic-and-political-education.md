@@ -1,7 +1,7 @@
 ---
 title: Politische Bildung
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, teacher-role]
 pedagogy: [critical-pedagogy, lifelong-learning]
@@ -14,7 +14,7 @@ audience: [instructors, curriculum designers, policymakers]
 confidence: low
 contributors: [editor]
 translation_of: concepts/civic-and-political-education
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

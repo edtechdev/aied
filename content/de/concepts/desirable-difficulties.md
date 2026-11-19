@@ -1,7 +1,7 @@
 ---
 title: Wünschenswerte Schwierigkeiten
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-07T20:05:55-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
 translation_of: concepts/desirable-difficulties
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

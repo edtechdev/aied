@@ -1,14 +1,14 @@
 ---
 title: Soziokulturelles Lernen
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ ai_assist:
 
 ## Einführung
 
-### Das Konzept
+## Das Konzept
 
 Soziokulturelle Theorie (Wygotski, 1978; Lurija; Leontjew) geht davon aus, dass sich höhere mentale Funktionen durch Teilhabe an kulturell organisierter Tätigkeit entwickeln. Anders als Zugänge, die Lernen allein in der Informationsverarbeitung des Individuums verorten, betont der soziokulturelle Blick, dass:
 
@@ -44,13 +44,13 @@ Soziokulturelle Theorie (Wygotski, 1978; Lurija; Leontjew) geht davon aus, dass 
 - **Lernen ist sozial.** Höhere mentale Funktionen erscheinen zuerst zwischen Menschen (intersubjektiv, in Interaktion) und erst später innerhalb des Individuums. Lernen entsteht durch Teilhabe mit [[teacher-role|Lehrenden]], Peers und Gemeinschaften — in Prozessen wie [[scaffolding|Scaffolding]], Lehre und Bewegung durch die ZPD.
 - **[[distributed-cognition|Kognition ist verteilt]].** Kognitive Arbeit ist über Menschen, Artefakte und Umgebungen ausgebreitet (Hutchins; Clark & Chalmers; Pea), statt im individuellen Geist enthalten. [[distributed-cognition|Verteilte Kognition]], [[situated-learning|situiertes Lernen]] und Praxisgemeinschaften erweitern den soziokulturellen Strang.
 
-### Die Zone der proximalen Entwicklung (ZPD)
+## Die Zone der proximalen Entwicklung (ZPD)
 
 Die ZPD (Wygotski) ist das am breitesten angewandte soziokulturelle Konzept im [[intelligent-tutoring|KI-Tutoring]]: der Raum zwischen dem, was eine lernende Person allein kann, und dem, was sie mit Unterstützung kann. Lernen geschieht am wirksamsten, wenn Unterricht diese Zone adressiert — herausfordernd genug, um Entwicklung voranzutreiben, unterstützt genug, um Fortschritt zu ermöglichen. Sie ist das theoretische Fundament von [[scaffolding|Scaffolding]]: temporäre, anpassbare Unterstützung, die zurückgenommen wird, wenn Kompetenz wächst. In KI in der Bildung rahmt die ZPD die zentrale Designfrage, wie viel Unterstützung ein [[intelligent-tutoring|KI-Tutor]] geben sollte, damit Lernen vorankommt, ohne verschenkt zu werden — siehe [[stanford-evidence-base-ai-k12-2026]].
 
 Von Maschinen erzeugte Hilfe kann in dieser Zone landen. In einer randomisierten Studie mit 274 [[adult-learning|erwachsenen Lernenden]] über vier Mathematikfächer erzeugten von ChatGPT generierte Hinweise auf ausgearbeitete Lösungen einen Vorher-Nachher-Zuwachs von 17,00 % gegenüber 1,85 % ohne Hinweise, während von menschlichen Tutorinnen und Tutoren verfasste Hinweise 11,62 % erbrachten; die beiden Hilfebedingungen waren statistisch nicht trennbar ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos und Bhandari, 2024]]). Die Fehlerquote relativiert die Äquivalenz: 32 % der generierten Hinweise scheiterten an Qualitätsprüfungen, bis Selbstkonsistenz-[[prompt-engineering|Prompting]] diese in den drei Algebrafächern auf nahezu null und in der Statistik auf 13 % senkte. Eine kundigere Person, die in einem von drei Fällen falsch liegt, ist immer noch ein mediationaler Agent — deshalb muss der Beitrag der Maschine geprüft werden, bevor eine lernende Person darauf aufbaut.
 
-### Soziokulturelles Lernen in der KI-Bildung
+## Soziokulturelles Lernen in der KI-Bildung
 
 Soziokulturelle Theorie prägt die [[research-methods-aied|Forschung]] zur AIED auf mehrere unterschiedliche Weisen:
 
@@ -65,7 +65,7 @@ Soziokulturelle Theorie prägt die [[research-methods-aied|Forschung]] zur AIED 
 - **Kultureller und [[governance|institutioneller]] Kontext.** Der [[constructivist|konstruktivismus]]-nahe soziokulturelle Strang betont, dass die kulturelle Dimension prägt, was als Wissen zählt, wer Autorität ist und was Anstrengung bedeutet — siehe die Rahmung von Lernenden, Kontexten und Kulturen im [[young-people-learning-generative-ai-rapid-review-2026|Sydney-PreK-12-Rapid-Review]].
 - **Maße für Sprechhandlungen zu validieren erfordert die Jugend, deren Sprechhandlungen gemessen werden.** Die Rekontextualisierung von Sprechhandlungsdefinitionen mit vier Fokusstudierenden erhöhte die [[llm|LLM]]-Klassifikations-F1 um +0.104 für Claim und um +0.23 für Question, und die eigenen Interpretationen der Studierenden wichen von denen Erwachsener und des Modells ab — eine strukturelle Grenze textbasierter Klassifikation, kein Problem der Datenmenge ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
 
-### Verbindung zu kognitiver Last und Metakognition
+## Verbindung zu kognitiver Last und Metakognition
 
 Der soziokulturelle Strang ist eng mit [[cognitive-offloading|Cognitive-Load-Theorie]] gekoppelt (Unterstützung sollte Last bewältigen, ohne produktive Anstrengung zu beseitigen) und mit [[metacognition|Metakognition]] (Lernende in der Zone überwachen und regulieren ihr Verständnis aktiv). [[stanford-evidence-base-ai-k12-2026]] synthetisiert [[k-12|K-12]]-Belege dafür, dass KI-Werkzeuge am besten funktionieren, wenn sie Lernende in der ZPD halten, statt für sie zu antworten, und Forschung zu [[human-in-the-loop-ai|Human-in-the-Loop-KI]] adressiert, wie menschliche und KI-Unterstützung gemeinsam die Zone der lernenden Person definieren.
 

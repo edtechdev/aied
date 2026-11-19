@@ -1,7 +1,7 @@
 ---
 title: Aktivitätstheorie
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -10,7 +10,7 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 ## Einführung
 
-### Das Konzept
+## Das Konzept
 
 Aktivitätstheorie stammt von Wygotskis und Leontjews kulturhistorischer Psychologie ab (mit späterer Entwicklung durch Engeström) und ist ein zentraler Strang der breiteren [[sociocultural-learning|soziokulturellen]] Tradition. Ihre Kernannahme ist, dass menschliche Aktivität nicht auf individuelle Kognition oder isolierte Werkzeugnutzung reduzierbar ist; sie ist ein **kollektives, objektorientiertes, werkzeugvermitteltes System**. Engeströms kanonisches Modell eines Aktivitätssystems umfasst sechs interagierende Elemente:
 
@@ -54,7 +54,7 @@ Ein bestimmendes Merkmal ist der **Widerspruch**: Aktivitätssysteme enthalten h
 
 Der Werkzeug-Slot ist der, den generative KI strapaziert. Ein soziokultureller Essay aus dem Jahr 2026 argumentiert, dass ein [[llm|LLM]] die Aktivität sowohl vermittelt als auch kontingente Beiträge erzeugt, die ihre Bahn umformen, sodass die Bezeichnung als Werkzeug seinen Einfluss unterschätzt, während die Bezeichnung als Kollaborateur Intentionalität, Rechenschaft und Gemeinschaftszugehörigkeit zuschreibt, die es nicht hat ([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate und Ritchie, 2026]]). Ihr *vermittelnder Akteur* sitzt in der Werkzeugposition, ohne eine Position in der Gemeinschaft zu halten, was bedeutet, dass die Arbeitsteilung um Beiträge und nicht nur um Instrumente herum analysiert werden muss.
 
-### Warum Aktivitätstheorie für KI in der Bildung bedeutsam ist
+## Warum Aktivitätstheorie für KI in der Bildung bedeutsam ist
 
 KI bringt neue **Werkzeuge/vermittelnde Artefakte** in bestehende pädagogische Aktivitätssysteme ein, was sowohl Chancen als auch Widersprüche erzeugt. Aktivitätstheorie gibt der AIED-Forschung ein Vokabular und eine Methode, diese Veränderungen zu analysieren:
 
@@ -68,11 +68,11 @@ KI bringt neue **Werkzeuge/vermittelnde Artefakte** in bestehende pädagogische 
 - **Disziplinarität und Variation über Kontexte hinweg.** Weil Aktivitätssysteme historisch und kulturell situiert sind, erklärt Aktivitätstheorie, warum dasselbe KI-Werkzeug in verschiedenen Disziplinen und Kontexten unterschiedliche Ergebnisse hervorbringt — jedes Fach funktioniert als Aktivitätssystem mit eigenen Regeln, eigener Gemeinschaft und eigener Arbeitsteilung [[jiang-genai-activity-theory-disciplines-2026|(z. B. Unterschiede in der GenAI-Nutzung und Offenlegung von Studierenden über akademische Domänen hinweg)]].
 - **Ein Werkzeug, zwei Aktivitätssysteme, ungleichmäßige Durchdringung.** Unter zehn Mathematikwissenschaftlerinnen und -wissenschaftlern, die über CHAT analysiert wurden, blieb GenAI ein peripheres Werkzeug im Forschungsaktivitätssystem, während es im Unterricht die Rolle der Lehrkraft hin zur Vermittlerin bzw. zum Vermittler [[critical-thinking|kritischen Denkens]] neu formte, wobei sich die Übernahme über Nutzung durch Lernende und Peer-Netzwerke statt über [[governance|institutionelle]] Politik verbreitete ([[genai-runaway-object-math-higher-ed|Bakogianni et al., 2026]]).
 
-### Aktivitätstheorie und verwandte Rahmenwerke
+## Aktivitätstheorie und verwandte Rahmenwerke
 
 Aktivitätstheorie sitzt innerhalb der [[sociocultural-learning|soziokulturellen]] Familie und wird häufig mit anderen Rahmenwerken gepaart oder gegen sie kontrastiert: **[[distributed-cognition|verteilte Kognition]]** und **[[situated-learning|situiertes Lernen]]** teilen ihre Betonung von Kontext und Vermittlung; **[[community-of-inquiry|Community of Inquiry]]** und „communities of practice“ teilen ihre kollektive Ausrichtung; und **Technologieakzeptanz**-Modelle (z. B. [[technology-acceptance-model|TAM]]) bieten ein kontrastierendes, stärker individuell-glaubensorientiertes Konto der Übernahme, das Aktivitätstheorie dafür kritisiert, die kollektiven und strukturellen Dimensionen einzuebnen. In der AIED-Forschung wird Aktivitätstheorie häufig mit anderen Theorien kombiniert — etwa mit [[self-determination-theory|Selbstbestimmungstheorie]] im Design von Interventionen zur Professionalisierung von Lehrkräften, oder mit ökologischer Systemtheorie in Rahmenwerken situierter KI-Ethik [[raffaghelli-situated-ai-ethics-2026|(Raffaghelli et al., 2026)]].
 
-### Zentrale Forschungsthemen
+## Zentrale Forschungsthemen
 
 - **Wie KI die Arbeitsteilung** in den Aktivitätssystemen des Lehrens, Lernens und Forschens neu verteilt.
 - **Systemische Widersprüche** als Treiber von Normwandel und expansiver Verwandlung in KI-ergänzter Bildung.
@@ -81,7 +81,7 @@ Aktivitätstheorie sitzt innerhalb der [[sociocultural-learning|soziokulturellen
 - **Theorieverankerte Learning Analytics**, die Messung in Elementen des Aktivitätssystems fundieren.
 - **Das Objekt KI-vermittelter Aktivität** — ob sich das Objekt des Lernens von Mastery zu Ausgabe verschiebt, und was das für [[learning-gains|Lernleistungen]] bedeutet.
 
-### Praktische Implikationen
+## Praktische Implikationen
 
 Für Gestaltende und Lehrende rät Aktivitätstheorie, über das KI-Werkzeug selbst hinaus auf das gesamte Aktivitätssystem zu blicken, in das es eintritt: die Regeln, die akzeptable Nutzung bestimmen, die Gemeinschaft und ihre Normen, die Arbeitsteilung zwischen Mensch und Maschine sowie Objekt und Motiv der Aktivität. Nachhaltige KI-Integration erfordert *Neugestaltung des Systems* — Widersprüche adressieren, Normen aktualisieren, Rollen neu austarieren — statt bloß besserer Werkzeuge oder individuellen Trainings. Für Forschende bietet Aktivitätstheorie eine strenge Analyseeinheit (das Aktivitätssystem, nicht die Einzelperson) und eine Methode ([[formative-assessment|formative]] Intervention, Widerspruchsanalyse), um die Rolle der KI in der Bildung zu untersuchen und zu gestalten.
 

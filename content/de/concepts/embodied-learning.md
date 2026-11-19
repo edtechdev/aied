@@ -1,14 +1,14 @@
 ---
 title: Verkörpertes Lernen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 Verkörpertes Lernen ist eng verwandt mit [[active-learning|aktivem Lernen]], [[experiential-learning|erfahrungsbasiertem Lernen]] und situierten/[[constructivist|konstruktivistischen]] Theorien. Die zentrale Behauptung ist, dass ein physischer, manipulierbarer Agent Lernenden hilft, abstrakte Ideen mit konkreten Ergebnissen zu verbinden — ein Programm, das einen Roboter bewegt, oder ein Rollenspiel mit einem physischen Roboter — auf Weisen, die rein bildschirmbasierte Interaktion vielleicht nicht vermag. Robotik ist die klarste Verkörperung von KI in der Bildung und gibt Lernenden etwas zu sehen, zu berühren und zu beobachten.
 
-### Wie verkörpertes Lernen in der Forschung der Wissensbasis erscheint
+## Wie verkörpertes Lernen in der Forschung der Wissensbasis erscheint
 
 - **Verankertes Programmieren:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] verankert [[cs-education|Blockprogrammierung]] in verkörperter Roboterausführung und erzeugt eine enge Schleife aus Erstellen, Ausführen, Beobachten und Überarbeiten, damit Lernende sehen, wie ihr Code zu Verhalten wird.
 - **Sozialrobotische Interaktion:** [[educational-robotics|Soziale Roboter]], die für [[storytelling-in-education|Storytelling]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), Rollenspiel ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) und Gebärdensprache ([[pepper-robot-sign-language-lis-2025|Pepper]]) eingesetzt werden, bieten verkörperte soziale Interaktion, die relationales und [[social-emotional-learning|emotionales]] Lernen stützt.
@@ -48,7 +48,7 @@ Verkörpertes Lernen ist eng verwandt mit [[active-learning|aktivem Lernen]], [[
 
 - **Ein rein sprachlicher Lernbegleiter zieht die Untersuchung auf das, was sich sagen lässt.** In einem Master-Labor zur Fluidstatik bauten Studierende das Auftriebsmodell von Hand, bevor ein Gemini-basierter Lernbegleiter hinzukam, um es auf ein neues Phänomen anzuwenden. Über drei Paare hinweg hielt die KI die ISLE-Sequenz, doch auf die Bitte „sagen Sie uns einfach“ produzierte sie Massenwerte, die niemand gemessen hatte, und eine entfernte Teilnehmerin absolvierte einen physikalisch korrekten Zyklus, der sauber, aber entkörpert war ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani, 2026]]). Die Designlehre ist Sequenz statt Substitution: das Modell zuerst im Körper bauen, dann das Sprachmodell auf seine Anwendung arbeiten lassen.
 
-### Verkörperte Intelligenz und die Kritik entkörperlichter KI
+## Verkörperte Intelligenz und die Kritik entkörperlichter KI
 
 Ein zweiter, theoretischerer Strang der Verkörperungsforschung der Wissensbasis betrifft die Rolle des *Körpers* im KI-[[sociocultural-learning|vermittelten Lernen]] — nicht durch physische Roboter, sondern durch die Frage, ob [[ai-technologies|KI-Systeme]] selbst (oder werden können) verkörpert sind. Diese Arbeit stellt die Dominanz symbolischer, entkörperlichter KI-Modelle infrage, die auf abstrakter Informationsverarbeitung aufbauen:
 

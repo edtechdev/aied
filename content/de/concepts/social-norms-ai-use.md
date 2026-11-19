@@ -1,7 +1,7 @@
 ---
 title: Soziale Normen der KI-Nutzung
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -13,7 +13,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

@@ -1,7 +1,7 @@
 ---
 title: Fernaufsicht bei Prüfungen
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-18T19:15:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 
 - Bevor Sie weiterlesen: Wenn Sie sich „akademische Integrität bei Online-Prüfungen" vorstellen, was ist Ihr erster Instinkt, wie sie zu bewahren ist — und ist dieser Instinkt eher darauf gerichtet, Fälschende zu entdecken, oder Vertrauen aufzubauen? Die Seite argumentiert, dass diese zwei sehr verschiedene Philosophien spiegeln.
 - Fernaufsicht reicht von einer menschlichen Beobachtung per Webcam bis zu KI-Systemen, die Augenbewegungen, Kopfhaltung und Gesichtsausdrücke analysieren. Was beobachtet ein KI-System *tatsächlich*, wenn es „verdächtiges Verhalten" markiert, und wie sicher sind Sie, dass Wegblicken vom Bildschirm gleich Fälschen ist?
-- Die Seite warnt, dass Überwachung kontraproduktiv sein kann: Beobachtet werden erhöht [[anxiety-and-stress|Prüfungsangst]], und gestresste Studierende können *eher* fälschen. Können Sie an einen Moment denken, in dem Druck oder Überwachung Ihre eigene Leistung beeinflusst hat? Untergräbt diese Erfahrung das Argument für Aufsicht?
+- Die Seite warnt, dass Überwachung kontraproduktiv sein kann: Beobachtet werden erhöht Prüfungsangst, und gestresste Studierende können *eher* fälschen. Können Sie an einen Moment denken, in dem Druck oder Überwachung Ihre eigene Leistung beeinflusst hat? Untergräbt diese Erfahrung das Argument für Aufsicht?
 - Automatisierte Aufsicht erfasst den Wohnraum, das Gesicht und die Stimme der Studierenden, oft mit wenig echter Wahl als der, zuzustimmen. Wo liegt die Grenze zwischen angemessener Prüfaufsicht und Überwachung, die Studierende für schuldig hält, bis sie Ehrlichkeit bewiesen haben — und wer sollte sie ziehen?
 - Forschung zeigt, dass Aufsicht harmloses Verhalten als verdächtig markieren kann und damit falsche Anschuldigungen erzeugt, und dass die Modellgenauigkeit über demografische Gruppen und Umgebungen hinweg variiert. Wenn Sie [[administrator|Administration]] sind: Wie wiegen Sie die Integrität, die sie zurückgewinnt, gegen die Gerechtigkeit und das Vertrauen, die sie erodieren kann?
 - Die Seite rahmt Aufsicht als ein Werkzeug, nicht als Lösung — Alternativen wie mündliches und [[process-oriented-assessment|prozessbasiertes Prüfen]] existieren. Welchen Ansatz würden Sie vor dem Lesen für hochstrapaziertes Assessment in einem Fernkontext verteidigen, und welche Belege würden Sie umstimmen?

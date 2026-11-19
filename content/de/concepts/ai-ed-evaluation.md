@@ -1,7 +1,7 @@
 ---
 title: Evaluation von KI in der Bildung
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,7 @@ Die Evaluation von KI in der Bildung umfasst mehrere klar unterscheidbare Bewert
 
 Der jahrzehntelange Verlauf des Feldes ist selbst ein Rahmen: [[xiong-ai-educational-measurement-review-2026|Xiong und Li (2026)]] zeichnen drei Ären nach – Formative (2015–2018), Expansion (2019–2022) und Generative (2023–heute) – über 313 Artikel hinweg und argumentieren, dass Konstrukte und Validitätsargumente für die [[human-ai-collaboration|Mensch-KI-Zusammenarbeit]] neu geschrieben werden müssen, da [[item-response-theory|IRT]] und die Modelle der Klassischen Testtheorie auf unassistierter menschlicher Leistung beruhen.
 
-### Wie die Evaluation von KI in der Bildung in der Forschung erscheint
+## Wie die Evaluation von KI in der Bildung in der Forschung erscheint
 
 - **Verlässlichkeit des Outputs und Ground Truth:** [[ground-truth-reliability-aied|Modernisierung der Ground Truth]] argumentiert, dass Verlässlichkeitsprobleme in der Evaluation von KI in der Bildung häufig auf die Referenzdaten selbst zurückgehen – die „Ground-Truth“-Labels, gegen die Systeme bewertet werden – und schlägt vier Verschiebungen zur Verbesserung von Verlässlichkeit und Validität vor. [[calibrating-trustworthiness-llm-education-2026|Kalibrierung der Vertrauenswürdigkeit]] entwirft Evaluationsmetriken und [[visualization|Visualisierungen]] gemeinsam mit Akteuren, damit das Vertrauen in ein KI-Werkzeug auf nachgewiesenen, interpretierbaren Belegen beruht.
 
@@ -61,7 +61,7 @@ Der jahrzehntelange Verlauf des Feldes ist selbst ein Rahmen: [[xiong-ai-educati
 - **Prompt-Sensitivität ist eine Eigenschaft erster Ordnung eines LLM-Bewerters.** [[llm-graders-computer-science-exams-2026|Habibullah et al. (2026)]] benoteten eine Prüfung in [[cs-education|Computer Vision]] mit 570 Studierenden über 171 Konfigurationen und eine Prüfung in [[machine-learning|maschinellem Lernen]] mit 1.038 Studierenden über 162: ein kurzes „Strict-Grader“-Vorspann trieb 14 von 17 Open-Weights-Modellen aus dem benoteten Band, während die Replikation die Verletzlichkeit reproduzierte, aber nicht ihre Richtung, und sieben Modelle verbesserte, deren neutrale Prompts zu großzügig benoteten. Die Genauigkeit eines einzelnen Prompts ist kein Beleg für einen nutzbaren Bewerter, und der vorzeichenbehaftete Bias gehört neben die mittlere absolute Fehlerkennzahl; LoRA-Feinabstimmung auf gepoolte doppelt benotete Beispiele brachte fünf kleine Modelle auf menschliches Parity-Niveau und löschte die Persona-Sensitivität fast vollständig.
 - **Bewertbare Evidenz ist eine Designvariable, keine Eigenschaft der Aufgabe.** [[durable-skills-measurement-ai-teammates-2026|Globerson et al. (2026)]] ließen ein Executive LLM die Rubrik halten und das Gespräch auf die bewertete Kompetenz zusteuern, was die bewertbare Evidenz auf 92,4% für Projektmanagement und 85% für Konfliktlösung anhob, während die Aufforderung an die Teilnehmenden, auf die Kompetenz zu achten, nichts veränderte.
 
-### Warum Evaluation in der KI-Bildung schwierig ist
+## Warum Evaluation in der KI-Bildung schwierig ist
 
 Die Evaluation von KI in der Bildung ist aus mehreren Gründen schwierig. Erstens ist **Verlässlichkeit nicht genug** – ein System kann mit einer Rubrik übereinstimmen und dennoch die Pädagogik falsch beurteilen, wie die [[machines-misread-pedagogical-quality|Forschung zur Mensch-Maschine-Ausrichtung]] zeigt. Zweitens ist **Ground Truth umstritten** – was eine „richtige“ Antwort, Note oder einen „richtigen“ Lehrzug ausmacht, ist selbst ein Urteil, das zwischen Disziplinen und Fachleuten variiert, gemäß [[ground-truth-reliability-aied|Modernisierung der Ground Truth]]. Drittens ist **die bildungsbezogene Validität multidimensional** – [[assessment-validity]], [[formative-assessment]] und [[authentic-assessment]] legen jeweils unterschiedliche Kriterien fest, die eine einzelne Genauigkeitsmetrik nicht erfassen kann. Schließlich **bewegt sich das Ziel** – agentische KI und [[multimodal|multimodale]] Modelle verlangen Evaluationsrahmenwerke ([[agentic-ai]], [[tool-invariant-framework-agentic-ai|werkzeuginvariantes Assessment]]) statt der Wiederverwendung von Benchmarks für Textmodelle. Evaluationsbefunde unterliegen auch denselben übergreifenden Einschränkungen, die alle AIED-Forschung betreffen – sie altern mit der Verbesserung der KI, hängen von Reproduzierbarkeit und FAIR-Praktiken ab und können auf proprietären Systemen beruhen –, daher sollten Evaluationsergebnisse mit den Vorbehalten in [[limitations-in-aied-research]] gelesen werden. Eine weitere, neu entstehende Dimension ist die **Nachhaltigkeit der Ressourcen**: On-Premise-Einsätze berichten zunehmend über Energieverbrauch und Hardwareanforderungen (z. B. VRAM, mWh pro Anfrage) neben der Genauigkeit – siehe [[shen-sustainable-ai-knowledge-base-cs-education-2026|nachhaltige On-Premise-Wissensbasis-Assistenten]] –, sodass eine vollständige Evaluation ökologische und infrastrukturelle Kosten gewichtet, nicht nur die Qualität der Ausgabe.
 
@@ -89,11 +89,11 @@ Die Geschwindigkeit der bewerteten Systeme ist eine weitere Einschränkung. [[ai
 - **Genauigkeit in der Verteilung ist keine Einsetzbarkeit.** Ein Bloom-Niveau-Klassifikator mit einem Makro-F1 von 0,88 auf seiner kuratierten Aufgabenbank fiel auf 0,48 und 0,20 bei zwei Sätzen KI-generierter Fragen; der Verlust folgte der nahezu vollständigen Abwesenheit expliziter Bloom-Trigger-Verben statt der Modellgröße; untrainierte [[llm|LLMs]] waren außerhalb der Verteilung die robusteste Option (0,79 und 0,41–0,51), und das Neutrainieren auf markierten Out-of-Distribution-Daten erholte die größten Gewinne (bis 0,82), daher gehört Transfer in den Bericht neben der Anpassung in der Verteilung ([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026]]).
 - **Eine KI-Schwierigkeitsskala ist ein Evaluationshilfsmittel, keine Note.** KI-Schwierigkeitsschätzungen folgten der aufgabenbezogenen Bestehensrate stark (rho = −0,871 über 79 Aufgaben), schwächten sich aber auf −0,552 in einer CS101-Stichprobe mit 106 Aufgaben ab und näherten sich auf Prüfungsebene null, daher gehören solche Skalen in die Aufgabenprüfung, nicht in die Bewertung von Studierenden ([[llm-difficulty-calibration-programming-exams-2026|Yan et al. (2026)]]).
 
-### Verbindungen zu verwandten Konzepten
+## Verbindungen zu verwandten Konzepten
 
 Die Evaluation von KI in der Bildung sitzt im Zentrum der Methoden und Risiken der Wissensbasis. Sie operationalisiert [[assessment-validity]], [[educational-measurement]] und [[benchmark]] innerhalb von [[assessment]] und [[automated-assessment]]. Ihr Ruf nach menschlicher Aufsicht verbindet sie mit [[human-in-the-loop-ai]] und [[teacher-role]], während ihr Fokus auf Verlässlichkeit sich mit [[hallucination-risk]], [[automated-assessment|Confidence Aware AI Assessment]] und [[trust-calibration]] verbindet. Die Unterscheidung zwischen der Evaluation von Leistung und der Evaluation von Lernen verweist auf [[genai-performance-vs-learning|Leistung vs. Lernen]] und auf [[student-modeling]]; und die Evaluation pädagogischer Agenten verweist auf [[intelligent-tutoring]], [[llm-training-and-fine-tuning]] und [[pedagogical-safety]].
 
-### Lernzuwächse bewerten
+## Lernzuwächse bewerten
 
 Ein zentraler Gegenstand der Evaluation von KI in der Bildung ist der **Lernzuwachs** – die messbare Verbesserung von Wissen oder Können, die ein KI-Werkzeug erzeugt (siehe [[learning-gains]]). Lernzuwächse streng zu bewerten erfordert die Wahl der richtigen Ergebnisgröße, denn [[genai-performance-vs-learning|Leistung und Lernen divergieren]]: KI kann die unmittelbare, KI-assistierte Aufgabenleistung aufblähen und dauerhaftes, unassistiertes Lernen unverändert lassen oder senken (siehe [[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Eine wirksame Evaluation von Lernzuwächsen:
 

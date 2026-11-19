@@ -1,7 +1,7 @@
 ---
 title: Empathie
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-18T18:55:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [professional-training, experiential-learning, social-emotional-learning]
@@ -11,7 +11,7 @@ audience: [instructors, medical educators, curriculum designers, researchers]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/empathy
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Synthese:** Empathie gelangt aus drei Richtungen zugleich in die Bildung: als Ergebnis, das Lehrende zu vermitteln versuchen, als Konstrukt, das sie zu messen versuchen, und als etwas, das KI-Systeme zunehmend zu zeigen beanspruchen. Die Evidenz ist in allen drei Richtungen ungleichmäßig. Empathie zu lehren funktioniert – Rollenspiel, VR und [[llm|LLM]]-Dialog erzeugen alle messbare Vorher-Nachher-Zuwächse –, doch der Effekt schrumpft, je weniger verkörpert die Erfahrung wird, und die Vergleichsstudien vermengen Modalität mit Bearbeitungszeit. Empathie zu messen ist schwerer als sie zu lehren: Beobachterurteile halten zusammen, während Computervisions-Proxywerte bei körperlichem Kontakt übereinstimmen, bei Blickkontakt auseinandergehen und beim Lächeln ins Gegenteil kippen. KI kann einfühlsame Gespräche in großem Maßstab üben, doch die am besten kontrollierte Studie zeigt steigende Selbsteinschätzung ohne Prüfung der beobachteten Performanz. Und die neueste Sorge läuft in die andere Richtung: Wer glaubt, KI könne Empathie liefern, ist weniger bereit, sie selbst zu liefern ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]).
+> **Synthese:** Empathie gelangt aus drei Richtungen zugleich in die Bildung: als Ergebnis, das Lehrende zu vermitteln versuchen, als Konstrukt, das sie zu messen versuchen, und als etwas, das KI-Systeme zunehmend zu zeigen beanspruchen. Die Evidenz ist in allen drei Richtungen ungleichmäßig. Empathie zu lehren funktioniert – Rollenspiel, VR und [[llm|LLM]]-Dialog erzeugen alle messbare Vorher-Nachher-Zuwächse –, doch der Effekt schrumpft, je weniger verkörpert die Erfahrung wird, und die Vergleichsstudien vermengen Modalität mit Bearbeitungszeit. Empathie zu messen ist schwerer als sie zu lehren: Beobachterurteile halten zusammen, während [[sensor-and-gaze-analytics|Computervisions-Proxywerte]] bei körperlichem Kontakt übereinstimmen, bei Blickkontakt auseinandergehen und beim Lächeln ins Gegenteil kippen. KI kann einfühlsame Gespräche in großem Maßstab üben, doch die am besten kontrollierte Studie zeigt steigende Selbsteinschätzung ohne Prüfung der beobachteten Performanz. Und die neueste Sorge läuft in die andere Richtung: Wer glaubt, KI könne Empathie liefern, ist weniger bereit, sie selbst zu liefern ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]).
 
 ## Fragen zum Nachdenken
 

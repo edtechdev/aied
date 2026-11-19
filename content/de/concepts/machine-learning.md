@@ -4,9 +4,9 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

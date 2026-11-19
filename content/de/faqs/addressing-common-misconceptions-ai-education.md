@@ -1,7 +1,7 @@
 ---
 title: "Wie können wir verbreitete Fehlvorstellungen über KI in der Bildung ausräumen?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-11-15T15:44:25-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
@@ -12,7 +12,7 @@ weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T16:55:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

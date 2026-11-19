@@ -1,7 +1,7 @@
 ---
 title: "Pädagogische Partnerschaften"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

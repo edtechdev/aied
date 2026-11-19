@@ -1,7 +1,7 @@
 ---
 title: Handlungsfähigkeit der Lernenden
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T20:05:55-05:00"
+updated: "2026-11-18T18:55:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,7 @@ Die Richtung der Entwicklung ist nicht festgelegt. [[gillette-partnership-ethics
 - **Geteilte epistemische Handlungsfähigkeit erstreckt sich auf die Interaktion von Lernenden mit generativer KI.** Ein 14-Kategorien-Schema, das 6.788 ChatGPT-unterstützte Züge kodierte, ordnete 59% der Züge von Siebtklässlern geteilter epistemischer Handlungsfähigkeit zu, und die Autoren argumentieren, dass das Konstrukt — das bisher vor allem in der Zusammenarbeit unter Peers untersucht wurde — erweitert werden muss, um kognitive und metakognitive Dimensionen einzuschließen ([[chang-shared-epistemic-agency-gai-scientific-writing-2026|Chang et al., 2026]]).
 
 - **Handlungsfähigkeit lässt sich am Prompt selbst bewerten.** Die Human Agency Depth Taxonomy bewertet den ingenieurwissenschaftlichen Beitrag einer studierenden Person auf sechs Stufen unabhängig von der Ausgabe der KI; über 962 Prompts von 105 Erstsemester-Studierenden der Softwaretechnik überschritten 84,2 % die unterste Stufe, aber nur 5,3 % legten Systemrandbedingungen fest ([[shakiba-human-agency-depth-taxonomy-2026|Shakiba & Chaffey, 2026]]).
+**Individualisierung weist meist Wahlmöglichkeiten zu, nicht Autorschaft.** Über 61 Studien in 63 Berichten hinweg wurde in 46 (75,4 %) eine lernendengesteuerte Kontrolle kodiert – die Studierenden wählten Zeitpunkt, Schwerpunkt, Prompts oder Tempo –, während eigens entwickelte oder kursangepasste Systeme in zehn (16,4 %) vorkamen, systemgesteuerte adaptive Personalisierung in fünf (8,2 %) und von Lehrenden gestaltete Differenzierung in einer. Auf dieser Befundlage bedeutet „personalisiertes“ Lernen in der Regel, innerhalb eines Raums zu steuern, den jemand anderes entworfen hat – Handlungsfähigkeit als Auswahl statt Handlungsfähigkeit über die Bedingungen. Der Review warnt zudem davor, Häufigkeit als Stärke zu lesen: Dass ein Thema in 39 Studien präsent ist, sagt nichts darüber aus, wie groß oder wie konsistent seine Wirkung war ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]).
 
 - **Kritisches [[student-engagement|Engagement]]:** Forschung zur [[cognitive-offloading|kognitiven Entlastung]] zeigt, wie Studierende, die die Deutung an KI delegieren, die Handlungsfähigkeit über das eigene Denken verlieren können; kritische und [[metacognition|metakognitive]] Ansätze zielen darauf, sie zu schützen.
 

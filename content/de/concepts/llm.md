@@ -1,7 +1,7 @@
 ---
 title: Große Sprachmodelle (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Einführung
 
-### LLMs als die Maschine der AIED
+## LLMs als die Maschine der AIED
 
 LLMs sind das am häufigsten referenzierte Konzept der Wissensbasis (60+ Artikel), weil sie fast jeder KI-Bildungsanwendung zugrunde liegen:
 
@@ -55,7 +55,7 @@ LLMs sind das am häufigsten referenzierte Konzept der Wissensbasis (60+ Artikel
 - **Verifikation getrennt von Erzeugung — mit korrelierten Versagensarten.** [[eduguard-safe-rag-llm-tutor|Hossain et al. (2026)]] beschränken Tutor-Retrieval auf von Lehrenden genehmigtes Kursmaterial und leiten Behauptungen durch einen architektonisch getrennten DeBERTa-v3-large-MNLI-Verifizierer, warnen aber, dass beide Modelle breites Web-Training teilen und auf korrelierte Weise scheitern können, und dass der Verifizierer eine Code-Spur nicht prüfen kann, ohne sie auszuführen.
 - **Wandel des Assessment-Modells (2017–2024):** Morley et al.s Scoping Review zur automatischen Benotung von Kurzantwort-[[science-education|Naturwissenschafts]]fragen verfolgt den Wandel des Felds von der Feinabstimmung kleinerer [[educational-nlp|BERT]]-Modelle (dominant bis 2021) hin zum Prompting größerer LLMs (GPT-1/2/3.5/4) ab etwa 2022 — angenommen über [[prompt-engineering|Prompt Engineering]] statt Feinabstimmung —, mit bereichserweiterten Modellen, rubrikbewusstem Prompting und Chain-of-Thought, die die Genauigkeit heben. Doch wurden GPT-Modelle selten gegen BERT auf Standardkorpora gebenchmarkt, wenige automatische Benotende konnten ihre Benotungen erklären, und [[bias-mitigation|Bias]] wurde selten untersucht — Vorsichten, die für LLM-Assessment allgemein gelten ([[auto-marking-short-answer-science-2026]]).
 
-### Modellspezifische Forschung
+## Modellspezifische Forschung
 
 Die Wissensbasis deckt sowohl allgemeine LLMs (GPT-4, Claude) als auch bildungsspezifische Anpassungen ab. [[cstutorbench-slm-tutors|Benchmarks für kleine Sprachmodelle]] vergleichen SLM-Leistung für Tutoring, und [[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]] argumentieren, SLM seien architektonisch angemessen für [[agentic-ai|agentisches]] Tutoring, wenn sie als werkzeugaugmentierte Planer eingesetzt werden — deterministische Werkzeuge tragen die Last, die ein kleines Modell sonst implizit bewältigen müsste —, wobei die pädagogische Kontrolle in der Eskalationspolitik liegt statt im Modell. Forschung zu [[educational-llm-alignment|bildungsbezogener Ausrichtung]] befasst sich damit, LLMs pädagogisch angemessen zu machen. Eine Klassenraumstudie über drei Grenzmodell-Familien — [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] — fand, dass ChatGPT, Gemini oder Claude als kollaborative Kritikpartner für argumentatives Schreiben wirken konnten: über ein Semester iterativer Aufsätze verbesserten sich Studierende in Argumentqualität, [[prompt-engineering|Prompt Engineering]] und Reaktion-auf-[[ai-feedback-quality|KI-Feedback]] jeweils um etwa eine volle Standardabweichung (alle p < .001) und engagierten sich tief (87.8% widerlegten LLM-Behauptungen), was allgemeine LLMs als brauchbare [[collaborative-learning|Partner für kollaboratives Lernen]] positioniert statt als bloße Antwortgeneratoren.
 

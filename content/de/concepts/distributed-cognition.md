@@ -1,13 +1,13 @@
 ---
 title: Verteilte Kognition
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 Dies ist ein Konzept der Lerntheorie innerhalb des Strangs [[learning-theories]] der Wissensdatenbank, eng verwandt mit [[embodied-learning]], [[situated-learning]] und [[cognitive-offloading]]. Verteilte Kognition (DCog), aus der Arbeit von Edwin Hutchins und Kollegen entstanden, beschreibt, wie kognitive Prozesse wie Gedächtnis, Schlussfolgern und [[problem-solving]] über mehrere Akteure und materielle Systeme verteilt sind, statt in einem einzelnen Kopf zu liegen. In der [[ai-education|KI-Bildung]] ist dies relevant, weil KI-Systeme zunehmend als echte kognitive Partner fungieren, die einen Teil der Denklast tragen, was die Frage aufwirft, *wo* Lernen tatsächlich stattfindet und *wer* verantwortlich ist.
 
-### Wie KI die Verteilung der Kognition verschiebt
+## Wie KI die Verteilung der Kognition verschiebt
 
 Generative und interaktive KI-Systeme verteilen kognitive Arbeit auf Weisen um, die frühere Werkzeuge nicht vermochten. Die Wissensdatenbank dokumentiert mehrere Dimensionen dieser Verschiebung:
 
@@ -52,7 +52,7 @@ Generative und interaktive KI-Systeme verteilen kognitive Arbeit auf Weisen um, 
 - **Transaktives Gedächtnis gibt der Verteilung einen gemessenen Mechanismus.** Unter 891 College-Studierenden in den Vereinigten Staaten und der Türkei sagte weder die selbst eingeschätzte Denkfähigkeit noch das Vertrauen in die KI-Partnerschaft [[critical-thinking|kritisches Denken]] direkt vorher. Beide wirkten über angesammelte GenAI-Erfahrung, die nur über Spezialisierung und Arbeitsteilung (b = 0,636) und reflexive Transformation der Ausgabe (b = 0,367) zählte ([[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun & Toker, 2026]]). Jene beiden Mediatoren sagten dann kritisches Denken vorher (b = 0,230 und 0,175), ohne dass ein direkter Pfad übrig blieb, sodass das, womit ein Mensch-KI-System denkt, die Anordnung der Arbeit ist, nicht die Menge der Nutzung.
 - **Erweiterte Kognition als Designentscheidung, nicht als Werkzeugeigenschaft.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa und Duarte Arias (2026)]] argumentieren, generative KI sei standardmäßig substitutiv, weil sie die kognitive Aufgabe ausführt, doch dasselbe System werde komplementär, wenn es einen Entwurf kritisiert oder Feedback liefert, das die lernende Person bewerten muss. Ihr Extended-Mind-Rahmen macht das Artefakt plus seine Nutzung zur Analyseebene, was die normative Version der Verteilungsfrage dieser Seite ist.
 
-### Verteilte Kognition und verwandte Perspektiven
+## Verteilte Kognition und verwandte Perspektiven
 
 Die Wissensdatenbank behandelt verteilte Kognition neben ihren benachbarten theoretischen Traditionen, die sich überlappen, aber nicht identisch sind:
 
@@ -61,11 +61,11 @@ Die Wissensdatenbank behandelt verteilte Kognition neben ihren benachbarten theo
 - **[[cognitive-offloading]]** ist der praktische Mechanismus, durch den kognitive Arbeit an externe Systeme (einschließlich KI) abgegeben wird, und ist das risikobehaftete Gegenstück zum deskriptiven Konto von DCog.
 - **Erweiterte Kognition / die These des erweiterten Geistes** (verwendet in posthumanistischer Arbeit) besagt, dass externe Artefakte *konstitutive* Teile eines kognitiven Systems sein können, nicht bloß Instrumente — eine stärkere Behauptung, dass KI Teil des Geistes der lernenden Person selbst ist.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### Wessen Kognition? Das Problem der Analyseebene
+## Wessen Kognition? Das Problem der Analyseebene
 
 [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] treibt diese Frage nach der Analyseebene härter voran als die meisten Arbeiten dieser Tradition. Seine Behauptung ist, dass Literalität kein individueller Besitz ist, sondern etwas, das mit Materialien und Maschinen vollzogen wird, was die einzelne lernende Person zur falschen Analyseebene macht. Ein auf die Person zentriertes Kompetenzrahmenwerk kann daher infrastrukturelle oder nichtmenschliche Beiträge nicht erfassen, sodass das Feld Verteilung immer wieder benennt und sie dann auf die lernende Person zurück auflöst. Die Gerechtigkeitskante ist sein Schwierigkeitsargument: Reflexivität hängt von gelebter Erfahrung und Machtverhältnissen ab, sodass Studierende, deren Sprach- oder Schreibpraktiken am weitesten von der kodierten Norm entfernt liegen, die höchsten Kosten tragen. Das Argument ist theoretisch und berichtet keinen Datensatz, und seine Designorientierungen bleiben ungetestete Vorschläge.
 
-### Warum sie für KI-Gestaltung und Evaluation wichtig ist
+## Warum sie für KI-Gestaltung und Evaluation wichtig ist
 
 Verteilte Kognition bietet sowohl eine Gestaltungs- als auch eine Evaluationslinse. Für die Gestaltung fragt sie, wie kognitive Arbeit zwischen Lernenden und KI zu verteilen ist, um die Handlungsfähigkeit, [[metacognition]] und Selbstregulation der menschlichen lernenden Person zu erhalten (statt aufzureiben). Für die Evaluation formt sie die Erfolgsmaße neu: Statt nur zu fragen „verbesserte sich die Leistung?“, fragt DCog, ob die Verteilung der Kognition dauerhaftes Lernen, epistemische Handlungsfähigkeit und Bildungsgerechtigkeit unterstützt — eine Perspektive, die an die Anliegen [[ai-ed-evaluation]] und [[learning-theories]] der Wissensdatenbank anschließt.
 

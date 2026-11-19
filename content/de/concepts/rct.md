@@ -1,7 +1,7 @@
 ---
 title: Randomisierte kontrollierte Studie (RCT)
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 Randomisierung ist es, was eine RCT von anderen Designs unterscheidet: indem Lernende zufällig den Bedingungen zugewiesen werden, balanciert eine RCT bekannte und unbekannte Störvariablen über die Gruppen hinweg, sodass jeder beobachtete Unterschied in den Ergebnisse der Intervention mit hoher interner Validität zugeschrieben werden kann.
 
-### Wie RCTs in der Forschung auftreten
+## Wie RCTs in der Forschung auftreten
 
 - **Mikro-RCTs als Antwort auf sich schnell bewegende Technologie:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] argumentieren, dass konventionelle groß angelegte Studien nicht mit [[edtech-platform|Plattformen]] für Tutoring Schritt halten können, die sich während einer Studie materiell verändern, und nutzen von [[teacher-role|Lehrkräften]] geführte mikro-randomisierte kontrollierte Studien über englische Sekundarschulen hinweg (644 von 929 Studierenden, die Posttests abschlossen, g = 0.33), um kausale Schätzung wiederholbar zu halten. Die Kompromisse stehen in ihrem eigenen Design: 30.7% Ausfall, [[curriculum-design|curriculum]]-ausgerichtete statt unabhängig standardisierte Ergebnisse, und nur vier Wochen Nachbeobachtung.
 - **Kausalwirksamkeitsbehauptungen:** RCTs in der AIED testen, ob ein KI-Tutor, ein Werkzeug oder eine pädagogische Behandlung Ergebnisse verbessert. [[generative-ai-education-productivity-gaps|Ein randomisiertes Experiment zu generativer KI]] mit 1,174 Teilnehmenden fand, dass GenAI bildungsbasierte Produktivitätslücken substantiell verengt und etwa drei Viertel des anfänglichen Leistungsunterschieds schließt — eine klare kausale Schätzung der Wirkung von KI.
@@ -57,7 +57,7 @@ Randomisierung ist es, was eine RCT von anderen Designs unterscheidet: indem Ler
 - **Innerhalb intakter Seminare randomisieren, mit einer Prä-Behandlungs-Baseline.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni & Fryer (2026)]] randomisierten 454 Studierende im Grundstudium innerhalb dreier intakter Marketing-Seminare nach Drop/Add und maßen alle vier Ergebnisse zu T1, bevor eine studierende Person [[conversational-ai|Chatbot]]-Zugang hatte, sodass der semesterlange Vergleich auf einer gemessenen Baseline ruht statt einer angenommenen. Das flache Ergebnis (keine Gruppe-×-Zeit-Interaktion erreichte Signifikanz; der größte berichtete Effekt war d = 0.050, beim Interesse) wird neben der Annahme berichtet — 0.89 Logins pro Woche gegenüber einem zugewiesenen einmal pro Woche —, was verhindert, dass ein Nullresultat über eine schwach genutzte Behandlung als ein Nullresultat über das Werkzeug gelesen wird.
 - **Within-Subject-Crossover, und eine Kontrolle auf bestem Praxisstand.** [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] ließen jede bzw. jeden von 194 Studierenden der Lebenswissenschaften in Harvard zwei Physiklektionen bearbeiten — einmal in einer [[active-learning|Aktiv-lernen]]-Sitzung im Kurs und einmal mit dem eigenen KI-Tutor des Kurses, in kreuz-balancierter Reihenfolge mit Prä- und Posttests um jede herum —, sodass jede studierende Person ihre eigene Kontrolle dient und der Vergleich der *Vermittlungsmodi* nicht dadurch konfundiert ist, wer was zugewiesen bekam. Die zweite Wahl des Designs zählt ebenso sehr: der Vergleichswert war forschungsbasiertes aktives Lernen statt einer Vorlesung, sodass der Vorteil (medianer Posttest 4.5 gegenüber 3.5) gegen aktuelle Bestpractice gemessen ist und nicht als „KI schlägt Unterrichten“ gelesen werden kann.
 
-### Stärken und Grenzen
+## Stärken und Grenzen
 
 - **Stärken:** stärkste kausale Inferenz; saubere Ergebnismessung; unterstützt Effektstärkenschätzung; balanciert Störvariablen durch Randomisierung.
 - **Grenzen:** kostspielig und langsam; künstliche Settings können die ökologische Validität verringern; KI-Werkzeuge verändern sich schneller, als Studien laufen können; kleine Stichproben sind oft unterpowered, um aussagekräftige Effekte zu detektieren; ethische Beschränkungen beim Vorenthalten potenziell nützlicher KI von einer Kontrollgruppe. Zwei dieser Grenzen verändern ihre Form, wenn die Zuweisung geclustert ist: die effektive Stichprobe wird die Anzahl der *Cluster* statt die Anzahl der Studierenden, sodass eine Studie groß nach Kopfzahl und dünn nach diesem Maß sein kann — Liu et al.s 2.379 Studierende ruhen auf 34 Clustern auf Lehrendenebene —, und wenn die Annahme freiwillig und gering ist, beantwortet eine Intent-to-treat-Schätzung, ob das Anbieten des Werkzeugs Ergebnisse veränderte, nicht ob seine Nutzung es tat.

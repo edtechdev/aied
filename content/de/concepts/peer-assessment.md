@@ -1,7 +1,7 @@
 ---
 title: Peer-Prüfung
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

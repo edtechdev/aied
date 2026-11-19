@@ -191,8 +191,13 @@
       {
         "id": "deepseek/deepseek-v4.1-flash-1017",
         "since": "2026-10-22T06:05:00-04:00",
-        "note": "snapshot-suffixed id of the same model, configured as the default from 2026-10-22 06:05 EDT, and again from 2026-10-27 after the longcat free tier was withdrawn; this is the current default for drafting, revision, translation, and ingest work",
+        "note": "snapshot-suffixed id of the same model, configured as the default from 2026-10-22 06:05 EDT, and again from 2026-10-27 after the longcat free tier was withdrawn; the harness default for drafting, revision and ingest work, and the translation model until 2026-11-18",
         "supersedes": "deepseek/deepseek-v4.1-flash"
+      },
+      {
+        "id": "qwen/qwen4-max:free",
+        "since": "2026-11-18",
+        "note": "translation model from 2026-11-18, used for the German concept and resource twins written that day; offered free through the Nous portal for a five-day window, so the id may stop resolving after 2026-11-23. Not marked as superseding the DeepSeek id: that id still runs, and the free tier is a trial rather than a retirement."
       },
       {
         "id": "deepseek/deepseek-v4.0-flash-0731",

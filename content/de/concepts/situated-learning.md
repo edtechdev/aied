@@ -1,13 +1,13 @@
 ---
 title: Situiertes Lernen
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-18T18:50:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-10-30T10:20:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Situiertes Lernen ist eine der Tätigkeits- und Kontexttheorien im Strang [[lear
 In der Literatur zu [[ai-education|KI in der Bildung]] ist situiertes Lernen bedeutsam, weil es eine Designlinse für KI bietet: [[adaptive-learning|adaptive Systeme]], [[intelligent-tutoring|intelligentes Tutoring]] in authentischen Szenarien und [[virtual-and-augmented-reality|immersive]] [[simulation|Simulationen]] können KI-getriebene Bildung in realen Kontexten verankern, während situiertes Lernen KI umgekehrt einen sinnvollen Anker in authentischer Praxis und Komplexität bietet. Beide werden weithin als komplementär behandelt, wobei menschliche Begleitung für die [[ethics|ethische]] Fundierung unverzichtbar bleibt.
 - **Die Kontextualisierung des Materials selbst ist ein situiertes Manöver.** DagFlow-AI erzeugt einen Statistikdatensatz, der um ein von der lernenden Person selbst genanntes Interesse herum gebaut ist — eine Fallstudie nutzte die Sorge einer lernenden Person um Klimawandel und Gesundheit —, während die Lernziele und das Fähigkeitsniveau konstant gehalten werden ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Die *Daten* an die lernende Person anzupassen statt die Erklärung behandelt den Kontext der Praxis als das, was situiert werden muss. Die Autoren räumen die Grenze ein: Synthetische Daten können Datenerhebung, Messung oder Studiendesign nicht lehren, der Kontext ist also real für die lernende Person, aber nicht für die Welt.
 
-### Situiertes Lernen als Designlinse für KI
+## Situiertes Lernen als Designlinse für KI
 
 Die Forschung der Wissensbasis behandelt situiertes Lernen nicht bloß als abstrakte Theorie, sondern als konkretes Design- und Evaluationsrahmenwerk für KI in der Bildung:
 
