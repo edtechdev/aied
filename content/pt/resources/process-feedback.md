@@ -33,7 +33,7 @@ O **Process Feedback** é uma alternativa centrada na aprendizagem às ferrament
 
 ## O que você pode fazer com ele
 
-Um professor pode ver o relatório de um estudante ou carregar centenas de uma vez a partir de um painel do professor, e os estudantes podem ver seus próprios relatórios e [[metacognition|refletir]] sobre eles. Funciona no Google Docs por uma extensão de navegador, no espaço de escrita do próprio projeto e em editores de LMS como o Canvas, com integração LTI disponível; um relatório também pode ser baixado em PDF e enviado a qualquer plataforma. O projeto publica disparos de reflexão para orientar a autoavaliação dos estudantes, orientação sobre como ler padrões de uso de IA e guias para professores.
+Um professor pode ver o relatório de um estudante ou carregar centenas de uma vez a partir de um painel do professor, e os estudantes podem ver seus próprios relatórios e [[reflection|refletir]] sobre eles. Funciona no Google Docs por uma extensão de navegador, no espaço de escrita do próprio projeto e em editores de LMS como o Canvas, com integração LTI disponível; um relatório também pode ser baixado em PDF e enviado a qualquer plataforma. O projeto publica disparos de reflexão para orientar a autoavaliação dos estudantes, orientação sobre como ler padrões de uso de IA e guias para professores.
 
 ## Para quem é
 

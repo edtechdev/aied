@@ -29,12 +29,12 @@ ai_assist:
 
 ## Những câu hỏi cần cân nhắc
 
-1. Khi một sinh viên chấp nhận một câu trả lời AI tình cờ đúng, lớp học đã thành công chưa? Điều gì phải đúng để chính việc chấp nhận đó là điều có ý nghĩa?
-2. Một người ủy thác đã hiệu chỉnh, biết rõ giới hạn của mình, có khác về bản chất với một sinh viên đơn giản là không thể phân biệt không? [[teacher-role|Một giảng viên]] sẽ phân biệt hai trường hợp đó trong một bài làm như thế nào?
-3. Nếu độ tin cậy tăng lên trong khi độ chính xác giảm xuống - như xảy ra khi có lời khuyên của AI - điều đó tác động thế nào đến khả năng tự phát hiện lỗi của người học?
-4. Việc kiểm chứng có thể dạy được ở đâu, và ở đâu nó là một vấn đề khối lượng công việc thuộc về [[educational-policy-ai|chính sách]]? Phần nào của [[curriculum-design|chương trình học]] cần thay đổi để việc kiểm tra trở thành chuẩn mực thay vì ngoại lệ?
-5. Các thể chế có nên đo lường việc đầu hàng nhận thức hay không, hay việc đo lường nó lại mời gọi chính kiểu giám sát mà [[ai-use-disclosure|các quy tắc tiết lộ]] đang chật vật xử lý?
-6. Một nhiệm vụ sẽ trông như thế nào nếu nó thưởng cho sinh viên việc bác bỏ một câu trả lời AI sai thay vì việc tạo ra một sản phẩm bóng bẩy?
+- Khi một sinh viên chấp nhận một câu trả lời AI tình cờ đúng, lớp học đã thành công chưa? Điều gì phải đúng để chính việc chấp nhận đó là điều có ý nghĩa?
+- Một người ủy thác đã hiệu chỉnh, biết rõ giới hạn của mình, có khác về bản chất với một sinh viên đơn giản là không thể phân biệt không? [[teacher-role|Một giảng viên]] sẽ phân biệt hai trường hợp đó trong một bài làm như thế nào?
+- Nếu độ tin cậy tăng lên trong khi độ chính xác giảm xuống - như xảy ra khi có lời khuyên của AI - điều đó tác động thế nào đến khả năng tự phát hiện lỗi của người học?
+- Việc kiểm chứng có thể dạy được ở đâu, và ở đâu nó là một vấn đề khối lượng công việc? Phần nào của [[curriculum-design|chương trình học]] cần thay đổi để việc kiểm tra trở thành chuẩn mực thay vì ngoại lệ?
+- Các thể chế có nên đo lường việc đầu hàng nhận thức hay không, hay việc đo lường nó lại mời gọi chính kiểu giám sát mà [[ai-use-disclosure|các quy tắc tiết lộ]] đang chật vật xử lý?
+- Một nhiệm vụ sẽ trông như thế nào nếu nó thưởng cho sinh viên việc bác bỏ một câu trả lời AI sai thay vì việc tạo ra một sản phẩm bóng bẩy?
 
 ## Giới thiệu
 
