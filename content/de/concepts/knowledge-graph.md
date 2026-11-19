@@ -1,13 +1,13 @@
 ---
 title: Wissensgraph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
 translation_of: concepts/knowledge-graph
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -68,30 +68,30 @@ Wissensgraphen verbinden sich mit [[learning-design|Lerndesign]] (definieren, wa
 
 ## Verbreitete Fehlvorstellungen
 
-**„Ein Wissensgraph ist eine Concept Map mit besserem Werkzeug."** Die entscheidende Behauptung ist relational und computational: ein Graph ist nützlich, weil Voraussetzungen, Ähnlichkeit und Hierarchie explizit genug sind, dass ein Algorithmus sie durchlaufen kann, nicht weil er verbundene Knoten zeichnet. Daraus folgt die operative Frage, zu der diese Seite immer wieder zurückkehrt — welcher Traversierungs- oder Propagationsalgorithmus über den Graphen läuft —, denn in dieser Wahl liegt der instruktionale Effekt tatsächlich.
-
-**„Der Graph zu haben ist das, was Ergebnisse verbessert."** Der Algorithmus über dem Graphen verändert das Ergebnis. In G4L erzeugte die Propagation von Mastery durch einen Evolving Knowledge Space Graph mit Bayesscher Wissenspropagation **+24 % gemessenes Wissen** (0.717 → 0.887), gegenüber **+5 %** für einen Vergleich auf Basis eines Knowledge Space. Dieselbe allgemeine Idee eines strukturierten Wissensraums, materiell unterschiedliches Ergebnis je nach Propagationsmethode. Einen Graphen zu kaufen oder zu bauen ist der Anfang des Designproblems, nicht seine Lösung.
-
-**„Ein von einem LLM gebauter Graph, der ein strukturelles Audit besteht, ist ein validierter Graph."** Strukturelle Validität und instruktionale Validität fallen genau so auseinander. Das nachgerechnete Audit eines solchen Graphen fand, dass jeder Endpunkt sich auflöst und kein Duplikat oder Selbstlink bleibt — eine saubere Struktur —, doch 1,448 seiner 1,455 Axiome ordnen sich genau einem Werk zu, sodass kreuzwerkliche Wiederverwendung spärlich ist, seine Kontext-Taxonomie ihre zwei Kontexttypen nicht trennen kann und zentrale Behauptungen unbewiesen bleiben. Tote Links und Duplikate sind die Fehler, die ein automatisiertes Audit fängt; dünne Wiederverwendung und undifferenzierte Kategorien sind die, die es durchwinkt.
-
-## Implikationen für die Praxis
-
 **Für Lehrende**
 
-- Fragen Sie, wofür der Graph genutzt wird, bevor Sie fragen, ob er korrekt ist: Empfehlung, Voraussetzungssequenzierung oder Diagnose. Die Evidenz unterscheidet sich je nach Nutzung deutlich, und die Voraussetzungssequenzierung trägt das stärkste Ergebnis.
-- Wenn ein Werkzeug adaptive Sequenzierung behauptet, verlangen Sie den gemessenen Vergleich gegen eine nicht-adaptive Baseline statt einer Beschreibung der Wissensstruktur.
-- Rechnen Sie mit Spärlichkeit bei kreuzwerklicher Wiederverwendung, und behandeln Sie einen Graphen, dessen Entitäten eins zu eins auf einzelne Quellen abbilden, als Katalog mit Kanten statt als integrierte Karte.
+- Fragen Sie, *wozu* der Graph genutzt wird, bevor Sie fragen, ob er korrekt ist: Empfehlung, Voraussetzungssequenzierung oder Diagnose. Die Evidenz unterscheidet sich je nach Nutzung deutlich, und die Voraussetzungssequenzierung trägt das stärkste Ergebnis.
+- Wenn ein Werkzeug adaptive Sequenzierung beansprucht, verlangen Sie den gemessenen Vergleich gegen eine nicht-adaptive Baseline statt einer Beschreibung der Wissensstruktur.
+- Rechnen Sie mit Spärlichkeit bei der kreuzwerklichen Wiederverwendung, und behandeln Sie einen Graphen, dessen Entitäten eins zu eins auf einzelne Quellen abgebildet sind, als Katalog mit Kanten statt als integrierte Karte.
 
 **Für Entwickelnde**
 
-- Behandeln Sie den Propagationsalgorithmus als eine Designentscheidung erster Klasse und berichten Sie den Algorithmus als Teil der Intervention; die Lücke von +24 % gegenüber +5 % ist ihm zuzuschreiben.
-- Auditieren Sie über die Auflösbarkeit hinaus. Prüfen Sie, ob Kategorien trennbar sind und ob Entitäten werkübergreifend wiederverwendet werden, denn strukturelle Sauberkeit koexistiert konsistent mit instruktionaler Dünnheit.
+- Behandeln Sie den Propagationsalgorithmus als Designentscheidung ersten Ranges und berichten Sie den Algorithmus als Teil der Intervention; die Differenz von **+24 %** gegenüber **+5 %** ist auf ihn zurückzuführen.
+- Auditieren Sie über die Auflösbarkeit hinaus. Prüfen Sie, ob Kategorien trennbar sind und ob Entitäten über Werke hinweg wiederverwendet werden, denn strukturelle Sauberkeit geht durchgängig mit instruktionaler Dünnheit einher.
 - Validieren Sie den Graphen gegen Lernergebnisse, nicht gegen Graphstatistiken.
 
 **Für Forschende**
 
-- Berichten Sie Graph-Baseline-Kontraste auf der Ebene des Algorithmus. „Wissensgraphbasiert" ist keine Behandlung; die Traversierungsstrategie ist es.
-- Berichten Sie Axiom-zu-Quelle-Zuordnungen und die Trennbarkeit der Taxonomie neben Präzision und Recall, denn die Auditfehler hier waren für konventionelle Graphmetriken unsichtbar.
+- Berichten Sie Kontraste zwischen Graph und Baseline auf der Ebene des Algorithmus. „Wissensgraphbasiert" ist keine Intervention; die Traversierungsstrategie ist es.
+- Berichten Sie Axiom-zu-Quelle-Zuordnungen und Taxonomie-Trennbarkeit neben Precision und Recall, denn die Audit-Fehler waren hier für konventionelle Graphmetriken unsichtbar.
+
+## Implikationen für die Praxis
+
+**„Ein Wissensgraph ist eine Concept Map mit besserem Tooling."** Das unterscheidende Merkmal ist relational und rechnerisch: Ein Graph ist nützlich, weil Voraussetzungen, Ähnlichkeit und Hierarchie explizit genug sind, damit ein Algorithmus ihn traversieren kann, nicht weil er verbundene Knoten zeichnet. Die operative Frage, die am meisten zählt, ist, welcher Traversierungs- oder Propagationsalgorithmus auf dem Graphen läuft, denn genau in dieser Entscheidung liegt der instruktionale Effekt.
+
+**„Den Graphen zu haben, verbessert die Lernergebnisse."** Der Algorithmus über dem Graphen verändert das Ergebnis. In G4L erzeugte die Propagierung von Mastery durch einen Evolving Knowledge Space Graph mit Bayesian knowledge propagation **+24 % gemessenes Wissen** (0,717 → 0,887), gegenüber **+5 %** für einen Vergleich auf Basis eines Knowledge Space. Dieselbe allgemeine Idee eines strukturierten Wissensraums, ein substanziell anderes Ergebnis je nach Propagationsmethode. Einen Graphen zu kaufen oder zu bauen ist der Beginn des Designproblems, nicht seine Lösung.
+
+**„Ein von einem LLM gebauter Graph, der ein strukturelles Audit besteht, ist ein validierter Graph."** Strukturelle Validität und instruktionale Validität fallen genau auf diese Weise auseinander. Das neu berechnete Audit eines solchen Graphen ergab, dass jeder Endpunkt auflösbar ist und kein Duplikat und kein Selbstlink übrig bleibt — eine saubere Struktur —, doch 1.448 seiner 1.455 Axiome bilden auf genau ein Werk ab, die werkübergreifende Wiederverwendung ist also spärlich, seine Kontexttaxonomie kann seine beiden Kontexttypen nicht trennen, und zentrale Behauptungen bleiben unbelegt. Tote Links und Duplikate sind die Fehler, die ein automatisiertes Audit erkennt; dünne Wiederverwendung und undifferenzierte Kategorien sind die, die es durchwinkt.
 
 ## Verbundene Konzepte
 

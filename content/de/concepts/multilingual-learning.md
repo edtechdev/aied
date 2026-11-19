@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: Mehrsprachiges Lernen
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -51,9 +51,13 @@ Mehrsprachiges Lernen ist eine zentrale Gerechtigkeitsdimension von [[ai-educati
 
 ## Gerechtigkeit und Pädagogik
 
-Mehrsprachige KI muss über Übersetzung hinausgehen und [[culturally-relevant-pedagogy|kulturell relevante Pädagogik]] abbilden — Inhalte erzeugen, die sprachlich und kontextuell angemessen sind. Studien zu [[llm-cultural-relevance-k12|LLM-Kulturrelevanz in K-12]] und [[scaffolding-critical-engagement-genai-minority-students|kritischer Auseinandersetzung mit GenAI unter Studierenden mit Minderheitenhintergrund]] zeigen, dass sprachliche und kulturelle Passung darüber entscheidet, ob Lernende tatsächlich profitieren. Unbehandelt vertieft monolinguale Voreingenommenheit in der KI die [[digital-divide]] und untergräbt [[equity-in-ai-education|Gerechtigkeit]] im [[global-south|Globalen Süden]].
+Mehrsprachige KI muss über Übersetzung hinausgehen und [[culturally-relevant-pedagogy|kulturell relevante Pädagogik]] abbilden — Inhalte erzeugen, die sprachlich und kontextuell angemessen sind. Studien zu [[llm-cultural-relevance-k12|LLM-Kulturrelevanz in K-12]] und [[scaffolding-critical-engagement-genai-minority-students|kritischer Auseinandersetzung mit GenAI unter Studierenden mit Minderheitenhintergrund]] zeigen, dass sprachliche und kulturelle Passung darüber entscheidet, ob Lernende tatsächlich profitieren. Unbehandelt vertieft monolinguale Voreingenommenheit in der KI die [[digital-divide|digitale Kluft]] und untergräbt [[equity-in-ai-education|Gerechtigkeit]] im [[global-south|Globalen Süden]].
 
-Translanguaging ist ein Angebot, das generative [[conversational-ai|Chatbots]] hinzufügen und das frühere Sprachwerkzeuge nicht hatten. In einem [[meta-analysis-systematic-review|systematischen Review]] von 24 Studien forderten Lernende kontextualisierte Phrasen und Erklärungen in ihrer eigenen Sprache als Brücke in die Zielsprache an — eine Nutzung, die die Rezensentinnen und Rezensenten als neue Teil-Angebotsform einstufen statt als umgepackte bestehende ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+Translanguaging ist ein Angebot, das generative [[conversational-ai|Chatbots]] hinzufügen und das frühere Sprachwerkzeuge nicht hatten. In einem [[meta-analysis-systematic-review|systematischen Review]] von 24 Studien forderten Lernende kontextualisierte Phrasen und Erklärungen in ihrer eigenen Sprache als Brücke in die Zielsprache an — eine Nutzung, die die Rezensentinnen und Rezensenten als neue Teil-Angebotsform einstufen statt als umgepackte ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+
+Die sprachlichen Kosten des Tool-Onboardings sind messbar: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] stellten fest, dass Englischlernende für ein Scaffolding-gestütztes Tutorial zum Erstellen von Agenten deutlich länger brauchten als Muttersprachlerinnen und Muttersprachler, während die offene Designaufgabe keinen Unterschied zeigte.
+
+Englisch dominiert selbst dort, wo vier Sprachen täglich in Gebrauch sind. Unter 42 Studierenden in Curaçao und Aruba nannten zwei Drittel Englisch als ihre bevorzugte Sprache für KI, und nur die GPT-Sitzungen verlagerten sich in Richtung Papiamentu, sobald das Gespräch lokale Themen berührte ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]]).
 
 ## Bias im Assessment
 
@@ -88,8 +92,8 @@ LLM-basiertes komparatives Urteilen ist ein Fall, in dem der Bias dem menschlich
 - [[generative-ai]]
 
 ## Verbundene Artikel
-- [[genai-chatbots-language-learning-affordances-review-2026]] — GenAI-Chatbots ermöglichen Translanguaging, eine Nutzung, die frühere Sprachwerkzeuge nicht unterstützten
 
+- [[genai-chatbots-language-learning-affordances-review-2026]] — GenAI-Chatbots ermöglichen Translanguaging, eine Nutzung, die frühere Sprachwerkzeuge nicht unterstützten
 - [[llm-comparative-judgment-writing-screening-2026]] — Validität des komparativen Urteilens durch Large Language Models für universelle Schreib-Screening
 - [[multilingual-adaptive-learning-nigeria-2026]] — KI-basierte adaptive Lernplattform für Nigeria
 - [[bilingual-llm-lecture-companion-srl-2026]] — Bilingualer LLM-Vorlesungsbegleiter
@@ -99,3 +103,4 @@ LLM-basiertes komparatives Urteilen ist ein Fall, in dem der Bias dem menschlich
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Datensatz zu indischen Wissenssystemen
 - [[kutti-ai-voice-first-learning-companion]] — Sprachdominierter Lernbegleiter
 - [[ai-scoring-language-bias-physics]] — Sprachbias bei KI-Bewertung in der Physik
+- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — Viersprachiges Code-Switching mit konversationeller KI in Curacao und Aruba (Bush et al., 2026)

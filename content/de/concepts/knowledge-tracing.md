@@ -1,14 +1,14 @@
 ---
 title: Wissensstandsverfolgung
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 Knowledge Tracing verwandelt rohe Übungsantworten in Schätzungen dessen, was eine lernende Person gemeistert hat und was sie noch lernen muss. Anders als einfaches Verfolgen von Korrektheit modelliert Knowledge Tracing die zeitliche Dynamik des Lernens — wann Wissen erworben wird, wann es verkümmert und wie Konzepte miteinander zusammenhängen.
 
-### In der Wissensbasis vertretene Ansätze
+## In der Wissensbasis vertretene Ansätze
 
 - **Bayes'sche Ansätze:** [[stanbkt-bayesian-knowledge-tracing]] standardisiert BKT-Implementierungen, während [[mbp-kt-meta-behavioral-knowledge-tracing]] meta-behaviorale Signale einbezieht
 - **BKT-Parameter als Interventions-Ergebnismaße:** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et al. (2026)]] fitteten hinweis-konditionierte Bayes'sche Wissensstandsverfolgung auf 19.952 Datenpunkte von 688 Sechstklässlerinnen und Sechstklässlern, sodass die Raten-, Ausrutsch-, Lern- und Vergessensparameter selbst zu den Ergebnismaßen einer mathematischen Wahrnehmungshinweis-Intervention wurden. Kongruente Hinweise erhöhten das Raten und senkten das Ausrutschen — unmittelbares Scaffolding —, während die inkongruente Farbbedingung die Signatur wünschenswerter Schwierigkeit zeigte: Raten bei 0,190, aber die höchste Lernrate (0,0379) und die niedrigste Vergessensrate (0,0054) aller neun Bedingungen. BKT-basierte Klassifikationen der Hinweisbedingungen stimmten bei fünf der acht Bedingungen mit verhaltensbasierten überein, was die Parameter als Linse auf das Unterstützungsdilemma stützt.
@@ -57,7 +57,7 @@ Knowledge Tracing verwandelt rohe Übungsantworten in Schätzungen dessen, was e
 - **Tracing nur aus Momentaufnahmen.** [[skill-acquisition-without-temporal-info|Nagai et al. (2026)]] leiten eine pseudo-zeitliche Ordnung aus Inklusionsrelationen zwischen den Fähigkeitsmengen der Lernenden ab und behandeln wachsende Fähigkeitsmengen als Lernfortschritt, sodass Momentaufnahmen zu einem einzigen Zeitpunkt weiter verfolgbar bleiben — die Formulierung nimmt aber an, dass Fähigkeiten nie verloren gehen, sodass Einsätze für Lernende, die zurückfallen, zuerst einen expliziten Vergessensmechanismus brauchen.
 - **Die Granularität von Wissenskomponenten ist selbst eine Modellierungsentscheidung.** [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny und Meurers (2026)]] verglichen 19 Wissenskomponentenmodelle über 11 Ebenen einer Sprachttutoring-Hierarchie an 153.819 Erstversuchsantworten von 1.059 Siebtklässlerinnen und Siebtklässlern. Der Gewinner hängt vom Vorhersageziel ab: feinkörnige Actionable Element ID führte die schülerblockierte Vorhersage (RMSE 0,4083), während die semantisch begründete Property ID + Exercise Type die itemblockierte Vorhersage führte (RMSE 0,4243). Feinkörnige Identifikatoren zeigten zudem nahezu null mittlere Lernraten (Actionable Element ID 0,000).
 
-### Verhältnis zu anderen Konzepten
+## Verhältnis zu anderen Konzepten
 
 Knowledge Tracing ist eng mit [[student-modeling|Modellierung von Lernenden]] verwandt — während Knowledge Tracing spezifisch kognitives Wissen über die Zeit modelliert, ist Modellierung von Lernenden die breitere Praxis, alle Aspekte einer lernenden Person zu repräsentieren ([[affective-computing|affektiver]] Zustand, [[student-engagement|Engagement]], Präferenzen). Knowledge Tracing speist [[adaptive-learning|adaptive Lernsysteme]] und [[personalized-learning|personalisierte Lernsysteme]], die wissen müssen, was als Nächstes zu unterrichten ist, und [[intelligent-tutoring|intelligente Tutoring]]-Plattformen, die Beherrschungsschätzungen nutzen, um passende Probleme auszuwählen. Es verbindet sich mit [[learning-analytics|Learning Analytics]] für Dashboard- und Interventionsdesign und mit [[cognitive-diagnosis|kognitiver Diagnose]] für feinkörnige Fähigkeits-[[assessment|messung]]. Konstrukte des Knowledge Tracing informieren auch [[simulating-students|simulierte Studierende]] — der kognitive Zustand einer simulierten lernenden Person wird häufig mit derselben Beherrschungs-/Verkümmerungsdynamik formalisiert, die Knowledge Tracing modelliert, sodass [[simulation|Simulation]] eine Weise ist, die Wissenszustände zu *erzeugen*, die Tracing-Methoden normalerweise aus echten Antwortdaten *erschließen*.
 
@@ -77,32 +77,32 @@ Knowledge Tracing ist eng mit [[student-modeling|Modellierung von Lernenden]] ve
 
 ## Verbreitete Fehlvorstellungen
 
-**„Ein Beherrschungslabel bedeutet, dass die lernende Person es weiß.“** Beherrschung ist nicht Korrektheit — eine lernende Person kann gemeistert erscheinen und eine Fähigkeit systematisch falsch anwenden, sobald eine verborgene Bedingung verletzt wird —, und der Wert des Labels hängt von der Zählregel dahinter ab. Das Anrechnen erklärter Abschlüsse markierte **93,9% von 113.428 Studierenden-Fähigkeiten-Paaren** als gemeistert gegenüber **72,8%** unter einer strengen Regel, und die Paare, die die nachsichtige Regel vorauserklärte, erreichten nur **70,9% Genauigkeit ohne Hilfe**. Zwei vertretbare Regeln erzeugten einen Unterschied von 21 Punkten darin, wer für bereit erklärt wurde.
-
-**„Sequenzmodelle sind das, was Tracing genau macht.“** Ein großer Teil des scheinbaren Gewinns ist billiger zu haben. Auf 1.927.265 Mathematikantworten von 8.996 finnischen Studierenden erreichte die Item-Identität allein **AUC .8362**, und das Hinzufügen eines einzigen Rezenz-Maßes relativ zur Itemschwierigkeit hob das auf **.866**. Ein großer Anteil dessen, was tiefe Sequenzmodelle kaufen, ist über eine Itemschwierigkeits-Baseline plus Rezenz verfügbar, sodass Architekturvergleiche diese Baseline brauchen, um aussagekräftig zu sein.
-
-**„Das beste Modell auf einem Datensatz ist das beste Modell für Ihren Kurs.“** Genauigkeit ist settingspezifisch. OKT erreichte **89,81% AUC** auf Live-LMS-Daten eines [[engineering-education|Ingenieurwesen]]-Programms (2.416 Studierende, 966 Outcomes) und schlug DKT, DKVMN, EKT und SimpleKT — lieferte aber auf ASSISTments nur konkurrenzfähige Ergebnisse. Dieselbe Architektur, die auf einer Datensatzfamilie gewinnt, ist auf einer anderen unauffällig, sodass ein Headline-AUC von anderswo schwache Evidenz über Ihre Studierenden ist.
-
-**„Wissen bleibt bestehen, solange es keine Belege für Vergessen gibt.“** Vergessen ist der Standard, den es zu modellieren lohnt. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan und Carvalho (2025)]] fitteten BKT, BKT-mit-Vergessen und das Additive-Factors-Modell über eine Sequenz mehrerer Sitzungen und fanden, dass sich der Modellfit ändert, wenn Retention repräsentiert wird, und dass sich die *Validierung* dieser Modelle von ihrem *Einsatz* unterscheidet.
-
-## Implikationen für die Praxis
-
 **Für Lehrende**
 
-- Behandeln Sie ein Beherrschungslabel als Behauptung mit einer Provenienz, nicht als Fakt. Das Anrechnen erklärter Abschlüsse markierte **93,9% von 113.428 Studierenden-Fähigkeiten-Paaren** als gemeistert, gegenüber **72,8%** unter einer strengen Regel — und die Paare, die die nachsichtige Regel vorauserklärte, erreichten anschließend **70,9% Genauigkeit ohne Hilfe** gegenüber dem strengeren Satz. Die Regel, die Sie gewählt haben, ist in der Zahl sichtbar, die Sie sehen.
-- Bevorzugen Sie ein Modell, das in einem Setting wie Ihrem validiert wurde. OKT erreichte **89,81% AUC** auf Live-LMS-Daten eines [[engineering-education|Ingenieurwesen]]-Programms (2.416 Studierende, 966 Outcomes) und übertraf DKT, DKVMN, EKT und SimpleKT — lieferte aber auf ASSISTments nur konkurrenzfähige Ergebnisse. Der Vorteil ist settingspezifisch, sodass kontextübergreifende Genauigkeitsbehauptungen nicht Ihre Validierung sein sollten.
-- Denken Sie daran, dass Beherrschung nicht Korrektheit ist: eine lernende Person kann gemeistert erscheinen und eine Fähigkeit systematisch falsch anwenden, sobald eine verborgene Bedingung verletzt wird.
+- Behandeln Sie ein Mastery-Label als eine Behauptung mit Provenienz, nicht als Tatsache. Werden deklarierte Abschlüsse angerechnet, galten **93,9 % von 113.428 Lernenden–Skill-Paaren** als beherrscht, gegenüber **72,8 %** unter einer strengen Regel — und die Paare, die die nachsichtige Regel vorzeitig als beherrscht einstufte, erreichten später **70,9 % Genauigkeit ohne Hilfe** im Vergleich zum strengeren Set. Die von Ihnen gewählte Regel ist in der Zahl sichtbar, die Sie sehen.
+- Bevorzugen Sie ein Modell, das in einem Kontext wie dem Ihren validiert wurde. OKT erreichte **89,81 % AUC** auf Live-LMS-Daten eines [[engineering-education|ingenieurwissenschaftlichen]] Studiengangs (2.416 Studierende, 966 Outcomes) und übertraf damit DKT, DKVMN, EKT und SimpleKT — während es auf ASSISTments nur konkurrenzfähige Ergebnisse lieferte. Der Vorteil ist kontextspezifisch, daher sollten kontextübergreifende Genauigkeitsangaben nicht als Ihre Validierung dienen.
+- Denken Sie daran: Beherrschung ist nicht Korrektheit — Lernende können eine Fähigkeit scheinbar beherrschen und sie dennoch systematisch falsch anwenden, sobald eine verborgene Bedingung verletzt wird.
 
-**Für Entwickelnde**
+**Für Entwickler**
 
-- Zahlen Sie nicht für Sequenzmodell-Komplexität ohne Baseline. Auf 1.927.265 Mathematikantworten von 8.996 finnischen Studierenden erreichte die Item-Identität allein **AUC .8362**, und ein einziges Rezenz-Maß relativ zur Itemschwierigkeit hob das auf **.866** — ein großer Anteil dessen, was Sequenzmodelle kaufen, für einen Bruchteil der Maschinerie.
-- Modellieren Sie Vergessen explizit, statt anzunehmen, Wissen bleibe bestehen; die BKT-mit-Vergessen-Vergleiche zeigen, dass sich der Fit ändert, wenn Retention im Modell ist.
-- Berichten Sie die Einsatzregel zusammen mit dem Modell. Die Diskrepanz zwischen Validierung und Einsatz in den Vergessensstudien ist ebenso ein Berichtsversäumnis wie ein Modellierungsproblem.
+- Zahlen Sie nicht für die Komplexität von Sequenzmodellen ohne eine Baseline. Bei 1.927.265 Mathematikantworten von 8.996 finnischen Schülerinnen und Schülern erreichte allein die Item-Identität **AUC ,8362**, und das Hinzufügen einer einzigen Recency-Kennzahl relativ zur Itemschwierigkeit steigerte den Wert auf **,866** — ein großer Teil dessen, was Sequenzmodelle einbringen, bei einem Bruchteil des technischen Aufwands.
+- Vergessen explizit modellieren, anstatt anzunehmen, dass Wissen fortbesteht; die Vergleiche von BKT mit Vergessen zeigen Veränderungen der Anpassungsgüte, wenn Retention im Modell berücksichtigt wird.
+- Berichten Sie die Einsatzregel zusammen mit dem Modell. Die Diskrepanz zwischen Validierung und Einsatz in den Studien zum Vergessen ist ebenso ein Versäumnis der Berichterstattung wie der Modellierung.
 
 **Für Forschende**
 
-- Berichten Sie Ergebnisse auf mehr als einer Datensatzfamilie, bevor Sie Architekturüberlegenheit behaupten, da sich der OKT-Kontrast zwischen Ingenieurwesen-LMS-Daten und ASSISTments umkehrt.
-- Berichten Sie die Beherrschungs-Zählregel als Parameter des Ergebnisses, nicht als methodische Fußnote.
+- Berichten Sie Ergebnisse zu mehr als einer Datensatzfamilie, bevor Sie eine architektonische Überlegenheit behaupten, da sich der OKT-Kontrast zwischen LMS-Daten aus ingenieurwissenschaftlichen Studiengängen und ASSISTments umkehrt.
+- Berichten Sie die Mastery-Count-Regel als Parameter des Ergebnisses, nicht als methodische Fußnote.
+
+## Implikationen für die Praxis
+
+**„Ein Mastery-Label bedeutet, dass der Lernende es beherrscht."** Mastery ist nicht Korrektheit — ein Lernender kann als beherrschend erscheinen und eine Fertigkeit systematisch falsch anwenden, sobald eine verborgene Bedingung verletzt ist — und der Wert des Labels hängt von der Zählregel ab, die ihm zugrunde liegt. Wurden deklarierte Abschlüsse angerechnet, galten **93,9 % von 113.428 Lernenden-Skill-Paaren** als beherrscht, gegenüber **72,8 %** unter einer strengen Regel, und die Paare, die die nachsichtige Regel vorzeitig als beherrscht einstufte, erreichten nur **70,9 % Genauigkeit ohne Hilfestellung**. Zwei vertretbare Regeln erzeugten eine Differenz von 21 Prozentpunkten bei der Frage, wer als bereit erklärt wurde.
+
+**„Sequenzmodelle sind es, die das Tracing genau machen."** Ein Großteil des scheinbaren Zugewinns ist billiger zu haben. Bei 1.927.265 Mathematik-Antworten von 8.996 finnischen Schülerinnen und Schülern erreichte allein die Item-Identität **AUC 0,8362**, und die Ergänzung um ein einzelnes Recency-Maß relativ zur Item-Schwierigkeit steigerte den Wert auf **0,866**. Ein großer Anteil dessen, was tiefe Sequenzmodelle einbringen, ist also bereits über eine Baseline aus Item-Schwierigkeit plus Recency verfügbar — Architekturvergleiche brauchen diese Baseline, um aussagekräftig zu sein.
+
+**„Das beste Modell auf einem Datensatz ist das beste Modell für Ihren Kurs."** Die Genauigkeit ist kontextspezifisch. OKT erreichte **89,81 % AUC** auf Live-LMS-Daten aus [[engineering-education|Ingenieurwesen]]-Studiengängen (2.416 Studierende, 966 Ergebnisse) und übertraf damit DKT, DKVMN, EKT und SimpleKT — während es auf ASSISTments lediglich mithalten konnte. Dieselbe Architektur, die auf einer Datensatzfamilie gewinnt, ist auf einer anderen unauffällig; eine anderswo erzielte AUC-Spitzenzahl ist daher nur ein schwacher Beleg für die Verhältnisse bei Ihren Studierenden.
+
+**„Wissen bleibt bestehen, solange es keine Hinweise auf Vergessen gibt."** Vergessen ist der Normalfall, den zu modellieren sich lohnt. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan und Carvalho (2025)]] passen BKT, BKT-with-Forgetting und das Additive Factors Model an eine Sequenz über mehrere Sitzungen an und finden, dass sich die Modellanpassung verändert, wenn Retention abgebildet wird, und dass sich die Art, wie diese Modelle *validiert* werden, von der Art unterscheidet, wie sie *eingesetzt* werden.
 
 ## Verbundene Konzepte
 

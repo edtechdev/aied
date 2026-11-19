@@ -1,13 +1,13 @@
 ---
 title: Kognitionspsychologie
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -76,10 +76,12 @@ Ein Experiment von 2026 gibt der Gedächtnisseite dieser Grenze einen konkreten 
 
 ## Folgerungen für Design und Forschung
 
-1. **Auf Internalisierung gestalten, nicht nur auf Leistung.** Kognitivistische AIED sollte danach evaluiert werden, ob die lernende Person Wissen *ohne* das Werkzeug abrufen und anwenden kann — nicht auf assistierter Leistung. Das ist die [[ai-misuse-learning-harm|Leistungs-Lernen-Lücke]] und die Begründung für die Messung unassistierten [[transfer-of-learning|Transfers]].
-2. **Die lernende Person repräsentieren, nicht nur antworten.** Strukturierte [[student-modeling|Lernendenmodellierung]] und [[knowledge-tracing|Knowledge Tracing]] an den KI-Dialog anbinden, damit sich das System an erschlossenes Wissen anpasst, statt flüssig, aber blind zu antworten.([[educlaw-bench-pedagogical-llm-agents-2026]])
-3. **Arbeitsgedächtnisgrenzen respektieren.** Cognitive Load Theory auf die KI-UX anwenden: extrinsische Last reduzieren (Reibung, überladene Interfaces) und germane Verarbeitung bewahren ([[desirable-difficulties|produktives Ringen]], Abrufübung), statt jede kognitive Anforderung zu minimieren.
-4. **Metakognition kalibrieren.** Weil [[metacognition|Metakognition]] bestimmt, wann Lernende sich zur Auslagerung entscheiden, ist das Lehren von Kalibrierung (zu wissen, was man tatsächlich allein kann) eine kognitivistische Antwort auf Überabhängigkeit (siehe [[cognitive-offloading]]).
+1. **Auf Internalisierung ausrichten, nicht nur auf Performanz.** Kognitivistische AIED sollte danach bewertet werden, ob Lernende Wissen *ohne* das Werkzeug abrufen und anwenden können — nicht anhand der unterstützten Leistung. Das ist die [[ai-misuse-learning-harm|Performanz-Lern-Lücke]] und die Begründung dafür, [[transfer-of-learning|Transfer]] ohne Unterstützung zu messen.
+2. **Lernende repräsentieren, nicht nur reagieren.** Strukturierte [[student-modeling|Lernendenmodellierung]] und [[knowledge-tracing|Knowledge Tracing]] an den KI-Dialog koppeln, damit sich das System an das erschlossene Wissen anpasst, statt flüssig, aber blind zu antworten. ([[educlaw-bench-pedagogical-llm-agents-2026|Lee et al., 2026]])
+3. **Grenzen des Arbeitsgedächtnisses beachten.** Die Cognitive Load Theory auf die KI-UX anwenden: extrinsische Belastung (Reibungsverluste, überladene Oberflächen) reduzieren und dabei die lernbezogene Verarbeitung ([[desirable-difficulties|produktives Ringen]], Abrufübung) erhalten, statt jede kognitive Anforderung zu minimieren.
+4. **Metakognition kalibrieren.** Da [[metacognition|Metakognition]] steuert, wann Lernende sich für das Auslagern entscheiden, ist die Vermittlung von Kalibrierung (zu wissen, was man ohne Hilfe tatsächlich kann) eine kognitivistische Antwort auf übermäßige Abhängigkeit (siehe [[cognitive-offloading|kognitives Offloading]]).
+
+Die Entwicklung ist eine eigene Fragestellung: Diese Mechanismen werden als stabil betrachtet, während die [[developmental-psychology|Entwicklungspsychologie]] fragt, wie sie sich mit dem Alter verändern und was das für eine altersgestufte KI-Nutzung bedeutet.
 
 ## Verbreitete Fehlvorstellungen
 
@@ -101,6 +103,8 @@ Ein Experiment von 2026 gibt der Gedächtnisseite dieser Grenze einen konkreten 
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[item-response-theory]]
+- [[developmental-psychology]]
+- [[longitudinal-research]]
 - [[distributed-cognition]]
 - [[icap-framework]]
 - [[transfer-of-learning]]

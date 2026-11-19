@@ -1,13 +1,13 @@
 ---
 title: Mixed-Methods-Forschung
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -71,9 +71,10 @@ Mixed Methods sitzt zwischen den [[quantitative-research|quantitativen]] und [[q
 
 ## Verbreitete Fehlvorstellungen
 
-- **„Mixed Methods ist eine Nischenwahl in der KI-Bildungsforschung."** Über **394 GenAI-Hochschulstudien** war Mixed Methods das **häufigste Forschungsdesign (213 Studien, 54%)**, gefolgt von quantitativ (109, 28%) und qualitativ (72, 18%). Das dominante Design des Felds ist nicht das, von dem seine methodologischen Debatten ausgehen.
-- **„Beobachtungs- und Interviewevidenz können eine Systembehauptung tragen."** Die Paarung von Systembeobachtung und Gesprächen mit [[administrator|Administratorinnen und Administratoren]] gegen eine **vierjährige randomisierte Evaluation von 8.708 Studierenden über acht Semester**, ausgelegt auf die Erkennung von Effekten von **0,05 Standardabweichungen**, zeigt, was der qualitative Strang allein nicht leisten kann: einen kleinen Effekt verlässlich zu erkennen. Methoden zu mischen ist kein Weg, Aussagekraft zwischen Strängen zu übertragen.
-- **„Triangulation heißt, zwei schwache Methoden ergeben eine starke Behauptung."** Der Wert der Paarung liegt darin, dass jeder Strang eine andere Frage beantwortet. Ein Design, das beide durchführt und dann den qualitativen Befund als Bestätigung des quantitativen berichtet, hat nicht trianguliert, sondern wiederholt.
+- **„Mixed Methods ist eine Nischenwahl in der KI-Bildungsforschung.“** In **394 GenAI-Studien zur Hochschulbildung** war Mixed Methods das **häufigste Forschungsdesign (213 Studien, 54%)**, gefolgt von quantitativen (109, 28%) und qualitativen (72, 18%) Designs. Das dominierende Design des Feldes ist nicht dasjenige, das seine methodologischen Debatten voraussetzen.
+- **„Beobachtungs- und Interviewbelege können eine Systemaussage tragen.“** Stellt man Systembeobachtung und Gespräche mit [[administrator|Administratoren]] einer **vierjährigen randomisierten Evaluation von 8.708 Lernenden über acht Semester** gegenüber, die auf den Nachweis von Effekten von **0,05 Standardabweichungen** ausgelegt war, zeigt sich, was der qualitative Strang allein nicht leisten kann: einen kleinen Effekt zuverlässig nachzuweisen. Methoden zu mischen ist kein Weg, um Teststärke zwischen den Strängen zu übertragen.
+- **„Triangulation bedeutet, dass zwei schwache Methoden eine starke Aussage ergeben.“** Der Wert der Kombination liegt darin, dass jeder Strang eine andere Frage beantwortet. Ein Design, das beide durchführt und dann den qualitativen Befund als Bestätigung des quantitativen berichtet, hat nicht trianguliert, sondern lediglich wiederholt.
+- **Konvergenz kann eine Aufnahmeregel sein, kein Narrativ.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]] zählte eine Neugestaltungspriorität nur dann, wenn sie in mindestens zwei von fünf unabhängigen Quellen und in einer umsetzungsorientierten Quelle auftrat, sodass bloße Wahrnehmung sie nicht zur Priorität erheben konnte.
 
 ## Verbundene Konzepte
 

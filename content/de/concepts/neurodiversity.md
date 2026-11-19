@@ -1,7 +1,7 @@
 ---
 title: Neurodiversität
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -85,7 +85,9 @@ Die Risikoseite hat ihre eigene Literatur. [[seung-basham-cognitive-offloading-s
 
 ## Verbindungen
 
-Neurodiversität verbindet sich mit [[special-education|Sonderpädagogik]], [[inclusive-learning|inklusivem Lernen]], [[universal-design-for-learning|Universal Design for Learning]] und [[equity-in-ai-education|Gerechtigkeit in der KI-Bildung]]. Sie prägt sowohl, wie KI für [[student-experience|das Erleben der Studierenden]] eingesetzt wird, als auch wie Assessments und Kompetenzprogramme gestaltet werden, um über kognitive Variabilität hinweg fair zu sein. Dafür, wie diese Befunde neben anderen Lernendengruppen sitzen – Sprache, Geschlecht, sozioökonomischer Status, Geografie –, siehe [[differential-effects-across-learner-groups|Unterschiedliche Effekte zwischen Gruppen von Lernenden]].
+Neurodiversität verbindet sich mit [[special-education|Sonderpädagogik]], [[inclusive-learning|inklusivem Lernen]], [[universal-design-for-learning|Universal Design for Learning]] und [[equity-in-ai-education|Gerechtigkeit]]. Sie prägt sowohl, wie KI für [[student-experience|das Erleben der Studierenden]] eingesetzt wird, als auch wie Assessments und Kompetenzprogramme gestaltet werden, um über kognitive Variabilität hinweg fair zu sein. Dafür, wie diese Befunde neben anderen Lernendengruppen sitzen – Sprache, Geschlecht, sozioökonomischer Status, Geografie –, siehe [[differential-effects-across-learner-groups|Unterschiedliche Effekte zwischen Gruppen von Lernenden]].
+
+Der Review von [[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh und Natoli]] zu 28 Studien über KI für Studierende mit ADHS ordnet die Evidenz in Unterstützung, Vorhersage und Ethik ein. Die Vorhersage ist der dünnste Teil: Ein pupillometrisches Modell erreichte eine AUROC von 0,856, während ein SVM-Klassifikator eine Genauigkeit von 66,1 bis 68,8 Prozent erreichte, unterhalb der klinischen Nutzbarkeit. Der Trade-off bei den exekutiven Funktionen ist der ethische Kern — ein Werkzeug, das eine Anforderung kompensiert, kann auch die Übung absorbieren, die die Fähigkeit aufgebaut hätte ([[executive-function|exekutive Funktionen]]).
 
 ## Verbreitete Fehlvorstellungen
 
@@ -94,6 +96,7 @@ Neurodiversität verbindet sich mit [[special-education|Sonderpädagogik]], [[in
 - **„Anpassungen sind der richtige Rahmen für neurodivergente Lernende.“** [[neurodivergent-computing-students|Eine Befragung von 24 neurodivergenten Informatikstudierenden und 20 neurotypischen Peers]] mit vier Tiefeninterviews fand Bedürfnisse, die **allgemeine Designanforderungen** sind — strukturierte Aufgaben, kleine konsistente Teams, explizite Rollen —, statt individueller Anpassungen, die nach einer Diagnose gewährt werden.
 
 ## Verbundene Konzepte
+
 - [[special-education]]
 - [[inclusive-learning]]
 - [[universal-design-for-learning]]
@@ -105,8 +108,10 @@ Neurodiversität verbindet sich mit [[special-education|Sonderpädagogik]], [[in
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[student-modeling]]
+- [[executive-function]]
 
 ## Verbundene Artikel
+
 - [[gibson-neuro-inclusive-edtech-scoping-2026]] — Reframing Educational Value in EdTech for Neuro-Inclusive Primary School Classrooms: A Scoping Review
 
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, Virtual Reality und darüber hinaus: ein Scoping-Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung
@@ -120,3 +125,4 @@ Neurodiversität verbindet sich mit [[special-education|Sonderpädagogik]], [[in
 - [[tactile-statistical-graphs-accessibility]] — Taktile statistische Grafiken für Barrierefreiheit
 - [[ai-learning-tools-engineering-education-needs]] — Design von bedarfs- und aufmerksamkeitsbewussten KI-Lernwerkzeugen
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Detektorgetriebene Prozesse können legitime Anpassungsnutzung abschrecken
+- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — Achtundzwanzig Studien zu KI für Studierende mit ADHS, mit ausdrücklich benannter Ethik

@@ -1,14 +1,14 @@
 ---
 title: "Wie gestalte ich Assessment neu, damit eine Note weiterhin etwas Vertretbares darüber sagt, was die Person weiß oder kann?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-15T15:41:17-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,10 @@ Die kurze Antwort: Entscheiden Sie, wovon die Note Beleg sein **soll**, bauen Si
 Beginnen Sie damit, ausdrücklich zu benennen, welche Fähigkeit die Note repräsentieren soll. Bewerten Sie, was eine studierende Person selbstständig kann, was sie mit KI angemessen erreichen kann, ihre Fähigkeit, KI zu beurteilen und anzuleiten, oder eine Kombination davon? [[assessment-validity|Assessmentvalidität]] behandelt das als Validitätsproblem: Ein poliertes Artefakt ist kein ausreichender Beleg mehr dafür, dass die studierende Person über die Fähigkeit verfügt, die das Artefakt offenbar zeigt. Das ist die prüfungsseitige Hälfte desselben Arguments; die durchsetzungsseitige Hälfte steht in [[reduce-ai-cheating]], und die allgemeine Validitätsrahmung zieht sich durch [[evaluating-ai-interventions-methods]].
 
 Sagen Sie die Antwort im Syllabus, im Aufgabenzettel und in der Rubrik. Studierende lesen drei Dokumente und befolgen das, das am konkretesten ist. „KI-Nutzung ist mit Quellenangabe erlaubt" ist keine Aussage darüber, was Sie messen, und gibt einer studierenden Person keine Möglichkeit zu wissen, ob die erlaubte Nutzung das untergräbt, was Sie benoten.
+
+## Was das unbeaufsichtigte Setting heute kostet
+
+Die Größenordnung ist inzwischen messbar. In einem Finanzkurs, der über acht Kohorten und 75.404 Aufgabenbewertungen hinweg verfolgt wurde, verdoppelte sich der Vorteil unbeaufsichtigter Online-Quizzes gegenüber der beaufsichtigten Abschlussprüfung nach ChatGPT, während sich die Punktzahlen in der beaufsichtigten Prüfung überhaupt nicht bewegten ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela und McGrath, 2026]]). Gemessen am verbleibenden Spielraum wurden über den gesamten Zeitraum etwa 60 % der ausnutzbaren Lücke realisiert und in den letzten beiden Kohorten 70 %, wobei der Zuwachs in konzeptuellen Aufgaben lag und nicht in Rechenaufgaben. Für die Neugestaltung ergeben sich daraus zwei Konsequenzen. Erstens trennt das Format nun die Verwendungszwecke: Wo die Punktzahl zertifiziert, stützt ein unbeaufsichtigtes Ergebnis eine schwächere Inferenz als vor 2022, während dasselbe Quiz formativ gelesen weiterhin etwas über das Engagement aussagt. Zweitens ist das Gewicht der Komponente das Risiko: Ein Quiz, das ein Fünftel der Kursnote ausmacht, ist ein Fünftel der vertretbaren Note — es sei denn, etwas im Design gleicht aus, was das Quiz nicht mehr misst. Detektion gleicht das nicht aus; ein beaufsichtigter oder authentifizierter Schritt schon.
 
 ## Das Risiko der Konstruktsubstitution
 

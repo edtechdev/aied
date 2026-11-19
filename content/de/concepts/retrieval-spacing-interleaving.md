@@ -1,7 +1,7 @@
 ---
 title: "Abruf, Spacing und Interleaving"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -90,11 +90,13 @@ Die Aufnahme von Interleaving hier beruht daher auf derselben Theoriefamilie wie
 ## Grenzen der Evidenz
 
 - **Kleine Stichproben und einzelne Kontexte.** Die analytische Stichprobe der Pretesting-Studie ist 89 Studierende in einem angewandten Statistik-Kurs, mit 27–34 Studierenden pro Arm; die LLM-Interaktionsstudie hat n = 22 mit einem Eingruppendesign, das keine kausale Behauptung stützt; die Teach-Back-Studie hat 22 Teilnehmende. Die Pretesting-Autoren stellen fest, dass Replikation über Domänen und Aufgabentypen hinweg für Generalisierbarkeit nötig ist.
-- **Kurze oder fehlende Behaltensintervalle.** Die Interaktionstiefestudie testete nur unmittelbaren Abruf, ohne verzögertes Maß, sodass ihr Null eine Null spezifisch für kurzfristige Behaltensleistung ist. Memdoras Behaltensvorteil und die [[llm-interaction-depth-task-quality-recall-2026|LLM-Tiefe-Dissoziation]] gleichermaßen werden nicht über die Wochen verfolgt, die die Spacing-Literatur verlangen würde; das Sieben-Wochen-Fenster der Pretesting-Studie ist das längste im Korpus.
-- **[[self-report-measures|Selbstauskunft]] und Stellvertretermaße.** Die Übungsanstrengung in der Pretesting-Studie ist ein Verhaltensindikator, den zwei Bewertende an einer Rubrik aus Gesprächslogs bewerteten, was die Autoren ausdrücklich als nicht Maß des internen [[motivation|motivationalen]] Zustands vermerken; das LLM-Tiefemaß ist ein schlüsselwortbasierter Stellvertter, der die Oberflächenform erklärungssuchenden Verhaltens statt seiner Qualität erfasst.
-- **Instrumentierungs- und Modellierungsgrenzen.** [[knowledge-tracing|Knowledge-Tracing]]-Modelle im Korpus scheitern genau dort, wo Spacing-Entscheidungen sie brauchen, und die Autoren schreiben vergangene Erfolge retroaktivem Fitten des vollständigen Datensatzes zu statt einsatzrealistischer Validierung. Die Karteikartenqualität des bilingualen Begleiters ist unverifiziert gegen Ground Truth, ohne automatisierte Faktenprüfschicht, und es hat überhaupt keine Outcomes-Studie gegeben.
-- **Interleaving hat hier im Wesentlichen keine direkte Evidenz.** Wie oben gesagt, enthält der Korpus keinen Vergleich zwischen geblocktem und interleaved, nur eine Simulation, in der Interleaving eine wählbare Strategie unter mehreren ist.
+- **Kurze oder fehlende Behaltensintervalle.** Die Interaktionstiefestudie testete nur unmittelbaren Abruf, ohne verzögertes Maß, sodass ihr Null eine Null spezifisch für kurzfristige Behaltensleistung ist. Memdoras Behaltensvorteil und die [[llm-interaction-depth-task-quality-recall-2026|LLM-Tiefe-Dissoziation]] gleichermaßen werden nicht über die Wochen verfolgt, die die Spacing-Literatur verlangen würde; das Sieben-Wochen-Fenster der Pretesting-Studie ist das längste verfügbare.
+- **[[self-report-measures|Selbstauskunft]] und Stellvertretermaße.** Die Übungsanstrengung in der Pretesting-Studie ist ein Verhaltensindikator, den zwei Bewertende an einer Rubrik aus Gesprächslogs bewerteten, was die Autoren ausdrücklich als nicht Maß des internen [[motivation|motivationalen]] Zustands vermerken; das LLM-Tiefemaß ist ein schlüsselwortbasierter Stellvertreter, der die Oberflächenform erklärungssuchenden Verhaltens statt seiner Qualität erfasst.
+- **Instrumentierungs- und Modellierungsgrenzen.** [[knowledge-tracing|Knowledge-Tracing]]-Modelle scheitern genau dort, wo Spacing-Entscheidungen sie brauchen, und die Autoren schreiben vergangene Erfolge retroaktivem Fitten des vollständigen Datensatzes zu statt einsatzrealistischer Validierung. Die Karteikartenqualität des bilingualen Begleiters ist unverifiziert gegen Ground Truth, ohne automatisierte Faktenprüfschicht, und er hat überhaupt keine Outcomes-Studie durchgeführt.
+- **Interleaving hat hier im Wesentlichen keine direkte Evidenz.** Es existiert kein Vergleich zwischen geblocktem und interleaved Lernen, nur eine Simulation, in der Interleaving eine wählbare Strategie unter mehreren ist.
 - **Subjektpopulationen und Inhalt.** Die Evidenzbasis konzentriert sich auf [[higher-ed|Hochschulbildung]], auf MINT- und Statistikmaterial und auf Fakten-gegenüber-Fähigkeiten-Unterscheidungen aus Geometrie- und multiplen Regressionsinhalten; Generalisierung auf [[k-12|K-12]]-Settings, auf [[humanities-education|Geisteswissenschaften]] und Schreiben, und auf nichtwestliche Kursräume ist durch diese Studien nicht etabliert.
+
+[[pan-chatgpt-prequestions-memory-comprehension-2026|Pan, Schweppe, Teo, Indrajaya und Wenzel (2026)]] stellen generative KI an den Anfang des Testing-Effekts: zwei von ChatGPT erzeugte Prefragen, die vor dem Lesen eines 675 Wörter langen Textes beantwortet wurden. Über vier Experimente mit 90, 128, 153 und 157 Erwachsenen hinweg war das Vorabfragen dem bloßen Lesen überlegen (d = 1,12 bei geübten Fragen, d = 0,78 bei ungeübten) und gleichwertig mit von Menschen erzeugten Fragen. Die Lernenden antworteten fast nie richtig — 0,056 Trefferquote in Experiment 1 — und lernten dennoch mehr, was das Kennzeichen des Pretesting-Effekts ist. Der Transfer nahm mit zunehmender Distanz ab: getestete Fragen wurden besser beantwortet als ungetestete Fragen aus derselben Quelle (d = 0,46), diese wiederum besser als ungetestete Fragen aus einer anderen Quelle (d = 0,32). Die Fragengenerierung wurde billig; der Abruf blieb obligatorisch.
 
 ## Verbreitete Fehlvorstellungen
 
@@ -137,3 +139,4 @@ Die Aufnahme von Interleaving hier beruht daher auf derselben Theoriefamilie wie
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Abrufübung in der Schicht Tools eines Lernen-zu-lernen-Rahmenwerks
 - [[agentic-ai-pedagogical-best-practice-2026]] — Vorab abrufende Agenten umgehen Abrufübung; das Plädoyer für absichtliche Reibung
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — Wenn KI-Tutoren sprechen: Evidenz aus einem randomisierten Feldexperiment
+- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — Von ChatGPT erzeugte Vorfragen verbessern Gedächtnis und Textverständnis

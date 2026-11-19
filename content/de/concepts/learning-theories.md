@@ -1,7 +1,7 @@
 ---
 title: Lerntheorien
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -41,23 +41,25 @@ ai_assist:
 
 Dies ist das Dachkonzept für den Lerntheoriestrang der Wissensbasis. Lerntheorien sitzen im Herzen der KI in der Bildung, weil jeder KI-Tutor, jedes adaptive System und jedes Feedbackwerkzeug Annahmen darüber einbettet, wie Menschen lernen — ob die Designer:innen sie benennen oder nicht. Die Wissensbasis dokumentiert diese Theorien einzeln und behandelt sie als die konzeptuelle Linse, durch die das Design und die Wirkungen von KI bewertet werden. Das Forschungsfeld, das diese Rahmenwerke prüft, ist eine eigene Seite: [[learning-sciences|die Lernwissenschaften]] untersuchen Lernen empirisch — Experimente, Klassenraumversuche und [[design-based-research|designbasierte Forschung]] — und behandeln eine Theorie als etwas, das zu bestätigen oder zu falsifizieren ist, während diese Seite die Rahmenwerke selbst sammelt; die zwei Begriffe werden in dieser Wissensbasis auseinandergehalten, wobei die Singularform „Lernwissenschaft“ diesen Theorienstrang benennt.
 
-### Die Landschaft der Lerntheorien
+## Die Landschaft der Lerntheorien
 
-Die Wissensbasis dokumentiert mehrere Familien von Lerntheorien, jede mit eigenen Konzepten:
+Mehrere Familien von Lerntheorien tauchen in der Forschung zu KI in der Bildung immer wieder auf, jede mit ihren eigenen Konzepten:
 
-- **Klassische Lerntheorien.** [[behaviorism|Behaviorismus]] (Lernen als beobachtbare Verhaltensänderung durch Verstärkung und Drill-und-Praxis) und [[constructivist|Konstruktivismus]] (Lernen als aktive Wissenskonstruktion) sind die zwei Pole, die in der KI-Forschung am häufigsten wiederkehren. Das Feld zeigt häufig eine Lücke „Konstruktivismus im Namen, Behaviorismus in der Praxis“, wo der Diskurs Konstruktion vertritt, KI-Implementierungen aber auf Drill-und-Feedback-Mechanik zurückfallen.([[ai-vocational-education-training-review]]) [[cognitive-psychology|Kognitivismus]] ist der dritte klassische Pol — Lernen als Veränderung interner mentaler Repräsentationen — und die Theorie, die am stärksten für die Leitbeiträge der AIED verantwortlich ist ([[knowledge-tracing|Knowledge Tracing]], [[cognitive-diagnosis|kognitive Diagnose]], [[student-modeling|Modellierung der Studierenden]], [[intelligent-tutoring|intelligentes Tutoring]]).
-- **Soziokulturelle und Entwicklungstheorien.** [[sociocultural-learning|Soziokulturelles Lernen]] hält, dass Lernen und Entwicklung durch soziale Teilhabe entstehen und durch kulturelle Werkzeuge und wissendere andere vermittelt werden — umfassend die [[sociocultural-learning|Zone der nächsten Entwicklung]], [[scaffolding|Scaffolding]], Ausbildung, Praxisgemeinschaften und [[distributed-cognition|verteilte Kognition]]. Im KI-Zeitalter wird [[generative-ai|generative KI]] zunehmend als *vermittelnder Agent* gerahmt, der Aktivität sowohl vermittelt als auch kontingente Beiträge zur Interaktion erzeugt.([[generative-ai-mediational-agent-sociocultural-2026]])
-- **Kognition und kognitive Architektur.** [[cognitive-psychology|Kognitionspsychologie / Kognitivismus]] ist der Dachbegriff für diese Familie: Cognitive Load Theory (wie Arbeitsgedächtnisgrenzen Unterricht formen), Dual-Process-Theorie (schnelle intuitive gegenüber langsamer überlegter Verarbeitung), und [[metacognition|Metakognition]] (das eigene Lernen überwachen und regulieren) erklären die *internen* Mechanismen, die KI-Werkzeuge engagieren oder umgehen.
-- **Motivation und Selbststeuerung.** [[self-determination-theory|Selbstbestimmungstheorie]] (Autonomie, Kompetenz, Verbundenheit), [[self-efficacy|Selbstwirksamkeit]] (Zuversicht in die eigene Fähigkeit), [[self-regulated-learning|selbstreguliertes Lernen]] (Zielsetzung, Überwachung und Anpassung), und [[motivation|Motivation]] erklären, warum Lernende mit KI so interagieren, wie sie es tun.
-- **Lernkontext und Aktivität.** [[experiential-learning|erfahrungsbasiertes Lernen]], [[active-learning|aktives Lernen]], [[project-based-learning|projektbasiertes Lernen]], [[collaborative-learning|kollaboratives Lernen]], [[transfer-of-learning|Lerntransfer]], [[desirable-difficulties|wünschenswerte Schwierigkeiten]] und [[embodied-learning|verkörpertes Lernen]] beschreiben die Arten von Aktivität und Kontext, die dauerhaftes Lernen erzeugen.
+- **Klassische Lerntheorien.** [[behaviorism]] (Lernen als beobachtbare Verhaltensänderung durch Verstärkung und Drill-and-Practice) und [[constructivist|Konstruktivismus]] (Lernen als aktive Wissenskonstruktion) sind die beiden Pole, die in der KI-Forschung am häufigsten wiederkehren. Das Feld weist häufig eine Kluft nach dem Muster „Konstruktivismus dem Namen nach, Behaviorismus in der Praxis" auf: Der Diskurs bekennt sich zur Konstruktion, während KI-Implementierungen standardmäßig auf Drill-and-Feedback-Mechaniken zurückgreifen.([[ai-vocational-education-training-review|Deutscher et al., 2026]]) [[cognitive-psychology|Kognitivismus]] ist der dritte klassische Pol — Lernen als Veränderung innerer mentaler Repräsentationen — und jene Theorie, die am stärksten für die charakteristischen Beiträge von AIED verantwortlich ist ([[knowledge-tracing|Knowledge Tracing]], [[cognitive-diagnosis|Cognitive Diagnosis]], [[student-modeling|Student Modeling]], [[intelligent-tutoring|Intelligent Tutoring]]).
+- **Soziokulturelle und entwicklungsbezogene Theorien.** [[sociocultural-learning|Soziokulturelles Lernen]] geht davon aus, dass Lernen und Entwicklung durch soziale Teilhabe entstehen und durch kulturelle Werkzeuge sowie wissendere Andere vermittelt werden — dies umfasst die [[sociocultural-learning|Zone der nächsten Entwicklung]], [[scaffolding|Scaffolding]], Lehrlingsausbildung, Praxisgemeinschaften und [[distributed-cognition|verteilte Kognition]]. Im Zeitalter der KI wird [[generative-ai|generative KI]] zunehmend als *mediationaler Agent* konzipiert, der sowohl Aktivität vermittelt als auch kontingente Beiträge zur Interaktion generiert.([[generative-ai-mediational-agent-sociocultural-2026|Warschauer et al., 2026]])
+- **Kognition und kognitive Architektur.** [[cognitive-psychology|Kognitive Psychologie / Kognitivismus]] ist der Oberbegriff für diese Familie: Cognitive Load Theory (wie die Grenzen des Arbeitsgedächtnisses den Unterricht prägen), Dual-Process Theory (schnelle intuitive vs. langsame deliberative Verarbeitung) und [[metacognition|Metakognition]] (Überwachung und Regulation des eigenen Lernens) erklären die *internen* Mechanismen, die AI-Tools ansprechen oder umgehen.
+- **Motivation und Selbststeuerung.** Die [[self-determination-theory|Selbstbestimmungstheorie]] (Autonomie, Kompetenz, soziale Eingebundenheit), [[self-efficacy|Selbstwirksamkeit]] (Zutrauen in die eigenen Fähigkeiten), [[self-regulated-learning|selbstreguliertes Lernen]] (Zielsetzung, Überwachung und Anpassung) und [[motivation|Motivation]] erklären, warum Lernende KI auf die jeweilige Weise nutzen.
+- **Lernkontext und Aktivität.** [[experiential-learning|Erfahrungsbasiertes Lernen]], [[active-learning|aktives Lernen]], [[project-based-learning|projektbasiertes Lernen]], [[collaborative-learning|kollaboratives Lernen]], [[transfer-of-learning|Lerntransfer]], [[desirable-difficulties|erwünschte Schwierigkeiten]] und [[embodied-learning|verkörpertes Lernen]] beschreiben die Arten von Aktivität und Kontext, die dauerhaftes Lernen hervorbringen.
 
-### Lerntheorien und Lernzuwächse
+Eine systematische Übersichtsarbeit aus dem Jahr 2026 zu 163 GenAI-Studien ordnet die Literatur fünf Theorietraditionen zu und stellt fest, dass konstruktivistische und konnektivistische Designs dominieren, während behavioristische Verstärkungsdesigns weitgehend auf adaptive Plattformen im Primarbereich beschränkt bleiben ([[saranya-pedagogical-practices-genai-learning-theories-2026|Saranya & Saravanan, 2026]]). Die Verfasserinnen und Verfasser der Übersichtsarbeit erschlossen die Theorie jeder Studie aus der beschriebenen Praxis, da Primärstudien selten eine Theorie benannten — was selbst ein Befund darüber ist, wie das Feld über Theorie berichtet.
+
+## Lerntheorien und Lernzuwächse
 
 Lerntheorien werden letztlich an ihren Ergebnissen bewertet, und das Konzept [[learning-gains|Lernzuwächse]] der Wissensbasis ist der Ort, an dem Theorie auf Evidenz trifft. Jede Theorie macht eine unterschiedliche Vorhersage darüber, was als Lernen *zählt* und wie es zu messen ist: Behaviorismus sagt beobachtbare Leistungszugewinne bei Drill-und-Feedback-Aufgaben voraus; Konstruktivismus sagt tieferes Verständnis voraus, das auf neuartige Probleme überträgt; soziokulturelle Theorie sagt Zugewinne bei Teilhabe und vermitteltem [[problem-solving|Problemlösen]] voraus; und Cognitive Load Theory sagt Zugewinne nur dann voraus, wenn der Unterricht Arbeitsgedächtnisgrenzen respektiert. Das ist der Grund, warum die Messung von Lernzuwächsen theoriebeladen ist — ein Instrument, das auf einer Theorie gebaut ist, erfasst die Zugewinne vielleicht nicht, die eine andere vorhersagt. Im KI-Zeitalter kann die scharfe Divergenz zwischen KI-assistierter Leistung und ungestützten [[learning-gains|Lernzuwächsen]] (siehe [[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]]) durch diese Linse gelesen werden: eine behavioristische Lesung sieht aufgeblähte Hausaufgabenwerte als Erfolg, während eine konstruktivistische Lesung, auf dauerhaftes Verständnis fokussiert, dieselbe Evidenz als Versagen zu lernen sieht. Theorien mit Evaluation und gemessenen Ergebnissen zu verbinden ist daher unverzichtbar, um zu entscheiden, welche theoretische Linse ein gegebenes KI-System tatsächlich erfüllt.
 
 **Die gepoolte Evidenz ist positiv, und sie misst ein engeres Konstrukt als die Theorien.** Eine PRISMA-[[meta-analysis-systematic-review|Metaanalyse]] von 53 Studien setzt GenAI-Unterstützung bei g = 0.40 auf akademische Leistung, 0.72 auf [[critical-thinking|höherordiges Denken]], 0.76 auf Schreiben und 0.81 auf Motivation, wobei GenAI-Feedback den größten Mechanismus mit g = 1.27 darstellt ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]). Das sind Zugewinne auf den Instrumenten, die die eingeschlossenen Studien wählten, sodass sie eine behavioristische oder kognitivistische Lesart von „es funktioniert“ klären und die konstruktivistische Vorhersage über dauerhaftes, übertragbares Verständnis ungeprüft lassen. Auch die Ländergruppen divergierten, von Chinas g = 0.71 bis zur nicht signifikanten türkischen g = 0.01, sodass die gepoolte Schätzung ein lokal zu prüfender Durchschnitt ist statt eine Eigenschaft des Werkzeugs.
 
-### Warum Lerntheorien für KI in der Bildung zählen
+## Warum Lerntheorien für KI in der Bildung zählen
 
 Lerntheorien zählen aus drei Gründen:
 
@@ -65,7 +67,7 @@ Lerntheorien zählen aus drei Gründen:
 - **Sie legen die Theorie-Praxis-Lücke offen.** Empirische Arbeit findet wiederholt, dass KI-Implementierungen andere Theorien verkörpern als der Diskurs behauptet — am bekanntesten konstruktivistische Sprache, gepaart mit behavioristischer Drill-und-Praxis-Mechanik.([[ai-vocational-education-training-review]]) KI zu bewerten verlangt daher, *welche* Theorie ein System tatsächlich verkörpert, zu fragen, nicht nur, ob es „funktioniert“.
 - **Sie werden aktiv überdacht.** Generative KI [[prompt-engineering|veranlasst]] Lehrende zu überdenken, ob die klassischen Theorien genügen. [[generativism-learning-theory|Generativismus]] schlägt vor, dass Lernen im KI-Zeitalter zunehmend durch iterative Ko-Konstruktion zwischen menschlichen Lernenden und KI-Systemen geschieht und die klassischen vier (Behaviorismus, Kognitivismus, Konstruktivismus, Konnektivismus) erweitert statt ersetzt.([[generativism-learning-theory]])
 
-### Neue theoretische Richtungen aus jüngerer AIED-Arbeit
+## Neue theoretische Richtungen aus jüngerer AIED-Arbeit
 
 Jüngere theoretische Arbeit erweitert den klassischen Strang in mehrere Richtungen, die jeweils die Mensch-KI-Beziehung neu zentrieren, statt KI als neutrales Werkzeug zu behandeln:
 
@@ -77,17 +79,17 @@ Jüngere theoretische Arbeit erweitert den klassischen Strang in mehrere Richtun
 - **Ausführbare KLI-Theorie.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] gründen das Knowledge-Learning-Instruction-Rahmenwerk in einem ausführbaren Rechenmodell (das Apprentice-Learner-Rahmenwerk mit einem ACT-R-artigen Gedächtnismechanismus), das eine Cross-over-Interaktion in menschlichen Daten reproduziert: reine Übung unterstützt wörtliches Faktengedächtnis (indem sie Vergessen verzögert), während beispielintegrierte Übung die Induktion verallgemeinerbarer Fertigkeit unterstützt. Weil KLI konstantes (Fakten-)Wissen an Gedächtnisprozesse und variables (Fertigkeits-)Wissen an Induktion bindet, ist das Ergebnis eine vorhergesagte Inhalt-Behandlung-Interaktion statt ein Widerspruch zwischen Test- und Worked-Example-Empfehlungen — und der Erfolg des Modells nur bei Vorhandensein eines Gedächtnismechanismus zeigt, dass Übung und Beispiele ausgeprägte, komplementäre Rollen spielen.
 - **Verkörperung als ontologische Herausforderung an das Paradigma der KI.** [[videla-embodied-ai-education-choreography|Videla, Penny und Ross (2026)]] argumentieren, eine ontologische Kluft trenne verkörperte, enaktive Kognition von der repräsentationalen Idiomatik, die KI verkörpert, weshalb KI als erkenntnistheoretisches Zentrum dezentriert statt als neutrales Werkzeug behandelt werden sollte.
 
-### Wie die Wissensbasis diesen Strang organisiert
+## Wie die Wissensbasis diesen Strang organisiert
 
 Statt Lerntheorien als abstrakte Philosophie zu behandeln, gründet die Wissensbasis jede in der AIED-Forschung, die sie nutzt. Die Seiten [[constructivist|Konstruktivismus]] und [[behaviorism|Behaviorismus]] dokumentieren, wie KI-Designs jede Theorie verkörpern (oder verraten); Cognitive Load Theory, [[self-regulated-learning|selbstreguliertes Lernen]], [[metacognition|Metakognition]] und [[transfer-of-learning|Lerntransfer]] verbinden Theorie mit spezifischen KI-Mechanismen und -Ergebnissen. Das spiegelt, wie die Wissensbasis andere Dachbereiche wie [[feedback|Feedback]] und [[assessment|Assessment]] behandelt — ein kohärentes System interagierender Konzepte statt isolierter Seiten.
 
-### Lerntheorien und „Bildung über KI“
+## Lerntheorien und „Bildung über KI“
 
 Lerntheorien erscheinen auch als Inhalt in Curricula zur [[ai-literacy|KI-Kompetenz]]: Lernende studieren Behaviorismus, Kognitivismus, Konstruktivismus und Konnektivismus, um die [[pedagogy|pädagogischen]] Annahmen hinter den Werkzeugen zu verstehen, die sie nutzen.([[generativism-learning-theory]]) Diesen Strang zu lehren gibt Studierenden (und Lehrenden) das Vokabular, um zu kritisieren, warum ein KI-Produkt so gebaut ist, wie es gebaut ist — und ob seine Mechanik dem Lernziel vor Ort dient.
 
 - **Der vermittelnde Agent.** Warschauer, Tate und Ritchie (2026) argumentieren, generative KI breche die soziokulturelle Unterscheidung zwischen vermittelnden Mitteln und sozialer Interaktion, und schlagen den *vermittelnden Agenten* vor — ein System, das Handlung sowohl vermittelt als auch kontingente, nicht verantwortbare Beiträge erzeugt und einen hybriden Raum zwischen einem Werkzeug und einem sozialen Partner besetzt. Das ergibt fünf menschenzuerst-Habits der Teilhabe (Primat menschlicher Kognition, zweckbestimmtes [[student-engagement|Engagement]], aufsichtsführende Handlungsfähigkeit, erkenntnistheoretische Wachsamkeit, reflexive Selbstregulation).([[generative-ai-mediational-agent-sociocultural-2026]])
 
-### Theorien, die für das KI-Zeitalter vorgeschlagen wurden
+## Theorien, die für das KI-Zeitalter vorgeschlagen wurden
 
 Neben den klassischen Familien dokumentiert die Wissensbasis Theorien, die eigens für das Lernen mit KI-Systemen geschrieben wurden, und diese tragen die Designimplikationen, die die älteren Theorien offen lassen. [[yan-agentivism-learning-theory-ai-2026|Agentivism (Yan und Gašević 2026)]] ist ein Beispiel mittlerer Reichweite: es definiert Lernen als dauerhaftes Wachstum menschlicher Fähigkeit statt als erfolgreichen Aufgabenabschluss, benennt vier Mechanismen (delegierte Handlungsfähigkeit, erkenntnistheoretische Überwachung und Verifikation, rekonstruktive Internalisierung, und Transfer unter reduzierter Unterstützung), und stellt sechs prüfbare Propositionen auf, darunter dass KI-Unterstützung, die die Verantwortung der Lernenden für Problemrahmung, Kriteriensetzung und Rechtfertigung bewahrt, stärkeres Lernen erzeugt als Unterstützung, die Antworten liefert.
 
@@ -95,29 +97,29 @@ Neben den klassischen Familien dokumentiert die Wissensbasis Theorien, die eigen
 
 ## Verbreitete Fehlvorstellungen
 
-**„Eine der Lerntheorien ist die richtige, also ist die Theoriewahl Geschmackssache.“** Die Theorien machen unterschiedliche Aussagen darüber, was als Evidenz zählt, sodass dieselben Daten entgegengesetzte Schlüsse stützen können. Das klarste Beispiel: aufgeblähte Hausaufgabenwerte lesen sich **unter dem Behaviorismus als Lernen** und **unter dem Konstruktivismus als Versäumnis, dauerhaftes Verständnis aufzubauen**. Die Theoriewahl entscheidet damit, ob eine Intervention erfolgreich war, was sie zu einer Messentscheidung statt zu einer stilistischen Vorliebe macht.
-
-**„Ein Werkzeug, das tiefes Lernen unterstützt, wird unter jedem Rahmenwerk wie tiefes Lernen aussehen.“** Es wird unter dem einen Rahmenwerk wie Erfolg und unter dem anderen wie Versagen aussehen, wie oben. Deshalb müssen die Ergebnismaße des Felds gegen eine ausdrücklich benannte Theorie begründet werden, statt so übernommen zu werden, als wären sie neutral.
-
-**„Mehr Theorien bedeuten ein besser verstandenes Feld.“** Anhäufung ohne Entscheidung ist das Gegenteil von Fortschritt. Für das KI-Zeitalter vorgeschlagene Theorien vermehren sich schneller, als sie geprüft werden, und das Zeichen von Reife ist, dass konkurrierende Vorhersagen aufgelöst werden — was Designs verlangt, die sie unterscheiden können, nicht Kataloge, die sie alle aufnehmen.
-
-**„Bildung über KI ist theoretisch dasselbe wie KI in der Bildung.“** Sie speisen sich aus unterschiedlichen Strängen: der eine fragt, wie Lernende KI als Gegenstand verstehen lernen, der andere, wie KI verändert, wie Lernen geschieht. Ihre Vermischung erzeugt Literaturreviews, die zwei getrennte Evidenzbasen mischen und von keiner ein kohärentes Bild berichten.
-
-## Implikationen für die Praxis
-
 **Für Lehrende**
 
-- Wählen Sie die Theorie danach, was sie leisten soll: erklären, wie Lernen geschieht, den Zustand der Lernenden beschreiben, oder erklären, warum sich eine Praxis verbreitet. Die falsche Ebene anzuwenden misst die richtige Variable gegen die falsche Vorhersage.
-- Benennen Sie die Theoriebindung des Ergebnismaßes ausdrücklich, denn aufgeblähte Hausaufgabenwerte lesen sich aus identischen Daten unter dem Behaviorismus als Erfolg und unter dem Konstruktivismus als Versagen.
-- Wenn ein Rahmenwerk keinen Unterschied zwischen Konfigurationen vorhersagen kann, ist es in Ihrem Setting nicht prüfbar und wird Ihnen nicht bei der Entscheidung helfen.
+- Wählen Sie die Theorie danach aus, was sie leisten soll: erklären, wie Lernen stattfindet, den Zustand der Lernenden beschreiben oder erklären, warum sich eine Praxis verbreitet. Wendet man die falsche Ebene an, misst man die richtige Variable an der falschen Vorhersage.
+- Benennen Sie die theoretische Verortung des Ergebnismaßes explizit, denn überhöhte Hausaufgabennoten werden bei identischen Daten aus behavioristischer Sicht als Erfolg und aus konstruktivistischer Sicht als Misserfolg gelesen.
+- Wenn ein Rahmenwerk keinen Unterschied zwischen Konfigurationen vorhersagen kann, lässt es sich in Ihrem eigenen Kontext nicht überprüfen und wird Ihnen bei der Entscheidung nicht helfen.
 
-**Für Gestaltende**
+**Für Entwickler**
 
-- Veröffentlichen Sie die Theorie, die Ihr System verkörpert, und die Vorhersage, die es widerlegen würde; „im Konstruktivismus begründet" ohne einen falsifizierbaren Unterschied ist eine Behauptung ohne Inhalt.
+- Veröffentlichen Sie die Theorie, die Ihr System verkörpert, und die Vorhersage, die sie falsifizieren würde; „im Konstruktivismus verankert“ ohne einen falsifizierbaren Unterschied ist eine Behauptung ohne Gehalt.
 
 **Für Forschende**
 
-- Entwerfen Sie auf die Entscheidung zwischen Theorien hin statt auf Anhäufung von Rahmenwerken. Reife zeigt sich in aufgelösten konkurrierenden Vorhersagen, nicht in wachsendem Vokabular.
+- Auf die Entscheidung zwischen Theorien hin gestalten statt auf die Anhäufung von Rahmenwerken. Reife zeigt sich darin, dass konkurrierende Vorhersagen geklärt werden, nicht in einem wachsenden Vokabular.
+
+## Implikationen für die Praxis
+
+**„Eine der Lerntheorien ist die richtige, daher ist die Theoriewahl Geschmackssache."** Die Theorien machen unterschiedliche Aussagen darüber, was als Evidenz gilt, sodass dieselben Daten gegensätzliche Schlussfolgerungen stützen können. Das deutlichste Beispiel: überhöhte Hausaufgabennoten werden gelesen als **Lernen unter dem Behaviorismus** und als **Scheitern beim Aufbau dauerhaften Verständnisses unter dem Konstruktivismus**. Die Theoriewahl bestimmt daher, ob eine Intervention erfolgreich war, was sie zu einer Messentscheidung und nicht zu einer stilistischen Präferenz macht.
+
+**„Ein Werkzeug, das tiefes Lernen unterstützt, wird in jedem Bezugsrahmen wie tiefes Lernen aussehen.“** In dem einen Rahmen wird es wie Erfolg aussehen, in dem anderen wie Misserfolg, wie oben gezeigt. Deshalb müssen die Ergebnismaße des Forschungsfeldes anhand einer ausdrücklich benannten Theorie begründet werden, anstatt sie als vermeintlich neutral zu übernehmen.
+
+**„Mehr Theorien bedeuten ein besser verstandenes Feld.“** Anhäufung ohne Entscheidung ist das Gegenteil von Fortschritt. Theorien, die für die AI-Ära vorgeschlagen werden, vermehren sich schneller, als sie geprüft werden, und das Zeichen von Reife ist, dass konkurrierende Vorhersagen entschieden werden — was Forschungsdesigns erfordert, die zwischen ihnen unterscheiden können, nicht Kataloge, die sie alle unterbringen.
+
+**„Bildung über KI ist theoretisch betrachtet dasselbe wie KI in der Bildung."** Beide greifen auf unterschiedliche Stränge zurück: Der eine fragt, wie Lernende KI als Gegenstand verstehen lernen, der andere, wie KI das Lernen selbst verändert. Wer beide gleichsetzt, erzeugt Literaturübersichten, die zwei getrennte Evidenzbasen vermischen und zu keiner von beiden ein kohärentes Bild zeichnen.
 
 ## Verbundene Konzepte
 
@@ -147,21 +149,23 @@ Neben den klassischen Familien dokumentiert die Wissensbasis Theorien, die eigen
 - [[pedagogy]] — Dachbegriff: Pädagogien und Lehrstrategien in der KI-Bildung
 
 ## Verbundene Artikel
-- [[yan-agentivism-learning-theory-ai-2026]] — Eine Lerntheorie mittlerer Reichweite für die Mensch-KI-Interaktion, mit vier Mechanismen und sechs prüfbaren Propositionen (Yan and Gašević 2026)
 
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Trügerische Übergeneralisation: adaptiver Meisterungsgrad kann die Übung beenden, bevor Lernende wissen, wann sie eine Handlung unterlassen sollten (An, McLaren & Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — KI-gestützte Erkundung und Regulation in hybriden Systemen (AIRIS)
+- [[yan-agentivism-learning-theory-ai-2026]] — Eine Lerntheorie mittlerer Reichweite für die Mensch-KI-Interaktion mit vier Mechanismen und sechs überprüfbaren Propositionen (Yan and Gašević 2026)
+
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Täuschende Übergeneralisierung: Adaptive Mastery-Verfahren können das Üben beenden, bevor Lernende wissen, wann sie eine Handlung unterlassen sollten (An, McLaren & Stamper 2026)
+- [[airis-hybrid-human-ai-cognition-2026]] — KI-gestützte Untersuchung und Regulation in hybriden Systemen (AIRIS)
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — Positioniert KI als kognitiven Partner in der Mensch-KI-Koregulation; entwicklungsbezogener Rahmen über die gesamte Lebensspanne
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: ein philosophischer Rahmen, der Denken als Mensch-KI-Interaktion neu konzeptualisiert
-- [[self-directed-growth-generative-ai-learning-analytics]] — Self-Directed Growth und das A2PL-Modell, das selbstgesteuertes Lernen um GenAI erweitert
-- [[generativism-learning-theory]] — Schlägt eine neue Lerntheorie für das Zeitalter generativer KI vor und greift die klassischen vier neu auf
-- [[ai-vocational-education-training-review]] — Dokumentierte die Theorie-Praxis-Lücke zwischen Konstruktivismus und Behaviorismus bei KI in der beruflichen Bildung
-- [[genai-educational-outcomes-meta-analysis]]
+- [[ai-cognitive-partner-co-regulation-learning]] — Positioniert KI als kognitiven Partner in der Mensch-KI-Ko-Regulation; Entwicklungsrahmen über die gesamte Lebensspanne
+- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: ein philosophischer Rahmen, der Denken als Mensch–KI-Interaktion neu konzipiert
+- [[self-directed-growth-generative-ai-learning-analytics]] — Selbstgesteuertes Wachstum und das A2PL-Modell, das selbstgesteuertes Lernen mit GenAI erweitert
+- [[generativism-learning-theory]] — Schlägt eine neue Lerntheorie für das Zeitalter der generativen KI vor und greift dabei die klassischen vier
+- [[ai-vocational-education-training-review]] — Dokumentierte die Theorie-Praxis-Kluft von Konstruktivismus/Behaviorismus bei KI in der Berufsbildung (VET)
+- [[genai-educational-outcomes-meta-analysis]] — PRISMA-Metaanalyse von 53 Studien: gepoolte Zuwächse bei Leistung, Denken, Schreiben und Motivation, wobei Feedback den stärksten Wirkmechanismus darstellt (Dong 2026)
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative KI als vermittelnder Agent
-- [[kim-ai-productive-failure-adult-2026]] — Entwurf von KI-Systemen zur Unterstützung produktiv-scheiternsbasierten Lernens
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative KI als mediationaler Akteur
+- [[kim-ai-productive-failure-adult-2026]] — Gestaltung von AI-Systemen zur Unterstützung des Lernens auf Basis von Productive Failure
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogische Steuerung von LLMs für produktives Scheitern
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT für autonomes Sprachenlernen
+- [[lukesova-clue-before-correction-2026]] — Hinweis vor Korrektur: ChatGPT für autonomes Sprachenlernen
 - [[rachatasumrit-example-problem-ratio-2026]]
+- [[saranya-pedagogical-practices-genai-learning-theories-2026]] — Pädagogische Praktiken und die Integration generativer KI über das gesamte Spektrum der Lerntheorien hinweg: eine systematische Übersichtsarbeit

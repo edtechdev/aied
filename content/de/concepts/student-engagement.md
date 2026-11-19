@@ -1,7 +1,7 @@
 ---
 title: Studierendenengagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-11-05T09:35:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 
 Engagement ist ein multidimensionales Konstrukt, verwurzelt in der Bildungspsychologie. **Verhaltensbezogenes Engagement** bezieht sich auf Teilhabe, Mühe, Persistenz und On-Task-Aktivität. **Kognitives Engagement** bezieht sich auf die Tiefe geistiger Verarbeitung —, Elaboration, [[critical-thinking|kritische Analyse]], Selbst-[[regulation]] und Investition geistiger Mühe. **Affektives Engagement** bezieht sich auf emotionale Reaktionen wie Interesse, Freude, [[anxiety-and-stress|Angst]] und Identifikation mit dem Lernen. Diese Dimensionen können divergieren: eine Person kann verhaltensbezogen aktiv (klickend, Zeit verbringend) und kognitiv flach (Ausgabe passiv annehmend) sein, oder affektiv interessiert und verhaltensbezogen abgelenkt. Diese Multidimensionalität ist der Grund, weshalb Engagement nicht mit einem einzelnen beobachtbaren Verhalten gleichgesetzt werden darf.
 
-### Wie Studierendenengagement in der Forschung erscheint
+## Wie Studierendenengagement in der Forschung erscheint
 
 - **Engagement als Ergebnis von KI-Gestaltung:** [[genai-motivation-engagement-2026|GenAI-Motivationsforschung]] zeigt, dass Engagement in [[generative-ai|generative KI]]-unterstütztem Lernen der Befriedigung grundlegender psychologischer Bedürfnisse folgt ([[self-determination-theory|Autonomie, Kompetenz, Verbundenheit]]) —, Engagement ist das nachgelagerte Ergebnis motivationaler Unterstützung, nicht von Technologieverfügbarkeit allein. Engagement wird oft per [[self-report-measures|Selbstbericht]] gemessen, während verhaltensbezogenes Engagement aus Interaktionsprotokollen stammt, und die beiden sind nicht austauschbar.
 
@@ -61,7 +61,7 @@ Jene [[scaffolding|Gerüstbildung]] hat ein institutionelles Gegenstück mit dop
 - **KI-Nutzung kann mit größerer Kursabsenz einhergehen, während Vertrauen sie nicht vorhersagt.** Eine PLS-SEM-Befragung von 291 portugiesischen Universitätsstudierenden fand allgemeine KI-Nutzung positiv mit Absenz assoziiert (β = 0.148, f² = 0.029) und mit [[self-efficacy|Selbstwirksamkeit]] für unabhängiges Lernen, doch Selbstwirksamkeit selbst sagte Absenz nicht voraus (β = −0.068, p = 0.276) —, das „selbstbewusst, aber abwesend“-Muster des Papiers. Die Anwesenheitsassoziation war bescheiden und sekundär gegenüber Peer-Einfluss (β = 0.510, f² = 0.326) und Zeitmanagement (β = −0.163), und weil das KI-Nutzungskonstrukt unidimensional war und unterstützungs- mit substitutionsorientierten Items mischte, kann die Studie komplementäre von substitutiver Nutzung nicht trennen oder Richtung etablieren ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]).
 - **Engagement, Flow und emotionale Intelligenz wuchsen in KI-unterstützten Musikklassen gemeinsam.** Fünf Wellen über ein Semester bei 850 Studierenden im Grundstudium zeigten mittleres Wachstum in allen drei Bereichen, mit Steigungskorrelationen von 0,39 zwischen Engagement und Flow und 0,22 zwischen Engagement und emotionaler Intelligenz; das Wachstum im Flow trug die Verbindung zur emotionalen Intelligenz ([[zhang-tang-ai-music-classroom-engagement-longitudinal-2026|Zhang & Tang, 2026]]).
 
-### Engagement messen: das Problem der Metrikwahl
+## Engagement messen: das Problem der Metrikwahl
 
 Engagement wird über eine Reihe beobachtbarer Signale operationalisiert. **Verhaltensbezogene Metriken** messen, was Lernende *tun* (Zeit-auf-Aufgabe, Aktivitätszahlen, Interaktionsfrequenz, Persistenz); **kognitive Metriken** messen, wie Lernende *denken* (Verarbeitungstiefe, kritisches Engagement, Diskursanalyse); **affektive Metriken** messen, wie Lernende *fühlen* (Emotion, Motivation, Interesse); und **kontextuelle Metriken** erfassen Multitasking und Aufmerksamkeit. Forschung zu KI in der Bildung kombiniert diese zunehmend und behandelt Engagement als vermittelnden Mechanismus zwischen KI-Werkzeuggestaltung und [[learning-gains|Lernergebnissen]], statt als Ergebnis an sich.
 
@@ -69,21 +69,27 @@ Engagement wird über eine Reihe beobachtbarer Signale operationalisiert. **Verh
 
 Die Wahl der Metrik ist definitorisch: Eine Studie, die Engagement als *Zeit-auf-Aufgabe* misst, mag schlussfolgern, ein KI-Werkzeug verstärke Engagement, wenn Studierende mehr Zeit mit der Interaktion damit verbringen, während eine Studie, die Engagement als *kritische Verarbeitung* misst, für dasselbe Werkzeug zur entgegengesetzten Schlussfolgerung gelangen kann. Deshalb unterscheidet die Forschung der Wissensdatenbank Engagement (Teilhabe) von Lernen (tatsächlicher kognitiver Gewinn) —, siehe [[genai-performance-vs-learning|Leistung vs. Lernen]] —, und deshalb müssen Engagementmetriken gegen das validiert werden, was sie zu messen behaupten.
 
-**Selbstbericht und Verhaltensaufzeichnungen derselben Nutzung können fast vollständig auseinanderfallen.** Keith, Wood und Posey (2026) maßen KI-Engagementmodi zweimal bei denselben 171 Studierenden: einmal mit einem 29-Item-Selbstauskunftsinstrument und einmal durch Klassifikation von 1.353 Transkript-Wendungen. Keine gepaarte Profilkorrelation überstand die Korrektur bei |r| ≥ .30, die mittlere Total-Variation-Distanz betrug .701 und lag nur .002 näher als eine zufällige Neupaarung, und die Verhaltenskomposition erhöhte die erklärte Varianz um .166 gegenüber .031 beim Selbstbericht; nur beobachtete Profile folgten den Quiz-Werten, wo erklärungssuchende Wendungen mit höheren Werten einhergingen (r = .33, p < .001) ([[eight-mode-ai-engagement-typology-2026]]). Ein Selbstbericht darüber, wie eine studierende Person sich engagiert, trug fast keine Information darüber, wie diese Person sich tatsächlich engagierte, was die obige Warnung zur Metrikwahl zu einem gemessenen Ergebnis statt zu einer Mahnung macht.
+Wenn das Posten benotet wird, kann eine Beitragszahl Engagement nicht von Compliance trennen. In vier Fokusgruppen mit 26 Bachelorstudierenden aus STEM-Fächern sagten die meisten, sie hätten nur gepostet, um die Note zu erfüllen, und eine Person beschrieb die Diskussionsarbeit als „nur noch etwas, das man von der Liste abhaken muss" ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner und Nugent, 2026]]). Eine verhaltensbezogene Metrik ist genau dort am schwächsten, wo die Aktivität bewertet wird, denn die Note liefert die Aktivität, die die Metrik aufzeichnet.
+
+**Selbstbericht und Verhaltensaufzeichnungen derselben Nutzung können fast vollständig auseinanderfallen.** Keith, Wood und Posey (2026) maßen KI-Engagementmodi zweimal bei denselben 171 Studierenden: einmal mit einem 29-Item-Selbstauskunftsinstrument und einmal durch Klassifikation von 1.353 Transkript-Wendungen. Keine gepaarte Profilkorrelation überstand die Korrektur bei |r| ≥ .30, die mittlere Total-Variation-Distanz betrug .701 und lag nur .002 näher als eine zufällige Neupaarung, und die Verhaltenskomposition erhöhte die erklärte Varianz um .166 gegenüber .031 beim Selbstbericht; nur beobachtete Profile folgten den Quiz-Werten, wo erklärungssuchende Wendungen mit höheren Werten einhergingen (r = .33, p < .001) ([[eight-mode-ai-engagement-typology-2026|Keith et al., 2026]]). Ein Selbstbericht darüber, wie eine studierende Person sich engagiert, trug fast keine Information darüber, wie diese Person sich tatsächlich engagierte, was die obige Warnung zur Metrikwahl zu einem gemessenen Ergebnis statt zu einer Mahnung macht.
 
 - **Engagement als fragiles, situationsabhängiges Signal:** [[polished-artifacts-fragile-engagement-2026|Polierte Artefakte, fragiles Engagement]] und [[genai-tutor-engagement-patterns|multiinstitutionelle Engagementmuster]] finden, dass Engagement nach Kontext, Aufgabe und lernender Person variiert —, dasselbe Werkzeug produziert bei manchen Studierenden starkes Engagement und bei anderen flaches, ausgabenjagendes Verhalten.
+
 - **Verhaltensbezogene Telemetrie von Bildungs[[edtech-platform|plattformen]]:** [[engagement-forecasting-its|Vorhersage von Aufwand und Fortschritt]], [[learning-engagement-assistant-lea|Learning Engagement Assistant]], [[engagement-assessment-video|Engagementbewertung in Videos]] und [[interactive-learning-dashboards-engagement|Lerndashboards]] übersetzen verhaltensbezogene und physiologische Signale (Aufmerksamkeit, Aktivität, Persistenz) in Engagementmetriken, die für adaptives Feedback und Lehrendenintervention genutzt werden.
+
 - **Physiologische Erfassung fügt eine Modalität hinzu —, und ein Baseline-Problem.** [[e3sense-multimodal-learner-engagement-sensing-2026|E3Sense]] ko-lokalisiert EEG mit Trockenelektroden, Blickverfolgungsbrillen und Stirn-Elektrodermalelektroden auf dem Kopf und sagt 450 segmentstufige Engagementbewertungen von 30 Universitätsstudierenden auf einer fünfstufigen Ordinalskala voraus: AdaBoost über der fusionierten [[multimodal|multimodalen]] Repräsentation erreichte 75.0% balancierte Innerhalb-einer-Stufe-Genauigkeit gegenüber 63.0% bei stets der häufigsten Bewertung. Die Enge jener Lücke ist der Punkt —, Innerhalb-einer-Stufe-Gutschrift gibt einer sensorfreien Baseline bei verzerrten Bewertungen die meisten ihrer Punkte —, und Lernende zu fragen, was Engagement für sie bedeutet, bewegte dasselbe Maß von 64.6% auf 71.5%, Evidenz, dass das [[self-report-measures|Selbstberichts]]etikett, nicht nur der Sensor, entscheidet, was solche Analytik behaupten kann.
+
 - **Fairnessrestriktionen brauchen zurückgehaltene Subjekte, um zu halten.** Der geschlechtszielende Regularisierer eines multimodalen Aufmerksamkeitsschätzers senkte die Validierungs-MAE-Lücke von 0.02 auf 0.005, erhöhte aber sowohl die Lücke als auch den Worst-Group-Fehler auf zurückgehaltenen Subjekten, sodass subgruppenbewusste, wiederholte Subjektvalidierung in jede Engagement-Erfassungs-Beanspruchung gehört ([[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]]).
+
 - **Engagement als Lernendenmodellierungssignal:** [[engagement-intensity-learner-modeling|Engagementintensität als Lernendenmodellierungssignal]] nutzt Engagementstärke, um adaptive KI-Systeme zu informieren, und positioniert Engagementmetriken als Inputs für [[student-modeling|Studierendenmodellierung]] und [[adaptive-learning|adaptives Lernen]] statt bloß als Evaluationsergebnisse.
 
-### Engagement vs. Lernen
+## Engagement vs. Lernen
 
 Ein zentrales Thema in der Forschung der Wissensdatenbank ist, dass Engagement und Lernen unterschieden werden müssen. KI-Werkzeuge, die hohes Engagement erzeugen (Zeit auf Aufgabe, Interaktionsvolumen), produzieren möglicherweise kein Lernen, wenn jenes Engagement passiv ist oder für die [[cognitive-offloading|kognitive Arbeit]] des Verstehens substituiert —, siehe [[genai-performance-vs-learning|Leistung vs. Lernen]]. Umgekehrt kann produktives Ringen und [[desirable-difficulties|wünschenswerte Schwierigkeit]] Lernen produzieren, selbst wenn Oberflächenengagement sich geringer anfühlt. Engagement ist daher am besten als *Mechanismus* zu behandeln —, wertvoll, insofern es sinnhafte [[cognitive-psychology|kognitive Verarbeitung]] reflektiert oder ermöglicht —, statt als Endziel.
 
 Die Unterscheidung ist nicht akademisch. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] stellen Engagement ins Zentrum ihres PLS-SEM-Modells, zwischen Motivation und [[community-of-inquiry|sozialer Präsenz]] auf der einen Seite und *wahrgenommener* Leistung auf der anderen —, der größte Koeffizient in ihrem Modell, und dennoch eine Wahrnehmung statt eines Maßes des Lernens.
 
-### Pädagogik vermittelt den Effekt der KI auf Engagement
+## Pädagogik vermittelt den Effekt der KI auf Engagement
 
 Eine systematische Synthese von [[higher-ed|KI in der Hochschulbildung]] ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]) betont, dass die **[[teacher-role|Unterrichts]]methode, in die ein KI-Werkzeug eingebettet ist, der entscheidende Mediator** dafür ist, ob es Studierende engagiert. Chatbots, adaptive Systeme und prädiktive Analytik verstärken Engagement am meisten, wenn sie innerhalb interaktiver Pädagogiken eingesetzt werden —, Flipped Classrooms, [[project-based-learning|projektbasiertes Lernen]] und gerüstete [[feedback|Feedbackschleifen]] —, statt als eigenständige Werkzeuge. Der Review formalisiert dies als das **PMAISE-Modell** ([[pedagogy|Pädagogische]] Vermittlung von KI für Studierendenengagement), das die Ausrichtung zwischen KI-[[ai-technologies|Technologien]], pädagogischen Strategien und den affektiven, verhaltensbezogenen und kognitiven Dimensionen des Engagements kartiert. Die Implikation ist, dass Engagementsergebnisse vom Werkzeug *und* der umgebenden [[learning-design|Unterrichtsgestaltung]] ko-produziert werden: dieselbe KI kann Engagement in einer Pädagogik verstärken und in einer anderen hemmen.
 
@@ -91,7 +97,7 @@ Auch von der Unterrichtsseite macht ein zweidimensionales Konto denselben Punkt.
 
 Die tragende Behauptung des Rahmenwerks ist Verstärkung statt Verursachung. Unterschiede zwischen den vier Konfigurationen sollten sich weiten, wenn GenAI leicht verfügbar wird, wenn Assessment das Endprodukt belohnt und wenn Schreibprozesse unsichtbar bleiben, sodass das Werkzeug Bedingungen vergrößert, die Aufgabe und Lehrkraft bereits gesetzt haben, statt Engagementmuster aus sich heraus zu erzeugen. Al Nafjan erklärt, das Rahmenwerk sei propositional und ungetestet, was die vier Profile zu Erwartungen macht, die auf einen empirischen Test warten, statt zu beobachteten Effekten.
 
-### Verbindungen zu verwandten Konzepten
+## Verbindungen zu verwandten Konzepten
 
 Studierendenengagement verbindet sich mit [[motivation]] und [[self-determination-theory]] als seinen psychologischen Treibern und mit [[student-experience|Studierendenerfahrung]] als dem gelebten Kontext. Seine Messung beruht auf [[learning-analytics]] und [[educational-measurement]], die die [[quantitative-research|quantitativen]] Werkzeuge zur Operationalisierung der obigen Dimensionen liefern. Die Unterscheidung zwischen tiefem und flachem Engagement verknüpft sich direkt mit [[self-regulated-learning]] (selbstregulierte Lernende engagieren strategisch), [[cognitive-offloading]] und [[cognitive-offloading|Überabhängigkeit]] (flache Vertrauensabhängigkeit als Fehlermodus) und [[metacognition]]. In Systemgestaltung speisen Engagementsignale [[student-modeling]] und [[adaptive-learning]], und Engagementsergebnisse erscheinen in [[research-methods-aied|Evaluationen]] von KI-Bildungs-Interventionen.
 
@@ -108,32 +114,32 @@ Studierendenengagement verbindet sich mit [[motivation]] und [[self-determinatio
 
 ## Verbreitete Fehlvorstellungen
 
-**„Wenn das Engagement stieg, stieg das Lernen.“** Das ist die teuerste Schlussfolgerung in der KI-Engagementliteratur, und die Wissensbasis enthält ein sauberes Gegenbeispiel. [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker und Becker-Genschow (2025)]] randomisierten 195 neunte Klassen auf einen domänenspezifischen Mathematik-Chatbot oder konventionelle Differenzierungsmaterialien für eine Stunde zur Heron-Methode. Das situative Interesse stieg in der Chatbot-Bedingung substanziell (M = 2,63 gegenüber 2,43, p = 0,00005, Cohens d = 0,63) und die Akzeptanz war hoch auf allen vier Dimensionen des [[technology-acceptance-model|Technology-Acceptance-Model]] — doch der Prä-Post-Leistungsvergleich fand **keine signifikante Gruppe-mal-Zeit-Interaktion** (F(1194) = 2,84, p = 0,094), und die extrinsische kognitive Last war etwas höher. Interesse und Leistung bewegten sich auf unterschiedlichen Zeitplänen. Ein Engagementbefund ist kein Beleg für [[learning-gains|Lernen]].
-
-**„Engagement ist eine Sache, und die Zeit auf Aufgabe misst sie.“** Das Konstrukt ist mehrdimensional, und seine Dimensionen gehen designbedingt auseinander: Eine studierende Person kann behavioral aktiv sein — klicken, Zeit ansammeln — und zugleich kognitiv flach, Ausgaben passiv akzeptierend. [[self-report-measures|Selbstbericht]] und Interaktionsprotokolle als Maße des Konstrukts sind nicht austauschbar, weshalb eine Aussage über „Engagement“ nicht interpretierbar ist, bis die Dimension und das Instrument benannt sind.
-
-**„Mehr behaviorale Aktivität bedeutet tieferes Engagement.“** Oft das Gegenteil. Tiefes kognitives Engagement mit KI sagt Lernen voraus, während flaches behaviorales Engagement die [[cognitive-offloading|Überabhängigkeit]] und Lernverdrängung vorhersagt, die die Risikoliteratur dominieren; [[polished-artifacts-fragile-engagement-2026|polierte Artefakte]] sind der kanonische Fall, in dem eine saubere Ausgabe Aktivität signalisiert, während das Denken nicht stattfand. Belebte Interaktionsprotokolle sind mit Desengagement vereinbar.
-
-**„KI macht Lernen standardmäßig engagierter.“** [[ai-availability-student-motivation|KI-Verfügbarkeit und Motivation]] zeigen, dass allein das Wissen um die Verfügbarkeit von KI den wahrgenommenen Wert anstrengungsvollen Engagements senken kann, besonders bei Novizen. Engagement wird von Erwartung, Wert und wahrgenommener Kompetenz ebenso geformt wie von Werkzeugmerkmalen, und es variiert nach Aufgabe, Kontext und lernender Person — das tiefe Engagement der einen ist das Ausgaben-Jagen der anderen.
-
-## Implikationen für die Praxis
-
 **Für Lehrende**
 
-- Wählen Sie Ihr Ergebnismaß vor Ihrer Intervention. Wenn das Ziel dauerhaftes Lernen ist, messen Sie die Leistung ohne Unterstützung; Interesse- und Zufriedenheitsbefragungen sagen Ihnen nicht, ob das Werkzeug gewirkt hat.
-- Behandeln Sie einen Anstieg des Vergnügens mit Misstrauen, wenn die kognitive Last ebenfalls steigt. Im cluster-randomisierten Beispiel ging höheres Interesse mit etwas höherer extrinsischer Last und ohne Leistungseffekt einher — angenehm, aber nicht offensichtlich produktiv.
-- Unterscheiden Sie die studierende Person, die arbeitet, von der, die ein poliertes Artefakt entstehen sieht. Fragen Sie nach dem Schlussfolgern, nicht nach der Ausgabe.
+- Wählen Sie Ihr Ergebnismaß vor der Intervention. Wenn das Ziel dauerhaftes Lernen ist, messen Sie die Leistung ohne Unterstützung; Interessen- und Zufriedenheitsumfragen sagen Ihnen nicht, ob das Werkzeug funktioniert hat.
+- Behandeln Sie einen Anstieg der Freude mit Skepsis, wenn die kognitive Last ebenfalls steigt. Im cluster-randomisierten Beispiel ging höheres Interesse mit etwas höherer extrinsischer Last und ohne Leistungseffekt einher — angenehm, aber nicht offensichtlich produktiv.
+- Unterscheiden Sie die studierende Person, die arbeitet, von derjenigen, die einem polierten Artefakt beim Entstehen zusieht. Fragen Sie nach dem Denkprozess, nicht nach der Ausgabe.
 
 **Für Entwickelnde**
 
-- Instrumentieren Sie die Dimension, die Sie behaupten. Eine Zeit-auf-Aufgabe- oder Klick-Metrik auszuliefern und sie Engagement zu nennen, verwechselt behaviorale Aktivität mit kognitiver Investition, was genau der Fehler ist, vor dem die Evidenz warnt.
-- Erwarten Sie keinen Transfer zwischen Engagementtypen. Situatives Interesse zu steigern impliziert nicht, kognitives Engagement zu steigern, sodass die Optimierung allein auf Interesse die Nutzung heben kann, während das Lernen flach bleibt.
-- Achten Sie speziell bei Novizen auf eine Abwertung der Anstrengung, da Verfügbarkeit allein den wahrgenommenen Wert von Anstrengung senken kann.
+- Instrumentieren Sie die Dimension, die Sie behaupten. Eine Zeit-auf-Aufgabe- oder Klickmetrik auszuliefern und sie Engagement zu nennen, vermischt behaviorale Aktivität mit kognitiver Investition — genau der Fehler, vor dem die Evidenz warnt.
+- Erwarten Sie keinen Transfer zwischen Engagement-Typen. Situatives Interesse zu steigern bedeutet nicht, kognitives Engagement zu steigern; wer allein auf Interesse optimiert, kann die Nutzung erhöhen, während das Lernen flach bleibt.
+- Achten Sie speziell bei Novizen auf die Abwertung von Anstrengung, denn allein die Verfügbarkeit kann den wahrgenommenen Wert von Anstrengung senken.
 
 **Für Forschende**
 
-- Berichten Sie die Dimension und das Instrument, und vermeiden Sie das nackte Substantiv. Da Selbstbericht und Protokolle auseinandergehen, braucht „Engagement stieg“ seine Operationalisierung im selben Satz.
-- Vermeiden Sie es, Leistung aus Affekt zu schließen. Das cluster-randomisierte getrennte Ergebnis ist das Modell dafür, beides zu berichten, einschließlich des Nulleffekts.
+- Berichten Sie die Dimension und das Instrument und vermeiden Sie das bloße Substantiv. Da Selbstbericht und Protokolle auseinandergehen, braucht „Engagement ist gestiegen“ seine Operationalisierung im selben Satz.
+- Vermeiden Sie es, von Affekt auf Leistung zu schließen. Das gespaltene Ergebnis der cluster-randomisierten Studie ist das Vorbild dafür, beides zu berichten, einschließlich des Nullbefunds.
+
+## Implikationen für die Praxis
+
+**„Wenn das Engagement stieg, stieg auch das Lernen.“** Das ist der folgenschwerste einzelne Schluss in der Literatur zu KI-Engagement, und die Literatur enthält ein klares Gegenbeispiel. [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker and Becker-Genschow (2025)]] verglichen 195 randomisierte Klassen der neunten Jahrgangsstufe in einer Unterrichtsstunde zum Heron-Verfahren: Interesse und Akzeptanz stiegen im Chatbot-Arm deutlich, während der Wissenstest keine Interaktion von Gruppe und Zeit zeigte, die beiden Ergebnisse liefen also auf getrennten Spuren. Die praktische Lehre ist, das Lernergebnis zu messen, dem das Werkzeug dienen soll, nicht die Begeisterung, die es erzeugt.
+
+**„Engagement ist eine Sache, und Zeit-auf-Aufgabe misst sie.“** Das Konstrukt ist mehrdimensional, und seine Dimensionen laufen konstruktionsbedingt auseinander: Eine studierende Person kann behavioral aktiv sein — klicken, Zeit ansammeln — und dabei kognitiv flach bleiben und die Ausgabe passiv übernehmen. [[self-report-measures|Selbstbericht]] und Interaktionsprotokolle als Maße des Konstrukts sind nicht austauschbar, weshalb eine Aussage über „Engagement“ uninterpretierbar bleibt, bis die Dimension und das Instrument benannt sind.
+
+**„Mehr behaviorale Aktivität bedeutet tieferes Engagement.“** Oft ist das Gegenteil der Fall. Tiefes kognitives Engagement mit KI sagt Lernen voraus, während flaches behaviorales Engagement die [[cognitive-offloading|übermäßige Abhängigkeit]] und die Verdrängung des Lernens vorhersagt, die die Risikoliteratur dominieren; [[polished-artifacts-fragile-engagement-2026|polierte Artefakte]] sind der kanonische Fall, bei dem eine saubere Ausgabe Aktivität signalisiert, während das Denken nicht stattgefunden hat. Geschäftige Interaktionsprotokolle sind mit Disengagement vereinbar.
+
+**„KI macht Lernen von sich aus engagierender.“** [[ai-availability-student-motivation|KI-Verfügbarkeit und Motivation]] zeigt, dass schon das Wissen um die Verfügbarkeit von KI den wahrgenommenen Wert anstrengungsreichen Engagements senken kann, besonders bei Novizen. Engagement wird durch Erwartung, Wert und wahrgenommene Kompetenz ebenso geprägt wie durch Werkzeugeigenschaften, und es variiert mit Aufgabe, Kontext und lernender Person — das tiefe Engagement der einen studierenden Person ist bei der anderen ein Jagen nach der Ausgabe.
 
 ## Verbundene Konzepte
 - [[learners]] — Lernende: das Dach für die Konzepte auf der Seite der Lernenden
@@ -160,11 +166,15 @@ Studierendenengagement verbindet sich mit [[motivation]] und [[self-determinatio
 - [[reflection]]
 
 ## Verbundene Artikel
+
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — KI-Feedback-Kompetenz und agentisches Engagement: ein Drei-Wellen-Panel mit zufälligem Intercept (Xu 2026)
+
 - [[rho-disengaged-conversational-behaviors-2026]] — Desengagiertes Konversationsverhalten und Lernen in Studierenden-KI-Dialogen (Rho et al. 2026)
+
 - [[assigned-ai-preclass-student-engagement-2026]] — Sprachbasierte KI-Übung vor der Sitzung erhöhte freiwillige Beiträge im Kurs um ~31 %, aber erst nach einer zweiten Nutzung (Wang et al. 2026)
 - [[confident-but-absent-ai-use-absenteeism-2026]] — KI-Nutzung ging mit größerer Kursabsenz einher, während Selbstwirksamkeit sie nicht vorhersagte, mit Peer-Einfluss als dominanter Korrelat (Franco et al. 2026)
 - [[gai-advocacy-practice-art-education-2026]] — Wenn Hochschulen GAI befürworten, die Praxis aber hinterherhinkt: Einschätzungen der Studierenden und kreatives Prozessengagement in der Kunstbildung
+
 - [[e3sense-multimodal-learner-engagement-sensing-2026]] — Kopfgebundenes EEG, Blickverfolgung und EDA sagen fünfstufige Engagementbewertungen voraus, während die eigenen Definitionen der Lernenden die Abbildung verschieben (Anupkrishnan et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Faire multimodale Transformer-Modellierung zur Echtzeit-Schätzung der Aufmerksamkeit von Studierenden
 - [[ai-student-engagement-online-learning-review-2025]]
@@ -192,6 +202,8 @@ Studierendenengagement verbindet sich mit [[motivation]] und [[self-determinatio
 - [[domain-specific-chatbot-stem-enthusiasm-2025]] — Cluster-randomisierter Mathematikversuch in der Sekundarstufe: situuiertes Interesse stieg mit einem maßgeschneiderten Chatbot, während die Testleistung stagnierte (Rücker & Becker-Genschow 2025)
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — KI-Kompetenz treibt Engagement direkt und über psychologisches Kapital, verstärkt durch berufliches Engagement (Wang 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring erzielen gleichwertige GRE-Lernzuwächse
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Zugang zu einem KI-Tutor senkte die protokollierte Plattformteilhabe um 0.90 SDs, während die Hausaufgabeneinreichung stabil blieb (Liu et al. 2026)
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — Zugang zu einem KI-Tutor senkte die protokollierte Plattformteilhabe um 0,90 SDs, während die Hausaufgabeneinreichung stabil blieb (Liu et al. 2026)
 - [[eight-mode-ai-engagement-typology-2026]] — Selbstberichtete und beobachtete KI-Engagementprofile entsprachen sich nicht, und nur das Verhalten folgte den Quiz-Werten (Keith, Wood & Posey 2026)
 - [[al-nafjan-genai-eap-writing-engagement-2026]] — Vier vorhergesagte Engagementkonfigurationen unter GenAI, und warum das Werkzeug sie verstärkt
+
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — Studierendenwahrnehmungen von Diskussionsforen: eine Technologieakzeptanzmodell-Studie zur Fundierung des Designs KI-gestützter Learning Analytics

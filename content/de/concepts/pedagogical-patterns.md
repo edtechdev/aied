@@ -1,7 +1,7 @@
 ---
 title: Pädagogische Muster
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-04T17:29:51-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -143,6 +143,14 @@ Ein Quasi-Experiment mit 68 angehenden Lehrkräften fand, dass das Erklären geg
 
 Ein Within-Subjects-Experiment mit 26 Dyaden fand, dass die Feedbackbedingung höheren Debugging-Erfolg erzielte (t[49.96] = −13.51, p < .0001) und schneller fertig wurde (t[44.70] = 4.39, p < .0001), obwohl sie Dual-[[sensor-and-gaze-analytics|Eye-Tracking]]- und Pupillometrie-Hardware verlangte und den Transfer auf unüberwachte Paararbeit nicht testete ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Ein Quasi-Experiment mit 58 Graduierten in 16 Gruppen fand, dass Rollendesign die Mind-Map-Inhaltswerte von 3.65 auf 4.59 auf einer SOLO-Skala von 1–5 erhöhte (z = 3.771, p < 0.001), während Knoten- und Zweigzahlen flach blieben — aber ohne Kontrollgruppe können Übungseffekte nicht ausgeschlossen werden ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
 
+### Iterierte Entwürfe mit benoteter Kollaboration
+
+**Evidenz: Praxisbeschreibung — ein erster Durchlauf, keine Vergleichsbedingung, keine gemessenen Ergebnisse.**
+
+Studierende schreiben in kleinen Teams einen Essay über mindestens zwei dokumentierte Phasen hinweg, wählen aus einem festen Satz von Titeln und werden sowohl anhand von Nachweisen für Iteration und Kollaboration als auch am Produkt bewertet; GenAI ist innerhalb benannter Grenzen erlaubt, statt verboten oder vorgeschrieben zu sein.
+
+In einem Modul des ersten Jahres im Degree Apprenticeship „Business Analyst“ an der Queen Mary University of London schrieben 23 Studierende in 11 selbst zusammengestellten Teams auf diese Weise einen iterierten Essay mit 1.500 Wörtern, wobei GenAI weder generierten Text einreichen noch Referenzlisten erstellen durfte. Die Autorinnen und Autoren beschreiben einen programmweiten [[pedagogy|pädagogischen]] Neuentwurf und berichten erste Einsichten statt Ergebnisse. Ihre These ist, dass die Bewertungskriterien, nicht die Anweisungen, den Prozessnachweisen ihr Gewicht verliehen, und dass dort, wo Studierende das Tool nutzten, einige seine Ausgabe als eine zu bestreitende Behauptung behandelten — Gegenargumente, die es zu prüfen galt, Strukturen, die es anzunehmen oder abzulehnen galt ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
+
 ### KI-assistierte Diskussion
 
 **Evidenz: gemischt — die eine direkte Implementierung ist eine Fallbeschreibung.** Studierende analysieren ein Szenario und beantworten geleitete Fragen unabhängig, prompten ChatGPT mit einem standardisierten Prompt zu denselben Fragen, bewerten die KI-Antworten auf Genauigkeit gegen die eigenen, verfeinern ihre Antwort, und schließen mit einer Klassendiskussion.
@@ -249,7 +257,7 @@ Die eigenen Vorsichten des Leitfadens gelten: aufgezeichnete Videos, Reflexionen
 - [[structured-reflection-ai-explanatory-feedback-2026]] — Das Hinzufügen von Selbsterklärung zu KI-Feedback verlor bei jedem Maß (Asher et al. 2025)
 - [[generative-ai-guardrails-harm-learning]] — Gebändigtes Tutoring beseitigte den Prüfungsschaden, den unbewachtes GPT verursachte, ~1.000 Studierende (Bastani et al. 2025)
 - [[guided-llm-scaffolding-independent-learning]] — Gesteuerte versus uneingeschränkte LLM-Nutzung in Statistik (Amanlou et al. 2026)
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Unmittelbar antwortendes Scaffolding senkte die Modellabstraktion, während es bevorzugt wurde (Zhu et al., 2026)
+- [[preferred-scaffolding-ai-mathematical-modeling]] — Unmittelbar antwortendes Scaffolding senkte die Modellabstraktion, während es bevorzugt wurde (Zhu et al. 2026)
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Einen LLM-Tutor so zu steuern, dass er Lösungen für produktives Scheitern zurückhält (Puech et al. 2025)
 - [[pedagogy-ai-mistakes]] — Wöchentliche Kritik-und-Verfeinerungs-Zyklen auf absichtlichen KI-Fehlschlägen aufgebaut (Hosseini 2026)
 - [[kumar-genai-computing-education-systematic-review-2026]] — Fehleranalyse als ausgeprägte Kompetenz, über 72 Studien der Informatikbildung hinweg (Kumar et al. 2026)
@@ -276,8 +284,9 @@ Die eigenen Vorsichten des Leitfadens gelten: aufgezeichnete Videos, Reflexionen
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — KI-unterstützte gesteuerte Inquiry und konzeptuelles Verständnis (Aydin 2026)
 - [[ai-enhanced-flipped-classroom-three-year-2026]] — Drei-Kohorten-Vergleich von traditionellem, flipped und KI-erweitertem Flipped (Liu et al. 2026)
 - [[flipped-learning-genai-design-education-2026]] — Flipped-Studio-Kurs mit parametergeleitetem Prompt-Scaffolding (Qu et al. 2026)
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Das Unterrichtsmodell moderierte Ergebnisse: flipped g = 1.96 gegenüber traditionell g = 0.46 (Jing et al. 2026)
+- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Das Unterrichtsmodell moderierte Ergebnisse: flipped g = 1,96 gegenüber traditionell g = 0,46 (Jing et al. 2026)
 - [[ai-tutor-statistical-programming-adoption-2026]] — Wöchentliche Hausaufgaben-Tutor-Nutzung sagte Transfer-Aufgabenwerte in einem Flipped-Kurs vorher (Préau et al. 2026)
 - [[beck-genai-literacy-economics-hands-on]] — Eine fünfstufige KI-Kritik-Diskussion, aufgebaut auf einem KI-Fehler (Beck & Brodersen 2025)
 - [[ccct-cooperative-learning-technique]] — Eine getestete Sequenz kooperativen Lernens mit zugewiesenen Rollen und einem Gallery Walk (Tutal 2026)
 - [[ai-assisted-seminar-learning-information-literacy-2026]] — Seminar- und Peer-Diskussionsmodul mit einem KI-Retrieval-Empfehlungssystem (Huang 2026)
+- [[alam-process-oriented-collaborative-essays-2026]] — Prozessorientierte kollaborative Essays: bewertete Iteration und Zusammenarbeit, mit GenAI innerhalb festgelegter Grenzen erlaubt (Alam & Jackson 2026)

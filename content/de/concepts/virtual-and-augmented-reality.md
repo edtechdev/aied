@@ -1,7 +1,7 @@
 ---
 title: Virtual und Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,7 +9,7 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -69,9 +69,11 @@ Die lehrkräftegerichtete Version desselben Musters ist jünger und zerbrechlich
 
 Die stärkste Evidenz für VR/AR ist vergleichend und [[discipline-specific-aied|fachspezifisch]]. Eine [[meta-analysis-systematic-review|Metaanalyse]] von 33 experimentellen und quasi-experimentellen Studien (N = 3.181) zu aufkommenden [[ai-technologies|Technologien]] im Unterricht von [[english-education|Englisch als Fremdsprache]] fand einen kleinen bis moderaten Gesamteffekt (g = 0,38) und, darin, die **größten Effekte für VR/AR**, wobei Gewinne mit dem Bildungsniveau steigen und produktive Fähigkeiten (Sprechen, Schreiben) gegenüber rezeptiven begünstigen.
 
-Die Gegenevidenz ist ebenso informativ. In der ersten Metaanalyse KI-basierter Interventionen für [[inclusive-learning|Studierende mit Behinderungen]] –, 29 Studien, 239 Effektstärken, mittlerer Gesamteffekt g = 0,588 –, erzeugten intelligente VR-Systeme g = 0,528, **nicht statistisch signifikant**, während Computersoftware 0,959 und Roboter 0,509 erreichten. Publikationsbias war vorhanden und Trim-and-Fill senkte die Gesamtschätzung auf g = 0,269. Das Muster ist nicht, dass Immersion scheitert, sondern dass ihre Effekte klein, heterogen und sensibel dafür sind, wie die jeweilige Intervention gestaltet und verglichen wurde.
+Die Gegenevidenz ist ebenso informativ. In der ersten Metaanalyse KI-basierter Interventionen für [[inclusive-learning|Studierende mit Behinderungen]] — 29 Studien, 239 Effektstärken, mittlerer Gesamteffekt g = 0,588 — erzeugten intelligente VR-Systeme g = 0,528, **nicht statistisch signifikant**, während Computersoftware 0,959 und Roboter 0,509 erreichten. Publikationsbias war vorhanden und Trim-and-Fill senkte die Gesamtschätzung auf g = 0,269. Das Muster ist nicht, dass Immersion scheitert, sondern dass ihre Effekte klein, heterogen und sensibel dafür sind, wie die jeweilige Intervention gestaltet und verglichen wurde.
 
-Das klarste negative Ergebnis in der Wissensbasis kommt aus einem Atelier-Einsatz statt aus einem Vergleich von Modalitäten: In einem Architektur-Designatelier mit 27 Studierenden sanken Teams, die eine GenAI-plus-Multinutzer-XR-Pipeline nutzten, stärker im Design[[self-efficacy|selbstwirksamkeitsvertrauen]] (β = −1,675) und in der Ergebnis-Erwartung (β = −2,088) als Teams, die den normalen Kursarbeitsablauf bearbeiteten, ohne signifikanten Unterschied in den Experten-Bewertungen ihrer Präsentationen durch ein Gremium ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Die Autoren erklären es als phasenabhängige Komplementarität mit echter Reibung –, GenAI für das Externalisieren tentativer Ideen, XR für räumliche und Maßstabsbewertung –, neben Kontroll-, Dimensions-Treue-, geteilte-Aufmerksamkeit- und Bewegungskomfort-Problemen, eine Erinnerung, dass immersives Werkzeug Interaktionskosten ebenso ergänzt wie Fähigkeit.
+Das klarste negative Ergebnis kommt aus einem Atelier-Einsatz statt aus einem Vergleich von Modalitäten. In einem Architektur-Designatelier mit 27 Studierenden sanken Teams, die eine GenAI-plus-Multinutzer-XR-Pipeline nutzten, stärker im Design[[self-efficacy|selbstwirksamkeitsvertrauen]] (β = −1,675) und in der Ergebnis-Erwartung (β = −2,088) als Teams, die den normalen Kursarbeitsablauf bearbeiteten, ohne signifikanten Unterschied in den Experten-Bewertungen ihrer Präsentationen durch ein Gremium ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Die Autoren erklären es als phasenabhängige Komplementarität mit echter Reibung — GenAI für das Externalisieren tentativer Ideen, XR für räumliche und Maßstabsbewertung — neben Kontroll-, Dimensions-Treue-, geteilte-Aufmerksamkeit- und Bewegungskomfort-Problemen, eine Erinnerung, dass immersives Werkzeug Interaktionskosten ebenso ergänzt wie Fähigkeit.
+
+**Die Literatur ist jung und verstreut.** Eine bibliometrische Kartierung der KI-gestützten VR-STEM-Bildung fand 241 Publikationen in Dimensions zwischen 2005 und 2025, doch 84,6 % von ihnen erschienen 2023–2025, wobei der Wachstumsknick 2023 lag und nicht bei der Pandemie ([[ajimotokan-ai-vr-stem-bibliometric-2026|Ajimotokan et al., 2026]]). Die Zitationsleistung war stark: 92 von 127 Publikationen mit feldnormalisierten Werten lagen auf oder über dem globalen Durchschnitt. Die soziale Struktur des Feldes war jedoch dünn: 774 von 789 Autoren waren nur einer einzigen Publikation zugeordnet, und 185 von 209 Publikationsorganen erschienen nur einmal. Für Leser, die die obigen Effektstudien abwägen, ist diese Struktur der Vorbehalt: Der Großteil der Evidenz ist neu, und nur wenige Forschungsgruppen haben ein dauerhaftes Forschungsprogramm aufgebaut.
 
 ## Treue, Präsenz und die Authentizitätslücke
 

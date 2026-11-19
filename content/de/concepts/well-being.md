@@ -42,7 +42,7 @@ ai_assist:
 
 Wohlbefinden in der Bildung ist facettenreich: es umfasst emotionales Wohlbefinden (positive Affektivität, geringes Leiden), psychologisches Wohlbefinden (Zweck, Autonomie, Kompetenz) und soziales Wohlbefinden (Zugehörigkeit, positive Beziehungen). Im KI-Zeitalter zählt Wohlbefinden, weil KI Lernen auf Weisen neu formen kann, die diese Dimensionen beeinflussen — vom Senken des Vertrauens der Studierenden und der Erhöhung von Angst über [[academic-integrity|akademische Integrität]] bis zum Fördern oder Untergraben von [[student-engagement|Engagement]] und Zugehörigkeit. Sorgen über die Wirkung von KI auf die sozio-emotionalen Fähigkeiten, das Wohlbefinden, die Geselligkeit und das Gefühl von Vertrauen und Empathie der Studierenden (von der OECD und anderen erhoben) haben Wohlbefinden als zentrale Erwägung bei verantwortungsvoller KI-Integration positioniert.
 
-### Wie Wohlbefinden in der Forschung erscheint
+## Wie Wohlbefinden in der Forschung erscheint
 
 - **[[ai-literacy|KI-Kompetenz]] und sozio-emotionales Lernen:** [[sec-ai-literacy-narrative-review-2026|Forschung, die SEC in KI-Kompetenz integriert]] argumentiert, dass das Fördern der emotionalen Intelligenz und des Wohlbefindens von Bildungsfachkräften und Studierenden wesentlich ist, um KI-[[sociocultural-learning|vermittelte Lern]]-Umgebungen zu navigieren, verbunden mit [[social-emotional-learning]] und affektiven Dimensionen von KI.
 - **KI-Angst und Studierendenerfahrung:** Studien zum Engagement der Studierenden mit KI (z. B. [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT-basierte Forschung]]) finden, dass KI-Nutzung mit Angst, Vertrauen und Vertrauen verflochten ist, wobei das Wohlbefinden der Studierenden von Sorgen über akademische Integrität, [[creativity]] und [[cognitive-offloading|Überabhängigkeit]] beeinflusst wird.
@@ -64,7 +64,7 @@ Ein Strukturgleichungsmodell mit 502 Universitätsfakultäten fand, dass KI-Komp
 - **Ethik und verantwortungsvolle KI:** Wohlbefinden ist eine ethische Kernerwägung in der [[ai-education]], verbunden mit [[ethics]] und dem Imperativ, KI zu gestalten, die die psychische Gesundheit und Zugehörigkeit der Lernenden unterstützt statt schädigt.
 - **Detektor-Angst als Wohlbefindensrisiko.** [[sovereign-hive-titl-further-education-2026|Herron (2026)]] benennt „flagxiety“ — Angst, erzeugt durch Furcht vor unzuverlässigen [[ai-detection|KI-Detektor]]-Anschuldigungen —, und argumentiert, dass marginalisierte Lernende der Weiterbildung, deren kognitive Einzigartigkeit als Fehlverhalten gelesen werden kann, relationale Regulierung brauchen statt eine unregulierte Schnittstelle, die kognitives Abschalten auslösen kann.
 
-### Wohlbefinden als Designerwägung
+## Wohlbefinden als Designerwägung
 
 Ein wiederkehrendes Thema ist, dass Wohlbefinden eine absichtsvolle Designerwägung in der KI-Bildung sein sollte, kein Nachgedanke. Das bedeutet: KI so gestalten, dass sie menschliche Beziehungen unterstützt statt ersetzt; sicherstellen, dass Studierende Handlungsfähigkeit und Vertrauen bewahren können, statt [[anxiety-and-stress|KI-erzeugte Angst]] oder Überabhängigkeit zu erleben; die Kapazität und das Wohlbefinden von Bildungsfachkräften unterstützen, während sie KI integrieren; und [[ai-ed-evaluation|KI]]-Systeme nicht nur auf [[learning-gains|Lernereignisse]] evaluieren, sondern auch auf ihre Wirkungen auf das Wohlbefinden von Studierenden und Lehrkräften. [[research-methods-aied|Forschung]] verbindet Wohlbefinden mit [[motivation]], [[self-regulated-learning]] und [[student-experience]] (Zugehörigkeit und Engagement). [[daoism-ai-education-philosophy-2026|Xie (2026)]] argumentiert für ein passendes bildungstechnisches Telos: das daoistische „Zhenren“ (真人) Gegenideal ersetzt reibungslose Optimierung durch „kultivierte Ganzheit“, stellt Lernen als harmonische Integration von Selbst, Gesellschaft und Kosmos neu vor und besteht darauf, dass „kein Student bloß ein zu verwaltender Datensatz ist, sondern ein ganzes Wesen, fähig, Gleichmut zu erlangen.“
 
@@ -72,7 +72,7 @@ Ein wiederkehrendes Thema ist, dass Wohlbefinden eine absichtsvolle Designerwäg
 
 Eine konzeptionelle Neurahmung gründet Unterstützung bei [[self-regulated-learning|Emotionsregulation]] in körperlicher Aktivität und Campus-Ökologie statt in Affekterkennung allein: kein einzelner Ausdruckskanal identifiziert Leiden ohne Kontext, daher sollte KI Regulierung durch Übung unterstützen, während Lehrkräfte und Beratende die Interpretation behalten, und Affekt-Monitoring wird zwanghaft, sobald es an Anwesenheit oder Benotung gebunden wird ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
 
-### Verbindungen zu verwandten Konzepten
+## Verbindungen zu verwandten Konzepten
 
 Wohlbefinden verbindet sich mit [[student-experience]] (als Dimension der Gesamterfahrung der Lernenden), [[social-emotional-learning]] und [[affective-computing]] (den emotionalen Kompetenzen, mit denen KI schneidet), [[ethics]] (als ethische Kernerwägung), [[motivation]] und [[self-regulated-learning]] (Wohlbefinden unterstützt diese und wird von ihnen unterstützt), [[teacher-ai-competency]] (Kapazität und Wohlbefinden von Bildungsfachkräften) sowie [[higher-ed]] und [[k-12]] als den Settings, in denen KI Wohlbefinden prägt.
 

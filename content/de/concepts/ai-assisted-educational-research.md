@@ -1,7 +1,7 @@
 ---
 title: KI-gestützte Bildungsforschung
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -16,7 +16,7 @@ connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assi
 confidence: medium
 contributors: [editor]
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -46,9 +46,9 @@ ai_assist:
 
 KI-gestützte Bildungsforschung ist das Feld, das KI-Werkzeuge auf die eigene Arbeit richtet. Der Untersuchungsgegenstand ist nicht eine lernende Person, die einen [[intelligent-tutoring|KI-Tutor]] nutzt, sondern eine Forscherin, die ein Modell zum Suchen, Screenen, Extrahieren, Kodieren, Analysieren oder Schreiben nutzt. Was sich verändert, ist der Arbeitsablauf der Forschenden und, leiser, die Kriterien, nach denen ihre Ergebnisse als Evidenz zählen.
 
-Diese Seite handelt bewusst nicht von Forschung *über* KI in der Bildung. Fragen dazu, ob ein KI-Tutor das Lernen verbessert, behandelt [[research-methods-aied]], die Bewertung von KI-Systemen [[ai-ed-evaluation]] und das vorsichtige Lesen einer einzelnen Studie [[interpreting-and-applying-aied-research]] und [[limitations-in-aied-research]]. Die beiden Literaturen werden häufig vermischt, und die Werkzeugbehauptungen der zweiten werden oft zur Stützung der ersten geborgt.
+Diese Seite handelt bewusst nicht von Forschung *über* KI in der Bildung. Fragen dazu, ob ein KI-Tutor das Lernen verbessert, behandelt [[research-methods-aied|Forschungsmethoden]], die Bewertung von KI-Systemen [[ai-ed-evaluation|Evaluation von KI in der Bildung]] und das vorsichtige Lesen einer einzelnen Studie [[interpreting-and-applying-aied-research|Interpretation und Anwendung von AIEd-Forschung]] und [[limitations-in-aied-research|Grenzen der AIEd-Forschung]]. Die beiden Literaturen werden häufig vermischt, und die Werkzeugbehauptungen der zweiten werden oft zur Stützung der ersten geborgt.
 
-Der Umfang reicht von der Literatursuche über das Screening, das Kodieren, die Analyse und das Schreiben und schließt die erkenntnistheoretische Reflexion ein, die fragt, was Automatisierung mit dem Wissen anstellt, das ein Feld produziert. Er schließt außerdem Praktiker-Forschung ein: das scholarship of teaching and learning und die Untersuchung des eigenen Klassenraums, bei der eine Lehrkraft die eigene Praxis untersucht. Dieser Strang ist der schwächste Teil dieser Seite, und die Abschnitte unten sagen das, statt es zu glätten.
+Der Umfang reicht von der Literatursuche über das Screening, das Kodieren, die Analyse und das Schreiben und schließt die erkenntnistheoretische Reflexion ein, die fragt, was Automatisierung mit dem Wissen anstellt, das ein Feld produziert. Er schließt außerdem Praktiker-Forschung ein: das scholarship of teaching and learning und die Untersuchung des eigenen Klassenraums, bei der eine [[teacher-role|Lehrkraft]] die eigene Praxis untersucht. Dieser Strang ist der schwächste Teil der Evidenz, und die Lücke wird offen benannt, statt sie zu glätten.
 
 ## Wie KI in den Forschungsarbeitsablauf eintritt
 
@@ -76,11 +76,13 @@ Systematische Reviews sind dort, wo Automatisierung am weitesten vorangekommen i
 
 Ihre Schlussfolgerung ist eine Arbeitsteilung statt einer Übergabe: weisen Sie Automatisierung der Verfahrenslast zu, verifizieren Sie jede Ausgabe, und behalten Sie interpretative Entscheidungen beim Menschen. Der Bericht ist die Reflexion eines einzelnen Teams ohne Vergleichsbedingung, seine Strategien sind also beschrieben statt getestet.
 
-[[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta und Lin (2026)]] quantifizieren das Reporting-Problem über 888 Review-Automatisierungspapiere mit 14,726 Annotationseinträgen. Seit 2023 berichteten 38.0% der Software- und Produktpapiere keinerlei Evaluation, gegenüber 9.3% der [[llm|LLM]]-Papiere. Die Lücke übersteht die Stratifizierung: in Screening und Selektion verzeichneten Softwarepapiere durchschnittlich 3,2 substanzielle Evaluationseinträge, wobei 39.3% keine berichteten, während LLM-Papiere durchschnittlich 7,3 Einträge mit einer Rate von 3.8% ohne Evaluation verzeichneten.
+[[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta und Lin (2026)]] quantifizieren das Reporting-Problem über 888 Review-Automatisierungspapiere mit 14,726 Annotationseinträgen. Seit 2023 berichteten 38.0% der Software- und Produktpapiere keinerlei Evaluation, gegenüber 9.3% der [[llm|LLM]]-Papiere. In Screening und Selektion hält das Muster an: Softwarepapiere verzeichneten durchschnittlich 3,2 substanzielle Evaluationseinträge, wobei 39.3% keine berichteten, während LLM-Papiere durchschnittlich 7,3 Einträge und eine Rate von 3.8% ohne Evaluation verzeichneten.
 
 Günstige Bewertung implizierte nicht Tauglichkeit zur Delegation. Unter 118 LLM-Papieren mit ausschließlich positiven Evaluationen berichteten 52% noch mindestens eine Sorge, dass der Arbeitsablauf unter der für seine Rolle nötigen Hürde blieb. Der Modellzugang war überwiegend proprietär: 84.1% der LLM-Nutzung stützten sich auf proprietäre oder gehostete Systeme, 11.0% war gemischt, und nur 4.9% waren Open-Weight.
 
 Aus diesen Mustern leiten die Autorinnen und Autoren PRISMA-LLM ab, einen dreischichtigen Rahmen, dessen fünf Implementierungsstufen Offenlegungsstufen statt Risikostufen sind. Es ist ein zum Testen angebotener Vorschlag, keine offizielle, vom PRISMA Executive gebilligte Erweiterung. Schweigen auf Papierebene, so warnen sie, ist kein Beleg dafür, dass Validierung fehlt – sie kann in einem Produktbericht, einem Protokoll oder einem Repository liegen.
+
+**Eine regulatorische Perspektive auf dieselbe Automatisierung.** [[zhang-executor-partner-genai-systematic-review-2026|Zhang, Wang und Maeda (2026)]] fragen nicht, was GenAI in einem Review tut, sondern wer die Arbeit reguliert. Sie behandeln ein systematisches Review als reguliertes Lernsystem, ordnen die Review-Aktivitäten den Phasen Vorausplanung, Ausführung und Reflexion zu und unterscheiden dann drei Rollen: GenAI als delegierter Executor innerhalb menschlich definierter Strukturen, als ko-regulatorischer Einfluss auf die Entscheidungen der Reviewerinnen und Reviewer und als Partner in sozial geteilter Regulation. Bei der Anwendung des Rahmens auf 60 GenAI-gestützte Evidenzsynthesen fanden sie die berichtete Nutzung überwiegend in der Executor-Rolle, mit episodischer Ko-Regulation und kaum Belegen für geteilte Regulation. Das passt zum Muster auf Werkzeugebene oben, wo sich Automatisierung auf Screening und Extraktion konzentriert, und es ergänzt eine Diagnose: Ein Schritt kann verfahrenstechnisch nützlich sein und dabei Monitoring, Urteil und Anpassung der Reviewerinnen und Reviewer unberührt lassen.
 
 ## Qualitative Kodierung und Analyse
 
@@ -162,11 +164,11 @@ Die Warnung gehört auf diese Seite. Das Urteil eines [[simulation|Simulators]] 
 
 ## Praktiker-Forschung: SoTL und Untersuchung des Klassenraums
 
-Dies ist der Strang, den der Korpus am wenigsten dokumentiert. Das scholarship of teaching and learning und Klassenraumforschung sind Praktiker-Untersuchungen – eine [[teacher-role|Lehrkraft]] untersucht den eigenen Kurs, oft in kleinem Maßstab, oft als Selbststudium –, und die hier gesammelten Seiten liefern keine erforschte Darstellung von KI-Nutzung in dieser Weise.
+Praktiker-Forschung ist der Strang, den die Evidenz am wenigsten dokumentiert. Das scholarship of teaching and learning und Klassenraumforschung sind Praktiker-Untersuchungen — eine Lehrkraft untersucht den eigenen Kurs, oft in kleinem Maßstab, oft als Selbststudium —, und die Literatur liefert keine erforschte Darstellung von KI-Nutzung in dieser Weise.
 
 Die nächste Evidenz ist benachbart statt treffend. Die Doktorandinnen und Doktoranden in [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai und Chan (2026)]] lernten, Forschende zu werden, statt die eigene Lehre zu untersuchen. Das Team in [[scaffolding-systematic-reviews-2026|Wang et al. (2026)]] führte einen formalen interdisziplinären Review durch, kein lokales Projekt. Die bibliometrischen Studien beschreiben Disziplinen und Verlage, keine Klassenräume.
 
-Die ehrliche Feststellung ist daher eine Lücke statt ein Befund. KI-gestützte Praktiker-Untersuchung ist plausibel weit verbreitet und in diesem Korpus fast undokumentiert; eine Seite, die die Review-Automatisierungs- und bibliometrische Evidenz so darstellte, als kläre sie, wie eine Dozentin KI zur Untersuchung der eigenen Lehre einsetzen sollte, würde sich übernehmen.
+Die ehrliche Feststellung ist daher eine Lücke statt ein Befund. KI-gestützte Praktiker-Untersuchung ist plausibel weit verbreitet und fast undokumentiert; die Review-Automatisierungs- und bibliometrische Evidenz so darzustellen, als kläre sie, wie eine Dozentin KI zur Untersuchung der eigenen Lehre einsetzen sollte, würde zu weit gehen.
 
 Was hinübergetragen werden kann, ist eine Disposition statt ein Ergebnis: benennen Sie die Rolle der KI in den Methoden, behalten Sie interpretative Entscheidungen beim Menschen, und berichten Sie, was verifiziert wurde und was nicht.
 

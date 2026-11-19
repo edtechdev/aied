@@ -1,7 +1,7 @@
 ---
 title: "Entwicklerinnen und Entwickler von Bildungstechnologien"
 created: "2026-09-17T15:20:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -11,7 +11,7 @@ confidence: high
 methods: [design-based-research]
 connected_resources: [playlab]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ Die bzw. der Entwickelnde sitzt eine Ebene unter der Plattform. [[edtech-platfor
 
 Die Rolle ist auch von ihren Nachbarinnen und Nachbarn verschieden. [[learning-design]] und [[curriculum-design]] gestalten einen Kurs für eine bekannte Kohorte; eine bzw. ein Technologieentwickelnde gestaltet ein Produkt, das viele Kurse nutzen werden, unterrichtet von Menschen, die sie nie getroffen hat –, weshalb Voreinstellungen, Konfigurierbarkeit und Dokumentation pädagogisches Gewicht tragen. [[educational-development]] unterstützt das Lehrpersonal einer Einrichtung von innen; Entwickelnde sitzen außen oder daneben und liefern die Werkzeuge, um deren Übernahme dieses Personal dann gebeten wird. Und [[design-based-research]] ist der Evidenzstandard, den solche Entwickelnden zunehmend erfüllen sollen: iterativ, kontextuell und berichtet mit seinen eigenen Grenzen.
 
-### Wer pädagogische KI baut
+## Wer pädagogische KI baut
 
 **Forschungslabore, die öffentliche Infrastruktur bauen.** [[oatutor-open-source-adaptive-tutor-2023|OATutor]] wurde an der UC Berkeley als erstes vollständig offenes adaptives Tutoringsystem nach [[intelligent-tutoring|ITS]]-Prinzipien gebaut: eine MIT-lizenzierte Codebasis mit einer Creative-Commons-Algebra-Bibliothek, [[knowledge-tracing|Bayesian Knowledge Tracing]]-Meisterschaftsschätzung, A/B-Test-Infrastruktur und LTI-Unterstützung. Sein Existenzgrund ist eine Designentscheidung – proprietäre Plattformen hatten [[adaptive-learning]]-Forschung auf geschlossene Systeme begrenzt –, und sein Authoring-Weg ist eine weitere: 16 Urhebende produzierten in sechs Monaten nach 2,27 Stunden Schulung einen College-Algebra-Kurs.
 
@@ -55,13 +55,13 @@ Die Rolle ist auch von ihren Nachbarinnen und Nachbarn verschieden. [[learning-d
 
 **Bauende innerhalb von Institutionen.** [[moodle-ai-tutoring-deep-learning]] bettet [[llm|LLM]]-Tutoring in ein bestehendes LMS ein statt ein eigenständiges Werkzeug auszuliefern und senkt so die Übernahmeschwelle, die die ITS-Literatur als Grund nennt, warum Systeme in der Praxis scheitern. [[savvy-student-attention-video-learning]] verwandelt [[multimodal|multimodale]] Aufmerksamkeitssignale in ein Interface, das Lehrende lesen können, bevor sie ein Video freigeben. [[instructional-agents-multi-agent-course-gen|Instructional Agents]] automatisiert die ersten drei Phasen von ADDIE mit rollenspezialisierten Agenten, und seine Ablation ist eine Designlektion. Die Einzel-Agent-Baseline schnitt am schlechtesten ab, Full [[human-ai-collaboration|Co-Pilot]] übertraf Autonomous um 0,5–0,9 Punkte, und kein Qualitätsunterschied zwischen den Backends machte das billigste zur Voreinstellung.
 
-### Worauf eine Designbehauptung ruhen kann
+## Worauf eine Designbehauptung ruhen kann
 
 **Die Evidenzbasis ist schwächer als sie aussieht.** [[oneill-presumed-effective-meta-analysis-2026]] auditiert 14 Metaanalysen, die behaupten, KI verbessere Bildung, und fand, dass keine ihre Behauptungen rechtfertigte: Alle bis zwei definierten die Behandlung als Werkzeug statt als pädagogische Intervention, 61% von 59 geprüften Primärstudien hatten Validitätsprobleme, die Heterogenität war hoch, wo immer sie berichtet wurde, Moderatoranalysen waren unterpowert, und Publikationsbias wurde nie gültig bewertet. Eine [[meta-analysis-systematic-review|Metaanalyse]], die zurückgezogen worden war, trug für 60% der untersuchten späteren Arbeiten noch Autorität. Für Entwickelnde ist „KI verbessert das Lernen“ eine Produktkategorie-Behauptung, kein Designinput.
 
 **Berichten Sie Unsicherheit und volle Kosten, nicht nur Genauigkeit.** Für [[stanbkt-bayesian-knowledge-tracing|StanBKT]] kauft bayesianische Inferenz nichts in der Vorhersage und alles in der Möglichkeit zu sagen, welche Effekte glaubwürdig waren. [[shen-sustainable-ai-knowledge-base-cs-education-2026]] berichtet Retrieval-Ablationen, quantisierungsbewusste [[llm-training-and-fine-tuning|Feinabstimmung]], VRAM, Energie pro Anfrage und [[hallucination-risk|Halluzination]] gemessen gegen abgerufene offene Ressourcen –, mit dem eigenen Vorbehalt der Autoren, dass das System kein validierter Tutor sei. Das ist die [[ai-ed-evaluation|Evaluations]]disziplin, die eine Einsatzbehauptung prüfbar macht.
 
-### Ko-Design mit Lehrenden und Lernenden
+## Ko-Design mit Lehrenden und Lernenden
 
 **Erklärungen müssen die Sprache der Lehrenden sprechen.** [[xai-teachers-trust-edtech-recommendations-2026]] führte ein Within-Subject-Experiment mit 41 [[chemistry-education|Chemielehrenden]] zu einem ML-Empfehlungswerkzeug durch: Verständlichkeit, [[trust|Vertrauen]] und Akzeptanz korrelierten positiv, und domänengetriebene Erklärungen in der Sprache des Curriculums erzeugten signifikant höhere Verständlichkeit, gelerntes [[trust-calibration|Vertrauen]] und Akzeptanz als Erklärungen über Merkmalswichtigkeit. Vertrauen war auch dynamisch – mehrere Lehrende sagten, nur Unterrichtserfahrung würde es entscheiden –, und Akzeptanz hing von pädagogischer Ausrichtung und Arbeitslastreduktion ab.
 
@@ -69,30 +69,30 @@ Die Rolle ist auch von ihren Nachbarinnen und Nachbarn verschieden. [[learning-d
 
 **Ko-Design auf institutionellem Maßstab.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]] an der Open University wurde über sechs designbasierte Studien in 18 Monaten mit 498 Studierenden und 20 Personalangehörigen gebaut. Etwa 20% waren anfangs skeptisch; nach praktischer Nutzung wollten 96% es behalten, und eine explorative [[rct|RCT]] fand doppelt so viel Nutzungszeit, aber keine signifikanten Unterschiede bei Daten zum Lernprozess. Die ermöglichenden Faktoren waren organisatorisch – Unterstützung durch die Leitung, einheitsübergreifende Zusammenarbeit, dateninformierte Iteration – mit Lücken in der Kapazität zu systemischem Denken.
 
-### Beschaffung, Offenheit und nach dem Ende der Förderung
+## Beschaffung, Offenheit und nach dem Ende der Förderung
 
 [[shen-sustainable-ai-knowledge-base-cs-education-2026]] liefert die Inputs, die eine Beschaffungsentscheidung braucht: eine Hardware-Untergrenze von 12 GB VRAM, eine Genauigkeitsobergrenze für ein Modell der 7B-Klasse, Energie pro Anfrage und eine Reihenfolge der Entscheidungen – zuerst Retrieval (ohne es erzielte das Modell 52,3%, unter einer TF-IDF-Baseline), dann Feinabstimmung, dann quantisierungsbewusste Kompression. Offene Lizenzierung ist die Vorbedingung, ein Korpus lokal auszuliefern. [[reclaiming-epistemic-agency-co-agency-2026]] rahmt dieselbe Entscheidung als Governance: Transparenzanforderungen verwandeln Kaufen in epistemologische Governance, Anfechtbarkeit und Herkunft werden zu Bedingungen, und Bezirke mit der geringsten Kapazität stehen vor der höchsten Hürde. [[credential-cognitive-stewardship-ai-assessment]] ergänzt, dass Anbietergovernance in nur 29% von 30 auditierten Richtlinienpaketen auftauchte, die weit bereitwilliger angaben, was KI tun darf, als welche Belege des Lernens erhalten blieben. [[genai-mindtool-generative-learning]] stellt die Designfrage – fördert das Produkt Lernen *mit* dem Werkzeug oder lädt es kognitive Arbeit ab –, und [[vocabulary-difficulty-prediction]] zeigt den Handel im Kleinen: Das am besten abschneidende [[explainable-ai|Black-Box-Modell]] (r > 0,91) war weniger erklärbar als das interpretierbare (r > 0,77).
 
 ## Verbreitete Fehlvorstellungen
 
-- **„Die Metaanalysen stützen die Produktbehauptung."** Tun sie nicht, und der Grund ist spezifisch statt eine Frage des Grades. Eine Prüfung von **14 Metaanalysen**, die behaupten, KI verbessere Bildung, fand, dass **keine ihre Behauptungen rechtfertigte** — alle außer zwei scheiterten methodisch —, und eine **zurückgezogene Metaanalyse wurde von 60 % der untersuchten späteren Arbeiten weiterhin als autoritativ zitiert**. Die Rücknahme verbreitete sich schneller als die Korrektur, was bedeutet, dass die Literatur, die eine Roadmap wahrscheinlich zitiert, Behauptungen enthält, die das Feld bereits zurückgezogen hat.
-- **„Zitationen und Herkunft hinzuzufügen macht ein System vertrauenswürdiger."** In einem [[agentic-ai|Multi-Agent]]-Debattensetting **hob das Hinzufügen von Zitationen und Autoritätssignalen zur KI-Position die Abkehr von einem korrekten Urteil von 15,0 % auf 31,8 %**. Herkunft war keine neutrale Information: sie machte die falsche Antwort überzeugender. Glaubwürdigkeitssignale müssen Belege für Richtigkeit sein, nicht Dekoration um eine Behauptung.
-- **„Co-Design mit Nutzenden validiert das Design."** Co-Design beantwortet eine andere Frage als Wirksamkeit. Wenn ein Werkzeug mit Studierenden co-gestaltet wird und **96 % sagen, sie wollen es behalten**, ist das ein Befund über Akzeptanz. Ob das Lernen besser wurde, ist eine separate Messung, und die beiden können in entgegengesetzte Richtungen zeigen, ohne dass eine von ihnen falsch ist.
-- **„Agenten sind die nächste Fähigkeitsstufe."** Die Ablation der [[instructional-agents-multi-agent-course-gen|Instructional Agents]] ist das nützliche Gegenbeispiel: die Single-Agent-Baseline schnitt **am schlechtesten** ab, und die Full-Co-Pilot-Konfiguration **schlug die autonome**. Mehr Autonomie war nicht das bessere Design; die Co-Pilot-Anordnung war es. Architekturentscheidungen müssen bewertet werden, statt anzunehmen, dass sie mit der Fähigkeit besser werden.
+**Für Entwickler und Designer**
+
+- Stützen Sie eine Designbehauptung auf eine Studie, die Sie gelesen haben, nicht auf eine Effektstärke, die Sie zitiert haben. Da 14 geprüfte Metaanalysen methodisch versagen und eine zurückgezogene noch immer weiterverbreitet wird, ist die Zitationszahl kein Validitätssignal.
+- Testen Sie Autonomie als Variable, statt sie als Upgrade auszuliefern. Führen Sie die Ablationsstudie durch: Single-Agent, Co-Pilot, autonom. Das Ergebnis zu Instructional Agents zeigte, dass die Co-Pilot-Konfiguration gewann, daher sollte die Standardeinstellung diejenige sein, die messbar am besten abgeschnitten hat, nicht diejenige, die am leistungsfähigsten klingt.
+- Trennen Sie in Ihrem eigenen Evaluationsplan Akzeptanz von Wirksamkeit. Ein hoher Willingness-to-keep-Wert ist ein echtes Ergebnis, aber er ist kein Beleg für Lernen — und beide in einem Bericht zu vermischen, ist genau der Weg, auf dem ein schwaches Produkt stark erscheint.
+- Behandeln Sie Glaubwürdigkeitssignale als Manipulation mit messbarem Effekt. Das Hinzufügen von Quellenangaben ließ das Verwerfen einer korrekten Antwort von 15,0 % auf 31,8 % steigen; das Sichtbarmachen der Herkunft verändert also das Urteil der Nutzenden — gestalten Sie unter Berücksichtigung dieses Effekts, statt anzunehmen, dass die Herkunftsangabe lediglich informiert.
+
+**Für Lehrende, die ein Tool evaluieren**
+
+- Fragen Sie, wie das Tool für die Aufgabe evaluiert wurde, für die Sie es einsetzen möchten, und ob die Evaluation im Co-Pilot-Betrieb oder autonom erfolgte. Beides ist nicht austauschbar.
+- Fragen Sie, wann die Evaluation stattgefunden hat. Aussagen zur Leistungsfähigkeit, die an eine nicht genannte Modellversion gebunden sind, veralten schnell und beschreiben ein System, das Sie nicht betreiben werden.
 
 ## Was das für die Praxis bedeutet
 
-**Für Entwicklerinnen, Entwickler und Gestaltende**
-
-- Gründen Sie eine Designbehauptung in einer Studie, die Sie gelesen haben, nicht in einer Effektstärke, die Sie zitiert haben. Bei 14 geprüften Metaanalysen, die methodisch scheitern, und einer zurückgezogenen, die noch immer kursiert, ist die Zahl der Zitationen kein Validitätssignal.
-- Testen Sie Autonomie als Variable, statt sie als Upgrade auszuliefern. Führen Sie die Ablation durch: Single-Agent, Co-Pilot, autonom. Das Ergebnis der Instructional Agents zeigte, dass die Co-Pilot-Konfiguration gewann, also sollte die Voreinstellung die sein, die am besten gemessen wurde, nicht die, die am fähigsten klingt.
-- Trennen Sie Akzeptanz und Wirksamkeit in Ihrem eigenen Evaluationsplan. Eine hohe Bereitschaft, das Werkzeug zu behalten, ist ein echter Befund und kein Beleg für Lernen, und beides in einem Bericht zu vermengen, ist der Weg, auf dem ein schwaches Produkt stark aussieht.
-- Behandeln Sie Glaubwürdigkeitssignale als eine Manipulation mit gemessenem Effekt. Das Hinzufügen von Zitationen verschob die Abkehr von einer korrekten Antwort von 15,0 % auf 31,8 %, sodass das Sichtbarmachen von Herkunft das Urteil der Nutzenden verändert — gestalten Sie dafür, statt anzunehmen, dass es informiert.
-
-**Für Lehrkräfte, die ein Werkzeug prüfen**
-
-- Fragen Sie, wie das Werkzeug für die Aufgabe evaluiert wurde, für die Sie es nutzen wollen, und ob die Evaluation Co-Pilot oder autonom war. Die beiden sind nicht austauschbar.
-- Fragen Sie, wann die Evaluation stattfand. Fähigkeitsbehauptungen, die an eine ungenannte Modellversion gebunden sind, veralten schnell und beschreiben ein System, das Sie nicht betreiben werden.
+- **„Die Meta-Analysen stützen die Produktbehauptung.“** Das tun sie nicht, und der Grund ist ein spezifischer und keine Frage des Ausmaßes. Eine Überprüfung von **14 Meta-Analysen**, die behaupteten, KI verbessere Bildung, ergab, dass **keine ihre Behauptungen rechtfertigte** — alle bis auf zwei scheiterten an der Methodik —, und eine **zurückgezogene Meta-Analyse wurde weiterhin von 60% der späteren Publikationen in der Stichprobe als maßgeblich zitiert**. Der Rückzug verbreitete sich schneller als die Korrektur, was bedeutet, dass die Literatur, die eine Roadmap wahrscheinlich zitiert, Behauptungen enthält, die das Feld bereits zurückgezogen hat.
+- **„Das Hinzufügen von Quellenangaben und Provenienz macht ein System vertrauenswürdiger.“** In einem Debattenszenario mit [[agentic-ai|Multi-Agenten]] **führte das Hinzufügen von Quellenangaben und Autoritätssignalen zur Position der KI dazu, dass ein korrektes Urteil statt in 15,0 % in 31,8 % der Fälle verworfen wurde**. Provenienz war keine neutrale Information: Sie machte die falsche Antwort überzeugender. Glaubwürdigkeitssignale müssen Belege für Richtigkeit sein, nicht Dekoration um eine Behauptung herum.
+- **„Co-Design mit Nutzenden validiert das Design.“** Co-Design beantwortet eine andere Frage als die Wirksamkeit. Wenn ein Tool im Co-Design mit Lernenden entwickelt wird und **96 % angeben, dass sie es beibehalten wollen**, ist das ein Befund zur Akzeptanz. Ob sich das Lernen verbessert hat, ist eine davon getrennte Messung, und beide können in entgegengesetzte Richtungen weisen, ohne dass eine der beiden falsch wäre.
+- **„Agents sind die nächste Leistungsstufe."** Die [[instructional-agents-multi-agent-course-gen|Instructional Agents]]-Ablation ist das aufschlussreiche Gegenbeispiel: Die Single-Agent-Baseline schnitt **am schlechtesten** ab, und die Full Co-Pilot-Konfiguration **übertraf die Autonomous**-Konfiguration. Mehr Autonomie war nicht das bessere Design — das Co-Pilot-Arrangement war es. Architekturentscheidungen müssen evaluiert werden, statt anzunehmen, dass sie mit steigender Leistungsfähigkeit von selbst besser werden.
 
 ## Verbundene Konzepte
 

@@ -1,7 +1,7 @@
 ---
 title: KI-Missbrauch und Lernschaden
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -43,11 +43,11 @@ KI-Missbrauch ist von KI-Nutzung verschieden. Nutzung beschreibt den Einsatz von
 
 Antizipierter Schaden ist selbst dokumentiert: In schwedischen Befragungs- und Fokusgruppendaten fanden [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]], dass 51% der Teilnehmenden (n = 106) befürchteten, die GenAI-Nutzung könne die individuelle Entwicklung behindern, und dabei Verluste bei [[critical-thinking|kritischem Denken]], [[creativity|Kreativität]] und Autonomie nannten statt Regelverstöße.
 
-### Die Leistungs-Lern-Lücke
+## Die Leistungs-Lern-Lücke
 
 Das Kernkonzept, in [[genai-performance-vs-learning]] artikuliert, ist, dass generative KI mühelos **Leistung** steigert — unmittelbare Effizienz und Ausgabequalität —, während sie dabei oft jene tiefe kognitive und [[metacognition|metakognitive]] Verarbeitung umgeht, die für **Lernen** nötig ist. Ein Werkzeug, das auf Leistung optimiert, kann Lernen daher untergraben. Die Lücke ist inzwischen kausal im Feldmaßstab demonstriert: eine [[rct|randomisierte kontrollierte Studie]] fand, dass unbewachte KI-Assistenz die Übungsleistung hob, aber spätere ungestützte Prüfungsergebnisse senkte.
 
-### Mechanismen des Schadens
+## Mechanismen des Schadens
 
 - **[[cognitive-surrender]]** — der Begriff, den Forschende dafür verwenden, dass Lernende das Denken an KI auslagern, als passive, unreflektierte Abhängigkeit, im Unterschied zur absichtlichen, strategischen Form des [[cognitive-offloading|kognitiven Auslagerns]]. Sie erzeugt einen messbaren Rückgang dauerhaften Wissens auf Bevölkerungsebene.
 - **Antworten kopieren als Krücke** — Missbrauch wird weniger dadurch angetrieben, dass KI-Fehler Lernende in die Irre führen, als dadurch, dass Lernende Antworten kopieren statt zu lernen. Wenn Analysen des [[student-engagement|Engagements]] zeigen, dass Lernende überwiegend „nach der Antwort fragen“, folgt Lernschaden.
@@ -55,13 +55,13 @@ Das Kernkonzept, in [[genai-performance-vs-learning]] artikuliert, ist, dass gen
 - **Lernverdrängung** — die Substitution von KI-Ausgabe für jene anstrengungsvollen Prozesse (Elaboration, Abruf, Selbsterklärung), die Wissen konsolidieren, im Einklang mit [[cognitive-offloading|Over-Reliance]].
 - **Verwirrung als Absicht gelesen.** Wenn Lehrende die beabsichtigte Rolle der KI in einer Aufgabe nicht benennen, definieren Lernende sie über das, was am leichtesten ist, und Lehrkräfte lesen die resultierende Fehlanpassung als Betrug statt als eine Grenze, die nie formuliert wurde ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
-### Die Evidenzbasis
+## Die Evidenzbasis
 
 - **Kausale Feld-RCT (≈1,000 Mathematik-Lernende der Oberstufe):** ein unbewachter Tutor im ChatGPT-Stil hob die assistierte Übungsleistung um **+48%**, senkte aber die Ergebnisse der ungestützten, [[summative-assessment|Prüfung mit geschlossenem Buch]] um **−17%** — Lernende, die nie KI-Zugang hatten, übertrafen jene, die ihn hatten. Ein Tutor mit Leitplanken nach dem Muster „Hinweis statt Antwort“ beseitigte den Schaden. Bemerkenswert: Lernende im geschädigten Arm nahmen nicht wahr, dass sie weniger lernten.
 - **Verhaltensdaten auf Bevölkerungsskala (3.2M ALEKS-Interaktionen):** die Lernzeit an KI-anfälligen Problemen fiel nach der Veröffentlichung von ChatGPT für Studierende kumuliert um **−26.9%** (Oberstufe −31.3%), mit einem **Rückgang der Chancen um 25% auf eine richtige Antwort bei beaufsichtigten Behaltensitems**. Der Effekt verschwand unter Beaufsichtigung vollständig, was ihn auf KI-Nutzung außerhalb der Plattform festlegt.
 - **Ein großes Nullergebnis:** der saisonale Rückgang der ChatGPT-Nutzung über den Sommer zeigte **keine Nettoveränderung in den Durchschnittswerten standardisierter Oberstufentests** — vermutlich weil der Schaden durch Missbrauch in der Summe durch produktive KI-Nutzung ausgeglichen wird. Das widerspricht dem kausalen Schaden für dauerhaftes Lernen nicht; es mahnt davor, aus aggregierten Testergebnissen zu stark zu verallgemeinern.
 
-### Abhängigkeit als Weg zum Burnout
+## Abhängigkeit als Weg zum Burnout
 
 Missbrauch schadet mehr als der Leistung. Eine Befragung von 276 chinesischen Studierenden
 ([[ai-dependency-self-efficacy-teacher-support-burnout-2026|Huang et al., 2026]]) modellierte KI-Abhängigkeit als Mediator zwischen
@@ -75,51 +75,51 @@ sie ihre Wirkungen nachträglich abfedern. Die Autoren markieren einen Messvorbe
 Addiction Test adaptiert, und ihre Inhaltsvalidität für KI ist nicht etabliert —, sodass der Pfad besser als gut modellierte
 Hypothese denn als gesicherte Effektstärke zu behandeln ist.
 
-### Die assessmentabhängige Natur des Schadens
+## Die assessmentabhängige Natur des Schadens
 
 Die wichtigste praktische Differenzierung ist, dass der Schaden **selektiv nach Assessment-Art** ist. Er zeigt sich bei **beaufsichtigten, geschlossenen und ungestützten** Maßen dauerhaften Wissens. In normaler bewerteter Kursarbeit, die KI-assistierte von unabhängiger Arbeit nicht unterscheiden kann, kann Missbrauch unmittelbare Noten *aufblähen*. Das ist der Grund, warum die wahrgenommene-gegen-tatsächliche Lücke gefährlich ist: Lernende (und manchmal Lehrende) sehen kurzfristige Leistungsgewinne und übersehen die Erosion des Lernens, die erst auftritt, wenn das Werkzeug entfernt wird.
 
 **Welches Vertrauen, nicht wie viel davon.** Eine Befragung von 118 Studierenden über 12 KI-intensive Kurse ([[uneven-impact-generative-ai-student-learning-2026|Manikonda et al. 2026]]) trennt zwei Verhaltensweisen, die Maße der Nutzungshäufigkeit zusammenfallen lassen. **Kognitives Vertrauen** — GenAI nutzen, um zu ordnen, zu bewerten, zu kombinieren und zu zerlegen — war der stärkste Prädiktor wahrgenommener positiver Wirkung (β = .495, p < .001), und das von ihm beschriebene Auslagern ist nicht durchweg schädlich: das Ordnen und Zusammenfassen von Ideen und das Entdecken neuer Einsichten zählten zu den Merkmalen, die mit verbessertem wahrgenommenen Lernen verbunden waren. **Frühes Vertrauen** — GenAI *vor* eigenem Denken, einer traditionellen Suche oder einer Lehrkraft zu konsultieren — sagte akademischen Nutzen (β = .301, p < .001) *und* negative Wirkung (β = .402, p = .004) zugleich voraus. Die Moderation ist der Teil, der für die oben genannte Kompetenz-Abhilfe trägt: der Zusammenhang zwischen frühem Vertrauen und negativer Wirkung fehlte bei geringer [[ai-literacy|Bewertungskompetenz]] (b = .025, p = .861) und war am stärksten bei den Studierenden, die KI-Ausgaben am besten beurteilen (b = .688, p < .001), sodass evaluative Fähigkeit nicht vor den Kosten schützte, KI zuerst zu fragen — die am besten platzierten Studierenden, um die Kosten zu bemerken, waren diejenigen, die sie berichteten. Die operationale Implikation ist, dass Missbrauch zum Teil eine Frage des *Timings* relativ zum eigenen Versuch der lernenden Person ist, nicht nur des Umfangs, weshalb Interventionen, die darauf abzielen, wann KI konsultiert wird, neben den unten genannten Abhilfen im Assessment-Design stehen.
 
-### Implikationen und Abhilfen
+## Implikationen und Abhilfen
 
 - **[[guardrails|Leitplanken]] statt rohem Zugang:** [[prompt-engineering|Prompting]] nach dem Muster „Hinweis statt Antwort“ und von Lehrenden verfasstes [[scaffolding|Scaffolding]] neutralisieren den Krückeneffekt (siehe [[generative-ai-guardrails-harm-learning]]).
 - **[[assessment|Assessment-Design]]:** KI-resistente und beaufsichtigte/ungestützte Assessments sind nötig, um Missbrauch sichtbar zu machen — und zu entmutigen.
 - **Kompetenz und Metakognition:** Training in [[ai-literacy|KI-Kompetenz]] und [[self-regulated-learning|Selbstregulation]], das Studierenden hilft, Vertrauensmuster und die Kosten der Umgehung der eigenen kognitiven Arbeit zu erkennen.
 
-### Konversationelles Desengagement im Zeitalter von LLMs
+## Konversationelles Desengagement im Zeitalter von LLMs
 
 Die Literatur zum Gaming-the-System (Hinweismissbrauch, systematisches Raten) hat ein Pendant im Dialogzeitalter: konversationelles Desengagement — den Agenten verhöhnen, absichtlich falsch antworten, ihn ignorieren, seinen Text spiegeln oder Antworten vorenthalten. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] geben diesem Phänomen in der [[student-ai-interaction|Dialogforschung zu Studierenden und KI]] seine erste systematische Behandlung, und seine zentrale Lehre ist interpretativ statt alarmistisch. Eine desengagierte *Wendung* ist ein interaktionaler Zug, kein stabiler Zustand des Desengagements. Die scheinbare Assoziation des False Answering mit Post-Test-Punkten überlebte eine menschlich annotierte Sensitivitätsprüfung nicht, und die Autor:innen lesen sie als Sondierung *innerhalb* von Trajektorien, die oft zum Engagement zurückkehren (das leistungsstärkste Cluster erholte sich bei p = 0.42). Das Verhalten, das die Trajektorien tatsächlich trennte, war Withholding — die Weigerung zu antworten, die eher persistierte, als dass sie sich auflöste. Für Gestaltende kehrt das die übliche Priorität um: lautes, sichtbares Desengagement korrigiert sich oft selbst, während stiller Rückzug signalisiert, dass die Interaktion zusammengebrochen ist.
 
 ## Verbreitete Fehlvorstellungen
 
-**„Studierende würden bemerken, wenn KI ihrem Lernen schadet."** Sie bemerken es nicht, und das ist der folgenreichste Einzelbefund dieser Seite: **Studierende in der geschädigten Gruppe nahmen nicht wahr, dass sie weniger lernten.** [[self-report-measures|Selbstauskunft]] ist damit kein brauchbares Frühwarnsignal. Das Muster von 48% höherer Übungsleistung und 17% niedrigerem Prüfungsergebnis ist für die Person, die es erlebt, unsichtbar, weshalb Schadenserkennung messbasiert statt aussagebasiert sein muss.
-
-**„Das Risiko ist, wie viel KI eine studierende Person nutzt."** Das Risiko ist, wofür die KI substituiert wird. Missbrauch bedeutet hier, das Entwerfen, Abrufen oder Analysieren zu delegieren, das dauerhaftes Verständnis aufbaut — Substitution statt Ergänzung, und eine studierende Person kann in einer Aufgabe stark substituieren und in der nächsten produktiv ergänzen. Die Nutzungsmenge ist die falsche Variable; die Teilung der kognitiven Arbeit ist die richtige.
-
-**„Wenn die Übungsleistung steigt, funktioniert das Werkzeug."** Im kausalen Feld-RCT mit rund 1.000 Mathematik-Lernenden der Oberstufe hob ein ungeschützter Tutor im ChatGPT-Stil die assistierte Übungsleistung um **+48%**, während er unbegleitete [[summative-assessment|Klausurergebnisse]] um **17%** *senkte*. Die Richtungen sind entgegengesetzt, sodass jede Evaluation, die die Übungszahl als Ergebnis liest, genau den Schaden zertifiziert, den sie erkennen soll.
-
-**„Lernende, die KI nutzen, sorgen sich vor allem darum, erwischt zu werden."** Ihre geäußerten Sorgen sind entwicklungsbezogen. In einer Studie befürchteten **51% der Teilnehmenden (n = 106)**, dass GenAI-Nutzung die individuelle Entwicklung behindern könne, und nannten Verluste bei [[critical-thinking|kritischem Denken]], Kreativität und Autonomie statt Regelverstöße. Die [[academic-integrity|Integritäts]]-Rahmung, die den institutionellen Diskurs dominiert, ist nicht die, zu der Studierende selbst greifen.
-
-## Implikationen für die Praxis
-
 **Für Lehrende**
 
-- Fragen Sie Studierende nicht, ob das Werkzeug geholfen hat; messen Sie unbegleitete Leistung. Der subjektive Bericht der geschädigten Gruppe war beruhigend und falsch.
-- Gestalten Sie Aufgabe für Aufgabe auf Ergänzung statt Substitution und legen Sie fest, was die studierende Person produzieren muss, bevor die KI genutzt werden darf.
-- Achten Sie auf steigende Übungsnoten bei gleichbleibenden oder fallenden unbegleiteten Ergebnissen — diese Divergenz ist die Signatur, auf die zu reagieren ist, kein Datenqualitätsproblem.
-- Nehmen Sie die entwicklungsbezogene Sorge in der Rahmung ernst. Studierende, die Verluste bei kritischem Denken und Autonomie ansprechen, beschreiben den Mechanismus des Schadens, nicht Widerstand gegen eine Regel.
+- Fragen Sie Studierende nicht, ob das Tool geholfen hat; messen Sie die Leistung ohne Unterstützung. Der subjektive Bericht der geschädigten Gruppe war beruhigend und falsch.
+- Gestalten Sie Aufgabe für Aufgabe auf Komplementarität statt Substitution und legen Sie fest, was die Studierenden selbst erbringen müssen, bevor die KI eingesetzt werden darf.
+- Achten Sie auf steigende Noten in den Übungsaufgaben bei gleichzeitig stagnierenden oder fallenden Ergebnissen ohne Unterstützung — diese Divergenz ist das Signal zum Handeln, kein Problem der Datenqualität.
+- Nehmen Sie die entwicklungsbezogene Sorge bei der Rahmung ernst. Studierende, die Verluste beim kritischen Denken und bei der Autonomie benennen, beschreiben den Mechanismus der Schädigung und widersetzen sich nicht einer Regel.
 
-**Für Entwickelnde**
+**Für Entwickler**
 
-- Instrumentieren Sie assistierte und unbegleitete Leistung und stellen Sie nie nur die erste als Lernen dar.
-- Fügen Sie „fanden Sie das hilfreich?" nicht als Lernmaß hinzu; es blieb stabil, während das Lernen fiel.
-- Bauen Sie die Substitutionsgrenze in die Interaktion — das mit Leitplanken versehene Hinweis-statt-Antwort-Design beseitigte den Schaden in derselben Experimentfamilie.
+- Erfassen Sie sowohl die Leistung mit als auch die ohne Unterstützung und präsentieren Sie niemals nur die erstere als Lernen.
+- Nehmen Sie „Fanden Sie das hilfreich?" nicht als Lernmaß auf; dieser Wert blieb stabil, während das Lernen zurückging.
+- Verankern Sie die Substitutionsgrenze in der Interaktion — das durch Guardrails abgesicherte Hinweis-statt-Antwort-Design beseitigte den Schaden in derselben Experimentfamilie.
 
 **Für Forschende**
 
-- Berichten Sie immer das unbegleitete Maß und berichten Sie die Wahrnehmung daneben statt an seiner Stelle.
-- Berichten Sie die Substitutionsstruktur der Aufgabe, nicht nur die Nutzungshäufigkeit, wenn Sie Schaden zuschreiben.
+- Berichten Sie immer das Maß ohne Unterstützung, und berichten Sie die Wahrnehmung zusätzlich dazu und nicht anstelle davon.
+- Berichten Sie bei der Zuschreibung von Schäden die Substitutionsstruktur der Aufgabe, nicht nur die Nutzungshäufigkeit.
+
+## Implikationen für die Praxis
+
+**„Lernende würden merken, wenn KI ihrem Lernen schadet."** Sie merken es nicht, und das ist die folgenreichste Tatsache in der gesamten Evidenz: **Diejenigen in der geschädigten Gruppe berichteten nicht das Gefühl, weniger hinzugelernt zu haben.** [[self-report-measures|Selbstauskunft]] ist daher kein brauchbares Frühwarnsignal. Das Muster aus 48 % mehr Übungsleistung / 17 % schlechterer Prüfungsleistung ist für die Person, die es durchlebt, unsichtbar — deshalb muss die Erkennung von Schäden auf Messung statt auf Aussagen beruhen.
+
+**„Das Risiko liegt darin, wie viel KI eine lernende Person nutzt."** Das Risiko liegt darin, wofür die KI substituiert wird. Missbrauch bedeutet hier, jenes Verfassen, Abrufen oder Analysieren zu delegieren, das dauerhaftes Verständnis aufbaut — Substitution statt Ergänzung, und Lernende können bei einer Aufgabe stark substituieren und bei der nächsten produktiv ergänzen. Das Nutzungsausmaß ist die falsche Variable; die Verteilung der kognitiven Arbeit ist die richtige.
+
+**„Wenn sich die Übungsleistung verbessert, funktioniert das Tool."** Im kausalen Feld-RCT mit rund 1.000 Mathematikschülerinnen und -schülern der Sekundarstufe steigerte ein nicht abgesicherter ChatGPT-artiger Tutor die Übungsleistung mit Unterstützung um **+48 %**, während er die Ergebnisse in der [[summative-assessment|Prüfung ohne Hilfsmittel]] ohne Unterstützung um **17 %** *senkte*. Die Richtungen sind entgegengesetzt — jede Evaluation, die die Übungszahl als Ergebnis liest, wird also genau den Schaden absegnen, den sie eigentlich aufdecken soll.
+
+**„Lernende, die KI nutzen, sorgen sich vor allem darum, erwischt zu werden."** Ihre geäußerten Sorgen betreffen die eigene Entwicklung. In einer Studie befürchteten **51 % der Teilnehmenden (n = 106)**, dass die Nutzung von GenAI die individuelle Entwicklung beeinträchtigen könnte; sie nannten Einbußen an [[critical-thinking|kritischem Denken]], Kreativität und Autonomie und nicht Regelverstöße. Das Framing der [[academic-integrity|Integrität]], das den institutionellen Diskurs dominiert, ist nicht dasjenige, zu dem die Lernenden selbst greifen.
 
 ## Verbundene Konzepte
 

@@ -1,14 +1,14 @@
 ---
 title: Vorwissen
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -59,8 +59,9 @@ Generative KI hat Vorwissen zu einer zentralen Designbetrachtung statt zu einer 
 - **Vorwissen prägt das Muster der Auslagerung, nicht nur Ergebnisse.** In einer Synthese-Schreibstudie verfasste der hohes-Wissen-minimale-Auslagerung-Cluster 80% seines Aufsatzes gegen 2% für den stärksten Auslagerungscluster (Mittel 25.1 Prompts), sodass Promptvolumen Vorwissen verfolgte statt Anstrengung ([[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]]).
 - **Die Nutzenlücke akkumuliert.** Weil produktive KI-Nutzung davon abhängt, was eine lernende Person bereits weiß, nutzen Studierende mit stärkerem Vorwissen sie besser, während Novizen am wahrscheinlichsten sie als Ersatz behandeln —, ein distributionales Risiko, das Leistungslücken verbreitern kann, selbst wenn Zugang gleich ist ([[lodge-loble-cognitive-offloading-2026|Lodge & Loble (2026)]]).
 - **Priming und Aktivierung als Design.** [[genai-mindtool-generative-learning|GenAI-Mindtool-Ansätze]] „primen die Lernaufgabe“ bewusst, indem sie Vorwissen und Neugier durch Promptfragen, KI-generierte Visuals und Analogien aktivieren (z. B. „Was wissen Sie bereits über Ökosysteme?“), bevor neue Inhalte eingeführt werden —, wobei sie den Abruf-und-Integrations-Pfad modellieren statt den Antwort-liefern-Pfad.
-- **Lernendenmodellierung und Gedächtnis.** KI-Systeme modellieren zunehmend den Vorwissensstand und das longitudinale Gedächtnis von Lernenden (z. B. Einbau von Vorwissensstand und Vergessenskurven in Tutoringsgedächtnis), was Spaced Repetition und adaptive Review ermöglicht, die auf dem aufbauen, was jede lernende Person bereits weiß.([[nie-personavlm-long-term-personalization-2026]])
+- **Lernendenmodellierung und Gedächtnis.** KI-Systeme modellieren zunehmend den Vorwissensstand und das longitudinale Gedächtnis von Lernenden (z. B. Einbau von Vorwissensstand und Vergessenskurven in Tutoringsgedächtnis), was Spaced Repetition und adaptive Review ermöglicht, die auf dem aufbauen, was jede lernende Person bereits weiß.([[nie-personavlm-long-term-personalization-2026|Nie et al., 2026]])
 - **Ein Personalisierungs-Adaptionshebel.** Weil Lernende in Vorwissen breit divergieren, muss Anpassung auf das Individuum abgestimmt werden —, ein Kernargument für [[personalized-learning|personalisiertes Lernen]] und adaptiven [[scaffolding|Gerüstbau]], die Lernende auf ihrem tatsächlichen aktuellen Stand treffen statt auf einer Klassenmittelannahme.
+- **Vorwissen war das einzige Lernendenmerkmal, das adaptive Unterstützung moderierte.** Lernende, die die Inhalte bereits kannten, profitierten stärker (g = 0,74, 95% CI [0,42, 1,05]) als jene, die sie nicht kannten (g = 0,63 [0,46, 0,80]), und beide profitierten, was dazu passt, dass Adaptivität redundante Hilfe zurücknimmt, statt einen Expertise-Reversal-Effekt zu erzeugen ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## Folgerungen für die Gestaltung von KI in der Bildung
 

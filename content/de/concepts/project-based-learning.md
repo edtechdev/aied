@@ -1,14 +1,14 @@
 ---
 title: Projektbasiertes Lernen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -68,24 +68,24 @@ PBL verbindet sich mit [[active-learning|aktivem Lernen]], [[experiential-learni
 
 ## Verbreitete Fehlvorstellungen
 
-- **„Der PBL-Effekt ist groß, also ist PBL mit KI zuverlässig groß."** Die einzige Drei-Ebenen-Metaanalyse zu dieser Paarung bündelt **22 kontrollierte Studien (66 Effektstärken)** und schätzt einen großen Effekt, **g = 0.819, 95% CI [0.655, 0.983]** — doch eine PET-PEESE-Korrektur reduziert ihn, und die Schätzung beschreibt die gebündelten Studien statt das Design im Allgemeinen.
-- **„Das Werkzeug anzupassen verbessert das Ergebnis."** Der Werkzeugtyp moderierte den Effekt signifikant (**QM = 14.301, p < .001**), und die Richtung ist kontraintuitiv: ein **direkt genutzter allgemeiner Chatbot bündelte höher (g = 0.970)** als Systeme, die **in Kursplattformen, virtuelle Patientinnen und Patienten oder Agenten angepasst wurden (g = 0.455)**. Das nackte Werkzeug übertraf das konstruierte, was dagegen spricht, zweckgebaute Produkte als den besseren Kauf anzunehmen.
-- **„Studierende finden Offenheit das Schwierige."** In den Studierendenwahrnehmungsdaten war **Offenheit das stärkste positive Thema (22,3%)**, während **unklare Instruktionen die negativen anführten (23,7%)**. Studierende begrüßten die Freiheit und beanstandeten die Mehrdeutigkeit — eine Unterscheidung, die zählt, weil die Abhilfe eine andere ist: klarere Aufgabenrahmung, nicht weniger offene Arbeit.
-- **„Studierende, denen es gefiel, lernten mehr."** Wahrgenommenes Lernen korrelierte nur **bescheiden (r = 0,161–0,315)** mit Quizwerten. Zufriedenheit und gemessenes Lernen sind hier schwach verbunden, sodass eine positive PBL-Evaluation für sich genommen kein Beleg dafür ist, dass die Lernziele erreicht wurden.
-
-## Was das für die Praxis bedeutet
-
 **Für Lehrende**
 
-- Schreiben Sie die Aufgabenrahmung vor der Werkzeugwahl. Offenheit war das stärkste positive Thema (22,3%) und unklare Instruktionen das stärkste negative (23,7%), die Mehrdeutigkeit ist also der Punkt, an dem PBL mit KI tatsächlich scheitert.
-- Bewerten Sie Lernen getrennt von Zufriedenheit. Wahrgenommenes Lernen korrelierte nur bei r = 0,161–0,315 mit Quizwerten, eine zufriedene Kohorte ist also kein gemessenes Ergebnis.
-- Erwägen Sie den allgemeinen Chatbot vor der angepassten Plattform. Ein direkt genutzter allgemeiner Chatbot bündelte höher (g = 0.970) als Systeme, die in Kursplattformen, virtuelle Patientinnen und Patienten oder Agenten angepasst wurden (g = 0.455).
-- Behandeln Sie g = 0.819 als Obergrenze. Eine PET-PEESE-Korrektur reduziert ihn, und 22 Studien mit 66 Effektstärken sind eine schmale Basis für eine Designbehauptung.
+- Schreiben Sie die Aufgabenrahmung, bevor Sie das Werkzeug wählen. Offenheit war das stärkste positive Thema (22,3%) und unklare Instruktionen das stärkste negative (23,7%) — die Mehrdeutigkeit ist also die Stelle, an der PBL mit KI tatsächlich scheitert.
+- Bewerten Sie Lernen getrennt von Zufriedenheit. Wahrgenommenes Lernen korrelierte nur mit r = 0,161–0,315 mit den Quizwerten, eine zufriedene Lerngruppe ist also kein gemessenes Lernergebnis.
+- Prüfen Sie den allgemeinen Chatbot, bevor Sie zur angepassten Plattform greifen. Ein direkt genutzter allgemeiner Chatbot bündelte höher (g = 0,970) als Systeme, die in Kursplattformen, virtuelle Patientinnen und Patienten oder Agenten angepasst wurden (g = 0,455).
+- Behandeln Sie g = 0,819 als Obergrenze. Eine PET-PEESE-Korrektur reduziert ihn, und 22 Studien mit 66 Effektstärken sind eine schmale Basis für eine Aussage über das Design.
 
 **Für Entwicklerinnen und Entwickler**
 
-- Der Moderationsbefund ist eine Produktwarnung: einen Chatbot in eine maßgeschneiderte Umgebung zu bauen ging mit einem *kleineren* gebündelten Effekt einher. Prüfen Sie, ob die Anpassung Lernwert hinzufügt, statt Bequemlichkeit anzunehmen.
-- Wenn Sie ein PBL-Modul ausliefern, ist die Instruktionsschicht das Merkmal, das das Ergebnis erzielt, nicht das Modell.
+- Der Moderationsbefund ist eine Produktwarnung: Einen Chatbot in eine maßgeschneiderte Umgebung zu integrieren ging mit einem *kleineren* gebündelten Effekt einher. Weisen Sie nach, dass die Anpassung Lernwert hinzufügt und nicht nur vermutete Bequemlichkeit.
+- Wenn Sie ein PBL-Modul ausliefern, ist die Instruktionsebene das Merkmal, das den Erfolg trägt, nicht das Modell.
+
+## Was das für die Praxis bedeutet
+
+- **„Der Effekt von PBL ist groß, also ist PBL mit KI zuverlässig groß."** Die einzige dreistufige Metaanalyse dieser Paarung bündelt **22 kontrollierte Studien (66 Effektstärken)** und schätzt einen großen Effekt, **g = 0,819, 95% CI [0,655, 0,983]** — aber eine PET-PEESE-Korrektur reduziert ihn, und die Schätzung beschreibt die gebündelten Studien und nicht das Design im Allgemeinen.
+- **„Das Werkzeug anzupassen verbessert das Ergebnis."** Der Werkzeugtyp moderierte den Effekt signifikant (**QM = 14,301, p < 0,001**), und die Richtung ist kontraintuitiv: Ein **direkt genutzter allgemeiner Chatbot bündelte höher (g = 0,970)** als Systeme, die **in Kursplattformen, virtuelle Patientinnen und Patienten oder Agenten angepasst wurden (g = 0,455)**. Das bloße Werkzeug übertraf das eigens entwickelte, was dagegen spricht, anzunehmen, dass maßgeschneiderte Produkte der bessere Kauf sind.
+- **„Für Studierende ist die Offenheit das Schwierige."** In den Daten zur Studierendenwahrnehmung war **Offenheit das stärkste positive Thema (22,3%)**, während **unklare Instruktionen die Negativthemen anführten (23,7%)**. Die Studierenden begrüßten die Freiheit und beanstandeten die Mehrdeutigkeit — eine Unterscheidung, die zählt, weil die Abhilfe eine andere ist: klarere Aufgabenrahmung, nicht weniger offene Arbeit.
+- **„Studierende, denen es Freude machte, lernten mehr."** Wahrgenommenes Lernen korrelierte nur **moderat mit Quizwerten (r = 0,161–0,315)**. Zufriedenheit und gemessenes Lernen hängen hier nur schwach zusammen, eine positive PBL-Evaluation ist also für sich genommen kein Beleg dafür, dass die Lernziele erreicht wurden.
 
 ## Verbundene Konzepte
 

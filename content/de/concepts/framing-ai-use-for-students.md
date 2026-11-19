@@ -1,7 +1,7 @@
 ---
 title: Die Einordnung der KI-Nutzung für Studierende
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -77,7 +77,9 @@ Einordnung verbindet sich mit [[motivation|Motivation]] über die [[self-determi
 
 ## Medien und öffentliche Einordnung
 
-Studierende werden auch durch den weiteren Mediendiskurs und den öffentlichen Diskurs um [[ai-education|KI in der Bildung]] eingeordnet, was ihre Basis-Erwartungen vor jeder Botschaft des Lehrpersonals formt. Analysen öffentlichen Diskurses und dessen, wie Plattformen wie YouTube ChatGPT-Nutzung in der Bildung einordnen, zeigen, dass vorherrschende Rahmen — Hype, Doom oder Pragmatismus — beeinflussen, wie Lernende und [[teacher-role|Bildungsakteure]] sich der Technologie nähern.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Wirksame Einordnung durch Lehrende bedeutet oft, diesen Umgebungsnarrativen absichtsvoll entgegenzuwirken oder sie umzuleiten.
+Studierende werden zudem durch den breiteren Medien- und öffentlichen Diskurs über [[ai-education|KI in der Bildung]] gerahmt, der ihre grundlegenden Erwartungen prägt, noch bevor eine Lehrkraft überhaupt eine Botschaft vermittelt. Analysen des öffentlichen Diskurses und der Art und Weise, wie Plattformen wie YouTube die Nutzung von ChatGPT in der Bildung rahmen, zeigen, dass vorherrschende Frames — Hype, Untergangsstimmung oder Pragmatismus — beeinflussen, wie Lernende und [[teacher-role|Lehrkräfte]] mit der Technologie umgehen.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse|Bagale et al., 2026]]) Wirksames Framing durch Lehrkräfte bedeutet häufig, diesen allgegenwärtigen Narrativen bewusst entgegenzuwirken oder sie in eine andere Richtung zu lenken.
+
+Der Frame bestimmt auch nachgelagert den Marktwert des Abschlusses mit: Bei ~1.750 US-Personalverantwortlichen senkte es die Wahrscheinlichkeit einer Einladung zum Vorstellungsgespräch und die Bereitschaft zu Gehaltsverhandlungen, wenn die KI-Nutzung von Studierenden als Ersatz statt als Unterstützung beschrieben wurde — am deutlichsten bei Bewerbenden mit hohem GPA ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Praktische Orientierung
 

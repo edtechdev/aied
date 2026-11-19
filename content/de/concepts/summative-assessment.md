@@ -1,7 +1,7 @@
 ---
 title: Summatives Assessment
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -55,10 +55,12 @@ Die Forschung der Wissensbasis dokumentiert, wie generative KI die Landschaft su
 
 ## KI-resistente summative Formate
 
-Ein zentrales Thema in der Wissensbasis ist, dass **summatives Format KI-Widerstand bestimmt** — je mehr eine Aufgabe live, persönlich, individuell gesondierte Leistung verlangt, desto schwerer ist es für Studierende, KI für ihr eigenes Lernen zu substituieren.
+Ein zentrales Thema in der Forschung ist, dass **summatives Format KI-Widerstand bestimmt** — je mehr eine Aufgabe live, persönlich, individuell gesonderte Leistung verlangt, desto schwerer ist es für Studierende, KI für ihr eigenes Lernen zu substituieren.
+
+KI-resistente Formate verteidigen die Note, statt sie neu zu denken: beaufsichtigte Klausuren und mündliche Prüfungen stabilisieren bestehende Werte und Praktiken, sodass die Reform bei der Notenübersicht Halt macht und nicht bei dem, was eine Note repräsentiert ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 - **[[oral-assessment|Mündliche Prüfungen]] und Assessments.** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] argumentiert, die mündliche Prüfung sei ein technisch einfaches, inhärent KI-resistentes summatives Format: ihr interaktiver Dialog in Echtzeit prüft Verständnis, [[critical-thinking|kritisches Denken]] und Schlussfolgern statt Auswendiglernen, hindert Studierende daran, KI zu nutzen, um Antworten zu erzeugen und auswendig zu lernen, und spiegelt professionelle Praxis. [[socratic-tests-conversational-assessment|Sokratische Tests]] und [[code-review-genai-cs1|Code-Review-Interviews]] erweitern dies auf dynamisches, konversationelles und interviewbasiertes summatives Assessment.
-- **Geschlossene, beaufsichtigte, ungestützte Maße.** [[generative-ai-reduced-study-time-math|Evidenz]] und [[stromberg-generative-ai-learning-penalty-secondary-2026|groß angelegte Felddaten]] zeigen, dass beaufsichtigte geschlossene Prüfungen — nicht aufgeblähte Hausaufgaben oder Take-home-Arbeit — das verlässliche Signal tatsächlichen Lernens sind, wenn Studierende KI nutzen. Rahmenwerke für [[responsible-assessment-ai-era-stanford-2026|verantwortungsvolles Assessment]] betten diese ungestützten Maße in eine validitätsgetriebene Neugestaltung ein. Wo Prüfungen online bleiben, übernimmt [[remote-proctoring|Fernaufsicht]] diese Rolle, und die zwei Reviews des Korpus zu automatisierter Aufsicht finden Datenschutz- und [[bias-mitigation|Fairness]]bedenken neben Detektionsgewinnen ([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).
+- **Geschlossene, beaufsichtigte, ungestützte Maße.** [[generative-ai-reduced-study-time-math|Evidenz]] und [[stromberg-generative-ai-learning-penalty-secondary-2026|groß angelegte Felddaten]] zeigen, dass beaufsichtigte geschlossene Prüfungen — nicht aufgeblähte Hausaufgaben oder Take-home-Arbeit — das verlässliche Signal tatsächlichen Lernens sind, wenn Studierende KI nutzen. Rahmenwerke für [[responsible-assessment-ai-era-stanford-2026|verantwortungsvolles Assessment]] betten diese ungestützten Maße in eine validitätsgetriebene Neugestaltung ein. Wo Prüfungen online bleiben, übernimmt [[remote-proctoring|Fernaufsicht]] diese Rolle, und zwei Reviews zu automatisierter Aufsicht finden Datenschutz- und [[bias-mitigation|Fairness]]bedenken neben Detektionsgewinnen ([[automated-online-exam-proctoring-decade-review-2026|Malhotra et al. (2026)]], [[academic-dishonesty-automated-proctoring-ai-2026|Malhotra et al. (2026)]]).
 
 - **Eine verletzliche Aufgabe mit einem bestätigenden Zwilling paaren.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] behalten eine GenAI-verletzliche Aufgabe wegen ihres Lernwerts, paaren sie aber mit einer zweiten Aufgabe, die dieselben Ergebnisse bewertet, und machen die Benotung durch einen bestätigenden Schwellenwert oder eine Gewichtung interdependent, sodass der Zwilling das Ergebnis zertifiziert.
 

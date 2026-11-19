@@ -1,7 +1,7 @@
 ---
 title: Nachhaltigkeit
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -96,13 +96,15 @@ Nachhaltigkeit und KI in der Bildung sitzt an der Schnittmenge von [[ethics|Ethi
 - [[open-source]]
 
 ## Verbundene Artikel
+
+- [[lim-ai-wearables-environmental-empathy-2024]] — Wearable EDA plus KI-generierte Bilder von Umweltverschmutzung erhöhten das Arousal, ohne Umweltverantwortung zu messen (Lim et al., 2024)
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — Schwedische Umfrage- und Fokusgruppenstudie, die argumentiert, dass Partnerschaftsethik statt eines Betrugsrahmens institutionelle GenAI-Entscheidungen leiten sollte
 - [[daniel-ai-sustainability-scoping-review-2026]] — Scoping Review zu KI für Nachhaltigkeit und nachhaltiger KI in der Hochschulbildung
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Wertkritischer Zugang zu nachhaltiger Bildung und KI
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE-Framework für nachhaltige Ingenieurbildung
 - [[riandi-teacher-ai-green-energy-education-2026]] — Einbindung von Lehrkräften in die KI-Integration für Bildung zu grüner Energie
 - [[talebzadeh-ai-green-education-2026]] — Die Rolle von KI in grüner Bildung
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Nachhaltige Wissensbasis-Assistenten
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Nachhaltige KI-Wissensbasis-Assistenten
 - [[llm-environmental-impact-student-usage-2026]] — Umweltauswirkungen der LLM-Nutzung
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Nachhaltiges Lernen durch verkörperte Intelligenz fördern
-- [[caruana-pre-university-ai-education-slr-2026]] — Systematischer Review der KI-Bildung vor der Universität (SDG-4-Rahmung)
+- [[caruana-pre-university-ai-education-slr-2026]] — SLR zur KI-Bildung vor der Universität (SDG-4-Rahmung)

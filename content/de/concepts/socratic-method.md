@@ -1,7 +1,7 @@
 ---
 title: Sokratische Methode
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -12,7 +12,7 @@ connected_resources: [matt-pocock-skills, context-aideatext]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -81,14 +81,15 @@ Die Lücke zwischen „wissensbasierten Fähigkeiten" (4,0/5) und „Gesamtwirks
 - Sokratischer Dialog ist aufwändig; Studierende ziehen aus Effizienzgründen möglicherweise direkte Antworten vor
 - Der Chatbot kann die relationale Unterstützung einer menschlichen Tutorin oder eines menschlichen Tutors nicht leisten
 - Manche Studierende bleiben möglicherweise in sokratischen Schleifen ohne Auflösung stecken
+- Die Umsetzung kann stärker variieren, als das Design vorsieht. In einem C++-Kurs war das Item, das erfragte, ob der Chatbot reflexive Fragen oder Anwendungsfragen stellte, mit 3,86 von 5 (SD 1,24) das niedrigste und am stärksten streuende der Befragung, was die Autoren als uneinheitliche Umsetzung dessen lesen, was der System-Prompt benannte ([[jackson-ai-chatbots-learning-assistants-cs-2026|Jackson, Mware und Jiang (2026)]]).
 
 ### Ein Gegenbefund: uneingeschränkter Zugang kann eingeschränkte Modi übertreffen
 
 Nicht alle Belege sprechen dafür, die KI einzuschränken. [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna & Maes, 2026)]], eine randomisierte EEG-Studie mit 50 Teilnehmenden, die einen uneingeschränkten Chatbot im ChatGPT-Stil, einen sokratischen Modus mit ausschließlich Hinweisen und einen adaptiven Modus mit begrenzten Fragen bei einer Lernaufgabe zur nuklearen Sicherheit verglich, fand, dass der **uneingeschränkte Chatbot höhere Lernzuwächse** erzielte als beide eingeschränkten Modi (*p* < .03, *d* > 0,80) — obwohl die **adaptive Bedingung ein signifikant höheres EEG-gemessenes [[student-engagement|kognitives Engagement]]** erzeugte (*p* = .018). Das Ergebnis verkompliziert die Annahme, dass pädagogisch eingeschränkte (sokratische) Interaktion stets tieferes Lernen hervorbringt: Bei kurzfristigem Faktenlernen siegte der freie Zugang, während die Einschränkung des Zugangs das gemessene kognitive Engagement erhöhte, ohne es in höhere unmittelbare Post-Test-Zuwächse zu überführen. Das ist ein nützlicher Kalibrierungspunkt neben den stärkeren [[learning-gains|Lernergebnissen]] oben: Einschränkung kann Engagement steigern, aber die Umsetzung von Engagement in Behalten ist nicht automatisch, und eine zu starke Einschränkung frustriert möglicherweise einfach Lernende, die Antworten suchen.
 
-Die stärkste kausale Unterstützung für Einschränkung zeigt in die andere Richtung: In einem [[k-12|K-12]]-Review schnitten Schülerinnen und Schüler der Oberstufe, die einen allgemeinen Chatbot nutzten, bei Abschlussklausuren ohne Hilfsmittel etwa 17% schlechter ab als Gleichaltrige ohne KI-Zugang, während ein tutorienspezifischer Bot mit abgestuften Hinweisen und der Weigerung, direkte Antworten zu geben, den Rückgang abmilderte ([[stanford-evidence-base-ai-k12-2026|Stanford SCALE Initiative (2026)]]).
+Die stärkste kausale Unterstützung für Einschränkung zeigt in die andere Richtung: In einem [[k-12]]-Review schnitten Schülerinnen und Schüler der Oberstufe, die einen allgemeinen Chatbot nutzten, bei Abschlussklausuren ohne Hilfsmittel etwa 17% schlechter ab als Gleichaltrige ohne KI-Zugang, während ein tutorienspezifischer Bot mit abgestuften Hinweisen und der Weigerung, direkte Antworten zu geben, den Rückgang abmilderte ([[stanford-evidence-base-ai-k12-2026|Stanford SCALE Initiative (2026)]]).
 
-- **Ein sokratischer Tutor mit vollem Kontext kann als schlechtester von vieren bewertet werden.** In einer 2×2 [[rct|randomisierten Studie]] mit 132 Studierenden in einer Einführung zu Python erzielte der GPT-4o-Assistent mit sokratischem Fragen und vollem Problemkontext signifikant niedrigere Werte bei der Unterstützung der Aufgabenbewältigung (mittlerer Rang 48,63, μ = 3,53) als die Varianten mit direkter Instruktion und ohne Kontext (χ²(3) = 12,14, p = .007), tendierte zu den höchsten Werten bei Interaktionsstress und externer LLM-Nutzung (23% gegenüber 15% insgesamt) und erzeugte die wenigsten Erklärungen mit vollem Verständnis nach der Aufgabe (48%). Die sokratischen Bedingungen sandten mehr Anfragen (μ = 11,1 pro Problem ohne Kontext), was [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] so lesen, dass zurückgehaltene Antworten zusätzliches Hin und Her erzwingen statt produktives Ringen.
+- **Ein sokratischer Tutor mit vollem Kontext kann als schlechtester von vieren bewertet werden.** In einer 2×2 [[rct|randomisierten Studie]] mit 132 Studierenden in einer Einführung zu Python erzielte der GPT-4o-Assistent mit sokratischem Fragen und vollem Problemkontext signifikant niedrigere Werte bei der Unterstützung der Aufgabenbewältigung (mittlerer Rang 48,63, μ = 3,53) als die Varianten mit direkter Instruktion und ohne Kontext (χ²(3) = 12,14, p = .007). Er tendierte zu den höchsten Werten bei Interaktionsstress und externer LLM-Nutzung (23% gegenüber 15% insgesamt) und erzeugte die wenigsten Erklärungen mit vollem Verständnis nach der Aufgabe (48%). Die sokratischen Bedingungen sandten mehr Anfragen (μ = 11,1 pro Problem ohne Kontext), was [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] so lesen, dass zurückgehaltene Antworten zusätzliches Hin und Her erzwingen statt produktives Ringen.
 
 In der [[medical-education|klinischen]] Gesprächsschulung ließ [[ai-standardized-patient-scaffolding-medical-2026|der MeduAI-SP-Versuch (Yang et al., 2026)]] den [[pedagogical-agent|Tutor-Agenten]] sokratische Impulse nur bei einem markierten Bedarf geben — fehlende zentrale Anamnese, vorzeitiger Abschluss, Gesprächssackgasse oder Kommunikationsbruch — und formulierte sie als reflexive Fragen, etwa ob die gesammelten Informationen ausreichten, um die führende Diagnose zu stützen. Studierende, die mit diesem sokratischen Scaffolding geschult wurden, erzielten beim beobachtbaren Checklistenpunkt „Empathie ausdrücken" 31 Prozentpunkte mehr (holm-korrigiertes P = 8,30e-4) und 0,90 Punkte mehr in der 1–5-OSCE-Kommunikationsdomäne (P = 4,50e-4), was nicht-antwortgebendes Fragen mit messbaren Zuwächsen in patientenzentrierter Kommunikation verknüpft statt mit diagnostischer Genauigkeit (84% gegenüber 86%; P = 1,000).
 
@@ -180,3 +181,4 @@ Die sokratische Methode ist eng mit [[scaffolding|Scaffolding]] (gerade so viel 
 - [[genai-socratic-tutor-biology-argumentation-2026]] — Stärkung der PISA-konformen Argumentationsfähigkeiten angehender Biologielehrkräfte durch generative künstliche Intelligenz
 - [[etq-ai-conversational-teacher-training-2026]] — Konversationelle KI-Diagnose für Fehlvorstellungen im Unterricht mit evidenzbasiertem Dialog (Miranda & Calvani 2026)
 - [[socratic-probing-agent-physics-cave-detection-2026]] — Entwurf eines KI-Agenten, der nicht tutoriert: Designregeln für sokratisches Sondieren in der Einführung in die Physik
+- [[jackson-ai-chatbots-learning-assistants-cs-2026]] — Reflektierende Fragen wurden in einem angeleiteten Chatbot am niedrigsten und mit der größten Streuung bewertet

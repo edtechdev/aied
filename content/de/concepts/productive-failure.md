@@ -1,7 +1,7 @@
 ---
 title: Produktives Scheitern
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ Produktives Scheitern sitzt innerhalb einer breiteren Familie fehlerzentrierter 
 
 ### Aus Irrtümern lernen
 Fehlerbehaftete Verarbeitung kann Behalten und konzeptuellen Wandel unterstützen, besonders wenn Lernenden Gelegenheiten gegeben werden, ihr Verständnis zu reflektieren und zu reorganisieren (Kapur, 2008; Schwartz & Martin, 2004). Im KI-Zeitalter wird dies in Systemen operationalisiert, in denen Lernende ihre eigenen Fehler diagnostizieren und korrigieren, statt direkte Korrekturen zu erhalten — z. B. [[lukesova-clue-before-correction-2026|Hinweis-vor-Korrektur]]-Aufgaben, bei denen KI geleitete Hinweise gibt und Lernende die korrekte Lösung erschließen, was kognitive Last verringert und autonome Überarbeitung unterstützt. Elaboratives Feedback erzeugt signifikant höhere [[learning-gains|Lernzugewinne]] als nur-verifikatives Feedback (Hattie & Timperley), und das Timing von Feedback zählt.
+
+**Fehler waren der Lehrplan in einer kontrollierten KI-gestützten Programmieraufgabe.** [[shen-ai-skill-formation-2026|Shen und Tamkin (2026)]] ließen Entwickler eine neue Python-Bibliothek mit oder ohne einen GPT-4o-Assistenten lernen, und die Gruppe ohne Unterstützung begegnete im Median drei Fehlern gegenüber einem unter Unterstützung (Q1–Q3: 2,0–5,0 gegenüber 0,0–3,0). Die Fehler, die der Assistent beseitigte, waren die bibliotheksspezifischen, die ein Verständnis von Coroutinen erzwingen, etwa eine nicht mit await versehene Coroutine oder ein Coroutine-Objekt, das dort übergeben wird, wo eine Funktion erwartet wurde. Die Gruppe ohne Unterstützung erzielte anschließend in einem Quiz ohne KI 17 % mehr Punkte, mit der größten Lücke beim Debugging und der kleinsten beim Codelesen, und das Abtippen des generierten Codes statt des Einfügens schloss diese Lücke nicht. Die Autoren deuten eigenständige Fehlerbehebung als den Mechanismus, messen dabei aber den Zusammenhang, anstatt eine Mediation zu prüfen.
 
 ### Versprecher gegenüber Irrtümern
 Eine nützliche Unterscheidung: **Versprecher** sind typischerweise Ausrutscher oder Aussetzer (oft aus Unachtsamkeit oder Überlastung), die begrenzten diagnostischen Wert tragen können, wohingegen **Irrtümer** echtes Nichtverstehen oder fehlerhaftes Schlussfolgern widerspiegeln und produktiveres Lernmaterial sind, weil sie eine Fehlvorstellung offenlegen, die angegangen werden kann. Fehleranalyse — identifizieren, *warum* eine Antwort falsch ist — ist zentral für das Lernen aus Irrtümern und ist eine zentrale [[pedagogy|pädagogische]] Fertigkeit (und ein Ziel für [[ai-feedback-quality|KI-Feedback]]-Design).
@@ -137,3 +139,4 @@ Produktives Scheitern verbindet sich mit [[learning-theories|Lerntheorien]] (Kon
 - [[lukesova-clue-before-correction-2026]] — Hinweis vor der Korrektur: ChatGPT für autonomes Lernen
 - [[pedagogy-ai-mistakes]] — Die Pädagogik der KI-Fehler
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Zurückhalten von Lösungen vermied die Frustrationskosten, verlor aber bei der Präferenz der Studierenden
+- [[shen-ai-skill-formation-2026]] — Median 3 Fehler ohne KI gegenüber 1 mit KI und 17 % höhere Quiz-Ergebnisse ohne Unterstützung (Shen & Tamkin 2026)

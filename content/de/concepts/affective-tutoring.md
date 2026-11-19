@@ -1,7 +1,7 @@
 ---
 title: Affektives Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-11-04T13:20:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -39,19 +39,23 @@ ai_assist:
 
 ## Einführung
 
-MathBuddy modelliert den Affekt der Studierenden dynamisch mit zwei Modalitäten:
+Affektives Tutoring ist die pädagogische Hälfte von [[affective-computing|Affektivem Computing]]: Sobald ein System eine gewisse Einschätzung des emotionalen Zustands einer lernenden Person gewonnen hat — was soll es mit dieser Einschätzung tun? Die Designfrage lautet nicht, wie man Frustration erkennt, sondern was man ändert, wenn man glaubt, sie erkannt zu haben — das Tempo, die Detailtiefe der Hinweise, den Ton des Feedbacks oder ob man innehält und die Emotion selbst anspricht. Die Entscheidungsebene ist das Thema: die Strategien, auf die Tutoren Affekt abbilden, die Evidenz dafür, dass sie helfen, und die Gründe, warum sie nach hinten losgehen können. Es geht nicht um die Empathie der Lernenden selbst — das ist ein anderes Ergebnis mit einer anderen Evidenzbasis ([[empathy|Empathie]]) — und auch nicht darum, wie Affekt erfasst wird ([[sensor-and-gaze-analytics|Sensor- und Blickanalyse]]).
 
-- **Konversationeller Text** — semantische Hinweise auf Frustration, Verwirrung, Zuversicht
+Das am klarsten ausgearbeitete Beispiel ist MathBuddy, das den Affekt von Lernenden aus zwei Modalitäten modelliert:
+
+- **Gesprächstext** — semantische Hinweise auf Frustration, Verwirrung, Zuversicht
 - **Gesichtsausdrücke** — Echtzeit-Videoerfassung des emotionalen Zustands
 
-Emotionen werden aus beiden Modalitäten aggregiert und auf relevante pädagogische Strategien abgebildet, bevor der [[llm]]-Tutor [[prompt-engineering|geprompted]] wird, was emotional bewusste Antworten ergibt.
+Die Emotionen werden aus beiden Modalitäten aggregiert und auf relevante pädagogische Strategien abgebildet, bevor das [[prompt-engineering|Prompting]] des [[llm|LLM]]-Tutors erfolgt — so entstehen emotional sensible Antworten.
 
 **Ergebnisse:**
-- **+23 Punkte Gewinnrate** Verbesserung gegenüber der nicht-affektiven Baseline
-- **+3 Punkte DAMR-Score** Zugewinn auf Gesamtebene
-- Bewertet über **acht pädagogische Dimensionen** plus Nutzerstudien
+- **+23 Punkte Siegquote** als Verbesserung gegenüber der nicht-affektiven Baseline
+- **+3 Punkte DAMR-Score** als Zuwachs auf Gesamtebene
+- Evaluiert anhand von **acht pädagogischen Dimensionen** plus Nutzerstudien
 
-Der Befund bestätigt eine langjährige Hypothese der Bildungspsychologie: positive/negative emotionale Zustände beeinflussen die Lernfähigkeit, und sie zu berücksichtigen verbessert die Ergebnisse des Tutorings.
+Die Autorinnen und Autoren deuten den Zuwachs als Beleg für eine seit Langem bestehende Hypothese der pädagogischen Psychologie: Der emotionale Zustand prägt das Lernen, und wer ihn berücksichtigt, verbessert die Ergebnisse des Tutorings.
+
+MathBuddy ist ein einzelnes System, nicht die Definition des Ansatzes, und die folgenden Abschnitte verallgemeinern von ihm aus. Was die zugrunde liegenden Signale messen können und was nicht, siehe [[sensor-and-gaze-analytics|Sensor- und Blickanalyse]].
 
 ## Das Risiko: Empathie als Falle
 
@@ -84,35 +88,35 @@ Affektives Tutoring überschneidet sich mit [[hazra-safetutors-pedagogical-safet
 
 ## Verbreitete Fehlvorstellungen
 
-**„Der Gewinn von +23 Punkten in der Gewinnrate zeigt, dass affektive Tutoren besser unterrichten."** Er zeigt etwas Engeres. Der Vergleich ist eine Gewinnrate gegen eine nicht-affektive Baseline für ein System, MathBuddy, bewertet über acht pädagogische Dimensionen und Nutzerstudien; eine Gewinnrate ist ein Präferenzergebnis, kein Maß für dauerhaftes Lernen in einem realen Kurs. Die ehrliche Behauptung ist, dass affektbewusste Strategiewahl affektblinde Strategiewahl bei der beurteilten Antwortqualität übertraf, was ein starkes Ergebnis über Interaktion und ein schwaches über [[learning-gains|Lerngewinne]] ist.
-
-**„Wenn der Tutor einfühlsam wirkt, wird der lernenden Person geholfen."** Sich verstanden zu fühlen und unterrichtet zu werden sind trennbar, und die Lücke zwischen beidem ist der Ort des Schadens. [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] identifizieren parasoziale Abhängigkeit als den charakteristischen Fehlermodus: Eine studierende Person kann eine Beziehung zu einem System aufbauen, das darauf ausgelegt ist, fürsorglich zu wirken, während ihr [[metacognition|metakognitives]] Engagement still absinkt, und die Empathie selbst macht das Desengagement schwerer bemerkbar. Die Literatur zur [[llm-fallacy-misattribution|Fehlzuschreibung]] ist die andere Schneide desselben Messers, wo Studierende dem System eine echte Beziehung zuschreiben.
-
-**„Mehr emotionale Unterstützung ist immer sicherer als weniger."** Jenseits eines Punktes wird Unterstützung zur Störung. Ein Tutor, der Frustration verlässlich beseitigt, kann das [[desirable-difficulties|produktive Ringen]] unterdrücken, auf dem [[self-regulated-learning|Selbstregulation]] beruht, weshalb [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] motivational-affektiven Schaden als eigene Sicherheitsdimension behandelt statt als Abwesenheit von Nutzen.
-
-**„Ein Tutor, der Emotionen aus einem Gesicht erkennt, kennt den Zustand der lernenden Person."** Affekt wird erschlossen, nicht beobachtet, und die Erschließung ist genau dort am schwächsten, wo am meisten auf dem Spiel steht. [[ecnuclaw-k12-personalized-companion|Zhou, Li und Zhang (2026)]] führen eine emotionale Dimension in einem fünfdimensionalen Lernendenprofil, füllen sie aber mit Schlüsselwort-Wörterbüchern, sodass eine studierende Person, die Frustration in Wörtern ausdrückt, die das Wörterbuch nicht enthält, schlicht nicht profiliert wird, und das Profil wurde nicht gegen Expert:innenurteile validiert. Gesichtserfassung fügt einen kontinuierlichen Videostream und eine Datenschutzexposition hinzu, die die Texterschließung nicht hat.
-
-**„Emotionsmessungen zu verschiedenen Zeitpunkten sind austauschbar."** [[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]] finden, dass geordneter Affekt kurzreichweitige Persistenz und gerichtete Übergänge zeigt und dass probe-erfasste Berichte, die Selbstschleifen um Neugier und Verwirrung, eine andere Messung sind als selbst erfasste wie Frustration und Überraschung. Die beiden zu einer zusammenfassenden Häufigkeit zu mitteln verwirft die Sequenz, die das Signal trägt.
-
-## Affektives Tutoring in die Praxis umsetzen
-
 **Für Lehrende**
 
-- Behandeln Sie Empathie als Übermittlungsmechanismus, nicht als Beleg für Lernen. Paaren Sie jedes affektbewusste Werkzeug mit einer kognitiven Prüfung, die Sie sehen können, etwa Arbeitsprodukten oder der Ausgabe von [[knowledge-tracing|Knowledge Tracing]], und lassen Sie das Gefühlserlebnis der lernenden Person nicht an die Stelle diagnostischer Evidenz treten.
-- Legen Sie die Erschließung explizit offen. Studierende sollten wissen, dass ein emotionaler Zustand geschätzt wird, aus welchen Eingaben, und sollten die Kamera ablehnen können, ohne den Zugang zum Tutoring zu verlieren.
-- Achten Sie auf die studierende Person, die berichtet, das Werkzeug „verstehe" sie, und deren unabhängige Arbeit sich nicht verbessert. Diese Kombination ist die parasoziale Signatur, keine Erfolgsgeschichte.
+- Behandeln Sie Empathie als Vermittlungsmechanismus, nicht als Nachweis von Lernen. Kombinieren Sie jedes affektsensitive Tool mit einer kognitiven Kontrolle, deren Ergebnisse Sie einsehen können, etwa Arbeitsergebnissen oder den Ausgaben von [[knowledge-tracing|Knowledge Tracing]], und lassen Sie nicht zu, dass das empfundene Erleben eines Lernenden an die Stelle diagnostischer Evidenz tritt.
+- Legen Sie die Inferenz explizit offen. Lernende sollten wissen, dass ein emotionaler Zustand geschätzt wird, auf Grundlage welcher Eingabedaten, und die Kamera ablehnen können, ohne den Zugang zum Tutoring zu verlieren.
+- Achten Sie auf Lernende, die angeben, das Tool „verstehe" sie, und deren selbstständige Arbeit sich nicht verbessert. Diese Kombination ist das Kennzeichen parasozialer Bindung, keine Erfolgsgeschichte.
 
-**Für Entwickelnde**
+**Für Entwicklerinnen und Entwickler**
 
-- Machen Sie Affekt zu einem Signal unter mehreren. Die Kombination mit kognitivem Zustand und verhaltensbezogenem Engagement verhindert, dass das System eine Lektion um einen falsch gelesenen Ausdruck herum neu optimiert.
-- Lösen Sie Interventionen an Verläufen statt an Punktschätzungen aus und schlüsseln Sie auf die Sequenz der Zustände, denn Persistenz und gerichtete Übergänge sind der informative Teil.
-- Stellen Sie datenschutzschützende Sensorbehandlung als Standard ein und behandeln Sie Gesichts- oder Videoeingaben als strikt höhere Stufe als Texterschließung, mit eigener Begründung und Einwilligung.
-- Liefern Sie keine Affektschicht auf Wörterbuchbasis aus, als wäre sie Detektion. Wenn Sie den Klassifikator nicht gegen Expert:innenurteile validieren können, legen Sie ihn als grobe Kennzeichnung offen, statt eine studierende Person als „frustriert" zu etikettieren.
+- Machen Sie Affekt zu einem Signal unter mehreren. Die Verknüpfung mit kognitivem Zustand und behavioralem Engagement verhindert, dass das System eine Lektion auf Basis eines falsch gelesenen Gesichtsausdrucks neu optimiert.
+- Lösen Sie Interventionen anhand von Verläufen statt anhand von Punktschätzungen aus und richten Sie sich nach der Abfolge der Zustände, denn Persistenz und gerichtete Übergänge sind der informative Teil.
+- Setzen Sie standardmäßig auf einen datenschutzfreundlichen Umgang mit Sensordaten und behandeln Sie Gesichts- oder Videoeingaben als eine strikt höhere Stufe als Textinferenz, die eine eigene Begründung und Einwilligung erfordert.
+- Liefern Sie keine Affektschicht auf Basis eines Schlagwortwörterbuchs aus, als wäre sie eine Erkennung. Wenn Sie den Klassifikator nicht gegen Expertenurteile validieren können, geben Sie ihn als grobes Warnsignal aus, statt Lernende als „frustriert" zu etikettieren.
 
 **Für Forschende**
 
-- Berichten Sie die Baseline, gegen die Ihre Gewinnrate gemessen wurde, und sagen Sie klar, dass es ein vergleichendes Urteil ist. Messen Sie dann, was das Feld tatsächlich braucht: Transfer auf nicht-adaptive Kontexte, Behalten nach dem Rückzug des Tutors und ob die Gewinne halten, wenn der emotionale Kanal aus ist.
-- Validieren Sie Affektprofile gegen Expert:innenurteile, bevor Sie sie als unabhängige Variablen verwenden.
+- Berichten Sie die Baseline, gegen die Ihre Win-Rate gemessen wird, und stellen Sie klar heraus, dass es sich um ein vergleichendes Urteil handelt. Messen Sie anschließend, was das Feld tatsächlich braucht: Transfer auf nicht-adaptive Kontexte, Behaltensleistung nach Wegfall des Tutors und die Frage, ob die Zugewinne bestehen bleiben, wenn der emotionale Kanal abgeschaltet ist.
+- Validieren Sie Affektprofile gegen Expertenurteile, bevor Sie sie als unabhängige Variablen verwenden.
+
+## Affektives Tutoring in die Praxis umsetzen
+
+**„Die Win-Rate von +23 Punkten zeigt, dass affektive Tutoren besser lehren.“** Sie zeigt etwas Engeres. Der Vergleich ist eine Win-Rate gegen eine nicht-affektive Baseline für ein einzelnes System, MathBuddy, bewertet über acht pädagogische Dimensionen und Nutzerstudien hinweg; eine Win-Rate ist ein Präferenzergebnis, kein Maß für dauerhaftes Lernen in einem realen Kurs. Die ehrliche Aussage lautet, dass affektbewusste Strategiewahl die affektblinde Strategiewahl bei der bewerteten Antwortqualität übertraf — ein starkes Ergebnis zur Interaktion und ein schwaches zu [[learning-gains|Lernzuwächsen]].
+
+**„Wenn sich der Tutor empathisch anfühlt, wird den Lernenden geholfen.“** Sich verstanden zu fühlen und unterrichtet zu werden sind zweierlei, und in der Lücke dazwischen liegt der Schaden. [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] identifizieren parasoziale Abhängigkeit als den charakteristischen Fehlerfall: Lernende können eine Beziehung zu einem System aufbauen, das darauf angelegt ist, fürsorglich zu wirken, während ihr [[metacognition|metakognitives]] Engagement unbemerkt sinkt — und gerade die Empathie macht dieses Nachlassen des Engagements schwerer erkennbar. Die Literatur zur [[llm-fallacy-misattribution|Fehlattribution]] ist die andere Schneide desselben Messers: Hier schreiben Lernende dem System eine echte Beziehung zu.
+
+**„Mehr emotionale Unterstützung ist immer sicherer als weniger.“** Ab einem bestimmten Punkt wird Unterstützung zur Störung. Ein Tutor, der Frustration zuverlässig beseitigt, kann das [[desirable-difficulties|produktive Ringen]] unterdrücken, auf das [[self-regulated-learning|Selbstregulation]] angewiesen ist — weshalb [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] motivational-affektiven Schaden als eigenständige Sicherheitsdimension behandelt und nicht als bloßes Ausbleiben eines Nutzens.
+
+**„Ein Tutor, der Emotionen aus einem Gesicht erkennt, kennt den Zustand der Lernenden.“** Affekt wird erschlossen, nicht beobachtet, und die Erschließung ist genau dort am schwächsten, wo am meisten auf dem Spiel steht. [[ecnuclaw-k12-personalized-companion|Zhou, Li und Zhang (2026)]] führen eine emotionale Dimension in einem fünfdimensionalen Lernendenprofil, füllen sie jedoch mit Stichwortwörterbüchern: Wer Frustration in Worten äußert, die das Wörterbuch nicht enthält, wird schlicht nicht erfasst, und das Profil wurde nicht gegen Expertenurteile validiert. Die Gesichtserfassung fügt einen kontinuierlichen Videostrom und eine Datenschutzgefährdung hinzu, die die Textinferenz nicht mit sich bringt.
+
+**„Emotionsmessungen zu unterschiedlichen Zeitpunkten sind austauschbar.“** [[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]] finden, dass geordneter Affekt kurzreichweitige Persistenz und gerichtete Übergänge zeigt und dass durch Nachfragen erfasste Berichte — die Selbstschleifen um Neugier und Verwirrung — eine andere Messung sind als selbst erfasste wie Frustration und Überraschung. Wer beide zu einer summarischen Häufigkeit mittelt, verwirft die Sequenz, die das Signal trägt.
 
 ## Verbundene Konzepte
 

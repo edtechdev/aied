@@ -1,7 +1,7 @@
 ---
 title: Erleben der Studierenden
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -107,30 +107,30 @@ Erleben der Studierenden verbindet sich mit [[cognitive-offloading|übermäßige
 
 ## Verbreitete Fehlvorstellungen
 
-**„Studierende, die KI meiden, sind im Rückstand."** Nicht-Nutzung ist häufig eine begründete Position statt eine Lücke: eine institutionsübergreifende UK-Umfrage unter **7.087 Studierenden** fand, dass **32% GenAI überhaupt nicht zum Studieren nutzten**, wobei Nicht-Nutzende angaben, die Arbeit selbst machen zu wollen. Das als Übernahme-Defizit zu behandeln kehrt den Befund um und drängt Studierende aus einer vertretbaren Wahl.
-
-**„Berichte von Studierenden sind ein vernünftiges Maß für Lernen."** Sie sind [[self-report-measures|Selbstauskunftsmaße]]: sie erfassen Wahrnehmungen und Absichten gut und Verhalten nur näherungsweise. Die Leistungs-Lern-Lücke in dieser Literatur — Studierende, denen es mit KI besser geht und die bei späteren unassistierten Aufgaben schlechter abschneiden — ist genau der Fall, in dem Selbstauskunft und Outcome auseinanderfallen, sodass eine zufriedene Studierendenschaft kein Beleg für eine lernende Studierendenschaft ist.
-
-**„Wenn Studierende das Gefühl haben, KI hilft, hilft sie."** Das Gefühl, geholfen zu bekommen, ist ein echtes Datum über die Erfahrung und eine unzuverlässige Inferenz über das Ergebnis. Die Lücke ist dokumentiert, und Studierende in der geschädigten Gruppe nehmen sie nicht verlässlich wahr, sodass Wahrnehmung und Ergebnis als getrennte Maße erhoben werden müssen, statt dass eines für das andere einsteht.
-
-**„Das Erleben der Studierenden ist ein weiches Anliegen gegenüber Ergebnissen."** Es ist ein Frühindikator für Übernahme und Offenlegung: Studierende, die ihre Nutzung verurteilt fühlen, verbergen sie, und verborgene Nutzung ist die Bedingung, in der [[reducing-ai-misuse|Missbrauch]] und Schaden für die Einrichtung am wenigsten sichtbar sind.
-
-## Implikationen für die Praxis
-
 **Für Lehrende**
 
-- Behandeln Sie Nicht-Nutzung nicht als Lücke, die zu schließen ist. Etwa ein Drittel der Studierenden entscheidet sich, die Arbeit selbst zu machen, und Druck zur Übernahme verwandelt eine begründete Position in ein Compliance-Problem.
-- Erheben Sie Wahrnehmung und Ergebnis getrennt. Zufriedenheitsbefragungen beschreiben die Erfahrung und können unassistierte Leistung nicht ersetzen.
-- Machen Sie Offenlegung sicher, denn Studierende, die Urteil erwarten, verbergen ihre Nutzung, und in verborgener Nutzung versteckt sich die Divergenz zwischen assistierter und unassistierter Leistung.
+- Behandeln Sie Nicht-Nutzung nicht als eine Lücke, die es zu schließen gilt. Etwa ein Drittel der Studierenden entscheidet sich, die Arbeit selbst zu machen, und Druck zur Übernahme verwandelt eine begründete Position in ein Compliance-Problem.
+- Erheben Sie Wahrnehmung und Ergebnis getrennt. Zufriedenheitsumfragen beschreiben die Erfahrung und können nicht für unassistierte Leistung einstehen.
+- Machen Sie Offenlegung sicher, denn Studierende, die Verurteilung erwarten, verbergen ihre Nutzung, und in verborgener Nutzung verbirgt sich die Divergenz zwischen assistierter und unassistierter Leistung.
 
 **Für Entwickelnde**
 
-- Berichten Sie Lernoutcomes neben Erfahrungsmetriken in allem, was Sie Studierenden veröffentlichen, weil das gefühlte und das gemessene Ergebnis regelmäßig auseinanderfallen.
-- Unterstützen Sie die Ablehnung des Assistenten, ohne den Zugang zum Kurs zu verlieren.
+- Weisen Sie in allem, was Sie für Studierende veröffentlichen, Lernergebnisse neben Erfahrungsmetriken aus, denn gefühlte und gemessene Ergebnisse weichen regelmäßig voneinander ab.
+- Unterstützen Sie es, den Assistenten abzulehnen, ohne den Zugang zum Kurs zu verlieren.
 
 **Für Forschende**
 
-- Berichten Sie Größe und Gründe der Gruppe der Nicht-Nutzenden ausdrücklich; 32% einer Stichprobe von 7.087 Studierenden sind eine Population, kein Rest.
+- Berichten Sie Größe und Gründe der Gruppe der Nicht-Nutzenden explizit; 32% einer Stichprobe von 7.087 Studierenden sind eine Population, kein Residuum.
+
+## Implikationen für die Praxis
+
+**„Studierende, die KI meiden, sind im Rückstand."** Nicht-Nutzung ist häufig eine begründete Position und keine Lücke: Eine hochschulübergreifende UK-Umfrage mit **7.087 Studierenden** ergab, dass **32% GenAI überhaupt nicht für das Studium nutzten**, wobei Nicht-Nutzende angaben, die Arbeit selbst machen zu wollen. Wer das als Übernahmedefizit behandelt, verkehrt den Befund ins Gegenteil und drängt Studierende aus einer vertretbaren Entscheidung heraus.
+
+**„Studierendenberichte sind ein brauchbares Maß für Lernen."** Es sind [[self-report-measures|Selbstauskunftsmaße]]: Sie erfassen Wahrnehmungen und Absichten gut, Verhalten nur annäherungsweise. Die Kluft zwischen Leistung und Lernen in dieser Literatur — Studierende schneiden mit KI besser und bei späteren unassistierten Aufgaben schlechter ab — ist genau der Fall, in dem Selbstauskunft und Ergebnis auseinanderfallen; eine zufriedene Studierendenschaft ist daher kein Beleg für eine lernende Studierendenschaft.
+
+**„Wenn Studierende das Gefühl haben, dass KI hilft, dann hilft sie."** Das Gefühl, Unterstützung zu erhalten, ist ein echter Datenpunkt zur Erfahrung und ein unzuverlässiger Rückschluss auf das Ergebnis. Die Kluft ist dokumentiert, und Studierende in der geschädigten Gruppe nehmen sie nicht zuverlässig wahr, daher müssen Wahrnehmung und Ergebnis als getrennte Maße erhoben werden, statt das eine als Ersatz für das andere heranzuziehen.
+
+**„Die Studierendenerfahrung ist im Vergleich zu den Ergebnissen ein weiches Anliegen."** Sie ist ein Frühindikator für Übernahme und Offenlegung: Studierende, die das Gefühl haben, dass ihre Nutzung beurteilt wird, werden sie verbergen, und verborgene Nutzung ist die Bedingung, unter der [[reducing-ai-misuse|Missbrauch]] und Schaden für die Institution am wenigsten sichtbar sind.
 
 ## Verbundene Konzepte
 - [[learners]] — Lernende: die Überblicksseite für die Konzepte auf der Seite der Lernenden

@@ -1,7 +1,7 @@
 ---
 title: Personalisiertes Lernen
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,8 @@ Ein PRISMA-2020-Review von 22 Hochschulinterventionen platziert Unterstützung p
 
 [[intelligent-tutoring|Intelligentes Tutoring]] sitzt dazwischen: ITS sind die kanonischen *adaptiven* Plattformen, die personalisierte Instruktion über strukturierte Lernendenmodellierung liefern, während [[llm|LLM]]-basierte Tutoren konversationell personalisieren. Alle drei sind die anwendungsseitigen Mitglieder der Familie [[student-modeling|Lernendenmodellierung und adaptive Instruktion]] — sie konsumieren die von [[student-modeling|Lernendenmodellierung]], [[knowledge-tracing|Knowledge Tracing]] und [[cognitive-diagnosis|kognitiver Diagnose]] produzierten Lernendenrepräsentationen, um zu entscheiden, was als nächstes gelehrt wird. Die Unterscheidung zählt für Evaluation: Studien, die ein System „adaptiv", „personalisiert" oder „individualisiert" austauschbar labeln (siehe unten), können verdecken, ob der behauptete Nutzen aus Echtzeit-Anpassung, Lernendenwahl oder Inhaltszuschneiden stammt.
 
+Ein systematischer Review von 61 Studien aus dem Hochschulkontext aus dem Jahr 2026 verleiht dieser Unterscheidung empirische Schärfe. Lernendengesteuerte Kontrolle — die Studierenden entschieden, wann, was und wie sie fragen — wurde in 46 Studien (75,4 %) kodiert. Speziell entwickelte oder kurspezifisch angepasste Systeme fanden sich in 10 (16,4 %) und dokumentierte systemgesteuerte Anpassung in fünf (8,2 %); die Sensitivitätsanalyse des Reviews ließ eines übrig ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]). Das meiste von dem, was die Literatur personalisiertes Lernen nennt, ist flexibler Zugang zu einem allgemeinen Assistenten, nicht ein Modell der Lernenden.
+
 ## Messherausforderungen
 
 - **System- gegenüber wahrgenommener Personalisierung** — ein System kann anpassen, ohne dass sich die lernende Person anerkannt fühlt
@@ -126,34 +128,34 @@ Ein wiederkehrendes Problem ist, dass „personalisiertes Lernen" ein breiter, l
 
 ## Verbreitete Fehlvorstellungen
 
-**„Personalisiertes Lernen und adaptives Lernen sind dasselbe."** Adaptive Systeme sind ein *Mittel* zur Personalisierung, nicht ihre Definition. Personalisierung lässt sich ebenso über statische Lernendenprofile, wahlbasierte Wege oder menschliches Tutorzuschneiden erreichen, das nie in Echtzeit anpasst. Wer beides als Synonym behandelt, lässt eine Schule, die reiche Lernendenwahl bietet, aber keine adaptive Engine, unpersonalisiert aussehen — und ein eng adaptiv geführtes Drill-Programm lernendenzentrierter wirken, als es ist.
-
-**„Personalisierung zahlt sich aus, indem sie mehr Stoff abdeckt."** Wo die Diagnose hinter einem Weg tatsächlich validiert ist, zahlt sie sich aus, indem sie die *Last senkt statt die Abdeckung erhöht*: Kürzeste-Pfad-Remediation mittelte 3.82 Schritte und senkte die Lernzeit um 22.0% (57.6 gegenüber 73.8 Minuten), wobei die kognitive Last den Effekt trug. Der Nutzen sind weniger unnötige Schritte, nicht mehr Inhalt pro Stunde.
-
-**„Ein Modell, das einen kohärenten [[curriculum-design|Lehrplan]] erzeugen kann, kann ihn auch personalisieren."** Generierung und Anpassung sind verschiedene Fähigkeiten, und die Lücke zwischen ihnen ist groß. Lehrplan-generierende Modelle produzierten strukturell solide Ausgaben — DeepSeek-V3.1 erreichte 90.9% bei Voraussetzungs- und Halluzinationsvalidität —, während die Adaptivität bei 44.7% stagnierte, mit einer abschließenden Bestehensrate von 29.5% in der Basisbildung. Voraussetzungsvalidität ist keine Personalisierung.
-
-**„Die Erzeugung des Materials hebt die Beschränkung auf, die echte Inhalte auferlegen."** Generierung lockert eine Beschränkung und kann andere nicht lockern. [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] generiert synthetische Statistikdatensätze, die auf das erklärte Interesse einer lernenden Person, die Kursziele und das angestrebte Kompetenzniveau abgestimmt sind — eine dreifache Passung, die echte Datensätze selten erfüllen —, doch die Autorinnen und Autoren benennen die Grenze klar: synthetische Daten können Datenerhebung, Messung oder Studiendesign nicht vermitteln, sodass das Werkzeug echte Daten ergänzt statt sie zu ersetzen.
-
-**„Berichtete [[learning-gains|Lerngewinne]] sind das, was diese Systeme validiert."** In den hier untersuchten RL- und Personalisierungsstudien besiegten Policies Nicht-adaptive-Baselines am häufigsten bei leitungsbezogener Anpassung und bei affektiven Variablen (63% der getesteten Studien), während Lerngewinn — besonders normalisierter Lerngewinn — das *am seltensten berichtete* Ergebnis war. Eine Literatur, die Engagement und Affekt weit häufiger berichtet als Lernen, ist kein Beleg dafür, dass Lernen dominiert.
-
-## Implikationen für die Praxis
-
 **Für Lehrende**
 
-- Fragen Sie, *was* angepasst wird, bevor Sie dem Wort „personalisiert" glauben: der Inhalt, die Sequenz, das Tempo, der Affekt oder die Darstellung. Verschiedene Anpassungen tragen unterschiedliche Evidenz, und nur zu einigen gibt es Lernendenergebnisse.
+- Fragen Sie, was angepasst wird, bevor Sie dem Wort „personalisiert" glauben: der Inhalt, die Reihenfolge, das Tempo, der Affekt oder die Darstellung. Für verschiedene Anpassungen liegt unterschiedliche Evidenz vor, und nur zu einigen liegen Lernergebnisse vor.
 - Bevorzugen Sie Systeme, die den Weg verkürzen, gegenüber Systemen, die Inhalt hinzufügen. Der gemessene Nutzen in der Remediationsstudie waren 22% weniger Lernzeit, nicht mehr Abdeckung.
-- Behalten Sie die Teile der Disziplin, die ein generierter Datensatz nicht liefern kann — Datenerhebung, Messung, Studiendesign —, als echte Arbeit, und lassen Sie die Personalisierung auf der Praxis ringsum arbeiten.
+- Behalten Sie die Teile der Disziplin, die ein generierter Datensatz nicht liefern kann — Datenerhebung, Messung, Studiendesign —, als echte Arbeit bei, und lassen Sie Personalisierung auf die Übungen rund um diese Teile wirken.
 
-**Für Entwickelnde**
+**Für Entwicklerinnen und Entwickler**
 
-- Berichten Sie Lernendenergebnisse, nicht nur Engagement und Affekt. Der Befund der Erhebung, dass Lerngewinn das am seltensten berichtete Maß ist, beschreibt, was das Feld derzeit ausliefert — keine Vorlage zum Nachahmen.
-- Unterscheiden Sie Generierungsqualität und Anpassungsqualität in Ihrer eigenen Evaluation und berichten Sie beide idealerweise getrennt, weil starke Voraussetzungsvalidität mit einer Adaptivität unter 50% koexistieren kann.
-- Behandeln Sie das Belohnungsziel selbst als Personalisierungswahl: ein auf die unabhängige Kompetenz der lernenden Person trainierter RL-Coach senkte die Rundenzeit um 27.9% (p = 0.005), wo regelbasiertes Verblassen keine verlässliche Veränderung produzierte.
+- Berichten Sie Lernergebnisse, nicht nur Engagement und Affekt. Der Befund der Übersichtsarbeit, dass Lerngewinn die am seltensten berichtete Messgröße ist, beschreibt, was das Feld derzeit ausliefert, und ist keine Vorlage zum Nachahmen.
+- Trennen Sie in Ihrer eigenen Evaluation Generierungsqualität von Anpassungsqualität und berichten Sie beide idealerweise separat, denn starke Voraussetzungsvalidität kann mit einer Adaptivität von unter 50% einhergehen.
+- Behandeln Sie das Reward-Ziel als eigenständige Personalisierungsentscheidung: Ein RL-Coach, der auf die selbstständige Kompetenz der lernenden Person trainiert wurde, senkte die Rundenzeit um 27,9% (p = 0,005), wo regelbasiertes Fading keine verlässliche Veränderung erzeugte.
 
 **Für Forschende**
 
-- Hören Sie auf, Personalisierung und Adaption in den Konstrukten zu vermengen, die Sie messen, und sagen Sie ausdrücklich, welcher Mechanismus den Effekt erzeugt hat.
-- Berichten Sie normalisierten Lerngewinn als primäres Ergebnis; seine Seltenheit in der Literatur ist eine Lücke, die zu schließen ist, keine Konvention, die zu erben ist.
+- Vermischen Sie Personalisierung und Anpassung in den von Ihnen gemessenen Konstrukten nicht länger und benennen Sie explizit, welcher Mechanismus den Effekt erzeugt hat.
+- Berichten Sie normalisierten Lerngewinn als primäres Ergebnis; seine Seltenheit in der Literatur ist eine Lücke, die zu schließen ist, und keine Konvention, die zu übernehmen wäre.
+
+## Implikationen für die Praxis
+
+**„Personalisiertes Lernen und adaptives Lernen sind dasselbe."** Adaptive Systeme sind ein *Mittel* zur Personalisierung, nicht ihre Definition. Personalisierung lässt sich ebenso durch statische Lernendenprofile, wahlbasierte Lernpfade oder die Anpassung durch menschliche Tutorinnen und Tutoren erreichen, die nie in Echtzeit adaptiert. Wer beide als Synonyme behandelt, lässt eine Schule, die reichhaltige Wahlmöglichkeiten für Lernende bietet, aber keine adaptive Engine, als unpersonalisiert erscheinen — und lässt ein eng adaptives Übungsprogramm lernendenzentrierter wirken, als es ist.
+
+**„Personalisierung zahlt sich aus, indem sie mehr Stoff abdeckt."** Wo die Diagnose hinter einem Lernpfad tatsächlich validiert ist, zahlt sie sich aus, indem sie *die Belastung senkt statt die Abdeckung zu erhöhen*: Kürzeste-Pfad-Remediation umfasste durchschnittlich 3,82 Schritte und senkte die Lernzeit um 22,0% (57,6 gegenüber 73,8 Minuten), wobei die kognitive Belastung den Effekt trug. Der Nutzen liegt in weniger unnötigen Schritten, nicht in mehr Inhalt pro Stunde.
+
+**„Ein Modell, das ein kohärentes [[curriculum-design|Curriculum]] generieren kann, kann es auch personalisieren."** Generierung und Adaptation sind unterschiedliche Fähigkeiten, und die Lücke zwischen ihnen ist groß. Curriculum-Generatoren waren stark bei der Voraussetzungs- und Halluzinationsvalidität — DeepSeek-V3.1 erreichte 90,9% —, aber schwach bei der Anpassung an die lernende Person: Die Adaptivität erreichte maximal 44,7%, und die finale Bestehensquote von DeepSeek-V3.1 fiel in der Basic-Bedingung auf 29,5%. Voraussetzungsvalidität ist nicht Personalisierung.
+
+**„Das Generieren des Materials hebt die Beschränkung auf, die echte Inhalte auferlegen."** Generierung lockert eine Beschränkung und kann andere nicht lockern. [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] generiert synthetische Statistikdatensätze, die auf das angegebene Interesse einer lernenden Person, die Kursziele und das angestrebte Kompetenzniveau abgestimmt sind — eine dreifache Übereinstimmung, die echte Datensätze selten erfüllen —, aber die Autorinnen und Autoren benennen die Grenze klar: Synthetische Daten können Datenerhebung, Messung oder Studiendesign nicht lehren, das Werkzeug ergänzt also echte Daten, statt sie zu ersetzen.
+
+**„Berichtete [[learning-gains|Lerngewinne]] sind das, was diese Systeme validiert."** In den hier betrachteten RL- und Personalisierungsstudien schlugen Policies nicht-adaptive Baselines am häufigsten bei der anleitungsbezogenen Adaptation und bei affektiven Variablen (63% der getesteten Studien), während Lerngewinn — insbesondere normalisierter Lerngewinn — das *am seltensten* berichtete Ergebnis war. Eine Literatur, die Engagement und Affekt weit häufiger berichtet als Lernen, ist kein Beleg dafür, dass Lernen dominiert.
 
 ## Verbundene Konzepte
 
@@ -175,6 +177,7 @@ Ein wiederkehrendes Problem ist, dass „personalisiertes Lernen" ein breiter, l
 
 ## Verbundene Artikel
 
+- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 61 Studien: 75,4% kodierte lernendengesteuerte Kontrolle, 8,2% systemgesteuerte Adaptation (Aybar-Bellido et al., 2026)
 - [[bespoke-industry-personalized-lecture-videos-2026]] — Industriepersonalisierte Regenerierung von Vorlesungsvideos aus einem Seed-Transkript: Zuschneiden auf Publikumsebene, bewertet von Domänenexpertinnen und -experten (Puech et al. 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-Engineering-Mikropersonalisierung eines KI-Lehrassistenten (Basu, Kakar & Goel 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — KI-Tutoring ist kein Monolith: Was wir tatsächlich wissen (Stanford SCALE/NSSA-Brief)
@@ -194,6 +197,4 @@ Ein wiederkehrendes Problem ist, dass „personalisiertes Lernen" ein breiter, l
 - [[student-reception-genai-analogies-computing-2026]] — Fehlerhaft, aber einprägsam: die kritische Rezeption interessenpersonalisierter GenAI-Analogien in der Informatikbildung durch Studierende
 - [[personalization-paradox-adaptive-learning-emotions-2026]] — Personalisierungsparadox: wahrgenommene adaptive Personalisierung über akademische Emotionen mit geringerem selbstreguliertem Lernen verbunden, gepuffert durch KI-Kompetenz (Li, Lin & Qiu 2026)
 - [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM-Planer erreichen 90.9% Validität, aber kein Modell überschreitet 44.7% Adaptivität bei der Personalisierung von Pfaden zu einem erklärten Lernziel (Liu et al. 2026)
-
 - [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Vier Studien, ein großer gepoolter Effekt und sehr geringe Sicherheit
-

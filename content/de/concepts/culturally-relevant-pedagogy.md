@@ -1,7 +1,7 @@
 ---
 title: Kulturell relevante Pädagogik
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -39,21 +39,21 @@ ai_assist:
 
 ## Einleitung
 
-### Die zweischneidige Rolle der KI in CRP
+## Die zweischneidige Rolle der KI in CRP
 
 KI kann Lehrkräfte dabei unterstützen, Unterricht kulturell responsiv zu gestalten, doch ihre Standardergebnisse bergen das Risiko, **dominante Narrative zu verstärken**, wenn sie nicht ausdrücklich anders angeleitet werden.
 
 - **Unterstützung für Lehrkräfte:** Wang et al. (2025) entwickelten **CulturAIEd**, ein [[llm|LLM]]-gestütztes System, das [[k-12|K-12]]-Lehrkräfte hilft, kulturell responsive [[ai-literacy]]-Aktivitäten zu entwerfen, indem es demografische Informationen der Studierenden mit rastergestützter Anleitung verbindet (eine CRT-Checkliste, die in die Generierung eingeschichtet ist). In einem Pilotversuch mit vier Lehrkräften **stärkte es das Vertrauen der Lehrkräfte** darin, Gelegenheiten zu kultureller Responsivität zu erkennen und bestehende Aktivitäten zu verändern, wobei 78% die KI-Vorschläge für hilfreich zur Diversifizierung von Materialien hielten. Das Werkzeug zielt direkt auf die Zeit-, Weiterbildungs- und Ressourcenbarrieren ab, die der Umsetzung von CRP entgegenstehen.
 - **Risiko monokultureller Ergebnisse:** [[civic-education-ai-lesson-plans|Trust et al. (2025)]] analysierten 310 KI-generierte Unterrichtspläne für politische Bildung (2.230 Aktivitäten): **94% enthielten keinen erkennbaren multikulturellen Inhalt**, und von den 144, die es taten, lagen 137 auf der niedrigsten „Additive“-Stufe — **nur eines erreichte „Transformation“ und keines „Social Action“.** Alle drei [[conversational-ai|Chatbots]] erzeugten strukturell identische, monokulturelle Unterrichtsvorlagen. Das ist konkreter Beleg dafür, dass KI standardmäßig zu homogenisierten Curricula tendiert, sofern [[teacher-ai-competency|Lehrkräfte]] nicht aktiv eingreifen.
 
-### Epistemische Marginalisierung in KI-Systemen
+## Epistemische Marginalisierung in KI-Systemen
 
 Über die Generierung von Unterricht hinaus verbindet sich CRP mit einer tieferen Kritik: KI-Trainingsdaten und Gestaltungsprozesse kodieren westliche, anglophone epistemische Rahmenwerke, die andere Weisen des Wissens marginalisieren.
 
 - **Epistemische Kolonialität:** Tali-Otmani (2026) argumentiert, dass GenAI-Systeme nicht epistemisch neutral sind — überwiegend westlich-zentrierte Trainingsdaten **marginalisieren minorisiertes Wissen aktiv** und erzeugen eine „doppelte Marginalisierung“ für [[inclusive-learning|lernende Menschen mit Behinderungen]], deren Erkenntnisweisen sowohl in den Trainingsdaten unterrepräsentiert als auch von der Gestaltung ausgeschlossen sind. Dies erweitert die [[equity-in-ai-education|Gerechtigkeits]]debatte von *Zugang* zu *wessen Wissen validiert wird*.
 - **Verteilung epistemischer Autorität:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]] schlagen **community-basiertes KI-Lernen** vor, einen Rahmen, der die gelebten und community-basierten Erkenntnisweisen der Lernenden als Bewertungsmaßstab für KI-Ergebnisse neu positioniert. Seine drei Verpflichtungen — **epistemisches [[llm-training-and-fine-tuning|Feinabstimmen]]**, **Verteilung von Autorität** und **[[situated-learning|situiertes]] Urteilsvermögen** — kalibrieren Vertrauen an lokalen Geschichten und Community-Expertise und behandeln Ablehnung und strategische Nicht-Nutzung als gültige CRP-Antworten auf KI.
 
-### Kulturell begründete Daten und Evaluation
+## Kulturell begründete Daten und Evaluation
 
 Eine Reihe von Arbeiten aus der Wissensdatenbank adressiert die *Inhalts*- und *Evaluations*-Lücken hinter CRP.
 
@@ -63,7 +63,7 @@ Eine Reihe von Arbeiten aus der Wissensdatenbank adressiert die *Inhalts*- und *
 - **Kulturelle Navigation ist dort, wo KI-Unterstützung am schwächsten ist:** Internationale Studierende bewerteten konversationelle KI am höchsten für Grammatik, Struktur und Zusammenfassung (Mittelwert 4.27) und am niedrigsten für kulturelle Navigation (Mittelwert 3.49) ([[international-students-conversational-ai-adaptation|Nourian et al. (2026)]]).
 - **Kulturelle Anpassung als Gestaltungszüge:** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] operationalisieren kulturelle Relevanz in einem KI-System zur [[well-being|Wohlbefinden]]-Unterstützung ([[culturally-aware-student-stress-chatbot-2026|Sukoon]]) durch drei Züge: eine zweisprachige 20-Fragen-Einschätzung mit parallelen englischen und Urdu-Bezeichnungen; einen System-Prompt, der das Modell anweist, konsistent mit pakistanischen sozialen und kulturellen Normen zu antworten und, wo angemessen, Urdu- und Roman-Urdu-Ausdrücke zu verwenden; sowie ausdrückliche Sensibilität für lokal salienten Stressoren (familiäre Erwartungen, finanzieller Druck, hierarchische Lehrkraft-Studierenden-Beziehungen). Ihre Begründung ist ebenso empirisch wie ethisch — [[explainable-ai|Merkmalsbedeutung]] platzierte die Lehrkraft-Studierenden-Beziehung auf Rang zwei unter den Stressprädiktoren —, doch sie räumen ein, dass die Anpassung im Prompt statt in der NLP-Pipeline lebt und dass kulturelle Angemessenheit nur durch informelles Testen eingeschätzt wurde, nicht durch die Studierenden, die das System adressiert.
 
-### Praktische Anleitung
+## Praktische Anleitung
 
 Auf der Grundlage der eigenen Artikel der Wissensdatenbank können Lehrende und Gestaltende CRP auf KI anwenden:
 
@@ -75,32 +75,32 @@ Auf der Grundlage der eigenen Artikel der Wissensdatenbank können Lehrende und 
 
 ## Verbreitete Fehlvorstellungen
 
-**„KI-Ausgaben sind kulturell neutral, solange man nicht nach Kultur fragt.“** Der Standard ist nicht neutral, sondern dominant. Eine Analyse von **310 KI-generierten Unterrichtsplänen für politische Bildung (2.230 Aktivitäten)** fand **94% ohne erkennbaren multikulturellen Inhalt** — und von den 144 Aktivitäten, die welchen hatten, lagen **137 auf der niedrigsten „Additive“-Stufe, nur eine erreichte „Transformation“, und keine erreichte „Social Action“.** Ohne entsprechenden Prompt reproduzierten die Modelle einen nicht-diversen Standard, sodass das [[prompt-engineering|Fragen nach Kultur]] keine [[bias-mitigation|Bias-Minderung]] ist, sondern der einzige Grund, warum überhaupt etwas davon auftaucht.
-
-**„Multikulturelle Beispiele hinzuzufügen ist kulturell relevante Pädagogik.“** Die Hierarchie des Rahmenwerks sagt etwas anderes, und die generierte Ausgabe zeigt, warum die Unterscheidung operativ wichtig ist. Additiver Inhalt lässt Struktur und Annahmen der Einheit unberührt; Transformation verändert, wie der Inhalt gerahmt wird; Social Action verlangt von Lernenden, darauf zu handeln. Repräsentation mit Transformation zu verwechseln, ist der Grund, warum ein Korpus zu 6% nicht leer an Diversität sein und dennoch weit von kulturell responsiv entfernt sein kann.
-
-**„Institutionelle KI-Nutzungspolitik bestimmt, was Studierende für ethisch halten.“** Kultur leistet mehr als der Politiktext. Eine kulturvergleichende Befragung kanadischer und südkoreanischer [[cs-education|Informatik]]-Studierender fand, dass **Kultur, nicht Politik, die Wahrnehmung der Ethik von KI-Nutzung trieb** — identische Verhaltensweisen wurden über Kohorten hinweg unterschiedlich beurteilt. Eine einheitliche institutionenweite Politik erzeugt daher keine geteilte Ethik, und sie so zu behandeln, als täte sie es, wird Ihre Studierenden falsch lesen.
-
-**„Ein Pilot mit vier Lehrkräften, in dem sich Lehrkräfte zuversichtlicher fühlen, ist Beleg dafür, dass der Ansatz funktioniert.“** Er ist Beleg über die Wahrnehmung von Lehrkräften, was wertvoll ist und nicht dasselbe. In jenem Pilot verbesserte sich das Vertrauen der Lehrkräfte, Gelegenheiten für kulturelle Responsivität zu erkennen, und **78% fanden die KI-Vorschläge hilfreich zur Diversifizierung von Materialien** — während die Autorinnen und Autoren einräumen, dass die kulturelle Anpassung **im Prompt statt in der NLP-Pipeline** lebt und dass kulturelle Angemessenheit eher eingeschätzt als technisch umgesetzt wurde. Zuversicht plus Nützlichkeit ist keine demonstrierte kulturelle Relevanz für Studierende.
-
-## Implikationen für die Praxis
-
 **Für Lehrende**
 
-- Liefern Sie niemals einen ungeprompteten KI-Unterrichtsplan als kulturell responsiv aus. Die 94%-Zahl ist das Standardverhalten, sodass kultureller Inhalt ausdrücklich spezifiziert und Punkt für Punkt geprüft werden muss.
-- Sortieren Sie Ihre eigenen Ergänzungen an der Leiter Additive/Transformation/Social Action ein und zielen Sie mindestens eine Sprosse höher, als sich natürlich anfühlt. Die meiste generierte Diversität sitzt unten.
-- Gehen Sie nicht davon aus, dass die Politik Ihrer Einrichtung mit Ihren Studierenden reist. Der kulturelle Kontext prägt ihre ethischen Urteile mehr als das Regelwerk.
+- Geben Sie einen ohne Prompt erstellten KI-Unterrichtsentwurf niemals als kultursensibel aus. Die 94% entsprechen dem Standardverhalten, daher müssen kulturelle Inhalte explizit vorgegeben und Punkt für Punkt überprüft werden.
+- Ordnen Sie Ihre eigenen Ergänzungen anhand der Stufenleiter Additive/Transformation/Social Action ein und zielen Sie mindestens eine Stufe höher, als es sich natürlich anfühlt. Der Großteil der generierten Diversität liegt auf der untersten Stufe.
+- Gehen Sie nicht davon aus, dass die Richtlinien Ihrer Institution Ihre Studierenden überallhin begleiten. Der kulturelle Kontext prägt deren ethische Urteile stärker als das Regelwerk.
 
-**Für Gestaltende**
+**Für Entwickler**
 
-- Behandeln Sie kulturelle Angemessenheit als Anliegen der Pipeline, nicht des Prompts. Die eigene Grenze des Pilots ist, dass die Anpassung im Prompt saß, was bedeutet, dass sie verschwindet, wenn der Prompt sich ändert.
-- Evaluieren Sie generierte Inhalte gegen die ganze Leiter und berichten Sie, wie viele Items Transformation oder Social Action erreichen — eine Diversitätszählung, die bei Additive endet, wird zufriedenstellend aussehen und sehr wenig bedeuten.
-- Machen Sie die Lehrkraft-Studierenden-Beziehung in allem sichtbar, was Sie instrumentieren; die Merkmalsbedeutung platzierte sie in der zitierten Arbeit auf Rang zwei der Stressprädiktoren, und sie ist das Gut, das generische Generierung nicht liefern kann.
+- Behandeln Sie kulturelle Angemessenheit als eine Frage der Pipeline, nicht als eine Frage des Prompts. Die eigentliche Einschränkung des Pilotprojekts besteht darin, dass die Anpassung im Prompt verankert war — sie verschwindet also, sobald sich der Prompt ändert.
+- Bewerten Sie generierte Inhalte anhand der gesamten Stufenleiter und berichten Sie, wie viele Items Transformation oder Social Action erreichen — eine Diversitätszählung, die bei Additive stehen bleibt, wird zufriedenstellend aussehen und sehr wenig bedeuten.
+- Machen Sie die Lehrer-Schüler-Beziehung in allem sichtbar, was Sie instrumentieren; die Feature Importance ordnete sie in der zitierten Arbeit an zweiter Stelle unter den Stressprädiktoren ein, und sie ist die Ressource, die generische Generierung nicht liefern kann.
 
 **Für Forschende**
 
-- Berichten Sie kulturellen Inhalt nach Stufe statt als Anwesenheit oder Abwesenheit, denn 94% gegenüber 6% Anwesenheit sagt nichts darüber, welche 6%.
-- Unterscheiden Sie in der Berichterstattung über Piloten ausdrücklich Ergebnisse der Lehrkraftwahrnehmung von Ergebnissen bei Studierenden.
+- Berichten Sie kulturelle Inhalte nach ihrem Ausprägungsgrad statt als Vorhandensein oder Fehlen, denn eine Präsenz von 94 % gegenüber 6 % sagt nichts darüber aus, welche 6 % es sind.
+- Unterscheiden Sie bei der Berichterstattung über Pilotprojekte explizit zwischen Ergebnissen aus der Wahrnehmung der Lehrkräfte und Ergebnissen aufseiten der Lernenden.
+
+## Implikationen für die Praxis
+
+**„KI-Ausgaben sind kulturell neutral, solange man nicht eigens nach Kultur promptet.“** Der Standard ist nicht neutral, er ist dominant. Von den untersuchten **310 KI-generierten Unterrichtsentwürfen für Gemeinschaftskunde** (**2.230 Aktivitäten**) boten **94 % nichts erkennbar Multikulturelles**. Von den 144 Aktivitäten, bei denen das der Fall war, lagen **137 auf der niedrigsten Stufe „Additive“, nur eine erreichte „Transformation“ und keine erreichte „Social Action“.** Ohne gezielte Prompts reproduzierten die Modelle einen nicht diversen Standard — [[prompt-engineering|Prompting]] für Kultur ist also keine [[bias-mitigation|Bias-Minderung]], sondern der einzige Grund, warum überhaupt etwas davon vorkommt.
+
+**„Das Hinzufügen multikultureller Beispiele ist bereits kulturell relevante Pädagogik."** Die Hierarchie des Frameworks selbst besagt etwas anderes, und die generierten Ausgaben zeigen, warum diese Unterscheidung in der Praxis bedeutsam ist. Additive Inhalte lassen die Struktur und die Annahmen der Unterrichtseinheit unberührt; Transformation verändert, wie die Inhalte gerahmt werden; Social Action fordert Lernende dazu auf, auf dieser Grundlage zu handeln. Repräsentation mit Transformation gleichzusetzen, ist der Grund dafür, dass ein Korpus zu 6 % nicht-leere Einträge zum Thema Diversität aufweisen und dennoch weit davon entfernt sein kann, kulturell responsiv zu sein.
+
+**„Institutionelle Richtlinien zur KI-Nutzung bestimmen, was Studierende für ethisch halten.“** Kultur leistet mehr als der Richtlinientext. Eine kulturvergleichende Befragung kanadischer und südkoreanischer [[cs-education|Informatik]]-Studierender ergab, dass **die Kultur, nicht die Richtlinie, darüber entschied, als wie ethisch KI-Nutzung wahrgenommen wurde** — identische Verhaltensweisen wurden in den beiden Kohorten unterschiedlich beurteilt. Eine einzige hochschulweite Richtlinie schafft daher keine gemeinsame Ethik, und wer sie so behandelt, als würde sie das leisten, wird die eigenen Studierenden falsch einschätzen.
+
+**„Eine Pilotstudie mit vier Lehrkräften, die zeigt, dass sich Lehrkräfte sicherer fühlen, ist ein Beleg dafür, dass der Ansatz funktioniert."** Sie ist ein Beleg für die Wahrnehmung der Lehrkräfte — eine Information, die zu haben sich lohnt, aber etwas anderes ist. In dieser Pilotstudie nahm die Sicherheit der Lehrkräfte beim Erkennen von Gelegenheiten für kulturelle Responsivität zu, und **78% fanden AI-Vorschläge hilfreich, um Materialien vielfältiger zu gestalten** — wobei die Autoren einräumen, dass die kulturelle Anpassung **im Prompt und nicht in der NLP-Pipeline** stattfindet und dass kulturelle Angemessenheit bewertet, nicht aber gezielt hergestellt wurde. Sicherheit plus Nützlichkeit sind keine nachgewiesene kulturelle Relevanz für Lernende.
 
 ## Verbundene Konzepte
 

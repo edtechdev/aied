@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Selbstgesteuertes Lernen
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -43,18 +43,17 @@ Selbstgesteuertes Lernen ist eng verwandt mit —, aber verschieden von — [[se
 
 ## Wie generative KI selbstgesteuertes Lernen umformt
 
-Die [[research-methods-aied|Forschung]] der Wissensbasis dokumentiert beide Seiten der GenAI-SDL-Beziehung.
+Die Forschung dokumentiert beide Seiten der GenAI-SDL-Beziehung.
 
 - **KI kann SDL stützen.** [[ai-lifelong-learning-policy|KI und lebenslanges Lernen]] und [[self-directed-growth-generative-ai-learning-analytics|selbstgesteuertes Wachstum mit GenAI + Learning Analytics]] zeigen, dass KI-Werkzeuge unabhängige Inquiry [[scaffolding|gerüsten]], On-Demand-Ressourcen liefern und Lernpfade auf Weisen personalisieren können, die die Autonomie der Lernenden stärken. [[genai-educational-outcomes-meta-analysis|Metaanalytische Evidenz]] zu Bildungsergebnissen generativer KI und [[conversational-ai-informal-learning|konversationelle KI im informellen Lernen]] legen positives Potenzial nahe, wenn KI als eine Ressource genutzt wird, die die lernende Person steuert.
 - **Lernende wollen einen Denkpartner, kein Orakel.** Interviewte erwachsene Lernende wollten, dass KI Reflexion anregt und verifiziert, statt Antworten zu liefern, und sie den [[recommender-systems-and-learning-paths|Lernpfad]] kontrollieren lässt statt ihn vorzuschreiben ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
+- **Zielwahl zu delegieren ist nicht dasselbe, wie sie zu unterstützen.** Das Setzen des Ziels ist der Kernakt der lernenden Person, und die Benchmark-Evidenz zeigt, dass Modelle es anders tun. Gegenüber 175 Menschen wählten GPT-5, Claude Sonnet 4.5 und Qwen3 32B in 0,93, 0,93 und 0,94 der Durchläufe das vorherige Ziel erneut, gegenüber 0,54 ± 0,18 bei Menschen. Die Zielentropie lag bei 0,12 bis 0,20 gegenüber 1,67 ± 0,14, und Chain-of-Thought- und Persona-Prompts schlossen die Lücke nicht. Ein System, das vorschlägt, was als Nächstes zu lernen ist, reproduziert eine engere Suche als die lernende Person, die es vertritt ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
 
-- **Zielwahl zu delegieren ist nicht dasselbe, wie sie zu unterstützen.** Die Seite behandelt das Setzen des Ziels als Kernakt der lernenden Person, und die Benchmark-Evidenz zeigt, dass Modelle es anders tun. Gegenüber 175 Menschen wählten GPT-5, Claude Sonnet 4.5 und Qwen3 32B in 0,93, 0,93 und 0,94 der Durchläufe das vorherige Ziel erneut, gegenüber 0,54 ± 0,18 bei Menschen. Die Zielentropie lag bei 0,12 bis 0,20 gegenüber 1,67 ± 0,14, und Chain-of-Thought- und Persona-Prompts schlossen die Lücke nicht. Ein System, das vorschlägt, was als Nächstes zu lernen ist, reproduziert eine engere Suche als die lernende Person, die es vertritt ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
+- **Gedankenloser Einsatz untergräbt SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] zeigen, dass der **gedankenlose Einsatz von GenAI** — zu übernehmen, was sie zurückgibt, ohne es zu evaluieren — in zwei Richtungen Schaden anrichtete: Er senkte das SDL von Undergraduates direkt und erodierte zudem [[self-efficacy|Selbstwirksamkeit]] und [[motivation|Motivation]] (das Modell erklärte 75,3% der SDL-Varianz; TUGA β = −0,42). Die negative Wirkung auf Motivation war bei männlichen Studierenden stärker und auf Selbstwirksamkeit stärker bei weiblichen Studierenden. Das verbindet sich mit dem breiteren [[cognitive-offloading|Überabhängigkeitsrisiko]].
 
-- **Gedankenloser Einsatz untergräbt SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] zeigen, dass der **gedankenlose Einsatz von GenAI** — KI-Outputs ohne kritische Evaluation zu übernehmen — das SDL von Undergraduates sowohl direkt als auch durch Erosion von [[self-efficacy|Selbstwirksamkeit]] und [[motivation|Motivation]] signifikant schädigt (das Modell erklärte 75,3% der SDL-Varianz; TUGA β = −0,42). Die negative Wirkung auf Motivation war bei männlichen Studierenden stärker und auf Selbstwirksamkeit stärker bei weiblichen Studierenden. Das verbindet sich mit dem breiteren [[cognitive-offloading|Überabhängigkeitsrisiko]], das in der Wissensbasis dokumentiert ist.
+- **Ungeführter Einsatz im Bevölkerungsumfang.** Bei 4.062 Lernenden an 136 deutschen Sekundarschulen stiegen aufgabenabschlussorientierter und lernorientierter GenAI-Einsatz beide im Verlauf eines Schuljahres (d = 0,35 und 0,33), wobei nur 5 % der Lernenden die Werkzeuge nie nutzten; geringere Vorleistungen sagten in allen sechs Fächern mehr spätere Nutzung voraus, doch keine der beiden Nutzungsformen sagte spätere Leistungen voraus ([[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]]).
 
-- **Ungeführter Einsatz im Bevölkerungsumfang.** Über 4.062 Lernende an 136 deutschen Sekundarschulen stiegen aufgabenorientierter und lernorientierter GenAI-Einsatz im Verlauf eines Schuljahres (d = 0,35 und 0,33), wobei nur 5 % der Lernenden die Werkzeuge nie nutzten; geringere Vorleistungen sagten in allen sechs Fächern mehr spätere Nutzung voraus, doch keine der beiden Nutzungsformen sagte spätere Leistungen voraus ([[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]]).
-
-- **Kognitive Auslagerung und Delegation.** [[andragogy-cognitive-delegation-genai-2026|Andragogik und kognitive Delegation]] und [[learning-by-chatting-genai-impact|Lernen durch Chatten mit GenAI]] untersuchen, wie Lernende kognitive Arbeit auf Weisen an KI delegieren können, die die aufwändige Verarbeitung umgehen, die SDL erfordert —, ein Versagensmodus ansonsten autonomiestützender Werkzeuge. [[critical-thinking-genai-scaffolding|Kritisches Denken mit GenAI gerüsten]] und [[test-driven-ai-assisted-learning|testgetriebenes KI-unterstütztes Lernen]] modellieren produktivere Designs.
+- **Kognitive Auslagerung und Delegation.** [[andragogy-cognitive-delegation-genai-2026|Andragogik und kognitive Delegation]] und [[learning-by-chatting-genai-impact|Lernen durch Chatten mit GenAI]] untersuchen, wie Lernende kognitive Arbeit auf Weisen an KI delegieren können, die die aufwändige Verarbeitung umgehen, die SDL erfordert — ein Versagensmodus ansonsten autonomiestützender Werkzeuge. [[critical-thinking-genai-scaffolding|Kritisches Denken mit GenAI gerüsten]] und [[test-driven-ai-assisted-learning|testgetriebenes KI-unterstütztes Lernen]] modellieren produktivere Designs.
 
 ## Die SDL-SRL-Unterscheidung in der Praxis
 
@@ -66,30 +65,30 @@ Weil SDL lernendeninitiierte Steuerung betont, fokussieren Interventionen zu ihr
 
 ## Verbreitete Fehlvorstellungen
 
-**„Selbstgesteuertes Lernen und selbstreguliertes Lernen sind dasselbe Konstrukt."** Sie arbeiten auf unterschiedlichen Zeitskalen: SRL betrifft die Regulierung des Lernens im Moment, während SDL die übergreifende Verantwortung über die Zeit betrifft — zu wählen, was gelernt wird, das Ziel zu setzen und die Richtung über Monate hinweg zu halten. Eine Intervention, die die Regulation von Moment zu Moment verbessert, muss keine selbstgesteuerte lernende Person hervorbringen, und eine studierende Person kann über ein Programm hinweg selbstgesteuert sein, während sie innerhalb einer Sitzung schlecht reguliert.
-
-**„KI macht selbstgesteuertes Lernen leichter, weil sie Struktur liefert."** Sie kann die Ausübung der Fähigkeit entfernen. [[genai-thoughtless-use-self-directed-learning-2026|Zhao und Gu (2026)]] zeigen, dass der **gedankenlose Einsatz von GenAI — Outputs ohne kritische Evaluation zu übernehmen — SDL erheblich untergräbt**. Das eigene Lernen zu steuern übt man, indem man die Entscheidungen trifft, die GenAI heute für einen treffen kann, sodass ein Assistent, der immer Richtung liefert, sie anstelle der Kompetenz liefert.
-
-**„Nichtnutzung von KI zeigt fehlenden Zugang an."** Unter Studierenden, die sie nicht nutzen, ist der genannte Grund oft eine positive Bildungsentscheidung — die Arbeit selbst machen zu wollen — statt eine Barriere. Nichtnutzung als Defizit zu lesen beschreibt eine Position falsch, die in der Evidenz der [[student-experience|Studierendenerfahrung]] begründet ist.
-
-**„Selbststeuerung heißt, allein zu arbeiten."** Es heißt, die Richtung zu besitzen, was in einer stark unterstützten Umgebung ausgeübt werden kann. Das unterscheidende Merkmal ist, wer das Ziel setzt und anpasst, nicht ob Hilfe verfügbar ist.
-
-## Implikationen für die Praxis
-
 **Für Lehrende**
 
-- Unterscheiden Sie, was Sie entwickeln: Regulierung in der Sitzung oder Besitz über die Zeit. Sie brauchen unterschiedliche Designs, und das eine zu verbessern erzeugt nicht das andere.
-- Schützen Sie die Entscheidungen, die Selbststeuerung ausmachen — was zu lernen ist, wie Fortschritt zu beurteilen ist, wann der Kurs zu ändern ist —, selbst dort, wo KI sie treffen könnte. Sie zu delegieren entfernt die Übung.
-- Lehren Sie Evaluation zusammen mit der Nutzung, da die dokumentierte Übernahme von Outputs ohne Prüfung der Mechanismus ist, durch den GenAI SDL untergräbt.
+- Unterscheiden Sie, was Sie entwickeln: die Regulation innerhalb einer Sitzung oder die übergreifende Verantwortung über die Zeit hinweg. Sie erfordern unterschiedliche Designs, und die Verbesserung des einen bringt das andere nicht hervor.
+- Schützen Sie die Entscheidungen, die Selbststeuerung ausmachen — was gelernt wird, wie Fortschritt beurteilt wird, wann der Kurs geändert wird —, auch dort, wo KI sie treffen könnte. Sie zu delegieren entfernt die Übung.
+- Vermitteln Sie Evaluation parallel zur Nutzung, denn die gedankenlose Übernahme von Outputs ist der dokumentierte Mechanismus, über den GenAI SDL untergräbt.
 
-**Für Entwicklerinnen und Entwickler**
+**Für Entwickelnde**
 
-- Machen Sie die Entscheidungen der Lernenden sichtbar und revidierbar, statt sie standardmäßig zu setzen. Ein System, das immer Richtung liefert, liefert sie anstelle der Kompetenz, die entwickelt wird.
-- Bauen Sie Reflexionskontrollpunkte ein, an denen die lernende Person ihr Ziel und ihre Evidenz benennt, damit die Richtung ihre bleibt.
+- Machen Sie die Entscheidungen der lernenden Person sichtbar und revidierbar, statt sie standardmäßig zu setzen. Ein System, das immer Richtung liefert, liefert sie anstelle der zu entwickelnden Kompetenz.
+- Bauen Sie Reflexionspunkte ein, an denen die lernende Person ihr Ziel und ihre Belege benennt, damit die Richtung ihre eigene bleibt.
 
 **Für Forschende**
 
-- Berichten Sie, auf welches Konstrukt eine Intervention zielte; SDL- und SRL-Outcomes sollten nicht austauschbar verwendet werden.
+- Berichten Sie, auf welches Konstrukt eine Intervention abzielte; SDL- und SRL-Ergebnisse sollten nicht austauschbar verwendet werden.
+
+## Implikationen für die Praxis
+
+**„Selbstgesteuertes Lernen und selbstreguliertes Lernen sind dasselbe Konstrukt.“** Sie operieren auf unterschiedlichen Zeitskalen: SRL betrifft die Regulierung des Lernens im Moment, während SDL die übergreifende Verantwortung über die Zeit hinweg betrifft — die Wahl dessen, was zu lernen ist, das Setzen des Ziels und das Halten der Richtung über Monate. Eine Intervention, die die Regulierung von Moment zu Moment verbessert, muss keine selbstgesteuerte lernende Person hervorbringen, und eine lernende Person kann über ein Studienprogramm hinweg selbstgesteuert sein und innerhalb einer Sitzung dennoch schlecht regulieren.
+
+**„KI macht selbstgesteuertes Lernen einfacher, weil sie Struktur liefert.“** Sie kann die Übung der Fähigkeit entfernen. [[genai-thoughtless-use-self-directed-learning-2026|Zhao and Gu (2026)]] zeigen, dass **gedankenlose Nutzung von GenAI — die Übernahme von Outputs ohne kritische Prüfung — SDL signifikant untergräbt**. Das eigene Lernen zu steuern wird dadurch geübt, dass man die Entscheidungen trifft, die GenAI nun für einen treffen kann; ein Assistent, der immer Richtung liefert, liefert sie also anstelle der Kompetenz.
+
+**„Nichtnutzung von KI deutet auf fehlenden Zugang hin.“** Unter Studierenden, die sie nicht nutzen, ist der angegebene Grund oft eine positive bildungsbezogene Entscheidung — die Arbeit selbst machen zu wollen — und keine Barriere. Nichtnutzung als Defizit zu lesen, beschreibt eine Position falsch, die in den Befunden zur [[student-experience|Erfahrung der Studierenden]] begründet ist.
+
+**„Selbststeuerung bedeutet, allein zu arbeiten.“** Sie bedeutet, die Richtung zu besitzen, was auch in einem stark unterstützten Umfeld ausgeübt werden kann. Das unterscheidende Merkmal ist, wer das Ziel setzt und anpasst, nicht ob Hilfe verfügbar ist.
 
 ## Verbundene Konzepte
 

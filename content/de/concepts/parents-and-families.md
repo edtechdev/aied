@@ -1,7 +1,7 @@
 ---
 title: Eltern und Familien
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,8 @@ ai_assist:
 Ein großer Anteil der Zeit von Kindern mit KI geschieht außerhalb des Kursraums, in einem Setting, das die Forschungsliteratur meist als Hintergrund behandelt. Arbeit zu Tutoring und Lernergebnissen ist üblicherweise schulbasiert, während Arbeit zu Familienrat meist beratend statt getestet ist, sodass Familien gleichzeitig das Ziel einer großen Menge an Ratschlägen zum [[ethics|verantwortungsvollen KI]]-Gebrauch sind und Gegenstand sehr wenig Evidenz darüber, ob dieser Rat wirkt.
 
 Diese Seite behandelt den Haushalt als Akteur aus eigenem Recht. Sie umfasst KI-vermitteltes Eltern-Kind-Tutoring, die Begleiter- und Lesewerkzeuge, denen Kinder zu Hause begegnen, was Schulen Familien über KI-Nutzung sagen und nicht sagen, die eigene [[ai-literacy|KI-Kompetenz]] der Eltern und was über ihre Ansichten bekannt ist, sowie die Zugangs- und Kostenbedingungen, unter denen Familien diese Werkzeuge nutzen. Wo die Evidenz dünn ist, sagt die Seite das, statt die Lücke zu füllen.
+
+Was ein Kind mit einem Werkzeug in einem bestimmten Alter tun kann, ist eine Entwicklungsfrage und keine Frage der Präferenz; die [[developmental-psychology|Entwicklungspsychologie]] liefert diese Darstellung.
 
 ## Eltern als Ko-Bildende zu Hause
 
@@ -100,6 +102,7 @@ Ein [[meta-analysis-systematic-review|Scoping-Review]] 2026 kartiert, wie weit d
 
 ## Verbundene Konzepte
 
+- [[developmental-psychology]]
 - [[stakeholders]] — die Überblicksseite für Publika und Akteure in KI in der Bildung
 - [[early-childhood-elementary-ai-education]] — die Entwicklungsdomäne, in der Heim- und Familiennutzung am meisten untersucht ist
 - [[ai-use-disclosure]] — Offenlegungspraktiken und die Frage, was Familien erreicht

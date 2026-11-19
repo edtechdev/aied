@@ -39,7 +39,7 @@ ai_assist:
 
 ## Einführung
 
-### KI in der beruflichen Weiterbildung
+## KI in der beruflichen Weiterbildung
 
 - **Simulation und Praxis:** [[adaptive-virtual-patient-psychotherapy-training|Training mit virtuellen Patientinnen]] und [[astra-atco-training-simulator|ATCO-Trainingssimulatoren]] schaffen KI-gestützte professionelle Praxisumgebungen. In der [[teacher-education|Lehrkräftebildung]] weitet KI-Rollenspielsimulation dies in praxisbasiertes Lehren aus: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]] simulierte eine Mathematik lernende Person der Mittelstufe mit [[misconceptions|Missverständnis]], damit angehende Lehrkräfte das Diagnostizieren und Fördern bei Fehlern der Studierenden üben konnten, abgestimmt auf die „Annäherungen an Praxis“ des praxisbasierten [[teacher-role|Lehr]]-Lernens als erschwingliche Ergänzung zu kostspieligen Plattformen wie TeachLivE.
 
@@ -81,7 +81,7 @@ ai_assist:
 - **Exposition und Wiederholung, nicht Demografie, verfolgen günstige Wahrnehmungen.** In einer [[mixed-methods-research|Mixed-Methods-Studie]] mit 302 türkischen Primarstufenmathematiklehrkräften ([[cigerci-primary-teachers-perceptions-ai-mathematics-2026|Ciğerci und Uygun, 2026]]) waren früheres KI-Training (t = 3.661) und Häufigkeit der KI-Nutzung (F = 41.280) die Variablen, die am konsistentesten mit positiven Sichtweisen verbunden waren, während Bereitschaft (M = 3.98) und Einstellungen (M = 3.82) deutlich über persönlicher Erfahrung (M = 3.00) lagen. Die Autoren behandeln früheres Training als den klarsten Hebel, an dem Schulen ansetzen können, was auf wiederholte, anhaltende Nutzung statt einer einzelnen Einführung hinweist.
 - **Rollenrotation als lasttragende Struktur.** Eine designbasierte Studie mit 62 angehenden Bildungspsychologinnen und -psychologen in Kasachstan ([[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al., 2026]]) rotierte Studierende über acht Wochen durch vier professionelle Positionen, wobei generative KI vorläufige Ideen lieferte. Die Autoren argumentieren, der Wert habe in der Rotation gelegen statt im Werkzeug, da jede Rolle denselben Fall unterschiedlich rahmte, und spätere Zyklen zeigten mehr Anfragen nach theoretischer Begründung. Sie berichten Engagement statt gemessener Zugewinne, da sie keine Prä-Post-Kompetenzmaße erhoben.
 
-### Unterscheidbar von akademischer Bildung
+## Unterscheidbar von akademischer Bildung
 
 Berufliche Weiterbildung unterscheidet sich von akademischer Bildung durch ihren Fokus auf angewandte Fähigkeiten, unmittelbare Arbeitsplatzrelevanz und Merkmale erwachsener Lernender. [[adult-learning|Erwachsenenbildung]]-Theorie und [[adult-learning|Erwachsenenbildung]]-Prinzipien informieren das Design professionellen KI-Trainings. Ihre andere Grenze ist [[vocational-education|berufliche Aus- und Weiterbildung]]: VET nimmt Menschen auf, die den Beruf noch nicht innehaben, und schließt mit einem Gewerbe- oder technischen Qualifikationsabschluss, sodass sie erste berufliche Vorbereitung und die Qualifikationsframeworks trägt, die sie zertifizieren, wohingegen berufliche Weiterbildung von einer bestehenden Rolle ausgeht — Umschulung, kontinuierliche professionelle Bildung oder Anbieterzertifizierung — und die Kompetenz voraussetzt, die VET verleiht.
 

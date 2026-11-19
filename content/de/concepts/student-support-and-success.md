@@ -1,7 +1,7 @@
 ---
 title: Unterstützung und Erfolg von Studierenden
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -25,7 +25,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 translation_of: concepts/student-support-and-success
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 ---
 
@@ -77,15 +77,17 @@ Ein Integritätsergebnis gesellt sich zu derselben Pipeline. [[akcapinar-ai-chea
 
 ## Die Ergebnisleiter: was jedes Maß tatsächlich bedeutet
 
-Das Wort „Erfolg“ verbirgt mindestens fünf verschiedene Messungen, und KI-Unterstützung bewegt sie nicht gleich. Sie zu unterscheiden ist das Nützlichste, was diese Seite tun kann.
+Das Wort „Erfolg“ verbirgt mindestens fünf verschiedene Messungen, und KI-Unterstützung bewegt sie nicht gleich. Sie zu unterscheiden ist der nützlichste analytische Schritt.
 
-- **Aufgabenerledigung** ist eine einzelne, datierte, binäre Handlung, die die Person kontrolliert und die Einrichtung innerhalb von Tagen beobachtet — sich bis zu einer Frist einschreiben, ein Formular einreichen, sich bei Early Start einschreiben. Es ist, wo Nudges wirken, und die Effekte können groß und unmittelbar sein (34 Prozentpunkte, dann 2, bei der CSUN-Einschreibungserinnerung).
-- **Credits (eingeschriebene und erworbene Einheiten)** sind kumulativ und hängen von Kursverfügbarkeit, Sequenzierung und davon ab, wie viele Semester eine Person sich leisten kann. In der CSUN-Evaluation erschien kein signifikanter Behandlungseffekt auf eingeschriebene, erworbene oder kumulativ erworbene Einheiten.
-- **Persistenz** ist Fortsetzung über Semester hinweg — Einschreibung nach Semestersequenz —, und sie bewegte sich auch nicht, bei N = 8.708 mit Power, Effekte von 0.05 Standardabweichungen oder größer zu erkennen.
+- **Aufgabenerledigung** ist eine einzelne, datierte, binäre Handlung, die der Studierende kontrolliert und die Einrichtung innerhalb von Tagen beobachtet — sich bis zu einer Frist einschreiben, ein Formular einreichen, sich bei Early Start einschreiben. Es ist, wo Nudges wirken, und die Effekte können groß und unmittelbar sein (34 Prozentpunkte, dann 2, bei der CSUN-Einschreibungserinnerung).
+- **Credits (eingeschriebene und erworbene Einheiten)** sind kumulativ und hängen von Kursverfügbarkeit, Sequenzierung und davon ab, wie viele Semester ein Studierender sich leisten kann. In der CSUN-Evaluation erschien kein signifikanter Behandlungseffekt auf eingeschriebene, erworbene oder kumulativ erworbene Einheiten.
+- **Persistenz** ist Fortsetzung über Semester hinweg — Einschreibung nach Semestersequenz —, und sie bewegte sich auch nicht, bei N = 8.708 mit Power, Effekte von 0,05 Standardabweichungen oder größer zu erkennen.
 - **Retention** ist die institutionelle Rate, die Persistenz erzeugt, und sie wird meist auf Programm- oder Kohortenebene berichtet. DFW-Raten auf Kursebene sind das Nächstliegende zu einem Frühindikator in dieser Literatur, und sie bewegten sich mäßig (−3 Prozentpunkte in jedem Kurs der Georgia-State-Studie).
-- **Graduierung** ist das terminale, mehrjährige Ergebnis. Das Kontrollmittel für Graduierung bis zum vierten Jahr war 0.190 in der CSUN-Studie, und der Behandlungseffekt darauf war nicht statistisch signifikant.
+- **Graduierung** ist das terminale, mehrjährige Ergebnis. Das Kontrollmittel für Graduierung bis zum vierten Jahr war 0,190 in der CSUN-Studie, und der Behandlungseffekt darauf war nicht statistisch signifikant.
 
-Die Erklärung der Autoren für das Muster ist die zentrale Behauptung der Seite: Eine Erinnerung wirkt auf eine Entscheidung, die diskret und kurzfristig ist, während Persistenz und GPA kumulativ sind und durch Unterricht, Finanzen, Beschäftigung, familiäre Umstände und frühere Vorbereitung geformt werden. Sie schließen, dass Kommunikation durch ein Werkzeug wie dieses, **für sich genommen**, womöglich nicht ausreicht, sie zu verändern —, und dass die Nulls präzise sind statt unterpowert. Frühe Einschreibung trägt weiterhin institutionellen Wert für Personal- und Raumplanung, selbst wo sich Lernergebnisse nicht bewegen.
+Die Erklärung der Autoren für das Muster ist die zentrale Behauptung: Eine Erinnerung wirkt auf eine Entscheidung, die diskret und kurzfristig ist, während Persistenz und GPA kumulativ sind und durch Unterricht, Finanzen, Beschäftigung, familiäre Umstände und frühere Vorbereitung geformt werden. Sie schließen, dass Kommunikation durch ein Werkzeug wie dieses, **für sich genommen**, womöglich nicht ausreicht, sie zu verändern — und dass die Nulls präzise sind statt unterpowert. Frühe Einschreibung trägt weiterhin institutionellen Wert für Personal- und Raumplanung, selbst wo sich Lernergebnisse nicht bewegen.
+
+Ein Support-Kanal kann die institutionelle Arbeitslast bewegen, ohne eine einzige Sprosse dieser Leiter zu bewegen. In einem Engineering-Design-Kurs im ersten Studienjahr mit mehr als 800 Studierenden sank die Zahl der über das Hilfeformular gestellten Fragen pro Studierendem von 1,16 auf 0,5, ein Rückgang um 57 %, während der Mix der Anliegenarten unverändert bei 29 % Aufgaben, 33 % Noten, 27 % Software und 11 % Sonstiges blieb ([[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta et al., 2026]]). Die Autoren stellen ausdrücklich klar, dass dies ein Ergebnis zur Arbeitslast und kein Ergebnis zu Lernleistungen ist — die Rechnung, die ein Support-Business-Case üblicherweise auslässt.
 
 ## Gerechtigkeit und die Risiken, auf einen Wert hin zu handeln
 
@@ -131,6 +133,7 @@ Studierendenunterstützung verbindet sich mit [[student-experience|Erleben der S
 - [[rct]] — das Design hinter der stärksten Evidenz hier
 
 ## Verbundene Artikel
+
 - [[cefa-ai-learner-support-review-2026]] — 61-Studien-Review zu KI-gestützter Lernendenunterstützung: adaptive Systeme und Vorhersage dominieren; Übergangsphase und vielfältige Lernende fehlen
 - [[mata-sustaining-ai-enabled-student-support-2026]] — vierjährige randomisierte Evaluation eines Unterstützungs-Chatbots an einer Hochschule: der Aufgabenabschluss bewegte sich, Studienabschluss und GPA nicht
 - [[chatbot-outreach-course-performance-2026]] — vorregistrierter Outreach-Versuch über mehrere Semester: höhere A/B-Raten, bescheidene DFW-Verschiebungen, eine demografische Ausnahme
@@ -151,12 +154,10 @@ Studierendenunterstützung verbindet sich mit [[student-experience|Erleben der S
 - [[sposato-ai-educational-leadership-taxonomy-2025]] — Zehn-Domänen-Taxonomie von KI in der Bildungsführung
 - [[students-at-stake-ai-deployment-risks-2026]] — Risikofläche aus Studierendensicht: Zulassung und Förderung, Dienstleistungen für Studienerfolg und Unterricht
 - [[ai-campus-wellbeing-tools]] — Unterstützung des Wohlbefindens auf dem Campus von Prävention bis Intervention
-
 - [[shastry-gray-empathy-offloading-2026]] — Vier Studien zum Empathie-Auslagern: der Glaube, KI könne emotionale Unterstützung bieten, senkt, was Menschen selbst bieten (Shastry & Gray 2026)
-
 - [[coursegraph-cs-course-comparison-2026]] — Kursequivalenz für Anrechnung von Leistungen und Mobilität
 - [[credentials-carry-evidence-ai-agents-2026]] — was ein Abschlussnachweis bedeutet, wenn ein Agent die Arbeit erledigen kann
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — KI-gestütztes Schummelrisiko früh vorhersagen und den Schwellenwert-Kompromiss bei Outreach mit geringer Relevanz
-
 - [[rienties-institutional-ai-assistant-co-design-2026]] — Fünf Co-Design-Studien zu einem institutionellen KI-Studienassistenten: Verfügbarkeit zuerst, wertebasierter Widerstand zuletzt
 
+- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — From Queries to Conversations: Exploring AI-Based Virtual Assistant Adoption, Usability, and Impact in Engineering Education

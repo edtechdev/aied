@@ -1,13 +1,13 @@
 ---
 title: Kognitive Diagnose
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -72,24 +72,24 @@ Kognitive Diagnose verbindet sich mit [[knowledge-tracing|Knowledge Tracing]], [
 
 ## Verbreitete Fehlvorstellungen
 
-- **„Diagnose ist für Modelle eine gelöste Fähigkeit."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] überwachte diagnostisches Schließen als eine von vier Fähigkeiten in einer offenen 4B/9B/27B-Familie, und **die Wissenszustandsdiagnose blieb die schwächste** der vier. Diagnose ist die Fähigkeit, die sich dem Training widersetzte, das die anderen hervorbrachte.
-- **„Modelle können Schülerfehler simulieren, also können sie sie diagnostizieren."** Der Engpass liegt umgekehrt. Modelle konstruierten eine Lösung in **95.2% der Distraktor-Abläufe** und simulierten ein konkretes Eedi-Missverständnis mit **0.92 Genauigkeit**, doch **das Liefern der richtigen Lösung** — nicht die Simulation des Fehlers — war, was sie begrenzte. Eine plausible falsche Antwort zu erzeugen ist leichter, als eine zu erkennen.
-- **„Diagnose braucht einen handgebauten Katalog von Missverständnissen."** An **6.106 Paaren** richtiger und falscher aussagenlogischer Formalisierungen entdeckte ein Arbeitsablauf **248 Cluster von Transformationen, die 5.156 Paare erklärten (84,44%)**, gegenüber **4.370 (71,57%)** für die handverlesenen Fehler des Referenzsets. Entdeckung erreichte oder übertraf die Expertenkuratierung, und sie übertrug sich auf Modallogik — der Katalog ist also ein Ausgangspunkt, keine Obergrenze.
-- **„Eine Diagnose ist nur nützlich, wenn sie ein Missverständnis benennt."** Zu diagnostizieren, welche Kursoutcomes eine lernende Person erreicht hat, behandelt stattdessen Outcomes als Wissenskonzepte und liefert Konzeptbeziehungen über expertenvalidierte Affinitätsabbildungen. Für outcomebasierte Programme ist das die handlungsnähere Einheit, auch wenn sie gröber ist.
+**Für Lehrende**
+
+- Behandeln Sie die Diagnose eines Systems als eine zu überprüfende Hypothese, nicht als Urteil. Die Wissensstandsdiagnose war die schwächste Fähigkeit in einer Modellfamilie, die eigens darauf trainiert wurde.
+- Fragen Sie, ob die Diagnose ein Konstrukt benennt, an das Sie handeln können — also praktisch anknüpfen können. Eine Diagnose auf Ergebnisebene, die zu Ihrem Programm passt, ist oft nützlicher als eine kleinteilige Etikettierung einzelner Fehlvorstellungen.
+- Wo Ihr Fachgebiet Regeln aufweist, sollten Sie damit rechnen, dass die transformationsbasierte Entdeckung Fehlermuster findet, die Sie nicht erwartet haben; die 248 entdeckten Cluster sind ein Beleg dafür, dass kuratierte Kataloge unvollständig sind.
+
+**Für Entwickler**
+
+- Beide Richtungen messbar machen: eine falsche Antwort erkennen und die richtige Antwort erzeugen. Der Wert von 95,2 % bei der Lösungswiederherstellung deutet darauf hin, dass das Generieren die einfache Hälfte ist und der Fehlermodus im Erkennen liegt.
+- Bevorzugen Sie Discovery gegenüber einem statischen Katalog, sofern die Domänenstruktur dies zulässt, und weisen Sie die Abdeckung gegenüber einem Referenzset aus, damit der Vergleich nachvollziehbar ist.
+- Geben Sie keinen diagnostischen Score aus, ohne anzugeben, welches Konstrukt er misst und wie er unabhängig von dem Signal validiert wurde, das ihn erzeugt hat.
 
 ## Was das für die Praxis bedeutet
 
-**Für Lehrende**
-
-- Behandeln Sie die Diagnose eines Systems als zu prüfende Hypothese, nicht als Urteil. Die Wissenszustandsdiagnose war die schwächste Fähigkeit in einer Familie, die dafür trainiert wurde.
-- Fragen Sie, ob die Diagnose ein Konstrukt benennt, auf das Sie reagieren können. Eine Diagnose auf Outcome-Ebene, die auf Ihr Programm abbildet, ist oft nützlicher als ein feinkörniges Missverständnis-Etikett.
-- Wo Ihr Fach Regeln hat, rechnen Sie damit, dass transformationsbasierte Entdeckung Fehlermuster findet, die Sie nicht vorhergesehen haben; die 248 entdeckten Cluster sind Beleg dafür, dass kuratierte Kataloge unvollständig sind.
-
-**Für Entwickelnde**
-
-- Instrumentieren Sie beide Richtungen: eine falsche Antwort erkennen und die richtige erzeugen. Die Zahl von 95.2% wiederhergestellter Lösungen legt nahe, dass die Generierung die leichte Hälfte ist und der Fehlermodus im Erkennen liegt.
-- Bevorzugen Sie Entdeckung gegenüber einem statischen Katalog, wo die Domänenstruktur es erlaubt, und berichten Sie die Abdeckung gegen ein Referenzset, damit der Vergleich lesbar bleibt.
-- Liefern Sie keinen diagnostischen Wert aus, ohne zu benennen, welches Konstrukt er misst und wie er unabhängig von dem Signal validiert wurde, das ihn erzeugt hat.
+- **„Diagnose ist für Modelle eine gelöste Fähigkeit.“** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] trainierte diagnostisches Schlussfolgern als eine von vier Fähigkeiten in einer offenen 4B/9B/27B-Modellfamilie unter Supervision, und **die Wissensstandsdiagnose blieb die schwächste** der vier. Diagnose ist die Fähigkeit, die sich dem Training widersetzte, das die anderen hervorbrachte.
+- **„Modelle können Fehler von Lernenden simulieren, also können sie diese auch diagnostizieren.“** Der Engpass liegt in der umgekehrten Richtung. Modelle konstruierten in **95,2 % der Distraktor-Traces** eine Lösung und simulierten ein bestimmtes Eedi-Missverständnis mit **einer Genauigkeit von 0,92**, doch **die Bereitstellung der korrekten Lösung** — nicht die Simulation des Fehlers — war das, was sie begrenzte. Eine plausible falsche Antwort zu erzeugen ist einfacher, als eine solche zu erkennen.
+- **„Die Diagnose erfordert einen von Hand erstellten Katalog von Fehlvorstellungen.“** Bei **6.106 Paaren** korrekter und inkorrekter aussagenlogischer Formalisierungen entdeckte ein Workflow **248 Cluster von Transformationen, die 5.156 Paare (84,44 %) erklären**, gegenüber **4.370 (71,57 %)** für die handverlesenen Fehler des Referenzsets. Die automatische Entdeckung erreichte oder übertraf die Kuratierung durch Fachexpertinnen und Fachexperten und ließ sich auf die Modallogik übertragen — der Katalog ist also ein Ausgangspunkt, keine Obergrenze.
+- **„Eine Diagnose ist nur nützlich, wenn sie ein Fehlkonzept benennt.“** Zu diagnostizieren, welche Lernergebnisse eines Kurses ein Lernender erreicht hat, behandelt stattdessen die Lernergebnisse als die Wissenskonzepte und liefert Konzeptbeziehungen über expertenvalidierte Affinitätszuordnungen. Für lernergebnisorientierte Studiengänge ist dies die handlungsrelevantere Einheit, auch wenn sie gröber ist.
 
 ## Verbundene Konzepte
 - [[knowledge-tracing]]

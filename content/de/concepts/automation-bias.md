@@ -1,7 +1,7 @@
 ---
 title: Automatisierungsbias
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 contributors: [editor]
 translation_of: concepts/automation-bias
-source_updated: "2026-11-04T18:49:36-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -64,33 +64,35 @@ Fünf Stellen tragen den größten Teil des Risikos, und jede hat eine andere Pe
 
 ## Was der Korpus zeigt
 
-### Lehrkräfte, die Scores und Empfehlungen folgen
+### Lehrkräfte, die Scores und Empfehlungen den Vorrang geben
 
-Die klarste Darstellung des Mechanismus findet sich in der lehrkraftgerichteten Arbeit. [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe et al. (2026)]] beschreiben Diagnosesysteme, die Leistung und Bearbeitungszeit sehen, während [[motivation]], Lernhistorie und Klassendynamik für sie unsichtbar bleiben, und warnen, dass Automatisierungsbias Lehrkräfte dazu drängen kann, Empfehlungen zu folgen, die auf diesem dünnen Ausschnitt beruhen. Ihr Gegenmittel ist kein besserer Score, sondern eine andere Haltung: Wo die Erklärung schwach ist, müssen Lehrkräfte sich stärker auf ihre eigene Beobachtung stützen, wie sich Studierende bei der Nutzung der KI verhalten.
+Die klarste Beschreibung des Mechanismus findet sich in den Arbeiten, die sich an Lehrkräfte richten. [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe et al. (2026)]] beschreiben diagnostische Systeme, die Leistung und Bearbeitungszeit sehen, während [[motivation|Motivation]], Lerngeschichte und Klassendynamik für sie unsichtbar bleiben, und warnen, dass Automation Bias Lehrkräfte dazu drängen kann, sich Empfehlungen zu beugen, die auf diesem schmalen Ausschnitt beruhen. Ihr Gegenmittel ist nicht ein besserer Score, sondern eine andere Haltung: Wo die Erklärung schwach ist, müssen sich Lehrkräfte stärker auf ihre eigene Beobachtung dessen stützen, wie sich Schülerinnen und Schüler bei der Nutzung der KI verhalten.
 
-Die schärfste Lücke liegt am Punkt des Urteils. [[human-in-the-loop-ai-scoring-national-assessment-2026|Die Studie zum Scoring in der nationalen Leistungsmessung (2026)]] lässt Raterinnen Maschinenscores prüfen, und ihre Autorinnen und Autoren benennen den ungetesteten Mechanismus direkt: Ob Raterinnen, denen vor der Beurteilung KI-Scores gezeigt werden, von ihnen verankert werden oder ihnen folgen, ist ungemessen, und sie schlagen verblindete gegenüber nicht verblindeten Rater-Experimenten als nächsten Schritt vor. Die Human-in-the-Loop-Behauptung in diesem Design ist daher eine Annahme, kein Befund – und es ist die gute Version des Designs.
+Die deutlichste Lücke zeigt sich am Punkt der Urteilsbildung. [[human-in-the-loop-ai-scoring-national-assessment-2026|Die Studie zur Bewertung nationaler Leistungstests (2026)]] lässt Rater maschinelle Bewertungen überprüfen, und ihre Autorinnen und Autoren benennen den ungeprüften Mechanismus direkt: Ob Rater, denen vor ihrer Urteilsbildung KI-Bewertungen angezeigt werden, von diesen verankert werden oder ihnen nachgeben, ist nicht gemessen; als nächsten Schritt schlagen sie Experimente mit verblindeten gegenüber nicht verblindeten Ratern vor. Die Human-in-the-Loop-Behauptung in diesem Design ist daher eine Annahme, kein Befund — und dies ist die gute Version des Designs.
 
-### Analytics-Dashboards und die Human-in-the-Loop-Behauptung
+Ein Experiment zur Sicherheitsaufsicht liefert nun die entsprechende Messung in einem benachbarten Kontext. Über 416 Bewerterinnen und Bewerter sowie 3.957 Items hinweg senkte die Präsentation von Modellvorschlägen vor der menschlichen Antwort die Bewertergenauigkeit bei Items, die das Modell falsch beantwortet hatte, von 36,7 % auf 20,6 %, während die Genauigkeit bei Items, die das Modell richtig beantwortet hatte, um 7,3 Punkte stieg ([[shi-human-ai-complementarity-safety-2026|Shi et al., 2026]]). Die Bewertenden wurden insgesamt genauer und zugleich weniger fähig, jene Fehler zu erkennen, zu deren Erkennung sie eingesetzt waren — genau jener Bias, der sich so auswirkt, wie ihn die Autorinnen und Autoren der nationalen Assessment-Studie vermuteten: Die Maschinenantwort setzt den Rahmen, und der Mensch passt sich innerhalb dieses Rahmens an.
 
-[[in-the-loop-educational-ai-learning-sciences-2026|Das lerntheoretische Review zu In-the-Loop-KI in der Bildung (2026)]] gibt dem Muster seine allgemeine Form: Dashboards schließen Teilhabe aus Klicks, automatisiertes [[writing-education|Schreibfeedback]] privilegiert Oberflächenmerkmale gegenüber Argumentation, und Ampeln der Frühwarnung interpretieren Verläufe vor. Automatisierungsbias verstärkt jedes davon, und das Review behandelt [[trust]] als soziotechnisches Ergebnis, geformt durch Transparenz, wahrgenommene Kompetenz und ein sinnvolles Recht auf Überstimmung, statt als stabile Einstellung.
+### Analytics-Dashboards und der Human-in-the-Loop-Anspruch
 
-Zwei Designs im Korpus nehmen das ernst. [[factria-responsible-institutional-analytics-2026|FACTRIA (2026)]] hält einen Menschen in der Schleife, indem es sich weigert zu empfehlen: In einer Think-Aloud-Studie mit elf [[stakeholders]], die vier reale Analytics-Fälle lesen und mit Cohen's k von 0,76 kodiert wurden, unterstützte der [[conversational-ai|Chatbot]] die Interpretation und lehnte ausdrücklich Entscheidungen ab, und seine Autorinnen und Autoren markieren Automatisierungsbias und unkritische Übernahme als Restrisiken. [[ludia-udl-ai-thought-partner-2026|LUDIA (2026)]] leitet jede Ausgabe durch eine Lehrkraft und räumt dann ein, dass der Schutz schwächer ist, als er aussieht, weil die Lehrkraft, die einen schwachen Vorschlag am ehesten annimmt, gerade die ist, die darauf vertraut, dass LUDIA [[universal-design-for-learning|Universal Design for Learning]] versteht.
+[[in-the-loop-educational-ai-learning-sciences-2026|Die lernwissenschaftliche Übersichtsarbeit zu In-the-Loop-Bildungs-KI (2026)]] gibt dem Muster seine allgemeine Form: Dashboards leiten Beteiligung aus Klicks ab, automatisiertes [[writing-education|Schreibfeedback]] bevorzugt Oberflächenmerkmale gegenüber der Argumentation, und Early-Alert-Ampeln deuten Lernverläufe vorab. Der Automation Bias verschärft jeden dieser Effekte, und die Übersichtsarbeit behandelt [[trust|Vertrauen]] als soziotechnisches Ergebnis, das durch Transparenz, wahrgenommene Kompetenz und ein wirksames Recht auf Übersteuerung geprägt wird — und nicht als stabile Einstellung.
 
-Der konzeptionelle Punkt, der diese Befunde verbindet, stammt aus [[extended-minds-coupling-flexibility-2026|der Kopplungs-Flexibilitäts-Darstellung erweiterter Geister (2026)]]: Eine bloß formale Gelegenheit, anzunehmen oder abzulehnen, setzt den Menschen nicht in die Produktion des Urteils, wenn Automatisierungsbias sie zunichtemacht. Aufsicht erfordert eine substanzielle Gelegenheit einzugreifen, und ein Ablehnungsknopf, den niemand drückt, ist keine Aufsicht.
+Zwei Designs nehmen diesen Punkt ernst. [[factria-responsible-institutional-analytics-2026|FACTRIA (2026)]] belässt einen Menschen im Prozess (Human-in-the-Loop), indem es Empfehlungen verweigert: In einer Think-Aloud-Studie, in der elf [[stakeholders|Stakeholder]] vier reale Analytics-Fälle lasen — kodiert mit Cohens k von 0,76 —, unterstützte der [[conversational-ai|Chatbot]] die Interpretation und lehnte es ausdrücklich ab, Entscheidungen zu treffen; seine Autorinnen und Autoren benennen Automation Bias und unkritische Übernahme als verbleibende Risiken. [[ludia-udl-ai-thought-partner-2026|LUDIA (2026)]] leitet jede Ausgabe über eine Lehrkraft und räumt dann ein, dass diese Absicherung schwächer ist, als sie aussieht, denn die Lehrkraft, die am ehesten einen schlechten Vorschlag übernimmt, ist diejenige, die darauf vertraut, dass LUDIA [[universal-design-for-learning|Universal Design for Learning]] versteht.
+
+Der konzeptionelle Punkt, der diese Aspekte verbindet, stammt aus [[extended-minds-coupling-flexibility-2026|dem Kopplungs-Flexibilitäts-Ansatz erweiterter Geister (2026)]]: Eine bloß formale Gelegenheit, etwas anzunehmen oder abzulehnen, bringt den Menschen nicht in die Entstehung des Urteils hinein, wenn der Automation Bias sie zunichtemacht. Aufsicht erfordert eine substanzielle Möglichkeit zum Eingreifen, und eine Ablehnen-Schaltfläche, die niemand drückt, ist keine Aufsicht.
 
 ### Ground Truth und LLM-Annotation
 
-Das Konzept erreicht die Forschungspipeline über Annotation. [[ground-truth-reliability-aied|Die Zuverlässigkeitsanalyse von Ground Truth (2026)]] listet die Risiken der Nutzung von LLMs als Annotatoren: übermäßiges Vertrauen in Ausgaben ohne Verifikation, zirkuläre Validierung, bei der ein Modell seine eigene Ausgabe bewertet, und stille Verschlechterung, bei der Labels trügerisch konsistent bleiben, während sie in die falsche Richtung driften. Automatisierungsbias kontaminiert hier den Referenzstandard, gegen den jede spätere Messung bewertet wird.
+Das Konzept gelangt über die Annotation in die Forschungspipeline. [[ground-truth-reliability-aied|Die Reliabilitätsanalyse von Ground Truth (2026)]] benennt die Risiken des Einsatzes von LLMs als Annotatoren: übermäßiges Vertrauen in die Ausgaben ohne Überprüfung, zirkuläre Validierung, bei der ein Modell seine eigene Ausgabe bewertet, und schleichende Degradation, bei der die Labels trügerisch konsistent bleiben, während sie sich in die falsche Richtung verschieben. Automationsbias kontaminiert hier den Referenzstandard, an dem jede spätere Messung beurteilt wird.
 
 ### Lernende und epistemische Autorität
 
-Für Studierende geht es beim Mechanismus darum, wem das Denken zugeschrieben wird. [[polished-artifacts-fragile-engagement-2026|Die CSCL-Analyse polierter Artefakte (2026)]] gründet ihren sozialkognitiven Strang auf Automatisierungsbias – der KI mehr epistemische Kompetenz zuschreiben, als die Situation rechtfertigt – und paart ihn mit einem zweiten Strang, in dem polierte externe Produkte Abschluss erzeugen. [[page-cognitive-partnership-cycle-human-ai-2026|Der Zyklus kognitiver Partnerschaft (2026)]] nennt Automatisierungsbias unter vier Fehlermodi, die Iteration durch Denken ersetzen lassen, neben [[cognitive-offloading|Auslagerung]], Verständnisillusion und rekursiver Fehlerverstärkung. [[eight-mode-ai-engagement-typology-2026|Die Engagement-Typologie (2026)]] behandelt ihn als einen Modus unter acht: Das Modell zu fragen, was die Literatur sagt, ist ein Oracle-Zug, dessen charakteristisches Risiko darin besteht, die Antwort anzunehmen.
+Für Lernende dreht sich der Mechanismus darum, wem das Denken zugeschrieben wird. [[polished-artifacts-fragile-engagement-2026|Die CSCL-Analyse polierter Artefakte (2026)]] verankert ihren sozial-kognitiven Strang im Automation Bias — der KI wird eine größere epistemische Kompetenz zugeschrieben, als die Situation rechtfertigt — und verbindet ihn mit einem zweiten Strang, in dem polierte externe Produkte ein Gefühl von Abgeschlossenheit erzeugen. [[page-cognitive-partnership-cycle-human-ai-2026|Der Zyklus der kognitiven Partnerschaft (2026)]] zählt Automation Bias zu vier Fehlermodi, die Iteration an die Stelle des Denkens treten lassen, neben [[cognitive-offloading|Offloading]], der Illusion des Verstehens und rekursiver Fehlerverstärkung. [[eight-mode-ai-engagement-typology-2026|Die Engagement-Typologie (2026)]] behandelt ihn als einen Modus unter acht: das Modell zu fragen, was die Literatur sagt, ist ein Oracle-Zug, dessen charakteristisches Risiko darin besteht, die Antwort zu übernehmen.
 
-Zwei Beiträge argumentieren, das Gegengewicht sei eine Disposition statt einer Regel. [[assessing-student-drive-framework-2025|Der Drive-Rahmen (2025)]] schlägt aktive [[agency|menschliche Handlungsfähigkeit]] als kognitive Schutzmaßnahme gegen Automatisierungsbias und die Fähigkeitsatrophie vor, die der Auslagerung folgt. [[sun-llm-nursing-education-professional-identity-2026|Das pflegewissenschaftliche Review (2026)]], das 489 Studien aus 47 Ländern durch Benners Kompetenzerwerb, kognitive Belastungstheorie, Automatisierungsbias und Wengers Identitätsbildung liest, schließt, dass dasselbe Werkzeug hilft oder schadet, je nachdem, ob es Arbeit verdrängt, die für die Kompetenz nebensächlich oder für sie konstitutiv ist.
+Zwei Beiträge argumentieren, dass das Gegengewicht eine Haltung und keine Regel ist. [[assessing-student-drive-framework-2025|Das Drive-Framework (2025)]] schlägt aktive [[agency|menschliche Handlungsfähigkeit]] als kognitive Absicherung gegen Automation Bias und gegen den Kompetenzschwund vor, der auf das Auslagern von Aufgaben folgt. [[sun-llm-nursing-education-professional-identity-2026|Der Übersichtsartikel zur Pflegeausbildung (2026)]] liest 489 Studien aus 47 Ländern durch die Linse von Benners Modell des Fertigkeitserwerbs, der Cognitive Load Theory, dem Automation Bias und Wengers Identitätsformation und kommt zu dem Schluss, dass dasselbe Werkzeug hilft oder schadet — je nachdem, ob es Arbeit ersetzt, die für die Kompetenz nebensächlich ist, oder Arbeit, die sie überhaupt erst konstituiert.
 
 ### Wenn der Bias als Risiko benannt statt gemessen wird
 
-Ein großer Teil des Korpus führt Automatisierungsbias in einem Bedrohungsmodell auf, ohne ihn zu testen, und der Unterschied ist wichtig dafür, wie viel Gewicht das Konzept tragen kann. [[ahmadfard-interactive-oer-review-2026|Das Review interaktiver OER (2026)]] nennt ihn unter wiederkehrenden Risiken, die die Handlungsfähigkeit von Lernenden und Lehrkräften erodieren, aufgeführt statt gemessen. [[alshahrani-health-sciences-ai-use-2026|Die gesundheitswissenschaftliche Befragung (2026)]] liest die [[ethics|ethischen]] Bedenken von 310 Studierenden als Argument für eine [[professional-training|Berufsausbildung]], die Automatisierungsbias ausdrücklich abdeckt. [[ai-literacy-legal-translation-2026|Die Studie zur juristischen Übersetzung (2026)]] verlangt, Post-Editing und Verifikation als benotete Fähigkeiten zu lehren, und benennt den Druck von Automatisierungsbias und Qualitätsillusion, der Übersetzungsfehler leicht übersehbar macht. [[morales-cevallos-ai-forensic-science-education-2026|Das rechtswissenschaftliche Review (2026)]] findet Automatisierungsbias in seinen eingeschlossenen Studien dokumentiert und schlägt fallbasierte Übungen vor, die aus berichteten Fehlern gebaut sind. [[rana-genai-design-thinking-2025|Die Design-Thinking-Studie (2025)]] macht ihn zu einer Designanforderung: [[scaffolding|Scaffolds]], die menschliches Urteil im Zentrum halten und sowohl Auslagerung als auch Automatisierungsbias entgegenwirken.
+Ein großer Teil der Literatur führt Automation Bias in einem Bedrohungsmodell auf, ohne ihn zu prüfen, und diese Unterscheidung ist entscheidend dafür, wie viel Gewicht das Konzept tragen kann. [[ahmadfard-interactive-oer-review-2026|Der interaktive OER-Review (2026)]] zählt ihn zu den wiederkehrenden Risiken, die die Handlungsfähigkeit von Lernenden und Lehrenden aushöhlen — aufgeführt, nicht gemessen. [[alshahrani-health-sciences-ai-use-2026|Die Befragung in den Gesundheitswissenschaften (2026)]] deutet die [[ethics|ethischen]] Bedenken von 310 Studierenden als Argument für eine [[professional-training|professionelle Ausbildung]], die Automation Bias ausdrücklich behandelt. [[ai-literacy-legal-translation-2026|Die Studie zur Rechtsübersetzung (2026)]] fordert, Post-Editing und Verifikation als gestufte Kompetenzen zu vermitteln, und benennt den Druck durch Automation Bias und Qualitätsillusion, der Fehlübersetzungen leicht übersehen lässt. [[morales-cevallos-ai-forensic-science-education-2026|Der Review zur Forensik (2026)]] stellt fest, dass Automation Bias in den eingeschlossenen Studien dokumentiert ist, und schlägt fallbasierte Übungen vor, die aus berichteten Fehlschlägen entwickelt werden. [[rana-genai-design-thinking-2025|Die Design-Thinking-Studie (2025)]] macht daraus eine Designanforderung: [[scaffolding|Scaffolds]], die das menschliche Urteil ins Zentrum stellen und sowohl Offloading als auch Automation Bias entgegenwirken.
 
 ## Wo die Evidenz dünn, gemischt oder umgekehrt ist
 
@@ -136,26 +138,27 @@ Ein großer Teil des Korpus führt Automatisierungsbias in einem Bedrohungsmodel
 
 ## Verbundene Artikel
 
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Lehrkräfte davor gewarnt, Empfehlungen zu folgen, die auf dünnen Daten beruhen
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — benennt die Verankerung von Raterinnen durch KI-Scores als ungetestetes Risiko und schlägt Verblindung vor
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — Dashboards, Oberflächenmerkmale im Feedback und Ampeln als allgemeines Muster
-- [[factria-responsible-institutional-analytics-2026]] — elf Akteure, vier Fälle, ein Chatbot, der sich weigert zu empfehlen
-- [[ludia-udl-ai-thought-partner-2026]] — der Lehrkraftschutz, geschwächt durch Vertrauen in das Domänenwissen des Werkzeugs
-- [[extended-minds-coupling-flexibility-2026]] — ein formales Recht abzulehnen ist keine Aufsicht, wenn Automatisierungsbias es zunichtemacht
-- [[ground-truth-reliability-aied]] — LLM-Annotation, zirkuläre Validierung und stilles Label-Driften
-- [[polished-artifacts-fragile-engagement-2026]] — Automatisierungsbias als sozialkognitiver Strang reduzierter epistemischer Anstrengung
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — einer von vier Fehlermodi in rekursiver Mensch-KI-Arbeit
+- [[shi-human-ai-complementarity-safety-2026]] — 416 Bewertende, 3.957 Items: Candidate-First-Unterstützung senkte die Fehlererkennung bei Items mit falschen Modellantworten von 36,7 % auf 20,6 % (Shi et al., 2026)
+- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Lehrkräfte warnten davor, sich Empfehlungen zu unterwerfen, die auf einer dünnen Datenbasis beruhen
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — benennt die Verankerung von Bewertern durch AI-Scores als das ungetestete Risiko und schlägt eine Verblindung vor
+- [[in-the-loop-educational-ai-learning-sciences-2026]] — Dashboards, Feedback zu Oberflächenmerkmalen und Ampeln als allgemeines Muster
+- [[factria-responsible-institutional-analytics-2026]] — elf Stakeholder, vier Fälle, ein Chatbot, der Empfehlungen verweigert
+- [[ludia-udl-ai-thought-partner-2026]] — die Schutzfunktion der Lehrkraft, die durch das Vertrauen in das Fachwissen des Tools geschwächt wird
+- [[extended-minds-coupling-flexibility-2026]] — ein formales Recht auf Ablehnung ist keine Aufsicht, wenn der Automatisierungsbias es aushebelt
+- [[ground-truth-reliability-aied]] — LLM-Annotation, zirkuläre Validierung und schleichender Label-Drift
+- [[polished-artifacts-fragile-engagement-2026]] — Automation Bias als sozial-kognitiver Strang reduzierter epistemischer Anstrengung
+- [[page-cognitive-partnership-cycle-human-ai-2026]] — einer von vier Fehlermodi in der rekursiven Zusammenarbeit zwischen Mensch und KI
 - [[eight-mode-ai-engagement-typology-2026]] — der Oracle-Modus und sein charakteristisches Risiko
-- [[assessing-student-drive-framework-2025]] — aktive menschliche Handlungsfähigkeit als Schutz gegen Automatisierungsbias
-- [[sun-llm-nursing-education-professional-identity-2026]] — 489 Studien dazu, ob KI nebensächliche oder konstitutive Arbeit verdrängt
-- [[geoscience-field-learning-genai-2026]] — Ankern, Bestätigung und Automatisierungsbias in evidentgebundener Feldarbeit
-- [[ahmadfard-interactive-oer-review-2026]] — Automatisierungsbias unter Risiken genannt, die die Handlungsfähigkeit von Lernenden und Lehrkräften erodieren
-- [[alshahrani-health-sciences-ai-use-2026]] — ethische Bedenken von 310 Studierenden gelesen als Argument für ausdrückliche Schulung
-- [[ai-literacy-legal-translation-2026]] — Post-Editing als benotete Fähigkeit gegen den Druck der Qualitätsillusion
-- [[morales-cevallos-ai-forensic-science-education-2026]] — Automatisierungsbias in den geprüften rechtswissenschaftlichen KI-Studien dokumentiert
-- [[rana-genai-design-thinking-2025]] — Scaffolds, die menschliches Urteil im Zentrum halten
-- [[kim-overtrust-ai-literacy-2026]] — die umgekehrte Vorhersage: zuversichtliche Studierende vertrauten dem Werkzeug stärker
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — ein auf der Forschung zu Automatisierungsbias gebauter Rahmen, kein Test davon
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — einer von drei Mechanismen, die kritische Bürgerschaft erodieren
-- [[academic-erasure-complexity-ai-writing-2026]] — Automatisierungsbias in der affektiven Arbeit der Durchsetzung von KI-Nutzung
-- [[llm-fallacy-misattribution]] — die nächste Unterscheidung: Überabhängigkeit von einem System versus wahrgenommene eigene Kompetenz
+- [[assessing-student-drive-framework-2025]] — aktive menschliche Handlungsfähigkeit als Schutz gegen Automation Bias
+- [[sun-llm-nursing-education-professional-identity-2026]] — 489 Studien zur Frage, ob KI wesensfremde oder konstitutive Arbeit verdrängt
+- [[geoscience-field-learning-genai-2026]] — Verankerungs-, Bestätigungs- und Automatisierungsbias in evidenzgebundener Feldarbeit
+- [[ahmadfard-interactive-oer-review-2026]] — Automation Bias wird unter den Risiken aufgeführt, die die Handlungsfähigkeit von Lernenden und Lehrenden untergraben
+- [[alshahrani-health-sciences-ai-use-2026]] — Die ethischen Bedenken von 310 Studierenden lassen sich als Argument für eine explizite Schulung lesen
+- [[ai-literacy-legal-translation-2026]] — Post-Editing wird als benotete Kompetenz vermittelt, gegen den Druck von Qualitätsillusionen
+- [[morales-cevallos-ai-forensic-science-education-2026]] — Automation Bias, dokumentiert in den untersuchten Forensik-AI-Studien
+- [[rana-genai-design-thinking-2025]] — Scaffolds, die das menschliche Urteilsvermögen in den Mittelpunkt stellen
+- [[kim-overtrust-ai-literacy-2026]] — die Vorhersage kehrte sich um: selbstsichere Studierende vertrauten dem Tool stärker
+- [[haiml-human-centered-ai-metacognitive-model-2026]] — ein Rahmenmodell, das auf der Forschung zum Automation Bias aufbaut, sie jedoch nicht überprüft
+- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — einer von drei Mechanismen, die kritische Staatsbürgerschaft erodieren
+- [[academic-erasure-complexity-ai-writing-2026]] — Automatisierungsbias innerhalb der affektiven Arbeit, die KI-Nutzung zu überwachen
+- [[llm-fallacy-misattribution]] — die naheliegendste Unterscheidung: übermäßiges Vertrauen in ein System versus wahrgenommene persönliche Kompetenz

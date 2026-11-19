@@ -1,7 +1,7 @@
 ---
 title: Selbstauskunftsmaße
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -101,14 +101,20 @@ Absicht ist der schärfste Fall jener Lücke, weil ein Absichtsscore gegensätzl
 
 ## Zufriedenheit und wahrgenommenes Lernen als Ergebnisse
 
-Zufriedenheit ist das am häufigsten selbst berichtete Ergebnis in diesem Korpus, erscheinend auf 63 Artikelseiten. Sie ist auch der schwächste Stellvertreter für Lernen, und die Wissensbasis enthält ausdrückliche Argumente in diese Richtung.
+Zufriedenheit ist das am häufigsten selbst berichtete Ergebnis in dieser Literatur und kommt in 63 Studien vor. Sie ist auch der schwächste Stellvertreter für Lernen, und die Forschung enthält ausdrückliche Argumente in diese Richtung.
 
 - [[sequenced-ai-feedback-learning|Arbeit zu sequenziertem KI-Feedback]] stellt das Designprinzip direkt fest: Nutzendenzufriedenheit und Verhaltensengagement sind keine verlässlichen Stellvertreter für Lernzuwächse, daher muss Lernen direkt gemessen werden.
-- [[puech-pedagogical-steering-llm-productive-failure-2025|Zu pädagogischer Anleitung]] merkt an, dass aktuelle [[llm|Sprachmodelle]] auf Hilfestellung instruktionsjustiert sind, die Nutzendenzufriedenheit maximieren, während das Ziel eines Tutors darin besteht, Lernen zu maximieren —, die beiden Ziele können in Konflikt stehen, was Zufriedenheit zu einem potenziell irreführenden Ziel macht statt bloß zu einem schwachen.
+- [[puech-pedagogical-steering-llm-productive-failure-2025|Zu pädagogischer Anleitung]] merkt an, dass aktuelle [[llm|Sprachmodelle]] darauf instruktionsjustiert sind, hilfsbereite Assistenten zu sein, die die Nutzendenzufriedenheit maximieren, während das Ziel eines Tutors darin besteht, Lernen zu maximieren — die beiden Ziele können in Konflikt stehen, was Zufriedenheit zu einem potenziell irreführenden Ziel macht statt bloß zu einem schwachen.
 - [[preferred-scaffolding-ai-mathematical-modeling|Eine Scaffolding-Studie]] argumentiert, dass wahrgenommene Nützlichkeit, leichte Nutzung und unmittelbare Zufriedenheit nicht als hinreichende Indikatoren für [[scaffolding|Scaffolding-]]Wirksamkeit behandelt werden sollten.
 - [[nie-personavlm-long-term-personalization-2026|Zu persönlichkeitsausgerichteter Modellierung von Lernenden]] beobachtet, dass für Nutzendenzufriedenheit zu optimieren nicht dasselbe ist wie für Lernleistungen zu optimieren, und dass die beiden auseinanderfallen können.
 
-Das Muster, das es mitzunehmen gilt: Zufriedenheit reagiert auf die falschen Dinge, wenn Lernen das Ziel ist. Ein System, das schnell antwortet, bereitwillig zustimmt und Anstrengung reduziert, wird hoch bewertet werden, und genau diese Eigenschaften sind jene, die die Wissensbasis mit reduziertem [[desirable-difficulties|produktivem Ringen]] und aufgeblähter Leistung bei KI-assistierter Arbeit verbindet. Berichtete Zufriedenheit und gemessenes Lernen sind keine Feinde; sie sind einfach keine Substitute, und das erste als Evidenz für das zweite zu behandeln ist das häufigste Abrutschen, das diese Seite dokumentiert.
+- [[kares-xai-evaluation-alignment-2027|Eine präregistrierte XAI-Studie (Kares et al., 2027)]] verglich drei Erklärungsmethoden mit 166 Teilnehmenden und fand Zufriedenheits- (3,98; 3,92; 3,87) und Vertrauensbewertungen statistisch ununterscheidbar, während ein Aufgabenmaß die Methoden trennte und eine mathematische Metrik sie genau umgekehrt reihte. Die Bewertung lieferte kein Signal, wo das Fähigkeitsmaß eines lieferte.
+
+Das Muster, das es mitzunehmen gilt: Zufriedenheit reagiert auf die falschen Dinge, wenn Lernen das Ziel ist. Ein System, das schnell antwortet, bereitwillig zustimmt und Anstrengung reduziert, wird hoch bewertet werden, und genau diese Eigenschaften sind jene, die die Forschung mit reduziertem [[desirable-difficulties|produktivem Ringen]] und aufgeblähter Leistung bei KI-assistierter Arbeit verbindet. Berichtete Zufriedenheit und gemessenes Lernen sind keine Feinde; sie sind einfach keine Substitute, und das erste als Evidenz für das zweite zu behandeln ist das häufigste Abrutschen in diesem Forschungsfeld.
+
+Der klarste Within-Subject-Fall in der Literatur maß beide Größen an denselben Studierenden. [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al. (2025)]] befragten Studierende der Wirtschaftsstatistik und der Volkswirtschaftslehre über zwei Semester hinweg, während sie einen Tutor-Prompt, KI-generierte Prüfungswiederholung, KI-strukturierte mündliche Prüfungen und KI-gestütztes Themen-Brainstorming einsetzten. Die selbst berichtete ChatGPT-Nutzungshäufigkeit stieg von 2,987 auf 4,375 auf einer Skala von 1–7 (p < 0,001), das Zutrauen von 3,663 auf 4,000 (p = 0,004) und das wahrgenommene Engagement von 2,433 auf 2,65 auf einer Skala von 1–3 (p = 0,006) — eine kohärente Geschichte von Studierenden, die das Werkzeug mehr nutzten und glaubten, dass es half.
+
+Die Prüfungsergebnisse erzählten eine andere Geschichte: Die Nutzungshäufigkeit war im einfachen Modell nicht mit der Leistung assoziiert (-5,577, SE 5,566) und im vollständigen Modell negativ assoziiert (-13,918, SE 7,834, p = 0,076). Die Autoren behandeln den Nullbefund nicht als Beleg für einen Schaden, da Studierende mit Schwierigkeiten KI möglicherweise mehr nutzen; was die Studie zeigt, ist eine signifikante Bewegung auf jedem Wahrnehmungsmaß ohne entsprechende Bewegung in der benoteten Leistung.
 
 **Wahrnehmungsmaße überwiegen Kompetenzmaße in der Literatur zu generativer KI im forschenden Lernen.** In einem Review von 66 Studien fanden [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] Nutzerwahrnehmungen als die am häufigsten berichtete Ergebnisdomäne (32 Studien, 48,5%), gefolgt von affektiven Ergebnissen mit 25, während nur 8 Studien (12,1%) Untersuchungskompetenzen maßen und 4 davon eine Vergleichsbedingung hatten. Die Autoren vergaben keine Evidenzsicherheit, sodass die Wahrnehmungszahlen beschreiben, wonach gefragt wurde, statt was erreicht wurde.
 
@@ -117,11 +123,15 @@ Das Muster, das es mitzunehmen gilt: Zufriedenheit reagiert auf die falschen Din
 Vier Eigenschaften trennen eine Befragung, die eine Behauptung stützen kann, von einer, die es nicht kann.
 
 - **Konstruktvalidität.** Es muss gezeigt sein, dass Items das benannte Konstrukt messen, idealerweise mit Faktorenanalyse. Die Parallelmaßstudie oben validierte beide ihre Instrumente und fand dennoch, dass sie divergierten — die Validität eines Instruments sagt nichts darüber, ob es Verhalten erfasst.
-- **Verlässlichkeit und Struktur.** Faktorvalidierte Instrumente kehren in diesem Korpus wieder, von [[teacher-education-ai-literacy-sdt-2026|Maßen der KI-Kompetenz von Lehrkräften, die in Selbstbestimmungstheorie fundiert sind]] bis zu Akzeptanzskalen, die mit [[technology-acceptance-model|TAM]] und SEM in [[acceptance-ai-english-tools-2026|Studien zu KI-gestützten Sprachwerkzeugen]] modelliert sind.
-- **Invarianz, wenn Gruppen verglichen werden.** Eine Skala, die sich über Populationen hinweg verschieden verhält, kann keinen Vergleich stützen. [[same-ai-different-pathways|Multigruppen-SEM-Arbeit]] berichtet Tests auf Messinvarianz (konfigural, metrisch, skalar) neben ihren indirekten Effekten, und [[genai-thoughtless-use-self-directed-learning-2026|ein Schweiz-China-Vergleich]] fand, dass nur intrinsischer Wert metrische Invarianz erreichte und nicht skalare —, eine Grenze, die angegeben statt verborgen wird und die einschränkt, was seine länderübergreifenden Unterschiede bedeuten können.
+- **Verlässlichkeit und Struktur.** Faktorvalidierte Instrumente kehren in der Literatur wieder, von [[teacher-education-ai-literacy-sdt-2026|Maßen der KI-Kompetenz von Lehrkräften, die in Selbstbestimmungstheorie fundiert sind]] bis zu Akzeptanzskalen, die mit [[technology-acceptance-model|TAM]] und SEM in [[acceptance-ai-english-tools-2026|Studien zu KI-gestützten Sprachwerkzeugen]] modelliert sind.
+- **Invarianz, wenn Gruppen verglichen werden.** Eine Skala, die sich über Populationen hinweg verschieden verhält, kann keinen Vergleich stützen. [[same-ai-different-pathways|Multigruppen-SEM-Arbeit]] berichtet Tests auf Messinvarianz (konfigural, metrisch, skalar) neben ihren indirekten Effekten, und [[genai-thoughtless-use-self-directed-learning-2026|ein Schweiz-China-Vergleich]] fand, dass nur intrinsischer Wert metrische Invarianz erreichte und nicht skalare Invarianz — eine Grenze, die angegeben statt verborgen wird und die einschränkt, was seine länderübergreifenden Unterschiede bedeuten können.
 - **Eine Leistungsalternative dort, wo Kompetenz das Konstrukt ist.** GLATs 20 Multiple-Choice-Items existieren genau deshalb, weil Selbstauskunft keine Kompetenzbehauptung tragen kann.
 
 **Die meisten Instrumente in diesem Feld berichten Reliabilität und fast keines Validität.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] zitieren Su et al.s Review von 36 Studien zur KI-Kompetenz, der fand, dass 63,8% der Werkzeuge Reliabilitätsevidenz berichteten und weniger als 20% Validitätsevidenz. Derselbe Review fand unter 50 [[k-12]]-Rahmenwerken nur ein generativ-KI-spezifisches Instrument, den 27-Item-GAIAS. Dass eine Skala intern konsistent ist, sagt nichts darüber, ob sie das im Titel benannte Konstrukt misst.
+
+Eine aktuelle Befragung von Hochschullehrenden zeigt dieses Versagen in seiner extremen Form. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] legten 315 Hochschullehrenden 300 Items vor, berichteten α = 0,997 für die Gesamtskala und führten keine Faktorenanalyse durch, doch ein Naive-Bayes-Modell klassifizierte 314 von 315 Befragten korrekt (Genauigkeit 0,9968) in niedrige, mittlere und hohe Kompetenzstufen. Ein Instrument, dessen Items sich wie nahezu identische Duplikate verhalten, lässt sich aus einer Handvoll demografischer und institutioneller Variablen fast perfekt vorhersagen, weil es kaum unabhängige Information trägt: Die Autoren fanden in ihrer SHAP-Analyse die Hochschulzugehörigkeit als größten globalen Beitrag, und die Trennwerte, die die drei Stufen definierten, wurden nicht beibehalten.
+
+Die Pre-Post-Formulierung kann die Veränderung, die sie berichtet, selbst erzeugen. In einer Pilotstudie mit zwei Kohorten zu einem KI-simulierten Patienten formulierten [[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]] die Items vor der Begegnung als Erwartungen und die Items nach der Begegnung als Erfahrung, sodass die Differenzwerte eine Erwartung mit einer Erinnerung verglichen. Ihre vorläufige BSLS-P lieferte über die Erhebungen hinweg Subskalen-Alphas von −0,39 bis 0,87, und Item-Sets, die sich nicht gemeinsam bewegten, trugen dennoch eine Behauptung zur psychologischen Sicherheit.
 
 ## Stichprobenziehung, Antwort und Nichtantwort
 
@@ -154,8 +164,9 @@ Die konstruktiven Antworten der Wissensbasis sind konsistent, und keine erforder
 - Fragen, welche Art von Behauptung es ist. Wahrnehmungen sind zulässig; Verhalten ist angenähert; Lernen und Kompetenz sind so nicht erreichbar.
 - Prüfen, wer geantwortet hat und wer nicht. Antwortquote, Stichprobenrahmen und Selbstselektion entscheiden, was die Prozentwerte beschreiben — eine Studie zu den Lernenden einer Einrichtung beschreibt jenes Setting, nicht Lernende allgemein.
 - Das Instrument prüfen. Wurde es für dieses Konstrukt und diese Population validiert, und wenn Gruppen verglichen werden, wurde Invarianz getestet?
+- Die Verteilung prüfen, bevor dem Test vertraut wird. Beide Faktoren einer validierten Skala zur Programmier-Selbstwirksamkeit zeigten in Vorzeichentests Veränderungen (p = 0,0074 und p = 0,012), während der Median von Faktor 1 vom Prätest zum Posttest bei 5,87 blieb, und alle Faktoren waren linksschief ([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart et al. (2026)]]).
 - Auf Eingruppendesigns achten. Wenn Prädiktoren und Ergebnisse beide aus demselben Fragebogen zu einem Zeitpunkt kommen, sind die Assoziationen mit Varianz gemeinsamer Methode ebenso konsistent wie mit der vorgeschlagenen Theorie.
-- Zufriedenheit als Design-Signal behandeln, nicht als Lernleistung. Hohe Zufriedenheit plus ungetestetes Lernen ist die Standardkonfiguration in der Evaluation von KI-Werkzeugen, und dieser Korpus zeigt, dass die beiden divergieren.
+- Zufriedenheit als Design-Signal behandeln, nicht als Lernleistung. Hohe Zufriedenheit plus ungetestetes Lernen ist die Standardkonfiguration in der Evaluation von KI-Werkzeugen, und die Evidenz zeigt, dass die beiden divergieren.
 - Studien bevorzugen, die ihre Rechnung zeigen: angegebene Antwortquoten, angegebene Grenzen, und mindestens eine Evidenzquelle, die nicht aus Fragen kommt.
 
 ## Verbreitete Fehlvorstellungen
@@ -183,12 +194,14 @@ Die konstruktiven Antworten der Wissensbasis sind konsistent, und keine erforder
 - [[learning-analytics]]
 
 ## Verbundene Artikel
+
+- [[kares-xai-evaluation-alignment-2027]] — 166 Teilnehmende, drei Saliency-Methoden: Zufriedenheit und Vertrauen unverändert, Aufgabenleistung und Faithfulness-Metriken uneinig (Kares et al. 2027)
 - [[high-school-genai-acceptance-tam-physics-2026]] — Ein Absichtsscore, zwei gegensätzliche Verwendungen
 - [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Der Administrationmodus, den ein Selbstauskunftsinstrument nutzt, verändert, was es misst
-
 - [[capability-decision-model-teacher-readiness-2026]] — Kriterien diskriminanter Validität zur Trennung selbst berichteter KI-Fähigkeit von Wirksamkeitsüberzeugungen
 
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Engagement sagt wahrgenommene statt gemessene Leistung in einem Pfadmodell agentischer KI vorher (Pramod & Patil 2026)
+
 - [[ai-literacy-assessment-misalignment]] — Parallele Selbstauskunfts- und objektive Maße der KI-Kompetenz von Lehrkräften
 - [[jin-glat-genai-literacy-assessment]] — GLAT: eine leistungsbasierte Alternative zur Selbstauskunft
 - [[genai-student-experiences-uk-he-survey-2026]] — GenKI-Nutzung von Studierenden über britische Einrichtungen hinweg befragt
@@ -214,3 +227,7 @@ Die konstruktiven Antworten der Wissensbasis sind konsistent, und keine erforder
 - [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Wahrnehmungen in 32 von 66 Studien berichtet gegenüber 8, die Untersuchungskompetenzen maßen
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 63,8% der Instrumente zur KI-Kompetenz berichten Reliabilitätsevidenz und weniger als 20% Validitätsevidenz
 - [[huang-genai-academic-information-resources-2026]] — Bibliothekslogs und Befragungshaltungen zeigen in verschiedene Richtungen
+- [[onodipe-enhance-not-replace-ai-classroom-2026]] — Wahrgenommenes Lernen und Engagement stiegen bei jedem Befragungsmaß, während sich die Prüfungsnoten nicht bewegten
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Eine 300-Item-Skala für Lehrende mit α = 0,997 sagte mit 99,68% Genauigkeit vorher, ohne jede Faktorenanalyse
+- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — Signifikante Vorzeichentests bei unverändertem Median auf einer validierten Skala
+- [[tischkau-ai-simulated-patient-formats-2026]] — Eine vorläufige Pre-Post-Skala, die Erwartungen mit Erinnerungen vergleicht, mit Subskalen-Alphas von −0,39 bis 0,87 (Tischkau et al. 2026)

@@ -1,14 +1,14 @@
 ---
 title: Geschichte der KI in der Bildung
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: concepts/history-of-aied
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -76,31 +76,31 @@ Das Aufkommen [[generative-ai|generativer KI]] — einer breiten Familie, die [[
 
 ## Verbreitete Fehlvorstellungen
 
-**„KI in der Bildung begann mit ChatGPT.“** Das stimmt nicht, und die Überzeugung ist kostspielig, weil sie jede frühere Lektion unsichtbar macht. [[intelligent-tutoring|Intelligentes Tutoring]] stammt aus der heuristischen Such- und Expertensystemarbeit der 1960er und 1970er Jahre, und die AIED-Gemeinschaft bildete sich Jahrzehnte vor den [[llm|großen Sprachmodellen]] um sie herum. [[mishra-control-vs-agency-history-2025|Mishra et al.]] zeigen, dass die aktuellen Debatten eine Spaltung reproduzieren, die in Andersons kognitiven Tutoren und Paperts Konstruktionismus bereits explizit war; wer das Feld auf 2022 datiert, wird Argumente neu herleiten, die das Feld zuvor bereits entschieden, aufgegeben oder verloren hat.
+**Für Lehrende und Instruktionsdesigner**
 
-**„Das Feld hat KI-als-Analogie stetig zugunsten angewandter Werkzeuge aufgegeben, und generative KI setzt diesen Trend fort.“** Dies ist die lehrreichste Korrektur auf dieser Seite, weil die Trajektorie real, aber nicht monoton ist. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian und Doroudis]] Positionsanalyse von AIED 1985, 1993, 2021 und 2024 sowie IJAIED 2004, 2014 und 2021 zeigt tatsächlich eine Drift von einem gemischten Feld hin zu nahezu ausschließlicher angewandter Instrumentalität bis in die 2000er. Doch auf der AIED 2024 waren drei der vier Beiträge im Quadranten KI-als-Analogie LLM-basiert, einschließlich Best-Paper-Arbeit zu LLM-basierten lehrbaren Agenten. Generative KI **kehrt** den Trend teilweise um, statt ihn fortzusetzen, weshalb es die Forschungsfront verkennt, sie als „den nächsten intelligenten Tutor" zu behandeln.
+- Benennen Sie die Tradition, der Ihr Werkzeug angehört, bevor Sie es einführen. Fragen Sie, ob es auf feste Ergebnisse hin optimiert oder den Lernenden eigene Richtungen eröffnet, denn diese Antwort — nicht die Funktionsliste — bestimmt, was es mit Ihrem [[assessment|Assessment-Design]] macht.
+- Hinterfragen Sie das Wort „personalisiert" in jeder Anbieteraussage, und verlangen Sie eine Antwort im Sinne der beiden oben genannten Bedeutungen. Ein Produkt, das das Tempo auf einen gemeinsamen Standard hin variiert, und eines, das Lernende abweichen lässt, sind kein Ersatz füreinander.
+- Wenn Lernende GenAI als beispiellos darstellen, ist die Geschichte selbst lehrbarer Inhalt. Die Anderson-Papert-Rahmung gibt ihnen ein Vokabular, um über KI zu argumentieren, statt sie nur zu benutzen.
 
-**„Personalisierung bedeutet, die Schwierigkeit an jede lernende Person anzupassen.“** Das ist nur eine von zwei unvereinbaren Bedeutungen, und ihre Vermengung verdeckt eine politische Wahl. In der ersten Bedeutung bleibt das Ergebnis fest und nur der Weg variiert, mit einer Linie von Skinners Lehrmaschinen bis zum meisterschaftsbasierten Tutoring. In der zweiten diversifizieren sich die Ergebnisse selbst, indem Lernende individuelle Interessen ungebunden durch das Standardcurriculum verfolgen (Zhao, 2024). Ein [[intelligent-tutoring|ITS]] setzt die erste um, [[constructivist|Konstruktionismus]] die zweite. Ein als „personalisiert" beschriebenes Werkzeug hat Ihnen nichts gesagt, bis Sie wissen, welche gemeint ist.
+**Für Entwickler**
 
-**„‚Künstliche Intelligenz‘ war einfach der offensichtliche Name für das Feld.“** Der Begriff war eine absichtsvolle Wahl. Als McCarthy das Dartmouth-Projekt 1956 plante, bevorzugte er *künstliche Intelligenz* gegenüber *Kybernetik*, teils um die Arbeit von Wieners Tradition des analogen Feedbacks zu distanzieren. Diese einzelne Entscheidung rahmte Maschinen im direkten Vergleich zu menschlicher Kognition, und die anthropomorphe Rahmung, die sie installierte, formt bis heute Forschungsprioritäten, Produktsprache und die ethischen Fragen, die die Öffentlichkeit stellt.
-
-## Implikationen für die Praxis
-
-**Für Lehrende und Instruktionsdesignerinnen und -designer**
-
-- Benennen Sie die Tradition, zu der Ihr Werkzeug gehört, bevor Sie es übernehmen. Fragen Sie, ob es auf feste Ergebnisse hin optimiert oder Lernendemrichtung öffnet, denn diese Antwort — nicht die Funktionsliste — bestimmt, was es mit Ihrem [[assessment|Assessment-Design]] tun wird.
-- Hinterfragen Sie das Wort „personalisiert" in jeder Anbieteraussage und verlangen Sie eine Antwort in den beiden oben genannten Bedeutungen. Ein Produkt, das das Tempo auf einen gemeinsamen Standard hin variiert, und eines, das Studierende divergieren lässt, sind keine Substitute.
-- Wenn Studierende GenAI als beispiellos darstellen, ist die Geschichte selbst lehrbarer Inhalt. Die Anderson-Papert-Rahmung gibt ihnen ein Vokabular, um über KI zu streiten, statt sie nur zu nutzen.
-
-**Für Entwicklerinnen und Entwickler**
-
-- Die Sprache der Oberfläche ist eine Designentscheidung mit einer Linie. Ihr System „KI-Tutor" zu nennen, erbt Andersons Rahmung und die Erwartung, auf Standardergebnisse hin zu optimieren; es „microworld" oder „Lernumgebung" zu nennen, erbt Paperts. Nichts davon ist neutral, wählen Sie also absichtsvoll.
-- Wenn Sie in der Analogietradition bauen (Lernmodelle, lehrbare Agenten, [[simulation|Simulationen]] des Wissenserwerbs), sagen Sie es. Dieser Quadrant war zwei Jahrzehnte nahezu leer und füllt sich wieder; die Positionierung ist ein Unterscheidungsmerkmal, und die Evaluationskriterien sind andere.
+- Die Sprache der Benutzeroberfläche ist eine Designentscheidung mit einer Traditionslinie. Ihr System einen „KI-Tutor" zu nennen, erbt Andersons Rahmung und die Erwartung, auf Standardergebnisse hin zu optimieren; es eine „Mikrowelt" oder „Lernumgebung" zu nennen, erbt Paperts. Keine von beiden ist neutral, wählen Sie also bewusst.
+- Wenn Sie in der Analogie-Tradition bauen (Modelle des Lernens, lehrbare Agenten, [[simulation|Simulationen]] des Wissenserwerbs), sagen Sie das. Dieser Quadrant war zwei Jahrzehnte lang nahezu leer und füllt sich wieder; die Positionierung ist ein Unterscheidungsmerkmal, und die Evaluationskriterien sind andere.
 
 **Für Forschende**
 
-- Nutzen Sie die historischen Korpora als Baseline, statt die Gegenwart als einzigen verfügbaren Vergleich zu behandeln. Die AIED-Tagungsbände 1985, 1993, 2021 und 2024 sowie IJAIED 2004, 2014 und 2021 sind eine fertige Längsschnittstichprobe der eigenen Aussagen des Felds.
-- Nennen Sie die Linie, wenn Sie Neuheit beanspruchen. Die Behauptung, ein System „personalisiere Lernen" oder „modelliere die lernende Person", ist nur relativ zu einer bestimmten früheren Tradition neu, und die Tradition ist dokumentiert.
+- Nutzen Sie die historischen Tagungsbände als Baseline, statt die Gegenwart als den einzigen verfügbaren Vergleich zu behandeln. Die AIED-Tagungsbände von 1985, 1993, 2021 und 2024 sowie IJAIED von 2004, 2014 und 2021 sind eine fertige Längsschnittstichprobe der eigenen Aussagen des Feldes.
+- Zitieren Sie die Traditionslinie, wenn Sie Neuheit beanspruchen. Die Behauptung, ein System „personalisiere das Lernen" oder „modelliere den Lernenden", ist nur relativ zu einer bestimmten früheren Tradition neu, und diese Tradition ist dokumentiert.
+
+## Implikationen für die Praxis
+
+**„KI in der Bildung begann mit ChatGPT."** Das war nicht so, und diese Überzeugung ist kostspielig, weil sie jede frühere Lektion unsichtbar macht. [[intelligent-tutoring|Intelligente tutorielle Systeme]] stammen aus der Arbeit zu heuristischer Suche und Expertensystemen der 1960er und 70er Jahre, und die AIED-Community formierte sich Jahrzehnte vor [[llm|großen Sprachmodellen]] um sie herum. [[mishra-control-vs-agency-history-2025|Mishra et al.]] zeigen, dass die aktuellen Debatten eine Trennlinie reproduzieren, die in Andersons Cognitive Tutors und Paperts Konstruktionismus bereits explizit war — wer das Feld also auf 2022 datiert, wird Argumente neu herleiten, die das Feld schon einmal geklärt, aufgegeben oder verloren hat.
+
+**„Das Feld hat KI-als-Analogie zugunsten angewandter Werkzeuge kontinuierlich aufgegeben, und generative KI setzt diesen Trend fort."** Die Entwicklung ist real, aber nicht monoton, was dies zur lehrreichsten Korrektur macht. Die Positionsanalyse von [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian und Doroudi]] zu den AIED-Tagungsbänden 1985, 1993, 2021 und 2024 sowie IJAIED 2004, 2014 und 2021 zeigt tatsächlich eine Drift von einem gemischten Feld hin zu einer nahezu ausschließlichen angewandten Instrumentalität bis in die 2000er Jahre. Doch auf der AIED 2024 waren drei der vier Beiträge im Quadranten KI-als-Analogie LLM-basiert, darunter eine als Best Paper ausgezeichnete Arbeit zu LLM-basierten lehrbaren Agenten. Generative KI **kehrt** den Trend teilweise **um**, statt ihn fortzusetzen, weshalb es verkennt, wohin sich die Forschungsgrenze tatsächlich verschoben hat, wenn man sie als „den nächsten KI-Tutor" behandelt.
+
+**„Personalisierung bedeutet, die Schwierigkeit an jede lernende Person anzupassen."** Das ist nur eine von zwei unvereinbaren Bedeutungen, und ihre Vermischung verbirgt eine politische Entscheidung. In der ersten Bedeutung wird das Ergebnis festgehalten und nur der Weg variiert; die Linie reicht von Skinners Lehrmaschinen bis zum mastery-basierten Tutoring. In der zweiten diversifizieren die Ergebnisse selbst, da Lernenden individuellen Interessen folgen, unbeschränkt durch ein Standardcurriculum (Zhao, 2024). Ein [[intelligent-tutoring|ITS]] implementiert die erste; der [[constructivist|Konstruktionismus]] die zweite. Ein Werkzeug, das als „personalisiert" beschrieben wird, hat Ihnen nichts gesagt, solange Sie nicht wissen, welche der beiden Bedeutungen gemeint ist.
+
+**„‚Artificial intelligence' war schlicht der naheliegende Name für das Feld."** Der Begriff war eine bewusste Entscheidung. Als McCarthy das Dartmouth-Projekt von 1956 plante, bevorzugte er *artificial intelligence* gegenüber *cybernetics*, teilweise um die Arbeit von Wieners analoger Feedback-Tradition abzugrenzen. Diese eine Entscheidung rückte Maschinen in den direkten Vergleich mit menschlicher Kognition, und die anthropomorphe Rahmung, die sie etablierte, prägt bis heute Forschungsprioritäten, Produktsprache und die ethischen Fragen, die die Öffentlichkeit stellt.
 
 ## Verbundene Konzepte
 

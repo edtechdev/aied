@@ -1,7 +1,7 @@
 ---
 title: Universelles Design für das Lernen (UDL)
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,8 @@ UDL verwandelt „behebe den Lernenden“ in „behebe das Design.“ Für Lehre
 - Bieten Sie Wahl des Assessmentprodukts (Essay, Präsentation, Video, Diagramm, Code), ausgerichtet am selben Lernergebnis.
 - *Beispiel:* Ein Projekt erlaubt Einreichung als schriftlicher Bericht, KI-assistiertes Video-Explainer oder lebendige Demonstration –, mit KI-[[scaffolding|Scaffolds]], die jeden Modus stützen. In der [[assessment|Assessmentgestaltung]] parallelisiert dies die repräsentationale Fairness von [[authentic-assessment|authentischem Assessment]].
 
+Wahl schließt nur dann ein, wenn die Optionen gleich glaubwürdig erscheinen. Studierende in einer Studie an einer Faculty of Science mochten die Wahl zwischen einem Video und einem Essay, berichteten aber, dass Mitstudierende befürchteten, das Essay werde schlechter bewertet –, gemeinsame Kriterien und eine erläuterte Bewertungslogik sind es also, die aus einem Menü von Formaten Inklusion statt strategisches Raten machen ([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]]).
+
 **Gestalten Sie für KI-Kompetenz und Handlungsfähigkeit.**
 - Lehren Sie Studierende, wie und wann sie KI nutzen, und bauen Sie Checkpoints ein, die den Lernenden (nicht das Werkzeug) zur Verantwortung ziehen –, siehe [[ai-literacy|KI-Kompetenz]] und [[reducing-ai-misuse|Missbrauch reduzieren]].
 - *Beispiel:* Eine UDL-ausgerichtete Aufgabe lässt Studierende KI zum Entwerfen nutzen, verlangt aber eine [[metacognition|metakognitive]] Reflexion über den eigenen Beitrag, was die Engagement- und Handlungsfähigkeitsprinzipien bewahrt.
@@ -117,6 +119,7 @@ UDL verwandelt „behebe den Lernenden“ in „behebe das Design.“ Für Lehre
 - [[k-12]]
 
 ## Verbundene Artikel
+
 - [[seung-basham-cognitive-offloading-swld-2026]] — Kognitive Auslagerung durch GenAI bei Studierenden mit Lernbehinderungen
 - [[authentic-products-authenticated-processes-2026]] — Von authentischen Produkten zu authentifizierten Prozessen
 - [[tactile-statistical-graphs-accessibility]] — Taktile statistische Grafiken für Barrierefreiheit
@@ -124,4 +127,7 @@ UDL verwandelt „behebe den Lernenden“ in „behebe das Design.“ Für Lehre
 - [[ai-learning-tools-engineering-education-needs]] — Gestaltung von bedarfs- und aufmerksamkeitsbewussten KI-Lernwerkzeugen
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, Virtual Reality und darüber hinaus: ein Scoping Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung
 - [[faculty-accessible-course-design-ai-2026]] — „AI is reducing options I had used“: Wahrnehmung zugänglichen Kursdesigns durch Lehrende in einer ChatGPT-Welt
+
 - [[alenezi-ai-universal-design-learning-kuwait-2026]] — Künstliche Intelligenz und Universal Design for Learning an Hochschulen Kuwaits: auf ein KI-ermöglichendes Rahmenwerk für inklusive Bildung hin
+
+- [[mcdonald-inclusive-assessment-genai-2026]] — Inklusives Assessment-Design im Zeitalter von GenAI: Weiterentwicklung von Pädagogik und Praxis

@@ -11,9 +11,9 @@ audience: [instructors, curriculum designers, researchers]
 level: [primary education, k 12, higher ed]
 connected_faqs: [ai-support-reading-comprehension]
 confidence: medium
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 translation_of: "concepts/reading-education"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -86,7 +86,11 @@ Für Lernende mit Legasthenie findet ein [[meta-analysis-systematic-review|PRISM
 
 ## Was die Evidenz zeigt und nicht zeigt
 
-Der Strang ist messreich und wirkungsarm. Es gibt validierte Instrumente (AIR), validierte Schwierigkeitsmodelle (CLARA, Bird) und einen wachsenden Satz von Werkzeugen zur Generierung und Vereinfachung. Es gibt sehr wenige kontrollierte Studien, die eine Leseintervention mit Verständniszuwächsen verbinden, und mehrere der Assessment-Studien vermischen die Textquelle mit Darbietung oder Aufsicht. Die Stichproben sind klein: 53 Studierende in der Leseassessment-Fallstudie, 24 in der Studie zu zugeschnittenen Lektüren, 200 Siebtklässlerinnen und Siebtklässler im größten Quasi-Experiment. Die Wissensbasis sollte als Dokumentation eines Designraums gelesen werden, nicht als etablierter Effekt.
+Der Strang ist messreich und wirkungsarm. Es gibt validierte Instrumente (AIR), validierte Schwierigkeitsmodelle (CLARA, Bird) und einen wachsenden Satz von Werkzeugen zur Generierung und Vereinfachung. Es gibt sehr wenige kontrollierte Studien, die eine Leseintervention mit Verständniszuwächsen verbinden, und mehrere der Assessment-Studien vermischen die Textquelle mit Darbietung oder Aufsicht. Die Stichproben sind klein: 53 Studierende in der Leseassessment-Fallstudie, 24 in der Studie zu zugeschnittenen Lektüren, 200 Siebtklässlerinnen und Siebtklässler im größten Quasi-Experiment. Die Evidenz dokumentiert einen Designraum, keinen etablierten Effekt.
+
+Die Leseflüssigkeit in den ersten Grundschuljahren ist bislang die Ausnahme: An einer Schule erzielten Erst- und Zweitklässlerinnen und Zweitklässler, die mindestens 10 Minuten pro Woche über 6 Wochen protokollierten, größere Zuwächse als Gleichaltrige mit niedriger Dosierung (g = 0,56) — ein Dosierungsvergleich, kein Trial ([[burns-ai-tutor-reading-growth-2026|Burns und Morton (2026)]]).
+
+[[kreijkes-llm-note-taking-reading-comprehension-2026|Kreijkes und Kollegen (2026)]] prüften in einem präregistrierten Experiment mit 344 Schülerinnen und Schülern der Jahrgangsstufe 10 an sieben englischen weiterführenden Schulen, ob ein Chatbot Lesenden hilft. Jede Schülerin und jeder Schüler las zwei Geschichtstexte mit einem LLM, mit Notizenmachen oder mit beidem; drei Tage später schnitt das Notizenmachen allein beim wörtlichen Behalten (d = 0,44), beim Verständnis (d = 0,38) und beim freien Abruf (d = 0,21) besser ab als das LLM. LLM + Notes holte bei den ersten beiden etwas auf, nicht aber beim freien Abruf (beta = -0,08, p = 0,854). Die Schülerinnen und Schüler bewerteten das LLM als einfacher, hilfreicher und angenehmer, während sie schlechter abschnitten, und 25,63 % derjenigen in der kombinierten Bedingung übernahmen mehr als 70 % seiner Formulierungen in ihre Notizen.
 
 ## Verbreitete Fehlvorstellungen
 
@@ -123,3 +127,4 @@ Der Strang ist messreich und wirkungsarm. Es gibt validierte Instrumente (AIR), 
 - [[airri-machine-resistant-reading-interface-2026]] — maschinenresistente Leseschnittstellen und ihre Lesbarkeitskosten
 - [[chatgpt-feedback-orientation-chinese-reading-2026]] — ChatGPT-Feedback im Lesen der Sekundarstufe
 - [[dabaghi-ai-dyslexia-education-review-2026]] — KI für Lernende mit Legasthenie
+- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — LLM-Nutzung, Mitschreiben und Leseverständnis in der Sekundarstufe: der randomisierte Vergleich

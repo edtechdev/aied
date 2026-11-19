@@ -42,7 +42,7 @@ Mensch-KI-Zusammenarbeit beschreibt, wie Lernende, Lehrende und [[ai-technologie
 
 Die Arbeitsteilung läuft auch durch die Menschen, die die Interaktion gestalten. Über [[ai-integration-instructional-design-collaboratory-2026|zwölf Implementierungen in Lehrkräftebildungskursen]] hinweg positionierte Fakultät KI als Denkpartnerin, Kritikgenerator oder Übungswerkzeug, während Kandidatinnen und Kandidaten die Verantwortung für Bewerten, Anpassen und Rechtfertigen von Entscheidungen behielten, doch dasselbe Whitepaper berichtet, dass Kandidatinnen und Kandidaten Feedback abwerteten, das sie bereits für nützlich befunden hatten, sobald KI-Autorschaft offengelegt wurde – eine Episode, die es den Ballon-Platzen-Effekt nennt. Eine [[tang-chatbots-learning-design-2026|Analyse von 1,378 Designer-Chatbot-Beiträgen]] weist beim Erzeugen in die andere Richtung: Gestaltende nutzten einen eingebetteten Assistenten hauptsächlich für Ausrichtungsprüfungen an Lernergebnissen und pädagogischem Ansatz statt für die Produktion von Inhalten. In beiden Fällen trägt das [[evaluative-judgment|evaluative Urteilsvermögen]] des Menschen, nicht die Ausgabe des Modells, das Lernen.
 
-### Vorteile, Risiken und Designimplikationen
+## Vorteile, Risiken und Designimplikationen
 
 Die Evidenz der Wissensbasis zeigt, dass Mensch-KI-Zusammenarbeit eine zweischneidige Anordnung ist, deren Ergebnis durch Design statt durch KI selbst bestimmt wird:
 
@@ -65,7 +65,7 @@ Die Evidenz der Wissensbasis zeigt, dass Mensch-KI-Zusammenarbeit eine zweischne
 
 Das macht Mensch-KI-Zusammenarbeit zu einem *pädagogischen* Konstrukt ebenso sehr wie zu einem technischen: der Wert der Partnerschaft wird geprägt davon, wie Lehrkräfte die Interaktion gestalten, wie Lernende sie regulieren und wie das System produktives Engagement einlädt oder entmutigt.
 
-### Wie Mensch-KI-Zusammenarbeit in der Forschung erscheint
+## Wie Mensch-KI-Zusammenarbeit in der Forschung erscheint
 
 - **Vertrauen und Erwartungen:** [[human-ai-collaboration-trust-expectations|Vertrauens- und Erwartungsforschung]] untersucht, wie Erwartungen der Lernenden an KI prägen, ob Zusammenarbeit produktiv ist oder zu [[cognitive-offloading|Überabhängigkeit]] führt.
 - **Komplementäre Rollen in Schreiben und Denken:** [[humanlike-ai-collaborative-writing|menschenähnliches KI-gestütztes kollaboratives Schreiben]] und [[genai-mindtool-generative-learning|generative KI als Mindtool]] zeigen, wie KI Denken der lernenden Person erweitern statt ersetzen kann, wenn die Arbeitsteilung deren kognitives Engagement bewahrt.
@@ -100,7 +100,7 @@ Das macht Mensch-KI-Zusammenarbeit zu einem *pädagogischen* Konstrukt ebenso se
 
 - **Partnerschaft erstreckt sich auf den Forschungsprozess selbst, nicht nur auf studentisches Lernen** — [[potter-participatory-design-writing-analytics-2026|Potter et al. (2026)]] ließen GPT-4o Codes und vorläufige Themen in einer sicheren RAG-Plattform entwerfen, während drei Kernforschende und zwei externe Validierende die interpretative Autorität behielten und vier finale Themen konsolidierten. Der hybride Arbeitsablauf verteilte Forschungsarbeit um, statt sie zu entfernen.
 
-### Verbindungen
+## Verbindungen
 
 Mensch-KI-Zusammenarbeit verbindet sich mit [[human-in-the-loop-ai|Mensch in der Schleife]] (Aufsicht), [[agentic-ai|agentischer KI]] (Autonomie), [[teacher-role|Lehre]] (sich verändernde Arbeit der Lehrkräfte), [[scaffolding|Scaffolding]] und [[metacognition|Metakognition]] (wie Zusammenarbeit Lernen unterstützt) sowie [[cognitive-offloading|Überabhängigkeit]] (dem Fehlschlagmodus, wenn Zusammenarbeit zu Einspringen wird). Sie ist ein zentrales Thema über [[ai-literacy|KI-Kompetenz]], [[self-regulated-learning|selbstreguliertes Lernen]] und [[student-experience|Erleben der Studierenden]] hinweg.
 

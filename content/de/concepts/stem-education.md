@@ -1,7 +1,7 @@
 ---
 title: MINT-Bildung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-18T18:55:00-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/stem-education
-source_updated: "2026-11-17T13:05:00-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

@@ -1,7 +1,7 @@
 ---
 title: KI-Avatare und synthetische Lehrkräfte
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -14,7 +14,7 @@ audience: [instructors, instructional designers]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -57,19 +57,21 @@ Diese Seite ist nach Rollen gegliedert: welche Rolle der synthetische Mensch ein
 
 ## Was die Evidenz stützt, Rolle für Rolle
 
-Die Evidenz ist am stärksten, wo der synthetische Mensch ein *Partner in der Praxis* ist, und am schwächsten, wo er ein *Stellvertreter für Lernen* ist.
+Die Evidenz ist dort am stärksten, wo der synthetische Mensch ein *Partner beim Üben* ist, und dort am schwächsten, wo er ein *Ersatz für das Lernen* ist.
 
-Für aufgezeichnete Instruktion ist das gemessene Ergebnis Präferenz, nicht Leistung. Über zwei Kursangebote und 493 Befragte hinweg übertrafen KI-generierte personalisierte Videos nicht personalisierte, von Menschen aufgezeichnete (mittlerer Rang 2,26 gegenüber 2,69, p < .001). Die am höchsten gerankte Bedingung – personalisiertes, von Menschen aufgezeichnetes Video – existierte nie, sodass dieses Ranking Erfahrung mit Vorstellung vermischt. Die Autorinnen und Autoren berichten objektive Lernoutcomes als ausstehend.([[personalized-ai-generated-videos-preference-2026]])
+Bei aufgezeichneter Lehre ist das gemessene Ergebnis die Präferenz, nicht die Lernleistung. Über zwei Lehrangebote und 493 Befragte hinweg wurden KI-generierte personalisierte Videos höher eingestuft als nicht personalisierte, von Menschen aufgenommene Videos (mittlerer Rang 2,26 versus 2,69, p < 0,001). Die am höchsten eingestufte Bedingung, das von Menschen aufgenommene personalisierte Video, existierte nie, sodass diese Rangfolge Erfahrung mit Vorstellung vermischt. Die Autoren berichten, dass objektive Lernergebnisse noch ausstehen.([[personalized-ai-generated-videos-preference-2026|Tomlinson et al., 2026]])
 
-Für Tutoring ist die Evidenz technische Machbarkeit. ELEVATE erreichte auf Consumer-Hardware etwa fünf bis sechs Sekunden bis zum ersten Ton, indem es Sprache streamte, was den größten Teil der wahrgenommenen Latenz verdeckte. Es wurde keine kontrollierte Nutzerstudie durchgeführt, sodass Effekte auf Lernen und [[help-seeking]] offenbleiben.([[elevate-genai-virtual-tutors]])
+Beim Tutoring besteht die Evidenz in der technischen Machbarkeit. ELEVATE erreichte auf handelsüblicher Hardware etwa fünf bis sechs Sekunden bis zum ersten Audio, indem die Sprachausgabe gestreamt wurde, was den größten Teil der wahrgenommenen Latenz verdeckte. Es wurde keine kontrollierte Nutzerstudie durchgeführt, daher bleiben Effekte auf das Lernen und auf die [[help-seeking|Hilfesuche]] offen.([[elevate-genai-virtual-tutors|Stacchio et al., 2026]])
 
-Für klinische Kommunikation ist die Evidenz am weitesten entwickelt und bleibt dennoch vor dem [[transfer-of-learning|Transfer]] stehen. Der Judge von SOPHIE erreichte, allein Transkripte lesend, Pearson 0,759 und ICC(A,1) 0,746 gegen den Konsens menschlicher Raterinnen und Rater – innerhalb der Streuung einzelner Menschen statt außerhalb. In einer entfernten Studie mit 59 Klinikerinnen, Klinikern und Studierenden fanden 92% es ansprechend und 83% klinisch relevant. Die Scores stiegen zwischen zwei Begegnungen, aber ohne Kontrollarm lässt sich dieser Anstieg nicht dem Training zuschreiben.([[sophie-clinical-communication-ai-assessment-2026]])
+Für die klinische Kommunikation ist die Evidenz am weitesten entwickelt und reicht dennoch nicht bis zum [[transfer-of-learning|Transfer]]. SOPHIEs Judge, der ausschließlich Transkripte las, erreichte gegenüber dem Konsens menschlicher Rater Pearson 0,759 und ICC(A,1) 0,746 — innerhalb der Streuung einzelner Menschen und nicht außerhalb davon. In einer Remote-Studie mit 59 Klinikerinnen und Klinikern sowie Studierenden fanden 92 % das System ansprechend, und 83 % beurteilten es als klinisch relevant. Die Werte stiegen zwischen zwei Begegnungen, doch ohne Kontrollgruppe lässt sich dieser Anstieg nicht dem Training zuschreiben.([[sophie-clinical-communication-ai-assessment-2026|Hasan et al., 2026]])
 
-Für [[simulating-students|simulierte Studierende]] betrifft die Evidenz die Interaktionsqualität statt Outcomes. Hauks Teilnehmende bewerteten den Dialog als klar funktional (M = 5,37) und nur mäßig authentisch (M = 3,71) – eine Aufspaltung, die die Transkripte mit 87,1% gegenüber 37,4% Abdeckung reproduzierten. Der Avatar trug die herausfordernde Arbeit mit 51,1% seines Textes, während Lehrkräfte ausführten und rechtfertigten. Einundzwanzig Freiwillige in einem Programm, eine Sitzung, kein Vergleich mit Live-Rollenspiel.([[hauk-student-avatars-dialogue-teacher-education-2026]])
+Bei [[simulating-students|simulierten Schülerinnen und Schülern]] betrifft die Evidenz die Interaktionsqualität und nicht die Ergebnisse. Hauks Teilnehmende bewerteten den Dialog als klar funktional (M = 5,37) und nur mäßig authentisch (M = 3,71) — eine Aufspaltung, die sich in den Transkripten mit 87,1 % gegenüber 37,4 % Abdeckung wiederholte. Der Avatar übernahm die Herausforderungsarbeit mit 51,1 % seines Textes, während die Lehrkräfte ausführlich erläuterten und begründeten. Einundzwanzig Freiwillige in einem Studiengang, eine Sitzung, kein Vergleich mit einem live gespielten Rollenspiel.([[hauk-student-avatars-dialogue-teacher-education-2026|Hauk et al., 2026]])
 
-Für Rollenspiel berichtet REMind einen signifikanten Zuwachs von vor zu nach in der wahrgenommenen [[self-efficacy]] von Kindern, sich zu verteidigen, bei besser kalibrierten Überzeugungen dazu, ob Konfrontation einen Täter stoppt. Das sind 18 Kinder im Alter von neun bis zehn Jahren in einem Playtesting-Kontext, was Hoffnung stützt, nicht dauerhafte Verhaltensänderung.([[remind-robot-mediated-roleplay-antibullying-2026]])
+Für Rollenspiele berichtet REMind einen signifikanten Prä-Post-Zuwachs in der von Kindern wahrgenommenen [[self-efficacy|Selbstwirksamkeit]] beim Verteidigen, mit besser kalibrierten Überzeugungen darüber, ob das Konfrontieren eines Mobbenden das Mobbing beendet. Das sind 18 Kinder im Alter von neun bis zehn Jahren in einem Playtesting-Kontext, was Potenzial belegt, aber keine nachhaltige Verhaltensänderung.([[remind-robot-mediated-roleplay-antibullying-2026|Sanoubari et al., 2026]])
 
-Für Assessment ist der SOPHIE-Judge das klarste Ergebnis und der Sprachinterviewer das schwächste. Tammes Vorschlag berichtet einen technischen Pilotversuch und Daten, die noch nicht formal analysiert wurden; jede Aussage darüber, was Sprache hervorruft, bleibt Hypothese.([[voice-based-ai-feedback-interviews-higher-ed-2026]])
+Für die Beurteilung ist der SOPHIE-Judge das klarste Ergebnis und der sprachbasierte Interviewer das unklarste. Tammes Vorschlag berichtet von einem technischen Pilotversuch und von Daten, die noch nicht formal analysiert wurden; jede Aussage darüber, was Sprache hervorruft, bleibt eine Hypothese.([[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al., 2026]])
+
+Die Kurskommunikation ist eine weitere Rolle, und die Evidenz dafür ist ein Workflow und kein Effekt. [[wu-singing-syllabus-avatars-2026|Wu (2026)]] dokumentiert eine siebenstufige Pipeline, die den Syllabus einer Einführung in die Informatik im ersten Studienjahr in ein gesungenes Video verwandelt, das von einem lippensynchronen Avatar vorgetragen wird: ChatGPT entwirft die Liedtexte, Suno AI erzeugt die Musik, und HeyGem synthetisiert das Gesicht in Colab. Übertragbar ist das Set an Randbedingungen: Genauigkeit hat Vorrang vor Reim, jede umgeformte Richtlinienzeile wird auf den offiziellen Syllabus zurückgeführt, und die übernehmende Lehrkraft trägt den Prüfaufwand. Wu berichtet keine Studierendendaten, daher bleiben Engagement und Behaltensleistung Hypothesen, und der gesungene Syllabus ergänzt das schriftliche Dokument, statt es zu ersetzen.
 
 ## Vertrauen reist durch das Gesicht
 
@@ -101,11 +103,13 @@ Deepfake-Kompetenz ist die Kehrseite derselben Fähigkeit. In einer australische
 
 ## Der ehrliche Stand der Evidenz
 
-Fast jede Studie hier ist klein und kurz. Hauk hat 21 Freiwillige und eine Sitzung. SOPHIE hat 59 Abschließende und keinen Kontrollarm. Die psychotherapeutische Evaluation hat zwei Psychologinnen, je etwa 90 Minuten. Der PBL-Pilot hat 26 Studierende und einen Fall. ACLIME und Theelen sind [[theories-and-frameworks|konzeptionelle Rahmen]], und TriKoNets Basis sind acht Gruppen in einzelnen Sitzungen.([[genai-simulate-patient-history-pbl-2026]])([[ai-psychotherapy-training-avatars]])([[aclime-pedagogical-agents-extended-reality-2026]])([[theelen-classroom-simulations-four-layer-framework-2026]])([[trikonet-trivalence-co-creativity-2026]])
+Fast jede Studie hier ist klein und kurz. Hauk hat 21 Freiwillige und eine Sitzung. SOPHIE hat 59 Teilnehmende, die die Studie abgeschlossen haben, und keine Kontrollgruppe. Die Psychotherapie-Evaluation umfasst zwei Psychologen mit jeweils etwa 90 Minuten. Die PBL-Pilotstudie hat 26 Studierende und einen Fall. ACLIME und Theelen sind [[theories-and-frameworks|konzeptionelle Rahmenwerke]], und TriKoNets Grundlage sind acht Gruppen in Einzelsitzungen.([[genai-simulate-patient-history-pbl-2026|Mool et al., 2026]])([[ai-psychotherapy-training-avatars|Riachi et al., 2026]])([[aclime-pedagogical-agents-extended-reality-2026|Ross et al., 2026]])([[theelen-classroom-simulations-four-layer-framework-2026|Theelen et al., 2026]])([[trikonet-trivalence-co-creativity-2026|Ruhland, 2026]])
 
-Die großen Stichproben betreffen Einstellungen und Präferenzen – 396 Teilnehmende zu Avatar-Identität, 493 Befragte zur Videopräferenz –, und beide sind Gelegenheits- oder Einzelkurspopulationen. Keine Studie in diesem Set zeigt, dass eine synthetische Lehrkraft besseres Lernen erzeugt als eine menschliche. Die verteidigungsfähige Aussage ist enger: Diese Systeme können eine Übungsbegegnung annähern, können in einer Domäne mit akzeptabler Übereinstimmung gegen menschliche Rater bewertet werden und können verschieben, wie Lernende die Quelle der Instruktion bewerten.
+Die großen Stichproben betreffen Einstellungen und Präferenzen — 396 Teilnehmende zur Avatar-Identität, 493 Befragte zur Video-Präferenz — und beide sind Gelegenheitsstichproben oder Populationen aus einem einzelnen Kurs. Keine Studie in diesem Set zeigt, dass eine synthetische Lehrkraft besseres Lernen hervorbringt als eine menschliche. Die vertretbare Aussage ist enger: Diese Systeme können eine Praxisbegegnung annähernd nachbilden, ihre Bewertungen erreichen in einem Bereich eine akzeptable Übereinstimmung mit menschlichen Ratings, und sie können verändern, wie Lernende die Quelle der Unterweisung beurteilen.
 
-Diese Enge ist wichtig. Theelens Autorinnen und Autoren sagen es direkt: Flüssigkeit und ein Gefühl von Präsenz sind keine [[assessment-validity|Validitätsbelege]].([[theelen-classroom-simulations-four-layer-framework-2026]]) Wie eine Lehrkraft zu klingen, nimmt die leichteste Hürde im Raum.
+Diese Enge ist bedeutsam. Die Autorinnen und Autoren von Theelen formulieren es direkt: flüssiges Sprechen und ein Gefühl von Präsenz sind keine [[assessment-validity|Validitätsbelege]].([[theelen-classroom-simulations-four-layer-framework-2026|Theelen et al., 2026]]) Wie eine Lehrkraft zu klingen, nimmt die leichteste Hürde im Raum.
+
+Adoption ist eine andere Frage als Wirksamkeit: [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] modellierten die Absicht von 653 Lernenden, KI-Avatare zu nutzen, und wahrgenommene Transparenz war der stärkste Prädiktor für Vertrauen (β = 0,542). Das Modell erklärte 38,9 % der Absicht, wobei relativer Vorteil (β = 0,267) und Nützlichkeit (β = 0,247) vor der Einstellung (β = 0,126) lagen.
 
 ## Verbreitete Fehlvorstellungen
 
@@ -148,17 +152,20 @@ Diese Enge ist wichtig. Theelens Autorinnen und Autoren sagen es direkt: Flüssi
 
 ## Verbundene Artikel
 
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Identitätshinweise von Avataren verschieben Glaubwürdigkeit und die Übernahme von Orientierung (Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — Studierendenavatare im Dialog der praxisbasierten Lehrkräftebildung (Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — Erstellung und Meldung von Deepfakes nach Geschlecht in einem KI-Kompetenz-Workshop
-- [[elevate-genai-virtual-tutors]] — Lokal zuerst laufende 3D-Avatar-Tutoren mit einer Governance-Ebene für Lehrkräfte (ELEVATE)
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — Evidenz zur Adoptionsseite: 653 Lernende, Transparenz als stärkster Prädiktor für Vertrauen (Wang et al. 2026)
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Identitätssignale von Avataren verändern Glaubwürdigkeit und die Annahme von Hilfestellungen (Anthis & Kyriakidou-Zacharoudiou 2026)
+- [[hauk-student-avatars-dialogue-teacher-education-2026]] — Schüleravatare im Dialog der praxisorientierten Lehrkräftebildung (Hauk et al. 2026)
+- [[gender-differences-ai-literacy-deepfake]] — Erstellung und Meldung von Deepfakes nach Geschlecht in einem Workshop zur KI-Kompetenz
+- [[elevate-genai-virtual-tutors]] — Local-first-3D-Avatar-Tutoren mit einer Governance-Ebene für Lehrkräfte (ELEVATE)
 - [[sophie-clinical-communication-ai-assessment-2026]] — Avatar-Patienten mit einem LLM-Judge für klinische Kommunikation
-- [[genai-simulate-patient-history-pbl-2026]] — Ein GenKI-Patientenavatar in einem PBL-Tutorial zur Anamneseerhebung
-- [[ai-psychotherapy-training-avatars]] — Patientenavatare für ACT-Treueübung in der Psychotherapieausbildung
-- [[aclime-pedagogical-agents-extended-reality-2026]] — Pädagogische Agenten in erweiterter Realität: Präsenz, Realismus und Belastung (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Robotervermitteltes Rollenspiel mit einem geführten Avatar für Zivilcourage
-- [[personalized-ai-generated-videos-preference-2026]] — Videopersonalisierung mit geklonter Lehrkraft und Studierendenpräferenz
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Vier-Ebenen-Rahmen, der Repräsentation von Handlungsfähigkeit in der Klassenzimmersimulation trennt
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Ein vorgeschlagener konversationeller Sprachagent für Kursfeedback-Interviews
+- [[genai-simulate-patient-history-pbl-2026]] — Ein genAI-Patientenavatar in einem PBL-Tutorium zur Anamneseerhebung
+- [[ai-psychotherapy-training-avatars]] — Patientenavatare für ACT-Fidelity-Übungen in der Psychotherapieausbildung
+- [[aclime-pedagogical-agents-extended-reality-2026]] — Pädagogische Agenten in Extended Reality: Präsenz, Realismus und Belastung (ACLIME)
+- [[remind-robot-mediated-roleplay-antibullying-2026]] — Robotervermitteltes Rollenspiel mit einem von einer Person gesteuerten Avatar für Bystander-Interventionen
+- [[personalized-ai-generated-videos-preference-2026]] — Video-Personalisierung mit geklonten Lehrpersonen und Präferenzen der Studierenden
+- [[theelen-classroom-simulations-four-layer-framework-2026]] — Vierschichten-Framework, das Repräsentation und Handlungsfähigkeit in der Unterrichtssimulation trennt
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Ein vorgeschlagener dialogfähiger Sprachagent für Feedback-Interviews zu Lehrveranstaltungen
 - [[trikonet-trivalence-co-creativity-2026]] — Kokreative pädagogische Avatare in soziotechnischen Netzwerken (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Nur 51,7% von 654 Studierenden nahmen die angebotenen anthropomorphen Rollen an; eine nannte ihn einen Feedback-Automaten
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Nur 51,7 % von 654 Studierenden nahmen die angebotenen anthropomorphen Rollen an; eine Person bezeichnete es als Feedback-Automaten
+
+- [[wu-singing-syllabus-avatars-2026]] — Gesangslehrpläne mit virtuellen Avataren gestalten: KI-gestützte Neufassung von Lehrplänen

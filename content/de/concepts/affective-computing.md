@@ -1,7 +1,7 @@
 ---
 title: Affektives Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Einführung
 
-### Emotionen erfassen, um den Unterricht anzupassen
+## Emotionen erfassen, um den Unterricht anzupassen
 
 Affective Computing zielt darauf ab, KI-Systeme emotional bewusst zu machen, damit sie darauf reagieren können, wie sich Lernende fühlen, und nicht nur darauf, was sie tun. In der Bildung bedeutet das, Frustration, Verwirrung, Zuversicht, Langeweile oder Engagement zu erfassen und den Unterricht entsprechend anzupassen. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] demonstriert den Ansatz, indem es Affekt aus zwei Modalitäten modelliert — konversationellem Text und Echtzeit-Gesichtsausdruck — und den aggregierten emotionalen Zustand auf [[pedagogy|pädagogische]] Strategien abbildet, bevor der Tutor [[prompt-engineering|gepromtet]] wird.
 
@@ -46,7 +46,7 @@ Die Signale selbst sind mehrdeutig: ein einzelner Ausdruckskanal kann Belastung,
 
 - **Emotionale und reflexive LLM-Unterstützung in der Mathematik der Mittelstufe:** [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]] lagerten Achtsamkeit in einen Algebra-[[intelligent-tutoring|Tutor]] für Siebtklässlerinnen und Siebtklässler ein, über dynamische Chats, Atemübungen und achtsame Fehler-Feedback-Sprache. In einer kleinen [[rct|randomisierten kontrollierten Studie]] im Klassenzimmer (42 Absolventinnen und Absolventen von 252 Teilnehmenden) erreichte die achtsame Version ähnliche Algebra-Lernleistungen in kürzerer Zeit und mit weniger angeforderten Hinweisen als die reine kognitive Unterstützung — höhere Lerneffizienz und ausgewogenere [[help-seeking|Hilfesuche]] —, wenngleich sich die Verringerung mathematischer Zustandsangst zwischen den Bedingungen nicht signifikant unterschied.
 
-### Die Vorteile und die Risiken
+## Die Vorteile und die Risiken
 
 Emotionssensitives Tutoring kann messbare Gewinne bringen, aber dieselbe Ausgefeiltheit birgt Risiken:
 
@@ -54,9 +54,9 @@ Emotionssensitives Tutoring kann messbare Gewinne bringen, aber dieselbe Ausgefe
 - **Risiken.** Einfühlsam wirkende Automatisierung kann [[cognitive-offloading|Überabhängigkeit]] und parasoziale Bindung fördern, echte [[metacognition|metakognitive Distanzierung]] verdecken und [[privacy|Datenschutzbedenken]] aufgrund kontinuierlicher affektiver Überwachung aufwerfen. [[ai-sycophancy|KI-Sykophantie]] ist ein zentrales affektives Risiko: emotional einschmeichelnde KI, die zustimmt statt infrage zu stellen, kann kritisches Urteilsvermögen aushöhlen und sogar echte menschliche Beziehungen verdrängen — [[sycophantic-ai-social-interaction-2026|Ibrahim et al.]] zeigen, dass sykophantische KI Nutzende dazu brachte, persönlichen Rat fast genauso oft von der KI zu holen wie von engen Freunden und Familie, bei geringerer Zufriedenheit in der realen Interaktion. [[ai-fatigue-academic-contexts]] und [[ai-campus-wellbeing-tools]] verbinden affektive KI zudem mit dem [[well-being|Wohlbefinden]] der Lernenden.
 - **Engagement ist kein Stellvertreter für Lernen.** Eine gehirnsensorische Studie fand, dass eine eingeschränkte, adaptive Schnittstelle kognitives Engagement erhöhte (p = .018), während der uneingeschränkte Chatbot höhere [[learning-gains|Lernzuwächse]] erzielte (p < .03, d > 0.80) — ein Affekt- oder Engagementsignal kann also vom Ergebnis wegzeigen, dem es dienen soll ([[socratic-nuclear-ai-learning|Clin Deffarges et al. (2026)]]).
 
-### Affective Computing und die breitere AIED
+## Affective Computing und die breitere AIED
 
-Affective Computing liegt an der Schnittstelle von [[affective-tutoring]] (seiner pädagogischen Anwendung), [[student-modeling]] (den gesamten Lernenden abzubilden, einschließlich Emotion) und [[learning-analytics]] (Signale aus Lernendendaten abzuleiten). Es verbindet sich mit dem Design von [[intelligent-tutoring]] und mit [[pedagogical-safety]] — dem Prinzip, dass KI die Emotion der Lernenden unterstützen und nicht manipulieren soll.
+Affective Computing liegt an der Schnittstelle von [[affective-tutoring|affektivem Tutoring]] (seiner pädagogischen Anwendung), [[student-modeling|Lernendenmodellierung]] (der Abbildung des ganzen Lernenden, einschließlich seiner Emotionen) und [[learning-analytics|Learning Analytics]] (der Gewinnung von Signalen aus Lerndaten). Es ist verbunden mit dem Design von [[intelligent-tutoring|intelligentem Tutoring]] und mit [[pedagogical-safety|pädagogischer Sicherheit]] — dem Prinzip, dass KI die Emotionen Lernender unterstützen und nicht manipulieren soll. Die Affekterfassung ist von der Pädagogik zu unterscheiden, der sie zuliefert: [[affective-tutoring|affektives Tutoring]] behandelt, wie ein Tutor auf einen erfassten Affekt reagieren sollte, und [[sensor-and-gaze-analytics|Sensor- und Blickanalysen]] behandeln, welche Aussagen die Signale selbst tragen können.
 
 - **Echtzeit-Emotionsüberwachung im Klassenzimmer auf Basis von Edge-Geräten.** [[emotion-aware-classroom-iot-monitoring-2026|Nguyen et al. (2026)]] bauen ein emotionssensitives System zur Bewertung der Klassenzimmerqualität, das Affective Computing in authentische, großmaßstäbliche Settings trägt. Zugeschnitten auf **IoT/Edge-Geräte** adressiert das System Lastverteilung und Latenz und koordiniert mehrere Agenten, um emotionale Muster und Engagement der Schülerinnen und Schüler in Echtzeit zu erfassen. Es wurde am **Classroom Emotion Dataset** evaluiert (1,500 annotierte Bilder und 300 Klassenzimmervideos aus realen vietnamesischen K–12-Klassenzimmern), mit Fokus auf multipersonale, reale affektive Interaktion — eine Demonstration der Skalierung von Emotionserkennung von Labormodellen hin zu einsetzbarer Klassenzimmerüberwachung, samt der Datenschutz- und [[pedagogical-safety|pädagogische-Sicherheit]]-Erwägungen, die solche Überwachung aufwirft.
 - **Emotional intelligente Assessment-Agenten.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], ein [[llm]]-gestützter, emotional intelligenter [[conversational-ai|konversationeller Agent]], reduzierte [[anxiety-and-stress|Prüfungsangst]] und sozialen Druck bei performanzbasierten Assessments und bewahrte dabei [[usability-research|Usability]].

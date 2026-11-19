@@ -1,7 +1,7 @@
 ---
 title: Lernen durch Lehren
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -56,14 +56,16 @@ Die Evidenzbasis der Wissensdatenbank führt diese Verschiebung auf **konversati
 
 ## Fehlbarkeit konstruieren: LLMs als Novizen-Unterrichtete
 
-Eine zentrale Gestaltungsherausforderung für LLM-basierte lehrbare Agenten ist, dass LLMs standardmäßig darauf trainiert sind, expertenniveau, flüssige Antworten zu produzieren —, das Gegenteil des fehlbaren Novizen, den das LbT-Paradigma will. Ein LLM zu einem guten Unterrichteten zu machen erfordert **Fehlbarkeit konstruieren**:
+Eine zentrale Designherausforderung bei LLM-basierten teachable agents besteht darin, dass LLMs standardmäßig darauf trainiert sind, flüssige Antworten auf Expertenniveau zu erzeugen — genau das Gegenteil des fehlbaren Novizen, den das LbT-Paradigma vorsieht. Ein LLM zu einem guten Tutee zu machen, erfordert **die gezielte Konstruktion von Fehlbarkeit**:
 
-- **Generierte Fehler können als authentisch durchgehen.** In einer verblindeten Annotationsstudie klassifizierten Expertinnen und Experten 164 von 196 (83.7%) LLM-generierten Java-Einreichungen als menschlich geschrieben, sodass ein Unterrichteter realistische Bugs zum Debuggen liefern kann statt nur korrekten Code ([[simulating-students-java-programming-errors-llms|Keramati et al. (2026)]]).
+- **Generierte Fehler können als authentisch durchgehen.** In einer verblindeten Annotationsstudie stuften Fachexperten 164 von 196 (83,7 %) der von LLMs generierten Java-Einreichungen fälschlich als von Menschen geschrieben ein, sodass ein Tutee realistische Bugs zum Debuggen liefern kann und nicht nur korrekten Code ([[simulating-students-java-programming-errors-llms|Keramati et al. (2026)]]).
 
-- **[[prompting-teachability-novice-personas-lbt-2026|Prompting für Lehrbarkeit]]** (Miller & Bosch) fand, dass restriktionsbasierte Prompts, die explizit Fehlerproduktion erzwingen (z. B. „antworte inkorrekt“ oder „liege bei 2–3 Dingen falsch“), novizenartiges Verhalten weit zuverlässiger elizitieren als persona-, fehlvorstellungs- oder unsicherheitsbasierte Prompts.
-- **[[socrates-students-instructors-llms-lbt-2025|Konstruierte Wissenslücken]]** (Yang et al.) entwerfen Probleme, die das LLM nicht ohne Wissen lösen kann, das nur die oder der Studierende besitzt, was Lehren zur Notwendigkeit macht und der passiven Überabhängigkeit von LLM-als-Tutor-Nutzung entgegenwirkt.
-- **Expliques Lehrlingsbeschränkungen** (Wang et al.) weisen den Unterrichteten an, (a) Novize zu bleiben, (b) weiter um Klärung zu bitten, bis die Erklärung der oder des Studierenden korrekt ist, und (c) die Ziel-Erklärung nie zu offenbaren —, und Studierenden zu *widerstehen*, die die Rollen umkehren und den Unterrichteten zurückerklären lassen wollen.
-- **Unlearning als gewichtslevel-Route zu Fehlbarkeit.** Machine Unlearning unterdrückt 16 zielgerichtete Wissenskomponenten in Mistral-7B und senkt die Genauigkeit von etwa 0.75 bei einem 10%-Vergessensverhältnis auf unter 0.5 bei 40%, während das Basismodell nahe 0.85 hielt. Das unterdrückte Wissen kehrte durch überwachtes Neulernen und coach-geleiteten Dialog zurück, sodass das Wissensniveau des Unterrichteten ein Regler statt eine Behauptung ist ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]).
+- **[[prompting-teachability-novice-personas-lbt-2026|Prompting für Lehrbarkeit]]** (Miller & Bosch) ergab, dass constraint-basierte Prompts, die die Fehlerproduktion explizit erzwingen (z. B. „antworte falsch" oder „mache 2–3 Fehler"), novizenhaftes Verhalten weitaus zuverlässiger hervorrufen als persona-, fehlvorstellungs- oder unsicherheitsbasierte Prompts.
+- **[[socrates-students-instructors-llms-lbt-2025|Konstruierte Wissenslücken]]** (Yang et al.) konzipieren Aufgaben, die das LLM ohne Wissen, über das nur der Studierende verfügt, nicht lösen kann — dadurch wird das Lehren zur Notwendigkeit und der passiven Überabhängigkeit beim Einsatz von LLMs als Tutor entgegengewirkt.
+- **Expliques Vorgaben für die Lehrlingsrolle** (Wang et al.) weisen den Tutee an, (a) Novize zu bleiben, (b) so lange Klärungsfragen zu stellen, bis die Erklärung der Studierenden korrekt ist, und (c) die Zielerklärung niemals preiszugeben — und sich Studierenden, die die Rollen umkehren und den Tutee dazu bringen wollen, seinerseits zu erklären, zu *widersetzen*.
+- **Verlernen als Weg zur Fehlbarkeit auf der Gewichtsebene.** Maschinelles Verlernen unterdrückt 16 gezielt ausgewählte Wissenskomponenten in Mistral-7B und senkt die Genauigkeit von etwa 0,75 bei einer Vergessensrate von 10% auf unter 0,5 bei 40%, während das Basismodell nahe 0,85 blieb. Das unterdrückte Wissen kehrte durch überwachtes Wiedererlernen und coach-geführten Dialog zurück, sodass der Wissensstand des Tutees ein Regler ist und keine feste Zuschreibung ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]).
+
+- **Supervision als Tutee-Aufgabe.** In einer Design-Fallstudie über zwei Kurse hinweg stellen Studierende einen Allzweck-Assistenten ein, arbeiten ihn ein und coachen ihn und dokumentieren anschließend, was er falsch gemacht hat; die Lehrenden berichten, dass das Erklären von Konventionen gegenüber dem Tool diese Konventionen für die Studierenden selbst klärte ([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak & Braddock, 2025]]).
 
 ## Fragenstellen, Selbstregulation und Aktivlernen
 

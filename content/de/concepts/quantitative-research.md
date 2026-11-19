@@ -1,14 +1,14 @@
 ---
 title: Quantitative Forschung
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -41,16 +41,20 @@ Quantitative Forschung umspannt deskriptive Designs (Prävalenz und Muster messe
 
 ## Wichtige quantitative Ansätze
 
+### Longitudinale und Panel-Designs
+Wiederholte Messung derselben Lernenden macht aus einer Korrelation eine Trajektorie: Panel-Modelle trennen einen stabilen Trait von anlassspezifischer Veränderung, und Wachstumsmodelle schätzen Form und Rate der Veränderung über die Wellen hinweg. Die Designfamilien, die Bedrohungen, die in KI-Studien greifen (Attrition, Tool-Drift, assistierte Leistung), und die stärkeren Beispiele werden unter [[longitudinal-research|Longitudinale Forschung]] behandelt.
+
 ### Erhebungs- und korrelative Forschung
-Querschnitt-Erhebungen messen selbstberichtete Einstellungen, Wahrnehmungen, Motivation, [[self-efficacy|Selbstwirksamkeit]] und Technologieakzeptanz, oft modelliert mit Regression oder Strukturgleichungsmodellierung (SEM/PLS-SEM), um hypothetische Beziehungen und Mediatoren zu testen. Diese dominieren den Korpus der Wissensbasis, besonders für Akzeptanz-, Motivations- und psychologische-Mechanismus-Fragen. [[acceptance-ai-english-tools-2026|Akzeptanz KI-gestützter englischer Werkzeuge]] baut auf dem [[technology-acceptance-model|TAM]] mit SEM auf; [[tian-genai-learning-adoption-pathways-2026|GenAI-Adoptionspfade]] nutzen PLS-SEM, fsQCA und Importance-Performance-Mapping; [[teacher-education-ai-literacy-sdt-2026|KI-Kompetenz von Lehrkräften]] nutzt faktorvalidierte Erhebungen, verankert in der [[self-determination-theory|Selbstbestimmungstheorie]].
+Querschnitt-Erhebungen messen selbstberichtete Einstellungen, Wahrnehmungen, Motivation, [[self-efficacy|Selbstwirksamkeit]] und Technologieakzeptanz, oft modelliert mit Regression oder Strukturgleichungsmodellierung (SEM/PLS-SEM), um hypothetische Beziehungen und Mediatoren zu testen. Diese dominieren die Literatur, besonders für Akzeptanz-, Motivations- und psychologische-Mechanismus-Fragen. [[acceptance-ai-english-tools-2026|Akzeptanz KI-gestützter englischer Werkzeuge]] baut auf dem [[technology-acceptance-model|TAM]] mit SEM auf; [[tian-genai-learning-adoption-pathways-2026|GenAI-Adoptionspfade]] nutzen PLS-SEM, fsQCA und Importance-Performance-Mapping; [[teacher-education-ai-literacy-sdt-2026|KI-Kompetenz von Lehrkräften]] nutzt faktorvalidierte Erhebungen, verankert in der [[self-determination-theory|Selbstbestimmungstheorie]].
 
 - **Stärken:** große Stichproben; breite, kostengünstige Abdeckung; testet komplexe mediationale Modelle; praktikabel für Einstellungen, die schwer zu beobachten sind.
 - **Grenzen:** Querschnitt-Daten können keine Kausalität etablieren; Selbstauskunfts-Bias; Convenience-Sampling begrenzt Generalisierbarkeit; Mediatoren aus Kovarianz inferiert, nicht aus Manipulation. Siehe [[self-report-measures|Selbstauskunftsmaße]] für die instrumentenseitige Behandlung dieser Grenzen.
 - **Ein saturiertes Mediationsmodell kann seine eigene Ordnung nicht prüfen.** Eine Ein-Wellen-Befragung von 1.020 Pflegestudierenden zerlegte einen Gesamteffekt von 1.36 in einen direkten von 0.92 und einen indirekten von 0.44 über [[self-regulated-learning|selbstreguliertes Lernen]], 32,35% des Gesamten, mit einem Modell, das so viele freie Parameter hat wie beobachtete Kovarianzen und die Daten daher per Konstruktion reproduziert ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+- **Ein „partiell“-Label kann auf einem Intervall beruhen, das beinahe die Null erreicht.** Bei 438 chinesischen Universitätsstudierenden verlief der direkte Pfad von KI-Nutzung zu Leistung mit β = 0,18, 95% CI (0,02; 0,34) ([[yuan-ai-assisted-learning-engagement-performance-2026|Yuan et al. (2026)]]).
 **Ein nahezu null Indirekteffekt kann zwei lebendige Pfade verbergen.** In einer Selbstauskunfts-Welle von 568 Designstudierenden verlief der indirekte Zusammenhang mit 0.0929 über Promotion-Fokus und mit -0.0884 über Prevention-Fokus, zusammen 0.0045, während der direkte Pfad 98,7% des Gesamten trug ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
 
 ### Experimentelle und quasi-experimentelle Forschung
-Experimente weisen Lernende zufällig Bedingungen zu (z. B. KI-Tutor gegenüber menschlichem Tutor, oder KI-gescaffoldet gegenüber unassistiert), um kausale Effekte auf Ergebnisse zu schätzen. **Randomisierte kontrollierte Studien ([[rct|RCTs]])** sind der Goldstandard für interne Validität. [[access-not-enough-ai-tutoring-2026|Eine randomisierte Feldstudie zu menschlicher Unterstützung plus KI-Tutoring]] und [[genai-can-harm-teaching-rct-2026|ein RCT zu generativer KI im Unterricht]] nutzen Zuweisung, um kausale Effekte zu isolieren. **Quasi-experimentelle** Designs (Pre/Post, gematchte Gruppen ohne Randomisierung) sind in intakten Klassenräumen praktikabler, aber schwächer bei Kausalbehauptungen.
+Experimente weisen Lernende zufällig Bedingungen zu (z. B. KI-Tutor gegenüber menschlichem Tutor, oder KI-gescaffoldet gegenüber unassistiert), um kausale Effekte auf Ergebnisse zu schätzen. **Randomisierte kontrollierte Studien ([[rct]]s)** sind der Goldstandard für interne Validität. [[access-not-enough-ai-tutoring-2026|Eine randomisierte Feldstudie zu menschlicher Unterstützung plus KI-Tutoring]] und [[genai-can-harm-teaching-rct-2026|ein RCT zu generativer KI im Unterricht]] nutzen Zuweisung, um kausale Effekte zu isolieren. **Quasi-experimentelle** Designs (Pre/Post, gematchte Gruppen ohne Randomisierung) sind in intakten Klassenräumen praktikabler, aber schwächer bei Kausalbehauptungen.
 
 [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] wählen stattdessen ein Within-Subject-Crossover: jede und jeder Studierende begegnet demselben Physikinhalt zweimal, einmal in einer [[active-learning|Active-Learning]]-Stunde im Klassenraum und einmal durch den eigenen KI-Tutor des Kurses, mit Pre- und Post-Tests um jede davon, sodass jede lernende Person ihre eigene Kontrolle ist und Zwischenpersonen-Unterschiede sich aufheben.
 
@@ -64,9 +68,9 @@ Longitudinale Designs verfolgen dieselben Lernenden über Zeit und erfassen Ver�
 Zwischen-Datensatz-Vergleiche brauchen einen fixierten Arbeitspunkt: eine strukturelle Prüfung synthetischer Bildungsdaten fand, dass die Analyse jedes Datensatzes an seiner eigenen Schwelle einen Kontrast umkehrte, der an einem geteilten Punkt hielt, und dass ihr Surrogat-Vergleich nur die synthetischen Daten und Permutationen ihrer selbst brauchte – eine permutationsbasierte Null statt einer absoluten Schwelle ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 
 ### Rechnerische und psychometrische Quantifizierung
-Quantitative Methoden schließen außerdem die direkte Messung von Konstrukten über Instrumente ein – die Domäne der [[educational-measurement|Bildungsmessung]] und der [[item-response-theory|Item-Response-Theorie]]. Das [[jin-glat-genai-literacy-assessment|GLAT]] der Wissensbasis ist ein 20-Item-quantitatives Instrument, validiert mit IRT; [[educational-measurement|Messinstrumente]] über [[ai-literacy|KI-Kompetenz]], Akzeptanz und Selbstwirksamkeit hinweg liefern die validierten Skalen, auf denen Erhebungs- und Experimentalforschung angewiesen sind.
+Quantitative Methoden schließen außerdem die direkte Messung von Konstrukten über Instrumente ein – die Domäne der [[educational-measurement|Bildungsmessung]] und der [[item-response-theory|Item-Response-Theorie]]. Das [[jin-glat-genai-literacy-assessment|GLAT]] ist ein 20-Item-quantitatives Instrument, validiert mit IRT; [[educational-measurement|Messinstrumente]] über [[ai-literacy|KI-Kompetenz]], Akzeptanz und Selbstwirksamkeit hinweg liefern die validierten Skalen, auf denen Erhebungs- und Experimentalforschung angewiesen sind.
 
-Bibliometrische Analyse ist eine weitere quantitative Familie: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] kartieren 1.403 [[medical-education|Medizinische und Gesundheitsberufebildung]]-Publikationen über Länder-, Institutions- und Schlagwort-Kookkurrenznetzwerke und lesen die Form einer Literatur, statt ihre Studien zu bewerten — was ihre Schlussfolgerung, dass [[governance|KI-Governance]]-Arbeit nicht mit dem Capability-Testing Schritt gehalten hat, zu einer Behauptung über das Feld macht und nicht über Lernen.
+Bibliometrische Analyse ist eine weitere quantitative Familie: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] kartieren 1.403 Publikationen der [[medical-education|medizinischen Ausbildung]] über Länder-, Institutions- und Schlagwort-Kookkurrenznetzwerke und lesen die Form einer Literatur, statt ihre Studien zu bewerten — was ihre Schlussfolgerung, dass [[governance|Governance]]-Arbeit nicht mit dem Capability-Testing Schritt gehalten hat, zu einer Behauptung über das Feld macht und nicht über Lernen.
 
 ## Wie quantitative Forschung in der Wissensbasis erscheint
 
@@ -84,8 +88,10 @@ Bibliometrische Analyse ist eine weitere quantitative Familie: [[sriram-ethical-
 
 - **Stärken:** Präzision und statistische Power; Generalisierbarkeit auf definierte Populationen; kausale Schlussfolgerung (mit experimentellen Designs); effiziente Großstichproben-Abdeckung; kumulativ und über Studien hinweg vergleichbar.
 - **Grenzen:** erfasst, was messbar ist, und verpasst oft Prozess, Bedeutung und Kontext (siehe [[qualitative-research|qualitative Forschung]]); Selbstauskunfts-Bias; Instrumente können das falsche Konstrukt messen (siehe [[educational-measurement|Messprobleme]]); Korrelation ohne Kausalität; kann künstlich und langsam sein relativ zur KI-Veränderung.
+- 
+**Pooling kann auf Review-Ebene scheitern.** Ein PRISMA-Review über 103 Studien zu GenAI in der Hochschulbildung führte keine Meta-Analyse durch, weil Designs, Vergleichsgruppen und Messungen zu heterogen waren, und berichtete stattdessen eine Übereinstimmung der Ergebnis-Typologie von κ = 0,781 ([[generative-ai-higher-education-systematic-review-2026|Hawi & Samaha (2026)]]).
 
-Quantitative und [[qualitative-research|qualitative]] Methoden sind Komplemente – quantitative Arbeit liefert Breite und kausale Kraft, qualitative Arbeit liefert Tiefe und Bedeutung. [[mixed-methods-research|Mixed-Methods-Designs]] kombinieren sie. Siehe [[research-methods-aied|Forschungsmethoden in der KI-Bildung]] für den vollen Methodenvergleich und die Kontraste zwischen experimentellen, Erhebungs-, qualitativen und anderen Designs.
+Quantitative und [[qualitative-research|qualitative]] Methoden sind Komplemente – quantitative Arbeit liefert Breite und kausale Kraft, qualitative Arbeit liefert Tiefe und Bedeutung. [[mixed-methods-research|Mixed-Methods-Designs]] kombinieren sie. Siehe [[research-methods-aied|Forschungsmethoden]] für den vollen Methodenvergleich und die Kontraste zwischen experimentellen, Erhebungs-, qualitativen und anderen Designs.
 
 ## Verbreitete Fehlvorstellungen
 
@@ -95,6 +101,7 @@ Quantitative und [[qualitative-research|qualitative]] Methoden sind Komplemente 
 
 ## Verbundene Konzepte
 
+- [[longitudinal-research]]
 - [[research-methods-aied]]
 - [[qualitative-research]]
 - [[mixed-methods-research]]

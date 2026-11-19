@@ -1,7 +1,7 @@
 ---
 title: Kognitive Auslagerung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -216,62 +216,62 @@ Zwei jüngere Studien liefern der Auslagerung einen Messapparat. Die 35-Item-Ska
 
 ## Verbundene Artikel
 
-- [[chen-genai-programming-understanding-2026]] — Anfänger und Fortgeschrittene beim Programmieren: ChatGPT hob die bestandenen Tests auf 410.7 gegenüber 80.7, während das Verständnis nicht folgte (Chen et al., 2026)
-- [[gardella-copilot-fast-forgettable-2026]] — 22 Novizen: Copilots Vorsprung von 14.09 Punkten überstand einen unassistierten Nachtest eine Woche später nicht (Gardella et al., 2026)
-- [[riva-cognitive-capital-generative-ai-review-2026]] — Kognitives Kapital: Auslagerung als Abschöpfung eines erneuerbaren Bestands an Fähigkeit
-- [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Dimensionsübergreifende Fehlkalibrierung: operative Flüssigkeit als evaluative und fachliche Kompetenz missverstanden (konzeptueller Review)
-- [[akcaoglu-offloading-ladder-experience-2026]] — Die Auslagerungsleiter: wie Erfahrung verändert, was Lernende und Praktizierende an KI übergeben sollten (Akcaoglu 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — Unterstützen oder ersetzen sie das Schlussfolgern von Studierenden? Kognitive Auslagerung in KI-assistiertem Beweislernen (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — Was die Abgabe nicht zeigt: die Komplexifizierung kognitiver Auslagerung in der mathematischen Arbeit von Studierenden mit LLMs (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Ein Konsens von 30 Expertinnen und Experten über 65 Lernprozesse: Auslagerung an beiden Enden der Lernsequenz
+- [[chen-genai-programming-understanding-2026]] — Programmieranfänger und Programmierende mit mittleren Kenntnissen: ChatGPT erhöhte die bestandenen Tests auf 410,7 gegenüber 80,7, während das Verständnis nicht nachzog (Chen et al., 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 Anfänger: Copilots Vorsprung von 14,09 Punkten hielt einem Test ohne Unterstützung eine Woche später nicht stand (Gardella et al., 2026)
+- [[riva-cognitive-capital-generative-ai-review-2026]] — Kognitives Kapital: Offloading als Verbrauch eines erneuerbaren Bestands an Fähigkeiten
+- [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Dimensionsübergreifende Fehleinschätzung: operative Geläufigkeit wird als evaluative und fachliche Kompetenz missdeutet (konzeptionelle Übersichtsarbeit)
+- [[akcaoglu-offloading-ladder-experience-2026]] — Die Offloading-Leiter: wie Erfahrung verändert, was Lernende und Praktiker an KI abgeben sollten (Akcaoglu 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Das Denken der Studierenden unterstützen oder ersetzen? Kognitives Offloading beim KI-gestützten Lernen von Beweisen (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Was die Abgabe nicht zeigt: die Verkomplizierung kognitiven Offloadings in der mathematischen Arbeit von Studierenden mit LLMs (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Ein Konsens von 30 Expertinnen und Experten zu 65 Lernprozessen: Offloading an beiden Enden der Lernsequenz
 - [[shastry-gray-empathy-offloading-2026]] — Menschen lagern Empathie aus, wenn sie glauben, KI könne sie stattdessen geben (Shastry & Gray 2026)
-- [[rented-self-decoupling-performance-becoming-2026]] — Das geliehene Selbst: Auslagerung, die das Fächer-Selbst der lernenden Person kostet, nicht nur die Fähigkeit
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Gruppen, die gleich starteten, divergierten: 74,1% Modellübernahme in einem Profil gegen 80,8% Auslagerung und Sackgasse in einem anderen (Kilinc et al. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] — KI-Unterstützung reduzierte Persistenz und unassistierte Leistung über drei RCTs (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT als kognitive Krücke: eine randomisierte kontrollierte Studie zur Wissensretention 45 Tage später (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Von kognitivem Outsourcing zu Reallokation: 3P-Analyse des Studierenden-GenAI-Engagements in unbeaufsichtigten Assessments (Yan et al. 2026)
-- [[family-school-autonomy-support-genai-2026]] — Familien-Schule-Autonomieunterstützung für den verantwortungsvollen Umgang von Kindern mit generativer KI
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Überschüssige vs. nützliche Reibung: warum KI-Auslagerung sich von früheren Werkzeugen unterscheidet
-- [[thermomix-genai-education-analogy-2026]] — Mit einem Thermomix verlieren Sie die Fähigkeit zu kochen: eine Küchengeräte-Analogie für generative KI in der Bildung (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] — kognitives Auswaschen: Post-Entzugs-Dynamiken KI-induzierten Fähigkeitsverfalls
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Eine kritische narrative Synthese von Engagement und Abhängigkeit bei konversationeller KI
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Ebenensensible kognitive Auslagerung in GenAI-assistiertem Schreiben (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] — Epistemische Abhängigkeit in KI-vermitteltem Lernen: sechs diagnostische Kriterien, die produktiven Verlass von schädlicher Abhängigkeit trennen (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — Kognitive Auslagerung durch GenAI bei Studierenden mit Lernbeeinträchtigungen
-- [[lodge-loble-cognitive-offloading-2026]] — KI, kognitive Auslagerung und Implikationen für die Bildung
-- [[cognitive-offloading-metacognitive-review-2026]] — Metakognitive Einblicke in kognitive Auslagerung (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metakognitives Training erleichtert optimale kognitive Auslagerung (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — Das Paradox des kritischen Denkens in GenAI-integriertem Lernen
-- [[cognitive-offloading-speedup-illusion]] — Die Beschleunigungsillusion KI-unterstützter Arbeit
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Co-Occurrence-Netzwerkanalyse von Prompt-Mustern
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-Theorie und kognitive Kapitulation: wie KI menschliches Schlussfolgern umformt (Shaw & Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Kontinuum Kapitulation–Auslagerung–Handlungsfähigkeit für GenAI
-- [[ai-making-us-stupid]] — Forschung zu den kognitiven Effekten von KI und Lernverdrängung
-- [[brcic-effortless-trap-productive-struggle-2026]] — Die mühelose Falle: KI ersetzt kognitive Arbeit (Brcic & Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Gedankenlose KI-Nutzung erodiert selbstgesteuertes Lernen
-- [[generative-ai-guardrails-harm-learning]] — RCTs zu Mathematik in der Sekundarstufe zu ungeschützter GenAI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Die Lernstrafe durch generative KI: Hausaufgaben-Outsourcing schadet dem Lernen
+- [[rented-self-decoupling-performance-becoming-2026]] — Das gemietete Selbst: Offloading, das nicht nur die Fähigkeit, sondern das fachliche Selbst des Lernenden kostet
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Gruppen mit gleichen Ausgangsbedingungen entwickelten sich auseinander: 74,1 % Modellübernahme in einem Profil gegenüber 80,8 % Offloading und Sackgasse in einem anderen (Kilinc et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — KI-Unterstützung verringerte Ausdauer und Leistung ohne Unterstützung in drei RCTs (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT als kognitive Krücke: eine randomisierte kontrollierte Studie zum Wissensbehalt 45 Tage später (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Von kognitivem Outsourcing zur Umverteilung: 3P-Analyse der Interaktion zwischen Studierenden und GenAI in unbeaufsichtigten Prüfungen (Yan et al. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Autonomieunterstützung durch Familie und Schule für den verantwortungsvollen Umgang von Kindern mit generativer KI
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Übermäßige vs. förderliche Reibung: warum sich KI-Offloading von früheren Werkzeugen unterscheidet
+- [[thermomix-genai-education-analogy-2026]] — Mit einem Thermomix verlernt man das Kochen: eine Küchenmaschinen-Analogie für generative KI in der Bildung (Rummel, Nachtigall & Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — Cognitive Washout: Dynamiken nach dem Absetzen bei KI-induziertem Fähigkeitsverfall
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Eine kritische narrative Synthese zu Engagement mit und Abhängigkeit von konversationeller KI
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Ebenensensitives kognitives Offloading beim GenAI-gestützten Schreiben (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Epistemische Abhängigkeit im KI-vermittelten Lernen: sechs diagnostische Kriterien, die produktives Sich-Verlassen von schädlicher Abhängigkeit trennen (Du & Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — Kognitives GenAI-Offloading bei Lernenden mit Lernbehinderungen
+- [[lodge-loble-cognitive-offloading-2026]] — KI, kognitives Offloading und Implikationen für die Bildung
+- [[cognitive-offloading-metacognitive-review-2026]] — Metakognitive Einsichten in kognitives Offloading (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metakognitives Training erleichtert optimales kognitives Offloading (Ngai & Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — Das Paradox des kritischen Denkens im GenAI-integrierten Lernen
+- [[cognitive-offloading-speedup-illusion]] — Die Beschleunigungsillusion KI-gestützter Arbeit
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Kookkurrenz-Netzwerkanalyse von Prompt-Mustern
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-Theorie und kognitive Kapitulation: wie KI menschliches Denken umformt (Shaw & Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Kontinuum von Kapitulation über Offloading zu Handlungsfähigkeit bei GenAI
+- [[ai-making-us-stupid]] — Forschung zu den kognitiven Effekten von KI und zur Verdrängung des Lernens
+- [[brcic-effortless-trap-productive-struggle-2026]] — Die Falle der Mühelosigkeit: KI ersetzt kognitive Arbeit (Brcic & Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Gedankenlose KI-Nutzung untergräbt selbstgesteuertes Lernen
+- [[generative-ai-guardrails-harm-learning]] — RCTs im Mathematikunterricht der High School zu GenAI ohne Leitplanken
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Der Lernmalus generativer KI: das Auslagern von Hausaufgaben schadet dem Lernen
 - [[coach-not-crutch-ai-writing]] — KI kann weniger arbeiten und mehr lernen (Lira et al. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] — KI-Tutoring produktiv machen: meisterungsbasierte Mathematikübung
-- [[cognitive-commons-ai-expertise-regeneration]] — Die Tragödie des kognitiven Gemeinguts: KI und Expertise-Regeneration
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: Ein datenschutzbewahrendes Selbstreflexions-Werkzeug für KI-assoziierte kognitive Auslagerung
-- [[chatgpt-writing-cognitive-impact-2026]] — ein Schreiben-um-zu-lernen-Experiment, in dem ChatGPT-assistiertes Schreiben weniger Wissenszuwachs erzeugte als eine unassistierte Kontrolle
-- [[student-cognitive-offloading-ai-higher-ed-2026]] — Muster der kognitiven Auslagerung von Studierenden an KI in der Hochschulbildung: naturalistische ChatGPT-Belege auf Nachrichtenebene (Piatnitckaia et al. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Gegen Entfachlichung entwerfen: metakognitives Feedback reduziert kognitive Auslagerung an LLM-Assistenten
-- [[chatgpt-programming-performance-retention-ownership-2026]] — Die Kognition Ihrer Programmierstudierenden mit ChatGPT: höhere Leistung, geringere Retention und reduziertes Eigentum
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Auslagerungstendenz und Verifikationskompetenz als Prädiktoren höherstufiger Ergebnisse durch metakognitive Selbstregulation (Davor et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Ein Reflexionsprompt reduziert die Akzeptanz falscher KI-Ratschläge und verbessert die Bewusstseinskalibrierung (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI-Abhängigkeit als Randbedingung für kritische Denkdisposition und selbstwahrgenommene Beschäftigungsfähigkeit (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Kinder zeigten schwächere frontoparietale, Salienz- und dorsale Aufmerksamkeits-Konnektivität als Erwachsene, während sie mit ChatGPT sprachen, bei übereinstimmenden Kreativitätswerten
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI und kreatives Denken von Kindern: Überabhängigkeit und Prompt-Abhängigkeit in einem Scoping-Review (Niu et al. 2026)
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Kognitive Dormanz: ein vorregistriertes Experiment, in dem KI-Affordanzen die tiefe Verarbeitung senkten und Desorganisation hoben, ohne die Auslagerung zu heben (Braun 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Überabhängigkeit oder kognitive Auslagerung als Herausforderung in 16 von 66 Studien zum forschenden Lernen
-- [[fan-metacognitive-offloading-sync-model-2026]] — SYNC-Quadranten und die Rekalibrierungsschleife: den Regulator delegieren, nicht nur die Arbeit (Fan et al. 2026)
-- [[zhang-usefulness-dependence-genai-2026]] — Von „Nützlichkeit“ zu „Abhängigkeit“: der dynamische Evolutionsmechanismus generativer KI-Nutzungsverhalten
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Den Regulator zu entziehen erhöht die Auslagerung und senkt die Qualität des Outputs
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Sequenzierungsregel entwicklungsbezogen angewandt: Arithmetik vor Taschenrechnern, Zitationen vor Literaturverwaltungsprogrammen
+- [[making-ai-tutoring-productive-mastery-math-2026]] — KI-Tutoring produktiv machen: Mathematiküben nach dem Mastery-Learning-Prinzip
+- [[cognitive-commons-ai-expertise-regeneration]] — Die Tragödie der kognitiven Allmende: KI und die Regeneration von Expertise
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: ein datenschutzfreundliches Selbstreflexions-Tool für KI-assoziiertes kognitives Offloading
+- [[chatgpt-writing-cognitive-impact-2026]] — ein Writing-to-Learn-Experiment, in dem ChatGPT-gestütztes Schreiben geringeren Wissenszuwachs ergab als eine Kontrollgruppe ohne Unterstützung
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Muster kognitiven Offloadings von Studierenden an KI in der Hochschulbildung: naturalistische Evidenz auf Ebene einzelner ChatGPT-Nachrichten (Piatnitckaia et al. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Gegen Deskilling gestalten: Metakognitives Feedback reduziert kognitives Offloading an LLM-Assistenten
+- [[chatgpt-programming-performance-retention-ownership-2026]] — Die Kognition Ihrer Programmierstudierenden mit ChatGPT: höhere Leistung, geringerer Behalt und verringerte Ownership
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Offloading-Tendenz und Verifikationskompetenz sagen höherstufige Ergebnisse über metakognitive Selbstregulation vorher (Davor et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Ein Reflexions-Prompt verringert die Übernahme falscher KI-Ratschläge und verbessert die Bewusstseinskalibrierung (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI-Abhängigkeit als Randbedingung für die Disposition zu kritischem Denken und die selbst eingeschätzte Beschäftigungsfähigkeit (Shojaei et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Kinder zeigten im Gespräch mit ChatGPT eine schwächere frontoparietale, Salienz- und dorsale Aufmerksamheitskonnektivität als Erwachsene — bei gleichen Kreativitätswerten
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI und das kreative Denken von Kindern: Übervertrauen und Prompt-Abhängigkeit in einem Scoping Review (Niu et al. 2026)
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Kognitive Dormanz: ein präregistriertes Experiment, in dem KI-Affordanzen die Tiefenverarbeitung senkten und die Desorganisation erhöhten, ohne das Offloading zu steigern (Braun 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - Übervertrauen oder kognitives Offloading wird in 16 von 66 Inquiry-Studien als Herausforderung genannt
+- [[fan-metacognitive-offloading-sync-model-2026]] - SYNC-Quadranten und die Rekalibrierungsschleife: den Regulator delegieren, nicht nur die Arbeit (Fan et al. 2026)
+- [[zhang-usefulness-dependence-genai-2026]] — Von „Nützlichkeit“ zu „Abhängigkeit“: der dynamische Entwicklungsmechanismus des Nutzungsverhaltens gegenüber generativer KI
+- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Den Regulator zu entziehen erhöht das Offloading und senkt die Qualität der Ergebnisse
+- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Die Sequenzierungsregel entwicklungsbezogen angewandt: Arithmetik vor Taschenrechnern, Zitieren vor Literaturverwaltungsprogrammen
 - [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Sechs selbstberichtete Dimensionen KI-vermittelter Lernschwierigkeiten
-- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Akademischer Stress vermittelt zwischen ChatGPT-Abhängigkeit und exekutiver Dysfunktion
-- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Kognitive Auslagerung im Zeitalter generativer KI: ein narratives Review, das Auslagerung mit Gedächtnis, Lernen und exekutiver Funktion verbindet
-- [[ho-invariant-core-faculty-development-2027]] — SOLO-Stufen erklären, warum GenAI das relationale Artefakt liefern kann, sodass Assessment den Prozess gewichten muss (Ho 2026)
-
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Akademischer Stress mediiert den Zusammenhang zwischen ChatGPT-Abhängigkeit und exekutiver Dysfunktion
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Kognitives Offloading im Zeitalter generativer KI: ein narrativer Review, der Offloading mit Gedächtnis, Lernen und exekutiven Funktionen verknüpft
+- [[ho-invariant-core-faculty-development-2027]] — SOLO-Stufen erklären, warum GenAI das relationale Artefakt liefern kann, weshalb die Bewertung den Prozess gewichten muss (Ho 2026)
+- [[su-genai-dependence-academic-performance-adolescents-2026]] — Aufmerksamheitskontrolle trägt bei Jugendlichen den größten Teil des Zusammenhangs zwischen Abhängigkeit und Leistung

@@ -1,7 +1,7 @@
 ---
 title: Feedback-Kompetenz
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-07T20:05:55-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -37,9 +37,11 @@ ai_assist:
 
 ## Einführung
 
-Feedback-Kompetenz zählt, weil gut gestaltetes Feedback nur Studierenden hilft, die es interpretieren und danach handeln können. Eine Person, die nicht bewerten kann, ob KI-generiertes Feedback korrekt ist, oder die nicht weiß, wie sie Feedback in eine konkrete Überarbeitung verwandelt, lernt weit weniger aus demselben Feedback als eine feedbackkompetentere Peer. Während KI die Feedbackgabe umformt, ist Feedback-Kompetenz zur zentralen Randbedingung dafür geworden, ob KI-Feedback Lernen verbessert.
+Feedback-Kompetenz ist von Bedeutung, denn gut gestaltetes Feedback hilft nur jenen Lernenden, die es interpretieren und in Handlungen umsetzen können. Lernende, die nicht beurteilen können, ob AI-generiertes Feedback korrekt ist, oder die nicht wissen, wie sie Feedback in eine konkrete Überarbeitung übersetzen sollen, lernen aus demselben Feedback weit weniger als andere Lernende mit höherer Feedback-Kompetenz. Da AI die Bereitstellung von Feedback grundlegend verändert, ist Feedback-Kompetenz zu einer zentralen Randbedingung dafür geworden, ob AI-Feedback das Lernen verbessert.
 
-### Was Feedback-Kompetenz ist
+[[corbin-recognition-feedback-2026|Corbin, Tai und Flenady (2026)]] stellen Anerkennung vor Literalität: Ein Studierender muss dem Anbieter die Berechtigung zugestehen, anzuleiten, und selbst die Berechtigung erhalten zu antworten — andernfalls gibt es nichts, woran Literalität ansetzen könnte.
+
+## Was Feedback-Kompetenz ist
 
 Feedback-Kompetenz wird weithin als eine Menge zusammenhängender Fähigkeiten gerahmt — die Fähigkeit, Feedback wertzuschätzen, Urteile zu fällen, Affekt zu managen und zu handeln (nach Carless & Boud). Die Artikel der Wissensbasis bündeln Feedback-Kompetenz um mehrere Fähigkeiten:
 
@@ -50,7 +52,7 @@ Feedback-Kompetenz wird weithin als eine Menge zusammenhängender Fähigkeiten g
 - **Danach handeln** — Feedback in konkrete Überarbeitungen oder Veränderungen im Vorgehen übersetzen ([[feedback|Feedbackschleife]], [[self-regulated-learning]]).
 - **Evaluative Autorität beurteilen** — eine weitere Fähigkeit, vorgeschlagen von [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]]: neben dem Wertschätzen von Feedback, dem Fällen von Urteilen, dem Managen von Affekt und dem Handeln mussten Studierende, die über KI-produziertes Feedback schlussfolgern, beurteilen, *welche Quelle evaluative Autorität hält*, getrennt von der Beurteilung der Feedbackqualität. Weil den Teilnehmenden gesagt wurde, ChatGPT erzeuge sowohl Punktzahl als auch Feedback, wurde ihre Feedback-Kompetenz an der Quelle und Legitimität der Evaluation geübt, nicht nur an ihrem Inhalt, und sie erzeugte Forderungen nach Lehrendenvalidierung statt passiver Akzeptanz.
 
-### Wie Feedback-Kompetenz in der Forschung erscheint
+## Wie Feedback-Kompetenz in der Forschung erscheint
 
 - **Feedback-Kompetenz als Moderator des Werts von KI-Feedback:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] zeigen, dass Feedback-Kompetenz die Verbindung zwischen ChatGPT-Akzeptanz und [[self-regulated-learning|selbstreguliertem Lernen]] moderiert: Studierende mit stärkerer Kompetenz nehmen größeren SRL-Nutzen von KI-Feedback wahr, während Studierende mit schwächerer Kompetenz minimale oder sogar negative ([[cognitive-offloading|Überabhängigkeits]]) Wirkungen zeigen. Feedback-Kompetenz ist eine Randbedingung dafür, ob Studierende KI-Feedback „verstehen“ können.
 
@@ -73,13 +75,13 @@ Feedback-Kompetenz wird weithin als eine Menge zusammenhängender Fähigkeiten g
 
 - **Feedback-Kompetenz lässt sich lehren, und KI kann das Übungsmaterial liefern.** Ein konzeptioneller Leitfaden lässt Lehrende ein benotetes Spektrum an KI-Arbeitsproben erzeugen — die alle, einige und keines der Kriterien erfüllen — und führt Studierende dann durch vorgeführte Kritik, angeleitete Klassenanalyse und selbstständige Evaluation ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington und Hock (2026)]]).
 
-### Warum Feedback-Kompetenz für KI in der Bildung zählt
+## Warum Feedback-Kompetenz für KI in der Bildung zählt
 
 KI verändert Feedback in zwei Richtungen, die beide die Einsätze der Feedback-Kompetenz erhöhen. Erstens erhöht KI dramatisch das *Volumen und die Unmittelbarkeit* von Feedback ([[ai-feedback-quality]], [[feedback|Feedbackschleife]]), sodass Studierende weit mehr Feedback gegenüberstehen, das sie triagieren und bewerten müssen. Zweitens trägt KI-generiertes Feedback eigene Risiken — Ungenauigkeit, [[hallucination-risk|Halluzination]] und die „Meisterschaftsillusion“ —, die [[critical-thinking|kritische Evaluationsfähigkeiten]] und Wachsamkeit gegen Überabhängigkeit und [[llm-fallacy-misattribution|Fehlattribuierung]] verlangen. Feedback-Kompetenz wird daher zu einer Kernkomponente von [[ai-literacy|KI-Kompetenz]]: zu wissen, wie man KI nicht nur für Feedback prompted, sondern wie man beurteilt, ob das Feedback es wert ist, danach gehandelt zu werden, und wie man es in echtes Lernen statt Aufgabenerledigung verwandelt.
 
 [[ai-feedback-ecosystem-higher-education-2026|Bearman und Kolleginnen und Kollegen (2026)]] fügen dieser Liste eine weitere Anforderung hinzu. In ihrer Workshopstudie managten Studierende nicht eine Feedbackquelle, sondern ein Netzwerk: sie wogen Lehrendenkommentare gegen KI-Output, Rubriken, Kursmaterialien und Peers, und wenn menschliches Feedback langsam war, arbeiteten sie weiter mit KI als Platzhalter und überarbeiteten später, falls es sie irregeführt hatte. Die Autoren schlagen vor, dass Studierende als ihr eigener Mensch-in-der-Schleife agieren können, indem sie diese Beziehungen von der granularen Aufgabe bis zur breiteren Trajektorie managen, was selbst eine Feedback-Kompetenz-Fähigkeit ist. Ihre Warnung ist, dass dünne oder späte Lehrendenkommentare das sind, was Studierende hin zu unverifizierten Quellen treibt.
 
-### Verbindungen zu verwandten Konzepten
+## Verbindungen zu verwandten Konzepten
 
 Feedback-Kompetenz verbindet sich mit [[ai-feedback-quality]] und [[feedback|Feedbackschleife]] (die Gebeseite, die sie ergänzt), [[formative-assessment]] (der Assessmentzyklus, den sie speist) und [[self-regulated-learning]] (die [[self-assessment|Selbstbewertung]] und Anpassung, die sie stützt). Sie ist eine Teilmenge von [[ai-literacy|KI-Kompetenz]], wenn sie auf KI-generiertes Feedback angewandt wird, überschneidet sich mit [[peer-assessment|Peer-Bewertung]] in kollaborativen Kontexten und ist besonders folgenreich für [[writing-education|Schreibbildung]]. Sie verbindet sich auch mit [[metacognition|Metakognition]] und [[trust-calibration|Vertrauenskalibrierung]] — der Fähigkeit zu beurteilen, ob Feedback vertrauenswürdig ist.
 

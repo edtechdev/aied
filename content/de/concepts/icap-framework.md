@@ -1,7 +1,7 @@
 ---
 title: ICAP-Rahmen
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -87,10 +87,12 @@ ICAPs Betonung generativen, prozessbezogenen Engagements wurde von Assessmentrah
 
 ## Implikationen für Design und Forschung
 
-1. **Für die höheren Modi gestalten.** KI-Werkzeuge sollten Lernende prompten, zu erzeugen, zu erklären und zu dialogisieren – konstruktive und interaktive Aktivität –, statt passive Inhalte zu liefern oder als Antwortmaschinen zu agieren.([[multimodal-learning-genai]])
-2. **Lernende über Modi hinweg engagieren.** Wirksamer [[ai-literacy|KI-Kompetenz]]-Unterricht engagiert Lernende auf mehreren ICAP-Stufen – passive Exposition, aktive Manipulation, konstruktive Erzeugung und interaktiven Dialog –, wobei der Modus gewählt wird, der zum Lernziel passt.([[hingle-collaborative-ai-literacy-2025]])
-3. **Engagement ehrlich messen.** ICAP gibt Forschenden und Gestaltenden ein gemeinsames Vokabular, um echtes kognitives Engagement von bloßer Aktivität zu unterscheiden – ein Korrektiv zu flachem [[student-engagement|Engagement]].([[icap-cognitive-engagement-llm-agents]])
-4. **Die Mensch-LLM-Annotationslücke beobachten.** Wenn automatisierte Systeme genutzt werden, um Engagement zu kodieren, muss ihre systematische Unterlegenheit gegenüber trainierten Menschen berücksichtigt werden.([[icap-cognitive-engagement-llm-agents]])
+1. **Gestaltung für die höheren Modi.** KI-Werkzeuge sollten Lernende dazu anregen, zu generieren, zu erklären und in den Dialog zu treten — konstruktive und interaktive Aktivität —, statt passive Inhalte zu liefern oder als Antwortmaschinen zu fungieren.([[multimodal-learning-genai|Varga-Atkins et al., 2026]])
+2. **Lernende über alle Modi hinweg einbinden.** Wirksame Vermittlung von [[ai-literacy|KI-Kompetenz]] bindet Lernende auf mehreren ICAP-Stufen ein — passive Rezeption, aktive Manipulation, konstruktive Generierung und interaktiver Dialog — und wählt dabei den Modus, der zum Lernziel passt.([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]])
+3. **Engagement ehrlich messen.** ICAP bietet Forschenden und Gestaltenden ein gemeinsames Vokabular, um echtes kognitives Engagement von bloßer Aktivität zu unterscheiden — ein Korrektiv gegen oberflächliches [[student-engagement|Lernengagement]].([[icap-cognitive-engagement-llm-agents|Do et al., 2026]])
+4. **Die Annotationslücke zwischen Mensch und LLM im Blick behalten.** Werden automatisierte Systeme zur Kodierung von Engagement eingesetzt, muss ihre systematische Untererfassung gegenüber geschulten Menschen berücksichtigt werden.([[icap-cognitive-engagement-llm-agents|Do et al., 2026]])
+
+Nicht nur das Werkzeugdesign, auch das Aufgabendesign setzt die Obergrenze. Über 829 codierte Threads in 40 Universitätskursen hinweg erhielten Artefakte, die entstanden, wenn der Dialog Constructive oder Interactive war, geringfügig höhere Peer-Bewertungen der Endqualität ([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang et al. (2026)]]).
 
 ## Verbreitete Fehlvorstellungen
 

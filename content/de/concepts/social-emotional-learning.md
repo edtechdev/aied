@@ -1,7 +1,7 @@
 ---
 title: Sozial-emotionales Lernen
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,7 @@ Sozial-emotionales Lernen ist eng verwandt mit, aber unterschieden von emotional
 
 ### Wie SEL in der Forschung erscheint
 
+- **Empathie ist die affektive Seite von SEL und am schwierigsten zu beurteilen.** [[empathy]] bündelt die Evidenz zum Lehren und Messen von Empathie: Rollenspiel, VR und LLM-Dialog erhöhen allesamt die Selbstauskunftswerte, Beobachterratings bleiben konsistent, und Computer-Vision-Proxys kehren sich beim Lächeln um. Diese Evidenz sollte gelesen werden, bevor ein Empathiezuwachs als Beleg dafür gilt, dass ein Programm gewirkt hat.
 - **SEC in KI-Kompetenz integrieren:** [[sec-ai-literacy-narrative-review-2026|Der narrative Review von Palmquist et al.]] schlägt einen integrierten Rahmen vor, der KI-Kompetenz mit sozial-emotionalen Kompetenzen kombiniert, und argumentiert, dass technische Profizienz allein unzureichend ist – Lehrende und Studierende brauchen sowohl technologische als auch emotionale Intelligenz, um in KI-vermittelten Lernumgebungen zu navigieren, und fördern [[personalized-learning|personalisiertes Lernen]], Kollaboration und ethisches [[student-engagement|Engagement]].
 
 - **Lehrkräfte und relationale Praxis:** Forschung zu [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|KI-Kompetenz-Rahmen]] und [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|Vertrauen zwischen Lehrkraft und Studierenden]] betont, dass SEL die relationalen Dimensionen des Lernens stützt (Beziehungen zwischen Lehrkraft und Studierenden und zwischen Studierenden), die KI ergänzen statt ersetzen muss.

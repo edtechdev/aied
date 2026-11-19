@@ -1,7 +1,7 @@
 ---
 title: Formatives Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -44,14 +44,16 @@ Formatives Assessment ist für [[ai-education|KI in der Bildung]] zentral, weil 
 
 ## KI-generierte formative Items
 
-KI-Systeme generieren formative Assessment-Items über Modalitäten hinweg, mit je nach Typ variierender Reliabilität:
+KI-Systeme generieren modalitätsübergreifend Items für formative Assessments, wobei die Zuverlässigkeit je nach Typ variiert:
 
-- **Multiple-Choice-Fragen:** [[code-gen]] zeigt, dass [[agentic-ai|agentische KI]] MCQs für Code-Verständnis reliabel generieren kann, wenn sie über sieben pädagogische Dimensionen validiert werden — Erfolgsraten erreichen **98.6%** für Konzept-Alignment und **79.9%** für Feedback-Qualität —, was nahelegt, dass KI an verifizierbaren Dimensionen am stärksten und an Dimensionen instruktionellen Urteils am schwächsten ist. Das verbindet sich breiter mit [[automated-question-generation|automatisierter Fragengenerierung]].
+- **Multiple-Choice-Fragen:** [[code-gen|Duan et al. (2026)]] zeigt, dass [[agentic-ai|agentische KI]] zuverlässig MCQs zum Verständnis von Programmcode generieren kann, wenn diese über sieben pädagogische Dimensionen hinweg validiert werden — die Erfolgsquoten erreichen **98,6 %** bei der Konzeptübereinstimmung und **79,9 %** bei der Feedbackqualität —, was darauf hindeutet, dass KI bei überprüfbaren Dimensionen am stärksten und bei Dimensionen des didaktischen Urteilsvermögens am schwächsten ist. Dies knüpft an die [[automated-question-generation|automatische Fragengenerierung]] im weiteren Sinne an.
 
-- **Eine einfache generierte Itembank gibt kein formatives Signal.** In einer 10-wöchigen Anwendung wurden etwa 70% der KI-generierten Übungsitems von allen Lernenden richtig beantwortet (p = 1.0), sodass die alle 15 bis 20 Minuten laufenden niedrigschwelligen Quizze gut ankamen, aber fast keine unterscheidende Information zur Anpassung des Unterrichts trugen ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
-- **Automatisierte Essay-Bewertung:** Multi-Agenten-Rahmenwerke (z. B. MASS) verbessern die Konsistenz gegenüber eigenständigen [[llm|LLMs]] bei der [[automated-essay-scoring|Essay-Bewertung]], wenngleich [[explainable-ai|Interpretierbarkeit]] von Multi-Agenten-Bewertungsentscheidungen eine offene Herausforderung bleibt.
-- **Formative Bewertungspipelines:** [[cotal-formative-assessment-scoring-2026|CoTAL]] koppelt Chain-of-Thought-Prompting mit [[active-learning|Active Learning]] und Evidence-Centered Design, um generalisierbare formative Assessment-Bewertung mit Human-in-the-Loop-[[prompt-engineering|Prompt-Engineering]] zu erzeugen.
-- **Hochfrequente, [[automated-assessment|automatisiert bewertete Assessments]]:** [[automated-formative-assessments-a-level-sciences|automatisierte formative Assessments in A-Level-Naturwissenschaften]] untersucht den Effekt hochfrequenten, automatisiert bewerteten formativen Assessments auf [[learning-gains|Lernergebnisse]]. Ein Scoping Review automatischer Kurzantwort-Bewertung in der [[science-education|Naturwissenschaft]] (2017–frühe 2024) bestätigt, dass dieser formative Kurzantwort-Anwendungsfall ein Feld mit echter Zugkraft ist: BERT-Familien-Modelle dominierten das automatische Bewerten bis 2021, bevor ab ~2022 größere [[llm|LLMs]] geprompttet wurden, und domänenerweiterte, rubrikbewusste und chain-of-thought-Modelle performten am besten — dennoch mahnen die Forderungen des Reviews nach umfassender Evaluation und die ungelösten [[bias-mitigation|Fairness]]- und Erklärbarkeitslücken dagegen, solche Systeme auf unvermittelte [[summative-assessment|summative]] oder folgenschwere Nutzung auszudehnen ([[auto-marking-short-answer-science-2026]]).
+- **Eine einfach generierte Item-Bank liefert kein formatives Signal.** In einem 10-wöchigen Einsatz wurden etwa 70 % der KI-generierten Übungsitems von allen Studierenden richtig beantwortet (p = 1,0), sodass die alle 15 bis 20 Minuten durchgeführten Low-Stakes-Quizze zwar gut angenommen wurden, aber nahezu keine trennscharfen Informationen für die Anpassung des Unterrichts lieferten ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
+- **Automatisierte Essay-Bewertung:** Multi-Agenten-Frameworks (z. B. MASS) verbessern die Konsistenz gegenüber einzeln eingesetzten [[llm|LLMs]] bei der [[automated-essay-scoring|Essay-Bewertung]], wobei die [[explainable-ai|Interpretierbarkeit]] von Bewertungsentscheidungen in Multi-Agenten-Systemen eine offene Herausforderung bleibt.
+- **Formative Bewertungspipelines:** [[cotal-formative-assessment-scoring-2026|CoTAL]] verbindet Chain-of-Thought-Prompting mit [[active-learning|aktivem Lernen]] und Evidence-Centered Design, um eine generalisierbare Bewertung formativer Lernstandserhebungen mittels Human-in-the-Loop-[[prompt-engineering|Prompt Engineering]] zu erzeugen.
+- **Hochfrequente, [[automated-assessment|automatisch bewertete Assessments]]:** [[automated-formative-assessments-a-level-sciences|Automatisierte formative Assessments in den A-Level-Naturwissenschaften]] untersucht die Wirkung hochfrequenter, automatisch bewerteter formativer Assessments auf [[learning-gains|Lernergebnisse]]. Ein Scoping Review zur automatischen Bewertung von Kurzantworten im [[science-education|Naturwissenschaftsunterricht]] (2017–Anfang 2024) bestätigt, dass dieser formative Anwendungsfall der Kurzantwortbewertung ein Feld mit echter Dynamik ist: Modelle der BERT-Familie dominierten die automatische Bewertung bis 2021, bevor ab ~2022 größere [[llm|LLMs]] über Prompting eingesetzt wurden, und domänenangereicherte, rubrikbasierte sowie Chain-of-Thought-Modelle erzielten die besten Ergebnisse — doch die Forderungen des Reviews nach umfassender Evaluation sowie ungelöste Lücken bei [[bias-mitigation|Fairness]] und Erklärbarkeit mahnen zur Vorsicht, solche Systeme auf unmoderierte [[summative-assessment|summative]] oder High-Stakes-Einsätze auszudehnen ([[auto-marking-short-answer-science-2026|Morley et al., 2026]]).
+
+- **Ein gamifiziertes Quiz kann Spaß machen, ohne etwas zu lehren.** Vierunddreißig Bachelor-Studierende der Musikwissenschaft bewerteten ein adaptives AI-Quiz im Vergleich zu traditionellem Tutorienunterricht am schlechtesten (M = 2,74 von 5) und teilten sich bei der Frage, ob sie es weiterempfehlen würden, 21 zu 13, wobei die Weiterempfehlung davon abhing, wie sich die Nutzung der App anfühlte (künftige Nutzung 3,52 vs. 1,54), und nicht vom Verständnis des Themas (3,81 vs. 3,62, p = 0,420) ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]).
 
 ## KI-generiertes Feedback
 
@@ -161,44 +163,45 @@ Beobachtbarkeit lässt sich ohne Überwachung gestalten: Sie ist die Evidenz, di
 
 ## Verbundene Artikel
 
-- [[llm-multi-agent-conversation-assessment-2025]] — Eine Vier-Agenten-Architektur für konversationsbasiertes Assessment, deren Bewerter zur mittleren Kategorie tendiert (Hou et al. 2025)
-- [[causal-modeling-competency-assessment-2026]] — Kausales Modellieren von Unterstützungsinterventionen für die Kompetenzbewertung von Studierenden
-- [[nicola-richmond-programwide-assessment-genai-2025]] — Programmweite Ansätze zur Neugestaltung von Assessment im GenAI-Zeitalter
-- [[ai-feedback-enactment-workflow-2026]] — KI-generiertes Feedback relevant machen: von der Bereitstellung zur Umsetzung
-- [[care-full-feedback-genai]] — Das sorgenvolle Handwerk des Feedbacks im Zeitalter von GenAI
-- [[feedback-futures-genai]] — Feedback-Zukünfte: jenseits der Grenzen menschlicher und GenAI-Kapazitäten
-- [[sequenced-ai-feedback-learning]] — Wirkung und Pfade sequenzierten KI-Feedbacks
-- [[learner-centered-feedback-ai]] — Lernendenzentriertes Feedback mit KI verbessern
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Von der automatisierten Bewertung zur Lerndiagnose: eine Mechanismusstudie zur KI-unterstützten formativen Bewertung im Englischschreiben
-- [[ai-internal-feedback-evaluative-judgments]] — Evaluatives Urteilsvermögen durch KI-unterstütztes internes Feedback entwickeln
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: formative Assessment-Bewertung mit Human-in-the-Loop-Prompting
-- [[automated-formative-assessments-a-level-sciences]] — Hochfrequente automatisierte formative Bewertung
+- [[llm-multi-agent-conversation-assessment-2025]] — Eine Vier-Agenten-Architektur für die gesprächsbasierte Beurteilung, deren Bewertungsagent zur mittleren Kategorie tendiert (Hou et al. 2025)
+- [[causal-modeling-competency-assessment-2026]] — Kausale Modellierung von Förderinterventionen zur Kompetenzdiagnostik bei Lernenden
+- [[nicola-richmond-programwide-assessment-genai-2025]] — Studiengangsweite Ansätze zur Neugestaltung der Leistungsbeurteilung im Zeitalter der GenAI
+- [[ai-feedback-enactment-workflow-2026]] — KI-generiertes Feedback wirksam machen: von der Bereitstellung zur Umsetzung
+- [[care-full-feedback-genai]] — Das sorg-fältige Handwerk des Feedbacks im Zeitalter von GenAI
+- [[feedback-futures-genai]] — Zukunft des Feedbacks: jenseits der Grenzen menschlicher und GenAI-Kapazitäten
+- [[sequenced-ai-feedback-learning]] — Wirkung und Wirkungswege von sequenziertem KI-Feedback
+- [[learner-centered-feedback-ai]] — Lernendenzentriertes Feedback mit AI verbessern
+- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Von der automatisierten Bewertung zur Lerndiagnose: eine Mechanismenstudie zur KI-gestützten formativen Beurteilung englischer Schreibtexte
+- [[ai-internal-feedback-evaluative-judgments]] — Entwicklung evaluativer Urteilsfähigkeit durch AI-gestütztes internes Feedback
+- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Punktevergabe bei formativen Assessments mit Human-in-the-Loop-Prompting
+- [[automated-formative-assessments-a-level-sciences]] — Hochfrequente automatisierte formative Beurteilung
 - [[ai-generated-feedback-higher-ed]] — KI-generiertes Feedback in der Hochschulbildung
-- [[ai-learning-tools-engineering-education-needs]] — LearnLens: curriculumverankertes KI-Feedback
-- [[genai-teacher-feedback-comparison]] — Vergleich von GenAI- und Lehrkräftefeedback
+- [[ai-learning-tools-engineering-education-needs]] — LearnLens: lehrplanbasiertes KI-Feedback
+- [[genai-teacher-feedback-comparison]] — Vergleich von GenAI- und Lehrkräfte-Feedback
 - [[chatgpt-feedback-engagement-genai]] — ChatGPT-Feedback und Engagement
 - [[code-gen]] — CODE-GEN: validierte MCQ-Generierung
-- [[responsible-assessment-ai-era-stanford-2026]] — Verantwortungsvolles Assessment im KI-Zeitalter
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Gestaltung für authentisches Assessment
+- [[responsible-assessment-ai-era-stanford-2026]] — Verantwortungsvolle Leistungsbeurteilung im AI-Zeitalter
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Gestaltung authentischer Leistungsbewertung
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automatisierte Bewertung von Linux/bash-Prüfungen
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Rollen von Lehrenden und KI im ChatGPT-unterstützten formativen Assessment
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Mündliche Prüfungen als authentisches, KI-resistentes Assessment neu betrachtet
-- [[roe-assessment-twins-2026]] — Assessment-Zwillinge zur Stärkung der Assessmentvalidität im Zeitalter von GenAI (Roe, Perkins & Giray 2026)
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: KI-Generierung von Assessment-Rubriken
-- [[ai-assisted-instructor-supervised-grading-feedback]] — KI-unterstützte, von Lehrenden beaufsichtigte Bewertung und Feedback
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Rollen von Lehrenden und KI im ChatGPT-gestützten formativen Assessment
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Mündliche Prüfungen als authentische, KI-resistente Leistungsbeurteilung neu gedacht
+- [[roe-assessment-twins-2026]] — Assessment-Twins zur Stärkung der Assessment-Validität im Zeitalter von GenAI (Roe, Perkins & Giray 2026)
+- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: KI-gestützte Generierung von Bewertungsrubriken
+- [[ai-assisted-instructor-supervised-grading-feedback]] — KI-gestützte, von Lehrenden beaufsichtigte Benotung und Feedback
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptives ICAP-Scaffolding in einem ITS (BKT vs. DRL)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs als Akteure iterativen pädagogischen Designs
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs als Akteure iterativer pädagogischer Gestaltung
 - [[auto-marking-short-answer-science-2026]]
 - [[gpt4-feedback-student-activation-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivität macht Feedback wirksam: Evidenz aus KI-generiertem Feedback zu Plänen von Kindern
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automatisierte Bewertung, Interpretation von Leistung und selbstreguliertes Lernen (Chen & Liu 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Diagnostische Fähigkeiten von Lehrkräften im KI-unterstützten formativen Assessment: von der Diagnose zur Metadiagnose
-- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Wahrgenommene Nützlichkeit und Nutzungsabsicht von LLM-generiertem Feedback im Programmieren über drei Bildungsniveaus hinweg
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Adaptive Unterrichtsunterstützung, die generative KI und Big-Data-Analytik in der Musikbildung kombiniert
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Nutzung von LLMs durch Studierende und die Grenzen KI-generierter Schwierigkeit von Fragen in Data-Science-Kursen
-- [[mcnamara-aim-cai-continuous-assessment-2026]] — KI-vermittelte Infrastruktur kontinuierlichen Assessments (AIM-CAI): Lernbelege über Kontexte und Zeit hinweg verbinden (McNamara & Hasnine 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Konversations-KI-Diagnostik für Unterrichtsmissverständnisse mit evidenzbasiertem Dialog (Miranda & Calvani 2026)
-- [[assessment-feedback-trilemma-model-2026]] — Positives Gegenstück zum Überwachungsrisiko: Beobachtbarkeit als Evidenzdesign, nicht als Überwachung
+- [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivität macht Feedback wirksam: Evidenz aus KI-generiertem Feedback zu den Plänen von Kindern
+- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automatisierte Bewertung, Interpretation von Leistungen und selbstreguliertes Lernen (Chen & Liu 2026)
+- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Diagnostische Kompetenzen von Lehrkräften im KI-gestützten formativen Assessment: von der Diagnose zur Metadiagnose
+- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Wahrgenommene Nützlichkeit und Nutzungsabsicht von LLM-generiertem Feedback in der Programmierung über drei Bildungsstufen hinweg
+- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Adaptive Lehrassistenz, die generative KI und Big-Data-Analysen in der Musikerziehung verbindet
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Nutzung von LLMs durch Studierende und die Grenzen KI-generierter Aufgabenschwierigkeit in Data-Science-Kursen
+- [[mcnamara-aim-cai-continuous-assessment-2026]] — KI-vermittelte Infrastruktur für kontinuierliche Leistungsbeurteilung (AIM-CAI): Verknüpfung von Lernbelegen über Kontexte und Zeit hinweg (McNamara & Hasnine 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Konversationelle KI zur Diagnose unterrichtlicher Fehlvorstellungen mit evidenzgestütztem Dialog (Miranda & Calvani 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Positives Gegenstück zum Überwachungsrisiko: Beobachtbarkeit als Evidenzdesign, nicht als Monitoring
+- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — Die Weiterempfehlung eines adaptiven Quiz durch Studierende richtete sich nach dem Nutzungserlebnis, nicht nach ihrem Verständnis des Themas

@@ -33,12 +33,12 @@ ai_assist:
 
 ## Fragen zum Nachdenken
 
-1. Wenn eine studierende Person eine KI-Antwort akzeptiert, die zufällig richtig ist, hat der Kurs dann erfolgreich abgeschlossen? Was müsste gegeben sein, damit die Akzeptanz selbst das wäre, was zählte?
-2. Unterscheidet sich eine kalibriert delegierende Person, die ihre eigenen Grenzen kennt, ihrer Art nach von einer studierenden Person, die das einfach nicht beurteilen kann? Woran würde eine [[teacher-role|lehrende Person]] den Unterschied in einer einzelnen Arbeit erkennen?
-3. Wenn Zuversicht steigt, während Genauigkeit fällt — wie es der Fall ist, wenn KI-Ratschläge verfügbar sind —, was macht das mit der eigenen Fehlererkennung der lernenden Person?
-4. Wo ist Verifikation lehrbar, und wo ist sie ein Arbeitslastproblem der [[educational-policy-ai|Bildungspolitik]]? Welche Teile eines [[curriculum-design|Curriculums]] müssten sich ändern, damit Prüfen die Norm statt die Ausnahme ist?
-5. Sollten Institutionen Kapitulation überhaupt messen, oder lädt das Messen zu derselben Überwachung ein, mit der [[ai-use-disclosure|Offenlegungsregeln]] ringen?
-6. Wie sähe eine Aufgabe aus, die eine studierende Person dafür belohnt, eine falsche KI-Antwort zu übersteuern, statt dafür, eine polierte zu produzieren?
+- Wenn ein Schüler eine KI-Antwort akzeptiert, die zufällig richtig ist, war die Klasse dann erfolgreich — oder hat sie nur erfolgreich gewirkt?
+- Unterscheidet sich ein kalibrierter Delegierender, der seine eigenen Grenzen kennt, grundsätzlich von einem Studierenden, der es einfach nicht erkennen kann? Wie würde [[teacher-role|eine Lehrkraft]] die beiden anhand einer einzigen Arbeit auseinanderhalten?
+- Wenn die Zuversicht steigt, während die Genauigkeit sinkt — wie es der Fall ist, wenn KI-Ratschläge verfügbar sind —, was bedeutet das für die eigene Fehlererkennung der Lernenden?
+- Wo ist Überprüfung lehrbar, und wo ist sie ein Problem der Arbeitsbelastung? Welche Teile eines [[curriculum-design|Curriculums]] müssten sich ändern, damit das Überprüfen zur Norm wird?
+- Sollten Institutionen Kapitulation überhaupt messen, oder lädt eine solche Messung zu jener Überwachung ein, mit der [[ai-use-disclosure|Offenlegungsregeln]] bereits zu kämpfen haben?
+- Welche Aufgabe würde es belohnen, eine falsche KI-Antwort zu verwerfen, statt eine geschliffene zu produzieren?
 
 ## Einführung
 

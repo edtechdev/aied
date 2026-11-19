@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 translation_of: "concepts/reflection"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -127,7 +127,7 @@ Zwei Designs reagieren unterschiedlich auf diese Sorge, und beide sind nützlich
 ### Die Reflexionsaufgabe gestalten
 
 - **Den Prompt nach dem Abschluss eines Versuchs ansetzen.** Das Experiment mit 302 Erwachsenen ist hier der warnende Fall: Prompts, die die Arbeit zwischen einem Versuch und seinem Feedback unterbrachen, kosteten Sitzungszeit und verringerten, wie viel Übung abgeschlossen wurde.
-- **Die Tiefenstufe benennen, die Sie belohnen.** Der ungarische Korpus bewertet Reflexion auf Stufen von beschreibendem Nacherzählen bis zur kritischen Prüfung von Annahmen. Ein Prompt, der Studierende zum „Reflektieren“ auffordert, während die Rubrik Beschreibung belohnt, erzeugt Beschreibungen.
+- **Die Tiefenstufe benennen, die Sie belohnen.** Die ungarische Aufsatzsammlung bewertet Reflexion auf Stufen von beschreibendem Nacherzählen bis zur kritischen Prüfung von Annahmen. Ein Prompt, der Studierende zum „Reflektieren“ auffordert, während die Rubrik Beschreibung belohnt, erzeugt Beschreibungen.
 - **Auf die Episode zielen, nicht auf das Semester.** „Was haben Sie versucht, was ist gescheitert, und was haben Sie beim dritten Versuch geändert?“ ist beantwortbar. „Reflektieren Sie über Ihre Lernreise“ ist es nicht.
 - **Die Prozessspur verlangen.** Aufgezeichnete Prompts, verworfene Entwürfe, ein abgelehnter Ansatz und der Grund für die endgültige Wahl sind alle billig zu erzeugen, schwer zu fälschen und genau das, was die GenAI-bewussten Modelle an die erste Stelle rücken.
 
@@ -138,7 +138,7 @@ Ein Ausgangsprompt, der die meisten der obigen Fehlermodi übersteht: *(1) Was h
 - **Offenlegung belohnen.** Eine Reflexion, die dokumentiert, wie GenAI genutzt, geprüft und korrigiert wurde, liefert nützlichere Belege als eine, die das auslässt, und das fünfteilige GenAI-bewusste Modell baut auf dieser Prämisse auf — Purpose, Process, Product, Pitfalls, Plan.
 - **Die Regel im Prompt setzen.** Legen Sie fest, was delegiert werden darf und was die eigene Beobachtung der studierenden Person sein muss; eine Regel im Syllabus ist im Moment des Schreibens unsichtbar.
 - **Die KI in der fragenden Rolle halten.** Ein Partner, der klärende Fragen stellt und alternative Formulierungen anbietet, erhält die Artikulationsarbeit der lernenden Person; einer, der den Eintrag schreibt, entfernt sie.
-- **Jeden Reflexionsagenten prüfen, den Sie einsetzen.** Im einzigen kodierten Audit dieser Wissensbasis befolgte der Agent mechanisch prüfbare Regeln und brach die verhaltensbezogenen, ohne eine Spur zu hinterlassen, während er vollkommen plausibel aussah.
+- **Jeden Reflexionsagenten prüfen, den Sie einsetzen.** Im einzigen kodierten Audit befolgte der Agent mechanisch prüfbare Regeln und brach die verhaltensbezogenen, ohne eine Spur zu hinterlassen, während er vollkommen plausibel aussah.
 - **Eine auf [[well-being|Wohlbefinden]] gerichtete Selbstprüfung nicht in eine Diagnose verwandeln.** Das PAUSE-Design ist hier das Modell: beschreibende, domänenbewusste Reflexionen, keine zusammengesetzte Punktzahl und eine ausdrückliche Weigerung, irgendeine Entscheidung über eine Person zu rechtfertigen.
 
 ### Authentizität bewerten
@@ -146,15 +146,16 @@ Ein Ausgangsprompt, der die meisten der obigen Fehlermodi übersteht: *(1) Was h
 - **Bewerten Sie, was Sie verteidigen können.** Spezifität, Belege für eine Entscheidung, die Begründung von Überarbeitungen und Ehrlichkeit darüber, was schiefging, sind benotbar. Aufrichtigkeit ist es nicht, und ein flüssiges Modell kann die Oberfläche von all dem nachahmen.
 - **Paaren Sie das Artefakt mit etwas, das teuer zu delegieren ist.** Eine kurze mündliche Verteidigung, eine Überarbeitung in Echtzeit oder eine Entscheidung mit Konsequenzen — das reflexive Gate des Prober-Systems und die Verifikationssitzungen pro Mitglied von Issa und Hall sind zwei funktionierende Muster.
 - **Beobachten Sie, was das Benoten mit der Handlung macht.** Wenn Selbstreflexion benotet wird, läuft sie Gefahr, performativ zu werden; benennen Sie daher, wofür die Reflexion *nicht* bewertet wird, und lassen Sie mindestens einen Teil der Reflexion unbenotet.
+- [[this-is-how-we-ai-teaching-guide-2026|Hanshaw, Brewer and Hunt (2026)]] gewichten einen Kurs mit 60 % Produkt, 20 % Prozessdokumentation und 20 % Reflexion über die KI-Nutzung, sodass der Weg neben dem Ziel benotet wird.
 - **Betrachten Sie eine Punktzahl niemals als Beweis für Denken.** Tiefenklassifikatoren schätzen, wie reflektierend ein Text liest, und das ist eine Eigenschaft, die ein flüssiger zweiter Entwurf herstellen kann.
 
 ### Die Routine aufrechterhalten
 
-- **Für Motivationsverfall gestalten, nicht für Prompt-Qualität.** Reflexive Journale werden innerhalb von Wochen aufgegeben; beispielbasiertes Onboarding und ein konversationeller Assistent, der Fragen stellt, waren die beiden Interventionen, die dieser Korpus dagegen testet.
+- **Für Motivationsverfall gestalten, nicht für Prompt-Qualität.** Reflexive Journale werden innerhalb von Wochen aufgegeben; beispielbasiertes Onboarding und ein konversationeller Assistent, der Fragen stellt, waren die beiden Interventionen, die dagegen getestet wurden.
 - **Häufigkeit vor Länge.** Ein kurzer Eintrag nach jedem Versuch erhält die Gewohnheit; ein langer Eintrag am Semesterende ist eine einzelne Schreibaufgabe mit reflektierendem Etikett.
 - **Geben Sie dem Portfolio einen Reflexionskontrollpunkt.** Ohne Kommentaranforderung an jedem Kurationspunkt wird ein E-Portfolio zu einem Museum fertiger Produkte.
 - **Passen Sie sich der Expertise an.** Weniger erfahrene Lehrkräfte nennen Zeit als ihr Haupthindernis; erfahrene Lehrkräfte nennen das Verfolgen der Leistung von Studierenden, sodass eine einzige Reflexionsoberfläche für ein ganzes Kollegium keiner der beiden Gruppen dient.
-- **Paaren Sie Werkzeugzugang mit Vorbereitung.** Metakognitives Strategietraining und ein sokratischer KI-Partner verbesserten im Experiment mit Lehramtsstudierenden jeweils für sich die Qualität der schriftlichen Reflexion, was nahelegt, dass die Vorbereitung kein optionales [[scaffolding]] für das Werkzeug ist.
+- **Paaren Sie Werkzeugzugang mit Vorbereitung.** Metakognitives Strategietraining und ein sokratischer KI-Partner verbesserten im Experiment mit Lehramtsstudierenden jeweils für sich die Qualität der schriftlichen Reflexion, was nahelegt, dass die Vorbereitung kein optionales [[scaffolding|scaffolding]] für das Werkzeug ist.
 
 ## Verbreitete Fehlvorstellungen
 

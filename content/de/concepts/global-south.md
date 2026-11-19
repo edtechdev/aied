@@ -1,7 +1,7 @@
 ---
 title: Globaler Süden
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -38,11 +38,11 @@ ai_assist:
 
 ## Einführung
 
-### Warum das für die AIED zählt
+## Warum das für die AIED zählt
 
 Mainstream-Forschung zu KI und Bildungstechnologie ist historisch von westlichen, englischsprachigen Datensätzen und [[governance|institutionellen]] Kontexten dominiert worden. Das erzeugt zwei Probleme: (1) [[ai-technologies|KI-Systeme]], die auf solchen Daten trainiert sind, können in Settings des Globalen Südens unterdurchschnittlich abschneiden oder Lernende falsch darstellen, und (2) Evaluations-[[benchmark|Benchmarks]], die im Globalen Norden gebaut sind, spiegeln möglicherweise nicht die Bildungsrealitäten, Sprachen oder Wissenstraditionen anderer Regionen wider. Forschung aus Kontexten des Globalen Südens in dieser Wissensbasis erstreckt sich über kulturell gegründete Datensätze, Benchmarks und Studien zur Technologieübernahme, mit Implikationen für [[ai-literacy|KI-Kompetenz]] und Bildung auf der Stufe [[higher-ed|Hochschule]] und [[k-12|K-12]].
 
-### Anwendungen in der Wissensbasis
+## Anwendungen in der Wissensbasis
 
 - **Kulturell gegründete Daten und Benchmarks:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] bietet einen [[multilingual-learning|mehrsprachigen]] Instruction-Datensatz zu Indian Knowledge Systems; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] führt einen Ghana-basierten [[stem-education|STEM]]-Benchmark ein, einen der ersten Evaluationsdatensätze des Globalen Südens für Bildung.
 - **Bewusstsein für KI-Ethik in der ghanaischen Hochschulbildung:** [[ai-ethical-awareness-ghana-students-2026|Acquah et al. (2026)]] validierten eine dreifaktorielle Skala (Autonomie, Wohlwollen, Fairness) für KI-Ethik-Bewusstsein mit 509 [[higher-ed|Universitäts]]studierenden in Ghana und fanden fünf latente Profile von durchgängig sehr hohem Bewusstsein bis zu einem kleinen Cluster mit praktisch keinem — am schwächsten bei Wohlwollen — und keine Geschlechterunterschiede, was einen Messanker des Globalen Südens für die KI-[[ethics|Ethik]]-Literatur liefert.
@@ -56,17 +56,17 @@ Mainstream-Forschung zu KI und Bildungstechnologie ist historisch von westlichen
 - **Für lokale Stressoren unter Ressourcenbeschränkung gestalten:** Bashir und Afzal (2026) bauen [[culturally-aware-student-stress-chatbot-2026|Sukoon]] als Designantwort des Globalen Südens auf eine dokumentierte Passungslücke — [[conversational-ai|Chatbots]] für mentale Gesundheit, die überwiegend auf westlichen Datensätzen und fast ausschließlich auf Englisch trainiert sind, während pakistanische Studierende gleichzeitig akademische, finanzielle, familiäre und relationale Stressoren erleben und emotionale Schwierigkeiten oft wegen Stigmatisierung nicht bei [[parents-and-families|Eltern]], [[teacher-role|Lehrenden]] oder Peers ansprechen können. Die praktischen Beschränkungen der Autoren sind so aufschlussreich wie ihr Modell: ein frei zugängliches [[open-source|Open-Source]]-[[llm|LLM]] über eine gehostete API für niedrige Ressourcenanforderungen, ein leichtgewichtiges Flask-Deployment für regionale Universitäten, „Werkzeuge sind verfügbar, aber oft teuer" als gelistete Barriere und ungleicher Zugang zu bezahlten Modellen als allgemeines Abhängigkeitsrisiko. Sie halten außerdem fest, dass der Klassifikator auf einem öffentlich verfügbaren Datensatz trainiert wurde, der nicht repräsentativ für pakistanische Studierende ist, und verpflichten sich zu lokal erhobenen DASS-21-Daten, bevor sie bevölkerungsbezogene Schlüsse ziehen.
 - **Dünne und werkzeugspezifische Assessment-Belege aus der afrikanischen Hochschulbildung:** [[genai-assessment-african-higher-education-review-2026|Ein systematischer Review nach PRISMA 2020]] empirischer Forschung, die zwischen 2023 und 2025 publiziert wurde, fand nur zehn Studien, konzentriert in Nigeria und Südafrika und fast ausschließlich mit ChatGPT durchgeführt, sodass das, was über die Neugestaltung von Assessment für generative KI in der afrikanischen Hochschulbildung bekannt ist, auf Studien mit kleinen Stichproben, einzelner Institution und [[self-report-measures|Selbstauskunft]] beruht statt auf gemessenen [[learning-gains|Lernzuwächsen]] — die Autoren des Reviews rahmen ihre Empfehlungen als Richtungen statt als gesicherte Effekte.
 
-- **Gerechtigkeit ist die am wenigsten untersuchte Dimension in der Region.** Ein [[meta-analysis-systematic-review|PRISMA-ScR-Scoping-Review]] von 75 Studien aus dem Globalen Süden (2022–2025) fand Gerechtigkeit als am wenigsten untersuchtes seiner fünf Gebiete trotz ihrer Zentralität für inklusive Bildung und berichtete eine Lücke zwischen den von Studierenden angegebenen ethischen Positionen und ihrem Verhalten ([[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026]]).
+- **Gerechtigkeit ist die am wenigsten untersuchte Dimension in der Region.** Ein PRISMA-ScR-[[meta-analysis-systematic-review|Scoping-Review]] von 75 Studien aus dem Globalen Süden (2022–2025) fand Gerechtigkeit als am wenigsten untersuchtes seiner fünf Gebiete trotz ihrer Zentralität für inklusive Bildung und berichtete eine Lücke zwischen den von Studierenden angegebenen ethischen Positionen und ihrem Verhalten ([[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026]]).
 
-[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi und van der Merwe (2026)]] argumentieren aus einem südafrikanischen Klassenraum der Klasse 9, dass eine restriktionsorientierte [[educational-policy-ai|institutionelle Politik]] die Bedingungen verschließt, unter denen KI Lehrende unter pädagogischer Knappheit erweitern statt ersetzen könnte, und dass die Interaktionsdaten, die Lernende erzeugen, unter fremden Governance-Regimen gehalten werden.
-
-Der Zugang kann gesättigt sein, bevor die Leistungsfähigkeit es ist: Unter 633 Studierenden an acht beninischen Universitäten nutzten 92,3 % generative KI wöchentlich, und Arbeitslast statt wahrgenommener Nützlichkeit trieb die Adoption, sodass die Kluft nicht mehr hauptsächlich darin besteht, das Werkzeug zu erreichen ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]]).
-
-### Implikationen
+## Implikationen
 
 Globalen-Süden-Kontexte zu beachten erfordert, über die Annahme hinauszugehen, westliche Modelle und Benchmarks übertrugen sich direkt. Es verlangt lokal gegründete Datensätze, kulturell relevante [[pedagogy|Pädagogik]], gemeinschaftszentrierte Evaluationsstandards und Forschung, die die gelebten und gemeinschaftlichen Epistemologien der Lernenden als autoritativ behandelt — in Übereinstimmung mit Rahmenwerken wie gemeinschaftsbasiertem KI-Lernen und [[technology-acceptance-model|Technologieakzeptanz]]-Forschung, die an lokale Bedingungen angepasst sind.
 
 Die Skalierungsbilanz ist Teil dieses Bildes, und sie ist ernüchternd. Programme, die im Pilotmaßstab funktionieren, funktionieren häufig nicht mehr, wenn Regierungen sie durchführen: Das kenianische Programm, das unter nichtstaatlicher Umsetzung erhebliche Zuwächse erzeugte, zeigte im staatlichen Maßstab keinen nachweisbaren Zuwachs (Bold et al.), Effektstärken fallen tendenziell, wenn Programme wachsen (Vivalt), und die Umsetzungsqualität verdünnt sich, wenn Standorte sich vervielfachen (Al-Ubaydli, List & Suskind). Lateinamerikas eigener Präzedenzfall ist das peruanische One-Laptop-per-Child-Programm — etwa 800.000 verteilte Laptops ohne nachweisbaren Effekt auf [[math-education|Mathematik]] oder Lesen —, aus dem die gezogene Lehre war, dass Zugang zu Technologie kein Unterricht ist. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] fügen der Skalierungslehre eine Berichtslehre hinzu: In der El-Salvador-Episode 2026 wurde ein KI-Tutoring-Pilot in 171 Schulen als vergleichbar mit Deutschland und Schweden angekündigt, während die repräsentative PISA-2025-Stichprobe desselben Landes in zwei von drei Fächern keine Bewegung zeigte, und die Pilotdaten waren zu dünn (7,0 bewertete Studierende pro Schule gegenüber 25,4 landesweit), um Selektion als Erklärung auszuschließen. Für Systeme des Globalen Südens, die KI im großen Maßstab übernehmen, ist die Implikation doppelt: Die Evidenz, dass eine Reform funktioniert, betrifft meist die Komponenten, die sie bündelt, statt die Technologie in ihrer Überschrift, und ein vor dem Einsatz geplantes schrittweises Ausrollen identifiziert Effekte zu fast keinen Kosten — was am meisten dort zählt, wo Konnektivität die Phasierung ohnehin diktiert.
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi und van der Merwe (2026)]] argumentieren ausgehend von einem südafrikanischen Klassenzimmer der Klasse 9, dass eine vorrangig auf Restriktion setzende [[educational-policy-ai|institutionelle Politik]] die Bedingungen von vornherein ausschließt, unter denen KI Lehrkräfte unter pädagogischer Knappheit erweitern statt ersetzen könnte, und dass die Interaktionsdaten, die Lernende erzeugen, unter ausländischen Governance-Regimen verwahrt werden.
+
+Zugang kann sich sättigen, bevor die Fähigkeit es tut: Unter 633 Studierenden an acht beninischen Universitäten nutzten 92,3 Prozent generative KI wöchentlich, und die Arbeitsbelastung statt des wahrgenommenen Nutzens trieb die Adoption, sodass es bei der Kluft nicht mehr hauptsächlich darum geht, das Werkzeug überhaupt zu erreichen ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]]).
 
 ## Verbreitete Fehlvorstellungen
 

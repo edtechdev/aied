@@ -1,7 +1,7 @@
 ---
 title: Theorien und Rahmenwerke
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,7 @@ Diese erklären Mechanismen: sie benennen die Teile, die die Arbeit tun, und sag
 
 - **[[tpack|TPACK]]** — das Lehrkraftwissen, das Technologie, Pädagogik und Inhalt verschmilzt; das Standardrahmenwerk für lehrkraftseitige KI-Studien.
 - **[[technology-acceptance-model|Adoptionsmodelle]]** — Absicht als Funktion von wahrgenommener Nützlichkeit und Nutzungsleichtigkeit. Weit genug genutzt, dass das Vertrauen des Felds auf Absicht statt auf Verhalten eine stehende Kritik ist.
+- **Expectation-confirmation model (ECM)** — Zufriedenheit als Bestätigung vorheriger Erwartungen, mit Weiternutzung statt erstmaliger Adoption als Ergebnisgröße. In einem einsemestrigen Pilotprojekt zu Methoden der Soziologie mit 24 Bachelorstudierenden bewerteten 87% Copilot als gut oder ausgezeichnet und 91% würden ihn weiterempfehlen, aber nur 57% beabsichtigten, ihn weiterzunutzen ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Die Lücke ist genau der Punkt des Modells: Auch zufriedene Nutzende können sich gegen eine Rückkehr entscheiden, Zufriedenheit und Weiternutzung brauchen also getrennte Messungen.
 - **[[icap-framework|ICAP]]** — ordnet Engagement als passiv, aktiv, konstruktiv, interaktiv; nützlich, um zu fragen, welchen Modus eine [[student-ai-interaction|KI-Interaktion]] tatsächlich ermöglicht.
 - **[[samr-model|SAMR]]** — Substitution bis Redefinition. Populär als Reifegeschichte, schwach als Messinstrument.
 - **[[universal-design-for-learning|Universal Design for Learning]]**, **[[inclusive-learning|inklusives Lernen]]** und **[[accessibility|Barrierefreiheit]]** — Designrahmen dafür, wer bedient wird, und diejenigen, die am häufigsten in Behinderungs- und [[equity-in-ai-education|Gerechtigkeitsarbeit]] herangezogen werden.
@@ -119,7 +120,7 @@ Zwei benachbarte Seiten handeln absichtsvoll von etwas anderem. [[philosophy-of-
 
 Rahmenwerke sind keine Evidenz. Sie sind meist aus Vor-LLM-Kontexten geborgt und von demjenigen lokalisiert, der sie anwendet, sie können als Branding funktionieren, und Stadienmodelle laden zu Kontrollkästchen-Übernahme ein, die Bewegung durch Ebenen statt Lernen berichtet. Behauptungen, die auf einem Rahmenwerk ruhen, sollten neben [[limitations-in-aied-research|den übergreifenden Grenzen des Felds]], der [[assessment-validity|Validität]] dessen, was das Ergebnis maß, und den bekannten Grenzen von [[self-report-measures|Selbstauskunft]] gelesen werden.
 
-Mechanismus-zu-Theorie-Ausrichtung kann dennoch entscheidend sein: eine thematische Synthese von 55 KI-unterstützten Spielbasiertes-Lernen-Studien fand, dass Wirksamkeit davon abhing, ob der KI-Mechanismus die Pädagogik umsetzte, der er dienen sollte, statt von algorithmischer Ausgefeiltheit ([[ai-game-based-learning-systematic-review-2026|Kaşarcı und Yurt (2026)]]).
+Mechanismus-zu-Theorie-Ausrichtung kann dennoch entscheidend sein: eine thematische Synthese von 55 KI-unterstützten Studien zu [[game-based-learning|Spielbasiertem Lernen]] fand, dass Wirksamkeit davon abhing, ob der KI-Mechanismus die Pädagogik umsetzte, der er dienen sollte, statt von algorithmischer Ausgefeiltheit ([[ai-game-based-learning-systematic-review-2026|Kaşarcı und Yurt (2026)]]).
 
 ## Verbreitete Fehlvorstellungen
 
@@ -147,7 +148,7 @@ Mechanismus-zu-Theorie-Ausrichtung kann dennoch entscheidend sein: eine thematis
 ## Verbundene Artikel
 
 - [[genai-chatbots-language-learning-affordances-review-2026]] — Emotionale Affordanzen als vierte Kategorie in einer Affordanz-Taxonomie vorgeschlagen
-- [[ai-game-based-learning-systematic-review-2026]] — Mechanismus-zu-Theorie-Ausrichtung, nicht algorithmische Ausgefeiltheit, trieb die Wirksamkeit in 55 KI-unterstützten [[game-based-learning|spielbasierten Lernstudien]] an
+- [[ai-game-based-learning-systematic-review-2026]] — Mechanismus-zu-Theorie-Ausrichtung, nicht algorithmische Ausgefeiltheit, trieb die Wirksamkeit in 55 KI-unterstützten spielbasierten Lernstudien an
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — vier Jahrzehnte AIED durch das AI×Ed-Rahmenwerk
 - [[educating-minds-generative-ai-2026]] — theorielastige Synthese von generativer KI und Lernen
@@ -159,3 +160,5 @@ Mechanismus-zu-Theorie-Ausrichtung kann dennoch entscheidend sein: eine thematis
 - [[yan-agentivism-learning-theory-ai-2026]] — eine Mid-Range-Lerntheorie für Mensch-KI-Interaktion
 - [[ai-literacy-instrument-development-systematic-review-2026]] — Instrumentenentwicklung über ein junges Konstrukt hinweg
 - [[mishra-control-vs-agency-history-2025]] — die grundlegende Spannung zwischen Kontrolle und Handlungsfähigkeit des Felds
+
+- [[wells-genai-research-assistant-sociology-2026]] — Exploring the Role of Generative AI as a Research Assistant in Undergraduate Sociology Research Methods

@@ -1,13 +1,13 @@
 ---
 title: Technologien
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -40,10 +40,12 @@ ai_assist:
 
 ## KI-Systeme in der Bildung
 
-- **Große Sprachmodelle (LLMs).** Das rechnerische Rückgrat der meisten modernen [[ai-education|AIED]] — [[llm|LLMs]] erzeugen menschenähnlichen Text für Tutoring, Assessment und Inhaltserstellung und sind die am häufigsten referenzierte Technologie der Wissensbasis. [[llm-training-and-fine-tuning|Training und Feinabstimmung]] passt allgemeine LLMs für den Bildungseinsatz an.
-- **Generative KI.** Die breitere Kategorie von Systemen, die Text, Code, Bilder und andere Inhalte erzeugen — [[generative-ai|generative KI]] (vorrangig durch LLMs angetrieben) ist die Technologie hinter der aktuellen Welle der [[ai-education|AIED]]-Forschung. Siehe auch [[multimodal|multimodale Modelle]] (Text, Bild, Audio) und [[simulation|Simulation]].
-- **Roboter und [[embodied-learning|verkörperte]] Systeme.** [[educational-robotics|Roboter in der Bildung]] fügen eine verkörperte und oft [[community-of-inquiry|soziale Präsenz]] hinzu — programmierbare Bausätze für [[computational-thinking|computational thinking]] sowie humanoide/soziale Roboter für Tutoring, [[storytelling-in-education|Storytelling]] und Rollenspiel. Robotik ist ein eigener technischer Strang, der [[agentic-ai|agentische KI]] und [[human-in-the-loop-ai|Human-in-the-Loop]]-Design überschneidet.
-- **Wissensbasierte Systeme.** [[knowledge-graph|Wissensgraphen]] und [[educational-nlp|NLP in der Bildung]] repräsentieren und verarbeiten Domänenwissen, zunehmend kombiniert mit LLMs für verankertes, erklärbares Tutoring.
+- **Große Sprachmodelle (LLMs).** Das rechnerische Rückgrat der meisten modernen [[ai-education|AIED]]-Systeme — [[llm|LLMs]] erzeugen menschenähnlichen Text für Tutoring, Leistungsbeurteilung und Inhaltsgenerierung und sind die am häufigsten referenzierte Technologie des Feldes. [[llm-training-and-fine-tuning|Training und Fine-Tuning]] passt allgemeine LLMs für den Einsatz in der Bildung an.
+- **Generative KI.** Die umfassendere Kategorie von Systemen, die Text, Code, Bilder und andere Inhalte erzeugen — [[generative-ai|generative KI]] (vor allem angetrieben von LLMs) ist die Technologie hinter der aktuellen Welle der [[ai-education|AIED]]-Forschung. Siehe auch [[multimodal|multimodale Modelle]] (Text, Bild, Audio) und [[simulation|Simulation]].
+- **Roboter und [[embodied-learning|verkörperte]] Systeme.** [[educational-robotics|Roboter in der Bildung]] bringen eine verkörperte und häufig [[community-of-inquiry|soziale Präsenz]] ein — programmierbare Kits für [[computational-thinking|Computational Thinking]] sowie humanoide und soziale Roboter für Tutoring, [[storytelling-in-education|Storytelling]] und Rollenspiele. Robotik ist ein eigenständiger technischer Strang, der sich mit [[agentic-ai|agentischer KI]] und [[human-in-the-loop-ai|Human-in-the-Loop]]-Design überschneidet.
+- **Wissensbasierte Systeme.** [[knowledge-graph|Wissensgraphen]] und [[educational-nlp|bildungsbezogenes NLP]] repräsentieren und verarbeiten Fachwissen, zunehmend in Kombination mit LLMs für fundiertes, erklärbares Tutoring.
+
+Eine funktionsbasierte Taxonomie trägt weiter in die Lehrkräftefortbildung als eine Liste von Modellarchitekturen. [[jaksic-engaging-high-school-teachers-ai-2025|Jaksic, Ansaf und Massey (2025)]] organisierten einen eintägigen Workshop für neun Lehrkräfte weiterführender Schulen entlang von sechs Familien der KI-Anwendung — Klassifikation, Erkennung, Speicher, Entscheidungsfindung, Optimierung und Vorhersage —, die jeweils mit einer Anwendung verknüpft wurden, die die Lehrkräfte bereits nutzten, von der Spam-Filterung bis zum Kredit-Scoring. Die Lehrkräfte kamen in der Frage gespalten, ob KI eine Bedrohung sei: 40% bejahten dies, 40% waren unentschieden, und jede teilnehmende Person berichtete, etwas Neues gelernt zu haben. Die ordnende Einheit ist das, was das System tut — etwas, das eine Lehrkraft in einem Unterrichtswerkzeug wiedererkennen kann, ohne zu wissen, wie es trainiert wurde.
 
 ## Verfahren und Methoden
 
@@ -104,13 +106,17 @@ Der technische Strang ist untrennbar mit den anderen Themen der Wissensbasis ver
 - [[personalized-learning]]
 
 ## Verbundene Artikel
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Forschungssichtbarkeit von 85 KI-Werkzeugen in der MINT- und Ingenieurbildung (Terkowsky et al. 2026)
-- [[agentic-ai-education-scoping-review]] — Scoping Review zu agentischer KI in der Bildung
-- [[genai-meta-analysis-programming-learning]] — Metaanalyse der Wirkung von GenAI auf Produktivität und Lernen im Programmieren
-- [[cstutorbench-slm-tutors]] — Benchmarks für Tutoring mit kleinen Sprachmodellen
-- [[educational-llm-alignment]] — Ausrichtung von LLMs an die Bildung
-- [[eduguard-safe-rag-llm-tutor]] — Leitplanken für RAG-basierte LLM-Tutoren
-- [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit und Schäden von KI-Tutoren
-- [[elbench-education-llm-benchmark-2026]] — LLM-Benchmark für die Bildung
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini, generativer sozialer Roboter
-- [[benzion-ai-physics-simulations-virtual-lab]] — LLM-erzeugte Physiksimulationen für das Klassenzimmer
+
+- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Forschungssichtbarkeit von 85 KI-Tools in der MINT- und ingenieurwissenschaftlichen Lehre (Terkowsky et al. 2026)
+
+- [[agentic-ai-education-scoping-review]] — Scoping Review zu agentischer KI im Bildungsbereich
+- [[genai-meta-analysis-programming-learning]] — Metaanalyse zur Wirkung von GenAI auf Produktivität und Lernen beim Programmieren
+- [[cstutorbench-slm-tutors]] — Tutoring-Benchmarks für kleine Sprachmodelle
+- [[educational-llm-alignment]] — Alignment von LLMs für den Bildungsbereich
+- [[eduguard-safe-rag-llm-tutor]] — Guardrails für RAG-basierte LLM-Tutoren
+- [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit und Schädigungspotenziale von KI-Tutoren
+- [[elbench-education-llm-benchmark-2026]] — LLM-Benchmark für den Bildungsbereich
+- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Generativer sozialer Roboter Teachy Mini
+- [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generierte Physiksimulationen für den Unterricht
+
+- [[jaksic-engaging-high-school-teachers-ai-2025]] — Einbindung von Lehrkräften weiterführender Schulen in Konzepte, Anwendungen und Entwicklungen der Künstlichen Intelligenz

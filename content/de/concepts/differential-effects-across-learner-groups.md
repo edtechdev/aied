@@ -1,7 +1,7 @@
 ---
 title: Unterschiedliche Effekte zwischen Gruppen von Lernenden
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -83,13 +83,15 @@ Nach Artikelzahl ist dies der größte Strang, und er teilt sich sauber in Werkz
 
 ## Geschlecht
 
-Geschlechterforschung teilt sich hier darin, ob Werkzeuge Lernende unterschiedlich behandeln, und ob Lernende stereotypbeladenen Werkzeugen ausgesetzt sind.
+Die Geschlechterforschung gliedert sich hier in die Frage, ob Tools Lernende unterschiedlich behandeln, und die Frage, ob Lernende stereotypbehafteten Tools ausgesetzt sind.
 
-- **Ein absichtlich geschlechtsneutrales Design zeigte keinen Geschlechterunterschied.** [[ada-female-coded-chatbot-gender-stereotypes-2026|Eine quasi-experimentelle Studie mit 195 Neuntklässlerinnen und Neuntklässlern]] testete ADA, einen weiblich kodierten [[conversational-ai|Chatbot]], der auf Ada Lovelace gründet: situatives Interesse stieg für beide Geschlechter ohne Geschlechterunterschied in emotionaler Reaktion, kognitiver Last oder akademischer Leistung. Eine Persona als Rollenvorbild kann ohne Auslösen von Stereotypbedrohung gebaut werden.
-- **Doch Promptinhalt überträgt Bias in studentische Arbeit.** [[gender-bias-transfer-llm-writing|Eine kontrollierte Studie mit 123 Teilnehmenden]] ließ Studierende Berufsplanaufsätze für gepaarte Profile schreiben, die sich nur im Geschlecht unterschieden, unter den Bedingungen ohne KI, neutrale KI und geschlechtsverzerrte KI; die verzerrte Bedingung übertrug geschlechtsdifferenzierte Sprache in studentisches Schreiben und unterdrückte weibliche [[agency|Handlungsfähigkeit]] asymmetrisch. Die Forschenden bestätigten den Effekt zuerst an 1.600 erzeugten Aufsätzen.
-- **Raum und Rahmung zählen so viel wie das Werkzeug.** [[all-girls-genai-makerspace-gender-equity-2026|Eine Fallstudie zu einem Nur-Mädchen-Makerspace für generative KI]] fand, dass Mädchen das geschlechtsspezifische Setting als sicherer und entspannter schätzten, und warnt vor „Girlification“ — oberflächlicher Anpassung, die Machtverhältnisse unangetastet lässt.
-- **Modellsensitivität ist eine Eigenschaft des Modells, keine Konstante.** In [[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]] wurden fünf Tutoren von 7B bis 70B über neun demografische Niveaus hinweg auditiert: Qwen2.5-7B überschritt die Bias-Schwelle |r| ≥ 0.10 in 7 von 12 Domäne-×-Dimension-Zellen, während LLaMA-3.1-8B sie einmal überschritt. Pädagogikspezifisches Training reduzierte einige Biases und erhöhte andere.
-- **Eine einachsige Korrektur kann eine Gruppe schlechter dastehen lassen:** geschlechtsdiverse Studierende, die in eine Kategorie „Unbekanntes Geschlecht“ zusammengefasst wurden, hatten unter jeder Fairness-Methode die niedrigsten True-Positive-Raten, und keine einachsige Methode verbesserte ihre Behandlung — die oben notierte Variation von Gruppenlabels, diesmal innerhalb eines prädiktiven Frühwarnmodells statt eines Tutors ([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
+- **Ein bewusst geschlechtsneutrales Design zeigte keinen Geschlechterunterschied.** [[ada-female-coded-chatbot-gender-stereotypes-2026|Eine quasi-experimentelle Studie mit 195 Schülerinnen und Schülern der neunten Klasse]] testete ADA, einen weiblich codierten [[conversational-ai|Chatbot]], der auf Ada Lovelace beruht: Das situationale Interesse stieg bei beiden Geschlechtern, ohne Geschlechterunterschiede in emotionaler Reaktion, kognitiver Belastung oder schulischer Leistung. Eine Vorbild-Persona lässt sich gestalten, ohne Stereotypenbedrohung auszulösen.
+- **Doch der Prompt-Inhalt überträgt Bias in die Arbeiten der Studierenden.** [[gender-bias-transfer-llm-writing|Eine kontrollierte Studie mit 123 Teilnehmenden]] ließ Studierende Aufsätze zur Berufsplanung für paarweise angelegte Profile schreiben, die sich nur im Geschlecht unterschieden — unter den Bedingungen ohne KI, mit neutraler KI und mit geschlechtsverzerrter KI; die verzerrte Bedingung übertrug geschlechtsdifferenzierende Sprache in die Texte der Studierenden und unterdrückte weibliche [[agency|Agency]] asymmetrisch. Die Forschenden bestätigten den Effekt zunächst an 1.600 generierten Aufsätzen.
+- **Raum und Rahmenbedingungen sind ebenso wichtig wie das Werkzeug.** [[all-girls-genai-makerspace-gender-equity-2026|Eine Fallstudie zu einem Makerspace für generative KI nur für Mädchen]] fand, dass Mädchen die geschlechterhomogene Umgebung als sicherer und entspannter erlebten, und warnt vor „Girlification“ — einer oberflächlichen Anpassung, die Machtverhältnisse unberührt lässt.
+- **Modellsensitivität ist eine Modelleigenschaft, keine Konstante.** In [[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]] wurden fünf Tutoren von 7B bis 70B über neun demografische Stufen hinweg auditiert: Qwen2.5-7B überschritt den Bias-Schwellenwert von |r| ≥ 0,10 in 7 von 12 Domäne-Dimension-Zellen, während LLaMA-3.1-8B ihn einmal überschritt. Pädagogikspezifisches Training verringerte einige Verzerrungen und verstärkte andere.
+- **Eine eindimensionale Korrektur kann eine Gruppe schlechter stellen:** Geschlechtsdiverse Lernende, die in einer Kategorie „Unknown Gender" zusammengefasst wurden, hatten unter jeder Fairness-Methode die niedrigsten True-Positive-Raten, und keine eindimensionale Methode verbesserte ihre Behandlung — die oben erwähnte Variation der Gruppenbezeichnung, hier innerhalb eines prädiktiven Frühwarnmodells statt eines Tutoring-Systems ([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
+
+Ein Semester mit Aktivitäten zur KI-Kompetenz von geringer Bewertungsrelevanz kann das Selbstvertrauen unterschiedlicher Gruppen unterschiedlich verändern. [[petricini-ai-literacy-communication-equity-2026|Petricini und Cruz (2026)]] betteten zehn Aktivitäten über die Wochen 2 bis 11 eines asynchronen Kurses zum öffentlichen Sprechen ein und analysierten 133 verwertbare Antworten von 200 eingeschriebenen Studierenden; die wahrgenommene Kompetenz sank insgesamt von 5,63 auf 5,12 auf einer Skala von 1–7, und der Rückgang war ungleich verteilt. Studierende, die sich als weiblich identifizieren, verzeichneten bei zwei Kompetenz-Items signifikante Rückgänge von der Vor- zur Nachbefragung, während sich Studierende, die sich als männlich identifizieren, bei einem Item verschlechterten und beim Wert des Kurses zulegten; zudem schätzten sich männlich identifizierende Studierende im Posttest bei der Nutzung eines beliebigen neuen Werkzeugs im Kurs höher ein (p = 0,02). Dieselbe Intervention führte bei Studierenden, die sich als weiß identifizieren, zu einem signifikanten Rückgang bei allen drei Items zu Druck und Anspannung, einschließlich der Sorge um die eigene Leistung von 2,67 auf 1,90, während Studierende mit anderen racialisierten, ethnischen oder herkunftsbezogenen Identitäten bei keinem dieser Items eine signifikante Veränderung zeigten.
 
 ## Rasse, Ethnizität und minoritisierte Studierende
 
@@ -162,30 +164,33 @@ Der ehrliche Befund dieser Übersicht ist, wie dünn manche Gruppen sind. Jede d
 - [[interpreting-and-applying-aied-research]]
 
 ## Verbundene Artikel
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 Studien zu KI für Studierende mit Behinderungen: g = 0.588, und g = 0.269 nach Bias-Adjustierung
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT kam MINT- und Nicht-MINT-Studierenden in gemischtfachlichem Lernen ungleich zu
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — GenAI-Nutzung und vierzügiges Engagement bei minoritären ethnischen internationalen Studierenden
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 Datensätze zu 40 Studien, 15 davon generative KI
-- [[adhd-video-segmentation-computing-education]] — Eine allgemeine Designänderung, die ADHS-Teilnehmende auf Parität brachte
-- [[neurodivergent-computing-students]] — 24 neurodivergente Studierende zu Struktur, Mehrdeutigkeit und Zusammenarbeit
-- [[genai-minoritized-knowledges-disability]] — Epistemische Marginalisierung in der KI, mit Behinderung als Fall
-- [[robot-assisted-language-learning-meta-analysis-2026]] — g = 0.83 mit I² = 84.4% in einer kleinen L2-Evidenzbasis
-- [[structural-silence-underrepresented-language-ai-2026]] — Unter 0.5% der Webinhalte für Bengalisch gegenüber 49.5% für Englisch
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detektoren klassifizieren EFL-Schreiben falsch, während sie professionelle Texte perfekt bewerten
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Ein Test mit 195 Studierenden zu weiblich kodierten Rollenvorbildern ohne Geschlechterunterschied
-- [[gender-bias-transfer-llm-writing]] — Geschlechtsverzerrte Prompts, die in studentische Aufsätze übergehen
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Ein geschlechtsspezifischer Raum wird geschätzt, mit einer Warnung vor „Girlification“
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — Fairness der Tutoren variiert nach Modell, Domäne und Verhaltensdimension
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Stereotypausgerichtetes Feedback auf identische Aufsätze
-- [[demographic-signals-llm-student-assessment-2026]] — 192.480 Aufrufe: explizite Personas und implizite Historien bewegen beide Modelle
+
+- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 Studien zu KI für Lernende mit Behinderungen: g = 0,588 und g = 0,269 nach Bias-Korrektur
+- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT kam STEM- und Nicht-STEM-Studierenden beim interdisziplinären Lernen in unterschiedlichem Maße zugute
+- [[bjet-genai-engagement-minority-ethnic-students-2026]] — GenAI-Nutzung und vierdimensionales Engagement bei internationalen Studierenden aus ethnischen Minderheiten
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 Datensätze zu 40 Studien, davon 15 zu generativer AI
+- [[adhd-video-segmentation-computing-education]] — Eine allgemeine Designänderung, die Teilnehmende mit ADHD auf ein gleiches Leistungsniveau brachte
+- [[neurodivergent-computing-students]] — 24 neurodivergente Studierende über Struktur, Mehrdeutigkeit und Zusammenarbeit
+- [[genai-minoritized-knowledges-disability]] — Epistemische Marginalisierung in der KI, am Beispiel von Behinderung
+- [[robot-assisted-language-learning-meta-analysis-2026]] — g = 0,83 bei I² = 84,4 % auf einer kleinen L2-Evidenzbasis
+- [[structural-silence-underrepresented-language-ai-2026]] — Bengali mit unter 0,5 % der Webinhalte gegenüber 49,5 % bei Englisch
+- [[hadra-ai-detector-accuracy-efl-2026]] — Detektoren klassifizieren EFL-Schreibtexte falsch, während sie professionelle Texte fehlerfrei bewerten
+- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Ein Test mit 195 Studierenden zu weiblich codierten Vorbildern ohne Geschlechterunterschied
+- [[gender-bias-transfer-llm-writing]] — Übertragung geschlechtsbezogener Verzerrungen aus Prompts in Aufsätze von Lernenden
+- [[all-girls-genai-makerspace-gender-equity-2026]] — Geschlechtergetrennter Raum wird geschätzt, verbunden mit einer Warnung vor Girlification
+- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — Fairness von Tutoren variiert je nach Modell, Domäne und Verhaltensdimension
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Stereotypenkonformes Feedback zu identischen Aufsätzen
+- [[demographic-signals-llm-student-assessment-2026]] — 192.480 Aufrufe: explizite Personas und implizite Historien verändern beide das Modellverhalten
 - [[student-attention-estimation-fairness-2026]] — Fairness-Regularisierung, die nicht generalisierte
-- [[ai-divide-ses-personality-primary-education-2026]] — 4.497 Studierende: digitale Kompetenz, nicht KI-Nutzung, mediiert die Lücke
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — Ländliche Teilnahme, die sich nie erholte, und Mentorschaft als die Einschränkung
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Eine Teilgruppeninteraktion, deren Konfidenzintervall null kreuzt
-- [[student-ai-inquiry-types-cs2-2026]] — Der einzige Nutzungsbefund des Korpus zu Studierenden der ersten Generation
-- [[international-students-conversational-ai-adaptation]] — Die einzige internationale Studierenden-Studie des Korpus
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Die erste Effektschätzung des Korpus für Studierende der ersten Generation: Tutorzugang kostete sie 0.50 SDs der Abschlussnote gegenüber 0.22 für ihre Peers (Liu et al. 2026)
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Bewertung von Post-hoc-Fairness-Interventionen in Anbietergesteuerten Frühwarnsystemen
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Eine wissensbasierte Gruppierungsvariable mit direkter Prozessevidenz: nach Vorwissen gematchte Gruppen, die sich in der Vielfalt ihrer Vorkonzeptionen unterschieden, nahmen dieselbe KI unterschiedlich auf (Wang et al. 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — Jenseits von Übereinstimmung: 22 gepromptete Bewerter treffen Sonden mit bekannter richtiger Antwort, und die meisten lassen sich überreden (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Lernendenkontext verändert die Noten eines LLM-Bewerters bei identischer Arbeit, und Übereinstimmung mit der Lehrkraft registriert das nicht (Porcaro 2026, Paper VI)
+- [[ai-divide-ses-personality-primary-education-2026]] — 4.497 Schülerinnen und Schüler: Digitale Kompetenz, nicht die AI-Nutzung, mediert die Kluft
+- [[arc-hubs-k12-ai-robotics-rural-2026]] — Ländliche Beteiligung, die sich nie erholte, und Mentoring als begrenzender Faktor
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — Eine Subgruppeninteraktion, deren Konfidenzintervall die Null einschließt
+- [[student-ai-inquiry-types-cs2-2026]] — Der einzige Nutzungsbefund der ersten Generation
+- [[international-students-conversational-ai-adaptation]] — Die einzige Studie zu internationalen Studierenden
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — Die erste Effektschätzung für Studierende der ersten Generation: Der Zugang zum Tutor kostete sie 0,50 SD der Abschlussnote gegenüber 0,22 bei ihren Peers (Liu et al. 2026)
+- [[fairness-theatre-early-warning-systems-2026]] — Fairness-Theater: Evaluation nachträglicher Fairness-Interventionen in anbieterkontrollierten Frühwarnsystemen
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Eine wissensbasierte Gruppenvariable mit direktem Prozessnachweis: Gruppen mit vergleichbarem Vorwissen, aber unterschiedlicher Vielfalt der Präkonzepte nahmen dieselbe KI auf unterschiedliche Weise auf (Wang et al. 2026)
+- [[porcaro-ai-grading-benchmark-2026]] — Jenseits der Übereinstimmung: 22 promptgesteuerte Bewerter treffen auf Testaufgaben, deren richtige Antwort bekannt ist, und die meisten von ihnen lassen sich zu höheren Bewertungen überreden (Porcaro 2026)
+- [[porcaro-ai-grader-reliability-2026]] — Der Kontext der Lernenden verändert die Bewertungen eines LLM-basierten Bewerters bei identischen Arbeiten, und die Übereinstimmung mit der Lehrkraft bildet dies nicht ab (Porcaro 2026, Paper VI)
+
+- [[petricini-ai-literacy-communication-equity-2026]] — KI-Kompetenz in einem Grundlagenkurs zur Kommunikation: Erkenntnisse zu Chancengerechtigkeit, Motivation und dem Abbau von Unsicherheit

@@ -1,7 +1,7 @@
 ---
 title: "Offene Bildung"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,7 +13,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -43,13 +43,13 @@ Sie unterscheiden sich dort, wo es zählt. Eine Open-Source-Veröffentlichung wi
 
 Die Literatur der KI-Ära in dieser Wissensbasis handelt daher von drei Dingen zugleich: der Ressource, der Praxis und der Frage, ob eines von beidem überlebt, wenn die Generierung nahezu kostenlos ist. Bei der Ressource lauten die Fragen, wer sie erstellt, wer sie lizenziert und ob eine von KI geschriebene Ressource zählt. Bei der Praxis lauten sie, was offene Pädagogik von Studierenden verlangt und ob sie ihnen etwas Messbares beibringt.
 
-### Was Offenheit tatsächlich umfasst
+## Was Offenheit tatsächlich umfasst
 
 Eine offene Bildungsressource ist Inhalt, der unter einer Lizenz veröffentlicht wird, die Weiternutzung, Bearbeitung, Neumischung und Weitergabe erlaubt. Alles Übrige im Feld ist nachgelagert zu dieser Erlaubnis und zur Pflicht, sie zuzuschreiben. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] zeigt, wie diese Pflicht in einem kleinen Projekt aussieht: elf Teilnehmende, die zwei Wochen online arbeiteten, erstellten eine sechsseitige Website, einen [[conversational-ai|Chatbot]], ein Handbuch und fünf Video-Tutorials, veröffentlicht unter CC BY-NC-SA, und das entstandene Paket erreichte hohe Werte bei der Transparenz, aber nur mittlere bei Lizenzierung, Reproduzierbarkeit, Anpassbarkeit und Barrierefreiheit. Dem Namen nach offen, in der Nutzung teilweise offen.
 
 Die Lizenzierungsliteratur ist granular, weil die Fehler granular sind. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] entwickelt eine Rubrik mit sieben Prinzipien zur Prüfung offen lizenzierter KI-Kompetenzmaterialien aus einem gezielten Korpus von 16 Kernaufsätzen, einer Erweiterung um 17 Aufsätze und 36 gezielte Referenzen. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello und Havemann (2026)]] argumentieren, die Einheit der Governance müsse von der Ressource auf die Infrastruktur übergehen, die sie hostet, denn ein Gemeingut aus einzelnen Dateien ohne gepflegte Plattform sei ein Fragmentierungsproblem und kein Gemeingut.
 
-### Der Kollaps der Generierungskosten und die Wende zu digitalen öffentlichen Gütern
+## Der Kollaps der Generierungskosten und die Wende zu digitalen öffentlichen Gütern
 
 Die Kursproduktion ist der Ort, an dem die Verschiebung bereits messbar ist: [[mooc-to-maic|MAIC]] berichtet, dass die [[online-teaching-and-learning|MOOC]]-Produktion von etwa \$25.000 und 60 Stunden pro Kurs auf unter \$2 und 30 Minuten mit [[llm|LLM]]-getriebener [[agentic-ai|Multi-Agenten]]-Generierung zusammenbricht. Wenn die Produktionskosten gegen null gehen, verliert das Argument, OER spare Geld, an Kraft, und es bleiben Lizenzfreiheit, Überprüfbarkeit und Qualitätssicherung.
 
@@ -59,15 +59,17 @@ Die politische Antwort in dieser Literatur ist eine Umklassifizierung. Atenas un
 
 Die institutionelle Begründung für Offenheit wird auch über Autonomie geführt. [[panda-editorial-digital-transformation-open-education-2026|Panda (2026)]] argumentiert in einem Editorial, digitale Transformation in offenem und flexiblem Lernen sei pädagogische Transformation und nicht Technologieeinführung, und eine Technologie gewinne nur dann Glaubwürdigkeit, wenn sie mit einer angemessenen Pädagogik in einem lokalen Kontext übereinstimme. [[rodes-paragarino-oer-generative-ai-framework-2026|Rodés-Paragarino und Atenas (2026)]] übersetzen das in ein Rahmenwerk mit sieben Säulen für die verantwortungsvolle Integration von OER und generativer KI, gebaut aus einer Dokumentenanalyse plus Expertenvalidierung und einem partizipativen Workshop mit 81 Teilnehmenden in Bilbao im Dezember 2025.
 
-### Offene Pädagogik und die Wende zur Praxis
+## Offene Pädagogik und die Wende zur Praxis
 
 Offene Pädagogik verschiebt Studierende von Konsumierenden zu Beitragenden: Eine Aufgabe erzeugt etwas, das veröffentlicht, lizenziert und wiederverwendbar ist. [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] liefert den saubersten Test dieser Idee im Feld. Zwei Gruppen eines Einführungskurses zur [[early-childhood-elementary-ai-education|kindlichen Entwicklung]] aktualisierten dasselbe Lehrbuch, eine davon mit generativen KI-Werkzeugen. Über 113 Aufgaben hinweg berichteten Studierende beider Gruppen von wachsender [[information-and-media-literacy|Informationskompetenz]], und der Zuwachs war statistisch nicht unterscheidbar: ein Zeiteffekt von F(1, 84) = 47.30, p < 0.001, partielles η2 = 0.36, gegenüber einer Interaktion von Zeit und Gruppe von F(1, 84) = 0.04, p = 0.85. Die KI-Gruppe erledigte mehr Arbeit und erreichte etwas niedrigere Werte, 174.73 gegenüber 173.86 von 180.
 
-Die Praxis hat ihre eigene Reifeliteratur. [[duan-open-educational-practices-evolution-2026|Duan (2026)]] sichtete 540 Datensätze und engte sie auf 14 Modelle offener Bildungspraxis unter [[meta-analysis-systematic-review|PRISMA 2020]] ein, verglich sie auf drei Dimensionen und schloss, dass generative KI unter etablierten Modellen liegt, statt sie zu verdrängen; dieses Argument verortet der Aufsatz gegen [[tpack|TPACK]]. [[ahmadfard-interactive-oer-review-2026|Ahmadfard (2026)]] kommt in einem strukturierten Review ab 1970 zu einem ähnlichen Schluss über Interaktivität: Interaktive Merkmale sind eher ein Designargument als ein nachgewiesener Effekt, und die stärksten von ihm berichteten Effektstärken sind aus früherer [[physics-education|physikdidaktischer]] Arbeit entlehnt und nicht in OER gemessen.
+Die Praxis hat ihre eigene Reifeliteratur. [[duan-open-educational-practices-evolution-2026|Duan (2026)]] sichtete 540 Datensätze und engte sie auf 14 Modelle offener Bildungspraxis unter [[meta-analysis-systematic-review|PRISMA]] 2020 ein, verglich sie auf drei Dimensionen und schloss, dass generative KI unter etablierten Modellen liegt, statt sie zu verdrängen; dieses Argument verortet der Aufsatz gegen [[tpack|TPACK]]. [[ahmadfard-interactive-oer-review-2026|Ahmadfard (2026)]] kommt in einem strukturierten Review ab 1970 zu einem ähnlichen Schluss über Interaktivität: Interaktive Merkmale sind eher ein Designargument als ein nachgewiesener Effekt, und die stärksten von ihm berichteten Effektstärken sind aus früherer [[physics-education|physikdidaktischer]] Arbeit entlehnt und nicht in OER gemessen.
 
 Zwei weitere Studien zeigen, wie schnell die Praxisebene zu einer Governance-Ebene wird. [[patino-ai-international-cooperation-open-education-2026|Patiño, Martínez-Pérez, Ramírez-Montoya und Miranda (2026)]] dokumentieren ein Residenzprogramm von UNESCO und ICDE mit 110 Teilnehmenden aus 13 Ländern in 10 Teams, doch ihre Befragungsbasis sind 72 Antworten aus 54 Institutionen ohne Rücklaufquote, was für eine Roadmap mit Blick auf die UN 2030 Agenda eine dünne Stütze ist. Und [[guo-teachers-ai-literacy-open-education-practices-2026|Guo, Lu und Gao (2026)]] befragten 512 Lehrkräfte in 30 chinesischen Provinzen dazu, ob KI-Kompetenz sich in offene Lehrpraxis übersetzt, und fanden einen indirekten Pfad über innovatives Verhalten von 0.218 bei geringer institutioneller Unterstützung, der bei hoher Unterstützung auf nicht signifikante 0.042 fällt.
 
-### Gerechtigkeit, Nachhaltigkeit und der Globale Süden
+Am Lizenzproblem stoßen offene Praxis und [[generative-ai|generative KI]] im Feld aufeinander. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] bezahlten sieben Hochschuldozierende dafür, in einer achtwöchigen Kohorte offene Materialien mit ChatGPT zu erstellen, und stellten fest, dass die Ausgaben des Programms selbst keine Creative-Commons-Lizenz tragen konnten: Modellgenerierter Text geht in die Gemeinfreiheit über, ohne die Urheberschaft, an die eine Lizenz anknüpfen müsste. Sie plädieren dafür, die lizenzierte Ebene von der modellgenerierten zu trennen. Ein zweiter Ansatz hält das Modell im Kurs: [[powell-chatbot-enhanced-oer-composition-2026|Powell et al. (2026)]] trainierten einen Schreibassistenten auf einem offenen Lehrbuch und den zugehörigen Kursunterlagen, sodass der Assistent die Ressource erweitert, statt sie zu ersetzen, und [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] zeigen denselben Schritt auf lokaler Hardware, indem sie Quizze aus den Materialien der Lehrenden generieren, ohne dass etwas an einen Anbieter gesendet wird.
+
+## Gerechtigkeit, Nachhaltigkeit und der Globale Süden
 
 Das [[equity-in-ai-education|Gerechtigkeitsargument]] für offene Inhalte ist das älteste: Eine Ressource ohne Preis kann nicht über den Preis ausgeschlossen werden. Es ist zugleich das am leichtesten behauptete und am seltensten geprüfte. Die Fassungen der KI-Ära sind sorgfältiger. Atenas und Kolleginnen und Kollegen rahmen OER als Hebel für marginalisierte Gemeinschaften und für sinnvolle Beteiligung an der Datenerhebung, warnen aber, dass eine übermäßige Abhängigkeit von generierten Ressourcen menschliche [[creativity|Kreativität]] und Urteilskraft abzuwerten droht. Tlili und Kolleginnen und Kollegen benennen die Mechanismen, durch die Generierung diesen Hebel schwächt: Übersetzungsfehler, Verzerrungen in den Trainingsdaten und eine [[hallucination-risk|Halluzinationsschleife]], in der generierte Inhalte in die Korpora zurückfließen, die das nächste Modell trainieren.
 
@@ -75,7 +77,7 @@ Nachhaltigkeit kommt zweimal ins Spiel, als Finanzierung und als Energie. Das Ar
 
 Die Dimension des [[global-south|Globalen Südens]] ist der Ort, an dem die Evidenz am dünnsten wird. Die nichtwestlichen Fälle des Bündels sind real, aber wenige: ein lateinamerikanisches Residenzprogramm zur Kooperation, chinesische Lehrkräfte an offenen Universitäten und eine Rahmung von Infrastruktur als Vorbedingung für Beteiligung. Behauptungen, Offenheit verteile Kapazitäten automatisch um, werden von diesen Studien nicht gestützt, und mehrere von ihnen sagen das auch.
 
-### Wo Schreib- und Empfehlungssysteme auf das Argument treffen
+## Wo Schreib- und Empfehlungssysteme auf das Argument treffen
 
 Zwei Aufsätze in diesem Bündel betreffen Produktionssysteme und nicht Politik. [[peng-personalized-recommendation-oer-2026|Peng (2026)]] entwickelt einen hybriden Deep-Learning-Recommender für OER und berichtet 93.6 Prozent Genauigkeit, 92.5 Prozent Präzision, 91.0 Prozent Recall und einen F1-Wert von 90.2 auf 2.400 Interaktionsdatenpunkten. Die eigene Vergleichstabelle zeigt eine BERT4Rec-Baseline mit 90.8 F1 bei gleichem Recall, und der Abschnitt zum Datensatz lässt Nutzerzahl, Itemanzahl und Sparsity als Platzhalter. Die Modellierungsbehauptung ist bescheiden; das Muster ist vertraut, insofern der Fortschritt gegenüber einer starken Baseline kleiner ist als die Schlagzeile.
 
@@ -113,6 +115,9 @@ Der zweite erinnert daran, dass ein generatives System offen und sein Inhalt ges
 
 ## Verbundene Artikel
 
+- [[beznosko-local-ai-rag-physics-oer-2026]] — Ein Ansatz für den Physikunterricht mit lokaler KI und RAG zur Generierung offener Bildungsmaterialien (Beznosko et al., 2026)
+- [[powell-chatbot-enhanced-oer-composition-2026]] — Der Text spricht zurück: Chatbot-gestützte OER im asynchronen Composition II (Powell et al., 2026)
+- [[jordan-faculty-ai-oer-creation-2025]] — Vom Prompt zur Praxis: Eine auf Hochschullehrende ausgerichtete Initiative zur Erkundung KI-gestützter OER-Erstellung (Jordan et al., 2025)
 - [[tlili-double-edged-sword-oer-generative-ai-2026]] — Fünf Rahmungen für OER, sobald generative KI in die Produktion eintritt (Tlili et al., 2026)
 - [[atenas-oer-digital-public-goods-2026]] — OER als digitale öffentliche Güter und das Argument für regierte Infrastruktur (Atenas et al., 2026)
 - [[deimann-rethinking-openness-ai-2026]] — Warum fünfundzwanzig Jahre Offenheit die institutionelle Mitte intakt ließen (Deimann und Lukács, 2026)

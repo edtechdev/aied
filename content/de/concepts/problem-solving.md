@@ -1,14 +1,14 @@
 ---
 title: Problemlösen
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -71,28 +71,28 @@ Problemlösen ist das angewandte Ergebnis [[critical-thinking|kritischen Denkens
 
 ## Verbreitete Fehlvorstellungen
 
-**„KI, die Studierenden hilft, Perspektiven zu erkunden, hilft ihnen zu denken.“** Dasselbe Verhalten stützt zwei sehr unterschiedliche Ergebnisse: KI-Werkzeuge helfen Studierenden, mehrere Perspektiven zu erkunden und eigene Probleme zu generieren, und sie können ebenso metakognitive Faulheit begünstigen. Die entscheidende Frage ist, ob die lernende Person die Rahmung vornimmt oder sie erhält — ein System, das mögliche Perspektiven liefert, hat den generativen Schritt bereits vollzogen, den die Übung verlangte.
-
-**„Problemlösen ist das Ziel, Problemfinden ist ein Bonus.“** Problemfinden ist der Ort, an dem Transfer entsteht, weil es von der lernenden Person verlangt, die Struktur zu konstruieren, statt in einer vom System bereitgestellten zu operieren. Ein [[curriculum-design|Curriculum]], das immer nur wohlgeformte Probleme liefert, trainiert Leistung auf wohlgeformten Problemen, und das ist nicht die Bedingung, der Studierende danach begegnen.
-
-**„Die Simulation kollaborativen Problemlösens ersetzt die Kollaboration.“** Eine Simulation reproduziert das Interaktionsmuster, und die entwickelte Fähigkeit ist die Regulation eines gemeinsamen Problems durch Teilnehmende, die tatsächlich anwesend sind. Teilnehmerspezifische Agenten, die reale Mitwirkende modellieren, sind ein Forschungsinstrument zur Untersuchung dieser Regulation — nützlich für das, was sie über den Prozess zeigen, nicht ein Weg, Studierenden die Übung ohne die Peers zu geben.
-
-## Implikationen für die Praxis
-
 **Für Lehrende**
 
-- Lassen Sie Studierende das Problem stellen, bevor sie eines lösen. Problemfinden verlangt die Konstruktion der Struktur, und dort entsteht Transfer; es ist zugleich der Schritt, den KI am ehesten an ihrer Stelle vollzieht.
-- Unterscheiden Sie im Aufgabendesign einen Denkpartner von einem Ersatz: Verlangen Sie Rahmung, Vorgehen und Begründung der lernenden Person zu Protokoll, sodass das Protokoll zeigt, wer die generative Arbeit geleistet hat.
-- Achten Sie auf die lernende Person, die viele Perspektiven flüssig erkundet und keine eigene Position hervorbringt; das ist metakognitive Faulheit im Gewand des Engagements.
+- Fordern Sie Studierende auf, das Problem selbst zu formulieren, bevor sie eines lösen. Das Formulieren verlangt, die Struktur zu konstruieren, und dort entsteht Transfer; es ist der Schritt, den KI am ehesten an ihrer Stelle übernimmt.
+- Unterscheiden Sie in der Aufgabe selbst zwischen einem Denkpartner und einem Ersatz: Verlangen Sie, dass Rahmung, Ansatz und Begründung der lernenden Person festgehalten werden, sodass die Aufzeichnung zeigt, wer die generative Arbeit geleistet hat.
+- Achten Sie auf die lernende Person, die viele Perspektiven flüssig erkundet und keine eigene Position hervorbringt; das ist metakognitive Faulheit im Gewand von Engagement.
 
-**Für Entwickelnde**
+**Für Entwickler**
 
-- Gestalten Sie für von Studierenden generierte Probleme und Strukturen statt nur für bessere Hinweise zu gegebenen.
-- Instrumentieren Sie den Rahmungsschritt, nicht nur die Lösungsschritte; ein System, das Antworten verfolgt und nicht Problemformulierung, kann das Ergebnis, auf das es ankommt, nicht sehen.
+- Gestalten Sie für von Studierenden generierte Probleme und Strukturen statt nur für bessere Hinweise zu vorgegebenen.
+- Instrumentieren Sie den Rahmungsschritt, nicht nur die Lösungsschritte; ein System, das Antworten erfasst und nicht die Problemformulierung, kann das Ergebnis, das zählt, nicht sehen.
 
 **Für Forschende**
 
-- Simulationen mit teilnehmerspezifischen Agenten sind ein starkes Instrument zur Untersuchung kollaborativer Regulation. Berichten Sie sie als solche und nicht als Beleg über unbeaufsichtigte studentische Zusammenarbeit.
+- Simulationen mit teilnehmerspezifischen Agenten sind ein starkes Instrument zur Untersuchung kollaborativer Regulation. Berichten Sie sie als solches und nicht als Befunde über unbeaufsichtigte Kollaboration von Studierenden.
+
+## Implikationen für die Praxis
+
+**„KI, die Studierenden hilft, Perspektiven zu erkunden, hilft ihnen beim Denken."** Dasselbe Verhalten stützt zwei sehr unterschiedliche Ergebnisse: KI-Werkzeuge helfen Studierenden, mehrere Perspektiven zu erkunden und eigene Probleme zu generieren, und sie können ebenso metakognitive Faulheit begünstigen. Die unterscheidende Frage ist, ob die lernende Person die Rahmung selbst leistet oder sie erhält — ein System, das Kandidatenperspektiven liefert, hat den generativen Schritt vollzogen, den die Übung gerade einfordern sollte.
+
+**„Problemlösen ist das Ziel, Problemfinden ist also ein Bonus."** Im Problemfinden entsteht Transfer, denn es verlangt von der lernenden Person, die Struktur zu konstruieren, statt innerhalb einer vom System bereitgestellten Struktur zu arbeiten. Ein [[curriculum-design|Curriculum]], das ausschließlich wohlgeformte Probleme liefert, trainiert die Bearbeitung wohlgeformter Probleme — und das ist nicht die Bedingung, auf die Studierende danach treffen.
+
+**„Die Simulation kollaborativen Problemlösens ist ein Ersatz für die Zusammenarbeit."** Eine Simulation reproduziert das Interaktionsmuster, und die Fähigkeit, die entwickelt wird, ist die Regulation eines gemeinsamen Problems durch Teilnehmende, die tatsächlich anwesend sind. Teilnehmerspezifische Agenten, die reale Kollaborateure modellieren, sind ein Forschungsinstrument zur Untersuchung dieser Regulation — nützlich für das, was sie über den Prozess offenlegen, nicht als Weg, Studierenden die Übung ohne die Peers zu verschaffen.
 
 ## Verbundene Konzepte
 

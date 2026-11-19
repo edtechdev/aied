@@ -40,7 +40,7 @@ ai_assist:
 
 Die Qualität von KI-Feedback ist nicht bloß eine Frage der Korrektheit. Wirksames Feedback muss rechtzeitig, spezifisch, handlungsrelevant und auf das aktuelle Verständnis der lernenden Person abgestimmt sein. Die Forschung in dieser Wissensdatenbank untersucht die Qualität von KI-Feedback über mehrere Dimensionen hinweg: Genauigkeit (ist das Feedback korrekt?), Nützlichkeit (hilft es der lernenden Person, sich zu verbessern?) und pädagogische Ausrichtung (fördert es das Lernen, statt nur den Aufgabenabschluss zu erleichtern?).
 
-### Wie sich die Qualität von KI-Feedback in der Forschung zeigt
+## Wie sich die Qualität von KI-Feedback in der Forschung zeigt
 
 - **Vergleichbarkeit mit menschlichem Feedback:** [[ai-generated-feedback-higher-ed|Studien in der Hochschulbildung]] zeigen, dass KI-generiertes Feedback als akzeptabel und unterstützend erlebt wird — vergleichbar mit dem Feedback einer Lehrkraft. Akzeptanz garantiert jedoch keine Lernwirksamkeit. Ein PRISMA-gestützter [[meta-analysis-systematic-review|systematischer Review]] von 42 empirischen Studien (2023–2025) kommt ebenfalls zu dem Ergebnis, dass die Qualität von KI-[[llm|LLM]]-Bewertungen und Feedback aufgabenabhängig ist — sie entspricht menschlichen Bewertenden bei kurzen, gut strukturierten Antworten mit detaillierten Bewertungsrastern, lässt aber bei komplexen, offenen oder [[multilingual-learning|mehrsprachigen]] Arbeiten nach, wobei das Feedback manchmal zu generisch oder von der Note abgekoppelt ist — und nennt Promptqualität, Detailreichtum des Bewertungsrasters, Modellversion und Sprache der Prüfung als die bestimmenden Faktoren der Bewertungs- und Feedbackqualität ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
 
@@ -85,7 +85,7 @@ Stil ist eine Qualitätsdimension mit Kosten: Mit demselben Modell erzielte dire
 
 Wie das Feedback *erzeugt* wird, gehört ebenfalls auf diese Liste. In einem modularen automatischen Schreibbewertungssystem für argumentative Aufsätze erzeugte überwachtes [[llm-training-and-fine-tuning|Feinabstimmen]] (Supervised Fine-Tuning) auf 90 lehrkraftannotierten Aufsätzen unbrauchbares Feedback — das feinabgestimmte GPT-4o überschritt bei jeder Inferenz sein Kontextfenster von 8.000 Token, und feinabgestimmte LLaMA-3.3-70B gab JSON aus, das nicht parsebar war —, während direktes Prompting von Claude 3.7 630 Mikrokommentare über 40 Aufsätze erzeugte, von denen Lehrkräfte 94.69% für notwendig und wirksam hielten, weshalb die Autoren schlussfolgern, dass bei einer nichtdeterministischen Erzeugungsaufgabe Prompting Feinabstimmen übertreffen kann ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]).
 
-### Qualitätsdimensionen
+## Qualitätsdimensionen
 
 Die Qualität von KI-Feedback umspannt mehrere in der Wissensdatenbank erfasste Dimensionen:
 - **Genauigkeit:** Erkennt das Feedback Fehler und Stärken korrekt? ([[automated-assessment|Automatische Bewertung]], [[automated-essay-scoring]])
@@ -107,7 +107,7 @@ Die Qualität von KI-Feedback umspannt mehrere in der Wissensdatenbank erfasste 
 - **Die Leserseite derselben Dimensionen.** Vierundzwanzig Professoreninnen und Professoren des Hochschul-Schreibens beschrieben Ausgaben als kompliziert, überlang, vage oder unpraktisch, und zwei fanden, dass sie Stärken lobten, es sei denn, man sagte ihnen zuvor, nach Schwächen zu suchen ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]). Sieben sagten, das Erreichen akzeptablen Feedbacks habe wiederholtes Prompting erfordert, was die Zeit ausgibt, die der Arbeitsvorteil hätte einbringen sollen.
 - **Länge sagte jede andere gemessene Eigenschaft der Nachricht vorher.** Über drei Einsätze eines LLM-Hinweissystems in einem laufenden Programmierkurs hinweg sagte jede Standardabweichung von 204,9 Zeichen niedrigere Korrektheit der nächsten Einreichung (−0,733), mehr verbleibende Versuche (0,187) und längere Wartezeit vor der erneuten Einreichung (0,226) vorher, während der Flesch-Kincaid-Grad für die ersten beiden unsicher war ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Auch das Format spielte eine Rolle, aber als Trade-off: diagnostische Hinweise erzeugten häufiger korrekte nächste Einreichungen und weniger Versuche, und langsamere erneute Einreichung.
 
-### Verbindung zu breiteren Konzepten
+## Verbindung zu breiteren Konzepten
 
 Die Qualität von KI-Feedback verbindet sich grundlegend mit [[formative-assessment]] und [[feedback|Feedback Loop]] — qualitätsvolles Feedback schließt die Lücke zwischen aktuellem und angestrebtem Leistungsstand. Sie überschneidet sich mit [[automated-assessment|Automatische Bewertung]] (die die Bewertungen erzeugt, auf denen Feedback beruht), [[ai-literacy]] (Studierende müssen Feedbackqualität kritisch bewerten) und [[cognitive-offloading|Auslagerung]] (unkritische Annahme von KI-Feedback kann Lernen verdrängen). Für [[writing-education]] ist die Feedbackqualität besonders folgenreich, angesichts der wachsenden Rolle von KI in der Schreibbewertung.
 
