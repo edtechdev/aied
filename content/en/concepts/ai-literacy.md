@@ -384,3 +384,5 @@ Discipline leads can keep the critical strand visible. Literacy that covers only
 - [[ago-prompt-literacy-allied-health-2026]] — 417 allied-health undergraduates in Ghana: 76.3% had no responsible-AI training, and 40.8% rated academic staff guidance inadequate against 28.1% who rated it appropriate (Ago et al. 2026)
 - [[making-ai-work-for-students-ofs-2026]] — OfS and Advance HE (2026): 244 staff and 91 students at 127 institutions on detection, assessment design, AI literacy and strategy
 - [[yan-genai-use-critical-thinking-feedback-literacy-2026]] — 421 undergraduates: feedback literacy carries 72% of the AI-to-critical-thinking association
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — Ethics instruction works (g = 0.55), but discussion-based delivery does and lecture-only delivery does not
+- [[idea-model-doctoral-education-genai-2026]] — Doctoral candidates redesign their own courses: 76.5% sustained a course redesign, 73.5% still using AI-supported practice at follow-up

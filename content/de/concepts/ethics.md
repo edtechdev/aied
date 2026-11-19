@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-15T05:36:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -135,9 +135,7 @@ Ethik verbindet sich mit [[equity-in-ai-education|Gerechtigkeit]], [[privacy|Dat
 - [[civic-and-political-education]]
 
 ## Verbundene Artikel
-
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — Schwedische Umfrage- und Fokusgruppenstudie, die dafür plädiert, dass institutionelle genAI-Entscheidungen von einer Partnerschaftsethik und nicht von einem Betrugs-Frame geleitet werden sollten
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Ethisches Bewusstsein verstärkte die AI-Angst, wenn kein Bewältigungsrahmen vermittelt wurde: rein indirekte Mediation bei 584 Studierenden
 - [[learning-analytics-to-educational-interventions-2026]] — Von Learning Analytics zu Bildungsinterventionen: Voraussetzungen für vertrauenswürdige LA-basierte Interventionen (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Wie Studierende KI in Online-Prüfungen einsetzen und verschleiern
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Offenlegung der KI-Nutzung durch Studierende, Stigmatisierung und selbstreguliertes Lernen
@@ -165,5 +163,5 @@ Ethik verbindet sich mit [[equity-in-ai-education|Gerechtigkeit]], [[privacy|Dat
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Wer handelt, wer weiß, wer steht Rede und Antwort? Agency, epistemische Verantwortung und Rechenschaftspflicht in der Forschung zu generativer KI in der Hochschulbildung
 - [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Ethisches Bewusstsein, Reflexion und berichtete verantwortungsvolle Praxis entwickelten sich über drei jährliche Erhebungswellen weitgehend unabhängig voneinander (Ayanwale et al
 - [[qi-information-ethics-ai-judgment-2026]] — Informationsethische Bildung und ethische Urteilsfähigkeit hinsichtlich künstlicher Intelligenz bei Hochschulstudierenden
-
 - [[pal-ethically-aware-learning-ai-classroom-2026]] — Ethisch reflektiertes Lernen in einem KI-gestützten Klassenzimmer
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — Ethikunterricht wirkt (g = 0.55), doch diskussionsbasierte Vermittlung wirkt, während reine Vorlesungsvermittlung nicht wirkt

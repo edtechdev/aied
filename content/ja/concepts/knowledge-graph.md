@@ -124,3 +124,4 @@ ai_assist:
 - [[xie-hillm-cd-2026]] — HiLLM-CD：LLM 駆動の認知的診断
 - [[graph-its-adaptive-algorithms-2026]] — 動的な領域のためのグラフベースの知的個別指導（2026年）
 - [[cogevol-learning-environment-generation-2026]] — CogEvol：学習環境の生成
+- [[ai-multifactorial-virology-lab-teaching-2026]] — ウイルス学研究室における知識グラフ＋グラフに基づくアシスタントと適応的ルーティング：理論試験+11.4点、d = 1.39

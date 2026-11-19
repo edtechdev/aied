@@ -112,7 +112,6 @@ Es gibt auch ein konzeptionelles Risiko. Ein Fall kann einprägsam sein, weil er
 - [[higher-ed]]
 
 ## Verbundene Artikel
-
 - [[trewren-ai-perioperative-case-based-learning-2026]] — Ein quellengestütztes LLM hielt fünf perioperative Fälle durch, ohne Inhalte zu erfinden
 - [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT senkte die Erstellungszeit für Pflegefälle ohne gemessenen Qualitätsunterschied
 - [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — Sechs RCTs zu KI-gestütztem PBL/CBL; nur zwei prüften CBL
@@ -122,3 +121,4 @@ Es gibt auch ein konzeptionelles Risiko. Ein Fall kann einprägsam sein, weil er
 - [[hardie-genai-nursing-scoping-review-2026]] — Fallbasiertes Lernen innerhalb des Simulationsthemas eines Pflege-Reviews
 - [[lorteau-sarro-ai-legal-education-2025]] — KI ergänzt sokratischen Unterricht und juristische Simulationen
 - [[csaszar-ai-management-education-2026]] — Fallstudien und Simulationen in der Managementausbildung, ohne Analyse der Fallmethode
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — Ethikunterricht wirkt (g = 0.55), doch diskussionsbasierte Vermittlung wirkt, reine Vorlesungsvermittlung hingegen nicht

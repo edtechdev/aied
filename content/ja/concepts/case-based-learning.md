@@ -112,7 +112,6 @@ ai_assist:
 - [[higher-ed]]
 
 ## 関連する記事
-
 - [[trewren-ai-perioperative-case-based-learning-2026]] — 根拠づけられた LLM が、内容を捏造せずに 5 つの周術期事例を保持した
 - [[higashitsuji-chatgpt-case-creation-nursing-2025]] — ChatGPT が、測定された質の差なしに看護事例の作成時間を短縮した
 - [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — AI を用いた PBL/CBL の 6 件の RCT。CBL を検討したのは 2 件のみ
@@ -122,3 +121,4 @@ ai_assist:
 - [[hardie-genai-nursing-scoping-review-2026]] — 看護レビューのシミュレーションのテーマの中の事例基盤型学習
 - [[lorteau-sarro-ai-legal-education-2025]] — AI はソクラテス的教授と法学シミュレーションを補完する
 - [[csaszar-ai-management-education-2026]] — ケースメソッドの分析を伴わない、経営学教育のケーススタディとシミュレーション
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — 倫理教育は効果がある（g = 0.55）が、討論形式の実施では効果が認められ、講義のみの実施では認められない

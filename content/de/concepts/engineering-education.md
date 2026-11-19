@@ -121,3 +121,4 @@ Diese Lücke ist in einem Bereich nicht mehr leer: Ein dreijähriges biomedizini
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE-Rahmenwerk für nachhaltige Ingenieurbildung (Liu et al. 2026)
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[genai-xr-architectural-design-education-2026]] — Generative KI und Extended Reality in der kollaborativen Architektur-Design-Ausbildung: eine explorative Studio-Studie
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — Gewohnheit, nicht Intention, sagt voraus, dass Studierende seltener Menschen um Hilfe bitten: 49,6 % berichten von seltenerem Hilfesuchen bei Menschen, β für Gewohnheit 0,711 vs. Intention 0,039

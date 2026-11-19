@@ -83,11 +83,9 @@ RAG spielt eine ergänzende Rolle zum [[llm|LLM]]-Fine-Tuning — Retrieval lief
 - [[ai-technologies]] — Überblicksseite: KI-Technologien und Verfahren (Modelle, LLM-Training, Robotik, RAG, agentisch)
 
 ## Verbundene Artikel
-
 - [[beznosko-local-ai-rag-physics-oer-2026]] — Ansatz für die Physikausbildung mit lokaler KI und RAG zur Generierung offener Bildungsmaterialien (Beznosko et al., 2026)
 - [[hughes-rag-ai-feedback-implementation-2026]] — RAG erhöhte die wahrgenommene Feedbackqualität und Nützlichkeit, nicht jedoch die Umsetzbarkeit, in zwei Graduiertenkohorten
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Ein curriculum-gebundener Lektionsassistent, dessen Zeiteinsparung die eines allgemeinen Chatbots nicht übertraf
-
 - [[eduguard-safe-rag-llm-tutor]]
 - [[eduzone-llm-safety-k12]]
 - [[retrieval-augmented-tutoring-algorithm-kite]]
@@ -100,3 +98,4 @@ RAG spielt eine ergänzende Rolle zum [[llm|LLM]]-Fine-Tuning — Retrieval lief
 - [[wiki-llm-indexing-ml-classes-2026]] — Potenzial verbesserten Lernens in Maschinen-Lernen-Kursen durch Wiki-LLM-Indexierung
 - [[on-premises-rag-tutoring-business-education-2026]] — On-Premises-RAG-Tutoring über mehrere Kurse für die wirtschaftswissenschaftliche Bildung
 - [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — Index-Kuratierung und Retrieval-Umfang als die eigentliche Implementierungsarbeit
+- [[ai-multifactorial-virology-lab-teaching-2026]] — Wissensgraph plus graphgestützter Assistent und adaptives Routing in einem Virologielabor: Theorieprüfung +11,4 Punkte, d = 1,39

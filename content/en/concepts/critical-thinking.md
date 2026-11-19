@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-19T09:58:08-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -100,6 +100,12 @@ Critical thinking intersects with [[scaffolding|scaffolding]] (designing AI supp
 - **"GenAI use raises critical thinking directly."** GenAI use's link to **self-reported** critical thinking ran **almost entirely through GenAI [[feedback-literacy|feedback literacy]]** — in **421 Chinese undergraduates**, feedback literacy mediated **71%** of the association. The literacy is the pathway.
 - **"The meta-analytic effect is uniform."** Across **29 experiments**, GenAI raised higher-order thinking moderately (**g = 0.609**) with critical thinking at **ES = 0.691**. Moderate pooled effects over heterogeneous interventions support the category and not a specific design.
 
+## Two pathways, one net effect
+
+Whether AI use helps or harms [[critical-thinking|critical thinking]] depends on which mechanism is measured. A 2026 meta-analytic structural equation model pooling 31 studies and 16,357 learners found **two indirect pathways of nearly equal size running in opposite directions**: AI use raised dependence, which lowered critical thinking (β = −0.212), and raised [[motivation|learning motivation]], which raised it (β = +0.217). The paths almost exactly canceled — total indirect β = 0.004 — leaving a small positive direct effect (β = 0.149) and 40% of variance explained.([[motivational-gain-trumping-cognitive-offloading-2026|Wang et al., 2026]])
+
+The zero-order correlation in that literature is not significant (r = 0.156, 95% CI [−0.040, 0.353]), which is what a cancellation looks like when a study measures only the outcome. The design implication is that [[cognitive-offloading|offloading]] is not a property of the tool but of how the task is set: tools that withhold end-to-end answers and metacognitive checkpoints that force evaluation push the balance toward the motivational pathway.
+
 ## Connected Concepts
 
 - [[metacognition]]
@@ -150,4 +156,4 @@ Critical thinking intersects with [[scaffolding|scaffolding]] (designing AI supp
 - [[genai-use-critical-thinking-moderation-2026]] — GenAI use to critical thinking via feedback literacy, with a direct path only for less reflective students
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — The pessimistic reading of the moderation evidence: friction loss, automation bias, efficiency frame
 - [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Narrative review of 108 documents: the effect's sign tracks prior knowledge and task timing (AMCIF framework)
-
+- [[motivational-gain-trumping-cognitive-offloading-2026]] — AI dependence and motivation carry equal and opposite effects on critical thinking, leaving a small net gain (MASEM, 31 studies, 16,357 learners)

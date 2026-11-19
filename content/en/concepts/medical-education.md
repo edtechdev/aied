@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-16T09:58:00-05:00"
+updated: "2026-11-19T10:16:37-05:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -90,6 +90,11 @@ The sub-Saharan African evidence makes that gap concrete under material constrai
 - **"Standardized patients are too costly to scale."** A **randomized controlled trial with 95 analyzed medical students** used **multi-agent AI standardized patients** in clinical interview training. The constraint being addressed is the availability of trained human actors, which is a staffing problem rather than a fidelity one.
 - **"Adopting a published AI competency framework settles the curriculum question."** [[xiang-ai-nursing-education-kas-framework-2026|Xiang et al. (2026)]] screened 1,750 records to 23 studies — 15 reviews, 4 [[qualitative-research|qualitative]] and 4 [[quantitative-research|quantitative]], across 15 countries and 2022 to 2026 — and mapped them onto the Knowledge, Attitude and Skill model. Application domains concentrated in medical education (n = 11, 47.8%), general education (n = 9, 39.1%) and other education (n = 3, 13.0%), and the named nursing frameworks they compared — N.U.R.S.E.S., AI-ABCs and CARE — either lack clear pathways for pedagogical implementation or cover isolated skills without assessment methods. The 12-sub-dimension map they build is a proposal awaiting validation, which makes it something to teach against rather than a settled curriculum.
 
+## Graph-grounded teaching in laboratory courses
+
+A 2026 quasi-experiment in a Chinese virology laboratory course rebuilt the module around a course knowledge graph, a graph-grounded retrieval assistant, adaptive routing with published thresholds, and virtual simulation, then compared 30 students with 30 in the unchanged course. The experimental class scored 11.4 points higher on the final theory examination (d = 1.39) and 13.3 points higher on the laboratory operation checklist (d = 1.61).([[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]])
+
+Two cautions travel with the numbers: allocation was by intact class, so clustering is unmodelled and the intervals are likely too narrow, and the four components were introduced together, so the effect belongs to the package rather than to the knowledge graph or the assistant.
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -141,3 +146,4 @@ The sub-Saharan African evidence makes that gap concrete under material constrai
 - [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
 - [[alshahrani-health-sciences-ai-use-2026]] — Bridging technology and pedagogy: a cross-sectional analysis of AI use, self-reported academic effects, and ethical concerns among students across diverse health science curricula
 - [[ago-prompt-literacy-allied-health-2026]] — Prompt literacy across six Ghanaian allied-health programs: routine GenAI use without training, subscription and connectivity constraints, and a prompt-verification paradox where prior knowledge is thinnest (Ago et al. 2026)
+- [[ai-multifactorial-virology-lab-teaching-2026]] — Knowledge graph plus graph-grounded assistant and adaptive routing in a virology lab: theory exam +11.4 points, d = 1.39

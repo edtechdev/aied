@@ -122,9 +122,7 @@ ai_assist:
 - [[executive-function]]
 
 ## 関連する記事
-
 - [[rho-disengaged-conversational-behaviors-2026]] — 生徒とAIの対話における非関与的な対話の振る舞い（Rho et al. 2026）
-
 - [[mata-sustaining-ai-enabled-student-support-2026]] — AIによる学生支援の持続：制度的チャットボットの四年間の実施と影響の研究（Mata、Russell & Page 2026年）
 - [[usher-faraon-who-grades-best-2026]] — プロジェクトの質の水準にわたるChatGPT、同業者、教官の評定の比較（Usher & Faraon 2026年）
 - [[llm-agents-5e-esl-grammar-2026]] — ESLの文法習得のための5E枠組みを用いたLLMエージェント（Yang et al. 2026年）
@@ -145,10 +143,10 @@ ai_assist:
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[culturally-aware-student-stress-chatbot-2026]] — NLPと機械学習を用いたパキスタンの大学生のストレス検出と幸福の支援のためのAIを活用した文化的に意識したチャットボット
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AIと人間のチュータリングが同等のGRE学習の伸びを生む
-
 - [[pergantis-chatbots-executive-functions-systematic-review-2025]] — 実行機能を対象とした10件のチャットボット研究
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach：問題解決における的を絞ったAI援助要請の足場づけ
 - [[fang-chatbot-psychosocial-extended-use-2025]] — 4週間にわたるテキスト、中立的な音声、魅力的な音声：モダリティが変えたのはやり取りであり、心理社会的成果ではなかった（Fang et al. 2025年）
+- [[ai-conversational-interfaces-information-seeking-2026]] — チャットボットは、回答が特定の担当者名となる場合を除き、ウェブサイトよりも迅速かつ正確にプログラムに関する質問に回答した
 
 ## 引用
 

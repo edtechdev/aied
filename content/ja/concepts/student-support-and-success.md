@@ -130,7 +130,6 @@ AI の支援チャネルが何を置き換えるかも、同じように勘定�
 - [[rct]] — ここでの最強のエビデンスを支えるデザイン
 
 ## 関連する記事
-
 - [[cefa-ai-learner-support-review-2026]] — AIを活用した学習者支援に関する61本の研究レビュー：適応型システムと予測が主流で、移行期と多様な学習者が欠落している
 - [[mata-sustaining-ai-enabled-student-support-2026]] — 大学支援チャットボットの4年間にわたるランダム化評価：課題完了は変化したものの、卒業とGPAは変化しなかった
 - [[chatbot-outreach-course-performance-2026]] — 事前登録された複数学期のアウトリーチ試験：A/B率の上昇、DFWの小幅な変化、1つの人口統計集団における例外
@@ -157,3 +156,4 @@ AI の支援チャネルが何を置き換えるかも、同じように勘定�
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — AI支援による不正行為のリスクを早期に予測することと、低ステークスのアウトリーチにおける閾値のトレードオフ
 - [[rienties-institutional-ai-assistant-co-design-2026]] — 機関のAI学習アシスタントに関する5つのコデザイン研究：まず利用可能性、最後に価値観に基づく抵抗
 - [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — クエリから会話へ：工学教育におけるAIベースの仮想アシスタントの導入、ユーザビリティ、影響の探究
+- [[ai-conversational-interfaces-information-seeking-2026]] — チャットボットは、回答が特定の担当者名である場合を除き、ウェブサイトよりも迅速かつ正確にプログラムに関する質問に回答した

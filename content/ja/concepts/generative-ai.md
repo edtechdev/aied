@@ -114,7 +114,6 @@ ai_assist:
 
 ## 関連記事
 - [[genai-learning-motivation-meta-analysis-2026]] — 害から便益までにわたる予測区間を伴う、生成AIの学習の動機づけへの効果のメタ分析
-
 - [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
@@ -136,3 +135,4 @@ ai_assist:
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[bicer-genai-pd-math-creativity-2026]] — 地方の8人の現職の教師を対象とした、生成AIが導く数学の専門能力開発の事例研究
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — まとめたg = 0.819がPET-PEESEの下で0.378に下がり、特注の道具(0.455)はチャットボット(0.970)を下回りました
+- [[idea-model-doctoral-education-genai-2026]] — 博士課程の学生が自らの授業を再設計する：76.5%が授業の再設計を維持し、73.5%が追跡調査時点でもAI支援の実践を使用していた

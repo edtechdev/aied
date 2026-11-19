@@ -1,7 +1,7 @@
 ---
 title: Student Support and Success
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-11-16T05:34:40-05:00"
+updated: "2026-11-19T10:16:37-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -102,6 +102,11 @@ Student support connects to [[student-experience|student experience]] as the stu
 
 **"An equity concern is a reason to stop using the data."** It is a reason to act on scores carefully. Acting on a predictor can distribute support and can distribute suspicion, and the risk concentrates on the students the model classifies least favorably — which makes the remedy governance of the use, not abandonment of the measurement.
 
+## Chatbots versus websites for institutional information
+
+Student services increasingly field questions through a conversational assistant, and a 2026 randomized experiment tested the trade-off directly: 299 adults aged 18–25 searched for five pieces of program information through either a university website or a GPT-4o assistant grounded in program PDFs. The chatbot was faster (312 s against 505 s) and more accurate (95.6% against 78.5%, OR = 7.84), and rated better on every perceptual measure except behavioral intention, which did not differ.([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]])
+
+The exception is the operationally important one: on the question asking who to contact about a course override, the website won, 96.5% to 85.2%. Information tied to a named person or office is where a navigable site still beats a generated answer, so the assistant is better deployed as a layer over the site than as its replacement.
 ## Connected Concepts
 
 - [[higher-ed]] — the sector umbrella for institutional support work
@@ -153,3 +158,4 @@ Student support connects to [[student-experience|student experience]] as the stu
 - [[rienties-institutional-ai-assistant-co-design-2026]] — Five co-design studies of an institutional AI study assistant: availability first, values-based resistance last
 
 - [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — From Queries to Conversations: Exploring AI-Based Virtual Assistant Adoption, Usability, and Impact in Engineering Education
+- [[ai-conversational-interfaces-information-seeking-2026]] — Chatbot answered program questions faster and more accurately than the website, except where the answer was a named contact

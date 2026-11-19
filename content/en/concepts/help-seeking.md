@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-16T05:34:55-05:00"
+updated: "2026-11-19T09:58:08-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -130,6 +130,12 @@ In fully online [[english-education|composition]], availability of the tool is n
 - **"Help-seeking requests are about learning."** **Operational support demand** complicates that assumption: across **4,093 queries**, at least **20.4% asked about the status of a pending submission rather than for knowledge**. A fifth of the demand for help was administrative.
 - **"Using an AI tutor means monitoring your own learning."** In a study of **98 Grade-9 students** using a GenAI tutor, interactions were **dominated by instrumental requests with almost no monitoring or evaluation of their own learning**. Asking for answers is not help-seeking in the sense the construct means.
 
+## When habit replaces asking
+
+Help-seeking is usually studied as a decision — a judgment about whether asking is worth the cost. A 2026 PLS-SEM study of 392 engineering students and educators in the Philippines suggests that, once [[generative-ai|generative AI]] is embedded, the decision has largely been made already: **habit predicted the displacement of human help-seeking at β = 0.711**, while [[technology-acceptance-model|behavioral intention]] predicted it at β = 0.039, a path statistically indistinguishable from zero. Half the GenAI users in that sample (49.6%) reported asking a person for help less often, and only 15.8% named a human as their first resource when stuck, against 30.4% who named a tool.
+
+Two implications follow for how help-seeking is scaffolded. First, interventions aimed at attitudes or at making asking more attractive compete with a routine that is already automatic — they need to target the routine, not the belief. Second, the one construct that *reduced* displacement was concern about [[academic-integrity|academic integrity]] (β = −0.329), which suggests that preserving human consultation is more plausibly achieved through required interpersonal checkpoints — peer review, oral defense, supervised lab help — than through messaging.([[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]])
+
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
@@ -181,3 +187,4 @@ In fully online [[english-education|composition]], availability of the tool is n
 
 - [[wyszynski-genai-user-input-engineering-statics-2026]] — Examining Student Use of Generative AI Through User-Input Data in an Engineering Statics Course
 - [[huang-multi-agent-self-regulated-learning-cs-2026]] — Multi-Agent Artificial Intelligence Model to Enhance Self-Regulated Learning and Conceptual Understanding in Computer Science Edu...
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — Habit, not intention, predicts students asking people for help less often: 49.6% report less human help-seeking, β for habit 0.711 vs. intention 0.039

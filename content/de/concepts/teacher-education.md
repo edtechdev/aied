@@ -170,12 +170,10 @@ Weil ein Modell das persönliche fachdidaktische Wissen (PCK) verstärkt, das ei
 - [[teachers-collaborative-evaluation-ai-content-2026]] — Kollaborative Evaluation KI-generierter Inhalte durch Lehrkräfte als berufliche Weiterbildung (Gat, Usher & Barak 2026)
 - [[ai-training-science-teacher-tpack-distance-2026]] — Campus-versus-Fernvergleich des KI-bezogenen TPACK und der Ausbildungsniveaus von 186 Naturwissenschafts-Lehramtsstudierenden
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — verfolgt angehende Lehrkräfte beim Aufbau von KI-Grenzen in einer semesterlangen Literacy-Ethnografie
-
 - [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Ungerüstetes GenAI senkte die Unterrichtsplanqualität angehender Lehrkräfte unter die Kein-GenAI-Klasse
 - [[capability-decision-model-teacher-readiness-2026]] — Fähigkeit statt Vertrauen messen
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — Ein heutarogisches Zweischichten-Modell, das die eigene reflexive Regulation von Lehrkräften mit der Handlungsfähigkeit der Lernenden verbindet
 - [[packard-thinking-partner-framework-adult-learners-2026]] — K-12-Lehrkräfte lernen, KI-Primärforschung zu lesen und Bezirksvorgaben anzufechten
-
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Angehende Lehrkräfte als Lernende: Gruppen, die über Energie uneinig waren, machten die KI zum Zentrum konzeptueller Rede, Gruppen, die übereinstimmten, behandelten sie als Nachschlagewerk und lehnten proaktive Anstöße ab (Wang et al. 2026)
 - [[webb-pck-genai-2026]] — Warum ein Modell das dünne PCK von Novizen verstärkt und warum das Mittel kollektiv statt ein KI-Kompetenzmodul ist (Webb et al. 2026)
-
+- [[idea-model-doctoral-education-genai-2026]] — Promovierende gestalten ihre eigenen Kurse neu: 76,5 % behielten eine Kursneugestaltung bei, 73,5 % nutzten beim Follow-up weiterhin AI-gestützte Praxis

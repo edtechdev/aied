@@ -108,7 +108,6 @@ ai_assist:
 - [[ai-avatars-and-synthetic-instructors]]
 
 ## つながる記事
-
 - [[ismail-affective-domain-ai-healthcare-review-2026]] — 情意的領域の訓練ではAIシミュレーションと仮想患者が主流であり、成果は主に自己報告に基づく(Ismail & Zafira, 2026)
 - [[hernandez-ai-clinical-simulation-scoping-2026]] — 30件の研究を対象としたスコーピングレビュー:仮想患者の76.7%がテキストベースであり、推論力の向上は脚本化された症例に依存している(Hernández Rincón et al., 2026)
 - [[van-patten-freeman-rath-ai-counselor-education-scoping-2026]] — 14件の文献を対象としたスコーピングレビュー:模擬クライエントが主流で、研修者の能力は測定されていない(Van Patten-Freeman & Rath 2026)
@@ -137,3 +136,4 @@ ai_assist:
 - [[herrera-alcaino-simulation-curricular-coherence-2026]] — テクノロジーの導入からカリキュラムの一貫性へ:医療専門職教育における橋渡しとしてのテクノロジー強化型シミュレーション
 - [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — シミュレーションのサイクル全体を通じて、教師が対話エージェントに委任できないもの
 - [[tischkau-ai-simulated-patient-formats-2026]] — ファシリテーター付きグループ形式と個人用ノートPC形式で用いた同一のLLM患者:学生1人あたり1セッション約US\$2で、学習者の評価には検出可能な差がなかった(Tischkau et al. 2026)
+- [[ai-multifactorial-virology-lab-teaching-2026]] — ウイルス学研究室におけるナレッジグラフ＋グラフ依拠型アシスタントと適応的ルーティング：理論試験＋11.4点、d = 1.39

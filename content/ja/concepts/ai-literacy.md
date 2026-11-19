@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-16T18:50:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -318,7 +318,6 @@ AIリテラシーは、過度の依存に対して**両刃の刃**です。[[stu
 - [[civic-and-political-education]]
 
 ## 関連する記事
-
 - [[jordan-faculty-ai-oer-creation-2025]] — プロンプトから実践へ:AI支援のOER作成を探る教員中心の取り組み(Jordanら 2025)
 - [[powell-chatbot-enhanced-oer-composition-2026]] — テキストが語り返す:非同期の作文IIにおけるチャットボット強化のOER(Powellら 2026) - [[feng-ai-literacy-psychological-dimensions-2026]] — 学校教育研究58件:心理的な中核を共有する、教師向け6次元と学生向け8次元のAIリテラシー(Feng & Carolus 2026)
 - [[guo-ai-literacy-developmental-paces-2026]] — K–12の118件の記録を9つの範疇に:感覚的な遊びからチームプロジェクトへ至る10の考慮点からなる進展と、過程を捉えない9つの検証済み道具(Guo, Ali & Wong 2026)
@@ -327,7 +326,6 @@ AIリテラシーは、過度の依存に対して**両刃の刃**です。[[stu
 - [[yang-collaborative-ai-literacy-measures-review-2026]] — 17 の AI リテラシー測定：協働は構成概念としてほとんど評価されず、調整・コミュニケーション・メタ認知の因子は未検証のまま（Yang ら 2026）
 - [[early-childhood-ai-holistic-competencies-review-2026]] — AI時代の幼児期を形づくる:能力、教授法、生態的支援(Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AIセキュリティ・リテラシー:エコシステムに基づく能力フレームワークとK-12学習プラットフォーム
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 対処の枠組みなしにリテラシーの倫理的次元を高めると、学生をより不安にさせうる
 - [[caeai-digital-literacy-frameworks-review-2026]] — 検証済みフレームワーク80本が、AIがデジタルリテラシーを倫理へと拡張する一方、教育者の人間とAIの協働が詳細を欠いたままであることを示す(Guoら 2026)
 - [[ai-literacies-young-adults-2025]] — 公共サービスメディアのための6つの能力領域、5つの価値、3つの進展水準
 - [[ai-literacy-heptagon-2026]] — AIリテラシー七角形
@@ -376,8 +374,6 @@ AIリテラシーは、過度の依存に対して**両刃の刃**です。[[stu
 - [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM教育におけるAIリテラシーの最も多く引用された10件の研究の統合(Hallström et al. 2026)
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — AIについて学ぶという要求を規律化する言説として読む(Wang & Jin 2026)
 - [[genait-genai-literacy-test-high-school-2026]] — GenAIT:高校生のための客観的な生成的AIリテラシー・テストと、LLM利用および認識との関連(Puppart、Laak、Aru 2026)
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 50 の K-12 AI リテラシー・フレームワーク。生成 AI を具体的に評価する道具は 1 つだけ
-- [[kim-overtrust-ai-literacy-2026]] — AI リテラシーは二変量では過信と相関しないが、性能期待をモデル化すると負の間接効果を持つ
 - [[liang-ai-literacy-facets-creative-higher-education-2026]] — 創造的な高等教育における AI リテラシーの側面：学習成果と学業的ウェルビーイングとの関連
 - [[chen-genai-literacy-task-performance-cognitive-load-2026]] — GenAI リテラシーの次元の分裂：Use and Apply は作文の質を、Know and Understand は低い心的負荷を予測し、どちらも動機づけは動かさない（Chen ら 2026）
 - [[huang-ai-literacy-vocational-problem-solving-2026]] — 道具へのアクセスではなく認知的な動きを通じて問題解決に届くリテラシー
@@ -390,3 +386,5 @@ AIリテラシーは、過度の依存に対して**両刃の刃**です。[[stu
 - [[ago-prompt-literacy-allied-health-2026]] — ガーナの医療系学部生417人:76.3%が責任あるAI利用の訓練を受けておらず、40.8%が教職員の指導を不十分、28.1%が適切と評した(Agoら 2026)
 - [[making-ai-work-for-students-ofs-2026]] — OfSとAdvance HE(2026):127の機関の職員244人と学生91人による、検出、評価設計、AIリテラシー、戦略についての調査
 - [[yan-genai-use-critical-thinking-feedback-literacy-2026]] — 学部生421人:AI利用から批判的思考への関連の72%をフィードバック・リテラシーが担う
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — 倫理教育は効果がある（g = 0.55）が、効果があるのは討論型の授業実施であり、講義のみの実施では効果がない
+- [[idea-model-doctoral-education-genai-2026]] — 博士課程の学生が自身の担当科目を再設計：76.5%が科目の再設計を維持し、73.5%が追跡調査時点でもAI支援の実践を引き続き使用

@@ -280,3 +280,6 @@ Two recent studies give offloading a measurement apparatus. [[ayasrah-executive-
 - [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Cognitive offloading in the age of generative AI: a narrative review linking offloading to memory, learning and executive function
 - [[ho-invariant-core-faculty-development-2027]] — SOLO levels explain why GenAI can supply the relational artifact, so assessment must weight the process (Ho 2026)
 - [[su-genai-dependence-academic-performance-adolescents-2026]] — Attentional control carries most of the dependence-to-performance association in adolescents
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — Habit, not intention, predicts students asking people for help less often: 49.6% report less human help-seeking, β for habit 0.711 vs. intention 0.039
+- [[performance-without-capability-genai-assessment-validity-2026]] — A two-dimension framework (cognitive responsibility, process visibility) explaining why visible process can still document substitution
+- [[motivational-gain-trumping-cognitive-offloading-2026]] — AI dependence and motivation carry equal and opposite effects on critical thinking, leaving a small net gain (MASEM, 31 studies, 16,357 learners)

@@ -86,3 +86,4 @@ RAG serves a complementary role to [[llm|LLM]] fine-tuning — retrieval provide
 - [[wiki-llm-indexing-ml-classes-2026]] — Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing
 - [[on-premises-rag-tutoring-business-education-2026]] — On-Premises Multi-Course RAG Tutoring for Business Education
 - [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — Index curation and retrieval scope as the deployment work
+- [[ai-multifactorial-virology-lab-teaching-2026]] — Knowledge graph plus graph-grounded assistant and adaptive routing in a virology lab: theory exam +11.4 points, d = 1.39

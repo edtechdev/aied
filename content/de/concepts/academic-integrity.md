@@ -244,7 +244,6 @@ Was einem leistungsfähigen Modell widersteht, ist enger, als die Literatur zur 
 - [[reflection]]
 
 ## Verbundene Artikel
-
 - [[benau-effort-legitimate-academic-work-genai-2026]] — Anstrengung als moralischer Wert und Eigentum statt gesparter Stunden als Test legitimer KI-Nutzung
 - [[mcclanahan-ai-cheating-policies-cultural-lag-2026]] — Politikanalyse: Regeln zu KI-Schummeln als cultural lag hinter der Praxis der Studierenden (McClanahan & Dickinson, 2026)
 - [[oyelere-code-programming-assessment-genai-2026]] — Positionspapier: Code-Artefakte belegen keine Urheberschaft mehr, daher muss Assessment zu Design und Erklärung übergehen (Oyelere & Kadams, 2026)
@@ -298,4 +297,5 @@ Was einem leistungsfähigen Modell widersteht, ist enger, als die Literatur zur 
 - [[wyszynski-genai-user-input-engineering-statics-2026]] — Studentische Nutzung generativer KI anhand von Nutzereingabedaten in einem ingenieurwissenschaftlichen Statik-Kurs untersuchen
 - [[burke-ai-proliferation-college-students-replication-2026]] — Zweijährige Replikation an fünf Universitäten: die Schummelwahrnehmung sank um 14 Punkte, während 30.2% der sich selbst als schummelnd bezeichnenden Studierenden KI weiterhin nutzten
 - [[mingole-ai-proofing-higher-education-assessments-2026]] — KI-Sicherungsstrategien im Benchmark: nur zusätzliche Komplexität widerstand (Mingole et al., 2026)
-
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — Gewohnheit, nicht Absicht, sagt voraus, dass Studierende seltener Menschen um Hilfe bitten: 49,6 % berichten von weniger menschlicher Hilfesuche, β für Gewohnheit 0,711 vs. Absicht 0,039
+- [[performance-without-capability-genai-assessment-validity-2026]] — Ein zweidimensionales Rahmenwerk (kognitive Verantwortung, Prozesssichtbarkeit), das erklärt, warum ein sichtbarer Prozess dennoch Substitution belegen kann

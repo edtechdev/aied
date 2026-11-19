@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-15T05:34:40-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -140,7 +140,6 @@ Die Verbindung von Risiko zu Nutzung hängt auch am System: Über die 49 TALIS-2
 - [[framing-ai-use-for-students]]
 
 ## Verbundene Artikel
-
 - [[wang-ai-avatars-tam-doi-adoption-2026]] — TAM + DOI für KI-Avatare: Transparenz → Vertrauen (β = 0,542), wobei relativer Vorteil und Nützlichkeit die Absicht tragen
 - [[high-school-genai-acceptance-tam-physics-2026]] — Fachspezifische Überzeugungen stromaufwärts der TAM-Wahrnehmungen platziert
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI als „frenemy“: künstliche Autonomie und Risikoaversion erweitern TAM für Lehrkräfte (Dai et al. 2026)
@@ -165,15 +164,12 @@ Die Verbindung von Risiko zu Nutzung hängt auch am System: Über die 49 TALIS-2
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Materialebene-PE/EE/Verspieltheit/Absicht-Modell für altersgestufte KI-Kompetenz-Leitfäden, mit dokumentierter Konstruktüberlappung von Verspieltheit und Absicht
 - [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT in TAM/UTAUT2 gefaltet: dimensionsspezifische und nicht-monotone Risikoeffekte auf wahrgenommene GenAI-Nutzen (Du, Ning, Shi & Chen 2026)
-
 - [[capability-decision-model-teacher-readiness-2026]] — Geordnete Alternative zum Anschrauben von TPACK-Fähigkeit an Adoptionsmodelle der Theory of Planned Behavior
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Personenzentrierte TALIS-2024-Profile der wahrgenommenen KI-Nützlichkeit und des Risikos über 49 Systeme hinweg
 - [[genai-learning-procrastination-planned-behavior-2026]] — TPB-Erweiterung, die GenAI-gestützte Lernprokrastination misst und die Moderation des Absicht–Verzögerung-Zusammenhangs durch Angst
-- [[kim-overtrust-ai-literacy-2026]] — Leistungserwartung vermittelte den Pfad von Motivation und Selbstwirksamkeit zu KI-Übervertrauen
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — KI-Kompetenz als Mediator zwischen Selbstwirksamkeit und Akzeptanz, mit einer unbereinigten Angst-Assoziation (İşbulan et al. 2026)
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM mit Task–Technology Fit verbunden, plus neuronale Netzwerk-Wichtigkeitsrangfolge und Necessary-Condition-Schwellen (Chu & Liu 2026)
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Designmerkmale stromaufwärts der TAM-Überzeugungen, und Wichtigkeit, die nicht Notwendigkeit ist
 - [[pinedo-genai-adoption-marketing-students-2026]] — Gewohnheit trägt UTAUT2 in einer bereits adoptierenden Population
 - [[stalboerger-faculty-perceptions-2026]] — 22 Lehrende, 12 Nachbefragungen: Vertrautheit schärfte für einige die ethische Prüfung und kehrte die Richtung der Benutzerfreundlichkeit um (Stalboerger et al. 2026)
-
 - [[reding-discussion-boards-tam-ai-analytics-2026]] — Wahrnehmungen von Diskussionsforen durch Studierende: eine Studie zum Technology Acceptance Model als Grundlage für das Design KI-gestützter Learning Analytics
+- [[ai-conversational-interfaces-information-seeking-2026]] — Chatbot beantwortete Fragen zum Programm schneller und genauer als die Website, außer wenn die Antwort eine namentlich genannte Kontaktperson war

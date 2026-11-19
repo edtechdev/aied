@@ -118,3 +118,4 @@ There is also a conceptual risk. A case can be memorable because it is vivid, no
 - [[hardie-genai-nursing-scoping-review-2026]] — Case-based learning inside the simulation theme of a nursing review
 - [[lorteau-sarro-ai-legal-education-2025]] — AI complements Socratic teaching and legal simulations
 - [[csaszar-ai-management-education-2026]] — Management education's case studies and simulations, without a case-method analysis
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — Ethics instruction works (g = 0.55), but discussion-based delivery does and lecture-only delivery does not

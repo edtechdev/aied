@@ -141,3 +141,4 @@ Thapa und Lewis' Darstellung ist konzeptuell: keine Teilnehmenden, keine Datener
 - [[webb-davies-voice-first-written-assessment-2026]] — Eine zweistufige schriftliche Prüfung, die das Argumentieren unter Beobachtung sicherstellt, bevor eine zu Hause verfasste Abgabe benotet wird, mit einer bedingten mündlichen Nachprüfung (Viva) bei unklaren Zusammenhängen (Webb-Davies, Ratner & Bassett 2026)
 - [[black-box-assessment-winstone-2026]] — Black-Box-Assessment: Prozessfenster, Fehler als Evidenz und Integrität durch Sichtbarkeit (Winstone, Gravett & Elkington 2026)
 - [[francis-pace-framework-genai-assessment-2026]] — PACE: Bewertung des Prozesses auf einer vierstufigen Agency-Skala der Handlungsfähigkeit (Francis et al., 2026)
+- [[performance-without-capability-genai-assessment-validity-2026]] — Ein zweidimensionales Rahmenwerk (kognitive Verantwortung, Prozesssichtbarkeit), das erklärt, warum ein sichtbarer Prozess dennoch Dokumentensubstitution darstellen kann

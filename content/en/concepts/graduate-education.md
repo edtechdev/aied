@@ -1,7 +1,7 @@
 ---
 title: Graduate Education
 created: "2026-11-15T00:10:00-05:00"
-updated: "2026-11-15T06:45:00-05:00"
+updated: "2026-11-19T10:16:37-05:00"
 type: concept
 pedagogy: [professional-training, self-regulated-learning, scaffolding, metacognition, collaborative-learning]
 technology: [generative-ai, llm, simulation, intelligent-tutoring, learning-analytics]
@@ -123,6 +123,11 @@ Graduate education inherits the sector-wide problems of integrity, [[assessment-
 
 - **"Graduate [[ai-literacy|AI literacy]] means tool proficiency."** The graduate framework separates cognitive foundation, operational skills, higher-order thinking, metacognitive reflection, and ethical responsibility.
 
+## GenAI in doctoral development
+
+Doctoral programs adopt GenAI in two directions at once — as a research instrument and as something candidates must learn to teach with — and a 2026 participatory action research study in Cuba tested whether one sequence can serve both. Thirty-four doctoral candidates who also teach worked through a single integrated model (the Dr. I.D.E.A. model) in which research, AI-supported digital and creative-pedagogical competencies were exercised on the same authentic task. All 34 integrated GenAI into a course, 26 sustained a documented redesign for at least three weeks, and 25 were still using AI-supported practice at follow-up.([[idea-model-doctoral-education-genai-2026|Padrón Alvarez and Estrada Molina, 2026]])
+
+The self-reported competence gains (d = 1.69 to 2.10) should be read as perceived change without a comparison group; the durable contribution is the operating layer — co-constructed use categories, individual AI-use logbooks, and mandatory verification in indexed databases.
 ## Connected Concepts
 
 - [[academic-integrity]] — authorship, disclosure, and misconduct when text can be generated
@@ -153,3 +158,4 @@ Graduate education inherits the sector-wide problems of integrity, [[assessment-
 - [[guanilo-pareja-genai-doctoral-supervision-2026]] — 61-source review of doctoral supervision; task-based ethics, proportional disclosure, milestone governance
 - [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Single-group seminar; self-directed learning rose 80.62 to 87.38 with eight matched records
 - [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Graduate students led undergraduates on ethics and autonomy (d = 1.47); use frequency did not predict competence
+- [[idea-model-doctoral-education-genai-2026]] — Doctoral candidates redesign their own courses: 76.5% sustained a course redesign, 73.5% still using AI-supported practice at follow-up

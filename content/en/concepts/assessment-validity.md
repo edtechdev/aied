@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-18T10:20:00-05:00"
+updated: "2026-11-19T09:58:08-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 connected_resources: [vfwa]
@@ -170,6 +170,12 @@ Winstone, Gravett and Elkington frame the GenAI assessment problem as wicked in 
 - **"Grade inflation after AI is speculation."** In a **difference-in-differences study of 500,000+ grades across 319 courses (2018-2025)**, courses with more AI-exposed tasks (writing, coding) **saw the share of A grades rise**. The effect concentrated where tasks were exposed.
 - **"Faculty have adopted AI broadly."** **62.4% (53)** declined to use generative AI at all, and adopters' use was **confined largely to proofreading (43.8%) and clarity checks (34.4%)**. The adoption pattern is cautious and narrow, which changes what a validity argument needs to cover.
 
+## Performance without capability
+
+A 2026 conceptual framework argues that [[generative-ai|generative AI]] has no uniform effect on validity, because the same tool becomes an engagement amplifier or a cognitive substitute depending on how the assessment is configured. It crosses two dimensions: how much **cognitive responsibility** the student retains, and how much **process** the assessor can see. Four conditions follow, two of which are traps: *cognitive substitute* (low responsibility, low visibility) produces performance without capability; *constrained engagement* (low responsibility, high visibility) shows that a visible reasoning trace documenting uncritical acceptance of model output is still evidence of substitution. Responsibility without evidentiary capture is the mirror failure: educationally sound, evidentially useless.([[performance-without-capability-genai-assessment-validity-2026|Kearney, 2026]])
+
+The practical claim is narrow and testable: validity depends on whether the evidence warrants the inference being claimed, not on whether AI was involved. Where AI-supported practice *is* the capability being certified, excluding the tool reduces authenticity rather than protecting it.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Why process evidence is proposed when output no longer identifies the author
@@ -258,3 +264,4 @@ Winstone, Gravett and Elkington frame the GenAI assessment problem as wicked in 
 - [[zammel-mllm-kinematics-graph-grading-2026]] — A full-credit award to a graph the image does not establish, and a curvature threshold with no stated coordinate convention (Zammel et al. 2026)
 - [[rodriguez-longarela-genai-unsupervised-assessment-finance-2026]] — Unsupervised quiz gains that never reached the proctored exam: 60% of the exploitability margin realized, doubling the open-book advantage (Rodríguez Longarela & McGrath 2026)
 - [[wood-learning-consequential-assessment-2026]] — Three separable capability claims, with coherence between stated reasons and work as the evidential test
+- [[performance-without-capability-genai-assessment-validity-2026]] — A two-dimension framework (cognitive responsibility, process visibility) explaining why visible process can still document substitution

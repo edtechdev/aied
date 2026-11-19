@@ -113,3 +113,4 @@ Knowledge graphs connect to [[learning-design|learning design]] (defining what t
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-driven cognitive diagnosis
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
+- [[ai-multifactorial-virology-lab-teaching-2026]] — Knowledge graph plus graph-grounded assistant and adaptive routing in a virology lab: theory exam +11.4 points, d = 1.39

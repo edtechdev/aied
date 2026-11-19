@@ -236,7 +236,6 @@ Winstone、Gravett、Elkingtonは通常の論理を逆転させます。イン�
 - [[reflection]]
 
 ## 関連記事
-
 - [[benau-effort-legitimate-academic-work-genai-2026]] — 努力を道徳的な価値として、そして節約された時間ではなく所有を、正当なAI利用の基準とする
 - [[mcclanahan-ai-cheating-policies-cultural-lag-2026]] — 方策分析:AIによるカンニングの規則は学生の実践に対する文化的な遅れ(McClanahan & Dickinson 2026)
 - [[oyelere-code-programming-assessment-genai-2026]] — 立場論文:コードの成果物はもはや著作の証拠とならないため、評価は設計と説明へ移らなければならない(Oyelere & Kadams 2026)
@@ -290,4 +289,5 @@ Winstone、Gravett、Elkingtonは通常の論理を逆転させます。イン�
 - [[wyszynski-genai-user-input-engineering-statics-2026]] — 工学の静力学コースにおけるユーザー入力データを通した学生の生成的AI利用の検討
 - [[burke-ai-proliferation-college-students-replication-2026]] — 5大学にわたる2年間の追試:カンニングの認識は14ポイント低下し、自己申告のカンニング者の30.2%がなおAIを使う
 - [[mingole-ai-proofing-higher-education-assessments-2026]] — AIに耐える戦略のベンチマーク:加えられた複雑さだけが抵抗した(Mingoleら 2026)
-
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — 意図ではなく習慣が、学生が人に助けを求める頻度の低下を予測する：49.6%が人への助け求めの減少を報告、βは習慣0.711に対し意図0.039
+- [[performance-without-capability-genai-assessment-validity-2026]] — プロセスが可視であっても代替を記録しうる理由を説明する2次元フレームワーク（認知的責任、プロセスの可視性）

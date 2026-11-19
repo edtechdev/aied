@@ -102,9 +102,7 @@ ai_assist:
 - [[generative-ai|生成 AI]]
 
 ## 関連記事
-
 - [[apostolakis-trusstutor-bench-statics-2026]] — 静力学のベンチマーク：解答と誤り検出は飽和するが、押し返しへの抵抗は飽和しない
-
 - [[mechanical-engineering-ai-curriculum-2026]] — 熱工学におけるプロジェクトベースの AI 教育カリキュラム
 - [[pbl-biomedical-engineering-genai-2026]] — バイオ医学工学における生成 AI の問題基盤学習
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — 工学の教員の比喩は AI 理解を構成し（そして制約する）
@@ -114,9 +112,9 @@ ai_assist:
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — 口頭説明における身体化認知のマルチモーダル枠組み
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI と工学・計算機の労働力の未来
 - [[ai-engineering-education-balancing-act]] — 工学教育における AI の利用：綱渡り
-
 - [[structured-ai-demonstrations-engineering-mechanics]] — 工学力学における構造化された AI デモンストレーション
 - [[isaza-chatgpt-engineering-prompting-2026]] — 工学教育における ChatGPT
 - [[liu-ai-sustainable-engineering-education-2026]] — 持続可能な工学教育のための AI-SEE 枠組み（Liu et al. 2026）
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]] — 工学経済学の AI 教育助手 Arthur
 - [[genai-xr-architectural-design-education-2026]] — 協働的な建築デザイン教育における生成 AI と拡張現実：探索的なアトリエ研究
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — 意図ではなく習慣が、学生が人に助けを求める頻度の低下を予測する：49.6%が人への援助要請の減少を報告、βは習慣0.711に対し意図0.039

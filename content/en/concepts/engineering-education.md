@@ -109,3 +109,4 @@ That gap is no longer empty in one area: a three-year biomedical engineering pro
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — Habit, not intention, predicts students asking people for help less often: 49.6% report less human help-seeking, β for habit 0.711 vs. intention 0.039

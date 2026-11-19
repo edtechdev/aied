@@ -141,7 +141,6 @@ Die postgraduale Bildung erbt die sektorweiten Probleme der Integrität, der [[a
 - [[oral-assessment]] — Disputationen, mündliche Prüfungen und mündliche Absicherung als Nachweis individueller Fähigkeit
 
 ## Verbundene Artikel
-
 - [[genai-medical-education-transformation-review-2026]] — 153 Berichte aus medizinischen Studiengängen vom Eintritt bis zur Praxis; 13 mit Follow-up und kein Ergebnis auf Patientenebene
 - [[packard-thinking-partner-framework-adult-learners-2026]] — sokratische Dokumentation in postgradualen Forschungsmethoden; 96% abgeschlossene Checkpoints über sechs Semester
 - [[issa-teamwork-framework-academic-integrity-2024]] — begleitete Teamarbeit in einer postgradualen wirtschaftswissenschaftlichen Lehrveranstaltung; Noten stiegen von 27 auf 31 von 40, Zahlen zu Fehlverhalten fehlen
@@ -157,3 +156,4 @@ Die postgraduale Bildung erbt die sektorweiten Probleme der Integrität, der [[a
 - [[guanilo-pareja-genai-doctoral-supervision-2026]] — Übersicht über 61 Quellen zur Promotionsbetreuung; aufgabenbezogene Ethik, proportionale Offenlegung, Governance an Meilensteinen
 - [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Seminar mit einer Gruppe; selbstgesteuertes Lernen stieg von 80,62 auf 87,38 bei acht zugeordneten Datensätzen
 - [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Postgraduale lagen bei Ethik und Autonomie vor Grundständigen (d = 1,47); Nutzungshäufigkeit sagte keine Kompetenz vorher
+- [[idea-model-doctoral-education-genai-2026]] — Promovierende gestalten ihre eigenen Kurse neu: 76,5 % behielten eine Kursneugestaltung bei, 73,5 % nutzten beim Follow-up weiterhin AI-gestützte Praxis

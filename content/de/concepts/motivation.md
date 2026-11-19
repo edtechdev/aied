@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-11-16T09:20:00-05:00"
+source_updated: "2026-11-15T09:20:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -115,7 +115,6 @@ Motivation ist das Elternkonstrukt der [[self-determination-theory|Selbstbestimm
 - [[reflection]]
 
 ## Verbundene Artikel
-
 - [[mirpour-learning-value-self-efficacy-ai-scales-2026]] — Zwei Kurzskalen für Lernwert und Lern-Selbstwirksamkeit in KI-Kontexten und was sie vorhersagen
 - [[high-school-genai-acceptance-tam-physics-2026]] — Erwartungs-Nutzenwert-Überzeugungen als Vorläufer der GenAI-Akzeptanz
 - [[liu-ai-assistance-reduces-persistence-2026]] — Kurze KI-Nutzung reduzierte die Beharrlichkeit bei späteren ununterstützten Problemen (Liu et al. 2026)
@@ -144,11 +143,10 @@ Motivation ist das Elternkonstrukt der [[self-determination-theory|Selbstbestimm
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Konstruktspezifische Motivationsgewinne in einem GenAI-Schreibprogramm der Primarstufe (L2) (Lu et al. 2026)
 - [[air-scale-motivations-ai-reading-2026]] — Die AIR-Skala: vier Motivfamilien für den Griff zur KI beim Lesen
 - [[genai-math-relevance-intervention-2026]] — GenAI-Relevanzdialog erhöhte Relevanz als Identifikation, ließ aber das Unterrichtsinteresse unverändert
-
 - [[genai-learning-motivation-meta-analysis-2026]] — Metaanalyse mit zufälligen Effekten über den Effekt von GenAI auf die Lernmotivation (56 Effektstärken, 6.059 Lernende)
 - [[ai-student-motivation-scoping-review-2026]] — 156 Studien zu KI und Lernendenmotivation: 85,3% nutzten keine Motivationstheorie, und die Abdeckung ist in Konstrukt, Stufe und Land begrenzt
 - [[gai-advocacy-practice-art-education-2026]] — Lücken zwischen Politik und Praxis in der GAI-Befürwortung wirken als ein Stressor, den Lernende bewerten
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Ein gerüsteter Tutor erhöhte intrinsische Motivation, wo uneingeschränktes ChatGPT dies nicht tat
 - [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Gleichwertige KI- und Lehrkraft-Feedbackqualität, mit der Motivationslücke über Relatedness (Liu et al. 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] - SDT-geleiteter Review über 39 Studien: Bedürfnisse und Engagement oft gemessen, motivationale Regulation fast nie
 - [[mekheimer-motivation-ethics-trust-efl-2026]] — Nutzungshäufigkeit als einziger signifikanter Prädiktor der Motivation in einer 12-wöchigen EFL-Studie
+- [[motivational-gain-trumping-cognitive-offloading-2026]] — AI-Abhängigkeit und Motivation haben gleich große, aber entgegengesetzte Effekte auf kritisches Denken, sodass ein kleiner Nettozugewinn bleibt (MASEM, 31 Studien, 16.357 Lernende)

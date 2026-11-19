@@ -122,7 +122,6 @@ HPEは高リスクで能力主義的な領域であり、AIの便益（拡張可
 - [[virtual-and-augmented-reality]] — 没入型およびARによる臨床訓練
 
 ## 関連する記事
-
 - [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — 医学・歯学教育におけるAI活用PBLとCBL:6件のRCT、うちCBLは2件のみ(Wei et al. 2025)
 - [[zhu-ai-digital-pathology-residents-2026]] — AI支援デジタル病理は、前立腺生検を判読する病理専攻医の診断成績を向上させ、経験に起因する成績格差を縮小する
 - [[giancotti-data-provenance-health-ai-curricula-2026]] — 医療AIカリキュラムは倫理を教える(80.6%)が、データ来歴を扱うことはまれ(22.2%)
@@ -154,3 +153,4 @@ HPEは高リスクで能力主義的な領域であり、AIの便益（拡張可
 - [[bursic-ai-residency-education-curriculum-2026]] — 専攻医研修カリキュラムへのAI統合の障壁:12名の医師リーダーへの質的インタビュー
 - [[alshahrani-health-sciences-ai-use-2026]] — テクノロジーと教育法をつなぐ:多様な保健科学カリキュラムの学生におけるAI利用、自己報告による学業への影響、倫理的懸念の横断的分析
 - [[ago-prompt-literacy-allied-health-2026]] — ガーナの6つの医療関連職プログラムにおけるプロンプト・リテラシー:訓練なしの日常的GenAI利用、サブスクリプションと接続性の制約、そして予備知識が最も乏しいところで生じるプロンプト検証のパラドックス(Ago et al. 2026)
+- [[ai-multifactorial-virology-lab-teaching-2026]] — ウイルス学ラボにおける知識グラフ＋グラフに基づくアシスタントと適応的ルーティング：理論試験＋11.4点、d = 1.39

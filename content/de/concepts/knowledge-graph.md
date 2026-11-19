@@ -126,3 +126,4 @@ Wissensgraphen verbinden sich mit [[learning-design|Lerndesign]] (definieren, wa
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-gestützte kognitive Diagnose
 - [[graph-its-adaptive-algorithms-2026]] — Graphenbasiertes Intelligentes Tutoring für dynamische Domänen (2026)
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Erzeugung von Lernumgebungen
+- [[ai-multifactorial-virology-lab-teaching-2026]] — Wissensgraph plus graphgestützter Assistent und adaptives Routing in einem Virologielabor: Theorieprüfung +11,4 Punkte, d = 1,39

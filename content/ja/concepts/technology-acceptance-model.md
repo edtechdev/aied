@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-15T05:34:40-05:00"
 translation_of: concepts/technology-acceptance-model
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -139,7 +139,6 @@ TAMの認知的焦点は、AI使用の感情的・関係的次元も捉えきれ
 - [[framing-ai-use-for-students]]
 
 ## 関連記事
-
 - [[wang-ai-avatars-tam-doi-adoption-2026]] — AIアバターにおけるTAM + DOI：透明性→信頼（β = 0.542）、相対的優位性と有用性が利用意図を担う。
 - [[high-school-genai-acceptance-tam-physics-2026]] — TAMの知覚の上流に置かれた教科固有の信念
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — 「フレネミー」としてのGenAI：人工的自律性とリスク回避が教師向けTAMを拡張する（Dai et al. 2026）。
@@ -167,10 +166,9 @@ TAMの認知的焦点は、AI使用の感情的・関係的次元も捉えきれ
 - [[capability-decision-model-teacher-readiness-2026]] — TPACK能力を計画行動理論の受容モデルに後付けするやり方に代わる、順序づけられた代替モデル
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — 49の教育システムにわたる、知覚されたAIの有用性とリスクに関するTALIS 2024の個人中心プロファイル
 - [[genai-learning-procrastination-planned-behavior-2026]] — GenAI支援学習における先延ばしを測定し、意図–遅延の結びつきに対する不安の調整効果を扱うTPBの拡張
-- [[kim-overtrust-ai-literacy-2026]] - 動機づけと自己効力感からAIへの過信に至る経路を性能期待が媒介した。
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - 自己効力感と受容の間の媒介変数としてのAIリテラシー。不安との関連は補正されていない（İşbulan et al. 2026）
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAMとタスク–技術適合の接合、加えてニューラルネットワークによる重要度ランキングと必要条件の閾値（Chu & Liu 2026）
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — TAMの信念の上流に置かれた設計特徴と、必要性を伴わない重要性
 - [[pinedo-genai-adoption-marketing-students-2026]] — すでに受容が進んだ集団ではUTAUT2を習慣が担う。
 - [[stalboerger-faculty-perceptions-2026]] — 教員22名、追跡調査12名：慣れが一部の者の倫理的吟味を厳格化し、使いやすさの作用方向を逆転させた（Stalboerger et al. 2026）。
 - [[reding-discussion-boards-tam-ai-analytics-2026]] — ディスカッションボードに関する学生の知覚：AIを活用したラーニングアナリティクス設計に資する技術受容モデル研究
+- [[ai-conversational-interfaces-information-seeking-2026]] — チャットボットは、回答が特定の担当者名である場合を除き、プログラムに関する質問にウェブサイトよりも迅速かつ正確に回答した

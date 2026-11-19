@@ -135,4 +135,4 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[webb-davies-voice-first-written-assessment-2026]] — A two-stage written assessment that secures reasoning under observation before grading a home-written submission, with a conditional viva for unclear links (Webb-Davies, Ratner & Bassett 2026)
 - [[black-box-assessment-winstone-2026]] — Black Box Assessment: process windows, error as evidence, and integrity through visibility (Winstone, Gravett & Elkington 2026)
 - [[francis-pace-framework-genai-assessment-2026]] — PACE: scoring process on a four-level agency scale (Francis et al., 2026)
-
+- [[performance-without-capability-genai-assessment-validity-2026]] — A two-dimension framework (cognitive responsibility, process visibility) explaining why visible process can still document substitution

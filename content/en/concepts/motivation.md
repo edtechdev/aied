@@ -138,3 +138,4 @@ Motivation is the parent construct of [[self-determination-theory|self-determina
 - [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Matched-quality AI and instructor feedback, with the motivational gap running through relatedness (Liu et al. 2026)
 - [[pan-generative-ai-student-motivation-sdt-review-2026]] - SDT-guided review of 39 studies: needs and engagement measured often, motivational regulation almost never
 - [[mekheimer-motivation-ethics-trust-efl-2026]] — Use frequency as the sole significant predictor of motivation in a 12-week EFL study
+- [[motivational-gain-trumping-cognitive-offloading-2026]] — AI dependence and motivation carry equal and opposite effects on critical thinking, leaving a small net gain (MASEM, 31 studies, 16,357 learners)

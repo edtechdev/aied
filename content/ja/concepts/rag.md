@@ -78,7 +78,6 @@ RAGは[[llm]]のファインチューニングと相補的な役割を果たし�
 - [[ai-technologies]] — 包括的概念: AI技術と手法（モデル、LLM訓練、ロボティクス、RAG、エージェント型）
 
 ## 関連する記事
-
 - [[beznosko-local-ai-rag-physics-oer-2026]] — RAGを備えたローカルAIによるオープン教育教材生成を用いた物理教育へのアプローチ（Beznosko et al., 2026）
 - [[hughes-rag-ai-feedback-implementation-2026]] — RAGは2つの大学院コホートにおいて、知覚されたフィードバックの質と有用性を高めたが、実行可能性は高めなかった
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — カリキュラムに根拠づけた授業準備アシスタントだが、その時間節約効果は汎用チャットボットを上回らなかった
@@ -94,3 +93,4 @@ RAGは[[llm]]のファインチューニングと相補的な役割を果たし�
 - [[wiki-llm-indexing-ml-classes-2026]] — Wiki LLMインデクシングの活用による機械学習の授業における学習向上の可能性
 - [[on-premises-rag-tutoring-business-education-2026]] — ビジネス教育のためのオンプレミス型マルチコースRAGチュータリング
 - [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — 導入作業としてのインデックスのキュレーションと検索範囲の設定
+- [[ai-multifactorial-virology-lab-teaching-2026]] — ウイルス学研究室における知識グラフ＋グラフ依拠型アシスタントと適応的ルーティング：理論試験＋11.4点、d = 1.39

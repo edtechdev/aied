@@ -118,7 +118,6 @@ Ein interdisziplinärer systematischer Review aus dem Jahr 2026 (Dabaghi, D'Urso
 
 ## Verbundene Artikel
 - [[genai-learning-motivation-meta-analysis-2026]] — Metaanalyse der Wirkung von GenAI auf die Lernmotivation, mit einem Prädiktionsintervall von Schaden bis Nutzen
-
 - [[typology-generative-ai-tools-education-2026]] — Typologie der Werkzeuge Generativer KI für die Bildung
 - [[generative-ui-education-learning-interactives-2026]] — Generative UI für die Bildung nutzen: maßgeschneiderte Lern-Interaktive
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluierung eines scaffolding-orientierten Multi-Agenten-Systems großer Sprachmodelle für das Training klinischer Interviews
@@ -140,3 +139,4 @@ Ein interdisziplinärer systematischer Review aus dem Jahr 2026 (Dabaghi, D'Urso
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluierung vortrainierter Modelle zur pädagogischen Beurteilung neuartiger KI-unterstützter Bildungsfragen
 - [[bicer-genai-pd-math-creativity-2026]] — Eine von GenAI begleitete mathematische Fortbildungs-Fallstudie mit acht Lehrkräften im Beruf in ländlichen Gebieten
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Gepooltes g = 0,819, unter PET-PEESE auf 0,378 fallend; eigene Werkzeuge (0,455) blieben hinter Chatbots (0,970) zurück
+- [[idea-model-doctoral-education-genai-2026]] — Promovierende gestalten ihre eigenen Kurse neu: 76,5 % behielten eine Kursneugestaltung bei, 73,5 % nutzten beim Follow-up weiterhin AI-gestützte Praxis

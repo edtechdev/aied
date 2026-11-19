@@ -149,9 +149,7 @@ pedagogy: [tpack]
 - [[microbit-robotics-machine-learning-teacher-training-2026]] — 初期の教師訓練における Micro:bit ロボティクス
 - [[aaiwa-ai-authentic-assessment-metacognition-2026]] — 養成前段階の教育における AI を介した本物の評価
 - [[science-educators-ai-literacy-postqualification-2026]] — 理科教育者の AI リテラシーと資格取得後のプログラム
-
 - [[context-based-ai-secondary-chemistry-2026]] — 中等化学における文脈基盤型の7E と AI の指導
-
 - [[educasim-cs1-instructional-practice]] — EducaSim:CS1 の教育実践のための対話的なシミュラクラ
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — 養成前段階の教師の ChatGPT 受容のプロファイル
 - [[motivation-shape-future-education-ai-switzerland-china]] — AI とともに教育の未来を形づくる動機づけ
@@ -159,7 +157,6 @@ pedagogy: [tpack]
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model:認知的媒介者としての AI
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB モデル:GenAI による構成的な教授設計
 - [[riandi-teacher-ai-green-energy-education-2026]] — グリーンエネルギー教育への AI 統合における教師の関与(Riandi 他 2026)
-
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — 教師教育における GenAI の利用、倫理、政策の縦断的変化(Parker 他 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — 数学における M.Ed. の教授設計の熟達を改善するスマート教室モデルと D-T-E のループ(Zhu 他 2026)
 - [[li-language-educators-genai-review-2026]] — GenAI と歩みをともにした言語教育者の実践と発展
@@ -168,12 +165,10 @@ pedagogy: [tpack]
 - [[teachers-collaborative-evaluation-ai-content-2026]] — 専門能力開発としての AI が生成した内容の教師による協働的な評価(Gat, Usher & Barak 2026)
 - [[ai-training-science-teacher-tpack-distance-2026]] — 186人の理科の学生教師の AI 関連の TPACK と訓練の水準のキャンパス対遠隔の比較
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — 一学期にわたるリテラシーのエスノグラフィにおいて AI の境界を築く養成前段階の教師を跡づける
-
 - [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — 足場かけのない genAI は養成前段階の教師の授業計画の質を genAI なしの授業を下回らせた
 - [[capability-decision-model-teacher-readiness-2026]] — 自信ではなく能力を測ること
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — 教師自身の内省的な調整を学習者の主体性に結びつけるヒュータゴジーの二層モデル
 - [[packard-thinking-partner-framework-adult-learners-2026]] — 一次的なAI研究を読み、地区の義務を争うことを学ぶK-12の教師
-
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 学習者としての養成前段階の教師：エネルギーについて意見が分かれた集団はAIを概念的議論の中心にし、一致した集団は調べ物として扱い、能動的な促しを嫌った（Wang ら 2026）
 - [[webb-pck-genai-2026]] — モデルが新人の薄い PCK を増幅する理由と、処方が AI リテラシー教材ではなく集合的である理由（Webb ら 2026）
-
+- [[idea-model-doctoral-education-genai-2026]] — 博士課程の学生が自らの担当科目を再設計する:76.5%が科目の再設計を維持し、73.5%が追跡調査時点でもAI支援の実践を使用し続けていた

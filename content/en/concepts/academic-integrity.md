@@ -277,4 +277,5 @@ What resists a capable model is narrower than the AI-proofing literature implies
 - [[wyszynski-genai-user-input-engineering-statics-2026]] — Examining Student Use of Generative AI Through User-Input Data in an Engineering Statics Course
 - [[burke-ai-proliferation-college-students-replication-2026]] — Two-year replication across five universities: cheating perception down 14 points while 30.2% of self-identified cheaters still use AI
 - [[mingole-ai-proofing-higher-education-assessments-2026]] — AI-proofing strategies benchmarked: only added complexity resisted (Mingole et al., 2026)
-
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — Habit, not intention, predicts students asking people for help less often: 49.6% report less human help-seeking, β for habit 0.711 vs. intention 0.039
+- [[performance-without-capability-genai-assessment-validity-2026]] — A two-dimension framework (cognitive responsibility, process visibility) explaining why visible process can still document substitution

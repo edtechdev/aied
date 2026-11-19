@@ -143,3 +143,4 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Ten chatbot studies targeting executive functions
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
 - [[fang-chatbot-psychosocial-extended-use-2025]] — Text, neutral voice and engaging voice over four weeks: modality changed the exchange, not the psychosocial outcome (Fang et al. 2025)
+- [[ai-conversational-interfaces-information-seeking-2026]] — Chatbot answered program questions faster and more accurately than the website, except where the answer was a named contact

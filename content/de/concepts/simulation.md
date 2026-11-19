@@ -140,3 +140,4 @@ Das Rahmenwerk reist als Test, nicht als Katalog. Drei Fragen entscheiden jede F
 - [[herrera-alcaino-simulation-curricular-coherence-2026]] — Von der Technologieadoption zur curricularen Kohärenz: technologiegestützte Simulation als Brücke in der Gesundheitsberufsbildung
 - [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — Was eine Lehrkraft nicht an einen konversationellen Agenten über den Simulationszyklus hinweg delegieren kann
 - [[tischkau-ai-simulated-patient-formats-2026]] — Ein LLM-Patient in moderierten Gruppen- und Einzel-Laptop-Formaten: etwa US\$2 pro Studierendem pro Sitzung, kein nachweisbarer Unterschied in den Bewertungen der Lernenden (Tischkau et al. 2026)
+- [[ai-multifactorial-virology-lab-teaching-2026]] — Wissensgraph plus graphgestützter Assistent und adaptives Routing in einem Virologielabor: Theorieprüfung +11,4 Punkte, d = 1,39

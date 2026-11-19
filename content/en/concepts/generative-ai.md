@@ -127,3 +127,4 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[bicer-genai-pd-math-creativity-2026]] — A GenAI-guided mathematics PD case study with eight rural in-service teachers
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Pooled g = 0.819 falling to 0.378 under PET-PEESE; custom tools (0.455) underperformed chatbots (0.970)
+- [[idea-model-doctoral-education-genai-2026]] — Doctoral candidates redesign their own courses: 76.5% sustained a course redesign, 73.5% still using AI-supported practice at follow-up

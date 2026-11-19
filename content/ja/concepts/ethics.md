@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-15T05:36:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -130,9 +130,7 @@ ai_assist:
 - [[biology-education]] — 生物教育とAI：実験のティーチングアシスタント、生物学におけるAIリテラシー、批判的思考、専門化されたツール
 
 ## 関連記事
-
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — 不正行為の枠組みではなくパートナーシップ倫理が機関のGenAI判断を導くべきだと論じるスウェーデンの調査・フォーカスグループ研究
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 対処の枠組みが教えられなかったところで倫理的意識がAI不安を増幅させた：584人の学生における間接効果のみの媒介
 - [[learning-analytics-to-educational-interventions-2026]] — ラーニングアナリティクスから教育的介入へ：信頼できるLAに基づく介入の実現要因（Svetec, Divjak & Kadoić 2026）
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 学生がオンライン評価でAIをどう使い隠すか
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 学生によるAI開示、汚名、自己調整学習
@@ -160,5 +158,5 @@ ai_assist:
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — 誰が行為し、誰が知り、誰が答えるのか。生成AI高等教育研究における主体性・認識論的責任・説明責任のコーパス支援談話分析
 - [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — 倫理的意識、省察、報告された責任ある実践は、三つの年次波にわたってほぼ独立に成長した(Ayanwale et al. 2026)
 - [[qi-information-ethics-ai-judgment-2026]] — 情報倫理の教育と大学生のAI倫理的判断
-
 - [[pal-ethically-aware-learning-ai-classroom-2026]] — AIを活用した教室における倫理的意識を備えた学習
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — 倫理教育は効果がある(g = 0.55)が、効果が出るのは討論形式の実施であり、講義のみの実施では効果が出ない

@@ -141,7 +141,6 @@ ai_assist:
 - [[oral-assessment]] — 個人能力の証拠としての学位審査、口頭試問、口頭での確認
 
 ## 関連する記事
-
 - [[genai-medical-education-transformation-review-2026]] — 入学から実務までの医学学位を横断する153件の報告。追跡ありが13件、患者レベルの成果はなし
 - [[packard-thinking-partner-framework-adult-learners-2026]] — 大学院研究方法におけるソクラテス的対話の記録。6学期でチェックポイント完了率96%
 - [[issa-teamwork-framework-academic-integrity-2024]] — 大学院ビジネス科目での監督下チームワーク。成績は40点中27から31へ上昇、不正行為の件数は欠落
@@ -157,3 +156,4 @@ ai_assist:
 - [[guanilo-pareja-genai-doctoral-supervision-2026]] — 博士課程の研究指導に関する61件の資料のレビュー。課題に基づく倫理、比例した開示、マイルストーンでのガバナンス
 - [[chen-genai-self-directed-learning-graduate-seminar-2026]] — 単一群のセミナー。自己主導的学習が80.62から87.38へ上昇、対応づけられた記録は8件
 - [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 大学院生は倫理と自律性で学部生を上回る（d = 1.47）。使用頻度は能力を予測せず
+- [[idea-model-doctoral-education-genai-2026]] — 博士課程の候補生が自らの担当コースを再設計：76.5%がコース再設計を維持し、73.5%が追跡調査時点でもAI支援の実践を継続使用

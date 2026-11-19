@@ -133,7 +133,6 @@ Studierendenunterstützung verbindet sich mit [[student-experience|Erleben der S
 - [[rct]] — das Design hinter der stärksten Evidenz hier
 
 ## Verbundene Artikel
-
 - [[cefa-ai-learner-support-review-2026]] — 61-Studien-Review zu KI-gestützter Lernendenunterstützung: adaptive Systeme und Vorhersage dominieren; Übergangsphase und vielfältige Lernende fehlen
 - [[mata-sustaining-ai-enabled-student-support-2026]] — vierjährige randomisierte Evaluation eines Unterstützungs-Chatbots an einer Hochschule: der Aufgabenabschluss bewegte sich, Studienabschluss und GPA nicht
 - [[chatbot-outreach-course-performance-2026]] — vorregistrierter Outreach-Versuch über mehrere Semester: höhere A/B-Raten, bescheidene DFW-Verschiebungen, eine demografische Ausnahme
@@ -159,5 +158,5 @@ Studierendenunterstützung verbindet sich mit [[student-experience|Erleben der S
 - [[credentials-carry-evidence-ai-agents-2026]] — was ein Abschlussnachweis bedeutet, wenn ein Agent die Arbeit erledigen kann
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — KI-gestütztes Schummelrisiko früh vorhersagen und den Schwellenwert-Kompromiss bei Outreach mit geringer Relevanz
 - [[rienties-institutional-ai-assistant-co-design-2026]] — Fünf Co-Design-Studien zu einem institutionellen KI-Studienassistenten: Verfügbarkeit zuerst, wertebasierter Widerstand zuletzt
-
 - [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — From Queries to Conversations: Exploring AI-Based Virtual Assistant Adoption, Usability, and Impact in Engineering Education
+- [[ai-conversational-interfaces-information-seeking-2026]] — Chatbot beantwortete Fragen zum Programm schneller und genauer als die Website, außer wenn die Antwort eine namentlich genannte Kontaktperson war

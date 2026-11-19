@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-16T05:36:00-05:00"
+updated: "2026-11-19T10:16:37-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -101,6 +101,11 @@ Ethics connects to [[equity-in-ai-education|equity]], [[privacy|privacy]], [[bia
 - **"Faculty and students agree about what is ethical."** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç and Sever (2026)]], a [[mixed-methods-research|mixed-methods]] study of **971 students and 135 faculty**, finds the ethical dimensions diverge between the groups. A policy written from one perspective will misstate the other.
 - **"Ethical consensus precedes use."** **Adoption outpaces ethical agreement**: across four semesters in a US teacher-education program, students' GenAI use **climbed from 57% to 83% for assessment preparation**. The norms are being formed by practice rather than the reverse.
 
+## Does ethics teaching work at all
+
+AI ethics instruction is often justified by an assumption nobody tests: that [[ethics|ethics education]] changes anything. A 2024 systematic review and meta-analysis of 66 studies and 9,978 students is the best available test of that assumption in education generally. Ethics interventions raised ethical and moral outcomes by g = 0.55 against control conditions, and 73% of true effects exceeded the pre-registered helpful threshold — but **the delivery format carried the moderation**: discussion-based and discussion-plus-didactic formats worked (g = 0.56 and g = 0.68), while lecture-only instruction did not differ from zero (g = 0.10). Online delivery was indistinguishable from in-person.([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]])
+
+The transfer to AI ethics is an inference rather than a finding of that study, but it is a strong one: an AI ethics module delivered as a lecture about bias and integrity is, on this evidence, the weakest available format.
 ## Connected Concepts
 
 - [[business-education]]
@@ -153,3 +158,4 @@ Ethics connects to [[equity-in-ai-education|equity]], [[privacy|privacy]], [[bia
 - [[qi-information-ethics-ai-judgment-2026]] — Information ethics education and artificial intelligence ethical judgment among university students
 
 - [[pal-ethically-aware-learning-ai-classroom-2026]] — Ethically Aware Learning in an AI-Enabled Classroom
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — Ethics instruction works (g = 0.55), but discussion-based delivery does and lecture-only delivery does not

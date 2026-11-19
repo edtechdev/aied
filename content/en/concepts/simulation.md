@@ -126,3 +126,4 @@ The framework travels as a test rather than a catalog. Three questions decide an
 - [[herrera-alcaino-simulation-curricular-coherence-2026]] — From technology adoption to curricular coherence: technology-enhanced simulation as a bridge in health professions education
 - [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — What a teacher cannot delegate to a conversational agent across the simulation cycle
 - [[tischkau-ai-simulated-patient-formats-2026]] — One LLM patient in facilitated group and solo laptop formats: about US\$2 per student per session, no detectable difference in learner ratings (Tischkau et al. 2026)
+- [[ai-multifactorial-virology-lab-teaching-2026]] — Knowledge graph plus graph-grounded assistant and adaptive routing in a virology lab: theory exam +11.4 points, d = 1.39

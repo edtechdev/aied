@@ -166,3 +166,4 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - [[stalboerger-faculty-perceptions-2026]] — 22 faculty, 12 follow-ups: familiarity hardened ethical scrutiny for some, reversing the ease-of-use direction (Stalboerger et al. 2026)
 
 - [[reding-discussion-boards-tam-ai-analytics-2026]] — Student Perceptions of Discussion Boards: A Technology Acceptance Model Study to Inform AI-Enabled Learning Analytics Design
+- [[ai-conversational-interfaces-information-seeking-2026]] — Chatbot answered program questions faster and more accurately than the website, except where the answer was a named contact

@@ -164,3 +164,4 @@ Because a model amplifies whatever personal PCK a teacher already holds, novices
 - [[packard-thinking-partner-framework-adult-learners-2026]] — K-12 teachers learning to read primary AI research and contest district mandates
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Pre-service teachers as the learners: groups that disagreed about energy made the AI a center of conceptual talk, groups that agreed treated it as a lookup and resented proactive nudges (Wang et al. 2026)
 - [[webb-pck-genai-2026]] — Why a model amplifies a novice's thin PCK, and why the remedy is collective rather than an AI-literacy module (Webb et al. 2026)
+- [[idea-model-doctoral-education-genai-2026]] — Doctoral candidates redesign their own courses: 76.5% sustained a course redesign, 73.5% still using AI-supported practice at follow-up
