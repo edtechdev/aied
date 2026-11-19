@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-16T05:34:55-05:00"
+updated: "2026-11-19T09:45:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -57,6 +57,8 @@ Key findings:
 - **Metacognitive laziness.** The field names a distinct failure mode in which learners abdicate their metacognitive responsibilities to the tool — adopting the term *metacognitive laziness* for the resulting illusion of competence, and warning that its cognitive risks fall hardest on novices and weaker self-regulators ([[lodge-loble-cognitive-offloading-2026|Lodge & Loble (2026)]]).
 
 Fluency is why the loss goes unnoticed. Learners judge their learning partly from how easily material is processed, and Bjork et al. (2013) show that fluency cues lead people to overestimate their understanding when content feels easy; fluent AI-generated text supplies that feeling whether or not comprehension followed, creating the conditions for a manufactured illusion of competence. [[generativism-learning-theory|Generativism]] treats this as the reason adaptive metacognition cannot be assumed: the learner has to ask whether ease of reading reflects understanding rather than reading the ease as the answer.
+
+The mechanism has a direct GenAI test. Holding content constant and manipulating only explanation fluency, Zhang (2026) found judgments of learning at 70.79% against 61.00% for conventional text while performance stayed flat, and a three-minute unaided retrieval cut the fluency–JOL slope from 9.13 to 1.65 ([[zhang-processing-fluency-genai-metacognitive-judgments-2026|Zhang, 2026]]).
 
 **Awareness does not guarantee that completion stops.** [[metacognitively-discordant-completion-genai-2026|Jia (2026)]] names *metacognitively discordant completion*: a learner who invested real effort, holds a formed first-person verdict that understanding has not arrived, and releases the work anyway — the case the fluency-illusion and withdrawn-effort accounts both assume away.
 

@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-11-16T09:58:00-05:00"
+updated: "2026-11-19T09:45:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -52,6 +52,8 @@ Beyond proctoring, AI use itself generates anxiety — about being replaced, abo
 
 
 That reframing has a boundary in speaking: among 708 [[multilingual-learning|English learners]], the speaking-anxiety–willingness link ran −0.371 at low speaking self-efficacy but +0.137 at high, with only 55 participants (7.8%) above the upper Johnson–Neyman threshold ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
+
+- **A second interaction, in the opposite direction.** Among 898 Chinese and Malaysian university students, the self-efficacy-to-willingness slope was 0.24 at low speaking anxiety and 0.52 at high, so efficacy converted into willingness more readily as anxiety rose ([[chen-human-ai-conversation-l2-willingness-to-communicate-2026|Chen & Wang, 2026]])..
 - [[acceptance-ai-english-tools-2026|Acceptance studies]] show anxiety shapes whether learners adopt AI tools, and [[teacher-education-ai-literacy-sdt-2026|teacher-education research]] links AI anxiety to motivation and [[self-regulated-learning|self-regulation]].
 - **The disclosure dilemma.** In a survey of 409 undergraduates, comfort with instructors and perceived peer disclosure — not moral disengagement — were the strongest predictors of disclosing GenAI use, and non-disclosure read as strategic adaptation to peer norms and low interpretive trust rather than negligence ([[qu-wang-disclose-or-not-genai-2026|Qu & Wang (2026)]]).
 - [[aivaluate-anxiety-assessment-2026|AIvaluate]] studies student anxiety during AI-mediated [[assessment|performance-based assessments]], showing assessment anxiety persists and must be designed for.

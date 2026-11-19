@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-19T09:45:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -66,6 +66,8 @@ The agent's surface is a separate design axis from its pedagogy. [[ai-avatars-an
 - **A deployed inquiry-cycle companion that initiates rather than waits.** In a 710-student secondary STEM deployment, an AI learning companion structured five phases — Engagement, Hypothesis, Experiment, Analysis and Reflection — offered guidance on its own schedule, and kept every LLM-generated item behind teacher approval ([[anagnostopoulou-ai-companion-stem-self-efficacy-2026|Anagnostopoulou et al., 2026]]). All outcomes were self-reported at one time point, so the design is documented rather than shown to work.
 
 - Lan and Chen (2026) propose splitting a teacher-authored agent into five layers, pedagogical design, interaction, capability, orchestration and governance, pairing each teacher decision with the mechanism that executes it, and stipulate that revision returns to the affected layer: the runtime cannot authorize its own correction ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
+
+- **What role a corpus of agents actually fills:** across 25 studies of generative agents in education for sustainable development, 44 role assignments were coded — dialogic tutor in 16, instructional co-designer in 12, scenario generator in 7 — and the dilemma interlocutor, where the system sustains deliberation over a value conflict, appeared in one ([[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez et al., 2026]]).
 
 ## Practical guidance
 

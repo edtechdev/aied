@@ -1,7 +1,7 @@
 ---
 title: Automation Bias
 created: "2026-11-04T18:28:28-05:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-19T09:45:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -89,6 +89,8 @@ Two papers argue the counterweight is a disposition rather than a rule. [[assess
 ### When the bias is named as a risk rather than measured
 
 A large share of the literature lists automation bias in a threat model without testing it, and the distinction matters for how much weight the concept can carry. [[ahmadfard-interactive-oer-review-2026|The interactive OER review (2026)]] includes it among recurring risks that erode learner and teacher agency, listed rather than measured. [[alshahrani-health-sciences-ai-use-2026|The health-sciences survey (2026)]] reads 310 students' [[ethics|ethical]] concerns as a case for [[professional-training|professional training]] that covers automation bias explicitly. [[ai-literacy-legal-translation-2026|The legal-translation study (2026)]] asks for post-editing and verification to be taught as graded skills, naming the automation-bias and illusion-of-quality pressures that make mistranslations easy to miss. [[morales-cevallos-ai-forensic-science-education-2026|The forensic-science review (2026)]] finds automation bias documented in its included studies and proposes case-based exercises built from reported failures. [[rana-genai-design-thinking-2025|The design-thinking study (2025)]] turns it into a design requirement: [[scaffolding|scaffolds]] that keep human judgment at the center, countering both offloading and automation bias.
+
+A different bias sits in the output rather than the user. In Esmeraldas, Ecuador, 90 educational and community actors described image tools altering Afro-Ecuadorian participants' skin tone, hair texture and facial features, one calling it "a form of racism, even if it is digital" — representational harm that no accuracy metric registers ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 
 ## Where the evidence is thin, mixed, or reversed
 

@@ -6,8 +6,27 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-18
-**Total backlog:** 26 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-19
+**Total backlog:** 29 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-19)
+
+Ingested seven papers from full text: five Frontiers journal articles, one Discover Education case
+study, and one arXiv preprint. Three
+records cleared the significance screen but their full text could not be retrieved — the publishers
+answer automated requests with a bot wall — so they await a supplied PDF:
+
+- Motivational gain trumps cognitive offloading: a MASEM study on the net positive effect of AI use
+  on critical thinking (*Smart Learning Environments*, 2026) —
+  [DOI: 10.1186/s40561-026-00477-7](https://doi.org/10.1186/s40561-026-00477-7) — Springer Nature
+  Link served the abstract and reference list only.
+- Reconstruction and practice of an AI-enhanced multifactorial teaching model for virology laboratory
+  testing (*BMC Medical Education*, 2026) —
+  [DOI: 10.1186/s12909-026-10835-1](https://doi.org/10.1186/s12909-026-10835-1) — abstract page only,
+  PDF endpoint blocked.
+- AI-Powered Conversational Interfaces in Higher Education: An Experimental Comparison of Chatbots and
+  Traditional Websites for Information Seeking (*Education Sciences*, 2026) —
+  [DOI: 10.3390/educsci16111966](https://doi.org/10.3390/educsci16111966) — MDPI returned Access Denied.
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-18)
 
