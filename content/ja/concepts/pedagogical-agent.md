@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,8 @@ ai_assist:
 - **待つのではなく自ら働きかける、実導入された探究サイクル・コンパニオン。** 710名の生徒を対象とした中等教育STEMでの導入において、AI学習コンパニオンはEngagement、Hypothesis、Experiment、Analysis、Reflectionの5つの段階を構造化し、自らのスケジュールでガイダンスを提供し、LLMが生成する項目はすべて教師の承認を経る仕組みとした（[[anagnostopoulou-ai-companion-stem-self-efficacy-2026|Anagnostopoulou et al., 2026]]）。すべての成果は一時点での自己報告であり、示されているのは設計の記述であって、効果の実証ではない。
 
 - LanとChen（2026）は、教師が作成するエージェントを、教授設計、インタラクション、能力、オーケストレーション、ガバナンスの5つの層に分割することを提案し、教師の各判断をそれを実行する仕組みと対応づけるとともに、修正は影響を受けた層に立ち返ることを規定している。すなわち、ランタイムは自らの修正を承認できない（[[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]）。
+
+- **エージェントの集合体が実際に担う役割：** 持続可能な開発のための教育における生成的エージェントの25研究では、44の役割割り当てがコード化されました — 対話的チューターが16、教授設計の共同設計者が12、シナリオ生成者が7 — そして、価値の対立をめぐる熟慮をシステムが支え続けるジレンマの対話者は1件に現れました（[[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez et al., 2026]]）。
 
 ## 実践的な指針
 

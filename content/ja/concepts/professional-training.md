@@ -10,7 +10,7 @@ pedagogy: [lifelong-learning]
 audience: [instructors, administrators, learners]
 level: [adult learning, higher ed]
 confidence: high
-source_updated: "2026-11-14T21:52:00-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_of: concepts/professional-training
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -42,6 +42,7 @@ ai_assist:
 [[ai-coaching-rl-skill-development|Wang et al. (2026)]] はコーチング方策についての教訓を加える。学習者の推定有能度に応じて支援を漸減させると、シミュレータのラップタイムが27.9%（p = 0.005）短縮し、失敗が1ラップあたり3.52件減少したが、固定スケジュールによるルールベースの漸減ではラップタイムに信頼できる変化は生じなかった。
 - **任意参加のテキストのみのリハーサルは何も動かさなかった。** 初めての標準化模擬患者の授業前にGPT-4o患者を提供された医学部1年生201名のうち、使用したのは49名であり、緊張感、準備度、[[self-efficacy|自己効力感]]、自己知覚的な有能感は対照群84名と差がなかった。理由を述べた非使用者19名のうち6名が技術上またはログインの問題を挙げた（[[jongkind-genai-patient-medical-communication-2026|Jongkind et al. (2026)]]）。
 - **共感のリハーサルは均等には転移しない。** 役割プロンプトを与えたGPT-4oとの1回の対話により、医学生162名の自己評価によるコミュニケーション能力がd = 0.58上昇したが、対照群はなかった（[[muller-role-prompted-gpt-empathetic-communication-2026|Müller et al. (2026)]]）。また17件の研究のレビューでは、自信の向上が共感そのものの証拠よりはるかに多く見られた（[[ismail-affective-domain-ai-healthcare-review-2026|Ismail and Zafira (2026)]]）。[[empathy]] はその証拠と、その背後にある測定の問題をまとめている。
+- **制約された単発のワークショップは、制約とは何かを示す。** イランの教員と大学院生は2日間のワークショップで文法ドリル、IELTSのプロンプト、AIとのロールプレイ会話を作り上げ、制裁によって制限されたプラットフォーム、都市と農村の接続格差、試験主導の評価を決定的な制約として挙げた（[[isaee-ai-efl-teacher-development-workshop-2026|Isaee et al., 2026]]）。
 - **生涯学習との統合：**[[lifelong-learning|生涯学習]]と[[adult-learning|成人学習]]の[[research-methods-aied|研究]]は、専門職訓練を継続教育に結び付ける。
 - **答えるのではなく熟考するために作られたエージェント。** [[cowhitt-deliberative-instructional-agents-2026|Cowhitt and Gibson (2026)]] は、教員の専門的学習のための指導エージェントを設計した。これは答えを与えず、教員に判断の理由づけを迫るもので、8つのクラスターにわたる33の熟考コードから導かれている。
 - **公共部門：**[[ai-adoption-training-public-sector|公共部門におけるAI導入]]は、政府の文脈における訓練を検討する。

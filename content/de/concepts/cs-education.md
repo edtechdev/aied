@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,7 @@ ai_assist:
 
 - **Übernahme folgt der Aufgabe, nicht dem Teilgebiet.** Über sieben Aufgaben und 211 Studierende hinweg maßen [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] LLM-Nutzung von 89,6% in Algorithmen bis 15,2% in Softwaretechnik und schrieben die Streuung Aufgabenkomplexität, Verifizierbarkeit und Gerüstbau zu statt dem Fach selbst.
 - **Feedback kann so gestuft werden, dass die Diagnose verborgen bleibt.** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]] trennen eine artefaktgegründete Diagnose des Datenbankschemas einer oder eines Studierenden vom Arbeitsablauf, der sie freigibt, wobei Lehrende die Stufen verfassen; über 383 Episoden hinweg erreichten 71,1% des Feedbacks sein Zielniveau.
+- **Siebzehn Typen von Anforderungsfehlern, gezählt über 211 Teams.** Priorisierungsfehler führten (81 % der Bachelor-Teams), und ein einziger Zero-Shot-GenAI-Prompt erreichte oder übertraf die Teams bei Umfang, Story-Format, Prioritäten und Aufwand ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]]).
 
 ### Programmierpädagogik: von Blöcken zu verkörpertem, spielbasiertem Lernen
 
@@ -112,6 +113,7 @@ Weil Programmierung der Ort ist, an dem KI-Unterstützung am mächtigsten ist, s
 ### Gerechtigkeit, Kultur und wer ins Computing kommt
 
 - **Teilhabe verbreitern:** [[suacode-african-students-motivations|SuaCode]] dokumentiert Motivationen für smartphonebasiertes Codieren unter afrikanischen Studierenden (weniger als 1% der Sekundarschulabgängerinnen und -abgänger haben fundamentale Codefähigkeiten) und informiert zugängliche KI-unterstützte MOOCs für [[equity-in-ai-education|ressourcenarme Kontexte]].
+- **KI-freie Zugangshürden, KI-zuerst-Arbeit.** [[ai-free-gates-engineering-students-india-2026|Goutham und Gu (2026)]] interviewten 23 indische Ingenieurstudierende: Alle bis auf eine Person nutzten KI für Einstellungstests, die sie ausschlossen, während Arbeitgeber sie verlangten, sodass die gefilterten Noten weniger zertifizieren.
 - **Neurodivergenz und Kollaboration:** [[neurodivergent-computing-students|Neurodivergente Informatikstudierende]] berichten Unbehagen mit mehrdeutigen Kollaborationsstrukturen; strukturierte Aufgaben, kleinere konstante Teams und explizite Rollen verbessern [[accessibility|Barrierefreiheit]] — Designlektionen für die KI-Werkzeuge, die in Informatikklassenzimmer einziehen.
 - **Kultur prägt wahrgenommene Ethik:** [[cross-cultural-student-perceptions-genai-computing|Kanadische vs. südkoreanische Informatikstudierende]] beurteilten identische KI-unterstützte Codingpraktiken unterschiedlich, trotz funktional identischer Richtlinien — Politikharmonisierung erzeugt keine Wahrnehmungsharmonisierung, ein [[academic-integrity|akademisches Integritäts-]] und [[equity-in-ai-education|Gerechtigkeitsanliegen]].
 - **Kollaborations[[explainable-ai|transparenz]]:** [[student-perception-ai-use-collaboration|Graf et al.]] finden, dass fehlabgestimmte Überzeugungen der Partnerinnen und Partner über die KI-Nutzung der jeweils anderen niedrigere Projektnoten vorhersagen, besonders bei leistungsschwächeren Studierenden — Transparenzmechanismen (Offenlegungen, geteilte Logs) könnten in kollaborativer Programmierung nötig sein.
@@ -146,9 +148,9 @@ Informatikbildung verbindet sich mit [[computational-thinking|Computational Thin
 
 ## Verbreitete Fehlvorstellungen
 
-- **„Studierende, die mit KI pair-programmieren, lernen Programmieren."** Beim gemeinsamen Programmieren von Studierenden mit KI stützten sich **fast 80% der Interaktionen auf nicht-lernfördernde Strategien wie das Auslagern von Antworten**, und nur **etwa jede neunte zeigte tiefes epistemisches** Engagement. Das dominante Muster ist das Handeln auf Ausgabe.
-- **„Konversationelle Agenten für Anfängerinnen und Anfänger gründen in Lerntheorie."** **Nur 4 von 23 Studien gründen ihr Design in [[learning-theories|Lerntheorie]]**, sodass die meisten der Evidenzbasis dokumentieren, was ein System tat, ohne eine Theorie dafür, warum es wirken sollte.
-- **„Die Werkzeugliteratur spiegelt die globale Verteilung des Felds."** **17 von 23 Prototypen sind nur englischsprachig, obwohl die meiste Forschung außerhalb** englischsprachiger Kontexte entsteht. Die Prototypen bedienen eine engere Population als die Forschung.
+- **„Studierende, die mit KI pair-programmieren, lernen Programmieren.“** Beim gemeinsamen Programmieren von Studierenden mit KI stützten sich **fast 80% der Interaktionen auf nicht-lernfördernde Strategien wie das Auslagern von Antworten**, und nur **etwa jede neunte zeigte tiefes epistemisches** Engagement. Das dominante Muster ist das Handeln auf Ausgabe.
+- **„Konversationelle Agenten für Anfängerinnen und Anfänger gründen in Lerntheorie.“** **Nur 4 von 23 Studien gründen ihr Design in [[learning-theories|Lerntheorie]]**, sodass die meisten der Evidenzbasis dokumentieren, was ein System tat, ohne eine Theorie dafür, warum es wirken sollte.
+- **„Die Werkzeugliteratur spiegelt die globale Verteilung des Felds.“** **17 von 23 Prototypen sind nur englischsprachig, obwohl die meiste Forschung außerhalb** englischsprachiger Kontexte entsteht. Die Prototypen bedienen eine engere Population als die Forschung.
 
 ## Verbundene Konzepte
 

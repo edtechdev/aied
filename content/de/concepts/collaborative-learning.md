@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,8 @@ Der einzige verfügbare meta-analytische Kontrast für KI-unterstützte kollabor
 Feldweite Kartierung gelangt aus der anderen Richtung zum selben Schluss: Eine BERTopic-Analyse von 1.048 Publikationen zu KI im Online-Lernen von 2010 bis 2023 fand, dass sozial orientierte Arbeit zu KI-unterstütztem kollaborativem Lernen und Gemeinschaftsbildung nie als dominantes Thema hervortrat, was die Autoren auf ein Korpus zurückführen, das auf individueller [[learning-analytics|Lernanalyse]]-Ebene zentriert ist ([[chen-bertopic-ai-online-learning-research-topics-2026|Chen et al. (2026)]]).
 
 Ein [[meta-analysis-systematic-review|Scoping-Review]] von 18 Studien kartiert denselben Trade-off über Gruppenarbeit hinweg: GenAI unterstützte Wissensentwicklung, Ideenfindung und Kommunikationseffizienz, während es zugleich den Anspruch an Peer-Interaktion, Verhandlung und gemeinsame Sinnstiftung senkte, und randomisierte Evidenz fand mehr innovative KI-Vorschläge ohne signifikanten Gewinn in der Gesamtinnovativität der Teilnehmenden ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei und Perkins (2026)]]).
+
+Randomisierte Evidenz beziffert diese relationalen Kosten. [[nixon-social-cost-ai-teammate-2026|Nixon et al. (2026)]] teilten 33 Studierendenteams entweder zwei Studierenden plus einem KI-Teammitglied oder drei Studierenden zu; in den KI-Teams bauten die Studierenden weniger aufeinander auf (Responsivität g = −0,78) und berichteten ein geringeres Zugehörigkeitsgefühl (4,58 vs. 5,27), wobei der Rückgang dem Umfang an Redezeit folgte, die die KI einnahm.
 
 **Rollendesign ist ein Hebel auf die Qualität, nicht das Volumen, kollaborativer Wissenskonstruktion.** [[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al. (2026)]] wiesen 58 [[higher-ed|Doktorierenden]] und ihrem KI-Partner in 16 Gruppen rotierende Moderations-, Analysten- und Argumentierer-Rollen zu und fanden, dass die Struktur den *Inhalt* der Gruppen-Mindmaps fast ein volles SOLO-Band anhob (M = 3,65 auf 4,59, z = 3,771, p < 0,001), während Knoten- und Zweigzahlen flach blieben — Organisation statt Abdeckung — auf Kosten eines moderaten Anstiegs kollaborativer [[cognitive-offloading|kognitiver Last]] (p = 0,023). [[network-analysis|Lag-sequenzielle Analyse]] fügte eine Evaluations-Selbsttransition und einen Konflikt-zu-Verteidigen-Pfad hinzu, die das Werkzeug allein nicht erzeugt hatte, und positioniert [[human-ai-collaboration|Mensch-KI-Kollaboration]] als Designproblem statt als Werkzeugproblem.
 
@@ -157,6 +159,7 @@ Peer-Status wird sozial erworben. Mathematische Fähigkeit floss kaum in die Urt
 ## Verbundene Artikel
 - [[nixon-social-cost-ai-teammate-2026]] — Eine randomisierte Prüfung der relationalen Kosten: Reaktionsbereitschaft der Peers und Zugehörigkeitsgefühl sinken, wenn eine AI dem Team beitritt (Nixon et al. 2026)
 - [[lin-ai-peer-collaborative-mathematics-2026]] — Was einen LLM-Agenten als Peer lesbar macht: Sicherheit, tentatives Schlussfolgern, angemessene Unvollkommenheit
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Ein Konsens von 30 Expertinnen und Experten findet ein einseitiges soziales Risiko: Kollaborationsprozesse sind verwundbar, ohne einen Pfad zur Verbesserung
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problembasiertes und projektbasiertes Lernen als vielversprechende Frameworks für generative KI-unterstützte Bildung: Aufkommende Evidenz aus einem systematischen Review und einer Metaanalyse auf drei Ebenen
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Aufkommende Handlungsfähigkeit von Lernenden in impliziter Mensch-KI-Kollaboration: unterstützende versus konträre Personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

@@ -156,9 +156,9 @@ ai_assist:
 
 ## 次に行くべき場所
 
-- [[addressing-common-misconceptions-ai-education]]：これらの実践の背後にある信念と、見下さずにそれを正す方法。
-- [[limitations-in-aied-research]]：根拠基盤がまだ支えられないもの。
-- [[reducing-ai-misuse]]：不正利用に対する構造的なてこと、なぜそれが訓示に勝るか。
-- [[pedagogical-safety]]：チューターが、あらゆるコンテンツチェックを通り抜けながら学習者にできること。
-- [[should-we-use-ai-detectors]]：検出器の根拠の全体。
-- [[checking-whether-educational-ai-works]]：採用する前に主張をどう評価するか。
+- [[addressing-common-misconceptions-ai-education]] — これらの実践の背後にある信念と、見下さずにそれを正す方法。
+- [[limitations-in-aied-research]] — 根拠基盤がまだ支えられないもの。
+- [[reducing-ai-misuse]] — 不正利用に対する構造的なてこと、なぜそれが訓示に勝るか。
+- [[pedagogical-safety]] — チューターが、あらゆるコンテンツチェックを通り抜けながら学習者にできること。
+- [[should-we-use-ai-detectors]] — 検出器の根拠の全体。
+- [[checking-whether-educational-ai-works]] — 採用する前に主張をどう評価するか。

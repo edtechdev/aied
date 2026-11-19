@@ -7,7 +7,7 @@ foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-11-16T11:05:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -111,31 +111,26 @@ Die Literatur zum Training exekutiver Funktionen ist klein und jung. Die PRISMA-
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
 
 ## Verbundene Konzepte
-- [[rho-disengaged-conversational-behaviors-2026]] — Unbeteiligte konversationelle Verhaltensweisen in Dialogen zwischen Studierenden und KI (Rho et al. 2026)
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Nachhaltige KI-gestützte Studienunterstützung: vierjährige Implementierungs- und Wirkungsstudie eines institutionellen Chatbots (Mata, Russell & Page 2026)
-- [[usher-faraon-who-grades-best-2026]] — Vergleich von ChatGPT-, Peer- und Lehrkraftbewertung über Projektqualitätsniveaus hinweg (Usher & Faraon 2026)
-- [[llm-agents-5e-esl-grammar-2026]] — LLM-Agenten mit 5E-Framework für den ESL-Grammatikerwerb (Yang et al. 2026)
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[colbran-student-perspectives-genai-chatbots-2026]] — Perspektiven von Studierenden auf GenAI-Chatbots (Mixed Methods)
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Adoptions-Personas für KI-Chatbots
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella Review zu konversationellen KI-Agenten in der Bildung
-- [[conversational-ai-tutors-framework]] — Framework für konversationelle KI-Tutoren
-- [[measuring-llm-tutors-teach-vs-solve]] — Messung, ob LLM-Tutoren lehren oder lösen
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoringspezifische vs. allgemeine KI
-- [[rethinking-scaffolding-llm-tutors]] — Scaffolding in LLM-Tutoren neu denken
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping Review zu konversationellen Agenten für Programmieranfänger
-- [[ba-ai-agents-cscl-review-2026]] — Review zu KI-Agenten im computergestützten kollaborativen Lernen
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Geschlecht und Motivation bei GenAI-Leistung
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Rollenadaptiver KI-Begleiter für Grundschul-Buchgespräche; affektive Decke festrolliger Agenten (Liao 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI als Agent und kollaborativer Raum in Kleingruppendynamiken (Xu et al. 2026)
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — Ein KI-gestützter kulturell bewusster Chatbot zur Stresserkennung und Wellness-Unterstützung bei pakistanischen Universitätsstudierenden mit NLP und maschinellem Lernen
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring erzielen äquivalente GRE-Lernzuwächse
-- [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Zehn Chatbot-Studien zu exekutiven Funktionen
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding gezielter KI-Hilfesuche während der Problemlösung
-- [[fang-chatbot-psychosocial-extended-use-2025]] — Text, neutrale Stimme und engagierende Stimme über vier Wochen: Die Modalität veränderte den Austausch, nicht das psychosoziale Ergebnis (Fang et al. 2025)
-- [[ai-conversational-interfaces-information-seeking-2026]] — Chatbot beantwortete Fragen zum Programm schneller und genauer als die Website, außer wenn die Antwort eine namentlich genannte Kontaktperson war
+
+- [[intelligent-tutoring]]
+- [[pedagogical-agent]]
+- [[generative-ai]]
+- [[llm]]
+- [[student-ai-interaction]]
+- [[ai-literacy]]
+- [[human-ai-collaboration]]
+- [[cognitive-offloading]]
+- [[feedback]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[language-learning]]
+- [[academic-integrity]]
+- [[hallucination-risk]]
+- [[equity-in-ai-education]]
+- [[reducing-ai-misuse]]
+- [[speech-and-voice-technologies]]
+- [[parents-and-families]]
+- [[executive-function]]
 
 ## Verbundene Artikel
 
@@ -165,3 +160,4 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Zehn Chatbot-Studien zu exekutiven Funktionen
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding gezielter KI-Hilfesuche während der Problemlösung
 - [[fang-chatbot-psychosocial-extended-use-2025]] — Text, neutrale Stimme und engagierende Stimme über vier Wochen: Die Modalität veränderte den Austausch, nicht das psychosoziale Ergebnis (Fang et al. 2025)
+- [[ai-conversational-interfaces-information-seeking-2026]] — Chatbot beantwortete Fragen zum Programm schneller und genauer als die Website, außer wenn die Antwort eine namentlich genannte Kontaktperson war

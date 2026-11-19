@@ -8,7 +8,7 @@ technology: [generative-ai, llm, simulation, intelligent-tutoring, learning-anal
 level: [graduate, higher ed]
 confidence: medium
 translation_of: concepts/graduate-education
-source_updated: "2026-11-15T06:45:00-05:00"
+source_updated: "2026-11-19T10:16:37-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -126,6 +126,12 @@ Die postgraduale Bildung erbt die sektorweiten Probleme der Integrität, der [[a
 - **„KI kann die Lernbegleitung ohne Kosten ersetzen.“** Die Zuwächse bei Multiple-Choice-Tests waren im KI-geleiteten problembasierten Lernen gleichwertig, beim kritischen Denken und im Gruppenprozess nicht, und nur 15,8% der befragten Lehrenden hatten überhaupt eine Richtlinie zur KI-Nutzung verfasst.
 
 - **„Postgraduale [[ai-literacy|KI-Kompetenz]] bedeutet Werkzeugbeherrschung.“** Das postgraduale Rahmenwerk trennt kognitive Grundlage, operative Fähigkeiten, Denken höherer Ordnung, metakognitive Reflexion und ethische Verantwortung.
+
+## GenAI in der Promotionsentwicklung
+
+Promotionsprogramme führen GenAI in zwei Richtungen zugleich ein — als Forschungsinstrument und als etwas, das Kandidatinnen und Kandidaten lernen müssen, um damit zu lehren —, und eine partizipative Aktionsforschungsstudie von 2026 in Kuba prüfte, ob eine einzige Abfolge beidem dienen kann. Vierunddreißig Doktorandinnen und Doktoranden, die zugleich lehren, arbeiteten ein einziges integriertes Modell durch (das Dr.-I.D.E.A.-Modell), in dem Forschungs-, KI-gestützte digitale und kreativ-pädagogische Kompetenzen an derselben authentischen Aufgabe geübt wurden. Alle 34 integrierten GenAI in einen Kurs, 26 hielten eine dokumentierte Neugestaltung mindestens drei Wochen lang durch, und 25 nutzten die KI-gestützte Praxis bei der Nachbefragung weiter.([[idea-model-doctoral-education-genai-2026|Padrón Alvarez und Estrada Molina, 2026]])
+
+Die selbstberichteten Kompetenzzuwächse (d = 1,69 bis 2,10) sind als wahrgenommene Veränderung ohne Vergleichsgruppe zu lesen; der dauerhafte Beitrag ist die Betriebsebene — gemeinsam konstruierte Nutzungskategorien, individuelle KI-Nutzungsprotokolle und verpflichtende Verifikation in indexierten Datenbanken.
 
 ## Verbundene Konzepte
 

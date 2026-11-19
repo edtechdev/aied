@@ -156,9 +156,9 @@ Keine dieser Warnungen bedeutet, dass das Werkzeug immer falsch ist. Ein Detekto
 
 ## Wie es weitergeht
 
-- [[addressing-common-misconceptions-ai-education]]: die Überzeugungen hinter diesen Praktiken und wie man sie ohne Herablassung korrigiert.
-- [[limitations-in-aied-research]]: was die Evidenzbasis noch nicht stützen kann.
-- [[reducing-ai-misuse]]: strukturelle Hebel gegen Missbrauch und warum sie Ermahnung schlagen.
-- [[pedagogical-safety]]: was ein Tutor einer lernenden Person antun kann, während er jede Inhaltsprüfung besteht.
-- [[should-we-use-ai-detectors]]: die Detektor-Evidenz vollständig.
-- [[checking-whether-educational-ai-works]]: wie man eine Behauptung bewertet, bevor man sie übernimmt.
+- [[addressing-common-misconceptions-ai-education]] — die Überzeugungen hinter diesen Praktiken und wie man sie ohne Herablassung korrigiert.
+- [[limitations-in-aied-research]] — was die Evidenzbasis noch nicht stützen kann.
+- [[reducing-ai-misuse]] — strukturelle Hebel gegen Missbrauch und warum sie Ermahnung schlagen.
+- [[pedagogical-safety]] — was ein Tutor einer lernenden Person antun kann, während er jede Inhaltsprüfung besteht.
+- [[should-we-use-ai-detectors]] — die Detektor-Evidenz vollständig.
+- [[checking-whether-educational-ai-works]] — wie man eine Behauptung bewertet, bevor man sie übernimmt.

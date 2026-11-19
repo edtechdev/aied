@@ -1,5 +1,5 @@
 ---
-title: Bildung in Geistes- und Sozialwissenschaften
+title: Geisteswissenschaftliche Bildung
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-11-08T10:12:52-05:00"
 type: concept
@@ -8,7 +8,7 @@ level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-17T07:20:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Bildung in Geistes- und Sozialwissenschaften (SSH)** — das [[teacher-role|Lehren]] von Disziplinen, die sich mit menschlicher Kultur, Werten, Bedeutung und sozialem Leben befassen, einschließlich Geschichte, Philosophie, Literatur, Sprachen, Soziologie und den Künsten. KI in der SSH-Bildung wirft unterscheidende Fragen auf, weil diese Felder sich auf Interpretation, kritisches Urteil, Autorschaft und Sinnstiftung zentrieren — Prozesse, die [[generative-ai|generative KI]] sowohl unterstützt als auch stört. KI fungiert hier weniger als Tutorin für faktischen Inhalt und mehr als epistemische Vermittlerin, die neu formt, wie Studierende Texte interpretieren, Argumente konstruieren und ihre eigene [[agency]] als Schreibende und Denkende verstehen.
+> **Geisteswissenschaftliche Bildung** — das Lehren von Geschichte, Philosophie, Literatur, Sprachen, Klassischer Philologie und Religionswissenschaft, jener Disziplinen, deren Gegenstand die Interpretation und nicht das Verfahren ist. [[generative-ai|Generative KI]] ist hier weniger als Tutorin für Inhalt als vielmehr als epistemische Vermittlerin von Bedeutung: Sie kann augenblicklich eine plausible Lesart erzeugen, wodurch Autorschaft, Quellenurteil und die Position der Lesenden zu den Dingen werden, die ein Kurs schützen muss. Der Cluster steht unter [[discipline-specific-aied|KI in den Disziplinen]] neben der [[social-sciences-education|sozialwissenschaftlichen Bildung]], die Menschen in ihrer Gesamtheit untersucht, und neben der [[arts-and-media-education|Kunst- und Medienbildung]] und der [[music-education|Musikbildung]], in denen Lernen in einem geschaffenen Artefakt verkörpert ist. Die Abdeckung konzentriert sich auf die [[higher-ed|Hochschulbildung]] und auf Studien zu einzelnen Kursen.
 
 ## Fragen zum Nachdenken
 
@@ -41,7 +41,7 @@ Für die Lektüre der Befunde sind zwei Abgrenzungen wichtig. Die erste betrifft
 
 Die [[philosophy-of-ai-in-education|Philosophie der KI in der Bildung]] liefert die Begriffe, in denen dieser Cluster argumentiert: epistemische Autorität, Autorschaft und die Frage, was als vertretbare Lesart eines Textes gilt.
 
-## Wie KI in der Bildung in Geistes- und Sozialwissenschaften erscheint
+## Wie KI die interpretative Arbeit verändert
 
 - **Interpretation wird externalisiert.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu (2026)]] beschreibt generative KI als epistemischen Vermittler, der Bedeutungskonstruktion, Autorschaft und die [[agency|Agency]] der Lernenden neu konfiguriert — durch Externalisierung interpretiver Kognition, Hybridisierung von Autorschaft und verteilte epistemische Agency. Die vorgeschlagene Antwort ist entwicklungsorientiert: Lehre auf KI-kritische Interpretation ausrichten, statt das Werkzeug zu verbieten.
 - **Die Quellenzusammenstellung verlagert sich zu Agenten.** [[capodieci-humanities-hil-2026|Capodieci et al. (2026)]] dokumentieren, dass Studierende der Geisteswissenschaften agentische KI einsetzen, um Quellen zusammenzustellen und Textentwürfe zu verfassen, wodurch sich die Bewertungsfrage von der Frage, ob Text generiert wurde, hin zu der Frage verschiebt, ob die Interpretation den Studierenden zugerechnet werden kann.
@@ -51,7 +51,7 @@ Die [[philosophy-of-ai-in-education|Philosophie der KI in der Bildung]] liefert 
 
 Der klarste Rahmen für das eigene Problem der Geisteswissenschaften stammt von [[stornaiuolo-humanities-genai-integrity-framework-2026|Stornaiuolo und Elkins]], die argumentieren, dass [[academic-integrity|Integrität]] und [[ai-literacy|kritische digitale Literalität]] ein einziges Bildungsproblem sind und nicht ein Regelproblem plus ein Kompetenzproblem. Ihr verbindendes Konstrukt ist das evaluative Urteilsvermögen: die Fähigkeit der Studierenden, die Qualität einer Interpretation zu beurteilen — genau das, was sowohl Integrität als auch Literalität erfordern und was Detektion nicht liefern kann. Da Essays, Zusammenfassungen und Kommentare sowohl die Prüfungsinstrumente der Geisteswissenschaften als auch die stärksten Textausgaben des Modells sind, folgern sie, dass die Disziplin der KI in ihrem Kern begegnet und dass Prüfungen nachgewiesenes Urteilsvermögen einfordern müssen, statt die alten Gattungen besser zu überwachen.
 
-## Warum es zählt
+## Was die Sektorevidenz zeigt
 
 Die Exponiertheit der Leistungsbewertung in den Geisteswissenschaften wird gemessen und nicht bloß angenommen. [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] prüfte 15.587 Lehrveranstaltungsdatensätze im Bereich Arts and Humanities an den australischen Universitäten der Group of Eight und stellte fest, dass 58,6 % der Prüfungsaufgaben von 2026 in hohem Maße gegenüber [[generative-ai|GenAI]] exponiert sind. Take-Home-Essays und Forschungsberichte machten nach Gewichtung mit den vergebenen Punkten 71,4 % dieser Exponiertheit aus — die Exponiertheit konzentriert sich also auf ein einziges Artefakt und verteilt sich nicht über das gesamte Curriculum.
 
@@ -59,7 +59,7 @@ Die Exponiertheit der Leistungsbewertung in den Geisteswissenschaften wird gemes
 
 Auch institutionelle Strategien sind dokumentiert. [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]] beschreibt, wie sich die Lingnan University im digitalen Zeitalter als forschungsintensive Liberal-Arts-Hochschule neu positioniert — mit verpflichtender GenAI-Kompetenz für Studierende im Bachelorstudium und einem obligatorischen Kurs im ersten Studienjahr, der latente Räume, Diffusionsmodelle, Prompting, Fine-Tuning, Bias und Fehlinformationen behandelt. Die Argumentation lautet, dass dieser Wandel intellektuell und nicht technozentriert ist.
 
-## Implikationen für Lehrende in Geistes- und Sozialwissenschaften
+## Implikationen für Lehrende der Geisteswissenschaften
 
 - **Die Interpretation bewerten, nicht den Text.** Aufgaben so gestalten, dass die sichtbare Arbeit in Quellenauswahl, Einwand und Überarbeitung besteht — entsprechend dem oben beschriebenen Formateffekt.
 - **KI als epistemische Vermittlerin behandeln.** Die drei Trajektorien von [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] als Diagnoseinstrument nutzen und auf das KI-kritische Ende zielen.

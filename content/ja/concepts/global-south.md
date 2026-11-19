@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ ai_assist:
 - **資源の乏しい文脈における教員の倫理的推論：** [[teachers-contextual-ethical-reasoning-ai-2026|Adelana et al.（2026）]]は、資源の乏しい文脈において現職の中等教育のSTEAMの教員が、正式な原理の列挙ではなく、専門的なアイデンティティ、教室の現実、そして文化的な規範を通じてAIの倫理について推論することを見出し、グローバル・サウスについての「倫理は空っぽ」という想定に反論しています。
 - **文脈に即した採用：** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]]は、バングラデシュの[[engineering-education|工学]]の学生における[[generative-ai|生成AI]]の採用をモデル化し、[[connected-ai-lesson-planning-vietnam|ConnectED]]はベトナムの教育のために[[curriculum-design|カリキュラム]]に沿った授業計画のシステムを展開します。
 - **教員の採用を動かしたのは、能力構築であり、インフラではなかった。** 255人のバングラデシュの教員において、生成AIに対する態度が利用を強く予測し（β = 0.556）、領域に固有の関連性が態度を駆り立て（β = 0.413）、一方で制度的な技術の提供と主観的な規範は有意な予測変数ではありませんでした（[[genai-integration-constructivist-higher-ed-bangladesh-2026|Alam et al.（2026）]]）。
+- **アフロ・エクアドル教育におけるアイデンティティ優先のAIリテラシー：** エスメラルダスの教育・青少年・共同体の関係者90人は、アフロ系のアイデンティティを最も高く（M = 4.72）、批判的AIリテラシーを最も低く（M = 4.60）評定し、3人の参加者によるフォーカスグループは、時折の、課題に限定された利用を描写しました（[[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]）。
 - **制度的な統合と構造的な不平等：** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al.（2026）]]の45のナイジェリアの大学（連邦/州/私立）の比較的な内容分析は、AIの統合が統治の形態ではなく、制度の歴史と地理的な位置によって予測されること、そして国際的なつながりと産業界のネットワークのつながりが互いを強め合うこと（r = 0.74）を見出しました。したがってよくつながった制度は有利を積み重ね、他の制度はさらに遅れます。それは[[digital-divide|デジタル的な不平等]]を、学習者の水準だけでなく、[[higher-ed|高等教育]]の制度自身の構造的な能力にも位置づけます。
 - **構造的な制約の下でのデジタルな媒介としての[[educational-development|学術的な発達]]：** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole（2026）]]は、二つの南アフリカの歴史的に不利な立場の制度にわたる12人の学術的な発達を担う者と学習の設計者にインタビューし、グローバル・サウスの文献がしばしば曖昧にする分析的な線を引きます。すなわち、**デジタル的な不平等**は分配的なもので、原理上は再分配とアクセスを通じて答えられる一方、**アルゴリズム的な植民地性**は認識論的なもので、完全なアクセスの下でも保たれます。なぜならそれはシステムが何を符号化し、誰の知識を中心に置くかに内在するからです。その二つは絡み合っていますが、異なる応答を要求し、制度は二重に位置づけられています — インフラの不足によって排除され、そして含まれるときには、他の知識と規範を符号化する輸入されたシステムによって従属させられます。制度的なAIの修辞（「実践というより成果」）は、指導の物質的な現実と緩く結びついて届いたため、発達を担う者たちは、世界のデジタル変革の言説を文脈的に実行可能な実践に翻訳しました。すなわち、仲間の場で道具を試し意図的に「壊す」こと、技能よりも判断を貫くこと、そしてまだ獲得しつつある専門性を投影することの情動的な費用を引き受けることです。
 - **認識論的な周辺化：** [[genai-minoritized-knowledges-disability|Tali-Otmani]]は、西洋中心の訓練データが非西洋的で障害を中心に据えた知識を周辺化すると論じ、グローバル・サウスの懸念を[[equity-in-ai-education]]と[[culturally-relevant-pedagogy]]につなげます。

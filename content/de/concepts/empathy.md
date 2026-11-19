@@ -11,7 +11,7 @@ audience: [instructors, medical educators, curriculum designers, researchers]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/empathy
-source_updated: "2026-11-01T00:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Synthese:** Empathie gelangt aus drei Richtungen zugleich in die Bildung: als Ergebnis, das Lehrende zu vermitteln versuchen, als Konstrukt, das sie zu messen versuchen, und als etwas, das KI-Systeme zunehmend zu zeigen beanspruchen. Die Evidenz ist in allen drei Richtungen ungleichmäßig. Empathie zu lehren funktioniert – Rollenspiel, VR und [[llm|LLM]]-Dialog erzeugen alle messbare Vorher-Nachher-Zuwächse –, doch der Effekt schrumpft, je weniger verkörpert die Erfahrung wird, und die Vergleichsstudien vermengen Modalität mit Bearbeitungszeit. Empathie zu messen ist schwerer als sie zu lehren: Beobachterurteile halten zusammen, während [[sensor-and-gaze-analytics|Computervisions-Proxywerte]] bei körperlichem Kontakt übereinstimmen, bei Blickkontakt auseinandergehen und beim Lächeln ins Gegenteil kippen. KI kann einfühlsame Gespräche in großem Maßstab üben, doch die am besten kontrollierte Studie zeigt steigende Selbsteinschätzung ohne Prüfung der beobachteten Performanz. Und die neueste Sorge läuft in die andere Richtung: Wer glaubt, KI könne Empathie liefern, ist weniger bereit, sie selbst zu liefern ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]).
+> **Synthese:** Empathie gelangt aus drei Richtungen zugleich in die Bildung: als Ergebnis, das Lehrende zu vermitteln versuchen, als Konstrukt, das sie zu messen versuchen, und als etwas, das KI-Systeme zunehmend zu zeigen beanspruchen. Die Evidenz ist in allen drei Richtungen ungleichmäßig. Empathie zu lehren funktioniert – Rollenspiel, VR und LLM-Dialog erzeugen alle messbare Vorher-Nachher-Zuwächse –, doch der Effekt schrumpft, je weniger verkörpert die Erfahrung wird, und die Vergleichsstudien vermengen Modalität mit Bearbeitungszeit. Empathie zu messen ist schwerer als sie zu lehren: Beobachterurteile halten zusammen, während [[sensor-and-gaze-analytics|Computervisions-Proxywerte]] bei körperlichem Kontakt übereinstimmen, bei Blickkontakt auseinandergehen und beim Lächeln ins Gegenteil kippen. KI kann einfühlsame Gespräche in großem Maßstab üben, doch die am besten kontrollierte Studie zeigt steigende Selbsteinschätzung ohne Prüfung der beobachteten Performanz. Und die neueste Sorge läuft in die andere Richtung: Wer glaubt, KI könne Empathie liefern, ist weniger bereit, sie selbst zu liefern ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]).
 
 ## Fragen zum Nachdenken
 
@@ -81,7 +81,7 @@ Für die Bildung ist das zweischneidig. Ein [[curriculum-design|Curriculum]], da
 ## Was das für die Praxis bedeutet
 
 - **Trennen Sie die drei Fragen.** Wenn jemand behauptet, KI verbessere Empathie, fragen Sie, ob damit das Lehren von Menschen, das Messen von Menschen oder das Simulieren von Empathie gemeint ist. Die Evidenz unterscheidet sich für jedes.
-- **Akzeptieren Sie Selbstwirksamkeit nicht als Empathie-Ergebnis.** Zuversicht ist billig und steigt nach fast jeder Übung; Beobachtung, standardisierte Patienten oder Patientenbewertungen sind die Maße, die zählen.
+- **Akzeptieren Sie [[self-efficacy|Selbstwirksamkeit]] nicht als Empathie-Ergebnis.** Zuversicht ist billig und steigt nach fast jeder Übung; Beobachtung, standardisierte Patienten oder Patientenbewertungen sind die Maße, die zählen.
 - **Behandeln Sie Vision-Werte als Zweitleser.** Die Erkennung körperlichen Kontakts ist für [[formative-assessment|formatives Feedback]] brauchbar; Lächeln- und Blickkontakterkennung sind es nicht, ohne Szenariokontext, über den ein Modell nicht verfügt.
 - **Kalkulieren Sie Zeit, nicht nur Modalität.** Die Vergleichsstudien vermengen beides, und eine billigere Methode, die ein Viertel der Zeit braucht, kann dennoch die bessere Wahl sein – nur keine äquivalente.
 - **Achten Sie auf Offloading.** Wenn KI zum Standardkanal für emotionale Unterstützung wird, wird die Empathie, die Sie lehren wollen, womöglich still ausgelagert.

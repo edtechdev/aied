@@ -10,7 +10,7 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-11-18T10:20:00-05:00"
+source_updated: "2026-11-19T09:58:08-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -170,6 +170,12 @@ Winstone, Gravett und Elkington rahmen das GenAI-Bewertungsproblem als wicked im
 - **„Noteninflation nach AI ist Spekulation.“** In einer **Differenz-in-Differenzen-Studie über 500.000+ Noten in 319 Kursen (2018–2025)** **stieg in Kursen mit stärker AI-exponierten Aufgaben (Schreiben, Programmieren) der Anteil der A-Noten**. Der Effekt konzentrierte sich dort, wo Aufgaben exponiert waren.
 - **„Die Fakultät hat AI breit übernommen.“** **62,4 % (53)** verzichteten ganz auf generative AI, und die Nutzung der Übernehmenden war **weitgehend auf Korrekturlesen (43,8 %) und Klarheitsprüfungen (34,4 %)** beschränkt. Das Übernahmemuster ist vorsichtig und eng, was verändert, was ein Validitätsargument abdecken muss.
 
+## Leistung ohne Fähigkeit
+
+Ein konzeptioneller Rahmen aus dem Jahr 2026 argumentiert, dass [[generative-ai|generative AI]] keine einheitliche Wirkung auf Validität hat, weil dasselbe Werkzeug je nach Konfiguration der Bewertung zum Verstärker von Engagement oder zum kognitiven Ersatz wird. Er kreuzt zwei Dimensionen: wie viel **kognitive Verantwortung** die lernende Person behält und wie viel **Prozess** die bewertende Person sehen kann. Daraus folgen vier Bedingungen, von denen zwei Fallen sind: *kognitiver Ersatz* (geringe Verantwortung, geringe Sichtbarkeit) erzeugt Leistung ohne Fähigkeit; *eingeschränktes Engagement* (geringe Verantwortung, hohe Sichtbarkeit) zeigt, dass eine sichtbare Denkspur, die die unkritische Übernahme von Modellausgaben dokumentiert, noch immer Evidenz für Substitution ist. Verantwortung ohne evidentielle Erfassung ist der Spiegel-Fehlfall: pädagogisch fundiert, evidentiell nutzlos.([[performance-without-capability-genai-assessment-validity-2026|Kearney, 2026]])
+
+Die praktische Behauptung ist eng und prüfbar: Validität hängt davon ab, ob die Evidenz die behauptete Inferenz rechtfertigt, nicht davon, ob AI beteiligt war. Wo AI-unterstützte Praxis *die* Fähigkeit ist, die zertifiziert wird, verringert der Ausschluss des Werkzeugs die Authentizität, statt sie zu schützen.
+
 ## Verbundene Konzepte
 
 - [[pedagogical-patterns]] — Warum Prozessevidenz vorgeschlagen wird, wenn der Output den Urheber nicht mehr identifiziert
@@ -258,3 +264,4 @@ Winstone, Gravett und Elkington rahmen das GenAI-Bewertungsproblem als wicked im
 - [[zammel-mllm-kinematics-graph-grading-2026]] — Eine volle Punktvergabe für ein Diagramm, das das Bild nicht belegt, und eine Krümmungsschwelle ohne angegebene Koordinatenkonvention (Zammel et al. 2026)
 - [[rodriguez-longarela-genai-unsupervised-assessment-finance-2026]] — Unbeaufsichtigte Quiz-Zugewinne, die die beaufsichtigte Prüfung nie erreichten: 60 % der Ausnutzbarkeitsmarge realisiert, was den Open-Book-Vorteil verdoppelt (Rodríguez Longarela & McGrath 2026)
 - [[wood-learning-consequential-assessment-2026]] — Drei trennbare Fähigkeitsbehauptungen, mit Kohärenz zwischen angegebenen Gründen und Arbeit als evidentiellem Test
+- [[performance-without-capability-genai-assessment-validity-2026]] — Ein Zwei-Dimensionen-Rahmen (kognitive Verantwortung, Prozesssichtbarkeit), der erklärt, warum ein sichtbarer Prozess noch immer Substitution dokumentieren kann

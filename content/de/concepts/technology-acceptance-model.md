@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-15T05:34:40-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-**Technologieadoptionsmodelle** sind die theoretischen Rahmen, die genutzt werden, um zu erklären und vorherzusagen, warum Personen und Institutionen neue [[ai-technologies|Technologien]] akzeptieren, übernehmen und weiterhin nutzen —, und, in der [[ai-education|KI-Bildung]]-Forschung, warum Lernende, Lehrkräfte und Organisationen [[generative-ai|generative KI]]-Werkzeuge übernehmen. Statt eines einzelnen Modells ist dies eine Familie von Theorien, die Wurzeln in der Informationssystem- und Sozialpsychologieforschung teilen, von denen das **Technology Acceptance Model (TAM)** das am weitesten angewandte ist. Die Wissensdatenbank behandelt diese Modelle gemeinsam, weil GenAI-Adoptionsstudien sie routinemäßig kombinieren (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) und weil ihre Kernkonstrukte —, wahrgenommener Nutzen, wahrgenommene einfache Nutzung und sozialer Einfluss —, über nahezu jede Studie zu KI-Akzeptanz in der Bildung wiederkehren.
+> **Technologieadoptionsmodelle** sind die theoretischen Rahmen, die genutzt werden, um zu erklären und vorherzusagen, warum Personen und Institutionen neue [[ai-technologies|Technologien]] akzeptieren, übernehmen und weiterhin nutzen —, und, in der [[ai-education|KI-Bildung]]-Forschung, warum Lernende, Lehrkräfte und Organisationen [[generative-ai|generative KI]]-Werkzeuge übernehmen. Statt eines einzelnen Modells ist dies eine Familie von Theorien, die Wurzeln in der Informationssystem- und Sozialpsychologieforschung teilen, von denen das **Technology Acceptance Model (TAM)** das am weitesten angewandte ist. Die Wissensdatenbank behandelt diese Modelle gemeinsam, weil GenAI-Adoptionsstudien sie routinemäßig kombinieren (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) und weil ihre Kernkonstrukte —, wahrgenommener Nutzen, wahrgenommene einfache Nutzung und sozialer Einfluss —, über nahezu jede Studie zu KI-Akzeptanz in der Bildung wiederkehren.
 
 ## Fragen zum Nachdenken
 
@@ -119,9 +119,9 @@ Die Verbindung von Risiko zu Nutzung hängt auch am System: Über die 49 TALIS-2
 
 ## Verbreitete Fehlvorstellungen
 
-- **„Die Konstrukte von TAM erklären Adoption."** [[socio-cognitive-genai-adoption-engineering-2026|Asag und Al Mamun]] integrierten TAM mit UTAUT für Ingenieurstudierende in Bangladesch und erklärten **64% der** Varianz. Erheblich und zugleich unvollständig: rund ein Drittel dessen, was Adoption treibt, liegt außerhalb der klassischen Akzeptanzkonstrukte.
-- **„Akzeptanzmodelle brauchen keine Domänenmodifikation."** **Wahrgenommene künstliche Autonomie** — wie selbstständig Lehrkräfte glauben, dass GenAI eine zugewiesene Unterrichtsaufgabe ausführen kann — und **Risikoaversion** zu den klassischen Konstrukten hinzuzufügen veränderte das Modell substanziell. Die ursprünglichen Konstrukte wurden für Werkzeuge ohne Handlungsfähigkeit gebaut, und GenAI hat wahrgenommene Handlungsfähigkeit.
-- **„Eine metaanalytische Adoptionsschätzung beschreibt jede Population."** Die [[teo-ai-adoption-tertiary-meta-analysis-2026|Metaanalyse unter Studierenden]] ist die Schätzung auf Populationsebene; das Ingenieurergebnis, das 64% erklärt, ist eine spezifische Population. Das eine auf das andere zu übertragen setzt eine Stabilität voraus, die die Evidenz nicht belegt.
+- **„Die Konstrukte von TAM erklären Adoption.“** [[socio-cognitive-genai-adoption-engineering-2026|Asag und Al Mamun]] integrierten TAM mit UTAUT für Ingenieurstudierende in Bangladesch und erklärten **64% der** Varianz. Erheblich und zugleich unvollständig: rund ein Drittel dessen, was Adoption treibt, liegt außerhalb der klassischen Akzeptanzkonstrukte.
+- **„Akzeptanzmodelle brauchen keine Domänenmodifikation.“** **Wahrgenommene künstliche Autonomie** — wie selbstständig Lehrkräfte glauben, dass GenAI eine zugewiesene Unterrichtsaufgabe ausführen kann — und **Risikoaversion** zu den klassischen Konstrukten hinzuzufügen veränderte das Modell substanziell. Die ursprünglichen Konstrukte wurden für Werkzeuge ohne Handlungsfähigkeit gebaut, und GenAI hat wahrgenommene Handlungsfähigkeit.
+- **„Eine metaanalytische Adoptionsschätzung beschreibt jede Population.“** Die [[teo-ai-adoption-tertiary-meta-analysis-2026|Metaanalyse unter Studierenden]] ist die Schätzung auf Populationsebene; das Ingenieurergebnis, das 64% erklärt, ist eine spezifische Population. Das eine auf das andere zu übertragen setzt eine Stabilität voraus, die die Evidenz nicht belegt.
 
 ## Verbundene Konzepte
 
@@ -167,6 +167,8 @@ Die Verbindung von Risiko zu Nutzung hängt auch am System: Über die 49 TALIS-2
 - [[capability-decision-model-teacher-readiness-2026]] — Geordnete Alternative zum Anschrauben von TPACK-Fähigkeit an Adoptionsmodelle der Theory of Planned Behavior
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Personenzentrierte TALIS-2024-Profile der wahrgenommenen KI-Nützlichkeit und des Risikos über 49 Systeme hinweg
 - [[genai-learning-procrastination-planned-behavior-2026]] — TPB-Erweiterung, die GenAI-gestützte Lernprokrastination misst und die Moderation des Absicht–Verzögerung-Zusammenhangs durch Angst
+- [[kim-overtrust-ai-literacy-2026]] — Leistungserwartung vermittelte den Pfad von Motivation und Selbstwirksamkeit zu KI-Übervertrauen
+- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — KI-Kompetenz als Mediator zwischen Selbstwirksamkeit und Akzeptanz, mit einer unbereinigten Angst-Assoziation (İşbulan et al. 2026)
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM mit Task–Technology Fit verbunden, plus neuronale Netzwerk-Wichtigkeitsrangfolge und Necessary-Condition-Schwellen (Chu & Liu 2026)
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Designmerkmale stromaufwärts der TAM-Überzeugungen, und Wichtigkeit, die nicht Notwendigkeit ist
 - [[pinedo-genai-adoption-marketing-students-2026]] — Gewohnheit trägt UTAUT2 in einer bereits adoptierenden Population

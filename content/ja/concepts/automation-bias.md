@@ -10,7 +10,7 @@ audience: [instructors, learners, administrators, software developers]
 confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 translation_of: concepts/automation-bias
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -93,6 +93,8 @@ ai_assist:
 ### バイアスが測定ではなくリスクとして言及されるとき
 
 コーパスの大きな部分は、自動化バイアスを検証せずに脅威モデルに列挙しており、その区別はこの概念がどれだけの重みを担えるかに影響します。[[ahmadfard-interactive-oer-review-2026|対話型OERのレビュー(2026年)]]は、学習者と教師の主体性を侵食する反復的なリスクの中にそれを含め、測定せずに列挙しています。[[alshahrani-health-sciences-ai-use-2026|健康科学の調査(2026年)]]は、310人の学生の[[ethics|倫理]]的懸念を、自動化バイアスを明示的に扱う[[professional-training|専門的訓練]]の根拠として読みます。[[ai-literacy-legal-translation-2026|法的翻訳の研究(2026年)]]は、ポストエディティングと検証を採点される技能として教えることを求め、誤訳を見逃しやすくする自動化バイアスと品質の錯覚の圧力を名指しします。[[morales-cevallos-ai-forensic-science-education-2026|法科学のレビュー(2026年)]]は、含まれた研究で自動化バイアスが記録されていることを見出し、報告された失敗から構築するケースベースの演習を提案します。[[rana-genai-design-thinking-2025|デザイン思考の研究(2025年)]]はそれを設計要件に変えます。人間の判断を中心に保つ[[scaffolding|足場かけ]]であり、オフローディングと自動化バイアスの双方に対抗します。
+
+別のバイアスは、利用者ではなく出力の側にあります。エクアドルのエスメラルダスでは、90名の教育関係者と地域の関係者が、画像ツールがアフロ・エクアドル系の参加者の肌の色、髪の質感、顔の特徴を変えると述べ、ある人はそれを「たとえデジタルであっても、これは人種差別の一形態だ」と呼びました——どの正確さの指標にも記録されない表象上の害です（[[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde（2026）]]）。
 
 ## エビデンスが薄い、混在している、逆転しているところ
 

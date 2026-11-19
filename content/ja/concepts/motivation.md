@@ -9,7 +9,7 @@ technology: [affective-computing]
 connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
-source_updated: "2026-11-15T09:20:00-05:00"
+source_updated: "2026-11-16T09:20:00-05:00"
 translation_of: concepts/motivation
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -143,5 +143,6 @@ ai_assist:
 - [[gai-advocacy-practice-art-education-2026]] — GAI推進における政策と実践のギャップは、学生が認知的評価を行うストレス源として作用する
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — スキャフォールド付きチューターは内発的動機づけを高めたが、無制限のChatGPTは高めなかった
 - [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — 品質を揃えたAIフィードバックと教員フィードバック:動機づけの差は関係性を介して生じる(Liu et al. 2026)
+- [[pan-generative-ai-student-motivation-sdt-review-2026]] - 39件の研究を対象としたSDTに基づくレビュー：欲求とエンゲージメントは頻繁に測定されるが、動機づけの調整はほとんど測定されない
 - [[mekheimer-motivation-ethics-trust-efl-2026]] — 12週間のEFL研究において、動機づけの唯一の有意な予測因子は利用頻度だった
 - [[motivational-gain-trumping-cognitive-offloading-2026]] — AI依存と動機づけは批判的思考に対して同等かつ逆向きの効果を持ち、差し引きでわずかな正の効果が残る(MASEM、31研究、学習者16,357名)

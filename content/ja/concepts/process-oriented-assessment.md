@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education]
 level: [higher ed]
 confidence: high
 connected_resources: [process-feedback, code-viva, vfwa]
-source_updated: "2026-11-16T09:26:00-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_of: concepts/process-oriented-assessment
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -133,6 +133,7 @@ Thapa and Lewisの説明は概念的です。参加者も、データ収集も�
 - [[packard-thinking-partner-framework-adult-learners-2026]] — 6学期・約440名の教師にわたり96%の完了率を維持した、AI対話のチェックポイント記録
 - [[rubrics-genai-process-based-assessment-2026]] — Biggsの3Pモデルに由来する三つのルーブリック次元：エージェンシーと監督、対話的スキャフォールディング、認知的主権（Oviedo & Díaz 2026）
 - [[jelson-students-chatgpt-essay-writing-2026]] — CodeMirrorエディタとログ記録付きチャットパネルにより、1回のエッセイ執筆セッションがプロセス証拠となったが、タイピングと思考を切り分けられない限界も残る（Jelson et al. 2026）
+- [[xian-process-visualization-feedback-news-translation-2026]] - プロセスの可視化と1回の省察セッションが、編集量を増やすことなく、修正を表層から意味の水準へと移した
 - [[webb-davies-voice-first-written-assessment-2026]] — 自宅で書かれた提出物を採点する前に、観察下で推論を確保する二段階の筆記評価。結び付けが不明瞭な場合は条件付きの口頭試問（viva）を行う（Webb-Davies, Ratner & Bassett 2026）
 - [[black-box-assessment-winstone-2026]] — ブラックボックス評価：プロセスの窓、証拠としての誤り、可視性によるインテグリティ（Winstone, Gravett & Elkington 2026）
 - [[francis-pace-framework-genai-assessment-2026]] — PACE：4段階のエージェンシー尺度でプロセスを採点する（Francis et al., 2026）

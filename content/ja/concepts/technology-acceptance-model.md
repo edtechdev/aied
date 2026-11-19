@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
-source_updated: "2026-11-15T05:34:40-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_of: concepts/technology-acceptance-model
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -22,9 +22,7 @@ ai_assist:
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 
-
-> **技術導入モデル** — 個人や組織がなぜ新しい技術を受け入れ、導入し、使い続けるのかを説明・予測する一連の理論群であり、その中で最も広く応用されているのが**技術受容モデル(TAM)**である。教育におけるAIの分野では、学習者・教師・組織がなぜ生成AIツールを導入するのかを問うための標準的な視座となっており、生成AIの導入研究は単一のモデルではなくこの理論群の複数のモデルに依拠しているため、まとめて扱うのが最も適切である。
-**技術受容モデル**とは、個人や組織が新しい[[ai-technologies|技術]]を受け入れ、採用し、継続的に使用する理由を説明・予測するための理論的枠組みであり、[[ai-education|教育におけるAI]]の研究では、学習者・教師・組織がなぜ[[generative-ai|生成AI]]ツールを採用するのかを標準的に説明するレンズです。単一のモデルではなく、情報システム研究と社会心理学研究に共通の源流を持つ理論群であり、その中で最も広く応用されているのが**技術受容モデル（TAM）**です。この知識ベースではこれらのモデルをまとめて扱います。生成AIの受容研究では定期的にモデルが組み合わされる（TAM + UTAUT、TAM + TPB、UTAUT + ARCS）こと、またそれらの核となる構成概念——知覚された有用性、知覚された使いやすさ、社会的影響——が教育分野におけるAI受容のほぼすべての研究に反復して現れるためです。
+> **技術導入モデル** — 個人や組織が新しい[[ai-technologies|技術]]を受け入れ、導入し、使い続ける理由を説明・予測する一連の理論群であり、その中で最も広く応用されているのが**技術受容モデル（TAM）**である。[[ai-education|教育におけるAI]]では、学習者・教師・組織がなぜ[[generative-ai|生成AI]]ツールを導入するのかを問うための標準的な視座となっており、生成AIの導入研究は単一のモデルではなくこの理論群の複数のモデルに依拠しているため、まとめて扱うのが最も適切である。
 
 ## 検討すべき問い
 
@@ -166,6 +164,8 @@ TAMの認知的焦点は、AI使用の感情的・関係的次元も捉えきれ
 - [[capability-decision-model-teacher-readiness-2026]] — TPACK能力を計画行動理論の受容モデルに後付けするやり方に代わる、順序づけられた代替モデル
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — 49の教育システムにわたる、知覚されたAIの有用性とリスクに関するTALIS 2024の個人中心プロファイル
 - [[genai-learning-procrastination-planned-behavior-2026]] — GenAI支援学習における先延ばしを測定し、意図–遅延の結びつきに対する不安の調整効果を扱うTPBの拡張
+- [[kim-overtrust-ai-literacy-2026]] — 業績期待が、動機づけと自己効力感からAIへの過信へと至る経路を媒介した
+- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — 自己効力感と受容の間の媒介変数としてのAIリテラシー、および補正されていない不安との関連（İşbulan et al. 2026）
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAMとタスク–技術適合の接合、加えてニューラルネットワークによる重要度ランキングと必要条件の閾値（Chu & Liu 2026）
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — TAMの信念の上流に置かれた設計特徴と、必要性を伴わない重要性
 - [[pinedo-genai-adoption-marketing-students-2026]] — すでに受容が進んだ集団ではUTAUT2を習慣が担う。

@@ -9,7 +9,7 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Frühkindliche Bildung** — der Einsatz künstlicher Intelligenz in der Bildung junger Kinder, der Vorschule und die Grundschuljahre umfasst. Das deckt KI-Kompetenz- und [[computational-thinking|Computational-Thinking]]-Curricula für junge Lernende, KI-fähiges Spielzeug und KI-fähiges Spiel, [[personalized-learning|personalisiertes Lernen]] in Grundschulfächern sowie die entwicklungsbezogenen, Sicherheits- und Gerechtigkeitserwägungen ab, die Kindern eigen sind und nicht Jugendlichen oder Erwachsenen.
+> **Frühkindliche Bildung** — der Einsatz künstlicher Intelligenz in der Bildung junger Kinder, von der Vorschule bis zu den ersten Jahren der Grundschule (etwa im Alter von 3 bis 8 Jahren). Das deckt KI-Kompetenz und [[computational-thinking|Computational Thinking]] für junge Lernende, KI-fähiges Spielzeug und Spiel, Roboter im Klassenzimmer, frühes [[personalized-learning|personalisiertes Lernen]] sowie die entwicklungsbezogenen, Sicherheits- und Gerechtigkeitserwägungen ab, die für Kinder und nicht für Jugendliche oder Erwachsene gelten. Spätere Grundschulklassen behandelt die Seite [[primary-education|Grundschulbildung]].
 
 ## Fragen zum Nachdenken
 
@@ -40,7 +40,7 @@ ai_assist:
 
 Diese Seite behandelt die Vorschuljahre und die ersten Grundschuljahre, in denen das Spiel die dominierende Lernform ist und ein Erwachsener die meisten Begegnungen mit einem Werkzeug vermittelt. Die späteren Grundschuljahre, in denen Fachunterricht und der Einsatz in der ganzen Klasse überwiegen, werden unter [[primary-education|Grundschulbildung]] behandelt. Kleine Kinder interagieren immer früher mit AI — über AI-gestützte Spielzeuge, Chatbots, Plattformen für [[adaptive-learning|adaptives Lernen]] und Klassenraumroboter —, dennoch unterscheiden sie sich in ihrer Entwicklung von den Lernenden im K-12-Bereich und in der Hochschulbildung, die den Großteil der [[research-methods-aied|Forschung]] zu AI in der Bildung prägen. Diese jüngere Altersgruppe hat eine eigene Evidenzbasis. Sie liegt innerhalb des weiteren [[k-12|K-12]]-Rahmens, ist aber eigenständig, weil die relevanten Fragen entwicklungspezifisch sind: [[game-based-learning|Spiel]] als primäre Lernform, Scaffolding durch Erwachsene (Eltern/Lehrkräfte), altersangemessene [[ai-literacy|AI-Kompetenz]] und erhöhte Aufmerksamkeit für [[well-being|Wohlbefinden]] und [[pedagogical-safety|Sicherheit]]. Die entwicklungspsychologische Begründung dieser Aussagen — wie sich Fähigkeiten mit dem Alter verändern und warum „altersangemessen“ eine Relation und kein Etikett ist — findet sich unter [[developmental-psychology|Entwicklungspsychologie]].
 
-## Entwicklungsbezogene Überlegungen und Chancengerechtigkeit
+## Wie sich die Forschung gruppiert
 
 - **AI-Literacy durch unplugged Spiel.** Das [[ai-play-framework-early-childhood-2026|AI-Play-Framework]] vermittelt AI-Konzepte für die frühe Kindheit durch *unplugged* Aktivitäten (ohne Computer) und zeigt, dass abstrakte AI-Ideen jungen Kindern über körperlich verankerte, spielerische und greifbare Aktivitäten nahegebracht werden können (siehe [[game-based-learning|spielbasiertes Lernen]]) — ein entwicklungsangemessener Zugang zu [[ai-literacy|AI-Literacy]] und [[computational-thinking|Computational Thinking]].
 
@@ -85,7 +85,7 @@ Engagement ist das Ergebnis, das diese Designs am häufigsten berichten, und es 
 
 Die epistemische Lücke ist dort am ausgeprägtesten, wo der frühe naturwissenschaftliche Unterricht sie am dringendsten braucht. Dieselbe Übersicht stellt fest, dass sich Ergebnisse auf kognitive, affektive, regulatorische und partizipative Kategorien verteilen, während Studien selten fragen, ob Kinder Beobachtung von Schlussfolgerung trennen, ein Modell konstruieren oder die Grenzen einer AI-generierten Aussage erkennen. Sie warnt außerdem, dass Performanzaufgaben in den oberen Grundschulklassen unvollständige Erklärungen, Zeichnungen und Gesten hervorbringen, sodass eine Bewertung, die eine entwicklungsproduktive Antwort als falsch behandelt, der Beurteilung ihren [[formative-assessment|formativen]] Nutzen nimmt. Für eine Lehrkraft von Sechs- und Siebenjährigen ist das ein Grund, das Artefakt weiterhin von einem Erwachsenen lesen zu lassen, statt es von einem Modell bewerten zu lassen.
 
-## Wie sich die Forschung gruppiert
+## Entwicklungsbezogene Überlegungen und Chancengerechtigkeit
 
 Da junge Lernende verletzlich sind und ihre Nutzung von KI weniger gut selbst regulieren können, betont dieser Cluster **Scaffolding durch Erwachsene** (Eltern, Erziehungsberechtigte und Lehrkräfte), **altersgerechte Gestaltung** sowie das Risiko von [[cognitive-offloading|übermäßiger Abhängigkeit]] und [[well-being|Schäden]], wenn KI die Entwicklungsarbeit des Spielens, Entdeckens und mühevollen Lernens ersetzt, anstatt sie zu unterstützen. Gerechtigkeit ist eine drängende Frage: Der Zugang zu KI-reicher frühkindlicher Bildung (oder zu schützender Anleitung durch Erwachsene) ist ungleich verteilt, was Verbindungen zum [[digital-divide|digitalen Graben]] und zur [[equity-in-ai-education|Gerechtigkeit]] herstellt. Ein Großteil der Evidenzbasis bleibt explorativ oder designorientiert statt kausal.
 
@@ -143,3 +143,6 @@ Ein erstes Neuroimaging-Fenster zu dieser Frage öffnet sich mit einem Vorbehalt
 - [[ai-rated-classroom-observation-scores-2026]] — Ich code oder KI code: von KI bewertete CLASS-Pre-K-Scores gegen trainierte menschliche Bewertende in Hongkonger Kindergärten (Fong et al. 2026)
 - [[ai-literacy-ecec-curricula-four-country-2026]] — KI-Kompetenz für KI-Natives? Ein Vier-Länder-Vergleich
 - [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — KI-vermittelte Werkzeuge im primarstuflichen Englischunterricht: ein Scoping-Review pädagogischer Funktionen und der Orchestrierung durch Lehrkräfte
+- [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — Digitale und Medienkompetenz angehender frühpädagogischer Lehrkräfte im Kontext der digitalen Bildung: eine bibliometrische Analyse von Forschungstrends
+- [[yim-ai-literacy-primary-schools-review-2025]] — KI-Kompetenzbildung in Grundschulen: vier Stränge, konstruktionistischer Unterricht und eine stark selbstberichtsbasierte Evidenzbasis (Yim & Su 2025)
+- [[barokah-ai-elementary-science-review-2026]] — Kartierung der Grundschulforschung zu Naturwissenschaften: fünf Anwendungscluster, Vermittlung durch Lehrkräfte und dünne epistemische Ergebnisse (Barokah et al. 2026)

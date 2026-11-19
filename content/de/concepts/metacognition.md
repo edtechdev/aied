@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metakognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-19T12:54:50-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,8 @@ Zentrale Befunde:
 - **Metakognitive Faulheit.** Das Forschungsfeld benennt einen eigenständigen Fehlermodus, bei dem Lernende ihre metakognitiven Verantwortlichkeiten an das Werkzeug abtreten — der Begriff *metakognitive Faulheit* bezeichnet die daraus entstehende Kompetenzillusion, und es wird davor gewarnt, dass die kognitiven Risiken vor allem Novizen und Lernende mit schwächerer Selbstregulation treffen ([[lodge-loble-cognitive-offloading-2026|Lodge & Loble (2026)]]).
 
 Die Verarbeitungsflüssigkeit (Fluency) ist der Grund dafür, dass der Verlust unbemerkt bleibt. Lernende beurteilen ihr Lernen teilweise danach, wie leicht sich das Material verarbeiten lässt, und Bjork et al. (2013) zeigen, dass Fluency-Hinweise Menschen dazu verleiten, ihr Verständnis zu überschätzen, wenn sich Inhalte leicht anfühlen; flüssig lesbarer KI-generierter Text liefert dieses Gefühl, unabhängig davon, ob tatsächlich Verstehen stattgefunden hat, und schafft so die Bedingungen für eine künstlich erzeugte Kompetenzillusion. [[generativism-learning-theory|Generativismus]] sieht darin den Grund, warum adaptive Metakognition nicht vorausgesetzt werden kann: Die Lernenden müssen sich fragen, ob die Leichtigkeit des Lesens wirklich Verständnis widerspiegelt, anstatt diese Leichtigkeit selbst als Antwort zu lesen.
+
+Für den Mechanismus existiert ein direkter GenAI-Test. Bei konstant gehaltenem Inhalt und ausschließlicher Manipulation der Erklärungsflüssigkeit fand Zhang (2026) Lernurteile von 70,79 % gegenüber 61,00 % für konventionellen Text, während die Leistung unverändert blieb, und ein dreiminütiger ungestützter Abruf senkte die Fluency–JOL-Steigung von 9,13 auf 1,65 ([[zhang-processing-fluency-genai-metacognitive-judgments-2026|Zhang, 2026]]).
 
 **Bewusstsein garantiert nicht, dass die Fertigstellung unterbleibt.** [[metacognitively-discordant-completion-genai-2026|Jia (2026)]] benennt die *metakognitiv dissonante Fertigstellung*: eine lernende Person, die echte Anstrengung investiert hat, ein gefestigtes Urteil aus der Ich-Perspektive vertritt, dass sich kein Verständnis eingestellt hat, und die Arbeit dennoch freigibt — jener Fall, den sowohl der Erklärungsansatz zur Fluency-Illusion als auch der zur zurückgenommenen Anstrengung per Annahme ausschließen.
 

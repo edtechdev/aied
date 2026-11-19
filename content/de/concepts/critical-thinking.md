@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T09:58:08-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -110,6 +110,12 @@ Kritisches Denken überschneidet sich mit [[scaffolding|Scaffolding]] (KI-Unters
 - **„GenAI-Nutzung steigert kritisches Denken direkt.“** Die Verbindung von GenAI-Nutzung zu **selbst berichtetem** kritischem Denken lief **fast vollständig über die GenAI-[[feedback-literacy|Feedback-Kompetenz]]** — bei **421 chinesischen Studierenden** im Grundstudium vermittelte die Feedback-Kompetenz **71%** des Zusammenhangs. Die Kompetenz ist der Pfad.
 - **„Der meta-analytische Effekt ist uniform.“** Über **29 Experimente** hinweg steigerte GenAI höherstufiges Denken moderat (**g = 0.609**), wobei kritisches Denken bei **ES = 0.691** lag. Moderate gepoolte Effekte über heterogene Interventionen hinweg stützen die Kategorie und nicht ein bestimmtes Design.
 
+## Zwei Pfade, ein Nettoeffekt
+
+Ob KI-Nutzung dem [[critical-thinking|kritischen Denken]] hilft oder schadet, hängt davon ab, welcher Mechanismus gemessen wird. Ein meta-analytisches Strukturgleichungsmodell aus dem Jahr 2026, das 31 Studien und 16.357 Lernende poolt, fand **zwei indirekte Pfade von nahezu gleicher Größe, die in entgegengesetzte Richtungen laufen**: KI-Nutzung erhöhte die Abhängigkeit, was kritisches Denken senkte (β = −0,212), und erhöhte die [[motivation|Lernmotivation]], was es steigerte (β = +0,217). Die Pfade hoben sich fast exakt auf — totaler indirekter β = 0,004 —, sodass ein kleiner positiver direkter Effekt blieb (β = 0,149) und 40 % der Varianz erklärt waren.([[motivational-gain-trumping-cognitive-offloading-2026|Wang et al., 2026]])
+
+Die Nullkorrelation in dieser Literatur ist nicht signifikant (r = 0,156, 95%-KI [−0,040, 0,353]), und genau so sieht eine Aufhebung aus, wenn eine Studie nur das Ergebnis misst. Die Designimplikation ist, dass [[cognitive-offloading|Offloading]] keine Eigenschaft des Werkzeugs ist, sondern davon abhängt, wie die Aufgabe gestellt wird: Werkzeuge, die Ende-zu-Ende-Antworten zurückhalten, und metakognitive Prüfpunkte, die Evaluation erzwingen, verschieben die Waage zum motivationalen Pfad.
+
 ## Verbundene Konzepte
 - [[metacognition]]
 - [[cognitive-offloading]]
@@ -161,4 +167,5 @@ Kritisches Denken überschneidet sich mit [[scaffolding|Scaffolding]] (KI-Unters
 
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Die pessimistische Lesart der Moderationsbefunde: Reibungsverlust, Automatisierungsfehler, Effizienzrahmen
 - [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Narrative Übersicht über 108 Dokumente: das Vorzeichen des Effekts folgt Vorwissen und Aufgabenzeitpunkt (AMCIF-Rahmenwerk)
+- [[motivational-gain-trumping-cognitive-offloading-2026]] — AI-Abhängigkeit und Motivation haben gleich große, entgegengesetzte Effekte auf kritisches Denken, sodass ein kleiner Nettozuwachs bleibt (MASEM, 31 Studien, 16.357 Lernende)
 

@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-11-16T18:50:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -326,6 +326,7 @@ AIリテラシーは、過度の依存に対して**両刃の刃**です。[[stu
 - [[yang-collaborative-ai-literacy-measures-review-2026]] — 17 の AI リテラシー測定：協働は構成概念としてほとんど評価されず、調整・コミュニケーション・メタ認知の因子は未検証のまま（Yang ら 2026）
 - [[early-childhood-ai-holistic-competencies-review-2026]] — AI時代の幼児期を形づくる:能力、教授法、生態的支援(Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AIセキュリティ・リテラシー:エコシステムに基づく能力フレームワークとK-12学習プラットフォーム
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 対処の枠組みなしにリテラシーの倫理的次元を高めると、学生をより不安にさせかねない
 - [[caeai-digital-literacy-frameworks-review-2026]] — 検証済みフレームワーク80本が、AIがデジタルリテラシーを倫理へと拡張する一方、教育者の人間とAIの協働が詳細を欠いたままであることを示す(Guoら 2026)
 - [[ai-literacies-young-adults-2025]] — 公共サービスメディアのための6つの能力領域、5つの価値、3つの進展水準
 - [[ai-literacy-heptagon-2026]] — AIリテラシー七角形
@@ -374,6 +375,8 @@ AIリテラシーは、過度の依存に対して**両刃の刃**です。[[stu
 - [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM教育におけるAIリテラシーの最も多く引用された10件の研究の統合(Hallström et al. 2026)
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — AIについて学ぶという要求を規律化する言説として読む(Wang & Jin 2026)
 - [[genait-genai-literacy-test-high-school-2026]] — GenAIT:高校生のための客観的な生成的AIリテラシー・テストと、LLM利用および認識との関連(Puppart、Laak、Aru 2026)
+- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — K-12のAIリテラシー・フレームワーク50本。生成AIを特に対象として評価する道具は1つだけ
+- [[kim-overtrust-ai-literacy-2026]] — AIリテラシーは二変量では過信と相関しないが、性能期待をモデル化すると負の間接効果を持つ
 - [[liang-ai-literacy-facets-creative-higher-education-2026]] — 創造的な高等教育における AI リテラシーの側面：学習成果と学業的ウェルビーイングとの関連
 - [[chen-genai-literacy-task-performance-cognitive-load-2026]] — GenAI リテラシーの次元の分裂：Use and Apply は作文の質を、Know and Understand は低い心的負荷を予測し、どちらも動機づけは動かさない（Chen ら 2026）
 - [[huang-ai-literacy-vocational-problem-solving-2026]] — 道具へのアクセスではなく認知的な動きを通じて問題解決に届くリテラシー

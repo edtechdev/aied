@@ -11,7 +11,7 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
-source_updated: "2026-11-16T09:58:00-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_of: concepts/anxiety-and-stress
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -56,6 +56,7 @@ AI によって引き起こされるストレスの、最も明確で最も研�
 - [[ai-anxiety-strategic-regulation-writing-2026|Kim（2026）]]は、**AI 不安は生産的でありうる**ことを見出しています。より高い AI 不安は、検証と改訂の行動と正に関連し（β=.24、p<.01）、評価能力は能動的な[[student-engagement|関与]]を予測しました（β=.46、p<.001）。Kim の四つの調整型（無批判な依存 18.7%、選択的統合 34.6%、評価的変容 31.8%、戦略的拒否 14.9%）は、不安に駆動された精査が、学生を受動的な採用者ではなく、[[generative-ai|生成 AI]]のより思慮深く自己調整的な利用者へと変容させうることを示しています。これは AI 不安を、障害から、より綿密な精査を促す潜在的に有用な信号へと再枠組みします。
 
 その再枠組みには、話すことにおける境界があります。708 名の[[multilingual-learning|英語学習者]]において、話す不安と話す意欲の結びつきは、低い話す自己効力感では −0.371、高いところでは +0.137 で、上側の Johnson–Neyman 閾値を超えた参加者は 55 名（7.8%）のみでした（[[ai-speaking-practice-communicative-readiness-2026|Wang & Li（2026）]]）。
+- **逆向きの第二の交互作用。** 中国とマレーシアの大学生 898 名では、自己効力感から意欲への傾きは、話す不安が低いとき 0.24、高いとき 0.52 であり、不安が高まるほど効力感が意欲へより容易に転じました（[[chen-human-ai-conversation-l2-willingness-to-communicate-2026|Chen & Wang（2026）]]）。
 - [[acceptance-ai-english-tools-2026|受容の研究]]は、不安が学習者が AI ツールを採用するかどうかを形づくることを示し、[[teacher-education-ai-literacy-sdt-2026|教師教育の研究]]は AI 不安を動機づけと[[self-regulated-learning|自己調整]]につなげます。
 - **開示のジレンマ。** 409 名の学部生を対象とした調査で、教師への心地よさと感じられる仲間の開示——道徳的な離脱ではなく——が生成 AI の使用を開示することの最強の予測因子であり、非開示は怠慢ではなく、仲間規範と低い解釈的信頼への戦略的な適応として読めました（[[qu-wang-disclose-or-not-genai-2026|Qu & Wang（2026）]]）。
 - [[aivaluate-anxiety-assessment-2026|AIvaluate]]は、AI に媒介された[[assessment|実演に基づく評価]]の間の学生の不安を研究し、評価不安が持続し、設計において考慮されなければならないことを示しています。

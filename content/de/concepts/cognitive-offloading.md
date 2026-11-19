@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-17T10:20:00-05:00"
+source_updated: "2026-11-18T10:20:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -214,9 +214,8 @@ Zwei jüngere Studien liefern der Auslagerung einen Messapparat. Die 35-Item-Ska
 - [[trust-calibration]] — Wissen, wann man KI vertrauen und wann man sie hinterfragen sollte
 - [[retrieval-spacing-interleaving]] — die Gegenpraxis dazu, ein Modell anstelle der lernenden Person abrufen zu lassen
 - [[cognitive-surrender]]
-- [[executive-function]] — die Kapazität, die die Auslagerung vermutlich verdrängt: Arbeitsgedächtnis, Inhibition und kognitive Kontrolle
-
 - [[reflection]]
+- [[executive-function]]
 
 ## Verbundene Artikel
 - [[chen-genai-programming-understanding-2026]] — Programmieranfänger und Programmierende mit mittleren Kenntnissen: ChatGPT erhöhte die bestandenen Tests auf 410,7 gegenüber 80,7, während das Verständnis nicht nachzog (Chen et al., 2026)
@@ -226,6 +225,7 @@ Zwei jüngere Studien liefern der Auslagerung einen Messapparat. Die 35-Item-Ska
 - [[akcaoglu-offloading-ladder-experience-2026]] — Die Offloading-Leiter: wie Erfahrung verändert, was Lernende und Praktiker an KI abgeben sollten (Akcaoglu 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Das Denken der Studierenden unterstützen oder ersetzen? Kognitives Offloading beim KI-gestützten Lernen von Beweisen (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Was die Abgabe nicht zeigt: die Verkomplizierung kognitiven Offloadings in der mathematischen Arbeit von Studierenden mit LLMs (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Ein Konsens von 30 Expertinnen und Experten über 65 Lernprozesse: Offloading an beiden Enden der Lernsequenz
 - [[shastry-gray-empathy-offloading-2026]] — Menschen lagern Empathie aus, wenn sie glauben, KI könne sie stattdessen geben (Shastry & Gray 2026)
 - [[rented-self-decoupling-performance-becoming-2026]] — Das gemietete Selbst: Offloading, das nicht nur die Fähigkeit, sondern das fachliche Selbst des Lernenden kostet
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Gruppen mit gleichen Ausgangsbedingungen entwickelten sich auseinander: 74,1 % Modellübernahme in einem Profil gegenüber 80,8 % Offloading und Sackgasse in einem anderen (Kilinc et al. 2026)
@@ -264,8 +264,11 @@ Zwei jüngere Studien liefern der Auslagerung einen Messapparat. Die 35-Item-Ska
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Offloading-Tendenz und Verifikationskompetenz sagen höherstufige Ergebnisse über metakognitive Selbstregulation vorher (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — Ein Reflexions-Prompt verringert die Übernahme falscher KI-Ratschläge und verbessert die Bewusstseinskalibrierung (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI-Abhängigkeit als Randbedingung für die Disposition zu kritischem Denken und die selbst eingeschätzte Beschäftigungsfähigkeit (Shojaei et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Kinder zeigten beim Gespräch mit ChatGPT schwächere frontoparietale, Salienz- und dorsale Aufmerksamkeitskonnektivität als Erwachsene, bei gleichen Kreativitätswerten
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI und das kreative Denken von Kindern: Übervertrauen und Prompt-Abhängigkeit in einem Scoping Review (Niu et al. 2026)
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — Kognitive Dormanz: ein präregistriertes Experiment, in dem KI-Affordanzen die Tiefenverarbeitung senkten und die Desorganisation erhöhten, ohne das Offloading zu steigern (Braun 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Überabhängigkeit oder kognitives Offloading als Herausforderung in 16 von 66 Inquiry-Studien benannt
+- [[fan-metacognitive-offloading-sync-model-2026]] — SYNC-Quadranten und die Rekalibrierungsschleife: den Regulator delegieren, nicht nur die Arbeit (Fan et al. 2026)
 - [[zhang-usefulness-dependence-genai-2026]] — Von „Nützlichkeit“ zu „Abhängigkeit“: der dynamische Entwicklungsmechanismus des Nutzungsverhaltens gegenüber generativer KI
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Den Regulator zu entziehen erhöht das Offloading und senkt die Qualität der Ergebnisse
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Die Sequenzierungsregel entwicklungsbezogen angewandt: Arithmetik vor Taschenrechnern, Zitieren vor Literaturverwaltungsprogrammen

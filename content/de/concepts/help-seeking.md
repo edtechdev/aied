@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-19T09:58:08-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -29,8 +29,6 @@ ai_assist:
 
 > **Hilfesuche** — der Prozess der lernenden Person, einen Unterstützungsbedarf zu erkennen und ihn strategisch anzufragen, und wie dieser Prozess sich in KI-gestützten Lernumgebungen abspielt. In [[ai-education|KI in der Bildung]] ist Hilfesuche zentral dafür, ob KI-Werkzeuge Lernen stützen oder untergraben: die *Qualität* der Hilfesuche (wann, wie und worum Lernende bitten) prägt Ergebnisse stark, und KI-Tutoren, Hinweise und [[pedagogy|pädagogische]] Agenten sind genau dafür gestaltet, produktive Hilfesuche hervorzurufen statt Antwortsuche.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
 
-Proaktive Ansprache kann Hilfesuche erhöhen, ohne das Lernmaterial zu verändern. Ein vorregistriertes Experiment in stark belegten grundständigen Kursen kontaktierte Studierende über einen akademischen Chatbot und fand größere Inanspruchnahme von Tutoring und ergänzendem Unterricht; Mediationsanalyse schrieb 17.8% des Noteneffekts dieser erhöhten Hilfesuche zu (p = 0.041) (chatbot-outreach-course-performance-2026).
-
 ## Fragen zum Nachdenken
 
 - Wenn Sie nicht weiterkommen, neigen Sie dazu, um eine direkte Antwort zu bitten oder um Orientierung, die Ihnen hilft, es selbst herauszufinden? Was, glauben Sie, tut jede Wahl mit dem, was Sie tatsächlich behalten?
@@ -42,7 +40,7 @@ Proaktive Ansprache kann Hilfesuche erhöhen, ohne das Lernmaterial zu veränder
 
 ## Einführung
 
-Hilfesuche ist ein etabliertes Konstrukt der Lernforschung, eng verbunden mit [[self-regulated-learning|selbstreguliertem Lernen]] und [[metacognition|Metakognition]]: Sie erfordert von Lernenden, das eigene Verstehen zu überwachen, eine Lücke zu erkennen, zu entscheiden, dass Hilfe nötig ist, und eine wirksame Bitte zu formulieren. Mit dem Aufstieg [[generative-ai|generativer KI]]-Tutoren hat Hilfesuche neue Bedeutung angenommen — und neue Fehlermodi. Lernende *beabsichtigen* oft, KI zum Lernen zu nutzen, bitten aber standardmäßig um direkte Antworten, eine Lücke, die Forschung in dieser Wissensbasis über Domänen und Altersgruppen hinweg dokumentiert. Das klassische Modell nimmt an, eine Bitte gelte Wissen, das der Bittenden fehlt. Nachfrage nach operativer Unterstützung kompliziert diese Annahme: über 4.093 Anfragen fragten mindestens 20.4% nach dem Status einer laufenden Einreichung statt nach Wissen, eine Klasse, die ein retrieval-gebundener Assistent nur 1.3% der Zeit bediente [[student-query-demand-hybrid-ai-support-2026|Gupta et al. (2026)]].([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+Hilfesuche ist ein etabliertes Konstrukt der Lernforschung, eng verbunden mit [[self-regulated-learning|selbstreguliertem Lernen]] und [[metacognition|Metakognition]]: Sie erfordert von Lernenden, das eigene Verstehen zu überwachen, eine Lücke zu erkennen, zu entscheiden, dass Hilfe nötig ist, und eine wirksame Bitte zu formulieren. Mit dem Aufstieg [[generative-ai|generativer KI]]-Tutoren hat Hilfesuche neue Bedeutung angenommen — und neue Fehlermodi. Lernende *beabsichtigen* oft, KI zum Lernen zu nutzen, bitten aber standardmäßig um direkte Antworten, eine Lücke, die Forschung in dieser Wissensbasis über Domänen und Altersgruppen hinweg dokumentiert. Das klassische Modell nimmt an, eine Bitte gelte Wissen, das der Bittenden fehlt. Die tatsächliche studentische Nachfrage umfasst etwas anderes: [[student-query-demand-hybrid-ai-support-2026|Gupta et al. (2026)]] fanden, dass ein retrieval-gebundener Assistent nur 1,3 % der Anfragen zum Status einer ausstehenden Einreichung bediente.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
 
 ## Produktive versus unproduktive Hilfesuche
 
@@ -140,6 +138,12 @@ Im vollständig online stattfindenden [[english-education|Schreibunterricht]] is
 - **„Hilfesuche-Anfragen betreffen das Lernen.“** **Operativer Unterstützungsbedarf** stellt diese Annahme infrage: über **4.093 Anfragen** fragten mindestens **20,4% nach dem Status einer ausstehenden Abgabe statt nach Wissen**. Ein Fünftel der Nachfrage nach Hilfe war administrativ.
 - **„Einen KI-Tutor zu nutzen bedeutet, das eigene Lernen zu überwachen.“** In einer Studie mit **98 Neuntklässlerinnen und Neuntklässlern**, die einen GenAI-Tutor nutzten, waren die Interaktionen **von instrumentellen Anfragen dominiert, mit fast keiner Überwachung oder Bewertung des eigenen Lernens**. Nach Antworten zu fragen ist keine Hilfesuche in dem Sinn, den das Konstrukt meint.
 
+## Wenn die Gewohnheit das Fragen ersetzt
+
+Hilfesuche wird üblicherweise als Entscheidung untersucht — als Urteil darüber, ob das Fragen seine Kosten wert ist. Eine PLS-SEM-Studie von 2026 mit 392 Ingenieurstudierenden und Lehrenden auf den Philippinen legt nahe, dass diese Entscheidung, sobald [[generative-ai|generative KI]] eingebettet ist, weitgehend schon gefallen ist: **Die Gewohnheit sagte die Verdrängung menschlicher Hilfesuche mit β = 0,711 voraus**, während die [[technology-acceptance-model|Verhaltensabsicht]] sie mit β = 0,039 vorhersagte — ein Pfad, der statistisch nicht von null zu unterscheiden ist. Die Hälfte der GenAI-Nutzenden in dieser Stichprobe (49,6 %) berichtete, seltener eine Person um Hilfe zu bitten, und nur 15,8 % nannten einen Menschen als erste Ressource, wenn sie nicht weiterkamen, gegenüber 30,4 %, die ein Werkzeug nannten.
+
+Zwei Folgerungen ergeben sich daraus für die Gestaltung von Hilfesuche. Erstens konkurrieren Interventionen, die auf Einstellungen zielen oder das Fragen attraktiver machen sollen, mit einer Routine, die bereits automatisch abläuft — sie müssen die Routine adressieren, nicht die Überzeugung. Zweitens war das einzige Konstrukt, das die Verdrängung *verringerte*, die Sorge um [[academic-integrity|akademische Integrität]] (β = −0,329), was nahelegt, dass sich menschliche Konsultation eher durch verpflichtende zwischenmenschliche Kontrollpunkte erhalten lässt — Peer-Review, mündliche Verteidigung, betreute Laborhilfe — als durch Ansprache.([[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]])
+
 ## Verbundene Konzepte
 - [[learners]] — Lernende: die Überblicksseite für die Konzepte auf der Seite der Lernenden
 - [[self-regulated-learning]]
@@ -191,3 +195,4 @@ Im vollständig online stattfindenden [[english-education|Schreibunterricht]] is
 
 - [[wyszynski-genai-user-input-engineering-statics-2026]] — Untersuchung der Nutzung generativer KI durch Studierende anhand von Nutzereingabedaten in einem Kurs zur Technischen Statik
 - [[huang-multi-agent-self-regulated-learning-cs-2026]] — Multi-Agenten-Modell künstlicher Intelligenz zur Förderung selbstregulierten Lernens und konzeptuellen Verständnisses in der Informatikbildung...
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — Gewohnheit statt Absicht sagt voraus, dass Studierende Menschen seltener um Hilfe bitten: 49,6 % berichten von weniger menschlicher Hilfesuche, β für Gewohnheit 0,711 gegenüber 0,039 für Absicht

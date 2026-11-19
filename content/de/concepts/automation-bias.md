@@ -1,7 +1,7 @@
 ---
 title: Automatisierungsbias
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-19T12:54:50-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 contributors: [editor]
 translation_of: concepts/automation-bias
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -92,7 +92,9 @@ Zwei Beiträge argumentieren, dass das Gegengewicht eine Haltung und keine Regel
 
 ### Wenn der Bias als Risiko benannt statt gemessen wird
 
-Ein großer Teil der Literatur führt Automation Bias in einem Bedrohungsmodell auf, ohne ihn zu prüfen, und diese Unterscheidung ist entscheidend dafür, wie viel Gewicht das Konzept tragen kann. [[ahmadfard-interactive-oer-review-2026|Der interaktive OER-Review (2026)]] zählt ihn zu den wiederkehrenden Risiken, die die Handlungsfähigkeit von Lernenden und Lehrenden aushöhlen — aufgeführt, nicht gemessen. [[alshahrani-health-sciences-ai-use-2026|Die Befragung in den Gesundheitswissenschaften (2026)]] deutet die [[ethics|ethischen]] Bedenken von 310 Studierenden als Argument für eine [[professional-training|professionelle Ausbildung]], die Automation Bias ausdrücklich behandelt. [[ai-literacy-legal-translation-2026|Die Studie zur Rechtsübersetzung (2026)]] fordert, Post-Editing und Verifikation als gestufte Kompetenzen zu vermitteln, und benennt den Druck durch Automation Bias und Qualitätsillusion, der Fehlübersetzungen leicht übersehen lässt. [[morales-cevallos-ai-forensic-science-education-2026|Der Review zur Forensik (2026)]] stellt fest, dass Automation Bias in den eingeschlossenen Studien dokumentiert ist, und schlägt fallbasierte Übungen vor, die aus berichteten Fehlschlägen entwickelt werden. [[rana-genai-design-thinking-2025|Die Design-Thinking-Studie (2025)]] macht daraus eine Designanforderung: [[scaffolding|Scaffolds]], die das menschliche Urteil ins Zentrum stellen und sowohl Offloading als auch Automation Bias entgegenwirken.
+Ein großer Teil der Literatur führt Automation Bias in einem Bedrohungsmodell auf, ohne ihn zu testen, und der Unterschied ist entscheidend dafür, wie viel Gewicht das Konzept tragen kann. [[ahmadfard-interactive-oer-review-2026|Die interaktive OER-Review (2026)]] zählt ihn zu den wiederkehrenden Risiken, die die Handlungsfähigkeit von Lernenden und Lehrenden untergraben, und führt ihn auf, statt ihn zu messen. [[alshahrani-health-sciences-ai-use-2026|Die gesundheitswissenschaftliche Umfrage (2026)]] deutet die [[ethics|ethischen]] Bedenken von 310 Studierenden als Argument für eine [[professional-training|Berufsausbildung]], die Automation Bias ausdrücklich behandelt. [[ai-literacy-legal-translation-2026|Die Studie zur juristischen Übersetzung (2026)]] fordert, Post-Editing und Verifikation als benotete Fähigkeiten zu lehren, und nennt den Druck durch Automation Bias und Qualitätsillusion, der es leicht macht, Übersetzungsfehler zu übersehen. [[morales-cevallos-ai-forensic-science-education-2026|Die Review zur Forensik (2026)]] findet Automation Bias in ihren eingeschlossenen Studien dokumentiert und schlägt fallbasierte Übungen vor, die auf berichteten Fehlern aufbauen. [[rana-genai-design-thinking-2025|Die Design-Thinking-Studie (2025)]] macht daraus eine Designanforderung: [[scaffolding|Gerüste]], die menschliches Urteilsvermögen ins Zentrum rücken und sowohl der Auslagerung als auch dem Automation Bias entgegenwirken.
+
+Ein anderer Bias liegt in der Ausgabe statt beim Nutzer. In Esmeraldas, Ecuador, beschrieben 90 Bildungs- und Gemeinschaftsakteure, wie Bildwerkzeuge den Hautton, die Haarstruktur und die Gesichtszüge afro-ecuadorianischer Teilnehmender veränderten; eine Person nannte es „eine Form von Rassismus, auch wenn sie digital ist“ — repräsentationaler Schaden, den keine Genauigkeitsmetrik erfasst ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 
 ## Wo die Evidenz dünn, gemischt oder umgekehrt ist
 

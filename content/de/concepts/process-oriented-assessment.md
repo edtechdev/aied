@@ -1,7 +1,7 @@
 ---
 title: Prozessorientiertes Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-19T12:54:50-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [process-feedback, code-viva, vfwa]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -142,3 +142,4 @@ Thapa und Lewis' Darstellung ist konzeptuell: keine Teilnehmenden, keine Datener
 - [[black-box-assessment-winstone-2026]] — Black-Box-Assessment: Prozessfenster, Fehler als Evidenz und Integrität durch Sichtbarkeit (Winstone, Gravett & Elkington 2026)
 - [[francis-pace-framework-genai-assessment-2026]] — PACE: Bewertung des Prozesses auf einer vierstufigen Agency-Skala der Handlungsfähigkeit (Francis et al., 2026)
 - [[performance-without-capability-genai-assessment-validity-2026]] — Ein zweidimensionales Rahmenwerk (kognitive Verantwortung, Prozesssichtbarkeit), das erklärt, warum ein sichtbarer Prozess dennoch Dokumentensubstitution darstellen kann
+- [[xian-process-visualization-feedback-news-translation-2026]] — Prozessvisualisierungen plus eine Reflexionseinheit verlagerten die Überarbeitung von der Oberflächen- auf die Bedeutungsebene, ohne das Bearbeitungsvolumen zu erhöhen

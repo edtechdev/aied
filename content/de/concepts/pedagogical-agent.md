@@ -1,7 +1,7 @@
 ---
 title: Pädagogische Agenten
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-19T12:54:50-05:00"
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
 technology: [generative-ai, intelligent-tutoring, llm, personalized-learning]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: medium
 connected_faqs: [ai-agents-support-students-instructors]
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -73,7 +73,9 @@ Die Oberfläche des Agenten ist eine eigene Designachse gegenüber seiner Pädag
 
 - **Ein in der Praxis eingesetzter Begleiter für den Untersuchungszyklus, der initiiert, statt abzuwarten.** In einem STEM-Einsatz in der Sekundarstufe mit 710 Lernenden strukturierte ein KI-Lernbegleiter fünf Phasen – Engagement, Hypothesis, Experiment, Analysis und Reflection –, bot Anleitung nach eigenem Zeitplan und gab jedes LLM-generierte Element erst nach Freigabe durch die Lehrkraft frei ([[anagnostopoulou-ai-companion-stem-self-efficacy-2026|Anagnostopoulou et al., 2026]]). Alle Ergebnisse wurden zu einem einzigen Zeitpunkt selbstberichtet erhoben, sodass das Design dokumentiert, nicht aber als wirksam nachgewiesen ist.
 
-- Lan und Chen (2026) schlagen vor, einen von Lehrkräften erstellten Agenten in fünf Schichten zu zerlegen – pädagogisches Design, Interaktion, Fähigkeiten, Orchestrierung und Governance –, jede Lehrkräfteentscheidung mit dem Mechanismus zu koppeln, der sie ausführt, und legen fest, dass Überarbeitung zur betroffenen Schicht zurückkehrt: Die Laufzeit kann ihre eigene Korrektur nicht autorisieren ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
+- Lan und Chen (2026) schlagen vor, einen von Lehrkräften erstellten Agenten in fünf Schichten aufzuteilen — pädagogische Gestaltung, Interaktion, Fähigkeiten, Orchestrierung und Governance —, jede Entscheidung der Lehrkraft mit dem Mechanismus zu verknüpfen, der sie ausführt, und festzulegen, dass eine Überarbeitung zur betroffenen Schicht zurückkehrt: Die Laufzeitumgebung kann ihre eigene Korrektur nicht autorisieren ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
+
+- **Welche Rolle ein Korpus von Agenten tatsächlich ausfüllt:** Über 25 Studien zu generativen Agenten in der Bildung für nachhaltige Entwicklung hinweg wurden 44 Rollenzuweisungen kodiert — dialogischer Tutor in 16, instruktionaler Co-Designer in 12, Szenariogenerator in 7 — und der Dilemma-Gesprächspartner, bei dem das System die Deliberation über einen Wertekonflikt aufrechterhält, kam in einer Studie vor ([[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez et al., 2026]]).
 
 ## Praktische Anleitung
 

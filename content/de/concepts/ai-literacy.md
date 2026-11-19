@@ -1,7 +1,7 @@
 ---
 title: KI-Kompetenz
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-19T12:54:50-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-11-16T18:50:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -405,4 +405,5 @@ Fachbereichsleitungen können den kritischen Strang sichtbar halten. Eine Kompet
 - [[ago-prompt-literacy-allied-health-2026]] — 417 Studierende der Gesundheitsberufe in Ghana: 76.3% hatten keine Schulung zu verantwortungsvoller KI, und 40.8% bewerteten die Anleitung durch das Lehrpersonal als unzureichend gegenüber 28.1%, die sie als angemessen bewerteten (Ago et al., 2026)
 - [[making-ai-work-for-students-ofs-2026]] — OfS und Advance HE (2026): 244 Beschäftigte und 91 Studierende an 127 Einrichtungen zu Detektion, Assessment-Design, KI-Kompetenz und Strategie
 - [[yan-genai-use-critical-thinking-feedback-literacy-2026]] — 421 Studierende: Feedback-Kompetenz trägt 72% des Zusammenhangs zwischen KI und kritischem Denken
-
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — Ethikunterricht wirkt (g = 0,55), aber diskussionsbasierte Vermittlung tut es und reine Vorlesungsvermittlung nicht.
+- [[idea-model-doctoral-education-genai-2026]] — Doktoranden gestalten ihre eigenen Kurse neu: 76,5 % führten eine Kursneugestaltung durch, 73,5 % nutzten die KI-gestützte Praxis bei der Nachbefragung weiterhin

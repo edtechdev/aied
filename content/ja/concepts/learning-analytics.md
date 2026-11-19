@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -73,6 +73,7 @@ ai_assist:
 
 ## 記述から介入へ
 - **エビデンス基盤はまだ介入のエビデンスではない。** 学生、専門分野、教育者、機関の水準にわたる四つの研究を統合し、[[learning-analytics-genai-learning-design|Rienties, Divjak and Law (2026)]]は、この分野が横断的、[[self-report-measures|自己申告]]、談話ベース、専門家の判断によるデザインに支配されていることを見出し、因果的な機構とより長期的で分配的な成果を検証する介入研究を求めています。
+- **介入の種類は相互に置き換え可能ではありません。** 39件の実験的・準実験的研究を対象としたPRISMAレビューは、[[self-regulated-learning|自己調整]]と知識の成果に結びついたプロンプト、注意の過程に結びついたキュー、行動的エンゲージメントに結びついたナッジを見いだしました。したがって、介入はそれが狙う成果に合わせて選ぶべきです（[[rako-prompts-cues-nudges-systematic-review-2026|Rako, Šimić and Rienties, 2026]]）。
 
 **ランダム化された促しの設計が因果の錨を与えます。** ASSISTments におけるランダム化された促しの実験では、[[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan & Sales (2025)]]が、プラットフォームに不慣れな教師に対し、課題を作成した後に課題レポートを見るようランダムに促しました。
 330 人の教師の分析サンプル（統制 156、促し 174、付加価値については 281）のうち、最初の課題レポートを見ることは次の課題の完了を有意に高め（Anderson-Rubin F = 4.092, p = 0.044）、全体で少なくとも 2 パーセントポイントでした。
@@ -88,6 +89,8 @@ ai_assist:
 
 誠実性に関する成果が同じ予測的な層に入ってきます。[[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]]は、学期の最初の 8 週間の[[video-education|Moodle と動画プレーヤー]]の痕跡から AI 支援の不正リスクを予測し、ロジスティック回帰で AUC 0.763 に達し、そのシグナルは試験の最中ではなく試験の前に届くがゆえに使えると論じています。
 補完的な研究系列は、アナリティクス自身の*解釈*を標的にします。[[factria-responsible-institutional-analytics-2026|Marques et al. (2026)]]の FACTRIA 枠組みは、指標の背後にあるバイアス要因——パイプライン、制度的、コース、人口統計——を組織化し、省察を促すチャットボットが、11 人の関係者が 1 件あたり測った下位要因を 1.41 から 3.45 へ引き上げ（d = 2.15）、彼らを直接的な読みから条件的な読みへと移行させました。
+
+- フィードバックのために集められた痕跡と、評点のために集められた痕跡は、別の行動です。学習者が、ある記録が評価されるかもしれないと知ると、その記録が見せるものを管理するようになるため、ログは学習そのものと同じ程度に、学習の提示を測っていることになります（[[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]）。
 
 ## 方法とネットワーク分析
 

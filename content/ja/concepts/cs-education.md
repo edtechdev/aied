@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,7 @@ ai_assist:
 - **小さく微調整されたチューターは、より大きな汎用モデルよりもよく足場を打ちうる。** 1,213件の合成されたチュータリングの対話でQwen2.5-Coder-7B-Instructを微調整することで、チューターの発話のうち解法を時期尚早に開示する割合を7.43%から1.88%に減らし、段階的な足場づけとデバッグの質問の質をGPT-4oの水準以上に高めました。ただし、信頼できる教授的な計画の生成は未解決のままでした([[socraticrepair-program-debugging-2026|Kopytskyi et al. (2026)]])。
 
 - **フィードバックは診断を隠したまま段階づけられうる。** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas（2026年）]]は、生徒のデータベース・スキーマの成果物に基づく診断を、それを開示するワークフローから切り離し、教育者が段階を執筆します。383のエピソードにわたって、フィードバックの71.1%がその標的の水準に届きました。
+- **要件の誤りの種類は17あり、211チームにわたって数えられました。** 優先度の誤りが最も多く（学士課程のチームの81%）、1回のゼロショットの生成的AIプロンプトが、範囲、ストーリーの形式、優先度、工数においてチームに匹敵するか上回りました（[[spichkova-genai-agile-requirements-2026|Spichkova（2026年）]]）。
 
 ### プログラミングの教授学：ブロックから身体化されたゲームベースの学習まで
 
@@ -110,6 +111,7 @@ ai_assist:
 ### エクイティ、文化、そして誰がコンピューティングに入るか
 
 - **参加の拡大：** [[suacode-african-students-motivations|SuaCode]]は、アフリカの生徒のスマートフォンベースのコーディングの動機（中等学校を離れた者の1%未満が基礎的なコーディングの技能を持つ）を記録し、[[equity-in-ai-education|資源の乏しい文脈]]のためのアクセスしやすいAI支援のMOOCに知見を与えています。
+- **AIのない関門、AI優先の仕事。** [[ai-free-gates-engineering-students-india-2026|Goutham & Gu（2026年）]]はインドの工学系学生23人にインタビューしました。1人を除く全員が、AIを排除した就職の選考にAIを使い、他方で雇用主はAIを求めていたため、ふるいにかけられた成績はより少ないものを証明しています。
 - **神経多様性と協働：** [[neurodivergent-computing-students|神経多様性のあるコンピューティングの生徒]]は、曖昧な協働の構造に対する不快感を報告しています。構造化された課題、より小さく一貫したチーム、そして明示的な役割が[[accessibility|アクセシビリティ]]を改善します — コンピューティングの教室に入ってくるAIの道具のための設計上の教訓です。
 - **文化が知覚される倫理を形づくる：** [[cross-cultural-student-perceptions-genai-computing|カナダと韓国のコンピューティングの生徒]]は、機能的に同一の方針にもかかわらず、同一のAI支援のコーディングの実践を異なって判断しました — 政策の調和は知覚の調和を生みません。[[academic-integrity|学術的誠実性]]と[[equity-in-ai-education|エクイティ]]の関心事です。
 - **協働の[[explainable-ai|透明性]]：** [[student-perception-ai-use-collaboration|Graf et al.]]は、互いのAIの利用についての相手のずれた信念が、特に成績の低い生徒について、より低いプロジェクトの得点を予測することを見出しています。協働的なプログラミングには、透明性の仕組み（開示、共有されたログ）が必要かもしれません。

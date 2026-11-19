@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-15T05:36:00-05:00"
+source_updated: "2026-11-19T10:16:37-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -109,9 +109,13 @@ ai_assist:
 - **「教員と学生は、何が倫理的かについて一致している。」** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever（2026）]]は、**971人の学生と135人の教員**を対象とした[[mixed-methods-research|混合研究法]]の研究で、倫理の次元が両集団の間で分岐することを見出しました。一方の視点から書かれた政策は、他方を誤って述べることになります。
 - **「倫理的合意が利用に先行する。」** **利用は倫理的合意より速く増えます**。米国の教員養成プログラムで4学期にわたり、学生のGenAI利用は**評価準備で57%から83%へ上昇**しました。規範は、その逆ではなく、実践によって形成されているのです。
 
-## 関連概念
+## 倫理教育はそもそも効果があるのか
 
-- [[civic-and-political-education]]
+AI倫理の指導は、誰も検証しない前提によって正当化されることが多いのです。すなわち、[[ethics|倫理教育]]が何かを変えるという前提です。66件の研究と9,978人の学生を対象とした2024年のシステマティックレビューとメタ分析は、教育一般においてこの前提を検証した最良の研究です。倫理の介入は、統制条件に対して倫理的・道徳的な成果をg = 0.55高め、真の効果の73%が事前登録された有用性の閾値を上回りました — しかし**実施形式が調整を担っていました**。討論に基づく形式と討論＋講義形式は機能し（g = 0.56およびg = 0.68）、講義のみの指導はゼロと区別できませんでした（g = 0.10）。オンラインでの実施は対面と区別できませんでした。（[[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]]）
+
+AI倫理への転用は、この研究の所見ではなく推論ですが、強い推論です。バイアスと誠実性についての講義として提供されるAI倫理のモジュールは、この根拠に照らせば、利用可能な形式の中で最も弱いものになります。
+
+## 関連概念
 
 - [[business-education]]
 - [[equity-in-ai-education]]
@@ -128,9 +132,11 @@ ai_assist:
 - [[teacher-education]]
 - [[chemistry-education]] — 化学教育とAI：実験、形成的評価、LLMの限界、実験の哲学
 - [[biology-education]] — 生物教育とAI：実験のティーチングアシスタント、生物学におけるAIリテラシー、批判的思考、専門化されたツール
+- [[civic-and-political-education]]
 
 ## 関連記事
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — 不正行為の枠組みではなくパートナーシップ倫理が機関のGenAI判断を導くべきだと論じるスウェーデンの調査・フォーカスグループ研究
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - 対処の枠組みを教えないまま、倫理的意識がAI不安を増幅した：584人の学生における間接効果のみの媒介
 - [[learning-analytics-to-educational-interventions-2026]] — ラーニングアナリティクスから教育的介入へ：信頼できるLAに基づく介入の実現要因（Svetec, Divjak & Kadoić 2026）
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 学生がオンライン評価でAIをどう使い隠すか
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 学生によるAI開示、汚名、自己調整学習

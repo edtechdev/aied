@@ -7,7 +7,7 @@ foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -81,7 +81,7 @@ ai_assist:
 
 **教授学的エージェントというレンズ。** 教授学的エージェントは、教授の戦略 — [[self-assessment|自己評定]]の引き出し、[[socratic-method|ソクラテス式の問い]]、[[agentic-ai|マルチエージェント]]設計における役割特化の促進（教師、補助者、同級生、分析者） — を遂行するために対話の媒体を用います。すべてのCAIエージェントが教授学的エージェントであるわけではありませんが、両者は重なり合っています。CAIエージェントのアンブレラ・レビューは、教授と学習の支援（97.1%）とメタ認知的発達（88.2%）がCAIの応用を支配していることを見出しました。つまり、教育に焦点を当てたCAIエージェントの大半は教授学的に機能しているのです。[[conversational-agents-novice-programmers-scoping-2025|初心者のプログラマーに関する範囲設定レビュー]]はこれを鋭くします。23の対話エージェントのうち4つだけが、設計を[[learning-theories|学習理論]]に明示的に根拠づけていました — 大半は意図において教授学的でしたが、基盤においてはそうではなかったのです。
 
-**ITSというレンズ。** 知的チューターは、生の対話モデルに欠けている*[[cognitive-diagnosis|認知的診断]]の装置*を貢献します。[[conversational-ai-tutors-framework|対話型AIチューターの枠組み]]は、実証されたITSの技術が生成的チューターを支えに据えるべきだと論じています。知識追跡、感情の検出、学習者モデリングが構造を供給し、[[generative-ai|生成的AI]]と[[llm|LLM]]が柔軟な対話を供給します。これが主要な設計上の緊張関係です — 対話型AIは自然で拡張可能な相互作用を提供しますが、ITS様式の構造がなければ、[[cognitive-offloading|過剰な足場づけ]]、幻覚、あるいは学習者の生産的なもがき苦しみの迂回のリスクを負います。[[measuring-llm-tutors-teach-vs-solve|LLMチューターが教えるのか解くのかを測ること]]や[[stanford-evidence-base-ai-k12-2026|K-12のAIの証拠基盤]]のような研究は、教授学志向の基準（導きの質問、較正されたヒント）が明示的に設計されなければならないことを示しています。
+**ITSというレンズ。** 知的チューターは、生の対話モデルに欠けている*[[cognitive-diagnosis|認知的診断]]の装置*を貢献します。知識追跡、感情の検出、学習者モデリングが構造を供給し、[[generative-ai|生成的AI]]と[[llm|LLM]]が柔軟な対話を供給します。これが主要な設計上の緊張関係です — 対話型AIは自然で拡張可能な相互作用を提供しますが、ITS様式の構造がなければ、[[cognitive-offloading|過剰な足場づけ]]、幻覚、あるいは学習者の生産的なもがき苦しみの迂回のリスクを負います。[[measuring-llm-tutors-teach-vs-solve|LLMチューターが教えるのか解くのかを測ること]]や[[stanford-evidence-base-ai-k12-2026|K-12のAIの証拠基盤]]のような研究は、教授学志向の基準（導きの質問、較正されたヒント）が明示的に設計されなければならないことを示しています。
 
 **要するに：** 対話型AIは**インターフェース/媒体**、教授学的エージェントは**役割**、そして知的チューターは**根底にあるモデル化と教授的論理**です。教育的に価値のあるCAIエージェントは、三つすべての交差点に位置します — インターフェースにおいて対話的で、意図において教授学的で、学習者のモデル化においてチューター的です。
 
