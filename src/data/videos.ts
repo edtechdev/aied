@@ -97,6 +97,16 @@ export const VIDEOS: Video[] = [
     concepts: ['teacher-role'],
     faqs: [],
   },
+  {
+    slug: 'applying-aied-research',
+    youtubeId: 'RZzS0_cBsGI',
+    title: 'Applying AI in Education Research',
+    summary:
+      'How to read an AI-in-education claim before acting on it: what was compared, what was measured, who was studied, and whether the tool still exists in the form that was studied.',
+    seconds: 443,
+    concepts: ['interpreting-and-applying-aied-research'],
+    faqs: [],
+  },
 ];
 
 export const VIDEO_BY_SLUG = new Map(VIDEOS.map(v => [v.slug, v]));

@@ -1,8 +1,10 @@
 ---
 title: Interpreting and Applying AIEd Research
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-19T14:06:00-05:00"
 type: concept
+connected_podcasts: [performance-illusion]
+connected_videos: [applying-aied-research]
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied, meta-analysis-systematic-review, quantitative-research]

@@ -13,7 +13,7 @@ ai_assist:
     date: "2026-11-13"
     agent: hermes-agent
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
-connected_podcasts: [ai-literacy-output-versus-system]
+connected_podcasts: [ai-literacy-output-versus-system, performance-illusion]
 connected_videos: [a-new-ai-literacy]
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
