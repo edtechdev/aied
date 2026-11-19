@@ -12,9 +12,9 @@ level: [higher ed, adult learning]
 page_kind: [synthesis]
 confidence: medium
 connected_resources: [public-ai-libraries]
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 translation_of: "concepts/libraries"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,13 @@ Die älteste Funktion der Bibliothek — Zugang zu ermöglichen, den Einzelne ni
 - **Halten Sie in jedem KI-Dienst einen menschlichen Eskalationsweg offen.** Die Evidenz stützt KI für Nachschlagen und Entwerfen sowie menschliches Personal für Urteile über Quellen; Designs, die das Zweite löschen, um das Erste zu skalieren, entfernen den Teil, den Nutzende anderswo nicht bekommen.
 - **Messen Sie die Verschiebung der Suche, statt sie zu befragen.** Ausleih- und Discovery-Protokolle existieren bereits; eine Bibliothek, die sie mit Unterweisungsdaten paart, wird mehr über die Wirkung von KI wissen, als eine einmalige Studierendenbefragung zeigen kann.
 - **Verbuchen Sie KI-Kompetenz nicht als Informationskompetenz.** Sie teilen Personal und Rahmenwerke, unterscheiden sich aber darin, was bewertet wird; ihre Vermischung erzeugt ein Programm, das keines von beiden misst.
+
+## Verbreitete Fehlvorstellungen
+
+- **AI in Bibliotheken bedeutet einen Chatbot am Auskunftsschalter.** Die Einführung konzentriert sich auf transaktionale Arbeiten — Orientierungsfragen, Katalogisierung, Chat-Protokolle —, während die Urteilsbildung beim Menschen bleibt.
+- **Studierende haben die Bibliothek aufgegeben.** Suchmaschinen bleiben der dominierende Ausgangspunkt, und neun Jahre an Ausleihdaten zeigen keinen Strukturbruch im Ausleihverhalten.
+- **Die Finanzierung ist die einzige Hürde.** Kompetenzlücken und schlechte Datenqualität werden häufiger genannt als Geld, was dies zu einem Kapazitätsproblem ebenso wie zu einem Budgetproblem macht.
+- **Eine wachsende Literatur bedeutet, dass sich das Feld wandelt.** Das Publikationsvolumen stieg, ohne dass eine Veränderung der Praxis gemessen wurde; die Übersichtsarbeiten finden Enthusiasmus, der dem Effekt vorausläuft.
 
 ## Verbundene Konzepte
 

@@ -1,14 +1,14 @@
 ---
 title: 生産的失敗
 created: "2026-10-10T22:45:45-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
 technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/productive-failure
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -52,6 +52,8 @@ PFの枠組みは、**代理的な失敗**、**解決策の多様性**、**適�
 
 ### エラーから学ぶ
 誤りを含んだ処理は、特に学習者に理解を内省し再編成する機会が与えられるとき、保持と概念的変化を助けられます(Kapur, 2008; Schwartz & Martin, 2004)。AIの時代、これは、学習者が直接的な訂正を受けるのではなく、自分の誤りを診断し訂正するシステムにおいて具体化されます——例えば、[[lukesova-clue-before-correction-2026|clue-before-correction]]タスクです。AIが導かれたヒントを与え、学習者が正しい解決策を推論し、認知的負荷を減らし自律的な改訂を支えます。精緻化されたフィードバックは、検証のみのフィードバックよりも有意に高い[[learning-gains|学習の伸び]]を生み出します(Hattie & Timperley)。そして、フィードバックのタイミングは重要です。
+
+**統制された AI 支援コーディング課題では、エラーこそがカリキュラムだった。** [[shen-ai-skill-formation-2026|Shen と Tamkin (2026)]] は、開発者に新しい Python ライブラリを GPT-4o アシスタントあり/なしのいずれかの条件で学習させ、支援なしの群が遭遇したエラーの中央値は 3 件だったのに対し、支援ありの群は 1 件だった（Q1–Q3:2.0–5.0 対 0.0–3.0）。アシスタントが取り除いたエラーは、コルーチンの理解を強いるライブラリ固有のもので、たとえば await されていないコルーチンや、関数が期待される場所に渡されたコルーチンオブジェクトなどである。その後、支援なしの群は AI を使わずに受けたクイズで 17% 高い得点を取り、差が最も大きかったのはデバッグ、最も小さかったのはコード読解であり、生成されたコードを貼り付ける代わりに打ち直しても、その差はまったく縮まらなかった。著者らは自力でのエラー解決をそのメカニズムと解釈しているが、実際に測定したのは関連であり、媒介を検証したものではない。
 
 ### ミステイク対エラー
 有用な区別です。**ミステイク**は、典型的には手すりや行き詰まり(しばしば不注意や過負荷から)で、診断的価値が限定的かもしれません。一方、**エラー**は本当の誤解や欠陥のある推論を反映し、対処できる誤概念を露わにするため、より生産的な学習材料です。エラー分析——答えが*なぜ*間違っているかを特定すること——は、エラーから学ぶことの中心であり、重要な[[pedagogy|教育学的]]スキル(そして[[ai-feedback-quality|AIフィードバック]]設計の標的)です。

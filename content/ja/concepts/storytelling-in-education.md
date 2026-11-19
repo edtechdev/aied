@@ -1,7 +1,7 @@
 ---
 title: 教育におけるストーリーテリング
 created: "2026-10-10T22:54:28-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-11-04T14:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -37,14 +37,14 @@ ai_assist:
 
 ## 知識ベースの研究に現れるストーリーテリング
 
-- **ロボットを介したストーリーテリング：** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]]は人間らしい相互的なデジタルストーリーテリングロボットを用い、紙や PowerPoint の方法に比べた行動的・認知的関与の有意な向上を見出しています。[[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]は、教員が[[curriculum-design|カリキュラム]]の内容から LLM 駆動のシナリオベースのストーリーテリング活動をつくれるようにします。
+- **ロボットを介したストーリーテリング：** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]]は人間らしい対話型デジタルストーリーテリングロボットを用い、紙やPowerPointによる手法に比べて行動的・認知的エンゲージメントに有意な向上を見出した。[[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]は、教師が[[curriculum-design|カリキュラム]]の内容からLLMを活用したシナリオベースのストーリーテリング活動を作成できるようにする。
+- **エンゲージメントの向上には大きさがあり、動機づけは追随しなかった。** MotiBoは行動的および認知的エンゲージメントにおいて紙とPowerPointをそれぞれ27.06%と30.00%上回った（いずれもp < .05）が、内発的動機づけは20.21%上昇したものの有意水準には達しなかった（p = .07）。エンゲージメントは動いたが、動機づけは閾値を越えず、5日間の準実験では学習成果は測定されなかった（[[motibo-digital-storytelling-robots-motivation-2026|Fung & Lui, 2026]]）。
+- **共創的な物語HRI：** [[icub-humanoid-storytelling-llm-hri-2025|iCubの物語研究]]は、人間とロボットによる物語の共創を探り、文脈に適したインタラクションのために生成モデルを統合している。
+- **物語と創造性：** ストーリーテリングは[[creativity|創造性]]と[[language-learning|言語]]の発達を支え、[[k-12]]の環境において動機づけとエンゲージメントを高めるために用いられている。
+- **AIへの対抗軸としてのデジタルストーリーテリング：** [[generative-ai|生成AI]]が台頭するなか、デジタルストーリーテリングは、AIが欠いている情動的・文化的・物語的能力を担う手段として捉え直されている。美術と[[design-education|デザイン教育]]のための[[project-based-learning|プロジェクト型学習]]モデルでは、学生が地域の文化遺産を92作品のデジタルストーリーテリングを通じて[[multimodal|マルチモーダル]]な物語へと翻訳し、AI時代においてストーリーテリングがいかに人間の創造性を支えるかを示した。
+- **生成された物語は作りやすく、一貫性を保ちにくい。** 22名のSTEM学生を対象とした研究では、AI生成のインタラクティブフィクションは物語の明瞭さ（M = 4.11）と長さ（M = 4.14）で高く評価されたが、エンゲージメントは中立の中間点にとどまり（M = 3.08）、物語内容の一貫性が最も弱かった（M = 2.92）（[[ai-generated-interactive-fiction-education-2026|Rogosch et al. (2026)]]）。共創は、物語が本来その役割を果たすべき層において、この弱さを引き継いでいる。
 
-- **関与の向上には大きさがあり、動機づけはついてこなかった。** MotiBo は行動的・認知的関与で紙と PowerPoint をそれぞれ 27.06% と 30.00% 上回り（いずれも p < .05）、内発的動機づけは 20.21% 上昇したものの有意には達しませんでした（p = .07）。関与は動き、動機づけは閾値を超えず、5 日間の準実験は学習成果を測定していません（[[motibo-digital-storytelling-robots-motivation-2026|Fung & Lui, 2026]]）。
-- **共創的な物語の HRI：** [[icub-humanoid-storytelling-llm-hri-2025|iCub の物語研究]]は、文脈に適した相互作用のために生成モデルを統合し、人間とロボットによる物語の共創を探究します。
-- **物語と創造性：** ストーリーテリングは[[creativity]]と[[language-learning|言語]]の発達を支え、[[k-12]]の場面で動機づけと関与を高めるために用いられています。
-- **AI へのつっかい石としてのデジタルストーリーテリング：** [[generative-ai|生成 AI]]が台頭するにつれて、デジタルストーリーテリングは、AI が欠いている感情的・文化的・物語的な能力の乗り物として再構成されています。美術・[[design-education|デザイン教育]]の[[project-based-learning|プロジェクトベース学習]]のモデルでは、学生が地域の文化遺産を 92 作品のデジタルストーリーテリングにわたって[[multimodal]]な物語へと翻訳し、ストーリーテリングが AI 時代に人間の創造性をどう持続させるかを示しました。
-
-- **生成された物語は作りやすいが、一貫性を保つのは難しい。** 22 人の STEM 学生を対象とした研究では、AI が生成したインタラクティブ・フィクションは物語の明瞭さ（M = 4.11）と長さ（M = 4.14）で高く評価されましたが、関与は中立の中点にとどまり（M = 3.08）、物語内容の一貫性が最も弱い評価でした（M = 2.92）（[[ai-generated-interactive-fiction-education-2026]]）。共創は、物語が本来その仕事を果たす層で、その弱さを受け継ぎます。
+- **物語は評価の枠組みであり、単なる出力の行き先ではない。** トルコの就学前教育の現場では、22人の子どもたちが、教師がすべての画像プロンプトを書く形で絵本を制作した。生成された画像に対する彼らの判断は物語との適合性に関するもの——4つの候補のうちどれをクラスとして残すか、「パイロットのような」追加のオブジェクトが場にふさわしいか、頼んだ花が描かれていないせいでその画像が醜いのか——であり、それが「眼鏡をかけた蝶なんてありえない」といった妥当性の判断と並べて置かれていた([[konca-preschool-genai-storytelling-ai-literacy-2026|Konca & Yigit-Gencten, 2026]])。物語作りは、クラスが出力を特徴ごとに吟味する理由を与え、まさにそれによって、ツールについての彼らの推論がそもそも見えるものになったのである。
 
 ストーリーテリングは、[[student-engagement]]、[[motivation]]、[[creativity]]、[[educational-robotics]]、[[language-learning]]、[[social-emotional-learning]]、そして[[educational-robotics]]につながります。
 

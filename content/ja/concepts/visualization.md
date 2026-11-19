@@ -5,8 +5,8 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: '2026-10-11T03:00:13-04:00'
-updated: "2026-11-07T20:21:19-05:00"
-source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-19T06:40:00-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_of: concepts/visualization
 translation_note: 英語ページの自動翻訳です。母語話者による確認はまだ行われていません。
 contributors:
@@ -45,9 +45,11 @@ ai_assist:
 
 ## AI生成およびマルチモーダルの視覚コンテンツ
 
-第二の大きな流れは、AIが可視化を直接生み出すことを扱います。[[nuclear-diffusion-text-to-image-learning-2026|核拡散（テキストから画像への生成）研究]]は、領域適合させたテキストから画像へのモデルが専門的なSTEM概念の正確な図解を生成できることを示しています。Stable Diffusionを原子力領域の画像でファインチューニングすることで領域の正確さは12%から78%に上がり、教員が原子炉構成部品や安全システムの正しい可視化をオンデマンドで生成できるようになりました。この生成能力は強力ですが、一様ではありません。[[mllm-scientific-visualization-literacy|科学可視化リテラシーのベンチマーク]]は、6つのマルチモーダル大規模言語モデルを485名の人間参加者と科学的可視化リテラシーで比較し、一様な有能さはないことを見出しました。クローズドソースのGeminiは複数のサブセットで人間の平均を上回った一方、すべての[[open-source|オープンソース]]モデルはそれを下回り、細粒度の[[quantitative-research|定量的]]推定やテクスチャベース・統合ベースの可視化に特に弱点がありました。したがってAIは、人間の可視化リテラシーを支えるものであって、それに取って代わるものではなく——この知見は[[ai-literacy|AIリテラシー]]と[[formative-assessment|形成的評価]]に直接的な含意を持ちます。
+第二の主要な流れは、AIが可視化を直接生成することに関わる。[[nuclear-diffusion-text-to-image-learning-2026|Radaideh et al., 2026]] は、ドメイン適応されたtext-to-imageモデルが専門的なSTEM概念の正確な図解を生成できることを示しており、原子力ドメインの画像でStable Diffusionをファインチューニングしたところ、ドメイン精度が12%から78%へと向上し、教育者が必要に応じて正しい原子炉構成要素や安全系の可視化を作成できるようになった。この生成能力は強力であるが、一様ではない。[[mllm-scientific-visualization-literacy|Phuoc et al., 2026]] は、科学的可視化リテラシーについて6つのマルチモーダル大規模言語モデルを485名の人間の参加者と比較する[[benchmark|ベンチマーク]]を行い、均一な能力は存在しないことを見いだした。すなわち、クローズドソースのGeminiは複数のサブセットで人間の平均を上回った一方、すべての[[open-source|オープンソース]]モデルはそれを下回り、とくに細粒度の[[quantitative-research|定量]]推定や、テクスチャベースまたは統合ベースの可視化において弱点が顕著であった。したがってAIは、人間の可視化リテラシーを代替するのではなく、これを支援すべきであり、この知見は[[ai-literacy|AIリテラシー]]および[[formative-assessment|形成的評価]]に直接的な示唆を与える。
 
 プロンプトからチャートへの生成は、AIが有能な可視化を生み出せるかどうかとは別の問いを立てます。学習者が、その成果物を教育的にする分析的な作業と符号化の作業を、なお自ら行っているかどうかです。2026年の枠組みはこれを過程–産出の分岐と呼び、[[scaffolding]]と代替との間の主体性の線として、透明性、招待、フェイディングを提案します([[genai-visualization-education-framework-2026|Purohit et al., 2026]])。
+
+頻度は重要性ではなく、その乖離こそが指導の対象となる。著者自身のペロブスカイト論文原稿から作成したワードクラウドは、「PSC」「stability」「PCE」を大きく表示する一方で、「space applications」「manufacturing」「device modeling」の重みは過小にとどまり、「can」や「one」といった非技術的な語も含まれていた([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]])。同じ草稿から作成したマインドマップは実用に足る程度に当該分野を整理できていたため、著者は学生に、図を要約として読むのではなく、各図が何を省いているかを述べさせている。
 
 倫理と信頼性は、AI生成の視覚コンテンツへの熱狂を和らげます。[[data-comics-for-education-evaluating-effectiveness-benefits-ethics|教育のためのデータコミック研究]]は、[[generative-ai|生成的AI]]支援のデータコミックが、事前の可視化リテラシーにかかわらず従来の可視化よりも[[student-engagement|関与]]と理解を改善したことを見出しましたが、参加者は誤情報のリスクと[[academic-integrity|著作]]の帰属について懸念を提起し、3分の2が過度に込み入ったレイアウトによる情報過多といった欠点を指摘しました。反実仮想のCFES-P24ベンチマックはこの精査を[[cfes-p24-multimodal-slide-auditing-2026|スライド監査]]にまで広げ、マルチモーダルLLMが[[learning-design|学習デザイン]]の構成概念（操作、原則、証拠の位置づけ）を確実に認識できる一方、比較判断と重大度の較正には鋭く分岐することを示しています——総合スコアがどの能力が失敗するかを隠しており、自信は信頼性ではないという証拠です。これらの研究は総合的な評点ではなく、AI生成ビジュアルの層別化された[[ai-ed-evaluation|AIの評価]]を主張しています。
 

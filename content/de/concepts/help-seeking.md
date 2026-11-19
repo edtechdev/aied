@@ -29,7 +29,7 @@ ai_assist:
 
 > **Hilfesuche** — der Prozess der lernenden Person, einen Unterstützungsbedarf zu erkennen und ihn strategisch anzufragen, und wie dieser Prozess sich in KI-gestützten Lernumgebungen abspielt. In [[ai-education|KI in der Bildung]] ist Hilfesuche zentral dafür, ob KI-Werkzeuge Lernen stützen oder untergraben: die *Qualität* der Hilfesuche (wann, wie und worum Lernende bitten) prägt Ergebnisse stark, und KI-Tutoren, Hinweise und [[pedagogy|pädagogische]] Agenten sind genau dafür gestaltet, produktive Hilfesuche hervorzurufen statt Antwortsuche.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
 
-Proaktive Ansprache kann Hilfesuche erhöhen, ohne das Lernmaterial zu verändern. Ein vorregistriertes Experiment in stark belegten grundständigen Kursen kontaktierte Studierende über einen akademischen Chatbot und fand größere Inanspruchnahme von Tutoring und ergänzendem Unterricht; Mediationsanalyse schrieb 17.8% des Noteneffekts dieser erhöhten Hilfesuche zu (p = 0.041) ([[chatbot-outreach-course-performance-2026]]).
+Proaktive Ansprache kann Hilfesuche erhöhen, ohne das Lernmaterial zu verändern. Ein vorregistriertes Experiment in stark belegten grundständigen Kursen kontaktierte Studierende über einen akademischen Chatbot und fand größere Inanspruchnahme von Tutoring und ergänzendem Unterricht; Mediationsanalyse schrieb 17.8% des Noteneffekts dieser erhöhten Hilfesuche zu (p = 0.041) (chatbot-outreach-course-performance-2026).
 
 ## Fragen zum Nachdenken
 
@@ -127,11 +127,12 @@ Im vollständig online stattfindenden [[english-education|Schreibunterricht]] is
 
 ## Folgerungen für Design und Forschung
 
-1. **Hilfesuche-Affordanzen absichtsvoll gestalten.** Dauerhafte, auffällige Hilfe-Knöpfe können Umgehungsstrategien ermöglichen; Zugang verzögern und Lieferung strukturieren, um [[desirable-difficulties|produktives Kämpfen]] zu stützen.([[lak2026-hint-button-unproductive-use]])
-2. **Die Hilfesuche selbst scaffolden.** Lernende in schlussfolgerungsfokussierte Anfragen trainieren (schrittweise Hinweise, Verifikation), statt anzunehmen, Zugang bedeute gute Nutzung.([[guided-llm-scaffolding-independent-learning]])
-3. **Transparenz nutzen, um Vertrauen zu kalibrieren.** Vor KI-Fallibilität zu warnen kann angemessene Hilfesuche und Engagement erhöhen.([[ai-fallibility-warning-help-seeking]])
-4. **Annahme messen, nicht nur Scaffolding.** Evaluieren, ob Studierende sich tatsächlich mit pädagogischer Rahmung einlassen, nicht nur ob der Tutor sie bereitstellt.([[rethinking-scaffolding-llm-tutors]])
-5. **Überwachung und Handlungsfähigkeit stützen.** Hilfesuche-Scaffolds sollten [[metacognition|Metakognition]] und [[self-regulated-learning|selbstreguliertes Lernen]] stärken und gegen [[cognitive-offloading|übermäßige Abhängigkeit]] schützen.
+1. **Affordanzen für Hilfesuche bewusst gestalten.** Persistente, auffällige Hilfe-Buttons können Umgehungsstrategien begünstigen; den Zugang verzögern und die Bereitstellung strukturieren, um [[desirable-difficulties|produktives Ringen]] zu unterstützen.([[lak2026-hint-button-unproductive-use|An et al. (2026)]])
+2. **Die Hilfesuche selbst mit Scaffolding unterstützen.** Lernende darin schulen, auf Denkprozesse gerichtete Anfragen zu stellen (schrittweise Hinweise, Überprüfung), statt anzunehmen, dass Zugang bereits gute Nutzung bedeutet.([[guided-llm-scaffolding-independent-learning|Amanlou et al., 2026]])
+3. **Transparenz nutzen, um Vertrauen zu kalibrieren.** Auf die Fehlbarkeit von KI hinzuweisen, kann angemessene Hilfesuche und Engagement erhöhen.([[ai-fallibility-warning-help-seeking|Nagashima et al., 2026]])
+4. **Die Nutzung messen, nicht nur das Scaffolding.** Evaluieren, ob Studierende sich tatsächlich mit der pädagogischen Rahmung auseinandersetzen, und nicht nur, ob der Tutor sie anbietet.([[rethinking-scaffolding-llm-tutors|Neagu et al. (2026)]])
+5. **Monitoring und Handlungsfähigkeit unterstützen.** Scaffolds für die Hilfesuche sollten [[metacognition|Metakognition]] und [[self-regulated-learning|selbstreguliertes Lernen]] stärken und vor [[cognitive-offloading|übermäßiger Abhängigkeit]] schützen.
+6. **Die Studierenden erreichen, die nicht fragen.** Outreach kann die Hilfesuche steigern, ohne die Lernmaterialien zu berühren: In einem präregistrierten Experiment in grundständigen Lehrveranstaltungen mit sehr hohen Teilnehmerzahlen wurden Studierende über einen akademischen Chatbot angeschrieben, was die Inanspruchnahme von Tutoring und Supplemental Instruction erhöhte; eine Mediationsanalyse schrieb 17,8 % des Noteneffekts dem Anstieg der Hilfesuche zu (p = 0,041) ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
 ## Verbreitete Fehlvorstellungen
 

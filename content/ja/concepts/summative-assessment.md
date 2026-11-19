@@ -1,7 +1,7 @@
 ---
 title: 総括的評価
 created: "2026-10-10T22:55:24-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -9,7 +9,7 @@ level: [higher ed, k 12]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/summative-assessment
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -51,6 +51,8 @@ ai_assist:
 ## AI に頑健な総括的評価の形式
 
 ナレッジベースの主要なテーマは、**総括的評価の形式が AI への頑健性を決める**ということです。課題がその場での、対面の、個人ごとに掘り下げられたパフォーマンスを求めるほど、学生が自分の学習を AI で代行することは難しくなります。
+
+AI耐性のある形式は、成績を再考するのではなく成績を守るものである。監視付きの試験や口述試験は既存の価値観や慣行を安定化させるため、改革は成績が何を表すかではなく、成績証明書の段階で止まってしまう（[[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]）。
 
 - **[[oral-assessment|口述試験]]と評価。** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]]は、口述試験が低技術的で本質的に AI に頑健な総括的評価形式であると論じています。そのリアルタイムで対話的なやり取りは、暗記ではなく理解、[[critical-thinking|批判的思考]]、推論を試し、学生が AI で答えを生成して暗記することを防ぎ、専門職の実践を反映しています。[[socratic-tests-conversational-assessment|ソクラテス式テスト]]と[[code-review-genai-cs1|コードレビュー面接]]は、これを動的で対話的・面接形式の総括的評価に拡張しています。
 - **閉鎖式・監督下・無支援の測定。** [[generative-ai-reduced-study-time-math|証拠]]と[[stromberg-generative-ai-learning-penalty-secondary-2026|大規模なフィールドデータ]]は、学生が AI を使う場合、水増しされた宿題や持ち帰り課題ではなく、監督下の閉鎖式試験が実際の学習の信頼できるシグナルであることを示しています。[[responsible-assessment-ai-era-stanford-2026|責任ある評価]]の枠組みは、これらの無支援の測定を妥当性に基づく再設計の中に組み込んでいます。試験がオンラインのまま行われる場合、[[remote-proctoring|リモート監督]]がその役割を担い、自動監督に関するコーパスの2つのレビューは、検出の成果と並んでプライバシーと[[bias-mitigation|公平性]]の懸念を見出しています（[[automated-online-exam-proctoring-decade-review-2026]]、[[academic-dishonesty-automated-proctoring-ai-2026]]）。

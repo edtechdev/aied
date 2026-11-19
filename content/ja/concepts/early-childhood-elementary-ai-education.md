@@ -96,7 +96,7 @@ ai_assist:
 - **「自動化された観察は、あらゆる面で人間の評定者と一致する。」** 一致は**全体としては中程度（重み付き κ = 0.681）でしたが、構成要素に条件づけられていました**。収束が見られたのは**情緒的支援**の領域と**フィードバックの質**であり、それ以外ではありませんでした。領域を平均すると、その道具がどこで失敗するかが見えなくなります。
 
 ## 関連する概念
-
+- [[developmental-psychology]]
 - [[k-12]]
 - [[ai-literacy]]
 - [[computational-thinking]]
@@ -117,7 +117,6 @@ ai_assist:
 
 ## 関連する記事
 - [[early-childhood-ai-holistic-competencies-review-2026]] — AIの時代に幼児期を形づくる：コンピテンシー、教育学、生態的な支援（Pei 2026）
-
 - [[preservice-early-childhood-genai-magnetism-2026]] — 科学活動の設計における幼児教育の養成課程の学生の生成AIとの関わり:磁気の事例
 - [[clara-developmental-appropriateness-children-stories-2026]] — CLARA:AI は子どもの物語の発達的適切さを評価できるか
 - [[preschool-teachers-ai-behavioral-intention-2026]] — 幼児教育の場における AI 利用の幼稚園教諭の行動意図（Duan ら 2026）
@@ -134,7 +133,10 @@ ai_assist:
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[creative-project-approach-ai-early-childhood-2025]] — 創造的プロジェクトアプローチ:AI エージェントとロボット工学を早期学習に合わせるための枠組み（Yang, Li & Lee 2025）
-- [[ai-rated-classroom-observation-scores-2026]] — 私がコード化するか AI がコード化するか:香港の幼稚園における AI 評価の CLASS Pre-K スコアと訓練を受けた人間の評価者の比較（Fong ら 2026）
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — ChatGPTと対話する子どもと大人の最初の神経画像による比較:6〜7歳において制御・注意・記憶のネットワークの統合がより弱い
+- [[ai-rated-classroom-observation-scores-2026]] — 私がコード化するか AI がコード化するか:香港の幼稚園における AI 評価の CLASS Pre-K スコアと訓練を受けた人間の評価者の比較（Fong ら 2026）
 - [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison
 - [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — 初等英語教育におけるAI媒介ツール：教育学的機能と教員の編成に関するスコーピングレビュー
+- [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — デジタル教育の文脈における養成段階の幼児教育教員のデジタル・メディアリテラシー:研究動向の計量書誌学的分析
+- [[yim-ai-literacy-primary-schools-review-2025]] — 小学校における人工知能リテラシー教育:4つの柱、コンストラクショニズムに基づく指導、自己報告に偏重したエビデンス基盤 (Yim & Su 2025)
+- [[barokah-ai-elementary-science-review-2026]] — 初等理科教育研究のマッピング:5つの応用クラスター、教師による媒介、希薄な認識論的成果 (Barokah et al. 2026)

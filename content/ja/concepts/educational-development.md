@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: 教育開発
 created: "2026-10-10T22:31:17-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-18T05:55:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -43,14 +43,14 @@ ai_assist:
 
 ## AI 時代の教育開発
 
-- **準備の枠組み:** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI フレームワーク]]は、4つの準備の領域を同定します。すなわち、認識論的、教育学的、制度的、品質とコンプライアンスです。教員の準備は、単なる個人の技能の隙みではなく、社会技術的な整合の問題です。
-- **採用する前に、フレームワークの水準が何を表しているかを確認する。** 機関が推奨する16のAIコンピテンシー・フレームワークを通じて、AIの利用、出力の評価、領域への応用は16すべてで実質的でしたが、問題の定式化(7)、データ・コンピテンシー(9)、AIの創造(8)はそうではありませんでした。また、習熟度の水準は学習者の発達、職務上の役割、あるいは学年を表すため、直接比較できるものではありません（[[ai-competence-framework-landscape-2026|Fitsilis (2026)]]）。
-- **技術統合の基準:** [[crompton-faculty-technology-integration-standards-2026|Crompton ら]]は、[[design-based-research|デザインベースド研究]]を用いて、[[higher-ed|高等教育]]機関における技術（AI を含む）統合のための教員の基準を開発しています。
-- **採用と自信:** [[teacher-ai-adoption-confidence|教師の AI 採用研究]]は、懸念、支援、自信、態度を主要な予測因子として同定しています。ファカルティ・ディベロップメントのプログラムは、その4つすべてに対処しなければなりません。
-- **カリキュラムへの統合:** [[institutional-change-framework-ai|制度変更の枠組み]]と[[ai-assessment-scale-reform|評価の改革]]は、教員が AI ツールを付け加えるだけでなく、コースを再設計することを求めます。
-- **訓練プログラム:** [[crewscaler-ai-upskilling-framework|AI スキル向上の枠組み]]と[[ai-tpack-preservice-math-teachers|TPACK ベースの養成課程の訓練]]は、構造化された教員の[[ai-education|AI教育]]のためのモデルを提供します。
-
-- **需要は、ニーズ評価ではありません。**ケベックのCEGEPの教師345人は、技術的な理解で最も低い得点(5点中2.706)でありながら、専門分野に固有の実践的な応用を求め、以前のセッションを一般論すぎると評しました([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachiniら(2026)]])。
+- **準備態勢の枠組み:** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AIフレームワーク]]は、認識論的、教授法的、制度的、品質・コンプライアンスという4つの準備態勢の領域を特定している。教員の準備態勢は、単なる個人のスキル不足ではなく、社会技術的な整合の問題である。
+- **枠組みを採用する前に、そのレベルが何を記述しているのかを確認すること。** 機関が承認した16のAIコンピテンシー枠組みにおいて、AIの利用、出力の評価、領域への適用は16すべてで実質的に扱われていたが、問題の定式化(7)、データコンピテンシー(9)、AIの創造(8)はそうではなかった。また熟達度のレベルは学習者の発達、職業上の役割、等級を記述している場合もあるため、直接比較することはできない([[ai-competence-framework-landscape-2026|Fitsilis (2026)]])。
+- **テクノロジー統合の標準:** [[crompton-faculty-technology-integration-standards-2026|Crompton et al.]]は、[[design-based-research|デザインベース研究]]を用いて、[[higher-ed|高等教育]]機関におけるテクノロジー(AIを含む)統合のための教員向け標準を開発している。
+- **導入と自信:** [[teacher-ai-adoption-confidence|教員のAI導入に関する研究]]は、懸念、支援、自信、態度を主要な予測因子として特定している。教員開発プログラムはこの4つすべてに対処しなければならない。
+- **カリキュラムへの統合:** [[institutional-change-framework-ai|組織変革の枠組み]]と[[ai-assessment-scale-reform|評価改革]]は、AIツールを追加するだけでなく、教員が授業を再設計することを求める。
+- **研修プログラム:** [[crewscaler-ai-upskilling-framework|AIアップスキリングの枠組み]]と[[ai-tpack-preservice-math-teachers|TPACKに基づく教職課程の研修]]は、体系的な教員の[[ai-education|AI教育]]のモデルを提供する。
+- **要望はニーズアセスメントではない。** ケベック州のCEGEP教員345名は技術的理解で最も低い得点(5点中2.706)だったが、専門分野に即した実践的な応用を求めており、以前の研修は一般論にすぎると述べていた([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]])。
+- **大学教員は自ら自動化を語り、教育面についてはツールに何ができるかを問われたときにのみ明かす。** 20の学問分野と24か国を対象とした5つの自由記述質問では、効率化と自動化に関するコメントが737件、機関のポリシーに関するコメントが305件だったのに対し、カスタマイズは能力に関する質問への回答では74件、障壁に関する各質問ではそれぞれ3件にとどまった([[sheridan-teaching-academics-genai-plans-2026|Sheridan et al., 2026]])。彼らが挙げた制約は時間、一貫したポリシー、資金を伴う支援であり、能力開発と出張の予算が真っ先に削減されるものと述べられた。少数は変化を労使関係の観点から捉え、機関が教員削減のためにそれを利用すると予想していた。
 
 - **AI を介した専門職的な省察。** 省察の三角形モデルは、専門職学習共同体の中で、AI を[[reflection|自己省察]]、協働的な省察、共同体の省察にわたる認知的媒介者として位置づけます。6人の教師による4週間の実現可能性事例で検証され、それが引く境界は、個人の洞察が自動的に共有された専門的知識になるわけではないということです（[[reflective-triangle-model-teacher-ai-2026|Nguyen（2026）]]）。
 - **[[governance]]と方針:** [[genai-policies-higher-ed-computing|制度の AI 方針の分析]]は、制度の抱負と教員支援の能力の間の隔たりを記録しています。
@@ -142,7 +142,7 @@ AI の専門職的な開発を計画する教員開発者、学術的な指導�
 
 **場面は開発の形を変えるが、その必要性は変えない。**医学教育では、AIレジデンシーが教員開発と共同学習を付加物ではなく機構として扱います([[bursic-ai-residency-education-curriculum-2026|Bursicら]])。幼児期の86の資料のレビューは、教育者の開発を4つのテーマのひとつとして同定します([[early-childhood-ai-holistic-competencies-review-2026|そのレビュー]])。CTEの刷新は、カリキュラムの変更が能力の隔たりを露わにしたときに教員開発に手を伸ばします([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]])。そして146人の教師の間で、専門性開発への関与が、動機づけと意図された生成的AI利用の結びつきを媒介しました([[yuan-teacher-need-satisfaction-genai-2026|Yuanら]])。
 
-コホート・モデルの実例は、ある大学図書館から来ます。[[jordan-faculty-ai-oer-creation-2025|Jordanら(2025)]]は、教員7人に謝金を支払って8週間のプログラムを実施し、4週間の講義、独立したプロジェクトの開発、同僚からのフィードバックを組み合わせ、Knowlesの成人学習の原理とCLEARプロンプトの枠組みに基礎づけました。伸びはAIへの親しみでは控えめで、OERへの親しみではより大きく、著者らは謝金と、非常勤の教員が報酬を得られるようにした労働協約を、管理ではなく介入の一部として扱っています。
+コホートモデルの実例は、ある大学図書館から報告されている。[[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]]は、Knowlesの成人学習原理とCLEARプロンプトフレームワークに基づき、4週間の講習、自主的なプロジェクト開発、ピアフィードバックを組み合わせた8週間のプログラムに対して、7名の教員に謝金を支給した。AIへの習熟度の向上は小幅であったのに対し、OERへの習熟度の向上はより大きく、著者らは、謝金および非常勤講師への支払いを可能にした労働組合協定を、事務的な手続きではなく介入の一部として扱っている。
 
 ## よくある誤解
 

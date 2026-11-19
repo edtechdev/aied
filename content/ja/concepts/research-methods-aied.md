@@ -1,7 +1,7 @@
 ---
 title: AIED における研究方法
 created: "2026-10-10T23:03:00-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-11-01T11:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -53,12 +53,14 @@ AIED 研究の中心的な緊張関係は、因果推論にとって最強のデ
 
 ### 実験的および準実験的デザイン
 
-**効果検証研究（efficacy study）**は、ある介入が意図された学習効果を生むかどうかを検証します。典型的には、介入ありとなしで成果を比較する実験的または準実験的デザインを用います。実験は、学習者を条件（例：AI チューター対人間のチューター、AI による足場かけあり対なし）に無作為に割り当て、学習の伸び、[[student-engagement|エンゲージメント]]、動機のような成果に対する因果効果を推定します。**無作為化比較試験**は内的妥当性の黄金律です。[[access-not-enough-ai-tutoring-2026|人間の支援と AI 個別指導を組み合わせた無作為化フィールド研究]]と[[genai-can-harm-teaching-rct-2026|教育における生成 AI についての RCT]]は、割り当てを用いて因果効果を切り離しています。**準実験的**デザイン（前後比較、被験者間、または無作為化を伴わないマッチング群）は、そのままの教室でより実行可能ですが、因果的主張については弱くなります。
-- **効果の推定に先立つ道具の検証とベースラインの確認。** [[genai-cognitive-scaffold-geometric-reasoning-2026|Davor (2026)]]は、ガーナの高校 3 年クラス 2 組（86 人、1 群 43 人）で、幾何の足場かけとしての生成 AI を比較し、G*Power 分析でサンプルサイズを決定し、Geometry Reasoning and Proof Test を Spearman-Brown の折半法信頼性 0.859 になるまで試行しました。群は事前テストで有意に差しませんでした。そして ANCOVA は事前の成績を調整した上で群の効果を保ちました（F(1, 83) = 50.30, p < .001, partial η² = .377）。無作為割り当てがないため、試行で得られた信頼性とベースライン等価性の確認こそが、調整された比較を解釈可能にしているのです。
-- **強み:** 最も強い因果推論。明確な成果の測定。効果量の推定と効果検証の主張を支えます。
-- **限界:** 費用がかかり遅い。人為的な条件は生態学的妥当性を下げることがある。急速に変化する AI の道具は、長い実験をすぐに古くする。小さなサンプルは、意味のある効果を検出する検定力をしばしば欠く。潜在的に有用な道具を差し控えることについての[[ethics|倫理的]]制約。
-- **範例:** [[access-not-enough-ai-tutoring-2026]]、[[genai-can-harm-teaching-rct-2026]]、[[adaptive-pretesting-retention]]、[[agent-voice-accents-k12-group-learning]]、[[ai-use-critical-thinking-medical-students-2026]]。
-- **事前登録は、試験だけでなく二次分析にも適用される。** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]]は、ヒント付きの行をどう採点するかだけが異なる 4 つの[[knowledge-tracing|知識追跡]]更新規則を、同一の ASSISTments ログ（12,716 人の学生、985,813 件の採点済みイベント）に対して実行し、事前登録の URL を含むファイルが存在するまで確認的な側の半分を封印したままにし、事前登録された 4 つの予測がすべて成り立ったと報告しました。完了を点数化することは、その後の自力での成績を技能難易度の定数とかろうじて上回る程度に予測するにすぎず（プールした AUC 0.604 対 0.595）、厳格な規則での 72.8% に対し 93.9% の学生・技能対を習得済みと宣言しました。一つのログが複数の結論を支えるとき、分析を事前に固定することこそが、その比較を信頼できるものにするのです。
+**有効性研究**(efficacy study)は、介入が意図した学習効果を生み出すかを検証するもので、通常は介入の有無による成果を比較する実験的または準実験的デザインを用いる。実験では、学習者を条件(例:AIチューター対人間チューター、AIによる足場かけあり対支援なし)へランダムに割り当て、学習の伸び、[[student-engagement|エンゲージメント]]、動機づけといった成果に対する因果効果を推定する。**ランダム化比較試験**は内的妥当性のゴールドスタンダードである。[[access-not-enough-ai-tutoring-2026|人間による支援とAIチュータリングを組み合わせたランダム化フィールド研究]]と[[genai-can-harm-teaching-rct-2026|教育における生成AIに関するRCT]]は、割り当てによって因果効果を切り分けている。**準実験**デザイン(事前/事後、被験者間、またはランダム化を伴わないマッチング群)は既存の学級で実施しやすい一方、因果の主張は弱くなる。
+- **測定器具の妥当性確認とベースラインのチェックは、効果推定に先立つ。**[[genai-cognitive-scaffold-geometric-reasoning-2026|Davor (2026)]]は、ガーナの既存の高校2学級(86名、各群43名)を対象に、幾何の足場かけとしてのGenAIを比較した。標本サイズはG*Power分析で決定し、本調査前にGeometry Reasoning and Proof Testを予備実施してSpearman-Brownの折半信頼性0.859を得ていた。事前テストでは両群に有意差がなく、事前の成績を調整したANCOVAでも群の効果が維持された(F(1, 83) = 50.30、p < .001、偏η² = .377)。ランダム割り当てがないからこそ、予備実施で確認した信頼性とベースライン等価性のチェックが、調整後の比較を解釈可能なものにしている。
+
+- **強み:** 因果推論が最も強力、アウトカムの測定がクリーン、効果量の推定と有効性(efficacy)の主張を支える。
+- **限界:** 費用が高く時間がかかる、人工的な条件が生態学的妥当性を低下させうる、変化の速いAIツールによって長期の実験はすぐに陳腐化する、小標本では意味のある効果の検出力が不足しがち、潜在的に有益なツールを与えないことに関する[[ethics|倫理]]的制約。
+- **代表例:** [[access-not-enough-ai-tutoring-2026|Robinson et al., 2026]]、[[genai-can-harm-teaching-rct-2026]]、[[adaptive-pretesting-retention|Akgun et al. (2026)]]、[[agent-voice-accents-k12-group-learning|Ravi et al. (2026)]]、[[ai-use-critical-thinking-medical-students-2026|Arshad et al. (2026)]]。
+- **事前登録はトライアルだけでなく二次分析にも適用される。** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]]は、同一のASSISTmentsログ(学生12,716人、採点済みイベント985,813件)に対して、ヒント付きの行をどう採点するかだけが異なる4つの[[knowledge-tracing|知識追跡]]更新ルールを実行し、登録のURLを含むファイルが存在するまで確認用の半分を封印したまま保持し、事前登録された4つの予測すべてが成立したと報告した。あらゆる完了を単位として認める方式は、後の無支援パフォーマンスをスキル難易度の定数をわずかに上回る程度しか予測できなかった(プールAUC 0.604 対 0.595)一方で、学生–スキル対の93.9%を習得済みと判定した(厳格なルールでは72.8%)。1つのログが複数の結論を支持しうる場合、分析を事前に固定することこそが比較を信頼できるものにする。
+- **AI排除を明示的にコード化する。** AI不使用のポストテストは、制限が文書化され、遵守が確認された場合にのみ検証済みの排除とみなされる。監督付きテストや紙ベースのテストだけでは該当しない([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]])。
 
 ### 調査および構造方程式モデリング研究
 
@@ -100,10 +102,13 @@ DBR は、[[rct|実験]]の因果的な統制と、生態学的真正性と反�
 
 レビューは、新しい実験を実行するのではなく、エビデンス基盤を統合します。系統的レビューとスコーピングレビューは、研究のまとまりを検索・選別・評価・統合するために、透明なプロトコルを適用します。メタ分析はさらに、研究を横断して効果量をプールし、重みづけられた要約推定値を生み出し、調整変数を検定します。[[zerkouk-comprehensive-review-its-2025|包括的な ITS レビュー]]と[[genai-higher-education-systematic-review-2026|高等教育における生成 AI の系統的レビュー]]が、このアプローチの範例です。
 
-- **強み:** 大きく断片化した文献の効率的な統合。メタ分析はプールされた効果推定値を生み出し、調整変数を検出する。エビデンスに基づく実践と空白の特定に不可欠。
-- **限界:** 含まれた研究の質に依存する（ゴミを入れればゴミが出る）。出版バイアス。方法と成果指標の異質性が統合を難しくする。AI 変化の速さによって急速に古くなる。
-- **メタ研究上の注意点（2026）:** AIED の統合基盤に対する批判は、初期の多くのメタ分析が、構成要素の非整合性、未解決の異質性、効果量間の依存への未対処、そして無効な出版バイアス評価によって損なわれており、AI の効果の見出し値を膨らませていることを示しています（[[bartos-ai-learning-meta-meta-analysis-2026]]、[[oneill-presumed-effective-meta-analysis-2026]]、[[weidlich-chatgpt-effect-search-cause-2025]]を参照）。プールされた AIED 効果量は上限値として扱ってください。
-- **範例:** [[zerkouk-comprehensive-review-its-2025]]、[[genai-higher-education-systematic-review-2026]]、[[chatgpt-critical-creative-thinking-review]]、[[zerkouk-comprehensive-review-its-2025]]、[[agentic-ai-education-scoping-review]]。
+- **強み：** 大規模で断片化した文献を効率的に統合できる。メタ分析はプールされた効果推定値をもたらし、調整変数（モデレーター）を検出する。エビデンスに基づく実践と研究のギャップの特定に不可欠である。
+- **限界：** 含められた研究の質に依存する（garbage-in/garbage-out）。出版バイアス。方法やアウトカム指標が異質であるため統合が難しい。AIの変化の速度を考えると、急速に陳腐化する。
+- 
+Google Scholarの関連度ランキングは動的であるため、これを含めたPRISMA検索はクエリだけでは完全に再現できない（[[ai-mathematics-education-prisma-review-2026|Omirzakova and Tileubay (2026)]]）。
+
+- **メタ研究上の留意点(2026):** AIEDの統合的知見の基盤に対する批判的研究は、初期のメタ分析の多くが構成概念の不整合、未解決の異質性、効果量間の依存性への未対応、妥当性を欠く出版バイアス評価によって損なわれており、その結果としてAIの見かけ上の効果量が過大になっていることを示している――([[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]]、[[oneill-presumed-effective-meta-analysis-2026]]、[[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]]を参照)。AIEDでプールされた効果量は上限値として扱うこと。
+- **代表例:** [[zerkouk-comprehensive-review-its-2025|Zerkouk et al. (2025)]]、[[genai-higher-education-systematic-review-2026|Rathnayake, 2026]]、[[chatgpt-critical-creative-thinking-review|Li et al. (2026)]]、[[zerkouk-comprehensive-review-its-2025|Zerkouk et al. (2025)]]、[[agentic-ai-education-scoping-review|Wang et al. (2026)]]。
 
 教育における AI に関する系統的レビューとメタ分析のより完全な扱い——一次デザインとの関係、PRISMA による報告、その強みと限界を含めて——については、専門の[[meta-analysis-systematic-review]]概念ページを参照してください。
 
@@ -120,7 +125,7 @@ DBR は、[[rct|実験]]の因果的な統制と、生態学的真正性と反�
 
 ### その他のデザイン: 縦断的、事例、シミュレーション研究
 
-主要な系譜を超えて、このナレッジベースは、学習者を時間を通じて追跡する**縦断的**デザイン（[[ai-lms-middle-school-longitudinal|縦断的な LMS 研究]]）、真正な使用の**事例および実世界（in-the-wild）**研究（[[ai-in-the-wild-college|現実の学生の相互作用の大規模分析]]）、そして LLM が学生や患者の代わりを務める**シミュレーション**研究（[[llm-student-simulation-teacher-insights|LLM をシミュレートされた学習者として]]、[[simulation]]）を用いています。これらは、幅や統制と引き換えに、現実らしさと、そうでなければ観察が難しい現象へのアクセスを得ています。
+主要な系統に加えて、研究者は学習者を経時的に追跡する**[[longitudinal-research|縦断的]]**デザイン（[[ai-lms-middle-school-longitudinal|LMSに関する縦断研究]]）、実際の利用を扱う**事例および実環境（in-the-wild）**研究（[[ai-in-the-wild-college|実際の学生のやり取りの大規模分析]]）、さらにLLMが学生や患者の代役を務める**シミュレーション**研究（[[llm-student-simulation-teacher-insights|模擬学習者としてのLLM]]、[[simulation|シミュレーション]]）も用いる。これらは、網羅性や制御性を犠牲にする代わりに、現実性と、他では観察が難しい現象へのアクセスを得るものである。
 
 ### 専門家合意の方法: デルファイ法
 

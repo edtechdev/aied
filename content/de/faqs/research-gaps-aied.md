@@ -81,7 +81,7 @@ Die Theorielücke läuft daneben her. Eine [[learning-theories|Lerntheorie]] zu 
 
 Konstrukte wie Engagement, [[critical-thinking|kritisches Denken]], KI-Kompetenz und [[personalized-learning|Personalisierung]] werden in dieser Literatur inkonsistent gemessen. Selbstauskünfte beschreiben Wahrnehmungen; sie können nicht für demonstrierte Kompetenz einstehen. Technische Genauigkeit, von Fachleuten bewertete Ausgabequalität und studentisches Lernen sind drei verschiedene Evaluationsziele. [[educational-measurement|Bildungsmessung]] und [[ai-ed-evaluation|Evaluation von KI in der Bildung]] behandeln diese Unterscheidungen als grundlegend.
 
-Eine Lücke sitzt im Messproblem selbst: [[ai-technologies|KI-Systeme]], die andere KI-Systeme bewerten. In der [[ai-sycophancy|Sykophantie]]-Studie [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]] gaben [[simulating-students|simulierte Studierende]] zugewiesene [[misconceptions|Fehlvorstellungen]] nach korrigierendem Feedback häufig auf, unabhängig davon, ob das Feedback die Fehlvorstellung adressierte, sodass ihre Antworten unwirksame Instruktion erfolgreich aussehen lassen konnten. Gezieltes Training verbesserte das Faithfulness-Maß der Studie, und eine Verbesserung auf diesem Maß ist keine Validierung gegen menschliches Lernen.
+Eine Lücke liegt innerhalb des Messproblems: [[ai-technologies|KI-Systeme]], die zur Bewertung anderer KI-Systeme eingesetzt werden. In [[llm-student-simulation-misconception-faithfulness|Schüler simulieren oder sykophantisches Problemlösen?]] gaben [[simulating-students|simulierte Schüler]] die ihnen zugewiesenen [[misconceptions|Fehlvorstellungen]] nach korrigierendem Feedback häufig auf — unabhängig davon, ob das Feedback die Fehlvorstellung überhaupt adressierte —, sodass ihre Antworten unwirksamen Unterricht erfolgreich erscheinen lassen konnten. Gezieltes Training verbesserte das Faithfulness-Maß der Studie, und eine Verbesserung dieses Maßes ist keine Validierung anhand menschlichen Lernens.
 
 Was fehlt, ist die Validierung der gesamten Evaluationskette – vom Modellverhalten über [[pedagogy|pädagogisches]] Urteil und Lernendenreaktion bis zum Bildungsergebnis –, an Lernenden und in Settings, die während der Entwicklung nicht genutzt wurden. Menschliches Urteil braucht dieselbe Prüfung, denn Übereinstimmung zwischen Beurteilenden ist kein Beleg dafür, dass das richtige Konstrukt erfasst wurde.
 
@@ -187,7 +187,7 @@ Lehrende, die die klassenraumbezogene Version wollen, können [[evaluating-ai-in
 
 **„Die gepoolte Effektstärke sagt mir schon, was wirkt.“** Die 14 geprüften Meta-Analysen definierten die Behandlung als ein Werkzeug, poolten inkompatible Outcomes und berichteten I² über 80% in 12 von 13 Analysen, die es angaben. Die gepoolte Zahl beschreibt eine Gruppe von Studien mit einem Konstruktproblem.
 
-**„Simulierte Studierende sind billiger, also kann ihre Validierung warten.“** In der Sykophantie-Studie ließen simulierte Studierende Fehlvorstellungen fallen, unabhängig davon, ob das Feedback sie adressierte, und das ist der Fehlermodus, der einen unwirksamen Tutor wirksam aussehen lässt.
+**„Simulierte Lernende sind billiger, also kann ihre Validierung warten.“** In der [[ai-sycophancy|Sycophancy]]-Studie legten simulierte Lernende ihre Fehlvorstellungen ab, unabhängig davon, ob das Feedback darauf einging — genau der Fehlermodus, der einen unwirksamen Tutor wirksam erscheinen lässt.
 
 ## Diese Woche tun
 

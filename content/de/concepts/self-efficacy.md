@@ -106,6 +106,7 @@ Selbstwirksamkeit verbindet sich mit [[motivation|Motivation]], [[self-regulated
 - [[social-emotional-learning]] — Sozial-emotionales Lernen
 
 ## Verbundene Artikel
+- [[wang-ai-assisted-blended-teaching-crop-breeding-2026]] — Die Selbstwirksamkeit trennte AI- und Kontrollgruppe mit d = 2,84, während die Prüfungsergebnisse unverändert blieben
 - [[ai-proof-learning-cognitive-offloading-2026]] — Unterstützen oder ersetzen sie das Schlussfolgern von Studierenden? Kognitive Auslagerung in KI-assistiertem Beweislernen (Chen et al. 2026)
 - [[confident-but-absent-ai-use-absenteeism-2026]] — Allgemeine KI-Nutzung ging mit höherer Selbstwirksamkeit und höherem Absentismus einher, doch Selbstwirksamkeit sagte Anwesenheit nicht vorher (Franco et al. 2026)
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — KI-Chatbots in der Hochschulbildung: Erwartungen und Evidenz im Vergleich (Thoeni & Fryer 2026)
@@ -126,14 +127,12 @@ Selbstwirksamkeit verbindet sich mit [[motivation|Motivation]], [[self-regulated
 - [[hu-psychological-predictors-continued-chatgpt-use-2026]] — KI-Kompetenz, Vertrauen und akademische Selbstwirksamkeit in einer seriellen Kette zur anhaltenden ChatGPT-Nutzung
 - [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Profile akademischer Selbstwirksamkeit und berichtete KI-Nutzung unter Universitätsstudierenden mit motorischen Behinderungen
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Berichtete Zugewinne an kreativer Selbstwirksamkeit durch generative KI bei Kindern (Scoping-Review)
-
 - [[ai-speaking-practice-communicative-readiness-2026]] — Sprech-Selbstwirksamkeit kehrt den Angstpfad von KI-gestützter Übung zu Bereitschaft um
 - [[faculty-ai-well-being-social-supports-2026]] — Fakultäts-SEM: technologische Selbstwirksamkeit als schwacher Prädiktor von KI-Wohlbefinden
 - [[cen-self-efficacy-favorability-2026]] — Selbstwirksamkeit und Präferenz prägen das Lernen aus Tutoring-Systemen und Papierübung (Cen et al. 2026)
 - [[jelson-students-chatgpt-essay-writing-2026]] — Die Self-Efficacy for Writing Scale sagte mehr Translating- und Reviewing-Anfragen vorher, aber nicht mehr Planning oder Delegation des ganzen Essays (Jelson et al. 2026)
 - [[somny-ml-self-efficacy-interaction-traces-2026]] — Selbstwirksamkeitsüberzeugung mit maschinellem Lernen aus Interaktionsspuren von Lernenden in technologiegestütztem Lernen messen
 - [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — KI-Selbstwirksamkeit → KI-Kompetenz → KI-Akzeptanz, mit gemessenem wissensvermitteltem Anteil (İşbulan et al. 2026)
-
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — Selbstwirksamkeit als notwendige Bedingung für wahrgenommene Nützlichkeit, mit Bottleneck-Schwellen (Chu & Liu 2026)
-
-- [[kim-overtrust-ai-literacy-2026]] — Akademische Selbstwirksamkeit sagte mehr KI-Übervertrauen voraus statt weniger
+- [[petricini-ai-literacy-communication-equity-2026]] — Ein Kompetenzrückgang, gedeutet als produktive Rekalibrierung
+- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — Das Lesen von LLM-kommentiertem Code verschob das Selbstvertrauen in Richtung Unabhängigkeit

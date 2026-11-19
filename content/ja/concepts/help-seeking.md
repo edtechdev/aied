@@ -1,7 +1,7 @@
 ---
 title: 援助要請
 created: "2026-10-10T22:38:13-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 > **援助要請**とは、学習者が援助の必要性を認識し、それを戦略的に求める過程、およびその過程がAI支援の学習環境においてどう展開するかを指します。[[ai-education|教育におけるAI]]において、援助要請はAIツールが学習を支えるか損なうかの中核です。援助要請の*質*(学習者がいつ、どのように、何を求めるか)は成果を強く形づくり、AIチューター、ヒント、[[pedagogy|教育学的]]エージェントは、答えの要求ではなく生産的な援助要請を引き出すためにまさに設計されています。([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
 
-先行的な働きかけは、学習教材に一切の変更を加えずとも援助要請を高められます。大規模履修の学部コースにおける事前登録された実験では、学術チャットボットを通じて学生にメッセージが送られ、個別指導と補習の受講がより高まりました。媒介分析は、その成績効果の17.8%を援助要請の増加に帰属させました(p = 0.041)([[chatbot-outreach-course-performance-2026]])。
+先行的な働きかけは、学習教材に一切の変更を加えずとも援助要請を高められます。大規模履修の学部コースにおける事前登録された実験では、学術チャットボットを通じて学生にメッセージが送られ、個別指導と補習の受講がより高まりました。媒介分析は、その成績効果の17.8%を援助要請の増加に帰属させました(p = 0.041)(chatbot-outreach-course-performance-2026)。
 
 ## 考えるための問い
 

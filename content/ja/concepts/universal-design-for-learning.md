@@ -8,8 +8,8 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 audience: [learners]
 level: [special education]
 confidence: high
-updated: "2026-11-07T20:21:19-05:00"
-source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-19T06:40:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_of: concepts/universal-design-for-learning
 translation_note: 英語ページの自動翻訳です。母語話者による確認はまだ行われていません。
 contributors:
@@ -73,6 +73,8 @@ UDLは「学習者を直す」を「デザインを直す」に変えます。AI
 **行為・表出——学習者が知っていることを多様な方法で示せるようにする。**
 - 同じ学習成果に沿った評価成果物の選択（エッセイ、発表、動画、図、コード）を提供する。
 - *例：* あるプロジェクトは、書面レポート、AI支援の動画解説、ライブ実演としての提出を認めています——各モードを[[scaffolding|スキャフォールディング]]が支援します。[[assessment|評価]]デザインにおいて、これは[[authentic-assessment|真正の評価]]の表象的公正性と並行します。
+
+選択が包摂的になるのは、選択肢が同等に信頼できるものと見える場合に限られる。ある理学部(Faculty of Science)での研究では、学生は動画とエッセイのどちらかを選ぶことを好んだが、仲間はエッセイの方が不利に採点されるのではないかと恐れていると報告しており、共通の基準と説明された採点の論理こそが、形式のメニューを戦略的な当て推量ではなくインクルージョンへと変えるのである([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]])。
 
 **AIリテラシーと主体性に向けてデザインする。**
 - 学生にAIをいつどう使うかを教え、学習者（ツールではなく）に説明責任を負わせ続けるチェックポイントを組み込む——[[ai-literacy|AIリテラシー]]と[[reducing-ai-misuse|AI悪用の削減]]を参照。

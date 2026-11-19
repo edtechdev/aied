@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -70,12 +70,10 @@ Die Perspektive der Administration verbindet sich mit [[educational-policy-ai|Bi
 
 ## Was das für die Praxis bedeutet
 
-**Für die Administration**
-
-- Budgetieren Sie die Leitungsrolle, nicht nur das Strategiedokument. Wenn 49% KI zur Priorität erklären und 7% höhere Rollen schaffen, ist die bindende Beschränkung die Mittelzuweisung statt die Überzeugung.
-- Fragen Sie, worauf ein Werkzeug evaluiert werden kann, bevor Sie unterschreiben. Wenn der Vertrag keinen Zugang zu Ergebnissen, Prüfdaten oder Nutzungsdetails erlaubt, hat die Einrichtung eine Fähigkeit gekauft, die sie nicht beurteilen kann.
-- Erheben Sie tatsächliche Nutzung statt genehmigter Nutzung, denn die beiden divergieren, und die nicht genehmigte Zahl ist die, die Risiko trägt, dem Sie bereits ausgesetzt sind.
-- Sequenzieren Sie Politik vor dem Rollout, solange noch Hebel besteht. Sobald die Nutzung weit verbreitet ist, wird Politik zur Verhandlung mit einer Praxis, die sich bereits eingestellt hat.
+- **„Strategische Priorität impliziert strategische Kapazität.“** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] fand, dass nur **7 % der Hochschulen KI-Führungspositionen auf Leitungsebene geschaffen hatten**, obwohl **49 % KI als strategische Priorität behandelten**. Die Lücke ist nicht Gleichgültigkeit — sie besteht darin, dass die Absicht erklärt wurde, während die Struktur, die sie tragen würde, nicht finanziert wurde. Eine veröffentlichte KI-Strategie als Beleg für institutionelle Bereitschaft zu lesen, überzeichnet das, was tatsächlich vorhanden ist.
+- **„Adoptionszahlen messen Bereitschaft.“** Deklarierte Nutzung und governance-gesteuerte Nutzung sind unterschiedliche Größen, und die Evidenz trennt sie: Hochschulen berichten strategische Absicht bei etwa der Hälfte der Population und Führungskapazität bei weniger als einem Zehntel. Eine Umfrage, die zeigt, dass Mitarbeitende KI nutzen, sagt Ihnen, was Einzelne bereits ohne Erlaubnis getan haben, nicht, was die Institution unterstützen oder beaufsichtigen kann.
+- **„Beschaffung ist ein administrativer Schritt.“** Wo Fähigkeit eingekauft statt aufgebaut wird, entscheiden die Vertragsbedingungen, was später möglich wird — Dateneigentum, Audit-Zugang und die Frage, ob das Werkzeug überhaupt evaluiert werden kann. Eine Anbieterentscheidung, die als Einkaufsaufgabe getroffen wird, verbaut Evaluationsfragen, die die Institution noch nicht gestellt hat.
+- **„Governance kann der Adoption folgen.“** Die Behauptung zur Reihenfolge ist verbreitet und hier nicht gestützt: Die Evidenz dokumentiert das umgekehrte Muster, bei dem Policy- und Führungsstrukturen einer Nutzung hinterherhinken, die bereits stattfindet. Governance, die als etwas konzipiert wird, das man nach dem Rollout aufbaut, ist Governance, die aus einer Position geringerer Verhandlungsmacht heraus aufgebaut wird.
 
 ## Verbundene Konzepte
 - [[educational-policy-ai]]

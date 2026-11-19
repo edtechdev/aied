@@ -7,7 +7,7 @@ foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T07:55:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 ## Einführung
 
-KI in der Bildung zeigt sich unterschiedlich über Disziplinen hinweg, weil jedes Feld seine eigene charakteristische Pädagogik hat — die unterscheidenden Weisen, wie Wissen konstruiert, geübt und gelehrt wird. KI-Tutoren, die in [[math-education|Mathematik]] glänzen, mögen in [[humanities-education|den Geisteswissenschaften]] scheitern, wo Interpretation und Autorschaft mehr zählen als richtige Antworten. Diese Seite ist die Überblickskarte für jene disziplinspezifischen Stränge, die inzwischen von Schulfächern über professionelle und angewandte Ausbildung bis zu Studiopraxis laufen. Ein Mitglied des Strangs ist überhaupt kein gelehrtes Fach: [[learning-sciences]] ist das Forschungsfeld um KI in der Bildung, das die Mechanismen liefert, die KI-Systeme operationalisieren, und die Standards, nach denen sie beurteilt werden — es nimmt die übergreifende Sicht, gegen die Prämisse dieser Seite, dass der Fachinhalt das ist, was ändert, was Unterstützung tun sollte.
+KI in der Bildung zeigt sich in den verschiedenen Disziplinen unterschiedlich, denn jedes Feld hat seine eigene Signaturpädagogik — die charakteristischen Weisen, in denen Wissen konstruiert, praktiziert und gelehrt wird. KI-Tutoren, die in der [[math-education|Mathematik]] glänzen, können in den [[humanities-education|Geisteswissenschaften]] versagen, wo Interpretation und Autorschaft mehr zählen als richtige Antworten. Die Fachseiten sind in vier Cluster gruppiert: [[humanities-education|Geisteswissenschaften und Künste]], [[social-sciences-education|Sozialwissenschaften]], [[stem-education|STEM]] und die [[professions-education|Professionen]] — letztere umfassen Studiengänge, deren Curriculum durch Berufszulassung, Akkreditierung und supervidierte Praxis geordnet ist. Disziplinspezifische Stränge reichen von Schulfächern über die berufliche Ausbildung bis zur Studiopraxis. Ein Mitglied dieses Strangs ist überhaupt kein unterrichtetes Fach: Die [[learning-sciences|Lernwissenschaften]] sind das Forschungsfeld rund um KI in der Bildung, das die Mechanismen liefert, die KI-Systeme operationalisieren, und die Maßstäbe, an denen sie gemessen werden. Sie nehmen die querschnittliche Perspektive ein, entgegen der Prämisse, dass es der Fachinhalt ist, der verändert, was Unterstützung leisten soll.
 
 ## Disziplinspezifische Konzepte
 

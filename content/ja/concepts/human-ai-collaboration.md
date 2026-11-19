@@ -1,14 +1,14 @@
 ---
 title: 人間とAIの協働
 created: "2026-10-10T22:38:05-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,8 @@ ai_assist:
 - **協働は学生の学習だけでなく、研究の過程そのものにも及びます**——[[potter-participatory-design-writing-analytics-2026|Potter ら（2026）]]は、安全な RAG プラットフォームで GPT-4o にコードと予備的なテーマを起草させ、3名の中心研究者と2名の外部検証者が解釈上の権限を保ち、4つの最終テーマに統合しました。このハイブリッドなワークフローは研究者の労働を除去するのではなく再配分しました。
 
 ## つながり
+
+人間とAIの協働は、[[human-in-the-loop-ai|ヒューマン・イン・ザ・ループ]]（監督）、[[agentic-ai|エージェンティックAI]]（自律性）、[[teacher-role|教師の役割]]（変化する教師の仕事）、[[scaffolding|スキャフォールディング]]および[[metacognition|メタ認知]]（協働がどのように学習を支えるか）、そして[[cognitive-offloading|過剰依存]]（協働が代替へと変わるときの失敗パターン）と結びついている。これは[[ai-literacy|AIリテラシー]]、[[self-regulated-learning|自己調整学習]]、[[student-experience|学習者体験]]に共通する中核的なテーマである。
 
 - **人間+AIは、テストではなく改訂において人間のみのみを上回った。**354名の学生が受講する経済学コースでの無作為化試験では、AIのフィードバックを確認・編集したTAは、単独で執筆したTAよりも質の高い学生の改訂を引き出し、その効果は提案を採用した頻度に応じて大きくなった([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]])。事後テストの得点には差がなかったため、この相補性は持続的な学習ではなく課題レベルのものであった。
 

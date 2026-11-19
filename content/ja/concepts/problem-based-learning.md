@@ -1,7 +1,7 @@
 ---
 title: 問題基盤型学習（PBL）
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T12:19:30-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -47,15 +47,18 @@ PBL は医学教育に端を発し（マクマスター大学、1960 年代）�
 - **AI は問題の複雑さの上限を引き上げる。** 同じ議論は、AI が PBL が関わることができる問題の範疇を拡大し、「やっかいな問題」や複雑な現実の事例を、以前にはそこに手が届かなかった学生にとってアクセス可能にすると述べます。
 - **成果物を代理指標とする問題。** AI は、提出された成果物とそれを生み出した[[student-engagement|エンゲージメント]]との結びつきを断ちます。これは PBL が対処するのに良い位置にある問題です。なぜなら PBL は成果物だけでなく*過程*と実証された理解を評価するからです。これは PBL を[[authentic-assessment|真正の]]評価および[[process-oriented-assessment|過程に基づく評価]]、そしてこの知識基盤の[[cognitive-offloading|過度の依存]]の文献につなげます。
 
-生成 AI を支援する PBL とプロジェクト基盤型学習を統合する三水準のメタ分析は、人間—AI 協働の産出物であって内在化された学習ではないものを測るため、成果物と解決策の成績を別のモデルに保っています。そしてその推定値は、レビュアーが報告する中で最大のものです（g = 1.958）。ただしそれは六つの研究にのみ依拠し、ゼロを横切るおよそ [−0.740, 4.656] の 95% 予測区間を伴います。これは上記の「成果物を代理指標とする」注意の[[quantitative-research|定量的]]表現です（[[chen-pbl-pjbl-genai-meta-analysis-2026|Chen ら 2026]]）。
-- **[[scaffolding|適応的な足場かけ]]としての ChatGPT。** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra ら（2026）]]は、AI で強化された PBL の枠組みの中で適応的な足場かけとして統合された ChatGPT が、K-12（中学 2 年生 120 名）において[[critical-thinking|批判的思考]]と[[personalized-learning|パーソナライズド・ラーニング]]を改善することを示しています。これは AI を PBL 内部の支援として扱うものであって、答えを出す機械としては扱いません。
-- **議論を注入するエージェントが集団思考に対抗できる。** 職種間協働の PBL セッションにおいて三つの定められた時点で発話した生成 AI エージェントは、論争的な見解を導入しました。そして学生は、それを反論することが、声を上げるための社会的に許容された方法を与えてくれたと報告しました。エージェントの応答を退けた場合でさえ、その不一致は振り返りを刺激しました（[[genai-counter-learner-groupthink-2025|Wiss ら（2025）]]）。
-- **就学前の教員養成からの準実験的エビデンス。** [[chen-osman-preservice-physics-tpack-ctd-pbl-2026|Chen and Osman（2026）]]は、8 週間の AI 支援 CTD-PBL モジュールを、130 名の三年次の就学前[[physics-education|物理]]教員（各条件 65 名）に対する従来型の教授と比較しました。DeepSeek は、課題固有のプロンプトテンプレートを通じて、限定された足場かけとして用いられました。すなわち、授業アイデアの生成、資源の整理、説明の比較、相互フィードバックのプロンプト、そして修正の計画です。そしてすべての AI 出力は、教育用の成果物に取り込まれる前に、内容の正確さ、教育学的適切さ、実現可能性、そして[[ethics|倫理]]に対する検証を通過することが求められました。モジュール群はより高い事後テスト[[tpack|TPACK]]（M = 4.04 対 3.40、d = 1.02）と、より高く知覚された[[problem-solving|協働的な問題解決]]（M = 3.62 対 3.05、d = 0.88）を報告しました。そして最大の交互作用効果は、共有された知識構築と社会的調整に落ちました。これはまさに、上記の構造的議論が AI が強化すべきだと予測する協働的な過程の次元です。著者らは、AI が独立変数として分離されなかったことを明示しています。差分の変化は、問題基盤型の課題、構造化された協働、[[teacher-role|教員]]による足場かけ、[[peer-assessment|相互フィードバック]]、そして振り返りを伴う修正という条件全体に付着するのであり、また両方の成果は観察された実践ではなく[[self-report-measures|自己報告]]された知覚でした。
-- **責任ある活用の枠組み。** [[learn-framework-responsible-genai-pbl-2026|Uden & Hwang（2026）]]は、神経科学に基づく **LEARN** 枠組み（[[lifelong-learning|Lifelong Learning]]、Engagement、Active Processing、Reflection、Neuro-based Design）を提示し、PBL 内における生成 AI の活用を倫理的に基礎づけ、[[cognitive-offloading|認知的負荷分散]]とインテグリティの侵食に対抗します。
-- **領域ごとの実装。** [[engineering-education|生物医学工学]]のための PBL の枠組みは、要約とコーディングの支援に生成 AI を用い、再現パッケージを伴います（[[pbl-biomedical-engineering-genai-2026|Nnamdi ら 2026]]）。AI 支援の PBL は[[educational-robotics|ロボット工学]]における[[computational-thinking|計算的思考]]を高めます（[[ai-pbl-computational-thinking-2026|計算的思考のための AI 支援 PBL]]）。そして生成 AI が可能にするバーチャル患者が、病歴聴取のチュートリアルを支えます（[[genai-simulate-patient-history-pbl-2026|Mool ら 2026]]）。
-- **AIは、家庭教師の知識伝達は担えるが、集団学習の社会的な規制は担えない。** 4週間の薬学準実験で、[[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]]は、AI媒介のPBLが促進者主導の学業上の利得と同等であったこと（群間 p = 0.474）を、一方で促進者主導の群が集団力学（26.51 対 24.74、p = 0.035）と批判的思考（14.75 対 13.09、p < 0.001）で優位を保ったことを見出しました。
-- **エビデンスの統合。** [[educators-engagement-ai-pbl-review-2026|Amdan ら（2026）]]は、PBL における AI との教育者の関与に関する 50 の研究（2015–2024）を、[[human-ai-collaboration|人間と計算機の相互作用]]の枠組みの中で[[meta-analysis-systematic-review|体系的にレビュー]]します。
-- **シナリオ基盤型 PBL における生成 AI。** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues（2026）]]は、医療教育における生成 AI の体系的レビューの中で、シナリオ基盤型のアプローチの一つとして問題基盤型学習を扱い、[[prompt-engineering|プロンプト設計]]が教授の仕様として機能し、完全に自動化されたアプローチよりも人間と AI のハイブリッドな協働が優れていることを見出しています。このレビューは、生成された内容と教授の枠組みとの整合をより強めること、そして PBL の文脈におけるより再現可能なプロンプトの実践の必要性を指摘しています。
+GenAI支援PBLとプロジェクト型学習をプールする三水準メタ分析が、成果物と解決策のパフォーマンスを別モデルに分けているのは、まさにそれが内面化された学習ではなく人間とAIの協働による産出を測っているからであり、その推定値はレビューアが報告する中で最大である(g = 1.958)が、依拠するのはわずか6件の研究であり、ゼロをまたぐおおよその95%予測区間[−0.740, 4.656]を伴う——上述の、成果物を代理指標とみなすことへの注意の[[quantitative-research|量的]]な形である([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]])。
+- **[[scaffolding|適応的スキャフォールディング]]としてのChatGPT。** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra et al. (2026)]]は、K-12(8年生120名)における[[critical-thinking|批判的思考]]と[[personalized-learning|パーソナライズド学習]]を高めるために、AI強化PBLフレームワーク内にChatGPTを適応的スキャフォールディングとして統合したことを示している。これはAIを答えを出す機械ではなく、PBL内部の支援として扱うものである。
+- **論争を注入するエージェントはグループシンクに対抗しうる。** 多職種連携のPBLセッションにおいて設定された3つの時点で発言するgenAIエージェントが物議をかもす視点を導入し、学生は、それに反論することが社会的に許容される発言の仕方を与えてくれたと報告した。エージェントの応答を退けた場合でも、その不一致が内省を促した([[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]])。
+- **教職課程からの準実験的証拠。** [[chen-osman-preservice-physics-tpack-ctd-pbl-2026|ChenとOsman(2026)]]は、3年目の[[physics-education|物理]]科教員志望者130名(各条件65名)を対象に、8週間のAI支援CTD-PBLモジュールと従来型の指導を比較した。DeepSeekは課題固有のプロンプトテンプレートを通じて、境界づけられたスキャフォールド——授業アイデアの生成、リソースの整理、説明の比較、ピアフィードバックの促し、修正計画——として用いられ、すべてのAI出力は指導成果物に組み込まれる前に、内容の正確性、教授法的適切性、実行可能性、[[ethics|倫理]]に照らした検証を通過することが求められた。モジュール群は事後テストの[[tpack|TPACK]]がより高く(M = 4.04 対 3.40、d = 1.02)、知覚された[[problem-solving|協働的問題解決]]もより高かった(M = 3.62 対 3.05、d = 0.88)。そして最大の相互作用効果は、共有された知識構築と社会的調整に現れた——まさに、上述の構造的議論が、AIは短絡化するのではなく強化すべきだと予測する協働プロセスの次元である。著者らは、AIが独立変数として切り出されたわけではないことを明示している。すなわち、差として現れた変化は、問題ベースの課題、構造化された協働、[[teacher-role|指導者]]のスキャフォールディング、[[peer-assessment|ピアフィードバック]]、内省的な修正という条件全体に付随するものであり、いずれの成果も観察された実践ではなく[[self-report-measures|自己報告]]による知覚であった。
+- **責任ある利用のフレームワーク。** [[learn-framework-responsible-genai-pbl-2026|UdenとHwang(2026)]]は、PBL内での生成AI利用を倫理的に基礎づけ、[[cognitive-offloading|認知的オフローディング]]や誠実性の低下に対抗するために、神経科学に知見を得た**LEARN**フレームワーク([[lifelong-learning|Lifelong Learning]]、Engagement、Active Processing、Reflection、Neuro-based Design)を提唱している。
+- **領域別の実装。** [[engineering-education|医用生体工学]]のPBLフレームワークは、要約とコーディング支援にGenAIを用い、再現用パッケージを伴う([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]])。AI支援PBLは[[educational-robotics|ロボティクス]]における[[computational-thinking|計算論的思考]]を高める([[ai-pbl-computational-thinking-2026|計算論的思考のためのAI支援PBL]])。またgenAIによる仮想患者が、問診(病歴聴取)のチュートリアルを支える([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]])。
+- **証拠の統合。** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]]は、PBLにおける教育者のAIへの関与に関する50件の研究(2015–2024)を、[[human-ai-collaboration|ヒューマンコンピュータインタラクション]]の枠組みの中で[[meta-analysis-systematic-review|システマティックにレビュー]]している。
+- **シナリオベースPBLにおけるGenAI。** [[genai-scenario-based-healthcare-education-2026|Netoら(2026)]]は、医療系教育におけるGenAIのシステマティックレビューにおいて、シナリオベースのアプローチの一つとして問題ベース学習を含め、[[prompt-engineering|プロンプト設計]]が教授上の仕様記述として機能すること、そして人間とAIのハイブリッド協働が完全自動化されたアプローチを上回ることを見いだしている。このレビューは、生成される内容を教授フレームワークにより強く整合させることと、PBLの文脈においてより再現可能なプロンプティングの実践を行うことの必要性を強調している。
+
+- **段階的なツールの撤去は、最終的な選択を判断課題へと変える。**[[abril-jimenez-human-centred-engineering-genai-2026|Abril-Jimenez et al. (2026)]]では、工学部の2年生105名がGenAIを用いて問題を探究しプロトタイプを構築した後、ツールを意図的に制限し、あらかじめ設定した規準に基づいて解決策を選択した。著者らは、批判的評価を生み出したのはツールではなく、その制限であると評価している。
+
+- **AIはチューターの知識伝達を担えるが、集団学習の社会的調整は担えない。** 4週間の薬理学における準実験で、[[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]]は、AI媒介型PBLがファシリテーター主導型と同等の学業的成果を示すことを見いだした（群間 p = 0.474）。一方、ファシリテーター主導群は集団力学（26.51 対 24.74、p = 0.035）と批判的思考（14.75 対 13.09、p < 0.001）において優位性を保った。
 
 ## PBL と関連する教授法との比較
 

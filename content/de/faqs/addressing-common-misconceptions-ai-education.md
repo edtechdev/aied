@@ -1,7 +1,7 @@
 ---
 title: "Wie können wir verbreitete Fehlvorstellungen über KI in der Bildung ausräumen?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-11-18T18:50:00-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
@@ -12,7 +12,7 @@ weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-18T16:55:00-05:00"
+source_updated: "2026-11-01T00:00:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -248,7 +248,7 @@ Richtlinientext erzeugt kein gemeinsames Verständnis. Studierende und Beschäft
 
 ### „Die Zurückhaltung der Lehrenden ist eine Fortbildungslücke."
 
-Manchmal ist sie es. Bereitschaft ist auch Arbeitsbelastung, [[learner-identity|professionelle Identität]], fachliche Werte, Zweifel an der Validität von Bewertung, dünne institutionelle Unterstützung, Unsicherheit beim Datenschutz und ein begründetes Urteil, dass eine bestimmte Anwendung den Studierenden nicht dient. Personalentwicklung muss daher praktische Kompetenz, pädagogische Integration, Zweck und Identität, Zeit, Richtlinien, [[discipline-specific-aied|disziplinspezifische]] Nutzung und die Option einer prinzipientreuen Nicht-Einführung abdecken. Eine einmalige Vorführung von Funktionen löst keinen professionellen und organisationalen Wandel ([[educational-development|Personalentwicklung in der Lehre]]).
+Manchmal ist das der Fall. Bereitschaft ist auch Arbeitsbelastung, [[learner-identity|professionelle Identität]], disziplinäre Werte, Zweifel an der Validität von Prüfungen, geringe institutionelle Unterstützung, Unsicherheit in Bezug auf Datenschutz und ein begründetes Urteil, dass eine bestimmte Anwendung den Studierenden nicht dient. Entwicklung muss daher praktische Kompetenz, pädagogische Integration, Zweck und Identität, Zeit, Richtlinien, [[discipline-specific-aied|fachspezifische]] Nutzung und die Option einer prinzipiengeleiteten Nichtübernahme abdecken. Eine einmalige Funktionsdemonstration löst keinen professionellen und [[change-management|organisatorischen Wandel]] ([[educational-development|Educational Development]]).
 
 ### „Den Leuten die richtigen Fakten zu sagen, reicht."
 

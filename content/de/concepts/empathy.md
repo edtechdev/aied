@@ -11,7 +11,7 @@ audience: [instructors, medical educators, curriculum designers, researchers]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/empathy
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-01T00:00:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -27,12 +27,12 @@ ai_assist:
 
 ## Fragen zum Nachdenken
 
-- Wenn Rollenspiel, VR und ein Chatbot alle Empathiewerte erhöhen – ist der Unterschied Lernen oder Bearbeitungszeit?
-- Eine Pflegestudierende lächelt einen Patienten in Schmerzen an: Beobachtende lesen Unstimmigkeit, ein Lächeln-Detektor liest Wärme. Welchem sollte ein Assessment vertrauen?
-- Die meisten Studien zu KI-gestütztem Empathietraining messen Zuversicht statt beobachtetes Verhalten. Wenn die Zuversicht steigt, das Verhalten aber nicht – ist das Training gescheitert oder nur nicht geprüft worden?
-- Wenn ein Chatbot warm antwortet, berichten Studierende, sich verstanden zu fühlen. Ist das Empathie, eine Aufführung von Empathie oder etwas, das unabhängig davon zählt?
-- Wenn Menschen die empathische Verantwortung abgeben, sobald sie glauben, KI könne es übernehmen, was bedeutet das für ein [[curriculum-design|Curriculum]], das Empathie teils durch KI-Übung lehrt?
-- Wer sollte entscheiden, ob Empathie ein benotbares Ergebnis ist – und was geschieht mit Studierenden, die korrekt, aber nicht warm sind?
+- Wenn Rollenspiel, VR und ein Chatbot alle die Empathiewerte erhöhen, ist der Unterschied dann Lernen oder die aufgewendete Zeit?
+- Eine Pflegestudierende lächelt einen Patienten an, der Schmerzen hat: Beobachter lesen darin Inkongruenz, ein Lächeldetektor liest Wärme. Wem sollte eine Bewertung vertrauen?
+- Die meisten Studien zu AI-gestütztem Empathietraining messen Selbstsicherheit statt beobachteten Verhaltens. Wenn die Selbstsicherheit steigt, das Verhalten aber nicht, ist das Training dann gescheitert oder lediglich nicht geprüft worden?
+- Wenn ein Chatbot warmherzig antwortet, berichten Studierende, sich verstanden zu fühlen. Ist das Empathie, eine Inszenierung von Empathie oder etwas, das unabhängig davon zählt?
+- Wenn Menschen empathische Verantwortung abgeben, sobald sie glauben, AI könne sie übernehmen, was bedeutet das für ein Curriculum, das Empathie teilweise durch AI-Praxis vermittelt?
+- Wer sollte entscheiden, ob Empathie ein benotbares Lernergebnis ist — und was geschieht mit Studierenden, die treffsicher, aber nicht warmherzig sind?
 
 ## Einführung
 
@@ -50,9 +50,9 @@ Die ersten beiden betreffen Lernende, die dritte betrifft Systeme. Eine Seite, d
 
 Der direkte Vergleich ist im Design ungewöhnlich sauber und in der Durchführung ungewöhnlich konfundiert. [[zwolinski-teaching-empathy-real-virtual-ai-2026|Zwoliński et al. (2026)]] ordneten 64 Masterstudierende in einem Kurs zur Barrierefreiheit zufällig einer von drei Bedingungen zu: reales Rollenspiel mit Rollstühlen, Alterssimulationsanzügen und Schwangerschaftssimulatoren; dieselbe Ausrüstung in einem VR-Labor; oder Persona-Aufbau im Dialog mit ChatGPT-4.0. Alle drei Gruppen verbesserten sich signifikant auf dem Davis Interpersonal Reactivity Index. Rollenspiel gewann 13.2%, VR 11.6% und die KI-Bedingung 8.8%. Nur Personal Distress unterschied sich signifikant zwischen den Gruppen.
 
-Die Reihenfolge ist intuitiv, die Interpretation nicht. Die drei Bedingungen liefen etwa 125, 87 und 42 Minuten, sodass die Studie Modalität und Dosis gemeinsam vergleicht. Man kann fair sagen, dass ein 42-minütiger LLM-Dialog einen kleineren Zuwachs erzeugte als eine zweistündige verkörperte Übung; man kann nicht fair sagen, dass Verkörperung pro Minute dreimal so viel wert ist. Die Autorinnen und Autoren benennen die Konfundierung ausdrücklich, und die Empfehlung ihrer eigenen Studierenden – die Wiederholbarkeit von VR, den sinnlichen Reichtum der realen Welt und die Anpassungsfähigkeit des LLM zu verbinden – ist eine vernünftige Lesart der Evidenz.
+Die Reihenfolge ist intuitiv, die Interpretation nicht. Die drei Bedingungen dauerten etwa 125, 87 und 42 Minuten, die Studie vergleicht also Modalität und Dosierung gemeinsam. Man kann zu Recht sagen, dass ein 42-minütiger [[llm|LLM]]-Dialog einen geringeren Lernzuwachs erbrachte als eine zweistündige verkörperte Übung; man kann nicht zu Recht sagen, dass Verkörperung pro Minute dreimal so viel wert ist. Die Autoren benennen die Konfundierung ausdrücklich, und die Empfehlung ihrer Studierenden selbst — die Wiederholbarkeit von VR, den sensorischen Reichtum der realen Welt und die Adaptivität des LLM zu kombinieren — ist eine plausible Lesart der Evidenz.
 
-Die Literatur der [[medical-education|Gesundheitsberufe]] fügt Maßstab hinzu, aber wenig kausale Klarheit. [[ismail-affective-domain-ai-healthcare-review-2026|Ismail und Zafira (2026)]] begutachteten 17 Studien zu KI für die affektive Entwicklung und fanden die Interventionen konzentriert auf Kommunikationstraining, virtuelle Patienten, reflexives Feedback, Simulation des Überbringens schlechter Nachrichten und OSCE-artige Prüfung. Die meisten berichteten Zuwächse bei Zuversicht, [[self-efficacy|Selbstwirksamkeit]], reflexivem Engagement oder wahrgenommener Kommunikationsfähigkeit. Die Evidenz für Empathie selbst, emotionale Responsivität, relationale Authentizität und nonverbale Kommunikation blieb begrenzt. Das ist der zentrale Befund: Ein Feld, das Empathie lehren will, misst überwiegend Komfort.
+Die Literatur zu den [[medical-education|Gesundheitsberufen]] vergrößert die Evidenzbasis, liefert aber kaum kausale Klarheit. [[ismail-affective-domain-ai-healthcare-review-2026|Ismail und Zafira (2026)]] sichteten 17 Studien zum Einsatz von KI für die Entwicklung im affektiven Bereich und stellten fest, dass sich die Interventionen auf Kommunikationstraining, virtuelle Patienten, reflexives Feedback, Simulationen zur Übermittlung schlechter Nachrichten und Prüfungen im OSCE-Stil konzentrierten. Die meisten berichteten Zuwächse an Zuversicht, Selbstwirksamkeit, reflexivem Engagement oder wahrgenommener Kommunikationskompetenz. Die Evidenz für Empathie selbst, emotionale Responsivität, relationale Authentizität und nonverbale Kommunikation blieb begrenzt. Das ist der zentrale Befund: Ein Feld, das Empathie lehren will, misst überwiegend, wie sicher man sich fühlt.
 
 Ein vierter Strang macht die Mehrdeutigkeit ausdrücklich: tragbare Erregungssensoren und KI-generierte Bildwelten können die Umstände eines anderen lebendig machen, aber ein Anstieg der Hautleitfähigkeit ist ein Beleg für Erregung, nicht für Empathie, und Studien dieser Linie hören oft dort auf ([[lim-ai-wearables-environmental-empathy-2024|Lim et al., 2024]]).
 
@@ -76,7 +76,7 @@ Wo Empathie eine Gesprächsqualität statt eine Fertigkeit ist, betrifft die Evi
 
 Die neueste Arbeitslinie fragt, was KI-Empathie mit menschlicher Empathie macht. Über vier Studien mit 249, 494, 743 und 737 Teilnehmenden fanden [[shastry-gray-empathy-offloading-2026|Shastry und Gray (2026)]], dass die Bereitschaft, selbst emotionale Unterstützung zu geben, sinkt, je fähiger Menschen KI darin halten – Empathie-Offloading –, kontrolliert für Trait-Empathie und frühere KI-Nutzung. Wenn die Quelle der Unterstützung des Empfängers benannt wurde, sagten Teilnehmende, sie würden weniger an KI abgeben als an Freunde oder Therapeuten, weil sie die empathische Fähigkeit von KI niedriger einschätzten. Bei einem Verhaltensmaß wählten dieselben Teilnehmenden, die angaben, nicht an KI abzugeben, weniger Empathiewörter und mehr Gleichgültigkeitswörter.
 
-Für die Bildung schneidet das in zwei Richtungen. Ein Curriculum, das KI nutzt, um Empathie zu üben, baut vielleicht die Fertigkeit auf; eine Campus-Kultur, die emotionale Unterstützung an Chatbots leitet, erodiert vielleicht die Motivation, sie einzusetzen. Die beiden Effekte sind vereinbar, und nichts in der aktuellen Literatur misst sie zusammen.
+Für die Bildung ist das zweischneidig. Ein [[curriculum-design|Curriculum]], das KI nutzt, um Empathie einzuüben, baut diese Fähigkeit möglicherweise auf; eine Campus-Kultur, die emotionale Unterstützung an Chatbots weiterleitet, höhlt möglicherweise die Motivation aus, sie einzusetzen. Die beiden Effekte sind miteinander vereinbar, und nichts in der aktuellen Literatur misst sie gemeinsam.
 
 ## Was das für die Praxis bedeutet
 

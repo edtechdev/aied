@@ -1,7 +1,7 @@
 ---
 title: Interaktion zwischen Studierenden und KI
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T09:20:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,8 @@ Die Interaktion ist nicht immer instrumentell. Das maschinenintegrierte relation
 
 ### Was Lernende KI fragen
 
-- **Verweigerung ist eine Interaktionskonfiguration, keine Nicht-Nutzung.** [[silverdal-distributed-authorship-swedish-writing-2026|Silverdal, Hermansson und Lindgren (2026)]] zeichneten drei Schülerinnen und Schüler der Oberstufe auf, die mit GenAI dieselbe von Kafka inspirierte Geschichte schrieben, und arbeiteten aus den Aufnahmen drei unterschiedliche Assemblagen heraus: an das Modell delegierte Autorschaft, reziprokes kritisches Mitschreiben und eine explizite Konfiguration „KI und ich — nein danke“, in der die
+- **Verweigerung ist eine Interaktionskonfiguration, kein Ausbleiben von Nutzung.** [[silverdal-distributed-authorship-swedish-writing-2026|Silverdal, Hermansson und Lindgren (2026)]] zeichneten drei Lernende der Sekundarstufe II auf, die mit GenAI dieselbe von Kafka inspirierte Geschichte schrieben, und arbeiteten aus den Aufzeichnungen drei unterschiedliche Assemblagen heraus: an das Modell delegierte Autorschaft, reziprokes, kritisches Ko-Schreiben und eine explizite Konfiguration „AI und ich — nein danke“, in der die jeweilige Person ihre Schreibpraxis vom Tool weg umorganisierte. Der Befund lautet, dass *dieselbe* Aufgabe, derselbe Raum und dasselbe Tool alle drei hervorbrachten und dass vieles, was sie unterschied, in den Momenten zwischen den Prompts lag — Pausen, Umformulierungen, Zögern vor der Übernahme eines Vorschlags —, was ein Chat-Log allein nicht erfasst.
+Ein zentraler Forschungsstrang erfasst die **Typen und die Qualität der Anfragen von Lernenden**. Studien wenden Taxonomien von Fragetypen an — etwa die Taxonomie mit 18 Typen von Graesser et al. —, um Schüler-AI-Interaktionen zu klassifizieren, und nutzen dabei häufig Few-Shot-Klassifikatoren, um die Analyse auf Hunderte oder Tausende von Interaktionen zu skalieren. Die Befunde deuten darauf hin, dass eine kleine Teilmenge von Fragetypen den Großteil der Anfragen von Lernenden ausmacht und dass sich die Fragen, die Lernende stellen, **im Verlauf einer Aufgabe deutlich verändern** (z. B. [[student-ai-inquiry-types-cs2-2026|Amoozadeh et al. (2026)]]). Diese Aufgabenabhängigkeit ist bedeutsam: Interaktionsqualität ist kein feststehendes Merkmal der Lernenden, sondern wird durch Problemkontext, [[scaffolding|Scaffolding]] und die Affordanzen des AI-Tools geprägt. Bei den Jüngsten fanden [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]], dass Kinder (6–14 Jahre) die Glaubwürdigkeit eines [[conversational-ai|Chatbots]] aktiv testeten, indem sie Fragen mit bekannter Antwort stellten (z. B. „wie groß ist ein t rex“) — ein Ausdruck epistemischer Selbstbestimmung —, während der Modalwert bei lediglich 1–3 Fragen pro Kind lag und ein auffälliger Erstklässler 21 stellte, was unterstreicht, wie entwicklungsbedingte und individuelle Variation die Fragen prägt, die Lernende stellen.
 
 Die Taxonomien selbst sind sich noch nicht einig: Über 46 Kategorisierungen aus 33 Studien hinweg bezeichnen ähnliche Labels unterschiedliche Phänomene, weshalb die Übersichtsarbeit die *Interaktionsepisode* — einen zielgerichteten, zeitlich begrenzten Austausch — als eine Einheit vorschlägt, die Wissenserwerb, evaluatives Feedback, strategische Anleitung, dialogische Erkundung, Artefaktverfeinerung und Ko-Regulation umfasst ([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]]).
 

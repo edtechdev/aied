@@ -83,9 +83,9 @@ Beachten Sie, was das Ergebnis zur Item-Generierung über die Reihenfolge impliz
 
 Anpassung zahlt sich aus, wenn das Modell eine Eigenschaft zuverlässig halten soll: ein Leseniveau, ein Ausgabeformat, ein Fach, das ihm fehlt. Das wiederkehrende Ergebnis ist, dass **Zielgenauigkeit die Größe schlägt**.
 
-- Drei **8B**-Modelle, fine-tuned auf einem von Expertinnen und Experten gestalteten Kinderlesecurriculum, übertrafen Zero-Shot-GPT-4o und Llama 3.3 70B bei schwierigkeitsbezogenen Kennzahlen, mit vernachlässigbaren Sicherheitsproblemen. Die Autoren und Autorinnen rahmen das als **Kontrollierbarkeit statt Skalierung** ([[llm-children-reading-story-generation]]).
-- Ein Anweisungsdatensatz mit **24.795 Beispielen**, verankert in Indian Knowledge Systems, ergab ein **7B**-Fine-Tune mit **6.39** auf einem externen Panel aus fünf Gutachtenden, innerhalb von **0.15** eines starken allgemeinen Referenzmodells bei einem Bruchteil der Deployment-Kosten. Dasselbe Basismodell erreichte **nahe null auf fachspezifischen Dimensionen** ohne das Fine-Tuning ([[iks-instruct-dataset-indian-knowledge]]). Diese Lücke zwischen allgemein kompetent und hier kompetent ist die ganze Begründung für Domänenanpassung.
-- Ein einzelner [[llm-training-and-fine-tuning|LoRA]]-Adapter, trainiert auf rund **3.900** gepoolten benoteten Beispielen, brachte fünf kleine [[open-source|offene Modelle]] (4B bis 30B) auf Parität oder besser mit einer menschlichen Bewertung über zwei Informatikprüfungen ([[llm-graders-computer-science-exams-2026]]). Ein Adapter, ein Datensatz, mehrere Basismodelle: Das ist die Form des Deployments, die ein kleines Team betreiben kann.
+- Drei **8B**-Modelle, feinabgestimmt auf ein von Fachleuten entwickeltes Lese-[[curriculum-design|Curriculum]] für Kinder, übertrafen Zero-Shot-GPT-4o und Llama 3.3 70B bei schwierigkeitsbezogenen Metriken — bei vernachlässigbaren Sicherheitsproblemen. Die Autoren rahmen dies als **Kontrollierbarkeit statt Skalierung** ([[llm-children-reading-story-generation|Shen et al. (2026)]]).
+- Ein auf Indian Knowledge Systems gegründeter Instruction-Datensatz mit **24.795 Beispielen** ergab ein **7B**-Fine-Tuning, das in einem externen Panel aus fünf Juroren **6,39** erzielte — weniger als **0,15** hinter einem starken allgemeinen Referenzmodell, bei einem Bruchteil der Bereitstellungskosten. Dasselbe Basismodell erreichte ohne das Fine-Tuning **nahezu null auf domänenspezifischen Dimensionen** ([[iks-instruct-dataset-indian-knowledge|Singaravelu et al., 2026]]). Diese Lücke zwischen allgemein kompetent und hier kompetent ist das gesamte Argument für Domänenanpassung.
+- Ein einzelner [[llm-training-and-fine-tuning|LoRA]]-Adapter, trainiert auf rund **3.900** zusammengeführten, bewerteten Beispielen, brachte fünf kleine [[open-source|offene Modelle]] (4B bis 30B) dazu, in zwei Informatikprüfungen mit einem menschlichen Bewerter gleichzuziehen oder ihn zu übertreffen ([[llm-graders-computer-science-exams-2026|Habibullah et al., 2026]]). Ein Adapter, ein Datensatz, mehrere Basismodelle: Das ist die Form des Einsatzes, die ein kleines Team stemmen kann.
 
 Das Wort *stabil* in der Überschrift trägt das Gewicht. Format, Rubrik, Leseniveau und Fachvokabular sind stabile Ziele. Urteilslastige Prosa hat kein solches Ziel, und dort scheitert die Anpassung, wie die beiden nächsten Abschnitte zeigen.
 
@@ -137,13 +137,13 @@ Nichts davon spricht gegen die Arbeit oben. Es spricht dagegen, von einem Fine-T
 
 Fine-Tuning ist der Weg, einem Modell Ihren Kurs beizubringen. Die Suche über Ihre eigenen Materialien hob dasselbe System von 52.3% auf 66.6% ohne jedes Training, und ein gegen eine Rubrik verfeinerter Prompt bewegte die Übereinstimmung von 54.75% auf 81.25%. Training bringt einem Modell Verhalten und Format weit zuverlässiger bei als Inhalte.
 
-Ein größeres Basismodell macht all das überflüssig. Ein auf einem [[curriculum-design|Kinderlesecurriculum]] fine-tuntes 8B-Modell schlug Zero-Shot-GPT-4o und Llama 3.3 70B bei Schwierigkeitskennzahlen, und ein 7B-Fine-Tune landete innerhalb von 0.15 eines starken allgemeinen Referenzmodells bei einem Bruchteil der Deployment-Kosten. Größe und Passung sind verschiedene Achsen, und nur eine davon ist pro Token käuflich.
-
 Mehr Daten reparieren einen falsch gebauten Trainingssatz. Beaufsichtigung nur mit Antworten ließ die Genauigkeit in der Fehlvorstellungsstudie bei jeder Datengröße unter 30%. Skalierung repariert kein Ziel, dem die Information fehlt, die das Modell braucht.
 
 Ein Rezept, das auf einem Modell funktionierte, funktioniert auch auf dem nächsten. Identische Hyperparameter erzeugten qualitativ unterschiedliches Verhalten über Architekturen hinweg, und dieselbe Fine-Tuning-Methode verbesserte ein Bildmodell erheblich und bewirkte bei einem anderen nichts Messbares. Führen Sie das Rezept auf Ihrem Basismodell erneut aus, oder Sie raten.
 
-Überwachtes Fine-Tuning ist der sichere Zwischenschritt vor Reinforcement Learning. In SWIM erreichte die überwachte Stufe 0.474 gegenüber 0.577 des Prompts, den sie ersetzte, und nur das Belohnungssignal holte das zurück. Der Zwischenschritt kann Sie einen Monat und eine Regression kosten.
+Ein Rezept, das bei einem Modell funktioniert hat, funktioniert auch beim nächsten. Identische Hyperparameter erzeugten über verschiedene Architekturen hinweg qualitativ unterschiedliches Verhalten, und dieselbe Fine-Tuning-Methode verbesserte ein Bildmodell erheblich, während sie bei einem anderen nichts Messbares bewirkte. Führen Sie das Rezept auf Ihrem Basismodell erneut aus, sonst raten Sie nur.
+
+Supervised Fine-Tuning ist der sichere Zwischenschritt vor dem Reinforcement Learning. In SWIM erreichte die Supervised-Phase 0,474 gegenüber 0,577 für den Prompt, den sie ersetzte, und erst das Reward-Signal holte diesen Wert zurück. Der Zwischenschritt kann einen Monat und einen Leistungsrückschritt kosten.
 
 ## Was Ihnen entgegenkommen wird
 

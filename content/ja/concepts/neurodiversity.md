@@ -1,14 +1,14 @@
 ---
 title: ニューロダイバーシティ
 created: "2026-10-10T22:45:44-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
 audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/neurodiversity
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -81,7 +81,9 @@ AI時代において、この捉え方はスローガンではなく設計上の
 
 ## つながり
 
-ニューロダイバーシティは、[[special-education|特別支援教育]]、[[inclusive-learning|包括的学習]]、[[universal-design-for-learning|ユニバーサルデザインによる学習]]、[[equity-in-ai-education|AI教育における公平性]]につながります。それは、AIが[[student-experience|学生の経験]]のためにどう展開されるかと、評価やリテラシーのプログラムが認知的変異にわたって公正であるようにどう設計されるかの両方に情報を与えます。これらの所見が他の学習者集団 — 言語、ジェンダー、社会経済的地位、地理 — とどう並べられるかについては、[[differential-effects-across-learner-groups|学習者集団間での差異的な効果]]を参照してください。
+ニューロダイバーシティは、[[special-education|特別支援教育]]、[[inclusive-learning|インクルーシブ学習]]、[[universal-design-for-learning|学習のためのユニバーサルデザイン]]、そして[[equity-in-ai-education|公平性]]と結び付いている。それは、[[student-experience|学生体験]]のためにAIをどのように導入するか、また認知的な多様性の全体にわたって公平となるようにアセスメントやリテラシープログラムをどのように設計するかという、その両方に示唆を与える。これらの知見が他の学習者集団——言語、ジェンダー、社会経済的地位、地理——に関する知見とどのように並ぶかについては、[[differential-effects-across-learner-groups|学習者集団間の差異的効果]]を参照。
+
+[[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep、Ghosh、Natoli]]による、ADHDのある大学生向けのAIに関する28件の研究のレビューは、エビデンスを支援、予測、倫理の3つに整理している。予測の領域が最も手薄であり、瞳孔計測モデルはAUROC 0.856に達した一方、SVM分類器の精度は66.1~68.8%にとどまり、臨床的な有用性の水準を下回っていた。実行機能のトレードオフが倫理的な核心である——ある要求を補ってくれるツールは、その能力を育てるはずだった練習機会をも吸い取ってしまいうる([[executive-function|実行機能]])。
 
 ## よくある誤解
 

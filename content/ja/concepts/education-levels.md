@@ -1,7 +1,7 @@
 ---
 title: 教育の水準
 created: "2026-10-10T22:31:17-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -15,7 +15,7 @@ discipline: [teacher education]
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -38,9 +38,9 @@ ai_assist:
 
 ## はじめに
 
-`level` メタデータ欄は、ある情報源が何についてのものかという教育の区分に名前をつけます——区分であって年齢ではありません。すなわち、**就学前教育**、**初等教育**、**中学校**、**中等教育**、**K-12**、**高等教育**、**学部**、**大学院**、**成人学習**、**特別教育**、**教師教育**です。あるものは就学の段階を、2つは大学教育のまったく異なる半分を、2つは段階ではなく[[learners|学習者の集団]]を、そして1つは教える人々に名前をつけています。一つの情報源は同時にいくつもの区分を持つことができます。
+`level` メタデータフィールドは、その情報源が扱う教育のバンドを示す。年齢ではなくバンドである：**preschool**、**primary education**、**middle school**、**secondary**、**K-12**、**higher ed**、**undergraduate**、**graduate**、**adult learning**、**special education**。このうち一部は学校教育の段階を指し、2つは大学での学びの大きく異なる前半と後半を指し、さらに2つは段階ではなく[[learners|学習者集団]]を指す。1つの情報源に複数のバンドを同時に付与できる。教員養成はバンドではない。これは専門分野であり、学部・大学院での学び（職前養成）と k 12 および成人学習（現職研修）の両方にまたがるため、[[discipline-specific-aied|分野]]の下でタグ付けされる。
 
-このページはその領域の傘であり、区分ページが実質的な仕事を担い、これと併せて読まれるべきです。[[k-12]]、[[early-childhood-elementary-ai-education]]、[[higher-ed]]、[[adult-learning]]、[[special-education]]、[[teacher-education]]、[[vocational-education]]です。
+各段階のページが掘り下げた検討を担っており、この分野を読み解くうえで欠かせない読み物となる。学校教育の年次では、[[early-childhood-elementary-ai-education|幼児教育]]（就学前と小学校の最初の数年）、[[primary-education|初等教育]]（おおよそ5歳から11歳）、[[secondary-education|中等教育]]（中学校と高等学校をまとめたもの）があり、[[k-12]]がこれらを横断する知見を扱う。大学での学びでは、[[higher-ed|高等教育]]が全体を包む枠組みであり、[[undergraduate-education|学部教育]]は外部の評価に服する履修科目を、[[graduate-education|大学院教育]]は指導、研究訓練、専門職プログラムを扱う。この2つの階梯の外側には、[[adult-learning|成人学習]]、[[vocational-education|職業教育]]、[[special-education|特別支援教育]]、[[teacher-education|教員養成]]がある。
 
 ## ある区分を他の区分と区別するもの
 
@@ -110,6 +110,10 @@ ai_assist:
 **「高等教育に集中した証拠は、下方へ一般化する。」** しません。そして文献の分布は便宜ではなく警告です。証拠がどこで濃密でどこで薄いかは研究経済の性質であり、AIが最も使われる場所の性質ではありません。したがって大学の標本から引き出されたK-12についての主張は、最も重要な境界を越えた外挿です。
 
 ## 関連する概念
+- [[primary-education]] — それ自体として独自の初等教育段階
+- [[secondary-education]] — 中学校と高等学校の一体化
+- [[undergraduate-education]] — 外部評価の下でのコースワーク
+- [[graduate-education]] — スーパービジョン、研究訓練、専門職プログラム
 - [[k-12]]
 - [[early-childhood-elementary-ai-education]]
 - [[higher-ed]]
@@ -135,3 +139,9 @@ ai_assist:
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — 職業デザインの学生のための AI 対応の没入型 PBL（Jin ら 2027）
 - [[preschool-teachers-ai-behavioral-intention-2026]] — 幼児教育の場における AI 利用の幼稚園教諭の意図
 - [[vahedian-children-attitudes-ai-chatbot-2026]] — 年齢に合わせた AI チャットボットに対する子どもの態度
+- [[yim-ai-literacy-primary-schools-review-2025]] — 25件の一次研究；倫理と批判的データリテラシーを含む4つの構成要素（Yim & Su 2025）
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33件の二次研究；高次の項目では正答率が急落（Pérez-Montesdeoca et al. 2026）
+- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 高校生・大学生・教員にわたる1477名の回答者；知覚された学習とエンゲージメントの対比
+- [[kumar-chatgpt-academic-assignments-2025]] — 学部生・大学院生304名；デジタルリテラシーは成績を予測したが、倫理は予測しなかった
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 学部生と大学院生の比較；倫理と自律性の差が最も大きい（Zaripova et al. 2026）
+- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — 大学院生の生成AIリテラシーに関する5次元モデル

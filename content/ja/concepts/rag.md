@@ -1,7 +1,7 @@
 ---
 title: RAG（検索拡張生成）
 created: "2026-10-10T22:45:39-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -32,6 +32,8 @@ ai_assist:
 - 開発者や指導者にとって、チューターは教科書の内容を超えて何を「知る」必要があるでしょうか — 教授法、いつ答えを差し控えるべきか、理解をどう探るか。RAGだけではそれがどこで不足し、何と組み合わせるべきでしょうか。
 
 ## はじめに
+
+このパターンのローカル版の事例が物理教育について報告されている。[[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]]は、教員自身のマシン上でOllamaを通じてモデルを動作させ、講義ノート、教科書、問題集から検索を行い、その文脈に基づいて小テスト、要約、学習ガイドを生成する。第一の論拠はプライバシーであり、データは一切デバイスの外に出ない。第二の論拠は学問分野への適合であり、検索コーパスがその授業そのものだからである。認められている代償はモデルサイズである。およそ8 GBのビデオメモリに収まるモデルは、利用可能な中で最も高性能なモデルではない。
 
 ## RAGが教育で使われる仕方
 

@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 updated: "2026-11-19T03:30:00-05:00"
 translation_of: "concepts/metaphors-and-analogies"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Synthese:** Metaphern und Analogien erfüllen in der [[ai-education|KI-Bildung]] zwei Aufgaben. Sie sind Sinnstiftungsinstrumente, mit denen Lehrende und Lernende entscheiden, was KI *ist* (ein Werkzeug, eine Assistentin, eine Black Box, ein Orakel), und sie sind Lehrinstrumente, die eine vertraute Quelldomäne auf ein unvertrautes Zielkonzept abbilden. Die Forschung in dieser Wissensbasis zeigt, dass diese beiden Aufgaben zusammenhängen: Die Metaphern, die Menschen vertreten, prägen, was sie von KI erwarten, welche Merkmale sie wahrnehmen und ob sie ihr vertrauen oder sie fürchten. Dieselbe Logik der Strukturabbildung erklärt, warum eine Analogie eine technische Idee einprägsam machen kann, während sie sie stillschweigend falsch darstellt. Eine fehlerhafte, von GenKI erzeugte Analogie kann nützlicher sein als eine ausgefeilte, wenn Lernende die Quelldomäne gut genug kennen, um die Abbildung zu prüfen und zu reparieren. Die praktische Konsequenz ist, Metaphern passend zu dem Merkmal zu wählen, das gelehrt wird, die strukturelle Passung und die kulturelle Zugänglichkeit zu prüfen und den Vergleich als Gegenstand der Kritik statt als fertige Erklärung zu behandeln. Die Evidenz ist überwiegend [[qualitative-research|qualitativ]], konzeptuell und kleinteilig; das Feld hat wenig kausale Belege dafür, dass metaphernbasiertes Lehren das Lernen verbessert.
+> **Synthese:** Metaphern und Analogien erfüllen in der KI-Bildung zwei Aufgaben. Sie sind Sinnstiftungsinstrumente, mit denen Lehrende und Lernende entscheiden, was KI *ist* (ein Werkzeug, eine Assistentin, eine Black Box, ein Orakel), und sie sind Lehrinstrumente, die eine vertraute Quelldomäne auf ein unvertrautes Zielkonzept abbilden. Die Forschung in dieser Wissensbasis zeigt, dass diese beiden Aufgaben zusammenhängen: Die Metaphern, die Menschen vertreten, prägen, was sie von KI erwarten, welche Merkmale sie wahrnehmen und ob sie ihr vertrauen oder sie fürchten. Dieselbe Logik der Strukturabbildung erklärt, warum eine Analogie eine technische Idee einprägsam machen kann, während sie sie stillschweigend falsch darstellt. Eine fehlerhafte, von GenKI erzeugte Analogie kann nützlicher sein als eine ausgefeilte, wenn Lernende die Quelldomäne gut genug kennen, um die Abbildung zu prüfen und zu reparieren. Die praktische Konsequenz ist, Metaphern passend zu dem Merkmal zu wählen, das gelehrt wird, die strukturelle Passung und die kulturelle Zugänglichkeit zu prüfen und den Vergleich als Gegenstand der Kritik statt als fertige Erklärung zu behandeln. Die Evidenz ist überwiegend [[qualitative-research|qualitativ]], konzeptuell und kleinteilig; das Feld hat wenig kausale Belege dafür, dass metaphernbasiertes Lehren das Lernen verbessert.
 
 ## Fragen zum Nachdenken
 

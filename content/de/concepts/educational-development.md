@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Lehr- und Curriculumsentwicklung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-19T03:30:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-18T05:55:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -47,19 +47,20 @@ Lehr- und Curriculumsentwicklung ist die professionelle und institutionelle Arbe
 
 ## Lehr- und Curriculumsentwicklung im KI-Zeitalter
 
-- **Bereitschaftsrahmenwerke:** [[sangwa-epiq-ai-faculty-readiness-2026|Das EPIQ-AI-Rahmenwerk]] identifiziert vier Bereitschaftsdomänen: epistemisch, pädagogisch, institutionell, und Qualität-und-Compliance. Bereitschaft der Fakultäten ist ein soziotechnisches Ausrichtungsproblem, nicht nur eine individuelle Fähigkeitslücke.
-- **Standards für Technologieintegration:** [[crompton-faculty-technology-integration-standards-2026|Crompton et al.]] nutzen [[design-based-research|designbasierte Forschung]], um Fakultätenstandards für Technologie- (einschließlich KI-)Integration in [[higher-ed|Hochschulbildungs]]institutionen zu entwickeln.
-- **Übernahme und Zuversicht:** [[teacher-ai-adoption-confidence|Forschung zur KI-Übernahme durch Lehrende]] identifiziert Bedenken, Unterstützung, Zuversicht und Einstellungen als Schlüsselprädiktoren. Programme zur Fakultätsentwicklung müssen alle vier adressieren.
-- **Prüfen Sie, was die Stufen eines Rahmenwerks beschreiben, bevor Sie es übernehmen.** Über 16 institutionell befürwortete KI-Kompetenzrahmenwerke hinweg waren KI-Nutzung, Ausgabenbewertung und domänenbezogene Anwendung in allen 16 substantiell, während Problemformulierung (7), Datenkompetenz (9) und KI-Erzeugung (8) es nicht waren; die Stufen der Profizienz beschreiben zudem Lernendenentwicklung, berufliche Rolle oder Jahrgangsstufe, sodass sie nicht direkt vergleichbar sind ([[ai-competence-framework-landscape-2026|Fitsilis (2026)]]).
-- **Curriculum-Integration:** [[institutional-change-framework-ai|Rahmenwerke institutionellen Wandels]] und [[ai-assessment-scale-reform|Assessment-Reform]] erfordern von Fakultäten, Kurse neu zu gestalten, nicht nur KI-Werkzeuge hinzuzufügen.
-- **Schulungsprogramme:** [[crewscaler-ai-upskilling-framework|KI-Upskilling-Rahmenwerke]] und [[ai-tpack-preservice-math-teachers|TPACK-basierte Vorbereitungsschulung]] bieten Modelle für strukturierte [[ai-education|KI-Bildung]] der Fakultäten.
+- **Readiness-Rahmenwerke:** [[sangwa-epiq-ai-faculty-readiness-2026|Das EPIQ-AI-Framework]] identifiziert vier Readiness-Domänen: epistemisch, pädagogisch, institutionell sowie Qualität und Compliance. Die Readiness von Lehrenden ist ein soziotechnisches Abstimmungsproblem, nicht nur eine individuelle Kompetenzlücke.
+- **Prüfen Sie vor der Übernahme, was die Stufen eines Rahmenwerks beschreiben.** In 16 institutionell empfohlenen AI-Kompetenzrahmenwerken waren AI-Nutzung, Bewertung der Ergebnisse und domänenspezifische Anwendung in allen 16 substanziell vertreten, Problemformulierung (7), Datenkompetenz (9) und AI-Erstellung (8) dagegen nicht; die Kompetenzstufen beschreiben zudem Lernendenentwicklung, Berufsrolle oder Rangstufe und sind daher nicht direkt vergleichbar ([[ai-competence-framework-landscape-2026|Fitsilis (2026)]]).
+- **Standards für Technologieintegration:** [[crompton-faculty-technology-integration-standards-2026|Crompton et al.]] nutzen [[design-based-research|Design-Based Research]], um Standards für Lehrende zur Integration von Technologie (einschl. AI) an [[higher-ed|Hochschulen]] zu entwickeln.
+- **Adoption und Selbstvertrauen:** [[teacher-ai-adoption-confidence|Forschung zur AI-Adoption durch Lehrkräfte]] identifiziert Bedenken, Unterstützung, Selbstvertrauen und Einstellungen als zentrale Prädiktoren. Programme zur Weiterbildung von Lehrenden müssen alle vier adressieren.
+- **Curriculumsintegration:** [[institutional-change-framework-ai|Rahmenwerke für institutionellen Wandel]] und [[ai-assessment-scale-reform|Reformen der Leistungsbewertung]] verlangen von Lehrenden, Kurse neu zu gestalten, statt nur AI-Werkzeuge hinzuzufügen.
+- **Weiterbildungsprogramme:** [[crewscaler-ai-upskilling-framework|AI-Upskilling-Rahmenwerke]] und [[ai-tpack-preservice-math-teachers|TPACK-basierte Ausbildung angehender Lehrkräfte]] liefern Modelle für eine strukturierte [[ai-education|AI-Bildung]] von Lehrenden.
+- **Nachfrage ist keine Bedarfsanalyse.** 345 CEGEP-Lehrkräfte in Quebec erzielten beim technischen Verständnis den niedrigsten Wert (2,706 von 5), wünschten sich aber disziplinspezifische praktische Anwendungen und bezeichneten frühere Veranstaltungen als zu allgemein ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]]).
+- **Hochschullehrende bringen Automatisierung von sich aus ins Spiel und offenbaren Pädagogik erst, wenn sie gefragt werden, was das Werkzeug leisten könnte.** Über 20 Disziplinen und 24 Länder hinweg erbrachten fünf offene Fragen 737 Kommentare zu Effizienz und Automatisierung gegenüber 305 zu institutioneller Policy, während Anpassung in 74 Antworten zu den Fähigkeiten und in je 3 Antworten zu den Barrierenfragen auftauchte ([[sheridan-teaching-academics-genai-plans-2026|Sheridan et al., 2026]]). Die genannten Rahmenbedingungen waren Zeit, eine kohärente Policy und finanzierte Unterstützung — Weiterbildungsbudgets und Reisebudgets wurden als die ersten Kürzungsziele beschrieben; eine Minderheit deutete den Wandel über Arbeitsbeziehungen und erwartete, dass Institutionen ihn nutzen würden, um wissenschaftliches Personal abzubauen.
 
-- **KI-vermittelte professionelle Reflexion.** Das Reflective Triangle Model positioniert KI als kognitiven Mediator über [[reflection|Selbstreflexion]], kollaborative Reflexion und Gemeinschaftsreflexion in einer professionellen Lerngemeinschaft, getestet in einer vierwöchigen Machbarkeits-Fallstudie mit sechs Lehrenden; die Grenze, die es zieht, ist, dass individuelle Einsicht nicht automatisch zu geteiltem professionellem Wissen wird ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
-- **[[governance|Governance]] und Politik:** [[genai-policies-higher-ed-computing|Analyse institutioneller KI-Politik]] dokumentiert die Lücke zwischen institutionellen Ambitionen und Kapazität der Fakultätsunterstützung.
-- **KI-Kompetenz ist institutionell unsichtbar.** Ein [[meta-analysis-systematic-review|systematischer Review]] von 32 Studien zur KI-Kompetenz von Sprachlehrenden fand sie abwesend von Arbeitslastmodellen, Beförderungspolitik und Ressourcenallokation, mit fragmentierter Entwicklung und über Institutionen und Agenturen hinweg verlagerter Rechenschaftspflicht — sodass Kompetenzentwicklung auf individuelle Anstrengung zurückfällt statt auf strukturelle Unterstützung ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran, 2026)]]).
-- **Konstruktionistische Workshops brauchen eine Karte.** Drei 50-minütige Sitzungen bewegten 20 bis 25 Lehrende vom spielerischen Prompting zu wiederverwendbaren Lehrmaterialien, doch KI-unerfahrene Teilnehmende erbaten vor dem Sandkasten ein konzeptionelles Briefing ([[fischer-learning-by-making-faculty-development-2026|Fischer (2026)]]).
+- **KI-vermittelte professionelle Reflexion.** Das Reflective Triangle Model positioniert KI als kognitiven Mediator zwischen [[reflection|Selbstreflexion]], kollaborativer Reflexion und Gemeinschaftsreflexion in einer professionellen Lerngemeinschaft, erprobt in einer vierwöchigen Machbarkeitsfallstudie mit sechs Lehrkräften; die Grenze, die es zieht, lautet, dass individuelle Einsicht nicht automatisch zu geteiltem professionellem Wissen wird ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
+- **[[governance|Governance]] und Policy:** [[genai-policies-higher-ed-computing|Eine institutionelle KI-Policy-Analyse]] dokumentiert die Lücke zwischen institutionellen Ambitionen und der Kapazität, Lehrende zu unterstützen.
+- **KI-Literacy ist institutionell unsichtbar.** Ein [[meta-analysis-systematic-review|systematischer Review]] von 32 Studien zur KI-Literacy von Sprachlehrkräften ergab, dass sie in Arbeitszeitmodellen, Beförderungsrichtlinien und Ressourcenzuweisung nicht vorkommt, wobei die Entwicklung fragmentiert und die Verantwortlichkeit über Institutionen und Behörden hinweg verlagert ist — die Entwicklung von Literacy bleibt damit auf individuelle Anstrengung statt auf strukturelle Unterstützung verwiesen ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran, 2026]]).
 
-- **Nachfrage ist keine Bedarfsanalyse.** 345 Lehrkräfte an Quebecer CEGEPs erzielten die niedrigsten Werte im technischen Verständnis (2.706 von 5) und erbaten dennoch fachspezifische praktische Anwendungen, wobei sie frühere Sitzungen als zu allgemein bezeichneten ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]]).
+- **Konstruktionistische Workshops brauchen eine Landkarte.** Drei 50-minütige Sitzungen brachten 20 bis 25 Lehrende vom spielerischen Prompting zu wiederverwendbaren Lehrmaterialien, doch Teilnehmende ohne KI-Erfahrung wünschten sich eine konzeptionelle Einführung vor der Sandbox ([[fischer-learning-by-making-faculty-development-2026|Fischer (2026)]]).
 
 Grenzüberschreitende Entwicklung hat eine Analyse-Einheit jenseits des Workshops. [[tian-transnational-faculty-development-governance-2027|Tian, Sun und Wang (2026)]] argumentieren, dass Konnektivität standardmäßig episodisch bleibt, da ein Webinar verteilt, ohne eine Agenda zu setzen, und eine Plattform hostet, ohne Einigung über die Nutzung zu erzeugen. Was Ereignisse in akkumulierte Infrastruktur verwandelt, ist unspektakulär: ein Sekretariat, das den Rhythmus hält, ein datiertes Archiv von Agenden und Fallbeispielen und geteilte Governance als Richtung der Reise statt als Status, den ein Netzwerk beanspruchen kann.
 
@@ -145,7 +146,7 @@ Teilnahme und Substanz können sich in entgegengesetzte Richtungen bewegen, und 
 
 **Das Setting verändert die Gestalt der Entwicklung, nicht ihre Notwendigkeit.** In der medizinischen Bildung behandelt eine KI-Residency Fakultätsentwicklung und Co-Lernen als Mechanismus statt als Zusatz ([[bursic-ai-residency-education-curriculum-2026|Bursic et al.]]). Ein Review von 86 Ressourcen zur frühen Kindheit identifiziert die Entwicklung von Bildungsakteurinnen und -akteuren als eines seiner vier Themen ([[early-childhood-ai-holistic-competencies-review-2026|das Review]]). Die Erneuerung der CTE greift nach Fakultätsentwicklung, sobald eine Curriculumsänderung eine Fähigkeitslücke sichtbar macht ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). Und unter 146 Lehrkräften vermittelte das Engagement in beruflicher Entwicklung den Zusammenhang zwischen Motivation und beabsichtigter GenAI-Nutzung ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al.]]).
 
-Ein durchgearbeitetes Beispiel des Kohortenmodells kommt aus einer Universitätsbibliothek. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] zahlten sieben Lehrenden Stipendien für ein achtwöchiges Programm, das vier Wochen Instruktion, unabhängige Projektentwicklung und Peer-Feedback verband, gegründet auf Knowles' Prinzipien des Erwachsenenlernens und das CLEAR-Prompt-Rahmenwerk. Die Zuwächse waren bescheiden in KI-Vertrautheit und größer in OER-Vertrautheit, und die Autorinnen und Autoren behandeln das Stipendium und die Gewerkschaftsvereinbarung, die die Bezahlung von Lehrbeauftragten ermöglichte, als Teil der Intervention statt als Verwaltung.
+Ein konkretes Beispiel für das Kohortenmodell stammt aus einer Universitätsbibliothek. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] zahlte sieben Stipendien an Lehrende für ein achtwöchiges Programm, das vier Wochen Unterricht, eigenständige Projektentwicklung und Peer-Feedback verband und auf Knowles' Prinzipien des Erwachsenenlernens sowie dem CLEAR-Prompt-Framework aufbaute. Die Zuwächse an Vertrautheit mit AI waren moderat, die an Vertrautheit mit OER größer, und die Autoren behandeln das Stipendium und die Gewerkschaftsvereinbarung, die eine Bezahlung der Lehrbeauftragten ermöglichte, als Teil der Intervention und nicht als Verwaltungsaufwand.
 
 ## Verbreitete Fehlvorstellungen
 
@@ -178,15 +179,14 @@ Ein durchgearbeitetes Beispiel des Kohortenmodells kommt aus einer Universitäts
 
 ## Verbundene Artikel
 
-- [[jordan-faculty-ai-oer-creation-2025]] — Vom Prompt zur Praxis: eine lehrendenzentrierte Initiative zur Erkundung KI-gestützter OER-Erstellung (Jordan et al., 2025)
-  [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritische Diskursanalyse von GenAI-Ausrichtungsratgebern: Entwickelnde als Technologietrainerinnen und -trainer neu gerahmt
-- [[crompton-faculty-technology-integration-standards-2026]] — Fakultätsstandards für Technologieintegration (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethische Dimensionen von KI: Sichtweisen von Fakultäten und Studierenden
+- [[jordan-faculty-ai-oer-creation-2025]] — Vom Prompt zur Praxis: Eine auf Lehrende ausgerichtete Initiative zur Erkundung KI-gestützter OER-Erstellung (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritische Diskursanalyse von GenAI-Alignment-Ratschlägen: Hochschuldidaktiker werden zu Technologie-Trainern umgedeutet
+- [[crompton-faculty-technology-integration-standards-2026]] — Standards für Lehrende zur Technologieintegration (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethische Dimensionen von KI: Sichtweisen von Lehrenden und Studierenden
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Wie Metaphern der Ingenieurlehrenden KI-Verständnis konstruieren (und beschränken)
-- [[fear-awe-genai-metaphor-workshops-2025]] — Angst und Ehrfurcht: Generative KI durch Metaphern verstehen (Metaphern-Workshop für Fakultäten, Personal und Lernende)
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Wie Metaphern von Lehrenden der Ingenieurwissenschaften das KI-Verständnis konstruieren (und einschränken)
+- [[fear-awe-genai-metaphor-workshops-2025]] — Angst und Ehrfurcht: Generative KI durch Metaphern verstehen (Metaphern-Workshop für Lehrende/Mitarbeitende/Studierende)
 - [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Vier Kriterien und vier Metaphern für die Vermittlung kritischer KI-Kompetenz
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Das Unsichtbare regieren: KI-Kompetenz unter Sprachlehrenden
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Das Unsichtbare regieren: KI-Kompetenz bei Sprachlehrkräften
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -197,37 +197,39 @@ Ein durchgearbeitetes Beispiel des Kohortenmodells kommt aus einer Universitäts
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als Identitätskrise, nicht als Fähigkeitslücke
-- [[zuo-instructor-power-genai-writing-2026]] — Machtverhältnisse, wie sie von Hochschullehrenden im Umgang mit GenAI im Schreiben wahrgenommen werden (Zuo, Xu & Dunning 2026)
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als Identitätskrise, nicht als Kompetenzlücke
+- [[zuo-instructor-power-genai-writing-2026]] — Von College-Lehrenden wahrgenommene Machtverhältnisse im Umgang mit GenAI beim Schreiben (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: KI als kognitiver Mediator
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Selbstwahrgenommenes TPACK-21-Wissen von Lehrenden für GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-PD: Anwesenheit sagt Zuwächse voraus, selbstwahrgenommene Teilnahme nicht
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-Classroom-Modell und D-T-E-Schleife zur Verbesserung der M.Ed.-Kompetenz für das Entwerfen von Unterricht in Mathematik (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Rollenarchitektur in KI-entworfenen differenzierten Gruppenaktivitäten (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Erfahrungen und Wahrnehmungen von Universitätslehrenden gegenüber GAI: Verletzlichkeit, Neudenken der Bewertung, Lernen der Studierenden gefährdet (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — Von der Angst zur Innovation: ein sechswöchiges Fakultätsinstitut, symbiotische Pädagogik und die institutionellen Bedingungen, die es nicht liefern konnte
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Der AI-Guilt-Komplex: antizipatorische Schuld, Verbergung und Unterschiede nach Karrierestadium unter akademischem Personal (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-Umfrage unter 1.057 US-Fakultäten: institutionelle Unvorbereitetheit, dünne Governance und die 87%-/48%-Politiklücke (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademische Entwickelnde als digitale Mediatoren in der Hochschulbildung des Globalen Südens: Entwicklung als soziotechnische Praxis
-- [[physics-faculty-learning-community-ai-2026]] — Eine Workshop-Reihe für die wirksame Nutzung von KI in unsicheren Zeiten: Aufbau einer Lerngemeinschaft der Physikfakultät
-- [[faculty-ai-well-being-social-supports-2026]] — Das KI-Wohlbefinden der Fakultäten folgt der KI-Kompetenz eher als der technologischen Selbstwirksamkeit
-- [[ai-competence-framework-landscape-2026]] — Prüfen Sie, was die Stufen eines Rahmenwerks beschreiben, bevor Sie es übernehmen
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Kann Bildung die Agenda für KI setzen? Simulierte Innovation und pädagogische Richtungsgebung in der Lehrkräftebildung
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 Chemielehrkräfte in einem sechswöchigen Programm
-- [[ma-ai-corpus-language-teaching-coi-2026]] — Über 150 Sprachlehrkräfte aus 28 Ländern über 20 Wochen
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2,159 skandinavische Lehrkräfte; 0.20 SD Zuwachs bei wahrgenommenen Vorteilen
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 Lehrkräfte nach einem GenAI-Lernprogramm, wobei Bedürfnisse das Engagement vermittelten
-- [[bodek-prompted-to-explore-microlearning-2026]] — ein Microlearning-Modell der Fakultätsentwicklung für generative KI
-- [[bursic-ai-residency-education-curriculum-2026]] — eine KI-Residency in der medizinischen Bildung
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 Ressourcen; Entwicklung von Bildungsakteurinnen und -akteuren als eines von vier Themen
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 Lehrkräfte, die von ehemaligen Lehrkräften geleitete Entwicklung erbitten
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% bilden bestehendes Personal und Lehrende weiter
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 Bildungsakteurinnen und -akteure, die Shadow AI legitimieren, wo Anleitung fehlte
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Fähigkeitslücken, die Fakultätsentwicklung und Einstellungsentscheidungen treiben
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — wiederkehrende Entwicklung als eine von fünf Unterstützungsschichten
-- [[chen-future-faculty-development-ai-2027]] — Sieben Lehrrollen, zwei universelle Grundlagen und das Lehrteam als Einheit der Entwicklung
-- [[ji-judgement-space-dialogic-inquiry-2027]] — Der Urteilsraum, dialogische Untersuchung und ein Drei-Spalten-Audit, wohin Urteil zu einem Werkzeug gewandert ist
-- [[jiang-faculty-development-japan-2027]] — Japans zweigleisige FD: die Teilnahme stieg, kollegiale Formate nicht
-- [[tian-transnational-faculty-development-governance-2027]] — Transnationale Fakultätsentwicklung: Konnektivität ist episodisch, Koordination ist die Arbeit
-- [[ho-invariant-core-faculty-development-2027]] — Invarianter Kern, bewegliche Kante: der Lernmechanismus vor der Technologie
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Selbsteingeschätztes TPACK-21-Wissen von Lehrenden für GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-Fortbildung: Anwesenheit sagt Zuwächse vorher, selbsteingeschätzte Beteiligung nicht
+- [[instructional-design-proficiency-masters-math-2026]] — Smart-Classroom-Modell und D-T-E-Schleife zur Verbesserung der Instructional-Design-Kompetenz von M.Ed.-Studierenden in Mathematik (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architektur der Rollen in KI-entworfenen differenzierten Gruppenaktivitäten (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Erfahrungen und Wahrnehmungen von Hochschullehrenden mit GAI: Verletzlichkeit, Neudenken der Leistungsbeurteilung, gefährdetes Lernen der Studierenden (Farazouli et al. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Von der Angst zur Innovation: ein sechswöchiges Fortbildungsinstitut für Lehrende, symbiotische Pädagogik und die institutionellen Bedingungen, die es nicht bereitstellen konnte
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Der KI-Schuldkomplex: antizipierte Schuld, Verheimlichung und Unterschiede nach Karrierestufe unter wissenschaftlichem Personal (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-Umfrage unter 1.057 US-Lehrenden: institutionelle Unvorbereitetheit, schwache Governance und die 87%/48%-Lücke bei Richtlinien (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Hochschuldidaktiker als digitale Mediatoren in der Hochschulbildung des Globalen Südens: Entwicklung als soziotechnische Praxis
+- [[physics-faculty-learning-community-ai-2026]] — Eine Workshop-Reihe für den effektiven Einsatz von KI in unsicheren Zeiten: Aufbau einer Learning Community von Physik-Lehrenden
 
+- [[faculty-ai-well-being-social-supports-2026]] — Das KI-bezogene Wohlbefinden von Lehrenden folgt eher der AI Literacy als der technologischen Selbstwirksamkeitserwartung
+- [[ai-competence-framework-landscape-2026]] — Prüfen Sie vor der Übernahme eines Frameworks, was dessen Stufen beschreiben
+
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Kann Bildung die Agenda für AI setzen? Simulierte Innovation und pädagogische Richtungssetzung in der Lehrkräftebildung
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 Chemielehrkräfte in einem sechswöchigen Programm
+- [[ma-ai-corpus-language-teaching-coi-2026]] — 150+ Sprachlehrkräfte aus 28 Ländern über 20 Wochen
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2.159 skandinavische Lehrkräfte; 0,20 SD Zugewinn bei den wahrgenommenen Vorteilen
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 Lehrkräfte nach einem GenAI-Lernprogramm, wobei Bedürfnisse das Engagement mediieren
+- [[bodek-prompted-to-explore-microlearning-2026]] — ein Microlearning-Modell hochschuldidaktischer Weiterbildung für generative AI
+- [[bursic-ai-residency-education-curriculum-2026]] — eine AI-Residency in der medizinischen Ausbildung
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 Ressourcen; die Entwicklung pädagogischer Fachkräfte als eines von vier Themen
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 Lehrkräfte, die eine von ehemaligen Lehrkräften geleitete Weiterbildung fordern
+- [[robert-educause-impact-ai-work-higher-education-2026]] — 69 % Upskilling des vorhandenen Personals und der Lehrenden
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 Lehrende, die Shadow AI dort legitimieren, wo Leitlinien fehlten
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Kompetenzlücken, die hochschuldidaktische Weiterbildung und Einstellungsentscheidungen antreiben
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — wiederholte Weiterbildung als eine von fünf Unterstützungsebenen
+- [[chen-future-faculty-development-ai-2027]] — Sieben Lehrrollen, zwei universelle Grundlagen und das Lehrteam als Einheit der Entwicklung
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Der Urteilsraum, dialogische Untersuchung und ein dreispaltiges Audit darüber, wo Urteilsbildung an ein Werkzeug abgewandert ist
+- [[jiang-faculty-development-japan-2027]] — Japans zweigleisige FD: Die Teilnahme stieg, kollegiale Formate jedoch nicht
+- [[tian-transnational-faculty-development-governance-2027]] — Transnationale hochschuldidaktische Weiterbildung: Vernetzung ist episodisch, Koordination ist die Arbeit
+- [[ho-invariant-core-faculty-development-2027]] — Invarianter Kern, veränderliche Peripherie: der Lernmechanismus vor der Technologie
+- [[sheridan-teaching-academics-genai-plans-2026]] — 20 Disziplinen, 24 Länder: Hochschullehrende planen Automatisierung zuerst und nennen Zeit und Richtlinien als die begrenzenden Faktoren (Sheridan et al. 2026)

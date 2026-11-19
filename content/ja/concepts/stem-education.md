@@ -1,7 +1,7 @@
 ---
 title: STEM 教育
 created: "2026-10-10T22:54:28-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -10,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,8 @@ ai_assist:
 ## はじめに
 
 ### AIED における主要領域としての STEM
+
+分野セクションは教科ページを4つのクラスター——[[humanities-education|人文科学と芸術]]、[[social-sciences-education|社会科学]]、STEM、[[professions-education|専門職]]——に分類しており、STEMが他を大きく引き離して最大である。このこと自体が、教育におけるAIのエビデンスがどこに蓄積しているかを示す知見である。
 
 - **数学：** [[math-education|数学教育]]の研究は、[[generative-ai-reduced-study-time-math|生成 AI が数学の学習に与える影響]]、[[ai-powered-personalized-learning-elementary-fractions-2026|初等の分数のチューリング]]、[[student-math-competence-clustering|能力のクラスタリング]]にわたります。
 - **数学 ITS の証拠は限定的で条件的です。** 20の刊行物（2020年〜2026年4月）の構造化された物語レビューは、同じ適応的なシステムに重ねられたリアルタイムの診断的な[[feedback|フィードバック]]に最も明快な測定上の優位を見出しましたが、知的チュータリングが数学の学習を支えるのは、妥当な[[student-modeling|学習者モデル化]]、較正された足場かけ、教員の媒介が組み合わさるときだけだと結論づけ、拡張性は技術的なものであり教育的なものではないと述べています（[[intelligent-tutoring-mathematics-education-review-2026|Ogunsakinら（2026）]]）。
@@ -61,13 +63,18 @@ STEM の構造化された知識表象、検証可能な答え、計算思考思
 
 2026年の*International Journal of STEM Education*の研究が集中した一群は、STEM の下位領域と水準にわたって AI がどう機能するかを鋭くします。
 
-- **[[discipline-specific-aied|教科固有]]の[[governance]]が[[student-ai-interaction|学生の AI 利用]]を形づくる。** チェコの中学生 416 名を対象とした横断的研究（[[lnenicka-secondary-students-genai-stem-2026]]）は、AI の導入が統一的ではなく*学問によって階層化されている*ことを見出しました。計算機科学と経済学は[[generative-ai|生成 AI]]を協働の資源として正規化する一方、数学（65.9% が禁止）と自然科学（55.3%）は、高い禁止知覚が規則の不明確さと根絶されない秘密の利用と共起することを示しました。学生は主に AI を道具的な足場かけ（説明、答えの確認）として使い、代替とはしていませんが、[[critical-thinking|批判的評価]]の欠落が現れます——濃密なプロンプトの改変が外部的な事実確認を覆い隠し、行動を[[cognitive-offloading]]へと移します。これは、一律の禁止よりも*教科に敏感な*指針を支持します。
-- **探究型 STEM における共探究者としての AI。** 3 年生 97 名を対象とした準実験（[[dai-chatbots-problem-posing-primary-2026]]）は、生成 AI の[[conversational-ai|チャットボット]]が、[[inquiry-based-learning|探究的学習]]における理科の[[problem-based-learning|問題設定]]で検索エンジンを有意に上回ったことを示しました。問いの質を改善し、より統合された認識論的な[[network-analysis|ネットワーク構造]]（ENA）を生み出し、認知的負荷を下げました。STEAM における探究的学習のための ChatGPT に関する[[meta-analysis-systematic-review|システマティックレビュー]]（[[jiang-chatgpt-inquiry-steam-review-2026]]、24 研究）は、ChatGPT が問いの定式化、探究の設計、[[problem-solving]]、内省を支えることを確かめます——ただし、産出が権威として扱われるときには、過度の依存、[[hallucination-risk|幻覚]]、表層的な結論のリスクがあります。
-- **STEAM は AI リテラシーへの不均等な道である。** 39 研究の PRISMA システマティックレビュー（[[niri-steam-ai-literacy-review-2026]]）は、STEAM の実践が主に技術的なリテラシー（AI の基礎概念、計算思考思考、[[statistics-and-data-science-education|データリテラシー]]）を発達させる一方、[[ethics|倫理的]]な自覚、創造的な想像力、AI を用いた制作・管理・設計は十分に発達させていないことを見出しました。技術系の教科が先導し、美術、工学、統合された STEAM は遅れます——これは、STEM における AI リテラシーが現在、AI を責任を持って形づくることよりも技術的な技能に偏っていることを示します。
-- **適応的な AI ベースの STEM プログラムは深い学習を支えうる。** 6 年生の理科を対象としたクラスター単位ランダム化の予備的研究（[[bin-bakheet-adaptive-ai-stem-deep-learning-2026]]、N = 30）は、適応的な AI ベースの STEM プログラム（個人化された内容、ルールに基づく習熟度判定、リアルタイムのフィードバック）が、説明、解釈、適用、アイデア生成にわたり実験群を有利にする大きな効果量を生み出したことを見出しました——ただし 2 教室という設計には慎重な解釈が求められます。
-- **教員の受容は異質で、学問によって形づくられている。** 教員志願者 128 名を対象とした[[latent-profile-analysis|潜在プロファイル分析]]（[[chen-preservice-teachers-chatgpt-lpa-2026]]）は、4 つの ChatGPT 受容プロファイル（実用重視の評価者、技術の先駆者、抵抗的な懐疑派、環境の観察者）を見出し、STEM の教員は技術の先駆者に、非 STEM の教員は抵抗的なプロファイルに集中していました——そして抵抗的な懐疑派は、使いやすさは高いが意図は低く、差別化された[[ai-literacy]]研修を必要としています。
-- **学生にモデルを使わせるだけでなく、問い質すことを教える。** [[prompt-engineering|プロンプティング]]と誤りの点検についての1回45分のセッションが、学部の物理学の事後テストの得点を上げ（*d* = 0.814）、以前の AI 経験の優位を平準化しました（[[structured-genai-training-physics-problem-solving-rct-2026|Huangら、2026]]）。
-- **AI を統合した STEM における評価と認知的過程。** [[zhang-ct-ai-training-test-2026|CTAT]]（34 項目、IRT 検証済み）は、AI 訓練の文脈における[[computational-thinking|計算思考思考]]を測るための妥当な道具を提供し、学生がデータ表現、論理演算子の順序づけ、ループ構造で最も苦労することを明らかにします。AI 支援によるプログラミングに関するグラウンデッド・セオリー研究（[[liu-tool-tutor-crutch-programming-2026]]）は、学習者が[[scaffolding]]とオフローディングのループを通じて「領域の習熟」と「道具の習熟」の間を揺れ動くことを示し、日常的なオフローディングの下で[[metacognition|メタ認知的]]な較正が弱まることを明らかにします——これは、成績と学習の緊張の過程レベルでの記述です。
+- **[[discipline-specific-aied|教科別]]の[[governance|ガバナンス]]が[[student-ai-interaction|生徒のAI利用]]を形づくる。** チェコの中等教育段階の生徒416名を対象とした横断研究([[lnenicka-secondary-students-genai-stem-2026|Lnenicka et al., 2026]])は、AIの導入が一律ではなく*教科によって階層化*されていることを明らかにした。コンピュータサイエンスと経済では[[generative-ai|生成AI]]が協働的な資源として当然視されている一方、数学(65.9%が禁止)と理科(55.3%)では、禁止されているという認識の高さが、ルールの不明確さと根強い隠れた利用と同時に生じている。生徒はAIを代替物ではなく道具的な足場(説明、解答の確認)として主に用いているが、[[critical-thinking|批判的評価]]のギャップが浮かび上がる。すなわち、プロンプトの大幅な修正が外部での事実検証を圧倒し、行動は[[cognitive-offloading|認知的オフローディング]]へと傾いている。これは、一律の禁止よりも*教科に配慮した*指針が求められることを示している。
+
+- **探究型STEMにおける共同探究者としてのAI。** 97名の小学3年生を対象とした準実験（[[dai-chatbots-problem-posing-primary-2026|Dai et al., 2026]]）では、[[inquiry-based-learning|探究学習]]における理科の[[problem-based-learning|問題設定]]において、GenAI[[conversational-ai|チャットボット]]が検索エンジンを有意に上回り、問いの質を高め、より統合された認識的[[network-analysis|ネットワーク構造]]（ENA）を生み出し、認知負荷を低減することが示された。STEAMの探究学習におけるChatGPTに関する[[meta-analysis-systematic-review|システマティックレビュー]]（[[jiang-chatgpt-inquiry-steam-review-2026|Jiang et al. (2026)]]、24件の研究）は、ChatGPTが問いの定式化、探究の設計、[[problem-solving|問題解決]]、内省を支援することを確認している——ただし、出力が権威あるものとして扱われる場合には、過度の依存、[[hallucination-risk|ハルシネーション]]、表面的な結論といったリスクがある。
+
+- **STEAMはAIリテラシーへの不均等な経路である。** 39件の研究を対象としたPRISMA体系的レビュー（[[niri-steam-ai-literacy-review-2026|Niri et al., 2026]]）は、STEAMの実践が主として技術的リテラシー（AIの基本概念、計算論的思考、[[statistics-and-data-science-education|データリテラシー]]）を育成する一方で、[[ethics|倫理的]]意識、創造的想像力、AIを用いた創造・管理・設計の育成が不十分であることを明らかにした。技術系の教科が主導し、芸術、工学、統合されたSTEAMは後れを取っており、これはSTEMにおけるAIリテラシーが現状、AIを責任ある形で形づくることよりも技術的スキルに偏っていることを示している。
+
+- **適応型AIベースのSTEMプログラムは深い学びを支援しうる。** 6年生の理科を対象としたクラスター無作為化パイロット研究（[[bin-bakheet-adaptive-ai-stem-deep-learning-2026|Bin Bakheet et al. (2026)]]、N = 30）では、適応型AIベースのSTEMプログラム（個別化された内容、ルールベースの習得判定、リアルタイムのフィードバック）が、説明、解釈、応用、アイデア生成のすべてにおいて実験群に有利な大きな効果量をもたらしたことが示された——ただし2学級のみという設計であるため、結果の解釈には慎重さが求められる。
+
+- **教員の受容は不均一であり、教科によって形づくられる。**128名の教職課程学生を対象とした[[latent-profile-analysis|潜在プロファイル分析]]（[[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al., 2026]]）は、ChatGPTの受容について4つのプロファイル（Pragmatic Evaluators、Technology Pioneers、Resistant Skeptics、Environmental Observers）を見いだし、STEM系の教員はTechnology Pioneersに、非STEM系の教員は抵抗的なプロファイルに集中していた。さらにResistant Skepticsは使いやすさの知覚が高い一方で利用意図が低く、差異化された[[ai-literacy|AIリテラシー]]研修が必要であることを示した。
+- **学生に、モデルをただ使うのではなく問い詰めることを教える。**[[prompt-engineering|プロンプト作成]]と誤りチェックを扱う45分のセッションを1回行っただけで、学部物理の事後テスト得点が上昇し（*d* = 0.814）、事前のAI経験による優位性が平準化された（[[structured-genai-training-physics-problem-solving-rct-2026|Huang et al., 2026]]）。
+
+- **AI統合型STEMにおける評価と認知プロセス。** [[zhang-ct-ai-training-test-2026|CTAT]]（34項目、IRTで検証済み）は、AIトレーニングの文脈における[[computational-thinking|計算論的思考]]を評価する妥当な測定ツールを提供し、学習者がデータの表現、論理演算子の順序付け、ループ構造で最も困難を抱えることを明らかにしている。AI支援プログラミングに関するグラウンデッド・セオリー研究（[[liu-tool-tutor-crutch-programming-2026|Liu et al., 2026]]）は、学習者が[[scaffolding|スキャフォールディング]]とオフローディングのループを通じて「領域の習熟」と「ツールの習熟」の間を行き来し、常態化したオフローディングの下では[[metacognition|メタ認知]]的キャリブレーションが減弱することを示しており、パフォーマンスと学習の緊張関係をプロセスレベルで説明するものである。
 
 ## STEM の教員への示唆
 

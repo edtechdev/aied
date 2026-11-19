@@ -1,7 +1,7 @@
 ---
 title: "オープンな教育"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,7 +13,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -65,7 +65,9 @@ ai_assist:
 
 実践には、それ自体の成熟度に関する文献があります。[[duan-open-educational-practices-evolution-2026|Duan (2026)]] は 540 件の記録を [[meta-analysis-systematic-review|PRISMA]] 2020 の下でオープンな教育実践の 14 のモデルに絞り込み、三つの次元で比較し、生成 AI は確立されたモデルを置き換えるのではなくその下に位置するという結論に達しました。この論点は [[tpack]] に対して位置づけられています。[[ahmadfard-interactive-oer-review-2026|Ahmadfard (2026)]] は、1970 年から始まる構造化レビューの中で、双方向性について同様の結論に達しています。双方向的な機能は実証された効果というよりも設計上の論拠であり、報告されている最も強い効果量は OER の中で測定されたものではなく、先行する[[physics-education|物理教育]]の研究から借りたものです。
 
-さらに二つの研究は、実践の層がいかに速く統治の層になるかを示しています。[[patino-ai-international-cooperation-open-education-2026|Patiño, Martínez-Pérez, Ramírez-Montoya and Miranda (2026)]] は、13 か国から 10 チーム・110 名が参加した UNESCO と ICDE のレジデンシーを記録しています。しかし彼らの調査の基盤は 54 機関からの 72 件の回答で、回答率が示されておらず、国連 2030 アジェンダを目指すロードマップとしては薄い裏づけです。そして [[guo-teachers-ai-literacy-open-education-practices-2026|Guo, Lu and Gao (2026)]] は、中国 30 省の 512 名の教師を対象に、AI リテラシーがオープンな教授実践に転じるかどうかを調査し、革新的行動を介した間接的な経路が、機関の支援が低いときに 0.218、高いときには非有意な 0.042 に落ちることを見出しました。
+さらに2つの研究は、実践の層がいかに速くガバナンスの層へと変わるかを示している。[[patino-ai-international-cooperation-open-education-2026|Patiño、Martínez-Pérez、Ramírez-Montoya、Miranda（2026）]]は、13か国から集まった110名の参加者が10チームに分かれて取り組んだUNESCOとICDEのレジデンシーを記録しているが、その調査基盤は54機関からの72件の回答であり、回答率も示されていないため、UN 2030アジェンダを目指すロードマップの裏づけとしては薄い。また[[guo-teachers-ai-literacy-open-education-practices-2026|Guo、Lu、Gao（2026）]]は、中国30省の教師512名を対象に、AIリテラシーがオープンな教育実践へと結びつくかどうかを調査し、機関の支援が低い場合には革新的行動を介する間接経路が0.218であるのに対し、支援が高い場合には有意でない0.042まで低下することを見いだした。
+
+ライセンスの問題は、この分野においてオープンな実践と[[generative-ai|生成AI]]が衝突する地点である。[[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]]は、8週間のコホートで7名の教員に報酬を支払い、ChatGPTを使ってオープン教材を作成させ、プログラム自体の成果物にはCreative Commonsライセンスを付与できないことを見出した。モデルが生成したテキストは、ライセンスが付与されるために必要な著作者性を欠いたままパブリックドメインに入るためである。彼らは、ライセンスを付与する層とモデルが生成した層を分離することを主張している。第二のアプローチは、モデルをコースの内側に留めるものである。[[powell-chatbot-enhanced-oer-composition-2026|Powell et al. (2026)]]は、1冊のオープン教科書とそのコース資料に基づいてライティング支援アシスタントを訓練し、アシスタントがリソースを置き換えるのではなく拡張するようにした。また[[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]]は、同じ手法をローカルのハードウェア上で示し、教員の教材からクイズを生成しながら、ベンダーには何も送信しないことを実現している。
 
 ## 公平性、持続可能性、そしてグローバルサウス
 

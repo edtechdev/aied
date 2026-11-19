@@ -1,7 +1,7 @@
 ---
 title: ベンチマーク
 created: "2026-10-10T21:52:15-04:00"
-updated: "2026-11-07T20:30:41-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-17T08:35:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -135,3 +135,4 @@ ai_assist:
 - [[bloom-classifier-ai-assisted-questions-2026]] — 新規のAI支援による教育問題の教授的評価に関する事前学習モデルの評価
 - [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — Eight design principles for AI-tutor benchmarks, derived from a metric that was optimized into repetition (Domínguez Figaredo & Fernández De la Cruz 2026)
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — スキル自動抽出のためのAIアプローチの比較：埋め込みから工学教育向けエージェント型システムまで

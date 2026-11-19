@@ -120,7 +120,6 @@ HPE ist eine hochrelevante, kompetenzbasierte Domäne, in der der Nutzen der KI 
 - [[giancotti-data-provenance-health-ai-curricula-2026]] — Gesundheits-KI-Curricula lehren Ethik (80,6%), aber selten Datenherkunft (22,2%)
 - [[virtual-standardized-patients-osce-evaluation-2026]] — Eine geschichtete Multi-Rater-Evaluation LLM-basierter virtueller standardisierter Patientinnen und Patienten mit einer eingesetzten Datengenerierungsplattform
 - [[genai-medical-education-transformation-review-2026]] — Scoping Review von 153 GenAI-Berichten zur medizinischen Bildung: Simulation führt, Nachhaltigkeit und patientenbezogene Ergebnisse nicht gemessen
-
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluation eines gerüstorientierten Multi-Agenten-Large-Language-Model-Systems für das Training klinischer Gespräche
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 8-dimensionale Rubrik-Evaluation von KI-Lehragenten in der medizinischen Bildung
 - [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, strukturelle Lücken der Pflegebildung und die Neukonstitution professioneller Identität (Sun et al. 2026)
@@ -146,3 +145,4 @@ HPE ist eine hochrelevante, kompetenzbasierte Domäne, in der der Nutzen der KI 
 - [[rony-nursing-educators-ai-tpack-2025]] — Pflegelehrende in Bangladesch zu KI-Bereitschaft, Barrieren und Datengovernance, gelesen durch TPACK
 - [[bursic-ai-residency-education-curriculum-2026]] — Barrieren bei der Integration von KI in Facharzt-Curricula: qualitative Interviews mit zwölf ärztlichen Leitungspersonen
 - [[alshahrani-health-sciences-ai-use-2026]] — Technologie und Pädagogik verbinden: eine Querschnittsanalyse von KI-Nutzung, selbstberichteten akademischen Effekten und ethischen Bedenken unter Studierenden verschiedener Gesundheitswissenschafts-Curricula
+- [[ago-prompt-literacy-allied-health-2026]] — Prompt-Kompetenz in sechs ghanaischen Studiengängen der Gesundheitsfachberufe: routinemäßige GenAI-Nutzung ohne Schulung, Abonnement- und Konnektivitätsbeschränkungen sowie ein Prompt-Verifizierungsparadoxon dort, wo das Vorwissen am geringsten ist (Ago et al. 2026)

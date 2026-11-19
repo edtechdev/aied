@@ -2,13 +2,13 @@
 connected_resources: [mglearn]
 title: 多言語学習
 created: "2026-10-10T22:45:44-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_of: concepts/multilingual-learning
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -49,7 +49,11 @@ ai_assist:
 
 多言語AIは翻訳を超えて、[[culturally-relevant-pedagogy|文化的に適切な教育学]]を反映する必要があります — 言語的にそして文脈的に適切なコンテンツを生成することです。[[llm-cultural-relevance-k12|K-12におけるLLMの文化的適切性]]や[[scaffolding-critical-engagement-genai-minority-students|マイノリティ生徒におけるGenAIとの批判的関与]]の研究は、言語的・文化的な整合性が、生徒が実際に利益を得られるかどうかを形づくると示しています。対処されなければ、AIにおける単一言語バイアスは[[digital-divide|デジタルデバイド]]を深め、[[global-south|地球規模の南方諸国]]全体で[[equity-in-ai-education|公平性]]を損ないます。
 
-トランスランゲージングは、以前の言語ツールにはなかった、生成的[[conversational-ai|チャットボット]]が加えるアフォーダンスです。24 件の研究の[[meta-analysis-systematic-review|系統的レビュー]]では、学習者が目標言語への橋として、自分の言語での文脈化された表現と説明を求めており、レビューアはこの利用を、言い換えられたものではなく新しい下位アフォーダンスとして分類しています（[[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]）。
+トランスランゲージングは、生成[[conversational-ai|チャットボット]]が新たに加えた、従来の言語ツールにはなかったアフォーダンスである。24件の研究を対象とした[[meta-analysis-systematic-review|システマティックレビュー]]では、学習者が目標言語への橋渡しとして、自分の言語で文脈に即したフレーズや説明を求めていた——レビュー担当者たちはこの使い方を、既存のものの焼き直しではなく、新たなサブアフォーダンスとして分類している([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]])。
+
+ツールの導入に伴う言語的コストは測定可能である。[[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]は、英語学習者がスキャフォールドされたエージェント構築チュートリアルに母語話者より有意に長い時間を費やした一方、オープンエンドな設計課題では差が見られなかったことを明らかにした。
+
+4つの言語が日常的に使われている環境でも、英語が優位に立つ。CuraçaoとArubaの42人の学生のうち3分の2が、AIで使いたい言語として英語を挙げ、会話が地元的话题に移るにつれてPapiamentuへ傾いたのはGPTのセッションだけだった（[[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]]）。
 
 ## 評価におけるバイアス
 

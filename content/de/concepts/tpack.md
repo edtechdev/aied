@@ -9,7 +9,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-15T15:46:54-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ pedagogy: [tpack]
 
 > **Technological [[pedagogy|Pedagogical]] Content Knowledge (TPACK)** — der Rahmen (Mishra & Koehler, 2006), der das integrierte Wissen beschreibt, das Lehrkräfte brauchen, um Technologie im Unterricht wirksam zu nutzen: das Zusammenspiel von Technological Knowledge (TK), Pedagogical Knowledge (PK) und Content Knowledge (CK) und ihren Schnittmengen. In der KI-Ära ist TPACK auf **AI-TPACK** / **GenAI-TPACK** erweitert worden, das modelliert, wie Lehrkräfte generative KI in fachbereichsspezifischen Unterricht integrieren. Es ist die dominante theoretische Linse, um zu verstehen, wie [[teacher-ai-competency|Lehrkraft-KI-Kompetenz]] strukturiert und durch [[educational-development|professionelle Entwicklung]] aufgebaut wird.
 
-Jene Dominanz ist auch teils ein Abrufartefakt: In einem PRISMA-[[meta-analysis-systematic-review|Scoping-Review]] von 195 technologiegestützten Lehrkraftbildungsstudien waren digitale Kompetenz, TPACK und DigCompEdu ausdrückliche Suchdeskriptoren, sodass der 46.5%-Anteil an Kompetenzrahmen das abgerufene Korpus statt das Feld beschreibt ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
+Jene Dominanz ist auch teils ein Abrufartefakt: In einem PRISMA-Scoping-Review von 195 technologiegestützten Lehrkraftbildungsstudien waren digitale Kompetenz, TPACK und DigCompEdu ausdrückliche Suchdeskriptoren, sodass der 46.5%-Anteil an Kompetenzrahmen das abgerufene Korpus statt das Feld beschreibt (Patiño Hernández et al. (2026)).
 
 ## Fragen zum Nachdenken
 

@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: プライバシー
 created: "2026-10-10T21:52:28-04:00"
-updated: "2026-11-08T13:17:17-05:00"
+updated: "2026-11-19T06:40:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-11-08T13:09:43-05:00"
+source_updated: "2026-11-18T10:35:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ ai_assist:
 - **能力と権限は別々に失敗する。** 学習者データ保護のためのHypothesis and Theoryフレームワークは、対照的な2つの失敗を挙げる。プライバシー問題を認識していながら対処する権限や承認された代替手段を欠く教師と、保護されたサービスを提供している一方で教師が不要な情報を開示したり裏づけのない推論を受け入れたりする機関である（[[kaziya-learner-data-privacy-governance-2026|Kaziya & Lungu (2026)]]）。これは学習者データを収集・送信・推論・開示する個々の決定を分析単位とし、実証された能力と機関による実行支援を別々に測定する。
 
 ## 子どもの安全とK-12の保護
+
+[[k-12]]環境では、学習者が未成年であるため、より強力なプライバシー保護が求められる。これはプライバシーをデータ保護を超えて[[pedagogical-safety|教育上の安全]]へと拡張するものであり、子どもが使うツールは、単にデータを保護するだけでなく、子ども自身を危害から守らなければならない。[[child-safety-genai|子どもの安全に関する研究]]は、汎用の安全性分類器が子どもによる教育関連の不安全なプロンプトを検出できない場合が多いことを示し、学校は標準的なモデルの安全対策が年少の利用者を守ると想定してはならないと警告している。必要なのは、子どもに特化した評価、実際の事例に基づくテスト、そして[[human-in-the-loop-ai|人間による監督]]である。この枠組みはプライバシーを[[equity-in-ai-education|公平性]]と結びつける。既定の安全性およびプライバシーの実践によって誰が保護されるかは、システムが誰の安全と自律性を譲れないものとして扱っているかを反映している。
 
 - **年齢のしきい値は契約ではなく法令によって定まる。** 利用規約に「13歳以上」と記載されている製品でも、それによってCOPPAの適用を免れるわけではない。サービスが児童を対象としている場合、または提供者が利用者が13歳未満であることを実際に認識している場合に規則が適用されるため、年齢スクリーニングとデータ最小化はベンダーの文言ではなく導入時の契約条件に盛り込むべきである。GDPR第8条および第12条では、検証可能な親の同意に関する同等の下限は一般に16歳であり、年齢に応じた通知が求められる([[stefanile-middle-secondary-ai-guidance-2026|Stefanile, 2026]])。
 
