@@ -35,9 +35,9 @@ connected_articles: []
 ## Key Findings
 
 1. **Four cues form a shared core.** Novelty, resolution, aesthetics and affect positively predicted perceived creativity in both the Chinese and the U.S. samples.
-2. **The core is weighted differently across contexts.** Chinese teachers gave more weight to diversity (path difference +0.379), transferability (+0.327) and resolution (+0.353); U.S. teachers gave more weight to inspiration (−0.639), affect (−0.327) and novelty (−0.222).
+2. **The core is weighted differently across contexts.** Chinese teachers gave more weight to diversity, transferability and resolution; U.S. teachers gave more weight to inspiration, affect and novelty.
 3. **Two extended cues split by sample.** Diversity and transferability were significant predictors in China but not in the U.S.; inspiration was significant in the U.S. but not in China. Synthesis was non-significant in both.
-4. **The model explained a lot of the judgment.** R² for perceived creativity was 0.786 in the Chinese sample and 0.695 in the U.S. sample, with full measurement invariance (MICOM) supporting the comparison.
+4. **The model explained most of the judgment.** Perceived creativity was largely explained in both samples, and full measurement invariance supported the cross-group comparison.
 5. **Judging the artifact is not attributing the creativity.** The authors argue assessment should combine product criteria with process evidence — prompts, revision decisions, reflective rationales — so a polished artifact is not mistaken for proof of student creative contribution.
 
 ## Study 1: how teachers talked about creativity
@@ -58,6 +58,17 @@ The between-group differences are the paper's main comparative finding. Chinese 
 
 The practical contribution is a distinction the earlier AI-assessment literature often blurs: judging **the artifact** is not the same as judging **the student's creativity**, and the two can diverge sharply when the artifact is made with GenAI. The authors recommend pairing product-level creativity criteria with process evidence of student contribution — the prompts a student wrote, the revisions they made, the rationale they gave for accepting or rejecting a suggestion. This aligns with the shift in the wider literature from output to [[process-oriented-assessment|process-oriented]] and [[evaluative-judgment|evaluative-judgment]] designs. The cross-cultural result adds a second caution: a rubric tuned to one population's weighting of novelty or inspiration may not transfer cleanly to another, so assessment criteria deserve the same context check as the studies they are meant to judge.
 
-## Limits
+## What this means for practice
+
+- **Instructors.** Judge the artifact and the student's contribution separately; ask for prompts, revision histories or a short reflective rationale so a polished output is not read as proof of creativity.
+- **Assessment designers.** Pair product-level creativity criteria with process evidence, and re-check a rubric's cue weighting before applying it across student populations.
+- **Program leaders.** Do not assume a rubric tuned in one context transfers cleanly; the same cues carried different weight across the two samples.
+- **Researchers.** Treat two-country differences as context-associated until a design can separate culture from recruitment platform, discipline and tool use.
+
+## Limitations
 
 The survey is cross-sectional and correlational: the pathway model describes how cues associate with perceived creativity, not that the cues cause it. The samples are convenience panels (Sojump, MTurk) of teachers who self-selected into GenAI-related teaching, and the two-country design cannot separate culture from platform, discipline or tool use — a point the authors state rather than paper over. The paper is a journal pre-proof, so the typeset version of record may differ in detail. And the model judges teachers' *perceptions* of creativity; it does not test whether those perceptions match independent expert ratings or predict later student outcomes.
+
+## Citation
+
+Zhang, L., Liang, G., Yuan, Y., Fang, C., Wu, Y., Wang, S. J., & Luo, S. (2026). How teachers judge creativity in generative AI-assisted student work: A cross-cultural pathway model for higher education assessment. *Computers and Education: Artificial Intelligence, 100694*. https://doi.org/10.1016/j.caeai.2026.100694

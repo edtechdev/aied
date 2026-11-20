@@ -30,7 +30,7 @@ connected_concepts: [learning-design, cognitive-offloading, universal-design-for
 connected_articles: []
 ---
 
-> **Synthesis:** Bubnys, Butvilas, Colomer and Cañabate read 49 scholarly and policy sources and argue that "sustainable" educational technology has been reduced to a claim about access and efficiency, when sustainability should also mean learning that lasts, inclusion, rights, institutional feasibility and proportionate use of resources. From that synthesis they propose **SAREL** (Sustainable AI-Supported Reflective Education and Learning), a five-stage design-and-audit loop — Specify, Allocate, Require, Evaluate, Loop — for [[learning-design|designing]] [[generative-ai|GenAI]]-supported [[reflection|reflective]] work in higher education. The framework's contribution is integrative: it connects existing concerns about [[cognitive-offloading|keeping reflection as learner work]], [[universal-design-for-learning|accessibility and agency]], governance and workload, and resource intensity into one task-level sequence. The authors are explicit that SAREL, its rubric and its "sustainability-adjusted learning value" construct are provisional and have not been empirically validated, so the review is a design argument rather than a test of one.
+> **Synthesis:** Bubnys, Butvilas, Colomer and Cañabate read 49 scholarly and policy sources and argue that "sustainable" educational technology has been reduced to a claim about access and efficiency, when [[sustainability|sustainability]] should also mean learning that lasts, inclusion, rights, institutional feasibility and proportionate use of resources. From that synthesis they propose **SAREL** (Sustainable AI-Supported Reflective Education and Learning), a five-stage design-and-audit loop — Specify, Allocate, Require, Evaluate, Loop — for [[learning-design|designing]] [[generative-ai|GenAI]]-supported [[reflection|reflective]] work in higher education. The framework's contribution is integrative: it connects existing concerns about [[cognitive-offloading|keeping reflection as learner work]], [[universal-design-for-learning|accessibility and agency]], governance and workload, and resource intensity into one task-level sequence. The authors are explicit that SAREL, its rubric and its "sustainability-adjusted learning value" construct are provisional and have not been empirically validated, so the review is a design argument rather than a test of one.
 
 ## Key Findings
 
@@ -72,6 +72,17 @@ The five stages are an author proposal, not an empirically derived model:
 
 A companion table maps five evidence domains — pedagogical, agency and inclusion, ethics and rights, institutional, and environmental/economic — to illustrative indicators: initial-to-final reasoning change and delayed retention for learning; participation gaps and learner control for inclusion; task-level disclosure and appeal routes for rights; total workload and fallback plans for institutional viability; query/model intensity and lower-tech comparators for resource use. The authors frame the goal as **capability after assistance**: a sustainable intervention should leave learners better able to judge, reflect and act when the tool is unavailable.
 
-## What the review does not establish
+## What this means for practice
+
+- **Instructors.** Before adding an AI step to a reflective task, name the reflective capability you want and a non-AI alternative it must beat; have students commit an initial account and document the change.
+- **Instructional designers.** Build the equivalent non-AI route and accessible formats in from the start, and treat rights, learner choice and essential accessibility as prerequisites rather than scores that strong performance elsewhere can offset.
+- **Faculty developers.** Prepare staff to check what AI-supported reflection actually produces — retention, transfer, evidence-checking and calibrated reliance — not just whether the task was completed.
+- **Administrators.** Count the hidden workload (prompt design, output checking, exception handling, procurement, training) and the resource intensity alongside verified learning value before scaling.
+
+## Limitations
 
 The paper is candid about its limits. It is a concept-driven integrative review, not an exhaustive or reproducible systematic review; the purposive selection of 49 sources may carry selection bias, and the screening counts, database queries and inter-coder reliability are not documented well enough for replication. The stated source-type proportions are retrospective classifications, not quality appraisals, and the synthesis is not a weighted meta-analysis of outcomes. Neither SAREL nor its provisional rubric nor the sustainability-adjusted learning value construct has been validated. The authors propose a phased validation program — expert content assessment, feasibility pilots with inter-rater agreement, comparative longitudinal and mixed-method tests, and independent replication — and list candidate measures from immediate and delayed performance to calibrated AI reliance, participation equity, workload and estimated resource intensity. Until then, the framework is a way to frame the right questions, not evidence that answering them this way improves learning.
+
+## Citation
+
+Bubnys, R., Butvilas, T., Colomer, J., & Cañabate, D. (2026). Sustainable AI-supported reflective learning in higher education: An integrative review and the SAREL design framework. *Sustainability, 18*(22), 11812. https://doi.org/10.3390/su182211812

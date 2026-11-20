@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-16T05:36:00-05:00"
+updated: "2026-11-20T09:20:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
