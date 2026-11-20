@@ -31,8 +31,8 @@ ai_assist:
 - **Three profiles fit best, not a continuum.** The retained solution put 41.1% in low dependence–low procrastination, 25.8% in high dependence–high procrastination, and 33.0% in functional and cognitive reliance with low procrastination.
 - **A third used AI heavily without procrastinating.** Class 3's emotional dependence (3.10) and loss of control (2.88) sat near Class 1's (2.70 and 2.72), while its functional reliance (3.44) approached Class 2's (3.63).
 - **The co-occurring group carried the resource deficit.** Class 2 averaged 30.50 on positive acceptance against 43.30 for Class 1 and 40.98 for Class 3; striving showed the same ordering (38.58 against 57.43 and 55.18).
-- **Familiarity separated the two heavy-use groups.** Low rather than high AI familiarity predicted Class 2 membership over Class 3 (OR = 0.369), and Class 3 held the largest share of high-familiarity students at 42.9%.
-- **First-choice major tracked the functional profile.** Non-first-choice enrollment predicted Class 1 over Class 3 (OR = 0.471) and Class 2 over Class 3 (OR = 0.422); 77.7% of Class 3 was first-choice.
+- **Familiarity separated the two heavy-use groups.** Low rather than high AI familiarity predicted Class 2 membership over Class 3, and Class 3 held the largest share of high-familiarity students at 42.9%.
+- **First-choice major tracked the functional profile.** Non-first-choice enrollment predicted Class 1 over Class 3 and Class 2 over Class 3; 77.7% of Class 3 was first-choice.
 - **Frequency alone did not sort risk.** Among Class 2 students, 20.4% used AI seldom, the highest such share of any profile, while 54.0% used it always, so the frequency-risk relationship was not monotonic.
 
 ## Three subgroups, not a severity ladder

@@ -1,6 +1,6 @@
 ---
 title: "How Teachers Judge Creativity in Generative AI-Assisted Student Work: A Cross-Cultural Pathway Model for Higher Education Assessment"
-created: "2026-11-20T08:52:00-05:00"
+created: "2026-11-20T08:50:00-05:00"
 updated: "2026-11-20T08:52:00-05:00"
 type: article
 published: "2026"

@@ -31,8 +31,8 @@ ai_assist:
 - **Explicit rules drove the gain, not model capability.** The same GPT-5 configuration raised absolute agreement from ICC(2,1) = 0.818 to 0.928 after the rubric and prompt were rewritten; scripts were unchanged.
 - **Bias and case-level scatter both fell.** The mean AI-educator difference narrowed from +1.625 to +1.041 marks, and the SD of the 40 paired differences contracted from 6.531 to 4.368 marks.
 - **Large errors disappeared.** Four pre-calibration reports exceeded a 10-mark gap (EC02 at −18, EC10 and EC12 at +16, EC16 at +18); afterwards none did, the largest gap 8 marks.
-- **Rank ordering tightened too.** Spearman's ρ rose from 0.789 to 0.902 and Pearson's r from 0.838 to 0.931, so the model reproduced the educator's ordering, not only mark levels.
-- **Proportional bias resolved.** Differences correlated with score level before calibration (r = −0.337, p = 0.033) but not after (r = −0.152, p = 0.350), matching the convergence in dispersion.
+- **Rank ordering tightened too.** The model reproduced the educator's ordering, not only mark levels.
+- **Proportional bias resolved.** Differences correlated with score level before calibration but not after, matching the convergence in dispersion.
 - **Penalties were quantified.** Calculation errors drew −20% to −40%, incorrect formulas at least −50%, missing components zero marks, and comparative claims without numerical support were capped at ≤40%.
 
 ## What the pre-calibration run revealed

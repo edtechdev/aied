@@ -28,10 +28,10 @@ ai_assist:
 
 ## Key Findings
 
-- **The Supportive role produced the highest adjusted AI literacy.** Adjusted posttest overall AI literacy was significantly higher under Supportive than under General LLM, *F*(3, 174) = 2.76, *p* = 0.044, η² = 0.05.
-- **Unguided use subtracted ethics rather than adding it.** In the General LLM class, [[ethics|AI ethics]] was the only dimension to fall from pretest to posttest, *t*(40) = −2.28, *p* = 0.028, *d* = −0.36.
-- **Evaluation split the role conditions.** On adjusted AI evaluation, both the General and the Challenging conditions scored below Supportive, *F*(3, 174) = 3.50, *p* = 0.017, η² = 0.06.
-- **Load followed each role's demands.** Mental load ran 2.40 under General and 2.37 under Challenging against 1.99 under Supportive and 2.00 with no LLM, *F*(3, 186) = 8.13, *p* < 0.001, η² = 0.12.
+- **The Supportive role produced the highest adjusted AI literacy.** Adjusted posttest overall AI literacy was significantly higher under Supportive than under General LLM.
+- **Unguided use subtracted ethics rather than adding it.** In the General LLM class, [[ethics|AI ethics]] was the only dimension to fall from pretest to posttest.
+- **Evaluation split the role conditions.** On adjusted AI evaluation, both the General and the Challenging conditions scored below Supportive.
+- **Load followed each role's demands.** Mental load ran 2.40 under General and 2.37 under Challenging against 1.99 under Supportive and 2.00 with no LLM.
 - **The Challenging role roughly doubled integration density.** Integration codes reached 33.80% of messages under Challenging, approximately 1.6 to 1.9 times the per-message density of the other three conditions.
 - **Facilitation moved the same way.** Facilitating Discourse rose from 1.32% of messages with no LLM to 15.37% under Challenging, and teaching presence totaled 30.33% there against 14.43% without a model.
 - **Support broadened the talk without connecting it.** The Supportive network showed more TE → EX and EX self-transitions, while Challenging showed more OC → IN → FD sequences produced largely by the operator.
