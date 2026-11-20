@@ -88,7 +88,7 @@ Um trabalho sustentado de fronteira, e não a habilidade com a ferramenta, é o 
 
 - **Agir, saber e responder não são a mesma coisa.** Uma análise de discurso assistida por corpus de 366 resumos de [[generative-ai|GenAI]] no ensino superior nomeia a IA como ator 2.050 vezes sem nunca torná-la responsabilizável, enquanto a responsabilidade por julgar resultados e verificar afirmações é colocada sobre os estudantes: ativação gramatical, agência funcional, autoridade epistêmica e responsabilidade normativa se separam ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026)]]).
 
-- **A autonomia tem três modos, e o terceiro é o que a política fornece.** Com apenas 18% dos professores e 24% dos diretores relatando uma política escolar de IA, a maioria dos educadores exerce autonomia individual sem nenhuma autonomia por procuração agindo em seu nome — o terceiro modo de Bandura, fornecido por regras institucionais ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
+- **A autonomia tem três modos, e o terceiro é o que a política fornece.** Com apenas 18% dos professores e 24% dos diretores relatando uma [[educational-policy-ai|política escolar de IA]], a maioria dos educadores exerce autonomia individual sem nenhuma autonomia por procuração agindo em seu nome — o terceiro modo de Bandura, fornecido por regras institucionais ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
 
 ## A autonomia como fenômeno emergente e interacional
 
