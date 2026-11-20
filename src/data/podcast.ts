@@ -90,6 +90,7 @@ export const NEWSLETTER_AUDIO: Record<string, NewsletterAudio> = {
   '2026-10-31': { file: 'aied-weekly-2026-10-31.mp3', duration: 1529, bytes: 18343959, kind: 'reading' },
   '2026-11-07': { file: 'aied-weekly-2026-11-07.mp3', duration: 1361, bytes: 16328350, kind: 'reading' },
   '2026-11-14': { file: 'aied-weekly-2026-11-14.mp3', duration: 1327, bytes: 15923348, kind: 'reading' },
+  '2026-11-21': { file: 'aied-weekly-2026-11-21.mp3', duration: 1023, bytes: 12276445, kind: 'reading' },
 };
 
 export function newsletterAudioUrl(file: string): string {
