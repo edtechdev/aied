@@ -1,8 +1,9 @@
 ---
 title: "How Should I Incorporate AI Literacy into My Course?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-20T07:39:42-05:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
+connected_podcasts: [friction-is-your-friend]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
