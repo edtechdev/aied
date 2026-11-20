@@ -153,6 +153,11 @@ def added_lines(slug: str) -> list[str]:
         if l.startswith('-') and not l.startswith('---'):
             removed.append(_render_form(l[1:]))
         elif l.startswith('+') and not l.startswith('+++'):
+            # Frontmatter is machine-readable metadata, not prose. Adding a slug to
+            # `connected_articles:` rewrites one long YAML line, which this gate
+            # otherwise charges as a new 75-word sentence. Skip frontmatter keys.
+            if re.match(r'^[a-z][a-z0-9_]*:\s', l[1:]) or l[1:] == '---':
+                continue
             added.append(l[1:])
     # Consume a prior line for each addition that merely retargeted a link.
     pool = list(removed)
