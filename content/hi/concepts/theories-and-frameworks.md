@@ -1,7 +1,7 @@
 ---
 title: सिद्धांत और ढाँचे
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-07T18:51:24-05:00"
+updated: "2026-11-20T04:25:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 
 - **[[tpack|TPACK]]** — वह शिक्षक ज्ञान जो प्रौद्योगिकी, पढ़ाई और विषय-वस्तु को मिश्रित करता है; शिक्षक-उन्मुख AI अध्ययनों का डिफ़ॉल्ट ढाँचा।
 - **[[technology-acceptance-model|स्वीकृति मॉडल]]** — इरादा अनुभूत उपयोगिता और उपयोग में सरलता का फलन। इतना व्यापक रूप से उपयोग किया जाता है कि व्यवहार के बजाय इरादे पर क्षेत्र का निर्भरता एक स्थायी आलोचना बन गया है।
+- **अपेक्षा-पुष्टि मॉडल (ECM)** — संतुष्टि पूर्व अपेक्षाओं की पुष्टि के रूप में, जिसमें परिणाम प्रारंभिक अपनाना नहीं बल्कि निरंतर उपयोग है। 24 स्नातक छात्रों के साथ समाजशास्त्र विधियों के एक-सेमेस्टर पायलट में, 87% ने Copilot को अच्छा या उत्कृष्ट आँका और 91% इसकी सिफ़ारिश करते, पर केवल 57% इसे आगे भी उपयोग करने का इरादा रखते थे ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]])। यही अंतराल मॉडल का मुख्य बिंदु है: संतुष्ट उपयोगकर्ता भी लौटने से इनकार कर सकता है, इसलिए संतुष्टि और निरंतरता के अलग-अलग माप चाहिए।
 - **[[icap-framework|ICAP]]** — संलग्नता को निष्क्रिय, सक्रिय, रचनात्मक, अंतरक्रियात्मक के रूप में क्रमबद्ध करता है; यह पूछने में उपयोगी कि किसी [[student-ai-interaction|AI अंतरक्रिया]] वास्तव में कौन-सा मोद संभव बनाती है।
 - **[[samr-model|SAMR]]** — प्रतिस्थापन से पुनर्परिभाषा तक। एक परिपक्वता कथा के रूप में लोकप्रिय, मापन उपकरण के रूप में कमज़ोर।
 - **[[universal-design-for-learning|सार्वभौमिक डिज़ाइन फ़ॉर लर्निंग]]**, **[[inclusive-learning|समावेशी सीखना]]**, और **[[accessibility|सुगम्यता]]** — डिज़ाइन ढाँचे यह तय करने के लिए कि कौन सेवा पाता है, और विकलांगता तथा [[equity-in-ai-education|समानता]] के काम में सर्वाधिक उल्लिखित।
