@@ -1,8 +1,9 @@
 ---
 title: "How Do I Keep Students from Over-Relying on AI?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-20T07:49:27-05:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
+connected_podcasts: [design-dont-detect]
 weight: 80
 type: faq
 foundations: [cognitive-offloading, reducing-ai-misuse]
