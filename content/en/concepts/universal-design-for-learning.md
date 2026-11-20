@@ -11,7 +11,7 @@ level: [special education]
 confidence: high
 reviewed_by: [editor]
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 > **Universal Design for Learning (UDL)** — an educational framework that designs instruction to be accessible and effective for the widest range of learners by proactively building in flexible means of [[student-engagement|engagement]], representation, and action/expression, rather than retrofitting accommodations for individuals.
@@ -76,6 +76,8 @@ Choice only includes when the options look equally credible. Students in one Fac
 - Guard against AI that assumes one communication style or penalizes neurodivergent expression — connect to [[accessibility|accessibility]], [[equity-in-ai-education|equity]], and [[neurodiversity|neurodiversity]].
 
 - **Target functional barriers, not diagnoses.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] found the 40-study corpus of assistive technologies for neurodivergent students organized around accommodation and diagnosis-gated tools, and argue that designing to the cross-cutting barriers students actually face is what makes a tool plausibly universal.
+
+**Equivalence without sameness.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] extend the UDL menu into AI-supported reflective work: students should have comparable pathways — text or audio reflection, AI-assisted or a non-AI route, synchronous human support, transparent criteria that do not reward technical fluency unrelated to the objective — and, crucially, applicable rights, meaningful learner choice and essential accessibility are non-compensatory prerequisites rather than scores a strong performance elsewhere can offset. The principle is "equivalence without sameness": different media or levels of automation may be used, but they must offer comparable opportunity to meet the same outcome, and inclusion must be designed in rather than treated as an after-the-fact accommodation.
 
 ## Common Misconceptions
 
