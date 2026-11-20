@@ -110,6 +110,10 @@ const toc = [{ text: 'Transcript', slug: 'transcript', depth: 2 }];
     )}
   </nav>
 
+  <p class="episode-ai-note">
+    This podcast was generated with <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">Gemini Notebook</a>, the AIEd notebook built from these pages.
+  </p>
+
   <SourceButtons filePath={`content/en/audio/${episode.id}`} locale="en" />
 </BaseLayout>
 
@@ -134,6 +138,11 @@ const toc = [{ text: 'Transcript', slug: 'transcript', depth: 2 }];
   .episode-download {
     font-size: 0.9rem;
     margin: -0.5rem 0 1.5rem;
+  }
+  .episode-ai-note {
+    margin-top: 2rem;
+    font-size: 0.85rem;
+    color: var(--muted-color);
   }
   .transcript-note {
     color: var(--muted-color);
