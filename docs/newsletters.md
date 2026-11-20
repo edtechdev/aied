@@ -228,6 +228,34 @@ For a new locale, the pieces are: the `newsletterTranslations` collection, the g
 translated issue's follow section. The `newsletter-localization` and `newsletter-localized-feed`
 skills carry the field names, filters, and verification steps.
 
+## The audio reading
+
+Every issue ships with a single-narrator reading, attached to its own page and to the podcast feed.
+One entry in `src/data/podcast.ts` drives all three surfaces:
+
+```ts
+NEWSLETTER_AUDIO = {
+  '2026-11-21': { file: 'aied-weekly-2026-11-21.mp3', duration: 1023, bytes: 12276445, kind: 'reading' },
+}
+```
+
+The issue page renders its player from that entry, `/audio/` lists the reading among the episodes,
+and `src/pages/audio/rss.xml.ts` emits a `bonus` item dated to the issue's `created` timestamp and
+linking back to the issue. Nothing else needs editing: a reading that is missing from the registry
+is invisible on all three, however good the mp3 is.
+
+The file is published as `aied-weekly-<issue date>.mp3` on the `audio-latest` release, mono at
+96 kbps. `duration` is the measured length in whole seconds and `bytes` is the file's exact size,
+because the feed's enclosure length has to match the asset byte for byte or podcast clients reject
+the item.
+
+Read the issue's prose, not its furniture: skip the contents list, the audio and video table, the
+"also added this week" list and the follow section, and speak each heading as a sentence. Measure
+the result rather than assuming it: a chunk that comes back truncated still decodes, so check each
+one's words per minute before joining and re-synthesise anything far above 200, and confirm the
+finished duration against the sum of the parts. Long synthesis requests are the ones that fail
+outright, so keep them near 900 characters and split long paragraphs at sentence boundaries.
+
 ## Preview before publishing
 
 Render the issue on its own rather than rebuilding the site to look at it:

@@ -1,12 +1,12 @@
 # OpenAlex API mechanics that bite a discovery scan
 
 Distilled from measuring a real scan against hand-picked items. All examples assume a key in
-`~/.hermes/openalex.key`; the key travels in an `Authorization: Bearer` header, never in the URL.
+`<AGENT>/openalex.key`; the key travels in an `Authorization: Bearer` header, never in the URL.
 
 ## Request shape
 
 ```bash
-K=$(cat ~/.hermes/openalex.key)
+K=$(cat <AGENT>/openalex.key)
 curl -s -G -H "Authorization: Bearer $K" https://api.openalex.org/works \
   --data-urlencode "filter=is_oa:true,from_publication_date:2026-10-17,to_publication_date:2026-10-31" \
   --data-urlencode "select=doi,title,publication_date,type,open_access,best_oa_location,primary_location,abstract_inverted_index,primary_topic,topics" \

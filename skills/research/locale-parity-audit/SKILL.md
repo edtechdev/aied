@@ -81,8 +81,9 @@ cluster of them on one page is a silent rewrite and needs reading.
 
 ## Pitfalls
 
-- **Bumping stamps is not refresh.** It makes the staleness gate green and the parity gate is the only thing
-  that notices.
+- **Bumping stamps is not refresh.** It makes the staleness gate green and the parity gate is the only thing that notices.
+- **A missing bullet's link targets can already be balanced elsewhere in the twin.** When English moves a passage (e.g. lede prose becomes a bullet in a later section), the twin may still carry the old passage, so the multiset matches while the section shape does not. Inserting the new bullet without deleting the obsolete passage flips the defect to EXTRA links. Before porting a bullet whose targets are absent from `missing_links`, grep the twin for those targets and remove the outdated passage English dropped.
+- **A dispatch bucket can over-report deltas.** English Connected Articles sometimes concatenates two bullets on one line, and a bucket built from it lists entries the translation already carries. Port only what the gate's missing-link multiset and entry counts actually require; never duplicate an entry to satisfy the bucket.
 - **A structural sweep in English makes every translated twin stale at once** — queue the locale refresh in
   the same piece of work or say plainly that it is queued, rather than leaving 150 stale pages unmentioned.
 - **One missing page is a full translation, not a stub:** a thin page satisfies no gate and reads as an

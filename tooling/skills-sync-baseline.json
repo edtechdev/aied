@@ -1,1 +1,34 @@
-{}
+{
+  "tooling/scripts/check-concept-first-mentions.py": {
+    "installed": "1ca3b779ebbcd04d",
+    "repo": "43e2512d0ac5b9f5"
+  },
+  "tooling/scripts/check-concept-integration.py": {
+    "installed": "d7a55a69ccbf2512",
+    "repo": "859eb442155f568b"
+  },
+  "tooling/scripts/check-concept-prose.py": {
+    "installed": "ee3e5f481b1a0112",
+    "repo": "e43b6aabe274be06"
+  },
+  "tooling/scripts/check-concept-screen.py": {
+    "installed": "7445274fd688caf0",
+    "repo": "8204b165891a82c2"
+  },
+  "tooling/scripts/check-self-reference.py": {
+    "installed": "e7a9b001ff54810c",
+    "repo": "6c0ca3668081133e"
+  },
+  "tooling/scripts/check-summary-plain-language.py": {
+    "installed": "022a6f23c97f368f",
+    "repo": "5be56fed223ea525"
+  },
+  "tooling/scripts/check-translated-headings.py": {
+    "installed": "b2061fe47bc4b834",
+    "repo": "9edfe2a838929911"
+  },
+  "tooling/scripts/check-translation-parity.py": {
+    "installed": "ee3ec9c48bff9c08",
+    "repo": "ad5658af868e6318"
+  }
+}

@@ -1,7 +1,7 @@
 ---
 name: newsletter-issue-drafting
 description: "Use when drafting a periodic newsletter from a corpus."
-version: 1.0.0
+version: 1.1.0
 author: AI agent
 license: MIT
 category: research
@@ -68,6 +68,20 @@ Fix the window (the seven days ending on the issue date) and count both sides of
 - Twenty to twenty-five items get two to three sentences each; the rest get one compact linked list
   plus a link to the day-by-day listing page. An issue that lists everything is a table of contents,
   not a newsletter.
+- **Audience sections carry three items each.** For instructors, For developers, For researchers and For
+  administrators each take a current study with a takeaway paragraph and a closing related link. Two per
+  section reads thin beside the four audience groups; four turns the issue into a second tail.
+- **The tail list is 40 to 50 entries, then a link to the journal page.** Recent issues list about
+  forty-five and close with "The [journal page](https://edtechdev.github.io/aied/journal/) lists every
+  study added this week." A tail of 120 reads as a dump; completeness belongs on the journal page. Choose
+  what survives by substance (reviews, frameworks, validation studies, large samples) and keep the
+  spread across levels and disciplines.
+- **Every audience summary ends with a related link.** The last line of each `###` item is
+  `See related: [Title](…/faqs/<slug>/)`, or a concept page when no FAQ fits. Within one section, no two
+  items point at the same target. Match on the FAQ's opening scenario, not its title: read the first
+  paragraph of that page before committing to the pairing. A survey replication does not belong beside
+  the anxiety page, and a validation critique belongs beside the "is it working" page, not the methods page. Read the previous issue's closing lines before writing; this is the
+  step most often skipped when drafting from section shapes alone.
 - Order items by news value, not by ingest date, and lead the issue with the strongest implication.
 - Follow the opening with a short run of teaser questions ("Does the tutor that lifts the homework
   also lift the exam?"), each linked to the paper that bears on it and each trailed by a half-clause
@@ -75,6 +89,11 @@ Fix the window (the seven days ending on the issue date) and count both sides of
   question the issue never answers is a broken promise.
 - Put the reader-facing research first and the internal notes last, under their own headings
   (translations, copy, tooling, running counts). The user asked for that split; keep it in every issue.
+- **Site notes are for changes a reader can see, then a link to the history.** Two or three paragraphs:
+  concept restructuring, new media on the pages, a change in how something is presented. Table-of-contents
+  ordering, export rebuilds, release plumbing and dependency bumps are trivial to a reader, so end the
+  section with "The [commit history](https://github.com/edtechdev/aied/commits/main) records every update."
+  instead of listing them.
 - A launch issue (#0) may replace the weekly structure with a site introduction: why the site exists,
   how it is organized, where to start by role, questions it already answers, search/chat/offline, the
   available languages, and what comes next. Say so once and do not reuse the shape for a weekly issue.
@@ -124,7 +143,18 @@ The issue is read as a browsing surface, so every feature has to be reachable wi
 - Then link the concept terms the sentence is actually about, because that is what the article pages
   themselves do: `cognitive offloading` on "leaning on it", `self-report measures` on "survey",
   `assessment validity` on "observability", `teacher AI competency` on "professional development gap".
-  Twenty to thirty concept links across an issue is about right.
+- **Link every substantive mention, not just the first.** A concept named again in a later sentence or a
+  later section gets its own link, because readers dip into sections instead of reading straight through.
+  The one brake: never repeat the same target twice inside a single `###` summary block. One link per
+  target per section, plain text after that.
+- **Link concept terms inside resource blurbs too.** "[Primer](…) lets a teacher describe a role-play or
+  [simulation](…) in plain language" is the house pattern; the entry's own page link does not excuse
+  the concept link.
+- **Sweep for plain-text concepts mechanically.** Strip existing links from the prose, then match every
+  concept `title` against what remains. Title matching alone misses inflections and compounds, so read
+  the contexts: `student engagement`, `trust`, `governance`, `AI policy`, `benchmark`, `assessment` and
+  `generative AI` were all missed by eye. Skip genuine non-concept uses (a sample count of "16,357
+  learners", "psychology teaching", the role list in the masthead).
 - Never nest links: a concept link inside a linked heading produces `[a [b](c)](d)` and the renderer
   emits broken markup. Link the heading plainly and move the concept link into the body.
 - Teaser questions in the intro each link to the paper they name.
@@ -141,11 +171,21 @@ minutes, which breaks the standing preview the user is watching, and the draft i
        python3 <this skill>/scripts/render-newsletter-preview.py content/en/newsletters/2026-10-23.md \
          --outdir <AGENT>/cache/scratch/newsletter-preview
 
-2. Serve it on a **second** port with `terminal(background=True)` (a server never exits, so an un-notified
-   background job is correct here), for example `python3 -m http.server 4322 --bind 0.0.0.0 --directory <outdir>`.
+2. **Publish into the standing preview service; do not start a second server.** On this machine
+   `hermes-newsletter-preview.service` already serves `<AGENT>/newsletter-preview` on port
+   4322 and restarts itself, so killing the process does not free the port and a second `http.server`
+   silently loses the race. Render to a scratch dir, keep the previous issue as `index-<date>.html`, copy
+   the render over `<AGENT>/newsletter-preview/index.html`, then curl the port and grep for a
+   heading or link you just added to prove the copy landed.
 3. Health-check before reporting: curl the loopback and the LAN/Tailscale address, expect 200 and the byte
    count, and confirm the heading count. Give the user the **IP-form** URL (`http://<tailscale-ip>:4322/`),
    never the MagicDNS hostname, which they do not read as a link.
+
+**Tables.** The site's global CSS already gives every cell a 1px border but sets no `vertical-align`, so
+long rows centre their text. Keep the site (`BaseLayout.astro`, the `th, td` rule) and the preview
+renderer in step: `vertical-align: top`, 1px borders, a header background, faint zebra striping, and a
+slightly smaller font inside the table. GFM tables cannot set column widths, so the browser splits them
+by content; mention that rather than fighting it.
 
 ## Verify the links before delivering
 
@@ -175,3 +215,9 @@ plain dateline, a tail list too dense for an email client) rather than asking wh
 - **Letting the tail list repeat the features.** The compact list exists for everything that did not earn
   a paragraph; overlapping entries make the issue look padded.
 - **Trusting the rendered page before the link audit.** Rendering succeeds on every broken slug.
+- **Regex-replacing counts.** A pattern like `\d+ studies` also matches findings ("a synthesis of 31
+  studies", "a review of 89 studies from 2015 to 2026") and silently rewrites them. Change a count by
+  editing the one sentence that carries it, then grep the numbers you touched.
+- **Writing the tail before the features.** Promote studies into the audience sections first, then build
+  the tail from what is left, or the same article appears twice and the journal link lands on a list
+  that already repeated the issue.

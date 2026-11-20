@@ -45,6 +45,10 @@ h3 a{color:var(--accent)}
 a{color:var(--accent);text-decoration:none}
 a:hover{text-decoration:underline}
 p{margin:.5rem 0 .9rem}
+table{width:100%;border-collapse:collapse;margin:1.2rem 0;font-size:.92rem;line-height:1.5}
+th,td{padding:.55rem .7rem;border:1px solid var(--border);text-align:left;vertical-align:top}
+th{background:var(--panel);font-weight:600;color:#fff}
+tbody tr:nth-child(even){background:rgba(255,255,255,.02)}
 blockquote{margin:1.1rem 0 1.4rem;padding:.85rem 1.1rem;background:var(--panel);border-left:3px solid var(--accent);border-radius:0 6px 6px 0;font-size:1rem}
 blockquote p{margin:0}
 blockquote p+p{margin-top:.6rem}
