@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-16T09:58:00-05:00"
+updated: "2026-11-20T07:28:37-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -10,6 +10,7 @@ research_method: [literature review]
 page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
+connected_podcasts: [clapping-for-the-car]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 reviewed_by: [editor]
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
